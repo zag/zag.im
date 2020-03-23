@@ -1,7 +1,7 @@
-=begin pod
+=begin pod  :pubdate('2012-07-26 10:00:00') :tags<pod6 perl6 pod perl> :type('page') :publishUrl('/pages/about')
 =NAME Несколько слов о сайте
 
-=begin DESCRIPTION :pubdate('2012-07-26 10:00:00') :tags<pod6 perl6 pod perl> :type('page') :publishUrl('/pages/about')
+=begin DESCRIPTION
 
 Краткая информация о сайте
 
