@@ -1,0 +1,97 @@
+=begin pod :pubdate('2011-12-06T08:34:29Z') :type<note> :tags<github>
+=NAME На coderwall.com раздают медали #github. Верблюды похоже кончились.
+
+=begin DESCRIPTION
+
+На coderwall.com раздают медали #github. Верблюды похоже кончились. - L<link|http://coderwall.com/zahatski>
+=for Image :width(175) :link('http://coderwall.com/zahatski') :height(175) :preview
+media/84c0e84ef7c0691c88bf2ab98d84b7ee02907501.jpg
+=for Image :width(175) :link('http://coderwall.com/zahatski') :height(175) :preview
+media/671feef6e50bd7eb396b525143656265c51c04d4.jpg
+=for Image :width(175) :link('http://coderwall.com/zahatski') :height(175) :preview
+media/f4ec751d9521898e145f3dd6d135ac07fa6e572e.jpg
+
+=item "Have at least one original repo where perl is the dominant language"
+
+
+=end DESCRIPTION
+
+На coderwall.com раздают медали #github. Верблюды похоже кончились. - L<link|http://coderwall.com/zahatski>
+=for Image :width(175) :link('http://coderwall.com/zahatski') :height(175) :preview
+media/84c0e84ef7c0691c88bf2ab98d84b7ee02907501.jpg
+=for Image :width(175) :link('http://coderwall.com/zahatski') :height(175) :preview
+media/671feef6e50bd7eb396b525143656265c51c04d4.jpg
+=for Image :width(175) :link('http://coderwall.com/zahatski') :height(175) :preview
+media/f4ec751d9521898e145f3dd6d135ac07fa6e572e.jpg
+
+=item "Have at least one original repo where perl is the dominant language"
+
+
+=begin comment :src
+{
+  "via": {
+    "url": "http://friendfeed.com/share/bookmarklet",
+    "name": "Bookmarklet"
+  },
+  "from": {
+    "id": "zag",
+    "type": "user",
+    "name": "углы «Исимуры»"
+  },
+  "comments": [
+    {
+      "body": "&quot;Have at least one original repo where perl is the dominant language&quot;",
+      "via": {
+        "url": "http://friendfeed.com/share/bookmarklet",
+        "name": "Bookmarklet"
+      },
+      "id": "e/30d2c95eb3fe46f59857222bdf32d986/c/f3f066202e7346e7a7768f8c885629f3",
+      "date": "2011-12-06T08:34:29Z",
+      "from": {
+        "name": "углы «Исимуры»",
+        "id": "zag",
+        "type": "user"
+      },
+      "rawBody": "\"Have at least one original repo where perl is the dominant language\""
+    }
+  ],
+  "date": "2011-12-06T08:34:29Z",
+  "id": "e/30d2c95eb3fe46f59857222bdf32d986",
+  "rawBody": "На coderwall.com раздают медали #github. Верблюды похоже кончились.",
+  "thumbnails": [
+    {
+      "url": "http://m.friendfeed-media.com/84c0e84ef7c0691c88bf2ab98d84b7ee02907501",
+      "width": 175,
+      "height": 175,
+      "link": "http://coderwall.com/zahatski"
+    },
+    {
+      "url": "http://m.friendfeed-media.com/671feef6e50bd7eb396b525143656265c51c04d4",
+      "width": 175,
+      "height": 175,
+      "link": "http://coderwall.com/zahatski"
+    },
+    {
+      "height": 175,
+      "link": "http://coderwall.com/zahatski",
+      "width": 175,
+      "url": "http://m.friendfeed-media.com/f4ec751d9521898e145f3dd6d135ac07fa6e572e"
+    }
+  ],
+  "url": "http://friendfeed.com/zag/30d2c95e/coderwall-github",
+  "rawLink": "http://coderwall.com/zahatski",
+  "likes": [
+    {
+      "from": {
+        "name": "Ivan Bessarabov",
+        "id": "bessarabov",
+        "type": "user"
+      },
+      "date": "2011-12-06T08:40:36Z"
+    }
+  ],
+  "body": "На coderwall.com раздают медали <a href=\"http://friendfeed.com/search?q=%23github\">#github</a>. Верблюды похоже кончились. - <a rel=\"nofollow\" href=\"http://coderwall.com/zahatski\">http://coderwall.com/zahatski</a>"
+}
+=end comment
+
+=end pod

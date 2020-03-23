@@ -1,0 +1,67 @@
+=begin pod :pubdate('2011-04-13T07:16:55Z') :type<note> :tags<mysql>
+=NAME NoSQL to InnoDB with Memcached. #mysql
+
+=begin DESCRIPTION
+
+NoSQL to InnoDB with Memcached. #mysql - L<link|http://blogs.innodb.com/wp/2011/04/nosql-to-innodb-with-memcached/>
+=for Image :width(234) :link('http://blogs.innodb.com/wp/2011/04/nosql-to-innodb-with-memcached/') :height(175) :preview
+media/62721fdd1fcf35f34b243f009f276ea3e571e1a6.jpg
+
+=item "Direct access to InnoDB: bypassing SQL parser and optimizer"
+
+
+=end DESCRIPTION
+
+NoSQL to InnoDB with Memcached. #mysql - L<link|http://blogs.innodb.com/wp/2011/04/nosql-to-innodb-with-memcached/>
+=for Image :width(234) :link('http://blogs.innodb.com/wp/2011/04/nosql-to-innodb-with-memcached/') :height(175) :preview
+media/62721fdd1fcf35f34b243f009f276ea3e571e1a6.jpg
+
+=item "Direct access to InnoDB: bypassing SQL parser and optimizer"
+
+
+=begin comment :src
+{
+  "date": "2011-04-13T07:16:55Z",
+  "id": "e/8c3b0d84275243a98e84f5b4512e2d03",
+  "rawBody": "NoSQL to InnoDB with Memcached. #mysql",
+  "url": "http://friendfeed.com/zag/8c3b0d84/nosql-to-innodb-with-memcached-mysql",
+  "thumbnails": [
+    {
+      "width": 234,
+      "url": "http://m.friendfeed-media.com/62721fdd1fcf35f34b243f009f276ea3e571e1a6",
+      "height": 175,
+      "link": "http://blogs.innodb.com/wp/2011/04/nosql-to-innodb-with-memcached/"
+    }
+  ],
+  "body": "NoSQL to InnoDB with Memcached. <a href=\"http://friendfeed.com/search?q=%23mysql\">#mysql</a> - <a rel=\"nofollow\" href=\"http://blogs.innodb.com/wp/2011/04/nosql-to-innodb-with-memcached/\" title=\"http://blogs.innodb.com/wp/2011/04/nosql-to-innodb-with-memcached/\">http://blogs.innodb.com/wp...</a>",
+  "rawLink": "http://blogs.innodb.com/wp/2011/04/nosql-to-innodb-with-memcached/",
+  "via": {
+    "url": "http://friendfeed.com/share/bookmarklet",
+    "name": "Bookmarklet"
+  },
+  "from": {
+    "name": "углы «Исимуры»",
+    "type": "user",
+    "id": "zag"
+  },
+  "comments": [
+    {
+      "body": "&quot;Direct access to InnoDB: bypassing SQL parser and optimizer&quot;",
+      "from": {
+        "name": "углы «Исимуры»",
+        "type": "user",
+        "id": "zag"
+      },
+      "id": "e/8c3b0d84275243a98e84f5b4512e2d03/c/60aed049390f40a1a4d1bf0d1a0a8c56",
+      "date": "2011-04-13T07:16:55Z",
+      "rawBody": "\"Direct access to InnoDB: bypassing SQL parser and optimizer\"",
+      "via": {
+        "name": "Bookmarklet",
+        "url": "http://friendfeed.com/share/bookmarklet"
+      }
+    }
+  ]
+}
+=end comment
+
+=end pod

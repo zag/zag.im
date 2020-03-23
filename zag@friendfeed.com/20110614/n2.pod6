@@ -1,0 +1,48 @@
+=begin pod :pubdate('2011-06-14T10:12:19Z') :type<note> 
+=NAME 17 july
+
+=begin DESCRIPTION
+
+17 july - L<link|http://blogs.amctv.com/breaking-bad/2011/06/season-4-poster.php>
+=for Image :width(467) :link('http://blogs.amctv.com/breaking-bad/2011/06/season-4-poster.php') :height(175) :preview
+media/b5975ae5d817f000a21e343f5cd402eb1c856d0b.jpg
+
+
+
+=end DESCRIPTION
+
+17 july - L<link|http://blogs.amctv.com/breaking-bad/2011/06/season-4-poster.php>
+=for Image :width(467) :link('http://blogs.amctv.com/breaking-bad/2011/06/season-4-poster.php') :height(175) :preview
+media/b5975ae5d817f000a21e343f5cd402eb1c856d0b.jpg
+
+
+
+=begin comment :src
+{
+  "from": {
+    "type": "user",
+    "id": "zag",
+    "name": "углы «Исимуры»"
+  },
+  "via": {
+    "url": "http://friendfeed.com/share/bookmarklet",
+    "name": "Bookmarklet"
+  },
+  "id": "e/6e7b883ec6d84a20bfcd071223aeba0b",
+  "url": "http://friendfeed.com/zag/6e7b883e/17-july",
+  "date": "2011-06-14T10:12:19Z",
+  "rawBody": "17 july",
+  "thumbnails": [
+    {
+      "link": "http://blogs.amctv.com/breaking-bad/2011/06/season-4-poster.php",
+      "height": 175,
+      "url": "http://m.friendfeed-media.com/b5975ae5d817f000a21e343f5cd402eb1c856d0b",
+      "width": 467
+    }
+  ],
+  "body": "17 july - <a rel=\"nofollow\" href=\"http://blogs.amctv.com/breaking-bad/2011/06/season-4-poster.php\" title=\"http://blogs.amctv.com/breaking-bad/2011/06/season-4-poster.php\">http://blogs.amctv.com/breakin...</a>",
+  "rawLink": "http://blogs.amctv.com/breaking-bad/2011/06/season-4-poster.php"
+}
+=end comment
+
+=end pod

@@ -1,0 +1,55 @@
+=begin pod :pubdate('2010-09-15T11:00:52Z') :type<note> :tags<perl6>
+=NAME People of Perl 6: Moritz Lenz. #perl6
+
+=begin DESCRIPTION
+
+People of Perl 6: Moritz Lenz. #perl6 - L<link|http://www.perl.com/pub/2010/09/people-of-perl-6-moritz-lenz.html>
+
+=item What projects are missing in the world of Perl 6? Projects that encourage contributions from women.
+
+
+=end DESCRIPTION
+
+People of Perl 6: Moritz Lenz. #perl6 - L<link|http://www.perl.com/pub/2010/09/people-of-perl-6-moritz-lenz.html>
+
+=item What projects are missing in the world of Perl 6? Projects that encourage contributions from women.
+
+
+=begin comment :src
+{
+  "date": "2010-09-15T11:00:52Z",
+  "id": "e/60a6aab85a5547e59f58f17aa7d8547a",
+  "rawBody": "People of Perl 6: Moritz Lenz. #perl6",
+  "url": "http://friendfeed.com/zag/60a6aab8/people-of-perl-6-moritz-lenz-perl6",
+  "body": "People of Perl 6: Moritz Lenz. <a href=\"http://friendfeed.com/search?q=%23perl6\">#perl6</a> - <a rel=\"nofollow\" href=\"http://www.perl.com/pub/2010/09/people-of-perl-6-moritz-lenz.html\" title=\"http://www.perl.com/pub/2010/09/people-of-perl-6-moritz-lenz.html\">http://www.perl.com/pub...</a>",
+  "rawLink": "http://www.perl.com/pub/2010/09/people-of-perl-6-moritz-lenz.html",
+  "via": {
+    "name": "Bookmarklet",
+    "url": "http://friendfeed.com/share/bookmarklet"
+  },
+  "from": {
+    "name": "углы «Исимуры»",
+    "type": "user",
+    "id": "zag"
+  },
+  "comments": [
+    {
+      "via": {
+        "name": "Bookmarklet",
+        "url": "http://friendfeed.com/share/bookmarklet"
+      },
+      "rawBody": "What projects are missing in the world of Perl 6? Projects that encourage contributions from women.",
+      "id": "e/60a6aab85a5547e59f58f17aa7d8547a/c/f2b89c7c217a4299a497b4cf972c1773",
+      "date": "2010-09-15T11:00:52Z",
+      "from": {
+        "id": "zag",
+        "type": "user",
+        "name": "углы «Исимуры»"
+      },
+      "body": "What projects are missing in the world of Perl 6? Projects that encourage contributions from women."
+    }
+  ]
+}
+=end comment
+
+=end pod

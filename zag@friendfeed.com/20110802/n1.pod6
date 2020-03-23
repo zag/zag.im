@@ -1,0 +1,36 @@
+=begin pod :pubdate('2011-08-02T14:11:44Z') :type<note> 
+=NAME Посмотрел количество портов: FreeBSD - 22462 , Debian - более 29000, Fedora - 125388
+
+=begin DESCRIPTION
+
+Посмотрел количество портов: FreeBSD - 22462 , Debian - более 29000, Fedora - 125388 - L<link|http://twitter.com/zagru/statuses/98395561060868096>
+
+
+
+=end DESCRIPTION
+
+Посмотрел количество портов: FreeBSD - 22462 , Debian - более 29000, Fedora - 125388 - L<link|http://twitter.com/zagru/statuses/98395561060868096>
+
+
+
+=begin comment :src
+{
+  "from": {
+    "name": "углы «Исимуры»",
+    "type": "user",
+    "id": "zag"
+  },
+  "via": {
+    "url": "http://twitter.com/zagru/statuses/98395561060868096",
+    "name": "Twitter"
+  },
+  "id": "e/b063b1f91ceb16095de4aa9cc6f91ded",
+  "rawBody": "Посмотрел количество портов: FreeBSD - 22462 , Debian - более 29000, Fedora - 125388",
+  "date": "2011-08-02T14:11:44Z",
+  "url": "http://friendfeed.com/zag/b063b1f9/freebsd-22462-debian-29000-fedora-125388",
+  "body": "Посмотрел количество портов: FreeBSD - 22462 , Debian - более 29000, Fedora - 125388",
+  "rawLink": "http://twitter.com/zagru/statuses/98395561060868096"
+}
+=end comment
+
+=end pod

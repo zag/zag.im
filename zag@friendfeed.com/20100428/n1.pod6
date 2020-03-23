@@ -1,0 +1,36 @@
+=begin pod :pubdate('2010-04-28T18:09:07Z') :type<note> :tags<Webbys>
+=NAME Who deserves to be champ? I say @99DESIGNS in WebServices/Apps, in 3rd place in the #Webbys. VOTE: http://bit.ly/c4Trmy
+
+=begin DESCRIPTION
+
+Who deserves to be champ? I say @99DESIGNS in WebServices/Apps, in 3rd place in the #Webbys. VOTE: http://bit.ly/c4Trmy - L<link|http://twitter.com/zagru/statuses/13020253278>
+
+
+
+=end DESCRIPTION
+
+Who deserves to be champ? I say @99DESIGNS in WebServices/Apps, in 3rd place in the #Webbys. VOTE: http://bit.ly/c4Trmy - L<link|http://twitter.com/zagru/statuses/13020253278>
+
+
+
+=begin comment :src
+{
+  "from": {
+    "type": "user",
+    "id": "zag",
+    "name": "углы «Исимуры»"
+  },
+  "via": {
+    "url": "http://twitter.com/zagru/statuses/13020253278",
+    "name": "Twitter"
+  },
+  "body": "Who deserves to be champ? I say @<a rel=\"nofollow\" href=\"http://twitter.com/99DESIGNS\">99DESIGNS</a> in WebServices/Apps, in 3rd place in the <a rel=\"nofollow\" href=\"http://search.twitter.com/search?q=%23Webbys\">#Webbys</a>. VOTE: <a rel=\"nofollow\" href=\"http://bit.ly/c4Trmy\" title=\"http://webby.aol.com/category_groups/services/categories/web_services__applications\">http://webby.aol.com/categor...</a>",
+  "rawLink": "http://twitter.com/zagru/statuses/13020253278",
+  "id": "e/964d6fa2379fced08131755ea4f74714",
+  "date": "2010-04-28T18:09:07Z",
+  "rawBody": "Who deserves to be champ? I say @99DESIGNS in WebServices/Apps, in 3rd place in the #Webbys. VOTE: http://bit.ly/c4Trmy",
+  "url": "http://friendfeed.com/zag/964d6fa2/who-deserves-to-be-champ-i-say-99designs-in"
+}
+=end comment
+
+=end pod

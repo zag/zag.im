@@ -1,0 +1,71 @@
+=begin pod :pubdate('2011-06-28T11:50:55Z') :type<note> 
+=NAME RT @consttype: We should just rename Perl 6 to Perl Nukem Forever.
+
+=begin DESCRIPTION
+
+RT @consttype: We should just rename Perl 6 to Perl Nukem Forever. - L<link|http://twitter.com/zagru/statuses/85676547066957824>
+
+
+
+=end DESCRIPTION
+
+RT @consttype: We should just rename Perl 6 to Perl Nukem Forever. - L<link|http://twitter.com/zagru/statuses/85676547066957824>
+
+
+
+=begin comment :src
+{
+  "via": {
+    "url": "http://twitter.com/zagru/statuses/85676547066957824",
+    "name": "Twitter"
+  },
+  "from": {
+    "id": "zag",
+    "type": "user",
+    "name": "углы «Исимуры»"
+  },
+  "id": "e/d095684b4230da5936b0d8bf8d58619d",
+  "rawBody": "RT @consttype: We should just rename Perl 6 to Perl Nukem Forever.",
+  "date": "2011-06-28T11:50:55Z",
+  "url": "http://friendfeed.com/zag/d095684b/rt-consttype-we-should-just-rename-perl-6-to",
+  "body": "RT @<a rel=\"nofollow\" href=\"http://twitter.com/consttype\">consttype</a>: We should just rename Perl 6 to Perl Nukem Forever.",
+  "likes": [
+    {
+      "date": "2011-06-28T15:26:43Z",
+      "from": {
+        "name": "Николай",
+        "type": "user",
+        "id": "mishin"
+      }
+    },
+    {
+      "from": {
+        "type": "user",
+        "id": "kukutz",
+        "private": true,
+        "name": "Остались сутки!"
+      },
+      "date": "2011-06-28T14:17:42Z"
+    },
+    {
+      "date": "2011-06-28T14:03:16Z",
+      "from": {
+        "id": "xekc",
+        "type": "user",
+        "name": "xekc@xekc.com"
+      }
+    },
+    {
+      "date": "2011-06-28T14:02:26Z",
+      "from": {
+        "type": "user",
+        "id": "kkapp",
+        "name": "alex@kapranoff.ru"
+      }
+    }
+  ],
+  "rawLink": "http://twitter.com/zagru/statuses/85676547066957824"
+}
+=end comment
+
+=end pod

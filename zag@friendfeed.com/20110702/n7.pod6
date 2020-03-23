@@ -1,0 +1,48 @@
+=begin pod :pubdate('2011-07-02T08:13:58Z') :type<note> :tags<lvee>
+=NAME Кулуары на #lvee
+
+=begin DESCRIPTION
+
+Кулуары на #lvee
+=for Image :width(292) :link('http://m.friendfeed-media.com/5f03291be18cbb0814fd2fa8d7956700a9a02559') :height(175) :preview
+media/7d6ff2bf5bb6dc3f6d8dece9fca2312f888ab8aa.jpg
+
+
+
+=end DESCRIPTION
+
+Кулуары на #lvee
+=for Image :width(292) :link('http://m.friendfeed-media.com/5f03291be18cbb0814fd2fa8d7956700a9a02559') :height(175) :preview
+media/7d6ff2bf5bb6dc3f6d8dece9fca2312f888ab8aa.jpg
+
+
+
+=begin comment :src
+{
+  "body": "Кулуары на <a href=\"http://friendfeed.com/search?q=%23lvee\">#lvee</a>",
+  "rawLink": "http://friendfeed.com/e/48e773b0-de94-46b1-b194-ce967a3001f6",
+  "date": "2011-07-02T08:13:58Z",
+  "id": "e/48e773b0de9446b1b194ce967a3001f6",
+  "rawBody": "Кулуары на #lvee",
+  "url": "http://friendfeed.com/zag/48e773b0/lvee",
+  "thumbnails": [
+    {
+      "width": 292,
+      "url": "http://m.friendfeed-media.com/7d6ff2bf5bb6dc3f6d8dece9fca2312f888ab8aa",
+      "height": 175,
+      "link": "http://m.friendfeed-media.com/5f03291be18cbb0814fd2fa8d7956700a9a02559"
+    }
+  ],
+  "from": {
+    "type": "user",
+    "id": "zag",
+    "name": "углы «Исимуры»"
+  },
+  "via": {
+    "url": "http://friendfeed.com/share/mail",
+    "name": "email"
+  }
+}
+=end comment
+
+=end pod

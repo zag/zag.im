@@ -1,0 +1,54 @@
+=begin pod :pubdate('2011-04-21T13:25:38Z') :type<note> 
+=NAME Ссудный день для моих персональных данных. http://zag.ru/a4BR2
+
+=begin DESCRIPTION
+
+Ссудный день для моих персональных данных. http://zag.ru/a4BR2 - L<link|http://twitter.com/zagru/statuses/61058010902052864>
+
+
+
+=end DESCRIPTION
+
+Ссудный день для моих персональных данных. http://zag.ru/a4BR2 - L<link|http://twitter.com/zagru/statuses/61058010902052864>
+
+
+
+=begin comment :src
+{
+  "from": {
+    "name": "углы «Исимуры»",
+    "id": "zag",
+    "type": "user"
+  },
+  "via": {
+    "url": "http://twitter.com/zagru/statuses/61058010902052864",
+    "name": "Twitter"
+  },
+  "id": "e/c2e46c5129a6af06ddbf1d9868aba877",
+  "date": "2011-04-21T13:25:38Z",
+  "rawBody": "Ссудный день для моих персональных данных. http://zag.ru/a4BR2",
+  "url": "http://friendfeed.com/zag/c2e46c51",
+  "likes": [
+    {
+      "from": {
+        "name": "Андрей Шитов",
+        "type": "user",
+        "id": "ashport"
+      },
+      "date": "2011-04-21T20:08:46Z"
+    },
+    {
+      "from": {
+        "name": "alex@kapranoff.ru",
+        "type": "user",
+        "id": "kkapp"
+      },
+      "date": "2011-04-21T18:32:01Z"
+    }
+  ],
+  "rawLink": "http://twitter.com/zagru/statuses/61058010902052864",
+  "body": "Ссудный день для моих персональных данных. <a rel=\"nofollow\" href=\"http://zag.ru/a4BR2\">http://zag.ru/a4BR2</a>"
+}
+=end comment
+
+=end pod

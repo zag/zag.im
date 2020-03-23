@@ -1,0 +1,85 @@
+=begin pod :pubdate('2010-08-04T08:04:11Z') :type<note> :tags<Starcraft2 starcraft2>
+=NAME #Starcraft2 Sells 1.5 Million Copies In Two Days
+
+=begin DESCRIPTION
+
+#Starcraft2 Sells 1.5 Million Copies In Two Days - L<link|http://g4tv.com/thefeed/blog/post/706673/TheFeed.html?utm_source=g4tv&utm_medium=twitterblog&utm_campaign=so-0907-twitterthefeed-706673&cmpid=so-0907-twitterthefeed-706673>
+=for Image :width(233) :link('http://g4tv.com/thefeed/blog/post/706673/TheFeed.html?utm_source=g4tv&utm_medium=twitterblog&utm_campaign=so-0907-twitterthefeed-706673&cmpid=so-0907-twitterthefeed-706673') :height(175) :preview
+media/3904ae8c1186fa679a468119bce899ad6e346796.jpg
+
+=item Утка подгорает  #starcraft2
+
+
+=end DESCRIPTION
+
+#Starcraft2 Sells 1.5 Million Copies In Two Days - L<link|http://g4tv.com/thefeed/blog/post/706673/TheFeed.html?utm_source=g4tv&utm_medium=twitterblog&utm_campaign=so-0907-twitterthefeed-706673&cmpid=so-0907-twitterthefeed-706673>
+=for Image :width(233) :link('http://g4tv.com/thefeed/blog/post/706673/TheFeed.html?utm_source=g4tv&utm_medium=twitterblog&utm_campaign=so-0907-twitterthefeed-706673&cmpid=so-0907-twitterthefeed-706673') :height(175) :preview
+media/3904ae8c1186fa679a468119bce899ad6e346796.jpg
+
+=item Утка подгорает  #starcraft2
+
+
+=begin comment :src
+{
+  "via": {
+    "url": "http://friendfeed.com/share/bookmarklet",
+    "name": "Bookmarklet"
+  },
+  "from": {
+    "name": "углы «Исимуры»",
+    "type": "user",
+    "id": "zag"
+  },
+  "comments": [
+    {
+      "id": "e/0accd4c2958544d99eed8687536ba167/c/6c05a8e3a4e445719c7cb5ec5c59b5f4",
+      "date": "2010-08-04T08:04:11Z",
+      "from": {
+        "id": "zag",
+        "type": "user",
+        "name": "углы «Исимуры»"
+      },
+      "rawBody": "Утка подгорает  #starcraft2",
+      "via": {
+        "url": "http://friendfeed.com/share/bookmarklet",
+        "name": "Bookmarklet"
+      },
+      "body": "Утка подгорает  <a href=\"http://friendfeed.com/search?q=%23starcraft2\">#starcraft2</a>"
+    }
+  ],
+  "id": "e/0accd4c2958544d99eed8687536ba167",
+  "rawBody": "#Starcraft2 Sells 1.5 Million Copies In Two Days",
+  "date": "2010-08-04T08:04:11Z",
+  "url": "http://friendfeed.com/zag/0accd4c2/starcraft2-sells-1-5-million-copies-in-two-days",
+  "thumbnails": [
+    {
+      "height": 175,
+      "link": "http://g4tv.com/thefeed/blog/post/706673/TheFeed.html?utm_source=g4tv&utm_medium=twitterblog&utm_campaign=so-0907-twitterthefeed-706673&cmpid=so-0907-twitterthefeed-706673",
+      "width": 233,
+      "url": "http://m.friendfeed-media.com/3904ae8c1186fa679a468119bce899ad6e346796"
+    }
+  ],
+  "likes": [
+    {
+      "from": {
+        "name": "alex@kapranoff.ru",
+        "id": "kkapp",
+        "type": "user"
+      },
+      "date": "2010-08-04T08:57:45Z"
+    },
+    {
+      "date": "2010-08-04T08:20:00Z",
+      "from": {
+        "id": "dainathomas1",
+        "type": "user",
+        "name": "Daina Thomas"
+      }
+    }
+  ],
+  "rawLink": "http://g4tv.com/thefeed/blog/post/706673/TheFeed.html?utm_source=g4tv&utm_medium=twitterblog&utm_campaign=so-0907-twitterthefeed-706673&cmpid=so-0907-twitterthefeed-706673",
+  "body": "<a href=\"http://friendfeed.com/search?q=%23Starcraft2\">#Starcraft2</a> Sells 1.5 Million Copies In Two Days - <a rel=\"nofollow\" href=\"http://g4tv.com/thefeed/blog/post/706673/TheFeed.html?utm_source=g4tv&amp;utm_medium=twitterblog&amp;utm_campaign=so-0907-twitterthefeed-706673&amp;cmpid=so-0907-twitterthefeed-706673\" title=\"http://g4tv.com/thefeed/blog/post/706673/TheFeed.html?utm_source=g4tv&amp;utm_medium=twitterblog&amp;utm_campaign=so-0907-twitterthefeed-706673&amp;cmpid=so-0907-twitterthefeed-706673\">http://g4tv.com/thefeed...</a>"
+}
+=end comment
+
+=end pod

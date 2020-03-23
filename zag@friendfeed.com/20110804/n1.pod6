@@ -1,0 +1,63 @@
+=begin pod :pubdate('2011-08-04T19:16:55Z') :type<note> 
+=NAME Pictures & Photos from Два с половиной человека
+
+=begin DESCRIPTION
+
+Pictures & Photos from Два с половиной человека - L<link|http://www.imdb.com/media/rm1678753536/tt0369179>
+=for Image :width(156) :link('http://www.imdb.com/media/rm1678753536/tt0369179') :height(175) :preview
+media/15178d9179c3b0469766f2dd313a38f33a0def2b.jpg
+
+=item Charlie Sheen -> Ashton Kutcher
+
+
+=end DESCRIPTION
+
+Pictures & Photos from Два с половиной человека - L<link|http://www.imdb.com/media/rm1678753536/tt0369179>
+=for Image :width(156) :link('http://www.imdb.com/media/rm1678753536/tt0369179') :height(175) :preview
+media/15178d9179c3b0469766f2dd313a38f33a0def2b.jpg
+
+=item Charlie Sheen -> Ashton Kutcher
+
+
+=begin comment :src
+{
+  "id": "e/81c2b1bd32514ec0ab855fe17227ff60",
+  "url": "http://friendfeed.com/zag/81c2b1bd/pictures-photos-from",
+  "date": "2011-08-04T19:16:55Z",
+  "rawBody": "Pictures & Photos from Два с половиной человека",
+  "thumbnails": [
+    {
+      "width": 156,
+      "url": "http://m.friendfeed-media.com/15178d9179c3b0469766f2dd313a38f33a0def2b",
+      "height": 175,
+      "link": "http://www.imdb.com/media/rm1678753536/tt0369179"
+    }
+  ],
+  "rawLink": "http://www.imdb.com/media/rm1678753536/tt0369179",
+  "body": "Pictures &amp; Photos from Два с половиной человека - <a rel=\"nofollow\" href=\"http://www.imdb.com/media/rm1678753536/tt0369179\" title=\"http://www.imdb.com/media/rm1678753536/tt0369179\">http://www.imdb.com/media...</a>",
+  "via": {
+    "name": "Bookmarklet",
+    "url": "http://friendfeed.com/share/bookmarklet"
+  },
+  "from": {
+    "name": "углы «Исимуры»",
+    "id": "zag",
+    "type": "user"
+  },
+  "comments": [
+    {
+      "body": "Charlie Sheen -&gt; Ashton Kutcher",
+      "date": "2011-08-04T19:17:51Z",
+      "rawBody": "Charlie Sheen -> Ashton Kutcher",
+      "id": "e/81c2b1bd32514ec0ab855fe17227ff60/c/4ca000f7150c404cad36e797ca7518dc",
+      "from": {
+        "type": "user",
+        "id": "zag",
+        "name": "углы «Исимуры»"
+      }
+    }
+  ]
+}
+=end comment
+
+=end pod

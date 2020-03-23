@@ -1,0 +1,100 @@
+=begin pod :pubdate('2010-01-13T09:47:53Z') :type<note> :tags<avatarmovie>
+=NAME Очередь на «Аватар» в первый в Беларуси 3D-кинотеатр #avatarmovie
+
+=begin DESCRIPTION
+
+Очередь на «Аватар» в первый в Беларуси 3D-кинотеатр #avatarmovie - L<link|http://habrahabr.ru/blogs/socialphilosophy/80640/>
+=for Image :width(399) :link('http://habrahabr.ru/blogs/socialphilosophy/80640/') :height(175) :preview
+media/2d9966839dbf478b59842313c428ec6c7e85eff6.jpg
+=for Image :width(434) :link('http://habrahabr.ru/blogs/socialphilosophy/80640/') :height(175) :preview
+media/1ced0130b8823788fbe8aa9576b280981eed9996.jpg
+=for Image :width(525) :link('http://habrahabr.ru/blogs/socialphilosophy/80640/') :height(164) :preview
+media/683fbe5098e27e23189de6964bf650716ff8292c.jpg
+
+=item Как сообщают информагентства, ещё до рассвета перед кинотеатром начала собираться очередь…
+=item Бланки остались ещё со времён СССР.
+
+
+=end DESCRIPTION
+
+Очередь на «Аватар» в первый в Беларуси 3D-кинотеатр #avatarmovie - L<link|http://habrahabr.ru/blogs/socialphilosophy/80640/>
+=for Image :width(399) :link('http://habrahabr.ru/blogs/socialphilosophy/80640/') :height(175) :preview
+media/2d9966839dbf478b59842313c428ec6c7e85eff6.jpg
+=for Image :width(434) :link('http://habrahabr.ru/blogs/socialphilosophy/80640/') :height(175) :preview
+media/1ced0130b8823788fbe8aa9576b280981eed9996.jpg
+=for Image :width(525) :link('http://habrahabr.ru/blogs/socialphilosophy/80640/') :height(164) :preview
+media/683fbe5098e27e23189de6964bf650716ff8292c.jpg
+
+=item Как сообщают информагентства, ещё до рассвета перед кинотеатром начала собираться очередь…
+=item Бланки остались ещё со времён СССР.
+
+
+=begin comment :src
+{
+  "from": {
+    "id": "zag",
+    "type": "user",
+    "name": "углы «Исимуры»"
+  },
+  "via": {
+    "name": "Bookmarklet",
+    "url": "http://friendfeed.com/share/bookmarklet"
+  },
+  "comments": [
+    {
+      "date": "2010-01-13T09:47:53Z",
+      "id": "e/91208ff5ccce41fca95383a07b166e3b/c/d9f87bfcec2745de987305436ac19689",
+      "from": {
+        "id": "zag",
+        "type": "user",
+        "name": "углы «Исимуры»"
+      },
+      "rawBody": "Как сообщают информагентства, ещё до рассвета перед кинотеатром начала собираться очередь…",
+      "via": {
+        "url": "http://friendfeed.com/share/bookmarklet",
+        "name": "Bookmarklet"
+      },
+      "body": "Как сообщают информагентства, ещё до рассвета перед кинотеатром начала собираться очередь…"
+    },
+    {
+      "body": "Бланки остались ещё со времён СССР.",
+      "date": "2010-01-13T09:48:42Z",
+      "rawBody": "Бланки остались ещё со времён СССР.",
+      "id": "e/91208ff5ccce41fca95383a07b166e3b/c/a91ffa45cb42480b8b67276772083d60",
+      "from": {
+        "name": "углы «Исимуры»",
+        "type": "user",
+        "id": "zag"
+      }
+    }
+  ],
+  "id": "e/91208ff5ccce41fca95383a07b166e3b",
+  "url": "http://friendfeed.com/zag/91208ff5/3d-avatarmovie",
+  "date": "2010-01-13T09:47:53Z",
+  "rawBody": "Очередь на «Аватар» в первый в Беларуси 3D-кинотеатр #avatarmovie",
+  "thumbnails": [
+    {
+      "width": 399,
+      "url": "http://m.friendfeed-media.com/2d9966839dbf478b59842313c428ec6c7e85eff6",
+      "link": "http://habrahabr.ru/blogs/socialphilosophy/80640/",
+      "height": 175
+    },
+    {
+      "width": 434,
+      "url": "http://m.friendfeed-media.com/1ced0130b8823788fbe8aa9576b280981eed9996",
+      "link": "http://habrahabr.ru/blogs/socialphilosophy/80640/",
+      "height": 175
+    },
+    {
+      "url": "http://m.friendfeed-media.com/683fbe5098e27e23189de6964bf650716ff8292c",
+      "width": 525,
+      "height": 164,
+      "link": "http://habrahabr.ru/blogs/socialphilosophy/80640/"
+    }
+  ],
+  "rawLink": "http://habrahabr.ru/blogs/socialphilosophy/80640/",
+  "body": "Очередь на «Аватар» в первый в Беларуси 3D-кинотеатр <a href=\"http://friendfeed.com/search?q=%23avatarmovie\">#avatarmovie</a> - <a rel=\"nofollow\" href=\"http://habrahabr.ru/blogs/socialphilosophy/80640/\" title=\"http://habrahabr.ru/blogs/socialphilosophy/80640/\">http://habrahabr.ru/blogs...</a>"
+}
+=end comment
+
+=end pod

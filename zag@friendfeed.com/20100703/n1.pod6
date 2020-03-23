@@ -1,0 +1,48 @@
+=begin pod :pubdate('2010-07-03T11:16:16Z') :type<note> 
+=NAME Ласточкино гнездо
+
+=begin DESCRIPTION
+
+Ласточкино гнездо
+=for Image :width(233) :link('http://m.friendfeed-media.com/f270d80174b16996e9246c08f83eb8011bd04b64') :height(175) :preview
+media/f38a61087185839e0b3435307b47b79b3f022cc3.jpg
+
+
+
+=end DESCRIPTION
+
+Ласточкино гнездо
+=for Image :width(233) :link('http://m.friendfeed-media.com/f270d80174b16996e9246c08f83eb8011bd04b64') :height(175) :preview
+media/f38a61087185839e0b3435307b47b79b3f022cc3.jpg
+
+
+
+=begin comment :src
+{
+  "body": "Ласточкино гнездо",
+  "rawLink": "http://friendfeed.com/e/34c41b0e-5fcc-483c-813a-68cd15c5421e",
+  "date": "2010-07-03T11:16:16Z",
+  "id": "e/34c41b0e5fcc483c813a68cd15c5421e",
+  "rawBody": "Ласточкино гнездо",
+  "url": "http://friendfeed.com/zag/34c41b0e",
+  "thumbnails": [
+    {
+      "width": 233,
+      "url": "http://m.friendfeed-media.com/f38a61087185839e0b3435307b47b79b3f022cc3",
+      "height": 175,
+      "link": "http://m.friendfeed-media.com/f270d80174b16996e9246c08f83eb8011bd04b64"
+    }
+  ],
+  "from": {
+    "type": "user",
+    "id": "zag",
+    "name": "углы «Исимуры»"
+  },
+  "via": {
+    "url": "http://friendfeed.com/share/mail",
+    "name": "email"
+  }
+}
+=end comment
+
+=end pod

@@ -1,0 +1,44 @@
+=begin pod :pubdate('2010-01-16T11:55:51Z') :type<note> :tags<playstation3>
+=NAME Купил mortal kombat в SonyStore  за 170р. Необычно делать покупки лежа в постели. #playstation3  рулит...
+
+=begin DESCRIPTION
+
+Купил mortal kombat в SonyStore  за 170р. Необычно делать покупки лежа в постели. #playstation3  рулит...
+=for Image :width(233) :link('http://m.friendfeed-media.com/11d6b85871d71e30588b1f329e613fe5b67744af') :height(175) :preview
+media/7363119480674a02e2a8df57c1e1486f89d2d4ed.jpg
+
+
+
+=end DESCRIPTION
+
+Купил mortal kombat в SonyStore  за 170р. Необычно делать покупки лежа в постели. #playstation3  рулит...
+=for Image :width(233) :link('http://m.friendfeed-media.com/11d6b85871d71e30588b1f329e613fe5b67744af') :height(175) :preview
+media/7363119480674a02e2a8df57c1e1486f89d2d4ed.jpg
+
+
+
+=begin comment :src
+{
+  "id": "e/ceae6d6f4ce64bd895794f092a99c09c",
+  "url": "http://friendfeed.com/zag/ceae6d6f/mortal-kombat-sonystore-170-playstation3",
+  "date": "2010-01-16T11:55:51Z",
+  "rawBody": "Купил mortal kombat в SonyStore  за 170р. Необычно делать покупки лежа в постели. #playstation3  рулит...",
+  "thumbnails": [
+    {
+      "url": "http://m.friendfeed-media.com/7363119480674a02e2a8df57c1e1486f89d2d4ed",
+      "width": 233,
+      "link": "http://m.friendfeed-media.com/11d6b85871d71e30588b1f329e613fe5b67744af",
+      "height": 175
+    }
+  ],
+  "rawLink": "http://friendfeed.com/e/ceae6d6f-4ce6-4bd8-9579-4f092a99c09c",
+  "body": "Купил mortal kombat в SonyStore  за 170р. Необычно делать покупки лежа в постели. <a href=\"http://friendfeed.com/search?q=%23playstation3\">#playstation3</a>  рулит...",
+  "from": {
+    "type": "user",
+    "id": "zag",
+    "name": "углы «Исимуры»"
+  }
+}
+=end comment
+
+=end pod

@@ -1,0 +1,36 @@
+=begin pod :pubdate('2011-02-08T19:56:13Z') :type<note> 
+=NAME RT @newsycombinator: Github Resume Generator http://j.mp/gNf4Gh
+
+=begin DESCRIPTION
+
+RT @newsycombinator: Github Resume Generator http://j.mp/gNf4Gh - L<link|http://twitter.com/zagru/statuses/35064378323632128>
+
+
+
+=end DESCRIPTION
+
+RT @newsycombinator: Github Resume Generator http://j.mp/gNf4Gh - L<link|http://twitter.com/zagru/statuses/35064378323632128>
+
+
+
+=begin comment :src
+{
+  "from": {
+    "name": "углы «Исимуры»",
+    "id": "zag",
+    "type": "user"
+  },
+  "via": {
+    "name": "Twitter",
+    "url": "http://twitter.com/zagru/statuses/35064378323632128"
+  },
+  "rawLink": "http://twitter.com/zagru/statuses/35064378323632128",
+  "body": "RT @<a rel=\"nofollow\" href=\"http://twitter.com/newsycombinator\">newsycombinator</a>: Github Resume Generator <a rel=\"nofollow\" href=\"http://j.mp/gNf4Gh\" title=\"http://resume.github.com/\">http://resume.github.com/</a>",
+  "id": "e/a2e0253c4f595318f3f621e170e8caef",
+  "url": "http://friendfeed.com/zag/a2e0253c/rt-newsycombinator-github-resume-generator",
+  "date": "2011-02-08T19:56:13Z",
+  "rawBody": "RT @newsycombinator: Github Resume Generator http://j.mp/gNf4Gh"
+}
+=end comment
+
+=end pod

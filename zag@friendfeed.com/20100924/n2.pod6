@@ -1,0 +1,36 @@
+=begin pod :pubdate('2010-09-24T07:01:40Z') :type<note> :tags<perl6>
+=NAME Gabor Szabo. Introduction to Perl 6. Table of Contents. Энциклопедия #perl6
+
+=begin DESCRIPTION
+
+Gabor Szabo. Introduction to Perl 6. Table of Contents. Энциклопедия #perl6 - L<link|http://szabgab.com/talks/perl6/toc.html>
+
+
+
+=end DESCRIPTION
+
+Gabor Szabo. Introduction to Perl 6. Table of Contents. Энциклопедия #perl6 - L<link|http://szabgab.com/talks/perl6/toc.html>
+
+
+
+=begin comment :src
+{
+  "rawLink": "http://szabgab.com/talks/perl6/toc.html",
+  "body": "Gabor Szabo. Introduction to Perl 6. Table of Contents. Энциклопедия <a href=\"http://friendfeed.com/search?q=%23perl6\">#perl6</a> - <a rel=\"nofollow\" href=\"http://szabgab.com/talks/perl6/toc.html\" title=\"http://szabgab.com/talks/perl6/toc.html\">http://szabgab.com/talks...</a>",
+  "url": "http://friendfeed.com/zag/3728f6c0/gabor-szabo-introduction-to-perl-6-table-of",
+  "id": "e/3728f6c0d5084158826527eb5925c887",
+  "date": "2010-09-24T07:01:40Z",
+  "rawBody": "Gabor Szabo. Introduction to Perl 6. Table of Contents. Энциклопедия #perl6",
+  "from": {
+    "type": "user",
+    "id": "zag",
+    "name": "углы «Исимуры»"
+  },
+  "via": {
+    "url": "http://friendfeed.com/share/bookmarklet",
+    "name": "Bookmarklet"
+  }
+}
+=end comment
+
+=end pod

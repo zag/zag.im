@@ -1,0 +1,36 @@
+=begin pod :pubdate('2011-07-25T10:37:33Z') :type<note> 
+=NAME Социльный бэкап http://t.co/em720XH :-). Форматы .html, .vcf, .jpg и json для профиля. +1ы также могут быть забэкаплены
+
+=begin DESCRIPTION
+
+Социльный бэкап http://t.co/em720XH :-). Форматы .html, .vcf, .jpg и json для профиля. +1ы также могут быть забэкаплены - L<link|http://twitter.com/zagru/statuses/95442556103565312>
+
+
+
+=end DESCRIPTION
+
+Социльный бэкап http://t.co/em720XH :-). Форматы .html, .vcf, .jpg и json для профиля. +1ы также могут быть забэкаплены - L<link|http://twitter.com/zagru/statuses/95442556103565312>
+
+
+
+=begin comment :src
+{
+  "body": "Социльный бэкап <a rel=\"nofollow\" href=\"http://t.co/em720XH\">http://t.co/em720XH</a> :-). Форматы .html, .vcf, .jpg и json для профиля. +1ы также могут быть забэкаплены",
+  "rawLink": "http://twitter.com/zagru/statuses/95442556103565312",
+  "id": "e/04186278c166c680c7d36cde0748dae2",
+  "url": "http://friendfeed.com/zag/04186278/html-vcf-jpg-json-1",
+  "date": "2011-07-25T10:37:33Z",
+  "rawBody": "Социльный бэкап http://t.co/em720XH :-). Форматы .html, .vcf, .jpg и json для профиля. +1ы также могут быть забэкаплены",
+  "via": {
+    "url": "http://twitter.com/zagru/statuses/95442556103565312",
+    "name": "Twitter"
+  },
+  "from": {
+    "name": "углы «Исимуры»",
+    "id": "zag",
+    "type": "user"
+  }
+}
+=end comment
+
+=end pod

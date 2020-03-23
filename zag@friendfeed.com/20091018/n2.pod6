@@ -1,0 +1,85 @@
+=begin pod :pubdate('2009-10-18T14:50:05Z') :type<note> 
+=NAME AppleInsider | FreeBSD adds support for Snow Leopard's Grand Central Dispatch
+
+=begin DESCRIPTION
+
+AppleInsider | FreeBSD adds support for Snow Leopard's Grand Central Dispatch - L<link|http://www.appleinsider.com/articles/09/10/16/freebsd_adds_support_for_snow_leopards_grand_central_dispatch.html#>
+=for Image :width(233) :link('http://www.appleinsider.com/articles/09/10/16/freebsd_adds_support_for_snow_leopards_grand_central_dispatch.html#') :height(175) :preview
+media/76aefdfe3d0aaf4a4b25dd6a7c6cb9eaa7f4d820.jpg
+
+=item А где же darwin ?
+
+
+=end DESCRIPTION
+
+AppleInsider | FreeBSD adds support for Snow Leopard's Grand Central Dispatch - L<link|http://www.appleinsider.com/articles/09/10/16/freebsd_adds_support_for_snow_leopards_grand_central_dispatch.html#>
+=for Image :width(233) :link('http://www.appleinsider.com/articles/09/10/16/freebsd_adds_support_for_snow_leopards_grand_central_dispatch.html#') :height(175) :preview
+media/76aefdfe3d0aaf4a4b25dd6a7c6cb9eaa7f4d820.jpg
+
+=item А где же darwin ?
+
+
+=begin comment :src
+{
+  "likes": [
+    {
+      "from": {
+        "id": "citrin",
+        "type": "user",
+        "name": "citrin"
+      },
+      "date": "2009-10-18T15:52:00Z"
+    },
+    {
+      "date": "2009-10-18T15:18:07Z",
+      "from": {
+        "type": "user",
+        "id": "kkapp",
+        "name": "alex@kapranoff.ru"
+      }
+    }
+  ],
+  "rawLink": "http://www.appleinsider.com/articles/09/10/16/freebsd_adds_support_for_snow_leopards_grand_central_dispatch.html#",
+  "body": "AppleInsider | FreeBSD adds support for Snow Leopard's Grand Central Dispatch - <a rel=\"nofollow\" href=\"http://www.appleinsider.com/articles/09/10/16/freebsd_adds_support_for_snow_leopards_grand_central_dispatch.html#\" title=\"http://www.appleinsider.com/articles/09/10/16/freebsd_adds_support_for_snow_leopards_grand_central_dispatch.html#\">http://www.appleinsider.com/article...</a>",
+  "rawBody": "AppleInsider | FreeBSD adds support for Snow Leopard's Grand Central Dispatch",
+  "id": "e/97d7321df4ad4af88fc28caaed94e15f",
+  "date": "2009-10-18T14:50:05Z",
+  "url": "http://friendfeed.com/zag/97d7321d/appleinsider-freebsd-adds-support-for-snow",
+  "thumbnails": [
+    {
+      "url": "http://m.friendfeed-media.com/76aefdfe3d0aaf4a4b25dd6a7c6cb9eaa7f4d820",
+      "width": 233,
+      "height": 175,
+      "link": "http://www.appleinsider.com/articles/09/10/16/freebsd_adds_support_for_snow_leopards_grand_central_dispatch.html#"
+    }
+  ],
+  "comments": [
+    {
+      "id": "e/97d7321df4ad4af88fc28caaed94e15f/c/ce416641928f4facbae684b6b988345c",
+      "rawBody": "А где же darwin ?",
+      "date": "2009-10-18T14:50:05Z",
+      "from": {
+        "id": "zag",
+        "type": "user",
+        "name": "углы «Исимуры»"
+      },
+      "via": {
+        "name": "Bookmarklet",
+        "url": "http://friendfeed.com/share/bookmarklet"
+      },
+      "body": "А где же darwin ?"
+    }
+  ],
+  "via": {
+    "name": "Bookmarklet",
+    "url": "http://friendfeed.com/share/bookmarklet"
+  },
+  "from": {
+    "name": "углы «Исимуры»",
+    "type": "user",
+    "id": "zag"
+  }
+}
+=end comment
+
+=end pod

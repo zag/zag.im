@@ -1,0 +1,87 @@
+=begin pod :pubdate('2010-05-25T06:47:17Z') :type<note> :tags<iptv>
+=NAME Телевизионные развлечения / BSDельники / Хабрахабр #iptv
+
+=begin DESCRIPTION
+
+Телевизионные развлечения / BSDельники / Хабрахабр #iptv - L<link|http://habrahabr.ru/blogs/bsdelniki/94184/>
+=for Image :width(336) :link('http://habrahabr.ru/blogs/bsdelniki/94184/') :height(71) :preview
+media/78b9f578e0820f0aa425a6a7ee476e548bf9426d.jpg
+=for Image :width(250) :link('http://habrahabr.ru/blogs/bsdelniki/94184/') :height(175) :preview
+media/37daad1b0661f9c34f337c0d09c92d80196ec21d.jpg
+=for Image :width(249) :link('http://habrahabr.ru/blogs/bsdelniki/94184/') :height(175) :preview
+media/a870706b3f8898f783d694745dc13ad81f5e5d0f.jpg
+
+=item самым простым и очевидным (а еще пионерско-кустарным) решением показалось просто ловить мультикаст на одну машинку с установленным VLC и оборачивать полученную картинку в HTTP.
+
+
+=end DESCRIPTION
+
+Телевизионные развлечения / BSDельники / Хабрахабр #iptv - L<link|http://habrahabr.ru/blogs/bsdelniki/94184/>
+=for Image :width(336) :link('http://habrahabr.ru/blogs/bsdelniki/94184/') :height(71) :preview
+media/78b9f578e0820f0aa425a6a7ee476e548bf9426d.jpg
+=for Image :width(250) :link('http://habrahabr.ru/blogs/bsdelniki/94184/') :height(175) :preview
+media/37daad1b0661f9c34f337c0d09c92d80196ec21d.jpg
+=for Image :width(249) :link('http://habrahabr.ru/blogs/bsdelniki/94184/') :height(175) :preview
+media/a870706b3f8898f783d694745dc13ad81f5e5d0f.jpg
+
+=item самым простым и очевидным (а еще пионерско-кустарным) решением показалось просто ловить мультикаст на одну машинку с установленным VLC и оборачивать полученную картинку в HTTP.
+
+
+=begin comment :src
+{
+  "body": "Телевизионные развлечения / BSDельники / Хабрахабр <a href=\"http://friendfeed.com/search?q=%23iptv\">#iptv</a> - <a rel=\"nofollow\" href=\"http://habrahabr.ru/blogs/bsdelniki/94184/\" title=\"http://habrahabr.ru/blogs/bsdelniki/94184/\">http://habrahabr.ru/blogs...</a>",
+  "rawLink": "http://habrahabr.ru/blogs/bsdelniki/94184/",
+  "id": "e/a136cb38bb5f42668892773294f216db",
+  "rawBody": "Телевизионные развлечения / BSDельники / Хабрахабр #iptv",
+  "date": "2010-05-25T06:47:17Z",
+  "url": "http://friendfeed.com/zag/a136cb38/bsd-iptv",
+  "thumbnails": [
+    {
+      "width": 336,
+      "url": "http://m.friendfeed-media.com/78b9f578e0820f0aa425a6a7ee476e548bf9426d",
+      "link": "http://habrahabr.ru/blogs/bsdelniki/94184/",
+      "height": 71
+    },
+    {
+      "link": "http://habrahabr.ru/blogs/bsdelniki/94184/",
+      "height": 175,
+      "width": 250,
+      "url": "http://m.friendfeed-media.com/37daad1b0661f9c34f337c0d09c92d80196ec21d"
+    },
+    {
+      "height": 175,
+      "link": "http://habrahabr.ru/blogs/bsdelniki/94184/",
+      "width": 249,
+      "url": "http://m.friendfeed-media.com/a870706b3f8898f783d694745dc13ad81f5e5d0f"
+    }
+  ],
+  "comments": [
+    {
+      "body": "самым простым и очевидным (а еще пионерско-кустарным) решением показалось просто ловить мультикаст на одну машинку с установленным VLC и оборачивать полученную картинку в HTTP.",
+      "id": "e/a136cb38bb5f42668892773294f216db/c/971dd93fd9314dccabdd7c682c3f9a49",
+      "date": "2010-05-25T06:47:17Z",
+      "rawBody": "самым простым и очевидным (а еще пионерско-кустарным) решением показалось просто ловить мультикаст на одну машинку с установленным VLC и оборачивать полученную картинку в HTTP.",
+      "from": {
+        "name": "углы «Исимуры»",
+        "id": "zag",
+        "type": "user"
+      },
+      "via": {
+        "url": "http://friendfeed.com/share/bookmarklet",
+        "name": "Bookmarklet"
+      }
+    }
+  ],
+  "from": {
+    "id": "zag",
+    "type": "user",
+    "name": "углы «Исимуры»"
+  },
+  "via": {
+    "name": "Bookmarklet",
+    "url": "http://friendfeed.com/share/bookmarklet"
+  }
+}
+=end comment
+
+=end pod

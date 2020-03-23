@@ -1,0 +1,38 @@
+=begin pod :pubdate('2010-11-29 10:00:00') :tags<pod6 perl6 pod perl>
+=NAME Perl6 Pod: Код форматирования N - примечания
+
+=begin DESCRIPTION
+=for Image :align("left") :preview
+footnote.jpg
+
+Содержимое кода C<N<>> является встроенным B<примечанием>.
+=end DESCRIPTION
+
+Содержимое кода C<N<>> является встроенным B<примечанием>.
+Например:
+
+=begin code :allow<B>   
+    Use a C<for> loop instead.B<N<The Perl 6 C<for> loop is far more
+    powerful than its Perl 5 predecessor.>> Preferably with an explicit
+    iterator variable.
+=end code
+
+Трансляторы Pod N<Трансляторы Pod - программы, преобразующие документы Pod в различные форматы. Например: I<pod6xml>.> могут отображать содержимое примечаний разными способами: как сноски, как пояснения в конце книги или главы, как боковые панели с текстом, как всплывающие окна или подсказки, как разворачивающиеся элементы, и т.д. Однако они никогда не отображаются обычным текстом. Таким образом, предыдущий пример может быть отображен как:
+
+=begin code :allow<C B E>
+Use a C<for> loop instead.E<dagger> Preferably with an explicit iterator
+variable.
+=end code
+
+и далее:
+
+=begin code :allow<B E C>
+B<Footnotes>
+E<dagger> The Perl 6 C<for> loop is far more powerful than its Perl 5
+predecessor.
+
+=end code
+
+L<Пример использования кода N| http://zag.ru/perl6-pod/#PWJlZ2luIHBvZApVc2UgYSBDPGZvcj4gbG9vcCBpbnN0ZWFkLkI8TjxUaGUgUGVybCA2IEM8Zm9yPiBsb29wIGlzIGZhciBtb3JlICAgICBwb3dlcmZ1bCB0aGFuIGl0cyBQZXJsIDUgcHJlZGVjZXNzb3IuPj4gUHJlZmVyYWJseSB3aXRoIGFuIGV4cGxpY2l0CiAgICBpdGVyYXRvciB2YXJpYWJsZS4KCj1lbmQgcG9kCg==> размещен на странице "L<Perl6 Pod to HTML|<http://zag.ru/perl6-pod/>". В этой статье также имеется сноска, которую можно видеть внизу этой страницы.
+
+=end pod

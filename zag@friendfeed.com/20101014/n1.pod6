@@ -1,0 +1,67 @@
+=begin pod :pubdate('2010-10-14T09:06:59Z') :type<note> 
+=NAME Historypin | Pin your history to the world
+
+=begin DESCRIPTION
+
+Historypin | Pin your history to the world - L<link|http://www.historypin.com/>
+=for Image :width(211) :link('http://www.historypin.com/') :height(175) :preview
+media/37b273965ebc9929eff04fc2626a25814e43e182.jpg
+
+=item 21,812 photos and stories pinned so far
+
+
+=end DESCRIPTION
+
+Historypin | Pin your history to the world - L<link|http://www.historypin.com/>
+=for Image :width(211) :link('http://www.historypin.com/') :height(175) :preview
+media/37b273965ebc9929eff04fc2626a25814e43e182.jpg
+
+=item 21,812 photos and stories pinned so far
+
+
+=begin comment :src
+{
+  "via": {
+    "url": "http://friendfeed.com/share/bookmarklet",
+    "name": "Bookmarklet"
+  },
+  "from": {
+    "type": "user",
+    "id": "zag",
+    "name": "углы «Исимуры»"
+  },
+  "comments": [
+    {
+      "via": {
+        "url": "http://friendfeed.com/share/bookmarklet",
+        "name": "Bookmarklet"
+      },
+      "date": "2010-10-14T09:06:59Z",
+      "id": "e/57e535c02a334535bff3d024a182d574/c/ba658836f8464b4ab86e7ae714fd55f1",
+      "rawBody": "21,812 photos and stories pinned so far",
+      "from": {
+        "name": "углы «Исимуры»",
+        "id": "zag",
+        "type": "user"
+      },
+      "body": "21,812 photos and stories pinned so far"
+    }
+  ],
+  "rawBody": "Historypin | Pin your history to the world",
+  "id": "e/57e535c02a334535bff3d024a182d574",
+  "date": "2010-10-14T09:06:59Z",
+  "url": "http://friendfeed.com/zag/57e535c0/historypin-pin-your-history-to-world",
+  "thumbnails": [
+    {
+      "url": "http://m.friendfeed-media.com/37b273965ebc9929eff04fc2626a25814e43e182",
+      "width": 211,
+      "height": 175,
+      "link": "http://www.historypin.com/"
+    }
+  ],
+  "body": "Historypin | Pin your history to the world - <a rel=\"nofollow\" href=\"http://www.historypin.com/\">http://www.historypin.com/</a>",
+  "rawLink": "http://www.historypin.com/"
+}
+=end comment
+
+=end pod

@@ -1,0 +1,36 @@
+=begin pod :pubdate('2011-05-27T16:20:05Z') :type<note> 
+=NAME RT @dchest Перевел Gettings Started http://t.co/Mzh9OPv
+
+=begin DESCRIPTION
+
+RT @dchest Перевел Gettings Started http://t.co/Mzh9OPv - L<link|http://twitter.com/zagru/statuses/74147875487105025>
+
+
+
+=end DESCRIPTION
+
+RT @dchest Перевел Gettings Started http://t.co/Mzh9OPv - L<link|http://twitter.com/zagru/statuses/74147875487105025>
+
+
+
+=begin comment :src
+{
+  "from": {
+    "id": "zag",
+    "type": "user",
+    "name": "углы «Исимуры»"
+  },
+  "via": {
+    "url": "http://twitter.com/zagru/statuses/74147875487105025",
+    "name": "Twitter"
+  },
+  "body": "RT @<a rel=\"nofollow\" href=\"http://twitter.com/dchest\">dchest</a> Перевел Gettings Started <a rel=\"nofollow\" href=\"http://t.co/Mzh9OPv\" title=\"http://code.google.com/p/golang-ru/wiki/GettingStarted\">http://code.google.com/p...</a>",
+  "rawLink": "http://twitter.com/zagru/statuses/74147875487105025",
+  "rawBody": "RT @dchest Перевел Gettings Started http://t.co/Mzh9OPv",
+  "id": "e/5aa22d54f5a8e26d76baba648b14d65b",
+  "date": "2011-05-27T16:20:05Z",
+  "url": "http://friendfeed.com/zag/5aa22d54/rt-dchest-gettings-started"
+}
+=end comment
+
+=end pod

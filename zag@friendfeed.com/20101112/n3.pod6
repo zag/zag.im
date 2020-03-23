@@ -1,0 +1,36 @@
+=begin pod :pubdate('2010-11-12T14:31:52Z') :type<note> :tags<gddru>
+=NAME По совету @tamerlan311 отложу покупку телефона на базе android. #gddru
+
+=begin DESCRIPTION
+
+По совету @tamerlan311 отложу покупку телефона на базе android. #gddru - L<link|http://twitter.com/zagru/statuses/3092617004847104>
+
+
+
+=end DESCRIPTION
+
+По совету @tamerlan311 отложу покупку телефона на базе android. #gddru - L<link|http://twitter.com/zagru/statuses/3092617004847104>
+
+
+
+=begin comment :src
+{
+  "from": {
+    "type": "user",
+    "id": "zag",
+    "name": "углы «Исимуры»"
+  },
+  "via": {
+    "url": "http://twitter.com/zagru/statuses/3092617004847104",
+    "name": "Twitter"
+  },
+  "id": "e/c23a550f965358bb19e397464f053173",
+  "date": "2010-11-12T14:31:52Z",
+  "url": "http://friendfeed.com/zag/c23a550f/tamerlan311-android-gddru",
+  "rawBody": "По совету @tamerlan311 отложу покупку телефона на базе android. #gddru",
+  "rawLink": "http://twitter.com/zagru/statuses/3092617004847104",
+  "body": "По совету @<a rel=\"nofollow\" href=\"http://twitter.com/tamerlan311\">tamerlan311</a> отложу покупку телефона на базе android. <a rel=\"nofollow\" href=\"http://search.twitter.com/search?q=%23gddru\">#gddru</a>"
+}
+=end comment
+
+=end pod

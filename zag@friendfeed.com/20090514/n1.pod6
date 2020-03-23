@@ -1,0 +1,36 @@
+=begin pod :pubdate('2009-05-14T13:29:55Z') :type<note> 
+=NAME 2 day left for YAPC::Russia 2009 http://2009.yapcrussia.org/mayperl2/index.html
+
+=begin DESCRIPTION
+
+2 day left for YAPC::Russia 2009 http://2009.yapcrussia.org/mayperl2/index.html - L<link|http://twitter.com/zagru/statuses/1794756739>
+
+
+
+=end DESCRIPTION
+
+2 day left for YAPC::Russia 2009 http://2009.yapcrussia.org/mayperl2/index.html - L<link|http://twitter.com/zagru/statuses/1794756739>
+
+
+
+=begin comment :src
+{
+  "from": {
+    "type": "user",
+    "id": "zag",
+    "name": "углы «Исимуры»"
+  },
+  "via": {
+    "url": "http://twitter.com/zagru/statuses/1794756739",
+    "name": "Twitter"
+  },
+  "rawLink": "http://twitter.com/zagru/statuses/1794756739",
+  "body": "2 day left for YAPC::Russia 2009 <a rel=\"nofollow\" href=\"http://2009.yapcrussia.org/mayperl2/index.html\" title=\"http://2009.yapcrussia.org/mayperl2/index.html\">http://2009.yapcrussia.org/mayperl...</a>",
+  "id": "e/87340c67d836444e7f7e30c56df46da0",
+  "url": "http://friendfeed.com/zag/87340c67/2-day-left-for-yapc-russia-2009",
+  "date": "2009-05-14T13:29:55Z",
+  "rawBody": "2 day left for YAPC::Russia 2009 http://2009.yapcrussia.org/mayperl2/index.html"
+}
+=end comment
+
+=end pod

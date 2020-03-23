@@ -1,0 +1,62 @@
+=begin pod :pubdate('2010-11-13T07:57:44Z') :type<note> 
+=NAME highload.ru закончился !
+
+=begin DESCRIPTION
+
+highload.ru закончился !
+=for Image :width(326) :link('http://m.friendfeed-media.com/ee0a365a1c4d973299e1c0e659b2547c42780146') :height(175) :preview
+media/859e84a3c8c36d0ed950e88fd15ffcc8d4d983ef.jpg
+
+
+
+=end DESCRIPTION
+
+highload.ru закончился !
+=for Image :width(326) :link('http://m.friendfeed-media.com/ee0a365a1c4d973299e1c0e659b2547c42780146') :height(175) :preview
+media/859e84a3c8c36d0ed950e88fd15ffcc8d4d983ef.jpg
+
+
+
+=begin comment :src
+{
+  "from": {
+    "name": "углы «Исимуры»",
+    "id": "zag",
+    "type": "user"
+  },
+  "url": "http://friendfeed.com/zag/b579a6c0/highload-ru",
+  "id": "e/b579a6c020684e569e02d3606d17bc6e",
+  "date": "2010-11-13T07:57:44Z",
+  "rawBody": "highload.ru закончился !",
+  "thumbnails": [
+    {
+      "height": 175,
+      "link": "http://m.friendfeed-media.com/ee0a365a1c4d973299e1c0e659b2547c42780146",
+      "width": 326,
+      "url": "http://m.friendfeed-media.com/859e84a3c8c36d0ed950e88fd15ffcc8d4d983ef"
+    }
+  ],
+  "likes": [
+    {
+      "date": "2010-11-13T11:49:23Z",
+      "from": {
+        "name": "woof",
+        "id": "woof",
+        "type": "user"
+      }
+    },
+    {
+      "from": {
+        "name": "alex@kapranoff.ru",
+        "type": "user",
+        "id": "kkapp"
+      },
+      "date": "2010-11-13T11:19:05Z"
+    }
+  ],
+  "rawLink": "http://friendfeed.com/e/b579a6c0-2068-4e56-9e02-d3606d17bc6e",
+  "body": "highload.ru закончился !"
+}
+=end comment
+
+=end pod

@@ -1,0 +1,36 @@
+=begin pod :pubdate('2011-01-28T20:05:19Z') :type<note> 
+=NAME Google APIs & Developer Products - January 2011
+
+=begin DESCRIPTION
+
+Google APIs & Developer Products - January 2011 - L<link|http://code.google.com/more/table/>
+
+
+
+=end DESCRIPTION
+
+Google APIs & Developer Products - January 2011 - L<link|http://code.google.com/more/table/>
+
+
+
+=begin comment :src
+{
+  "from": {
+    "id": "zag",
+    "type": "user",
+    "name": "углы «Исимуры»"
+  },
+  "via": {
+    "url": "http://friendfeed.com/share/bookmarklet",
+    "name": "Bookmarklet"
+  },
+  "body": "Google APIs &amp; Developer Products - January 2011 - <a rel=\"nofollow\" href=\"http://code.google.com/more/table/\" title=\"http://code.google.com/more/table/\">http://code.google.com/more...</a>",
+  "rawLink": "http://code.google.com/more/table/",
+  "id": "e/2b75555d8d1644509ef1cd0eac370db0",
+  "date": "2011-01-28T20:05:19Z",
+  "rawBody": "Google APIs & Developer Products - January 2011",
+  "url": "http://friendfeed.com/zag/2b75555d/google-apis-developer-products-january-2011"
+}
+=end comment
+
+=end pod

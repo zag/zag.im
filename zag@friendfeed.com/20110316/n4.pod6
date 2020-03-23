@@ -1,0 +1,48 @@
+=begin pod :pubdate('2011-03-16T05:56:31Z') :type<note> 
+=NAME The Egyptian Revolution on Twitter | Gephi
+
+=begin DESCRIPTION
+
+The Egyptian Revolution on Twitter | Gephi - L<link|http://gephi.org/2011/the-egyptian-revolution-on-twitter/#>
+=for Image :width(306) :link('http://gephi.org/2011/the-egyptian-revolution-on-twitter/#') :height(175) :preview
+media/c2d4a299ffad19979e252e49cdac452e4c545fe5.jpg
+
+
+
+=end DESCRIPTION
+
+The Egyptian Revolution on Twitter | Gephi - L<link|http://gephi.org/2011/the-egyptian-revolution-on-twitter/#>
+=for Image :width(306) :link('http://gephi.org/2011/the-egyptian-revolution-on-twitter/#') :height(175) :preview
+media/c2d4a299ffad19979e252e49cdac452e4c545fe5.jpg
+
+
+
+=begin comment :src
+{
+  "thumbnails": [
+    {
+      "url": "http://m.friendfeed-media.com/c2d4a299ffad19979e252e49cdac452e4c545fe5",
+      "width": 306,
+      "height": 175,
+      "link": "http://gephi.org/2011/the-egyptian-revolution-on-twitter/#"
+    }
+  ],
+  "id": "e/92633737e7264857b2b6a8f8a53dade3",
+  "date": "2011-03-16T05:56:31Z",
+  "rawBody": "The Egyptian Revolution on Twitter | Gephi",
+  "url": "http://friendfeed.com/zag/92633737/egyptian-revolution-on-twitter-gephi",
+  "rawLink": "http://gephi.org/2011/the-egyptian-revolution-on-twitter/#",
+  "body": "The Egyptian Revolution on Twitter | Gephi - <a rel=\"nofollow\" href=\"http://gephi.org/2011/the-egyptian-revolution-on-twitter/#\" title=\"http://gephi.org/2011/the-egyptian-revolution-on-twitter/#\">http://gephi.org/2011...</a>",
+  "from": {
+    "type": "user",
+    "id": "zag",
+    "name": "углы «Исимуры»"
+  },
+  "via": {
+    "url": "http://friendfeed.com/share/bookmarklet",
+    "name": "Bookmarklet"
+  }
+}
+=end comment
+
+=end pod

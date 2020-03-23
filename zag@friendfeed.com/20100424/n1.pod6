@@ -1,0 +1,67 @@
+=begin pod :pubdate('2010-04-24T18:38:53Z') :type<note> 
+=NAME Mike Hanson, Douglas Crockford, and Facebook; A tale of security, privacy, and performance on Dion Almaer's Blog
+
+=begin DESCRIPTION
+
+Mike Hanson, Douglas Crockford, and Facebook; A tale of security, privacy, and performance on Dion Almaer's Blog - L<link|http://almaer.com/blog/mike-hanson-douglas-crockford-and-facebook-a-tale-of-security-privacy-and-performance?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+dion+%28techno.blog%28%22Dion%22%29%29&utm_content=Google+Reader>
+=for Image :width(233) :link('http://almaer.com/blog/mike-hanson-douglas-crockford-and-facebook-a-tale-of-security-privacy-and-performance?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+dion+%28techno.blog%28%22Dion%22%29%29&utm_content=Google+Reader') :height(175) :preview
+media/51d4b1aa34da3702c5b0d4f13afab793d050a74b.jpg
+
+=item Isn’t it fun to have a like button on content that actually likes some XXX porn. You like innocuous content X, and your wife looks at your stream to see that you are into a dirty movie.
+
+
+=end DESCRIPTION
+
+Mike Hanson, Douglas Crockford, and Facebook; A tale of security, privacy, and performance on Dion Almaer's Blog - L<link|http://almaer.com/blog/mike-hanson-douglas-crockford-and-facebook-a-tale-of-security-privacy-and-performance?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+dion+%28techno.blog%28%22Dion%22%29%29&utm_content=Google+Reader>
+=for Image :width(233) :link('http://almaer.com/blog/mike-hanson-douglas-crockford-and-facebook-a-tale-of-security-privacy-and-performance?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+dion+%28techno.blog%28%22Dion%22%29%29&utm_content=Google+Reader') :height(175) :preview
+media/51d4b1aa34da3702c5b0d4f13afab793d050a74b.jpg
+
+=item Isn’t it fun to have a like button on content that actually likes some XXX porn. You like innocuous content X, and your wife looks at your stream to see that you are into a dirty movie.
+
+
+=begin comment :src
+{
+  "comments": [
+    {
+      "body": "Isn’t it fun to have a like button on content that actually likes some XXX porn. You like innocuous content X, and your wife looks at your stream to see that you are into a dirty movie.",
+      "via": {
+        "url": "http://friendfeed.com/share/bookmarklet",
+        "name": "Bookmarklet"
+      },
+      "date": "2010-04-24T18:38:53Z",
+      "id": "e/a3425b54239647859937300363dd91ce/c/1f3958ab457b4b6085057b76d75550e7",
+      "rawBody": "Isn’t it fun to have a like button on content that actually likes some XXX porn. You like innocuous content X, and your wife looks at your stream to see that you are into a dirty movie.",
+      "from": {
+        "name": "углы «Исимуры»",
+        "id": "zag",
+        "type": "user"
+      }
+    }
+  ],
+  "from": {
+    "id": "zag",
+    "type": "user",
+    "name": "углы «Исимуры»"
+  },
+  "via": {
+    "url": "http://friendfeed.com/share/bookmarklet",
+    "name": "Bookmarklet"
+  },
+  "rawLink": "http://almaer.com/blog/mike-hanson-douglas-crockford-and-facebook-a-tale-of-security-privacy-and-performance?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+dion+%28techno.blog%28%22Dion%22%29%29&utm_content=Google+Reader",
+  "body": "Mike Hanson, Douglas Crockford, and Facebook; A tale of security, privacy, and performance on Dion Almaer's Blog - <a rel=\"nofollow\" href=\"http://almaer.com/blog/mike-hanson-douglas-crockford-and-facebook-a-tale-of-security-privacy-and-performance?utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+dion+%28techno.blog%28%22Dion%22%29%29&amp;utm_content=Google+Reader\" title=\"http://almaer.com/blog/mike-hanson-douglas-crockford-and-facebook-a-tale-of-security-privacy-and-performance?utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+dion+%28techno.blog%28%22Dion%22%29%29&amp;utm_content=Google+Reader\">http://almaer.com/blog...</a>",
+  "id": "e/a3425b54239647859937300363dd91ce",
+  "rawBody": "Mike Hanson, Douglas Crockford, and Facebook; A tale of security, privacy, and performance on Dion Almaer's Blog",
+  "date": "2010-04-24T18:38:53Z",
+  "url": "http://friendfeed.com/zag/a3425b54/mike-hanson-douglas-crockford-and-facebook",
+  "thumbnails": [
+    {
+      "width": 233,
+      "url": "http://m.friendfeed-media.com/51d4b1aa34da3702c5b0d4f13afab793d050a74b",
+      "link": "http://almaer.com/blog/mike-hanson-douglas-crockford-and-facebook-a-tale-of-security-privacy-and-performance?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+dion+%28techno.blog%28%22Dion%22%29%29&utm_content=Google+Reader",
+      "height": 175
+    }
+  ]
+}
+=end comment
+
+=end pod

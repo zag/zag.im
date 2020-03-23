@@ -1,0 +1,48 @@
+=begin pod :pubdate('2011-07-01T00:00:38Z') :type<note> :tags<lvee>
+=NAME СПО в учебных заведениях укарины #lvee
+
+=begin DESCRIPTION
+
+СПО в учебных заведениях укарины #lvee
+=for Image :width(292) :link('http://m.friendfeed-media.com/0dea2bc640528284df5a409cf897053392bf6220') :height(175) :preview
+media/ad908906ed1610f532b7d5c58e59241e8d57b265.jpg
+
+
+
+=end DESCRIPTION
+
+СПО в учебных заведениях укарины #lvee
+=for Image :width(292) :link('http://m.friendfeed-media.com/0dea2bc640528284df5a409cf897053392bf6220') :height(175) :preview
+media/ad908906ed1610f532b7d5c58e59241e8d57b265.jpg
+
+
+
+=begin comment :src
+{
+  "from": {
+    "type": "user",
+    "id": "zag",
+    "name": "углы «Исимуры»"
+  },
+  "via": {
+    "url": "http://friendfeed.com/share/mail",
+    "name": "email"
+  },
+  "body": "СПО в учебных заведениях укарины <a href=\"http://friendfeed.com/search?q=%23lvee\">#lvee</a>",
+  "rawLink": "http://friendfeed.com/e/90310236-ad8c-4bb5-bfa0-b8dea34a47a1",
+  "id": "e/90310236ad8c4bb5bfa0b8dea34a47a1",
+  "date": "2011-07-01T00:00:38Z",
+  "rawBody": "СПО в учебных заведениях укарины #lvee",
+  "url": "http://friendfeed.com/zag/90310236/lvee",
+  "thumbnails": [
+    {
+      "width": 292,
+      "url": "http://m.friendfeed-media.com/ad908906ed1610f532b7d5c58e59241e8d57b265",
+      "link": "http://m.friendfeed-media.com/0dea2bc640528284df5a409cf897053392bf6220",
+      "height": 175
+    }
+  ]
+}
+=end comment
+
+=end pod

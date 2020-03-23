@@ -1,0 +1,87 @@
+=begin pod :pubdate('2011-02-09T10:16:08Z') :type<note> 
+=NAME book lovers never go to bed alone
+
+=begin DESCRIPTION
+
+book lovers never go to bed alone - L<link|http://bookshelves.tumblr.com/>
+=for Image :width(123) :link('http://bookshelves.tumblr.com/') :height(175) :preview
+media/74485e86afcd8663969332ec91b9fa087ac0f4af.jpg
+=for Image :width(143) :link('http://bookshelves.tumblr.com/') :height(175) :preview
+media/b8bf0469f688b11b8e12ff7d8d001a8518057df5.jpg
+=for Image :width(233) :link('http://bookshelves.tumblr.com/') :height(175) :preview
+media/e7ed584623ecfbcae77d99f5ab8cde611428d280.jpg
+
+=item "A little library, growing larger every year, is an honourable part of a man's history. It is a man's duty to have books. A library is not a luxury, but one of the necessaries of life. Henry Ward Beecher"
+
+
+=end DESCRIPTION
+
+book lovers never go to bed alone - L<link|http://bookshelves.tumblr.com/>
+=for Image :width(123) :link('http://bookshelves.tumblr.com/') :height(175) :preview
+media/74485e86afcd8663969332ec91b9fa087ac0f4af.jpg
+=for Image :width(143) :link('http://bookshelves.tumblr.com/') :height(175) :preview
+media/b8bf0469f688b11b8e12ff7d8d001a8518057df5.jpg
+=for Image :width(233) :link('http://bookshelves.tumblr.com/') :height(175) :preview
+media/e7ed584623ecfbcae77d99f5ab8cde611428d280.jpg
+
+=item "A little library, growing larger every year, is an honourable part of a man's history. It is a man's duty to have books. A library is not a luxury, but one of the necessaries of life. Henry Ward Beecher"
+
+
+=begin comment :src
+{
+  "via": {
+    "url": "http://friendfeed.com/share/bookmarklet",
+    "name": "Bookmarklet"
+  },
+  "from": {
+    "name": "углы «Исимуры»",
+    "type": "user",
+    "id": "zag"
+  },
+  "comments": [
+    {
+      "body": "&quot;A little library, growing larger every year, is an honourable part of a man's history. It is a man's duty to have books. A library is not a luxury, but one of the necessaries of life. Henry Ward Beecher&quot;",
+      "rawBody": "\"A little library, growing larger every year, is an honourable part of a man's history. It is a man's duty to have books. A library is not a luxury, but one of the necessaries of life. Henry Ward Beecher\"",
+      "id": "e/80b9f886a4c94e5cb1e9c9b46253d17b/c/88e5153110e54ef7a266231dfcad22f8",
+      "date": "2011-02-09T10:16:08Z",
+      "from": {
+        "type": "user",
+        "id": "zag",
+        "name": "углы «Исимуры»"
+      },
+      "via": {
+        "name": "Bookmarklet",
+        "url": "http://friendfeed.com/share/bookmarklet"
+      }
+    }
+  ],
+  "rawBody": "book lovers never go to bed alone",
+  "id": "e/80b9f886a4c94e5cb1e9c9b46253d17b",
+  "date": "2011-02-09T10:16:08Z",
+  "url": "http://friendfeed.com/zag/80b9f886/book-lovers-never-go-to-bed-alone",
+  "thumbnails": [
+    {
+      "width": 123,
+      "url": "http://m.friendfeed-media.com/74485e86afcd8663969332ec91b9fa087ac0f4af",
+      "height": 175,
+      "link": "http://bookshelves.tumblr.com/"
+    },
+    {
+      "width": 143,
+      "url": "http://m.friendfeed-media.com/b8bf0469f688b11b8e12ff7d8d001a8518057df5",
+      "height": 175,
+      "link": "http://bookshelves.tumblr.com/"
+    },
+    {
+      "url": "http://m.friendfeed-media.com/e7ed584623ecfbcae77d99f5ab8cde611428d280",
+      "width": 233,
+      "link": "http://bookshelves.tumblr.com/",
+      "height": 175
+    }
+  ],
+  "rawLink": "http://bookshelves.tumblr.com/",
+  "body": "book lovers never go to bed alone - <a rel=\"nofollow\" href=\"http://bookshelves.tumblr.com/\">http://bookshelves.tumblr.com/</a>"
+}
+=end comment
+
+=end pod

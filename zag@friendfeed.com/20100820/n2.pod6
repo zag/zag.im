@@ -1,0 +1,42 @@
+=begin pod :pubdate('2010-08-20T10:45:39Z') :type<note> :tags<perl6>
+=NAME В декабре выйдет Rakudo Perl 6. Под Рождество. #perl6 http://twitter.com/carlmasak/status/21653856035
+
+=begin DESCRIPTION
+
+В декабре выйдет Rakudo Perl 6. Под Рождество. #perl6 http://twitter.com/carlmasak/status/21653856035
+
+
+
+=end DESCRIPTION
+
+В декабре выйдет Rakudo Perl 6. Под Рождество. #perl6 http://twitter.com/carlmasak/status/21653856035
+
+
+
+=begin comment :src
+{
+  "from": {
+    "id": "zag",
+    "type": "user",
+    "name": "углы «Исимуры»"
+  },
+  "date": "2010-08-20T10:45:39Z",
+  "id": "e/618f3879a4d5405b9e8fe553d48e6973",
+  "url": "http://friendfeed.com/zag/618f3879/rakudo-perl-6-perl6",
+  "rawBody": "В декабре выйдет Rakudo Perl 6. Под Рождество. #perl6 http://twitter.com/carlmasak/status/21653856035",
+  "rawLink": "http://friendfeed.com/e/618f3879-a4d5-405b-9e8f-e553d48e6973",
+  "likes": [
+    {
+      "from": {
+        "type": "user",
+        "id": "kkapp",
+        "name": "alex@kapranoff.ru"
+      },
+      "date": "2010-08-20T11:23:47Z"
+    }
+  ],
+  "body": "В декабре выйдет Rakudo Perl 6. Под Рождество. <a href=\"http://friendfeed.com/search?q=%23perl6\">#perl6</a> <a rel=\"nofollow\" href=\"http://twitter.com/carlmasak/status/21653856035\" title=\"http://twitter.com/carlmasak/status/21653856035\">http://twitter.com/carlmas...</a>"
+}
+=end comment
+
+=end pod

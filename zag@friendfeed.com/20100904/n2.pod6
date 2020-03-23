@@ -1,0 +1,44 @@
+=begin pod :pubdate('2010-09-04T12:41:09Z') :type<note> 
+=NAME drunken combat
+
+=begin DESCRIPTION
+
+drunken combat
+=for Image :width(171) :link('http://m.friendfeed-media.com/d684c1097d6575e675b56ce33fa98e0824d8aa70') :height(175) :preview
+media/aabdc69da8a6c6ad7fc1d74ad3d7b293e2b107da.jpg
+
+
+
+=end DESCRIPTION
+
+drunken combat
+=for Image :width(171) :link('http://m.friendfeed-media.com/d684c1097d6575e675b56ce33fa98e0824d8aa70') :height(175) :preview
+media/aabdc69da8a6c6ad7fc1d74ad3d7b293e2b107da.jpg
+
+
+
+=begin comment :src
+{
+  "rawBody": "drunken combat",
+  "id": "e/9d76bb0b0d324e77936a830c6e33fa27",
+  "date": "2010-09-04T12:41:09Z",
+  "url": "http://friendfeed.com/zag/9d76bb0b/drunken-combat",
+  "thumbnails": [
+    {
+      "height": 175,
+      "link": "http://m.friendfeed-media.com/d684c1097d6575e675b56ce33fa98e0824d8aa70",
+      "width": 171,
+      "url": "http://m.friendfeed-media.com/aabdc69da8a6c6ad7fc1d74ad3d7b293e2b107da"
+    }
+  ],
+  "body": "drunken combat",
+  "rawLink": "http://friendfeed.com/e/9d76bb0b-0d32-4e77-936a-830c6e33fa27",
+  "from": {
+    "id": "zag",
+    "type": "user",
+    "name": "углы «Исимуры»"
+  }
+}
+=end comment
+
+=end pod

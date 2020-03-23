@@ -1,0 +1,77 @@
+=begin pod :pubdate('2011-03-16T13:17:05Z') :type<note> 
+=NAME Online Village: Is JavaScript Is Faster Than C?
+
+=begin DESCRIPTION
+
+Online Village: Is JavaScript Is Faster Than C? - L<link|http://onlinevillage.blogspot.com/2011/03/is-javascript-is-faster-than-c.html>
+=for Image :width(240) :link('http://onlinevillage.blogspot.com/2011/03/is-javascript-is-faster-than-c.html') :height(175) :preview
+media/d346e096c7bcf79d03274acd64ac13838fde61e6.jpg
+=for Image :width(223) :link('http://onlinevillage.blogspot.com/2011/03/is-javascript-is-faster-than-c.html') :height(175) :preview
+media/f097aa1ffacc9f284997fb03e9335ac01319c387.jpg
+
+=item Solving 137846 games of the 15-Hole Peg Soltaire by calculating every possible move using an Object Oriented style. Solutions are provided in C, C#, Java, JavaScript, PHP, Python and Ruby (more submissions encouraged!).
+
+
+=end DESCRIPTION
+
+Online Village: Is JavaScript Is Faster Than C? - L<link|http://onlinevillage.blogspot.com/2011/03/is-javascript-is-faster-than-c.html>
+=for Image :width(240) :link('http://onlinevillage.blogspot.com/2011/03/is-javascript-is-faster-than-c.html') :height(175) :preview
+media/d346e096c7bcf79d03274acd64ac13838fde61e6.jpg
+=for Image :width(223) :link('http://onlinevillage.blogspot.com/2011/03/is-javascript-is-faster-than-c.html') :height(175) :preview
+media/f097aa1ffacc9f284997fb03e9335ac01319c387.jpg
+
+=item Solving 137846 games of the 15-Hole Peg Soltaire by calculating every possible move using an Object Oriented style. Solutions are provided in C, C#, Java, JavaScript, PHP, Python and Ruby (more submissions encouraged!).
+
+
+=begin comment :src
+{
+  "date": "2011-03-16T13:17:05Z",
+  "id": "e/59c1878c473f4f60a155a0a7dc3c2257",
+  "rawBody": "Online Village: Is JavaScript Is Faster Than C?",
+  "thumbnails": [
+    {
+      "height": 175,
+      "link": "http://onlinevillage.blogspot.com/2011/03/is-javascript-is-faster-than-c.html",
+      "width": 240,
+      "url": "http://m.friendfeed-media.com/d346e096c7bcf79d03274acd64ac13838fde61e6"
+    },
+    {
+      "url": "http://m.friendfeed-media.com/f097aa1ffacc9f284997fb03e9335ac01319c387",
+      "width": 223,
+      "height": 175,
+      "link": "http://onlinevillage.blogspot.com/2011/03/is-javascript-is-faster-than-c.html"
+    }
+  ],
+  "url": "http://friendfeed.com/zag/59c1878c/online-village-is-javascript-faster-than-c",
+  "body": "Online Village: Is JavaScript Is Faster Than C? - <a rel=\"nofollow\" href=\"http://onlinevillage.blogspot.com/2011/03/is-javascript-is-faster-than-c.html\" title=\"http://onlinevillage.blogspot.com/2011/03/is-javascript-is-faster-than-c.html\">http://onlinevillage.blogspot.com/2011...</a>",
+  "rawLink": "http://onlinevillage.blogspot.com/2011/03/is-javascript-is-faster-than-c.html",
+  "from": {
+    "id": "zag",
+    "type": "user",
+    "name": "углы «Исимуры»"
+  },
+  "via": {
+    "url": "http://friendfeed.com/share/bookmarklet",
+    "name": "Bookmarklet"
+  },
+  "comments": [
+    {
+      "body": "Solving 137846 games of the 15-Hole Peg Soltaire by calculating every possible move using an Object Oriented style. Solutions are provided in C, C#, Java, JavaScript, PHP, Python and Ruby (more submissions encouraged!).",
+      "via": {
+        "url": "http://friendfeed.com/share/bookmarklet",
+        "name": "Bookmarklet"
+      },
+      "date": "2011-03-16T13:17:05Z",
+      "id": "e/59c1878c473f4f60a155a0a7dc3c2257/c/5f09e0bf3f9243ee870c1644ba644d94",
+      "from": {
+        "id": "zag",
+        "type": "user",
+        "name": "углы «Исимуры»"
+      },
+      "rawBody": "Solving 137846 games of the 15-Hole Peg Soltaire by calculating every possible move using an Object Oriented style. Solutions are provided in C, C#, Java, JavaScript, PHP, Python and Ruby (more submissions encouraged!)."
+    }
+  ]
+}
+=end comment
+
+=end pod

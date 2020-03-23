@@ -1,0 +1,79 @@
+=begin pod :pubdate('2010-12-07T18:35:06Z') :type<note> :tags<fail fail>
+=NAME Смартфон HTC Touch Pro2 на базе windows с qwerty. Тоже #fail. Htc qwerty - #fail
+
+=begin DESCRIPTION
+
+Смартфон HTC Touch Pro2 на базе windows с qwerty. Тоже #fail. Htc qwerty - #fail
+=for Image :width(233) :link('http://m.friendfeed-media.com/30c858160f378dc1c13ff384d00d240b5469a3bd') :height(175) :preview
+media/cecafc40e92ac51fbab009b2244bfd017c197408.jpg
+=for Image :width(233) :link('http://m.friendfeed-media.com/d9eac1db198848beb907d88d46d578727593ea69') :height(175) :preview
+media/33d0f959cf16eed310397af7b510bf610e448432.jpg
+=for Image :width(233) :link('http://m.friendfeed-media.com/f8d19197d672cfaa0b24df380a05e18372678658') :height(175) :preview
+media/5f235761932086b0e39e14ca755715779da1921c.jpg
+
+=item Сочетание серых и светло зеленых символов на серебристом фоне клавиатуре неудачно. Низкий контраст такого сочетания -> приходится всматриваться чтобы разглядеть символы
+
+
+=end DESCRIPTION
+
+Смартфон HTC Touch Pro2 на базе windows с qwerty. Тоже #fail. Htc qwerty - #fail
+=for Image :width(233) :link('http://m.friendfeed-media.com/30c858160f378dc1c13ff384d00d240b5469a3bd') :height(175) :preview
+media/cecafc40e92ac51fbab009b2244bfd017c197408.jpg
+=for Image :width(233) :link('http://m.friendfeed-media.com/d9eac1db198848beb907d88d46d578727593ea69') :height(175) :preview
+media/33d0f959cf16eed310397af7b510bf610e448432.jpg
+=for Image :width(233) :link('http://m.friendfeed-media.com/f8d19197d672cfaa0b24df380a05e18372678658') :height(175) :preview
+media/5f235761932086b0e39e14ca755715779da1921c.jpg
+
+=item Сочетание серых и светло зеленых символов на серебристом фоне клавиатуре неудачно. Низкий контраст такого сочетания -> приходится всматриваться чтобы разглядеть символы
+
+
+=begin comment :src
+{
+  "comments": [
+    {
+      "body": "Сочетание серых и светло зеленых символов на серебристом фоне клавиатуре неудачно. Низкий контраст такого сочетания -&gt; приходится всматриваться чтобы разглядеть символы",
+      "rawBody": "Сочетание серых и светло зеленых символов на серебристом фоне клавиатуре неудачно. Низкий контраст такого сочетания -> приходится всматриваться чтобы разглядеть символы",
+      "date": "2010-12-07T20:01:22Z",
+      "id": "e/75d1d0a10c5b45cca3c2380b615e91c4/c/21fa9e8af48c465dbed475e710ed8f06",
+      "from": {
+        "id": "zag",
+        "type": "user",
+        "name": "углы «Исимуры»"
+      }
+    }
+  ],
+  "from": {
+    "name": "углы «Исимуры»",
+    "id": "zag",
+    "type": "user"
+  },
+  "rawLink": "http://friendfeed.com/e/75d1d0a1-0c5b-45cc-a3c2-380b615e91c4",
+  "body": "Смартфон HTC Touch Pro2 на базе windows с qwerty. Тоже <a href=\"http://friendfeed.com/search?q=%23fail\">#fail</a>. Htc qwerty - <a href=\"http://friendfeed.com/search?q=%23fail\">#fail</a>",
+  "id": "e/75d1d0a10c5b45cca3c2380b615e91c4",
+  "rawBody": "Смартфон HTC Touch Pro2 на базе windows с qwerty. Тоже #fail. Htc qwerty - #fail",
+  "date": "2010-12-07T18:35:06Z",
+  "url": "http://friendfeed.com/zag/75d1d0a1/htc-touch-pro2-windows-qwerty-fail",
+  "thumbnails": [
+    {
+      "url": "http://m.friendfeed-media.com/cecafc40e92ac51fbab009b2244bfd017c197408",
+      "width": 233,
+      "height": 175,
+      "link": "http://m.friendfeed-media.com/30c858160f378dc1c13ff384d00d240b5469a3bd"
+    },
+    {
+      "width": 233,
+      "url": "http://m.friendfeed-media.com/33d0f959cf16eed310397af7b510bf610e448432",
+      "link": "http://m.friendfeed-media.com/d9eac1db198848beb907d88d46d578727593ea69",
+      "height": 175
+    },
+    {
+      "url": "http://m.friendfeed-media.com/5f235761932086b0e39e14ca755715779da1921c",
+      "width": 233,
+      "link": "http://m.friendfeed-media.com/f8d19197d672cfaa0b24df380a05e18372678658",
+      "height": 175
+    }
+  ]
+}
+=end comment
+
+=end pod

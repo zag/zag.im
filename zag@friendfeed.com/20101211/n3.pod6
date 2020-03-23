@@ -1,0 +1,68 @@
+=begin pod :pubdate('2010-12-11T12:21:11Z') :type<note> 
+=NAME Главный блиндаж
+
+=begin DESCRIPTION
+
+Главный блиндаж
+=for Image :width(233) :link('http://m.friendfeed-media.com/73075628fcb3609eb4b4239872e251aa901dc66f') :height(175) :preview
+media/ca16116898b990127fb8eb40a6f697d91b5a9a0e.jpg
+=for Image :width(233) :link('http://m.friendfeed-media.com/034d412521d79cc474e5d3366d6ad5c5fb5af717') :height(175) :preview
+media/34a09efb67edc62b9c877732c17655edf1195374.jpg
+=for Image :width(233) :link('http://m.friendfeed-media.com/99f2253643c5d95441beda958f241e1bcdc442b4') :height(175) :preview
+media/ccf763bb6edbd443d77b29c4cd3e842823c4d8ad.jpg
+
+
+
+=end DESCRIPTION
+
+Главный блиндаж
+=for Image :width(233) :link('http://m.friendfeed-media.com/73075628fcb3609eb4b4239872e251aa901dc66f') :height(175) :preview
+media/ca16116898b990127fb8eb40a6f697d91b5a9a0e.jpg
+=for Image :width(233) :link('http://m.friendfeed-media.com/034d412521d79cc474e5d3366d6ad5c5fb5af717') :height(175) :preview
+media/34a09efb67edc62b9c877732c17655edf1195374.jpg
+=for Image :width(233) :link('http://m.friendfeed-media.com/99f2253643c5d95441beda958f241e1bcdc442b4') :height(175) :preview
+media/ccf763bb6edbd443d77b29c4cd3e842823c4d8ad.jpg
+
+
+
+=begin comment :src
+{
+  "from": {
+    "name": "углы «Исимуры»",
+    "type": "user",
+    "id": "zag"
+  },
+  "via": {
+    "url": "http://friendfeed.com/share/mail",
+    "name": "email"
+  },
+  "rawLink": "http://friendfeed.com/e/4647e46c-1093-497b-bd6e-99422d66b5ce",
+  "body": "Главный блиндаж",
+  "id": "e/4647e46c1093497bbd6e99422d66b5ce",
+  "rawBody": "Главный блиндаж",
+  "date": "2010-12-11T12:21:11Z",
+  "url": "http://friendfeed.com/zag/4647e46c",
+  "thumbnails": [
+    {
+      "url": "http://m.friendfeed-media.com/ca16116898b990127fb8eb40a6f697d91b5a9a0e",
+      "width": 233,
+      "height": 175,
+      "link": "http://m.friendfeed-media.com/73075628fcb3609eb4b4239872e251aa901dc66f"
+    },
+    {
+      "link": "http://m.friendfeed-media.com/034d412521d79cc474e5d3366d6ad5c5fb5af717",
+      "height": 175,
+      "url": "http://m.friendfeed-media.com/34a09efb67edc62b9c877732c17655edf1195374",
+      "width": 233
+    },
+    {
+      "height": 175,
+      "link": "http://m.friendfeed-media.com/99f2253643c5d95441beda958f241e1bcdc442b4",
+      "width": 233,
+      "url": "http://m.friendfeed-media.com/ccf763bb6edbd443d77b29c4cd3e842823c4d8ad"
+    }
+  ]
+}
+=end comment
+
+=end pod

@@ -1,0 +1,36 @@
+=begin pod :pubdate('2010-10-01T10:42:24Z') :type<note> :tags<yac2010>
+=NAME таки да, для реалтайм поисковой системы map reduce не годится #yac2010
+
+=begin DESCRIPTION
+
+таки да, для реалтайм поисковой системы map reduce не годится #yac2010
+
+
+
+=end DESCRIPTION
+
+таки да, для реалтайм поисковой системы map reduce не годится #yac2010
+
+
+
+=begin comment :src
+{
+  "from": {
+    "name": "углы «Исимуры»",
+    "id": "zag",
+    "type": "user"
+  },
+  "via": {
+    "url": "http://friendfeed.com/about/im",
+    "name": "IM"
+  },
+  "id": "e/d360c12d9a1940049a9ccfcdf15e04a4",
+  "date": "2010-10-01T10:42:24Z",
+  "rawBody": "таки да, для реалтайм поисковой системы map reduce не годится #yac2010",
+  "url": "http://friendfeed.com/zag/d360c12d/map-reduce-yac2010",
+  "body": "таки да, для реалтайм поисковой системы map reduce не годится <a href=\"http://friendfeed.com/search?q=%23yac2010\">#yac2010</a>",
+  "rawLink": "http://friendfeed.com/e/d360c12d-9a19-4004-9a9c-cfcdf15e04a4"
+}
+=end comment
+
+=end pod

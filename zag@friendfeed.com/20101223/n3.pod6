@@ -1,0 +1,55 @@
+=begin pod :pubdate('2010-12-23T10:04:59Z') :type<note> 
+=NAME Пожил пару дней, используя только links. Это другой Web - без JavaScript, без flash. Пока еще в нем выжить можно.
+
+=begin DESCRIPTION
+
+Пожил пару дней, используя только links. Это другой Web - без JavaScript, без flash. Пока еще в нем выжить можно. - L<link|http://twitter.com/zagru/statuses/17883356549087232>
+
+
+
+=end DESCRIPTION
+
+Пожил пару дней, используя только links. Это другой Web - без JavaScript, без flash. Пока еще в нем выжить можно. - L<link|http://twitter.com/zagru/statuses/17883356549087232>
+
+
+
+=begin comment :src
+{
+  "body": "Пожил пару дней, используя только links. Это другой Web - без JavaScript, без flash. Пока еще в нем выжить можно.",
+  "rawLink": "http://twitter.com/zagru/statuses/17883356549087232",
+  "likes": [
+    {
+      "from": {
+        "name": "tcharge",
+        "id": "tcharge",
+        "type": "user",
+        "private": true
+      },
+      "date": "2010-12-23T10:32:13Z"
+    },
+    {
+      "from": {
+        "name": "alex@kapranoff.ru",
+        "id": "kkapp",
+        "type": "user"
+      },
+      "date": "2010-12-23T10:10:19Z"
+    }
+  ],
+  "id": "e/ec3c06abb9ff7b836e1feb6214b7d34b",
+  "rawBody": "Пожил пару дней, используя только links. Это другой Web - без JavaScript, без flash. Пока еще в нем выжить можно.",
+  "date": "2010-12-23T10:04:59Z",
+  "url": "http://friendfeed.com/zag/ec3c06ab/links-web-javascript-flash",
+  "from": {
+    "id": "zag",
+    "type": "user",
+    "name": "углы «Исимуры»"
+  },
+  "via": {
+    "url": "http://twitter.com/zagru/statuses/17883356549087232",
+    "name": "Twitter"
+  }
+}
+=end comment
+
+=end pod

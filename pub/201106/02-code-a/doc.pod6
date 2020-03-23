@@ -1,0 +1,40 @@
+=begin pod :pubdate('2011-06-02 10:00:00') :tags<pod6 perl6 pod perl>
+
+=NAME Perl 6 Pod: Код форматирования A - вставка псевдонимов
+
+=begin DESCRIPTION
+
+Разновидностью кода замещения C<P<>> является код форматирования C<A<>>. Он замещается содержимым именованного псевдонима или объекта, указанных внутри ограничителей.
+
+=end DESCRIPTION
+
+Разновидностью кода замещения C<P<>> является код форматирования C<A<>>. Он замещается содержимым именованного псевдонима или объекта, указанных внутри ограничителей.
+Например:
+
+=begin code
+    =alias PROGNAME    Earl Irradiatem Eventually
+    =alias VENDOR      4D Kingdoms
+    =alias TERMS_URL   L<http://www.4dk.com/eie>
+
+    The use of A<PROGNAME> is subject to the terms and conditions
+    laid out by A<VENDOR>, as specified at A<TERMS_URL>.
+=end code
+
+Любой из объектов Perl 6, доступный на этапе компиляции и содержащий сигил, автоматически становится доступным для подстановки по его имени. Также все объекты, которые не являются строковыми типами, в режиме подготовки документации преобразуются в строки посредством неявного вызова метода C<.perl>.
+
+Так, например, документ может ссылаться на имя своего файла - C<A<$?FILE>>, на подпрограмму, внутри которой размещен блок Pod - C<A<$?ROUTINE>> или на текущий класс C<A<$?CLASS>> N<твигил C<?> указывает на значение переменной на этапе компиляции.>. 
+
+Аналогично, значение любой программной константы определенной с сигилом может быть легко вставлено в документацию:
+
+    # Actual code...
+    constant $GROWTH_RATE of Num where 0..* = 1.6;
+    =pod
+    =head4 Standard Growth Rate
+    The standard growth rate is assumed to be A<$GROWTH_RATE>.
+
+Для подобных объектов возможны вызовы константных (non-mutating) методов.
+Так например, в документации можно вставить сигнатуру подпрограммы (C<A<$?ROUTINE.signature>>) или тип константы (C<A<$GROWTH_RATE.WHAT>>). 
+
+На странице конвертера "L<Perl 6 Pod to HTML|<http://zag.ru/perl6-pod/>" доступен L<пример кода форматирования A |http://zag.ru/perl6-pod/#PWJlZ2luIHBvZAo9YWxpYXMgU0lURSBMPGh0dHA6Ly9leGFtcGxlLmNvbS8+Cj1wYXJhCk9mZmljaWFsIHNpdGUgb2YgdGhlIHByb2plY3QgaXMgbG9jYXRlZCBhdCBBPFNJVEU+IAo9ZW5kIHBvZAo=>.
+
+=end pod

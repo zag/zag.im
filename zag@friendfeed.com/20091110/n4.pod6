@@ -1,0 +1,36 @@
+=begin pod :pubdate('2009-11-10T09:15:27Z') :type<note> :tags<gdd09ru>
+=NAME Яндех поблагодарил п#gdd09ru
+
+=begin DESCRIPTION
+
+Яндех поблагодарил п#gdd09ru - L<link|http://twitter.com/zagru/statuses/5584635313>
+
+
+
+=end DESCRIPTION
+
+Яндех поблагодарил п#gdd09ru - L<link|http://twitter.com/zagru/statuses/5584635313>
+
+
+
+=begin comment :src
+{
+  "from": {
+    "id": "zag",
+    "type": "user",
+    "name": "углы «Исимуры»"
+  },
+  "via": {
+    "url": "http://twitter.com/zagru/statuses/5584635313",
+    "name": "Twitter"
+  },
+  "rawLink": "http://twitter.com/zagru/statuses/5584635313",
+  "body": "Яндех поблагодарил п#gdd09ru",
+  "date": "2009-11-10T09:15:27Z",
+  "id": "e/b38a8f4e17d1bf87d6757111f6a55b37",
+  "rawBody": "Яндех поблагодарил п#gdd09ru",
+  "url": "http://friendfeed.com/zag/b38a8f4e/gdd09ru"
+}
+=end comment
+
+=end pod

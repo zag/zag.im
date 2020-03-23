@@ -1,0 +1,36 @@
+=begin pod :pubdate('2011-01-30T15:32:41Z') :type<note> :tags<perl6 FreeBSD>
+=NAME Update lang/rakudo to January 2011 release of Rakudo * #perl6 #FreeBSD (PR:http://www.freebsd.org/cgi/query-pr.cgi?pr=ports/154371)
+
+=begin DESCRIPTION
+
+Update lang/rakudo to January 2011 release of Rakudo * #perl6 #FreeBSD (PR:http://www.freebsd.org/cgi/query-pr.cgi?pr=ports/154371) - L<link|http://twitter.com/zagru/statuses/31736565881372672>
+
+
+
+=end DESCRIPTION
+
+Update lang/rakudo to January 2011 release of Rakudo * #perl6 #FreeBSD (PR:http://www.freebsd.org/cgi/query-pr.cgi?pr=ports/154371) - L<link|http://twitter.com/zagru/statuses/31736565881372672>
+
+
+
+=begin comment :src
+{
+  "via": {
+    "name": "Twitter",
+    "url": "http://twitter.com/zagru/statuses/31736565881372672"
+  },
+  "from": {
+    "name": "углы «Исимуры»",
+    "id": "zag",
+    "type": "user"
+  },
+  "id": "e/41c1790aed4ce0531578a4deb485413e",
+  "rawBody": "Update lang/rakudo to January 2011 release of Rakudo * #perl6 #FreeBSD (PR:http://www.freebsd.org/cgi/query-pr.cgi?pr=ports/154371)",
+  "date": "2011-01-30T15:32:41Z",
+  "url": "http://friendfeed.com/zag/41c1790a/update-lang-rakudo-to-january-2011-release-of",
+  "body": "Update lang/rakudo to January 2011 release of Rakudo * <a rel=\"nofollow\" href=\"http://search.twitter.com/search?q=%23perl6\">#perl6</a> <a rel=\"nofollow\" href=\"http://search.twitter.com/search?q=%23FreeBSD\">#FreeBSD</a> (PR:<a rel=\"nofollow\" href=\"http://www.freebsd.org/cgi/query-pr.cgi?pr=ports/154371\" title=\"http://www.freebsd.org/cgi/query-pr.cgi?pr=ports/154371\">http://www.freebsd.org/cgi...</a>)",
+  "rawLink": "http://twitter.com/zagru/statuses/31736565881372672"
+}
+=end comment
+
+=end pod

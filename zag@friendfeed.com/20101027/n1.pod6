@@ -1,0 +1,91 @@
+=begin pod :pubdate('2010-10-27T10:03:10Z') :type<note> 
+=NAME alone
+
+=begin DESCRIPTION
+
+alone - L<link|http://www.flickr.com/photos/novecentino/2340521934/>
+=for Image :width(233) :link('http://www.flickr.com/photos/novecentino/2340521934/') :height(175) :preview
+media/c60b80f44f3a58f869d754d0fdca4c95be8ca1cc.jpg
+
+
+
+=end DESCRIPTION
+
+alone - L<link|http://www.flickr.com/photos/novecentino/2340521934/>
+=for Image :width(233) :link('http://www.flickr.com/photos/novecentino/2340521934/') :height(175) :preview
+media/c60b80f44f3a58f869d754d0fdca4c95be8ca1cc.jpg
+
+
+
+=begin comment :src
+{
+  "from": {
+    "id": "zag",
+    "type": "user",
+    "name": "углы «Исимуры»"
+  },
+  "via": {
+    "url": "http://friendfeed.com/share/bookmarklet",
+    "name": "Bookmarklet"
+  },
+  "body": "alone - <a rel=\"nofollow\" href=\"http://www.flickr.com/photos/novecentino/2340521934/\" title=\"http://www.flickr.com/photos/novecentino/2340521934/\">http://www.flickr.com/photos...</a>",
+  "likes": [
+    {
+      "date": "2010-10-27T10:38:23Z",
+      "from": {
+        "name": "Истеричная белка",
+        "id": "adilik",
+        "type": "user"
+      }
+    },
+    {
+      "from": {
+        "name": "piikummitus",
+        "id": "silpol",
+        "type": "user"
+      },
+      "date": "2010-10-27T10:37:22Z"
+    },
+    {
+      "from": {
+        "name": "make some noise",
+        "type": "user",
+        "id": "alterego"
+      },
+      "date": "2010-10-27T10:30:17Z"
+    },
+    {
+      "from": {
+        "type": "user",
+        "id": "iviotor",
+        "private": true,
+        "name": "IvIotor"
+      },
+      "date": "2010-10-27T10:14:42Z"
+    },
+    {
+      "date": "2010-10-27T10:04:36Z",
+      "from": {
+        "name": "Dmitriy Olerinskiy",
+        "id": "menelvagor",
+        "type": "user"
+      }
+    }
+  ],
+  "rawLink": "http://www.flickr.com/photos/novecentino/2340521934/",
+  "date": "2010-10-27T10:03:10Z",
+  "id": "e/fc1e446ea724425c9df393bdb10bd50b",
+  "rawBody": "alone",
+  "url": "http://friendfeed.com/zag/fc1e446e/alone",
+  "thumbnails": [
+    {
+      "width": 233,
+      "url": "http://m.friendfeed-media.com/c60b80f44f3a58f869d754d0fdca4c95be8ca1cc",
+      "height": 175,
+      "link": "http://www.flickr.com/photos/novecentino/2340521934/"
+    }
+  ]
+}
+=end comment
+
+=end pod

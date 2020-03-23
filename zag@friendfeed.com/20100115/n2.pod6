@@ -1,0 +1,36 @@
+=begin pod :pubdate('2010-01-15T14:06:36Z') :type<note> :tags<freebsd>
+=NAME revert to 7.2-STABLE from 8-RELENG #freebsd due USB media not found at boot.
+
+=begin DESCRIPTION
+
+revert to 7.2-STABLE from 8-RELENG #freebsd due USB media not found at boot. - L<link|http://twitter.com/zagru/statuses/7788397602>
+
+
+
+=end DESCRIPTION
+
+revert to 7.2-STABLE from 8-RELENG #freebsd due USB media not found at boot. - L<link|http://twitter.com/zagru/statuses/7788397602>
+
+
+
+=begin comment :src
+{
+  "id": "e/92950b8fa09bfb4ea05376173f4541e7",
+  "date": "2010-01-15T14:06:36Z",
+  "rawBody": "revert to 7.2-STABLE from 8-RELENG #freebsd due USB media not found at boot.",
+  "url": "http://friendfeed.com/zag/92950b8f/revert-to-7-2-stable-from-8-releng-freebsd-due-usb",
+  "body": "revert to 7.2-STABLE from 8-RELENG <a rel=\"nofollow\" href=\"http://search.twitter.com/search?q=%23freebsd\">#freebsd</a> due USB media not found at boot.",
+  "rawLink": "http://twitter.com/zagru/statuses/7788397602",
+  "from": {
+    "type": "user",
+    "id": "zag",
+    "name": "углы «Исимуры»"
+  },
+  "via": {
+    "name": "Twitter",
+    "url": "http://twitter.com/zagru/statuses/7788397602"
+  }
+}
+=end comment
+
+=end pod

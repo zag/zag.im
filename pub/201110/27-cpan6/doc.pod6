@@ -1,0 +1,91 @@
+=begin pod :pubdate('2011-10-27 10:00:00') :tags<perl6 cpan6 perl>
+=NAME Создание модулей для Perl 6
+
+=begin DESCRIPTION
+
+=for Image :align("left") :preview
+cpan6-logo.jpg
+
+В том время как для Perl 5 имеется CPAN, для Perl 6 подобного архива нет.
+
+=end DESCRIPTION
+
+В том время как для Perl 5 имеется CPAN, для Perl 6 подобного архива нет.
+На сайте CPAN6 N<Проект по созданию CPAN6. L<http://cpan6.org|http://cpan6.org/>> по поводу сроков имеется следующая фраза: 
+=nested
+I<"The first release of the CPAN6/Pause6 modules is planned for April 2010.">
+
+В планах CPAN6 хостить не только код для Perl 6, а также библиотеки для всех языков N<Реализации языков программирования на виртуальной машине Parrot. L<Parrot-Based Implementations of Programming Languages|http://trac.parrot.org/parrot/wiki/Languages>>, использующих VM Parrot. На предлагаемом логотипе схематически изображены люди, которые держаться за руки, что символизирует общность части личного пространства.
+=for Image 
+cpan6-logo.jpg
+
+Более подробная информация о предполагаемой архитектуре находится на сайте CPAN6.org. Добавлю, что CPAN6.org  - это проект, который I<возможно> станет официальным CPAN6.
+
+Тем не менее, есть некоторая попытка в формализации правил и процесса установки модулей для Perl 6 в виде пакетного менеджера Panda N< Пакетный менеджер для Perl 6. L<https://github.com/tadzik/panda/|https://github.com/tadzik/panda/>> I<(а ранее Proto L<https://github.com/masak/proto| https://github.com/masak/proto>)>. Соответствующие нескольким простым требованиям модули размещаются на L<http://modules.perl6.org/>. 
+
+
+=head2 Основные шаги по созданию модуля Perl 6
+
+=config item :formatted<B>  
+=item Структура модуля
+
+Структура каталогов похожа на структуру обычного модуля для CPAN.
+
+=for code :allow<B>
+    B<plosurin>
+    ├── bin
+    │   └── plosurin
+    ├── B<lib>
+    │   └── Plosurin.pm
+    ├── B<t>
+    │   ├── t01.t
+    │   └── t02.t
+    ├── Changes
+    ├── LICENSE
+    ├── B<META.info>
+    └── B<README>
+
+Для тех, кто привык использовать Makefile, есть небольшой 
+скрипт L<masak/ufo|http://github.com/masak/ufo>. После запуска он создаст
+в текущем каталоге шаблонный Makefile. Станут доступными команды C<make test>, C<make install> и т.д.
+
+=item META.info содержит информацию о модуле
+
+Я просто приведу содержимое этого файла для моего модуля:
+
+=code
+ {
+    "name"        : "Plosurin",
+    "version"     : "0.02",
+    "description" : "Perl 6 implementation of Closure Templates",
+    "depends"     : [ ],
+    "repo-type"   : "git",
+    "repo-url"    : "git://github.com/zag/plosurin.git"
+ }
+
+Названия полей говорят сами за себя.
+
+=item Разместить данный модуль на github.
+
+Рекомендуется. Но, я думаю, что в B<repo-url> файла C<META.info> можно указать 
+отличный от github репозиторий: например, gitorious.
+
+=item Добавить ссылку на свой проект в perl6/ecosystem 
+
+Список проектов находится в файле:
+
+  https://github.com/perl6/ecosystem/blob/master/META.list
+
+Как добавить адрес своего репозитория? Так:
+
+    fork->clone->edit->commit->push->PullRequest. 
+
+В случае, если проект хостится на другом сервисе (например, на упомянутом gitosis), сообщите мне адрес вашего репозитория: я добавлю его непосредственно в C<perl6/ecosystem>.
+
+=head2 Modules.perl6.org - CPAN6
+
+Пару лет назад все работающие модули для Perl 6 несложно было запомнить N< Статья devel/p6-perl6-toys. L<devel/p6-perl6-toys | http://zag.ru/2009/222/b1/devel-p6-perl6-toys-nabor-bibliotek-dlja-perl6.html>>, но даже сегодня их по прежнему очень мало. Все они размещены на странице L<http://modules.perl6.org/>, который является отличным источником I<работающих> примеров кода на Perl 6.
+
+Всем, кто интересуется Perl 6 советую посмотреть на страничку наиболее востребованных на данный момент модулей N< Perl 6 Most-Wanted-Modules. L< https://github.com/perl6/ecosystem/wiki/Most-Wanted-Modules | https://github.com/perl6/ecosystem/wiki/Most-Wanted-Modules> >. Возможно, вы встретите повод попробовать Perl 6!
+
+=end pod

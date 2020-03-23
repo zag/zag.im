@@ -1,0 +1,36 @@
+=begin pod :pubdate('2012-02-11T13:09:48Z') :type<note> :tags<lvee>
+=NAME Спонсоры #lvee заряжают !
+
+=begin DESCRIPTION
+
+Спонсоры #lvee заряжают ! - L<link|http://twitter.com/zagru/statuses/168320832148475905>
+
+
+
+=end DESCRIPTION
+
+Спонсоры #lvee заряжают ! - L<link|http://twitter.com/zagru/statuses/168320832148475905>
+
+
+
+=begin comment :src
+{
+  "from": {
+    "name": "углы «Исимуры»",
+    "type": "user",
+    "id": "zag"
+  },
+  "via": {
+    "name": "Twitter",
+    "url": "http://twitter.com/zagru/statuses/168320832148475905"
+  },
+  "rawBody": "Спонсоры #lvee заряжают !",
+  "id": "e/50c8f8b7c4c26ac3d98ce8ca310a8a63",
+  "date": "2012-02-11T13:09:48Z",
+  "url": "http://friendfeed.com/zag/50c8f8b7/lvee",
+  "body": "Спонсоры <a rel=\"nofollow\" href=\"http://search.twitter.com/search?q=%23lvee\">#lvee</a> заряжают !",
+  "rawLink": "http://twitter.com/zagru/statuses/168320832148475905"
+}
+=end comment
+
+=end pod

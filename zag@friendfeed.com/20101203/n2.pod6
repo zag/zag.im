@@ -1,0 +1,87 @@
+=begin pod :pubdate('2010-12-03T18:59:05Z') :type<note> 
+=NAME Blogerator эксклюзив - Интервью с автором Total Commander (Тотал Командер)
+
+=begin DESCRIPTION
+
+Blogerator эксклюзив - Интервью с автором Total Commander (Тотал Командер) - L<link|http://blogerator.ru/page/windows-total-commander-iview>
+=for Image :width(175) :link('http://blogerator.ru/page/windows-total-commander-iview') :height(175) :preview
+media/cb12fe198272e76beae40c965815ee7408c077f6.jpg
+=for Image :width(199) :link('http://blogerator.ru/page/windows-total-commander-iview') :height(175) :preview
+media/9846069101109ec21bdf4332da3de75a238662c1.jpg
+=for Image :width(233) :link('http://blogerator.ru/page/windows-total-commander-iview') :height(175) :preview
+media/22d754739dac884fb0246282bd1199599163c138.jpg
+
+=item Сейчас мне 40 лет, я профессионально занимаюсь только Total Commander'ом уже 17 лет.
+
+
+=end DESCRIPTION
+
+Blogerator эксклюзив - Интервью с автором Total Commander (Тотал Командер) - L<link|http://blogerator.ru/page/windows-total-commander-iview>
+=for Image :width(175) :link('http://blogerator.ru/page/windows-total-commander-iview') :height(175) :preview
+media/cb12fe198272e76beae40c965815ee7408c077f6.jpg
+=for Image :width(199) :link('http://blogerator.ru/page/windows-total-commander-iview') :height(175) :preview
+media/9846069101109ec21bdf4332da3de75a238662c1.jpg
+=for Image :width(233) :link('http://blogerator.ru/page/windows-total-commander-iview') :height(175) :preview
+media/22d754739dac884fb0246282bd1199599163c138.jpg
+
+=item Сейчас мне 40 лет, я профессионально занимаюсь только Total Commander'ом уже 17 лет.
+
+
+=begin comment :src
+{
+  "via": {
+    "name": "Bookmarklet",
+    "url": "http://friendfeed.com/share/bookmarklet"
+  },
+  "from": {
+    "name": "углы «Исимуры»",
+    "type": "user",
+    "id": "zag"
+  },
+  "comments": [
+    {
+      "from": {
+        "name": "углы «Исимуры»",
+        "id": "zag",
+        "type": "user"
+      },
+      "id": "e/bdb20b410b934dfd9b8d38b2e6bc4dd8/c/e7cc7fe0e6434a8b9ad3bd453fa9e52a",
+      "date": "2010-12-03T18:59:05Z",
+      "rawBody": "Сейчас мне 40 лет, я профессионально занимаюсь только Total Commander'ом уже 17 лет.",
+      "via": {
+        "name": "Bookmarklet",
+        "url": "http://friendfeed.com/share/bookmarklet"
+      },
+      "body": "Сейчас мне 40 лет, я профессионально занимаюсь только Total Commander'ом уже 17 лет."
+    }
+  ],
+  "id": "e/bdb20b410b934dfd9b8d38b2e6bc4dd8",
+  "date": "2010-12-03T18:59:05Z",
+  "rawBody": "Blogerator эксклюзив - Интервью с автором Total Commander (Тотал Командер)",
+  "thumbnails": [
+    {
+      "url": "http://m.friendfeed-media.com/cb12fe198272e76beae40c965815ee7408c077f6",
+      "width": 175,
+      "link": "http://blogerator.ru/page/windows-total-commander-iview",
+      "height": 175
+    },
+    {
+      "width": 199,
+      "url": "http://m.friendfeed-media.com/9846069101109ec21bdf4332da3de75a238662c1",
+      "link": "http://blogerator.ru/page/windows-total-commander-iview",
+      "height": 175
+    },
+    {
+      "height": 175,
+      "link": "http://blogerator.ru/page/windows-total-commander-iview",
+      "width": 233,
+      "url": "http://m.friendfeed-media.com/22d754739dac884fb0246282bd1199599163c138"
+    }
+  ],
+  "url": "http://friendfeed.com/zag/bdb20b41/blogerator-total-commander",
+  "body": "Blogerator эксклюзив - Интервью с автором Total Commander (Тотал Командер) - <a rel=\"nofollow\" href=\"http://blogerator.ru/page/windows-total-commander-iview\" title=\"http://blogerator.ru/page/windows-total-commander-iview\">http://blogerator.ru/page...</a>",
+  "rawLink": "http://blogerator.ru/page/windows-total-commander-iview"
+}
+=end comment
+
+=end pod

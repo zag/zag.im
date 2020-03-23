@@ -1,0 +1,48 @@
+=begin pod :pubdate('2010-08-20T18:09:31Z') :type<note> 
+=NAME The End of Open FF, For Me Anyway
+
+=begin DESCRIPTION
+
+The End of Open FF, For Me Anyway - L<link|http://jasonhuebel.name/2010/08/19/the-end-of-openff-for-me-anyway/>
+=for Image :width(300) :link('http://jasonhuebel.name/2010/08/19/the-end-of-openff-for-me-anyway/') :height(105) :preview
+media/2b8b0e485588aa464e1c91b66146200332ad8312.png
+
+
+
+=end DESCRIPTION
+
+The End of Open FF, For Me Anyway - L<link|http://jasonhuebel.name/2010/08/19/the-end-of-openff-for-me-anyway/>
+=for Image :width(300) :link('http://jasonhuebel.name/2010/08/19/the-end-of-openff-for-me-anyway/') :height(105) :preview
+media/2b8b0e485588aa464e1c91b66146200332ad8312.png
+
+
+
+=begin comment :src
+{
+  "via": {
+    "url": "http://friendfeed.com/share/bookmarklet",
+    "name": "Bookmarklet"
+  },
+  "from": {
+    "name": "углы «Исимуры»",
+    "type": "user",
+    "id": "zag"
+  },
+  "date": "2010-08-20T18:09:31Z",
+  "id": "e/7a60d59644b44275a9379cd8c1d2aa79",
+  "rawBody": "The End of Open FF, For Me Anyway",
+  "url": "http://friendfeed.com/zag/7a60d596/end-of-open-ff-for-me-anyway",
+  "thumbnails": [
+    {
+      "link": "http://jasonhuebel.name/2010/08/19/the-end-of-openff-for-me-anyway/",
+      "height": 105,
+      "width": 300,
+      "url": "http://m.friendfeed-media.com/2b8b0e485588aa464e1c91b66146200332ad8312"
+    }
+  ],
+  "rawLink": "http://jasonhuebel.name/2010/08/19/the-end-of-openff-for-me-anyway/",
+  "body": "The End of Open FF, For Me Anyway - <a rel=\"nofollow\" href=\"http://jasonhuebel.name/2010/08/19/the-end-of-openff-for-me-anyway/\" title=\"http://jasonhuebel.name/2010/08/19/the-end-of-openff-for-me-anyway/\">http://jasonhuebel.name/2010...</a>"
+}
+=end comment
+
+=end pod

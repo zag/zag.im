@@ -1,0 +1,36 @@
+=begin pod :pubdate('2011-07-01T10:40:45Z') :type<note> :tags<lvee>
+=NAME В постиндустриальном обществе зарплату будут платить монетами bitcoin :-) #lvee
+
+=begin DESCRIPTION
+
+В постиндустриальном обществе зарплату будут платить монетами bitcoin :-) #lvee
+
+
+
+=end DESCRIPTION
+
+В постиндустриальном обществе зарплату будут платить монетами bitcoin :-) #lvee
+
+
+
+=begin comment :src
+{
+  "body": "В постиндустриальном обществе зарплату будут платить монетами bitcoin :-) <a href=\"http://friendfeed.com/search?q=%23lvee\">#lvee</a>",
+  "rawLink": "http://friendfeed.com/e/40953f4e-9ba7-4d66-963e-194a165915f4",
+  "rawBody": "В постиндустриальном обществе зарплату будут платить монетами bitcoin :-) #lvee",
+  "id": "e/40953f4e9ba74d66963e194a165915f4",
+  "date": "2011-07-01T10:40:45Z",
+  "url": "http://friendfeed.com/zag/40953f4e/bitcoin-lvee",
+  "from": {
+    "type": "user",
+    "id": "zag",
+    "name": "углы «Исимуры»"
+  },
+  "via": {
+    "url": "http://friendfeed.com/share/mail",
+    "name": "email"
+  }
+}
+=end comment
+
+=end pod

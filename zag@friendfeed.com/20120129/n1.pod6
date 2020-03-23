@@ -1,0 +1,45 @@
+=begin pod :pubdate('2012-01-29T06:47:13Z') :type<note> 
+=NAME Dicken feat. Milah & Korben: "Everything Counts" - YouTube
+
+=begin DESCRIPTION
+
+Dicken feat. Milah & Korben: "Everything Counts" - YouTube - L<link|http://www.youtube.com/watch?v=BxQSEvHdyjQ&feature=youtu.be>
+
+
+
+=end DESCRIPTION
+
+Dicken feat. Milah & Korben: "Everything Counts" - YouTube - L<link|http://www.youtube.com/watch?v=BxQSEvHdyjQ&feature=youtu.be>
+
+
+
+=begin comment :src
+{
+  "id": "e/41b06d28f800473b83b3df27610a0aae",
+  "url": "http://friendfeed.com/zag/41b06d28/dicken-feat-milah-korben-everything-counts",
+  "date": "2012-01-29T06:47:13Z",
+  "rawBody": "Dicken feat. Milah & Korben: \"Everything Counts\" - YouTube",
+  "thumbnails": [
+    {
+      "url": "http://img.youtube.com/vi/BxQSEvHdyjQ/2.jpg",
+      "width": 130,
+      "player": "<object width=\"425\" height=\"350\"><param name=\"movie\" value=\"http://www.youtube.com/v/BxQSEvHdyjQ&amp;autoplay=1&amp;showsearch=0&amp;ap=%2526fmt%3D18&amp;fs=1\"></param><param name=\"allowFullScreen\" value=\"true\"><embed src=\"http://www.youtube.com/v/BxQSEvHdyjQ&amp;autoplay=1&amp;showsearch=0&amp;ap=%2526fmt%3D18&amp;fs=1\" type=\"application/x-shockwave-flash\" allowfullscreen=\"true\" width=\"425\" height=\"350\"></embed></object>",
+      "height": 97,
+      "link": "http://www.youtube.com/watch?v=BxQSEvHdyjQ&feature=youtu.be"
+    }
+  ],
+  "rawLink": "http://www.youtube.com/watch?v=BxQSEvHdyjQ&feature=youtu.be",
+  "body": "Dicken feat. Milah &amp; Korben: &quot;Everything Counts&quot; - YouTube - <a rel=\"nofollow\" href=\"http://www.youtube.com/watch?v=BxQSEvHdyjQ&amp;feature=youtu.be\" title=\"http://www.youtube.com/watch?v=BxQSEvHdyjQ&amp;feature=youtu.be\">http://www.youtube.com/watch...</a>",
+  "from": {
+    "name": "углы «Исимуры»",
+    "id": "zag",
+    "type": "user"
+  },
+  "via": {
+    "name": "Bookmarklet",
+    "url": "http://friendfeed.com/share/bookmarklet"
+  }
+}
+=end comment
+
+=end pod

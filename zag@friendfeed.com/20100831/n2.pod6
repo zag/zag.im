@@ -1,0 +1,55 @@
+=begin pod :pubdate('2010-08-31T09:11:33Z') :type<note> :tags<perl6>
+=NAME People of Perl 6: Carl Mäsak. Интервью с разработчиком Rakudo #perl6
+
+=begin DESCRIPTION
+
+People of Perl 6: Carl Mäsak. Интервью с разработчиком Rakudo #perl6 - L<link|http://www.perl.com/pub/2010/08/people-of-perl-6-carl-masak.html>
+
+=item What projects are missing in the world of Perl 6?: - Nearly all of them.
+
+
+=end DESCRIPTION
+
+People of Perl 6: Carl Mäsak. Интервью с разработчиком Rakudo #perl6 - L<link|http://www.perl.com/pub/2010/08/people-of-perl-6-carl-masak.html>
+
+=item What projects are missing in the world of Perl 6?: - Nearly all of them.
+
+
+=begin comment :src
+{
+  "id": "e/7af7bb2ff67847d78eb79d66e2b9ea21",
+  "date": "2010-08-31T09:11:33Z",
+  "rawBody": "People of Perl 6: Carl Mäsak. Интервью с разработчиком Rakudo #perl6",
+  "url": "http://friendfeed.com/zag/7af7bb2f/people-of-perl-6-carl-masak-rakudo-perl6",
+  "body": "People of Perl 6: Carl Mäsak. Интервью с разработчиком Rakudo <a href=\"http://friendfeed.com/search?q=%23perl6\">#perl6</a> - <a rel=\"nofollow\" href=\"http://www.perl.com/pub/2010/08/people-of-perl-6-carl-masak.html\" title=\"http://www.perl.com/pub/2010/08/people-of-perl-6-carl-masak.html\">http://www.perl.com/pub...</a>",
+  "rawLink": "http://www.perl.com/pub/2010/08/people-of-perl-6-carl-masak.html",
+  "via": {
+    "name": "Bookmarklet",
+    "url": "http://friendfeed.com/share/bookmarklet"
+  },
+  "from": {
+    "name": "углы «Исимуры»",
+    "type": "user",
+    "id": "zag"
+  },
+  "comments": [
+    {
+      "body": "What projects are missing in the world of Perl 6?: - Nearly all of them.",
+      "id": "e/7af7bb2ff67847d78eb79d66e2b9ea21/c/4e506c02e08645048af42c3e91e6cd7f",
+      "from": {
+        "name": "углы «Исимуры»",
+        "type": "user",
+        "id": "zag"
+      },
+      "date": "2010-08-31T09:11:33Z",
+      "rawBody": "What projects are missing in the world of Perl 6?: - Nearly all of them.",
+      "via": {
+        "name": "Bookmarklet",
+        "url": "http://friendfeed.com/share/bookmarklet"
+      }
+    }
+  ]
+}
+=end comment
+
+=end pod

@@ -1,0 +1,110 @@
+=begin pod :pubdate('2010-10-20T07:50:37Z') :type<note> 
+=NAME Prototype of an Open Web App Ecosystem :: The Mozilla Blog
+
+=begin DESCRIPTION
+
+Prototype of an Open Web App Ecosystem :: The Mozilla Blog - L<link|http://blog.mozilla.com/blog/2010/10/19/prototype-of-an-open-web-app-ecosystem/#>
+=for Image :width(314) :link('http://blog.mozilla.com/blog/2010/10/19/prototype-of-an-open-web-app-ecosystem/#') :height(175) :preview
+media/a15e64e357938699962eb7e96cd793f695e3ff56.jpg
+=for Image :width(311) :link('http://blog.mozilla.com/blog/2010/10/19/prototype-of-an-open-web-app-ecosystem/#') :height(175) :preview
+media/ff2ff545e1a71efa7f8480ffb93d1d1c34bf2972.jpg
+=for Image :width(313) :link('http://blog.mozilla.com/blog/2010/10/19/prototype-of-an-open-web-app-ecosystem/#') :height(175) :preview
+media/91b6632a233d258df0065e463309b80ad21826e4.jpg
+
+=item We designed and built a prototype of a system for open Web apps: Apps built using HTML/CSS/JavaScript that work both on computers and mobile phone.
+=item http://github.com/mozilla/openwebapps
+
+
+=end DESCRIPTION
+
+Prototype of an Open Web App Ecosystem :: The Mozilla Blog - L<link|http://blog.mozilla.com/blog/2010/10/19/prototype-of-an-open-web-app-ecosystem/#>
+=for Image :width(314) :link('http://blog.mozilla.com/blog/2010/10/19/prototype-of-an-open-web-app-ecosystem/#') :height(175) :preview
+media/a15e64e357938699962eb7e96cd793f695e3ff56.jpg
+=for Image :width(311) :link('http://blog.mozilla.com/blog/2010/10/19/prototype-of-an-open-web-app-ecosystem/#') :height(175) :preview
+media/ff2ff545e1a71efa7f8480ffb93d1d1c34bf2972.jpg
+=for Image :width(313) :link('http://blog.mozilla.com/blog/2010/10/19/prototype-of-an-open-web-app-ecosystem/#') :height(175) :preview
+media/91b6632a233d258df0065e463309b80ad21826e4.jpg
+
+=item We designed and built a prototype of a system for open Web apps: Apps built using HTML/CSS/JavaScript that work both on computers and mobile phone.
+=item http://github.com/mozilla/openwebapps
+
+
+=begin comment :src
+{
+  "body": "Prototype of an Open Web App Ecosystem :: The Mozilla Blog - <a rel=\"nofollow\" href=\"http://blog.mozilla.com/blog/2010/10/19/prototype-of-an-open-web-app-ecosystem/#\" title=\"http://blog.mozilla.com/blog/2010/10/19/prototype-of-an-open-web-app-ecosystem/#\">http://blog.mozilla.com/blog...</a>",
+  "likes": [
+    {
+      "date": "2010-10-20T10:28:38Z",
+      "from": {
+        "id": "dainathomas1",
+        "type": "user",
+        "name": "Daina Thomas"
+      }
+    }
+  ],
+  "rawLink": "http://blog.mozilla.com/blog/2010/10/19/prototype-of-an-open-web-app-ecosystem/#",
+  "rawBody": "Prototype of an Open Web App Ecosystem :: The Mozilla Blog",
+  "id": "e/d00197650fdb4b3185c80c329588c10a",
+  "date": "2010-10-20T07:50:37Z",
+  "thumbnails": [
+    {
+      "url": "http://m.friendfeed-media.com/a15e64e357938699962eb7e96cd793f695e3ff56",
+      "width": 314,
+      "height": 175,
+      "link": "http://blog.mozilla.com/blog/2010/10/19/prototype-of-an-open-web-app-ecosystem/#"
+    },
+    {
+      "height": 175,
+      "link": "http://blog.mozilla.com/blog/2010/10/19/prototype-of-an-open-web-app-ecosystem/#",
+      "url": "http://m.friendfeed-media.com/ff2ff545e1a71efa7f8480ffb93d1d1c34bf2972",
+      "width": 311
+    },
+    {
+      "width": 313,
+      "url": "http://m.friendfeed-media.com/91b6632a233d258df0065e463309b80ad21826e4",
+      "height": 175,
+      "link": "http://blog.mozilla.com/blog/2010/10/19/prototype-of-an-open-web-app-ecosystem/#"
+    }
+  ],
+  "url": "http://friendfeed.com/zag/d0019765/prototype-of-open-web-app-ecosystem-mozilla",
+  "comments": [
+    {
+      "body": "We designed and built a prototype of a system for open Web apps: Apps built using HTML/CSS/JavaScript that work both on computers and mobile phone.",
+      "via": {
+        "name": "Bookmarklet",
+        "url": "http://friendfeed.com/share/bookmarklet"
+      },
+      "id": "e/d00197650fdb4b3185c80c329588c10a/c/ed5d68f908bc46a5ba8dc312e08f389d",
+      "rawBody": "We designed and built a prototype of a system for open Web apps: Apps built using HTML/CSS/JavaScript that work both on computers and mobile phone.",
+      "date": "2010-10-20T07:50:37Z",
+      "from": {
+        "id": "zag",
+        "type": "user",
+        "name": "углы «Исимуры»"
+      }
+    },
+    {
+      "id": "e/d00197650fdb4b3185c80c329588c10a/c/9a82e69bc6c3402791eab87ce9835760",
+      "rawBody": "http://github.com/mozilla/openwebapps",
+      "date": "2010-10-20T07:56:47Z",
+      "from": {
+        "name": "углы «Исимуры»",
+        "type": "user",
+        "id": "zag"
+      },
+      "body": "<a rel=\"nofollow\" href=\"http://github.com/mozilla/openwebapps\" title=\"http://github.com/mozilla/openwebapps\">http://github.com/mozilla...</a>"
+    }
+  ],
+  "from": {
+    "name": "углы «Исимуры»",
+    "type": "user",
+    "id": "zag"
+  },
+  "via": {
+    "name": "Bookmarklet",
+    "url": "http://friendfeed.com/share/bookmarklet"
+  }
+}
+=end comment
+
+=end pod

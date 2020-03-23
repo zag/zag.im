@@ -1,0 +1,55 @@
+=begin pod :pubdate('2010-08-31T09:17:11Z') :type<note> :tags<perl6>
+=NAME People of Perl 6: Jonathan Worthington. ЖЗЛ #perl6
+
+=begin DESCRIPTION
+
+People of Perl 6: Jonathan Worthington. ЖЗЛ #perl6 - L<link|http://www.perl.com/pub/2010/08/people-of-perl-6-jonathan-worthington.html>
+
+=item How did you learn the language?: - By implementing a chunk of it. :-)
+
+
+=end DESCRIPTION
+
+People of Perl 6: Jonathan Worthington. ЖЗЛ #perl6 - L<link|http://www.perl.com/pub/2010/08/people-of-perl-6-jonathan-worthington.html>
+
+=item How did you learn the language?: - By implementing a chunk of it. :-)
+
+
+=begin comment :src
+{
+  "comments": [
+    {
+      "body": "How did you learn the language?: - By implementing a chunk of it. :-)",
+      "date": "2010-08-31T09:17:11Z",
+      "id": "e/e6d2f1658a48468db97c6d0f4c7eef34/c/7530c9307987409b9c503c91c35e91d7",
+      "from": {
+        "type": "user",
+        "id": "zag",
+        "name": "углы «Исимуры»"
+      },
+      "rawBody": "How did you learn the language?: - By implementing a chunk of it. :-)",
+      "via": {
+        "name": "Bookmarklet",
+        "url": "http://friendfeed.com/share/bookmarklet"
+      }
+    }
+  ],
+  "via": {
+    "name": "Bookmarklet",
+    "url": "http://friendfeed.com/share/bookmarklet"
+  },
+  "from": {
+    "id": "zag",
+    "type": "user",
+    "name": "углы «Исимуры»"
+  },
+  "rawLink": "http://www.perl.com/pub/2010/08/people-of-perl-6-jonathan-worthington.html",
+  "body": "People of Perl 6: Jonathan Worthington. ЖЗЛ <a href=\"http://friendfeed.com/search?q=%23perl6\">#perl6</a> - <a rel=\"nofollow\" href=\"http://www.perl.com/pub/2010/08/people-of-perl-6-jonathan-worthington.html\" title=\"http://www.perl.com/pub/2010/08/people-of-perl-6-jonathan-worthington.html\">http://www.perl.com/pub...</a>",
+  "id": "e/e6d2f1658a48468db97c6d0f4c7eef34",
+  "rawBody": "People of Perl 6: Jonathan Worthington. ЖЗЛ #perl6",
+  "date": "2010-08-31T09:17:11Z",
+  "url": "http://friendfeed.com/zag/e6d2f165/people-of-perl-6-jonathan-worthington-perl6"
+}
+=end comment
+
+=end pod

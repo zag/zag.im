@@ -1,0 +1,36 @@
+=begin pod :pubdate('2010-10-01T09:36:26Z') :type<note> :tags<yac2010>
+=NAME Эффектная презентация у Александра про map reduce #yac2010
+
+=begin DESCRIPTION
+
+Эффектная презентация у Александра про map reduce #yac2010
+
+
+
+=end DESCRIPTION
+
+Эффектная презентация у Александра про map reduce #yac2010
+
+
+
+=begin comment :src
+{
+  "rawLink": "http://friendfeed.com/e/7c5946a2-7b41-47c3-9df7-5236c7194814",
+  "body": "Эффектная презентация у Александра про map reduce <a href=\"http://friendfeed.com/search?q=%23yac2010\">#yac2010</a>",
+  "id": "e/7c5946a27b4147c39df75236c7194814",
+  "rawBody": "Эффектная презентация у Александра про map reduce #yac2010",
+  "date": "2010-10-01T09:36:26Z",
+  "url": "http://friendfeed.com/zag/7c5946a2/map-reduce-yac2010",
+  "from": {
+    "name": "углы «Исимуры»",
+    "type": "user",
+    "id": "zag"
+  },
+  "via": {
+    "url": "http://friendfeed.com/about/im",
+    "name": "IM"
+  }
+}
+=end comment
+
+=end pod

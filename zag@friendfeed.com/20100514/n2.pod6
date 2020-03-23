@@ -1,0 +1,55 @@
+=begin pod :pubdate('2010-05-14T08:01:13Z') :type<note> :tags<firefox>
+=NAME Ни я, ни мой web browser не готовы к доменами без латиницы. #firefox
+
+=begin DESCRIPTION
+
+Ни я, ни мой web browser не готовы к доменами без латиницы. #firefox
+=for Image :width(176) :link('http://m.friendfeed-media.com/96e31297db13cb3baf7e2a63eea00dea9f4240bb') :height(110) :preview
+media/2dfc95b6aa91424572c66b0fce4eb3dc8fd247ef.jpg
+
+
+
+=end DESCRIPTION
+
+Ни я, ни мой web browser не готовы к доменами без латиницы. #firefox
+=for Image :width(176) :link('http://m.friendfeed-media.com/96e31297db13cb3baf7e2a63eea00dea9f4240bb') :height(110) :preview
+media/2dfc95b6aa91424572c66b0fce4eb3dc8fd247ef.jpg
+
+
+
+=begin comment :src
+{
+  "from": {
+    "name": "углы «Исимуры»",
+    "type": "user",
+    "id": "zag"
+  },
+  "id": "e/8297cd0a842f43a0b2b84f0107958e22",
+  "date": "2010-05-14T08:01:13Z",
+  "url": "http://friendfeed.com/zag/8297cd0a/web-browser-firefox",
+  "rawBody": "Ни я, ни мой web browser не готовы к доменами без латиницы. #firefox",
+  "thumbnails": [
+    {
+      "url": "http://m.friendfeed-media.com/2dfc95b6aa91424572c66b0fce4eb3dc8fd247ef",
+      "width": 176,
+      "height": 110,
+      "link": "http://m.friendfeed-media.com/96e31297db13cb3baf7e2a63eea00dea9f4240bb"
+    }
+  ],
+  "body": "Ни я, ни мой web browser не готовы к доменами без латиницы. <a href=\"http://friendfeed.com/search?q=%23firefox\">#firefox</a>",
+  "rawLink": "http://friendfeed.com/e/8297cd0a-842f-43a0-b2b8-4f0107958e22",
+  "likes": [
+    {
+      "from": {
+        "private": true,
+        "id": "iviotor",
+        "type": "user",
+        "name": "IvIotor"
+      },
+      "date": "2010-05-14T08:10:22Z"
+    }
+  ]
+}
+=end comment
+
+=end pod

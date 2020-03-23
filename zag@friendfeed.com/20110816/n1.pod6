@@ -1,0 +1,36 @@
+=begin pod :pubdate('2011-08-16T10:37:09Z') :type<note> :tags<trending>
+=NAME RT @newsyc20: A writer leaves Microsoft Word http://t.co/8GcBBJd (http://t.co/AuHj4ml) #trending
+
+=begin DESCRIPTION
+
+RT @newsyc20: A writer leaves Microsoft Word http://t.co/8GcBBJd (http://t.co/AuHj4ml) #trending - L<link|http://twitter.com/zagru/statuses/103414987392950272>
+
+
+
+=end DESCRIPTION
+
+RT @newsyc20: A writer leaves Microsoft Word http://t.co/8GcBBJd (http://t.co/AuHj4ml) #trending - L<link|http://twitter.com/zagru/statuses/103414987392950272>
+
+
+
+=begin comment :src
+{
+  "from": {
+    "id": "zag",
+    "type": "user",
+    "name": "углы «Исимуры»"
+  },
+  "via": {
+    "url": "http://twitter.com/zagru/statuses/103414987392950272",
+    "name": "Twitter"
+  },
+  "body": "RT @<a rel=\"nofollow\" href=\"http://twitter.com/newsyc20\">newsyc20</a>: A writer leaves Microsoft Word <a rel=\"nofollow\" href=\"http://t.co/8GcBBJd\">http://t.co/8GcBBJd</a> (<a rel=\"nofollow\" href=\"http://t.co/AuHj4ml\">http://t.co/AuHj4ml</a>) <a rel=\"nofollow\" href=\"http://search.twitter.com/search?q=%23trending\">#trending</a>",
+  "rawLink": "http://twitter.com/zagru/statuses/103414987392950272",
+  "id": "e/edc8ed437723b8f443705f87a016eca9",
+  "url": "http://friendfeed.com/zag/edc8ed43/rt-newsyc20-writer-leaves-microsoft-word",
+  "date": "2011-08-16T10:37:09Z",
+  "rawBody": "RT @newsyc20: A writer leaves Microsoft Word http://t.co/8GcBBJd (http://t.co/AuHj4ml) #trending"
+}
+=end comment
+
+=end pod

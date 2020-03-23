@@ -1,0 +1,55 @@
+=begin pod :pubdate('2010-09-04T12:46:15Z') :type<note> 
+=NAME Как заставить мужчин не пялиться на ваши груди ?
+
+=begin DESCRIPTION
+
+Как заставить мужчин не пялиться на ваши груди ?
+=for Image :width(117) :link('http://m.friendfeed-media.com/65594fc26f763fb945c7a12e8c2ad65ec98126cb') :height(175) :preview
+media/562ce38c3365bc4ca615d281f951ad9ca7e69b64.jpg
+
+
+
+=end DESCRIPTION
+
+Как заставить мужчин не пялиться на ваши груди ?
+=for Image :width(117) :link('http://m.friendfeed-media.com/65594fc26f763fb945c7a12e8c2ad65ec98126cb') :height(175) :preview
+media/562ce38c3365bc4ca615d281f951ad9ca7e69b64.jpg
+
+
+
+=begin comment :src
+{
+  "from": {
+    "name": "углы «Исимуры»",
+    "type": "user",
+    "id": "zag"
+  },
+  "rawLink": "http://friendfeed.com/e/701a828c-f4e5-412e-b106-cbaa47ef4f3c",
+  "likes": [
+    {
+      "from": {
+        "id": "kukutz",
+        "type": "user",
+        "private": true,
+        "name": "Остались сутки!"
+      },
+      "date": "2010-09-16T17:59:46Z"
+    }
+  ],
+  "body": "Как заставить мужчин не пялиться на ваши груди ?",
+  "id": "e/701a828cf4e5412eb106cbaa47ef4f3c",
+  "date": "2010-09-04T12:46:15Z",
+  "url": "http://friendfeed.com/zag/701a828c",
+  "rawBody": "Как заставить мужчин не пялиться на ваши груди ?",
+  "thumbnails": [
+    {
+      "width": 117,
+      "url": "http://m.friendfeed-media.com/562ce38c3365bc4ca615d281f951ad9ca7e69b64",
+      "link": "http://m.friendfeed-media.com/65594fc26f763fb945c7a12e8c2ad65ec98126cb",
+      "height": 175
+    }
+  ]
+}
+=end comment
+
+=end pod

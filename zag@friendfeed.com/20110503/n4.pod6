@@ -1,0 +1,87 @@
+=begin pod :pubdate('2011-05-03T07:48:01Z') :type<note> :tags<gtd>
+=NAME Органайзер своими руками - Levenger Circa Notebooks - Записки дебианщика #gtd
+
+=begin DESCRIPTION
+
+Органайзер своими руками - Levenger Circa Notebooks - Записки дебианщика #gtd - L<link|http://mydebianblog.blogspot.com/2011/05/levenger-circa-notebooks.html>
+=for Image :width(321) :link('http://mydebianblog.blogspot.com/2011/05/levenger-circa-notebooks.html') :height(175) :preview
+media/9eb0cedc8329e2b03cb58c819269885d0ae29ad8.jpg
+=for Image :width(130) :link('http://mydebianblog.blogspot.com/2011/05/levenger-circa-notebooks.html') :height(175) :preview
+media/09fa2589920ec95278ed385060a9448d4f200a6c.jpg
+=for Image :width(154) :link('http://mydebianblog.blogspot.com/2011/05/levenger-circa-notebooks.html') :height(175) :preview
+media/c41f58d149158bff1efbfd8d33677b82c67c56b3.jpg
+
+=item "Не понтов ради, а пользы дела для: сидя на берегу океана с блокнотом из отличной бумаги и безотказной ручкой, кретив просто так и лезет в голову. "
+
+
+=end DESCRIPTION
+
+Органайзер своими руками - Levenger Circa Notebooks - Записки дебианщика #gtd - L<link|http://mydebianblog.blogspot.com/2011/05/levenger-circa-notebooks.html>
+=for Image :width(321) :link('http://mydebianblog.blogspot.com/2011/05/levenger-circa-notebooks.html') :height(175) :preview
+media/9eb0cedc8329e2b03cb58c819269885d0ae29ad8.jpg
+=for Image :width(130) :link('http://mydebianblog.blogspot.com/2011/05/levenger-circa-notebooks.html') :height(175) :preview
+media/09fa2589920ec95278ed385060a9448d4f200a6c.jpg
+=for Image :width(154) :link('http://mydebianblog.blogspot.com/2011/05/levenger-circa-notebooks.html') :height(175) :preview
+media/c41f58d149158bff1efbfd8d33677b82c67c56b3.jpg
+
+=item "Не понтов ради, а пользы дела для: сидя на берегу океана с блокнотом из отличной бумаги и безотказной ручкой, кретив просто так и лезет в голову. "
+
+
+=begin comment :src
+{
+  "comments": [
+    {
+      "rawBody": "\"Не понтов ради, а пользы дела для: сидя на берегу океана с блокнотом из отличной бумаги и безотказной ручкой, кретив просто так и лезет в голову. \"",
+      "id": "e/eed72c8d7074437fb570d72442d149ee/c/e15f58b9e6484f32afdc49bacec9274c",
+      "date": "2011-05-03T07:48:01Z",
+      "from": {
+        "name": "углы «Исимуры»",
+        "id": "zag",
+        "type": "user"
+      },
+      "via": {
+        "url": "http://friendfeed.com/share/bookmarklet",
+        "name": "Bookmarklet"
+      },
+      "body": "&quot;Не понтов ради, а пользы дела для: сидя на берегу океана с блокнотом из отличной бумаги и безотказной ручкой, кретив просто так и лезет в голову. &quot;"
+    }
+  ],
+  "from": {
+    "name": "углы «Исимуры»",
+    "id": "zag",
+    "type": "user"
+  },
+  "via": {
+    "url": "http://friendfeed.com/share/bookmarklet",
+    "name": "Bookmarklet"
+  },
+  "body": "Органайзер своими руками - Levenger Circa Notebooks - Записки дебианщика <a href=\"http://friendfeed.com/search?q=%23gtd\">#gtd</a> - <a rel=\"nofollow\" href=\"http://mydebianblog.blogspot.com/2011/05/levenger-circa-notebooks.html\" title=\"http://mydebianblog.blogspot.com/2011/05/levenger-circa-notebooks.html\">http://mydebianblog.blogspot.com/2011...</a>",
+  "rawLink": "http://mydebianblog.blogspot.com/2011/05/levenger-circa-notebooks.html",
+  "id": "e/eed72c8d7074437fb570d72442d149ee",
+  "date": "2011-05-03T07:48:01Z",
+  "rawBody": "Органайзер своими руками - Levenger Circa Notebooks - Записки дебианщика #gtd",
+  "thumbnails": [
+    {
+      "height": 175,
+      "link": "http://mydebianblog.blogspot.com/2011/05/levenger-circa-notebooks.html",
+      "url": "http://m.friendfeed-media.com/9eb0cedc8329e2b03cb58c819269885d0ae29ad8",
+      "width": 321
+    },
+    {
+      "width": 130,
+      "url": "http://m.friendfeed-media.com/09fa2589920ec95278ed385060a9448d4f200a6c",
+      "link": "http://mydebianblog.blogspot.com/2011/05/levenger-circa-notebooks.html",
+      "height": 175
+    },
+    {
+      "width": 154,
+      "url": "http://m.friendfeed-media.com/c41f58d149158bff1efbfd8d33677b82c67c56b3",
+      "link": "http://mydebianblog.blogspot.com/2011/05/levenger-circa-notebooks.html",
+      "height": 175
+    }
+  ],
+  "url": "http://friendfeed.com/zag/eed72c8d/levenger-circa-notebooks-gtd"
+}
+=end comment
+
+=end pod

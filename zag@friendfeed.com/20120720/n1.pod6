@@ -1,0 +1,36 @@
+=begin pod :pubdate('2012-07-20T09:47:50Z') :type<note> :tags<pod6 writeat>
+=NAME Вышла вторая версия пакета для создания и публикации книг и документации «WriteAt» http://t.co/i6nGMgRQ #pod6 #writeat
+
+=begin DESCRIPTION
+
+Вышла вторая версия пакета для создания и публикации книг и документации «WriteAt» http://t.co/i6nGMgRQ #pod6 #writeat - L<link|http://twitter.com/zagru/statuses/226252066476158976>
+
+
+
+=end DESCRIPTION
+
+Вышла вторая версия пакета для создания и публикации книг и документации «WriteAt» http://t.co/i6nGMgRQ #pod6 #writeat - L<link|http://twitter.com/zagru/statuses/226252066476158976>
+
+
+
+=begin comment :src
+{
+  "via": {
+    "name": "Twitter",
+    "url": "http://twitter.com/zagru/statuses/226252066476158976"
+  },
+  "from": {
+    "type": "user",
+    "id": "zag",
+    "name": "углы «Исимуры»"
+  },
+  "body": "Вышла вторая версия пакета для создания и публикации книг и документации «WriteAt» <a rel=\"nofollow\" href=\"http://t.co/i6nGMgRQ\" title=\"http://zag.ru/2012/202/a1/novshestva-v-ocherednoj-versii-WriteAt-\">http://zag.ru/2012...</a> <a rel=\"nofollow\" href=\"http://search.twitter.com/search?q=%23pod6\">#pod6</a> <a rel=\"nofollow\" href=\"http://search.twitter.com/search?q=%23writeat\">#writeat</a>",
+  "rawLink": "http://twitter.com/zagru/statuses/226252066476158976",
+  "date": "2012-07-20T09:47:50Z",
+  "id": "e/7434c32be8544570ad4f7e59587b312e",
+  "rawBody": "Вышла вторая версия пакета для создания и публикации книг и документации «WriteAt» http://t.co/i6nGMgRQ #pod6 #writeat",
+  "url": "http://friendfeed.com/zag/7434c32b/writeat-pod6"
+}
+=end comment
+
+=end pod

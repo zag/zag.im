@@ -1,0 +1,103 @@
+=begin pod :pubdate('2013-04-19T03:50:07Z') :type<note> 
+=NAME Oh I see Red!
+
+=begin DESCRIPTION
+
+Oh I see Red! - L<link|http://www.ohiseered.com/>
+=for Image :width(175) :link('http://www.ohiseered.com/') :height(175) :preview
+media/44a7a87ffe28ef77a868a48fb49dcd260a720c81.jpg
+=for Image :width(184) :link('http://www.ohiseered.com/') :height(175) :preview
+media/d7d7257ba6f4dfeeb80209a6ef44631bbb7aface.jpg
+=for Image :width(183) :link('http://www.ohiseered.com/') :height(175) :preview
+media/e58dec932f280578399c3abc6af13836431492ad.jpg
+
+
+
+=end DESCRIPTION
+
+Oh I see Red! - L<link|http://www.ohiseered.com/>
+=for Image :width(175) :link('http://www.ohiseered.com/') :height(175) :preview
+media/44a7a87ffe28ef77a868a48fb49dcd260a720c81.jpg
+=for Image :width(184) :link('http://www.ohiseered.com/') :height(175) :preview
+media/d7d7257ba6f4dfeeb80209a6ef44631bbb7aface.jpg
+=for Image :width(183) :link('http://www.ohiseered.com/') :height(175) :preview
+media/e58dec932f280578399c3abc6af13836431492ad.jpg
+
+
+
+=begin comment :src
+{
+  "from": {
+    "type": "user",
+    "id": "zag",
+    "name": "углы «Исимуры»"
+  },
+  "via": {
+    "url": "http://friendfeed.com/share/bookmarklet",
+    "name": "Bookmarklet"
+  },
+  "id": "e/9bffe7e24ab94ee3bd21054388a21649",
+  "date": "2013-04-19T03:50:07Z",
+  "url": "http://friendfeed.com/zag/9bffe7e2/oh-i-see-red",
+  "rawBody": "Oh I see Red!",
+  "thumbnails": [
+    {
+      "height": 175,
+      "link": "http://www.ohiseered.com/",
+      "url": "http://m.friendfeed-media.com/44a7a87ffe28ef77a868a48fb49dcd260a720c81",
+      "width": 175
+    },
+    {
+      "link": "http://www.ohiseered.com/",
+      "height": 175,
+      "width": 184,
+      "url": "http://m.friendfeed-media.com/d7d7257ba6f4dfeeb80209a6ef44631bbb7aface"
+    },
+    {
+      "width": 183,
+      "url": "http://m.friendfeed-media.com/e58dec932f280578399c3abc6af13836431492ad",
+      "height": 175,
+      "link": "http://www.ohiseered.com/"
+    }
+  ],
+  "likes": [
+    {
+      "date": "2013-04-19T09:22:47Z",
+      "from": {
+        "private": true,
+        "id": "bessonova",
+        "type": "user",
+        "name": "Persona non grata"
+      }
+    },
+    {
+      "date": "2013-04-19T06:38:31Z",
+      "from": {
+        "name": "Andrey Pitushkin",
+        "id": "anpit",
+        "type": "user"
+      }
+    },
+    {
+      "from": {
+        "type": "user",
+        "id": "artreal",
+        "name": "50 оттенков кошкости"
+      },
+      "date": "2013-04-19T04:56:18Z"
+    },
+    {
+      "date": "2013-04-19T04:08:20Z",
+      "from": {
+        "name": "alex@kapranoff.ru",
+        "type": "user",
+        "id": "kkapp"
+      }
+    }
+  ],
+  "rawLink": "http://www.ohiseered.com/",
+  "body": "Oh I see Red! - <a rel=\"nofollow\" href=\"http://www.ohiseered.com/\">http://www.ohiseered.com/</a>"
+}
+=end comment
+
+=end pod

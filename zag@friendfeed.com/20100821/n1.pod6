@@ -1,0 +1,48 @@
+=begin pod :pubdate('2010-08-21T14:17:48Z') :type<note> 
+=NAME Нева
+
+=begin DESCRIPTION
+
+Нева
+=for Image :width(233) :link('http://m.friendfeed-media.com/09efe8e692be05fbc12879e04eb877f9d5de0df2') :height(175) :preview
+media/500ee805cedd8f27a3568f177213322dbffda0cf.jpg
+
+
+
+=end DESCRIPTION
+
+Нева
+=for Image :width(233) :link('http://m.friendfeed-media.com/09efe8e692be05fbc12879e04eb877f9d5de0df2') :height(175) :preview
+media/500ee805cedd8f27a3568f177213322dbffda0cf.jpg
+
+
+
+=begin comment :src
+{
+  "via": {
+    "name": "email",
+    "url": "http://friendfeed.com/share/mail"
+  },
+  "from": {
+    "name": "углы «Исимуры»",
+    "id": "zag",
+    "type": "user"
+  },
+  "id": "e/a8208055793a4292a59578470f553c51",
+  "rawBody": "Нева",
+  "date": "2010-08-21T14:17:48Z",
+  "thumbnails": [
+    {
+      "width": 233,
+      "url": "http://m.friendfeed-media.com/500ee805cedd8f27a3568f177213322dbffda0cf",
+      "link": "http://m.friendfeed-media.com/09efe8e692be05fbc12879e04eb877f9d5de0df2",
+      "height": 175
+    }
+  ],
+  "url": "http://friendfeed.com/zag/a8208055",
+  "body": "Нева",
+  "rawLink": "http://friendfeed.com/e/a8208055-793a-4292-a595-78470f553c51"
+}
+=end comment
+
+=end pod

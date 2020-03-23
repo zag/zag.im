@@ -1,0 +1,123 @@
+=begin pod :pubdate('2010-05-08T11:25:34Z') :type<note> :tags<linux gnome>
+=NAME Терминал "Утконоса" работающий под управлением #linux #gnome.
+
+=begin DESCRIPTION
+
+Терминал "Утконоса" работающий под управлением #linux #gnome.
+=for Image :width(233) :link('http://m.friendfeed-media.com/105ae4af31893d953b9717e01f022922ecc86c49') :height(175) :preview
+media/1248381deb15441db72a9fe93582e1fce26363b5.jpg
+=for Image :width(233) :link('http://m.friendfeed-media.com/771d16b827ea7fb018e9b560dbe9a72aacc23a97') :height(175) :preview
+media/158a08dc76f5b4954de74cc2ba17a4778a7d06d2.jpg
+=for Image :width(233) :link('http://m.friendfeed-media.com/a7003c7668c46c987521e3630e4c53fdf7f255e8') :height(175) :preview
+media/0c279a6a1fa908de6cecbc53db7d785ff72f7993.jpg
+=for Image :width(233) :link('http://m.friendfeed-media.com/a4749103433a9e0f1875cab6886e65f22acae453') :height(175) :preview
+media/ff46321d9599714fa24a82f4bf71301c41381e58.jpg
+=for Image :width(233) :link('http://m.friendfeed-media.com/45f032e48149479c44b6c317510337f5e802f107') :height(175) :preview
+media/e4fed391396eb81b07080d393a729535e65ac390.jpg
+
+
+
+=end DESCRIPTION
+
+Терминал "Утконоса" работающий под управлением #linux #gnome.
+=for Image :width(233) :link('http://m.friendfeed-media.com/105ae4af31893d953b9717e01f022922ecc86c49') :height(175) :preview
+media/1248381deb15441db72a9fe93582e1fce26363b5.jpg
+=for Image :width(233) :link('http://m.friendfeed-media.com/771d16b827ea7fb018e9b560dbe9a72aacc23a97') :height(175) :preview
+media/158a08dc76f5b4954de74cc2ba17a4778a7d06d2.jpg
+=for Image :width(233) :link('http://m.friendfeed-media.com/a7003c7668c46c987521e3630e4c53fdf7f255e8') :height(175) :preview
+media/0c279a6a1fa908de6cecbc53db7d785ff72f7993.jpg
+=for Image :width(233) :link('http://m.friendfeed-media.com/a4749103433a9e0f1875cab6886e65f22acae453') :height(175) :preview
+media/ff46321d9599714fa24a82f4bf71301c41381e58.jpg
+=for Image :width(233) :link('http://m.friendfeed-media.com/45f032e48149479c44b6c317510337f5e802f107') :height(175) :preview
+media/e4fed391396eb81b07080d393a729535e65ac390.jpg
+
+
+
+=begin comment :src
+{
+  "id": "e/a6e5608cac0841968bd872de5379b8d5",
+  "date": "2010-05-08T11:25:34Z",
+  "rawBody": "Терминал \"Утконоса\" работающий под управлением #linux #gnome.",
+  "url": "http://friendfeed.com/zag/a6e5608c/linux-gnome",
+  "thumbnails": [
+    {
+      "link": "http://m.friendfeed-media.com/105ae4af31893d953b9717e01f022922ecc86c49",
+      "height": 175,
+      "width": 233,
+      "url": "http://m.friendfeed-media.com/1248381deb15441db72a9fe93582e1fce26363b5"
+    },
+    {
+      "width": 233,
+      "url": "http://m.friendfeed-media.com/158a08dc76f5b4954de74cc2ba17a4778a7d06d2",
+      "height": 175,
+      "link": "http://m.friendfeed-media.com/771d16b827ea7fb018e9b560dbe9a72aacc23a97"
+    },
+    {
+      "width": 233,
+      "url": "http://m.friendfeed-media.com/0c279a6a1fa908de6cecbc53db7d785ff72f7993",
+      "height": 175,
+      "link": "http://m.friendfeed-media.com/a7003c7668c46c987521e3630e4c53fdf7f255e8"
+    },
+    {
+      "width": 233,
+      "url": "http://m.friendfeed-media.com/ff46321d9599714fa24a82f4bf71301c41381e58",
+      "height": 175,
+      "link": "http://m.friendfeed-media.com/a4749103433a9e0f1875cab6886e65f22acae453"
+    },
+    {
+      "link": "http://m.friendfeed-media.com/45f032e48149479c44b6c317510337f5e802f107",
+      "height": 175,
+      "url": "http://m.friendfeed-media.com/e4fed391396eb81b07080d393a729535e65ac390",
+      "width": 233
+    }
+  ],
+  "body": "Терминал &quot;Утконоса&quot; работающий под управлением <a href=\"http://friendfeed.com/search?q=%23linux\">#linux</a> <a href=\"http://friendfeed.com/search?q=%23gnome\">#gnome</a>.",
+  "likes": [
+    {
+      "date": "2010-05-10T00:14:44Z",
+      "from": {
+        "name": "Александр Семёнов",
+        "id": "alsemyonov",
+        "type": "user"
+      }
+    },
+    {
+      "from": {
+        "type": "user",
+        "id": "woof",
+        "name": "woof"
+      },
+      "date": "2010-05-08T22:25:21Z"
+    },
+    {
+      "date": "2010-05-08T20:00:22Z",
+      "from": {
+        "name": "tcharge",
+        "id": "tcharge",
+        "type": "user",
+        "private": true
+      }
+    },
+    {
+      "from": {
+        "type": "user",
+        "id": "kkapp",
+        "name": "alex@kapranoff.ru"
+      },
+      "date": "2010-05-08T12:07:08Z"
+    }
+  ],
+  "rawLink": "http://friendfeed.com/e/a6e5608c-ac08-4196-8bd8-72de5379b8d5",
+  "via": {
+    "name": "email",
+    "url": "http://friendfeed.com/share/mail"
+  },
+  "from": {
+    "id": "zag",
+    "type": "user",
+    "name": "углы «Исимуры»"
+  }
+}
+=end comment
+
+=end pod

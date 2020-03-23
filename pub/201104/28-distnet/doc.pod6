@@ -1,0 +1,32 @@
+=begin pod :pubdate('2011-04-28 10:00:00') :tags<socialminig mining selfpublish>
+=NAME Персональные данные - современная Анна Каренина ?
+
+=begin DESCRIPTION
+
+=for Image :align("left") :preview
+pdata.jpg
+
+После "судного" дня, меня преследует постоянное чувство беспокойства. Почему-то вдруг стал, для себя замечать, что некоторые новости заставляют задуматься о сохранности моих персональных данных. 
+
+=end DESCRIPTION
+
+После "судного" дня N<Судный день для моих персональных данных. L<http://zag.ru/a4BR2>>, меня преследует постоянное чувство беспокойства. Почему-то вдруг стал, для себя замечать, что некоторые новости заставляют задуматься о сохранности моих персональных данных.
+
+=for Image :caption("Поезд неудачи")
+pdata.jpg
+
+Например, сегодняшнее сообщение на Techcrunch, про покупку сервиса Delicious N<Yahoo Sells Delicious To YouTube Founders. L<http://techcrunch.com/2011/04/27/yahoo-sells-delicious-to-youtube-founders/>>. А ведь если этот сервис закроют так же внезапно, как например в том году cliqset.com N<Последнее сообщение в твитере cliqset.com. L<http://twitter.com/#!/cliqset/status/12253873209090048> >, я лишусь моих закладок в одночасье.
+
+=for Image :caption("Cliqset - Sorry we're closed")
+204689659.jpg
+
+Может это не случится неожиданно, а будет как с Friendster, который вчера прислал письмо предупреждающе о том, что данный проект меняет свои приоритеты и, как следствие, мои данные будут через месяц удалены:
+
+  Dear Alex,
+  We are introducing a new and improved Friendster site in the coming weeks. As part of this change, we will remove a number of social networking functions in Friendster. This includes your existing account profile, photos, messages, blogs, and shoutouts. However, your list of friends will be preserved, along with your basic profile information.
+  We understand that your photos, blogs and other private data may be important to you. An application is available in the "Apps" section of the site, until May 31st 2011, to help you download or export them securely to third party sites, such as Flickr or Multiply. The application is available here.
+
+
+Вывод, к которому я прихожу глядя на происходящее, следующий: необходим поиск I<( создание )> решения, которое помогло бы мне B<не беспокоится> о сохранности моих данных и большей их B<независимости от внешних факторов>. 
+
+=end pod

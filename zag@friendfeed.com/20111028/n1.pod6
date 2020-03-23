@@ -1,0 +1,38 @@
+=begin pod :pubdate('2011-10-28T20:18:17Z') :type<note> 
+=NAME Кто к нам с лапой придет, тот от лапы падёт !  - http://meme.yahoo.com/sonergonul/p/8lyR-tP/ (via http://ff.im/NiHBD)
+
+=begin DESCRIPTION
+
+Кто к нам с лапой придет, тот от лапы падёт !  - http://meme.yahoo.com/sonergonul/p/8lyR-tP/ (via http://ff.im/NiHBD)
+
+
+
+=end DESCRIPTION
+
+Кто к нам с лапой придет, тот от лапы падёт !  - http://meme.yahoo.com/sonergonul/p/8lyR-tP/ (via http://ff.im/NiHBD)
+
+
+
+=begin comment :src
+{
+  "body": "Кто к нам с лапой придет, тот от лапы падёт !  - <a rel=\"nofollow\" href=\"http://meme.yahoo.com/sonergonul/p/8lyR-tP/\" title=\"http://meme.yahoo.com/sonergonul/p/8lyR-tP/\">http://meme.yahoo.com/sonergo...</a> (via <a href=\"http://ff.im/NiHBD\" title=\"http://friendfeed.com/funny-pics-videos/9e3a5224/baby-starts-fight-with-cat\">http://friendfeed.com/funny-p...</a>)",
+  "rawLink": "http://friendfeed.com/e/5785768e-f20f-4703-b92a-b08224a7933b",
+  "id": "e/5785768ef20f4703b92ab08224a7933b",
+  "date": "2011-10-28T20:18:17Z",
+  "rawBody": "Кто к нам с лапой придет, тот от лапы падёт !  - http://meme.yahoo.com/sonergonul/p/8lyR-tP/ (via http://ff.im/NiHBD)",
+  "url": "http://friendfeed.com/zag/5785768e/via",
+  "thumbnails": [
+    {
+      "url": "http://meme.zenfs.com/u/fd7d83d180da29554712d3a8211486ba16c605d9.gifa",
+      "link": "http://friendfeed.com/e/5785768e-f20f-4703-b92a-b08224a7933b"
+    }
+  ],
+  "from": {
+    "name": "углы «Исимуры»",
+    "id": "zag",
+    "type": "user"
+  }
+}
+=end comment
+
+=end pod

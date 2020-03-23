@@ -1,0 +1,55 @@
+=begin pod :pubdate('2011-08-09T14:12:26Z') :type<note> 
+=NAME Chromium Blog: Connecting Web Apps with Web Intents
+
+=begin DESCRIPTION
+
+Chromium Blog: Connecting Web Apps with Web Intents - L<link|http://blog.chromium.org/2011/08/connecting-web-apps-with-web-intents.html>
+
+=item "posting a comment to Twitter from your custom publishing domain"
+
+
+=end DESCRIPTION
+
+Chromium Blog: Connecting Web Apps with Web Intents - L<link|http://blog.chromium.org/2011/08/connecting-web-apps-with-web-intents.html>
+
+=item "posting a comment to Twitter from your custom publishing domain"
+
+
+=begin comment :src
+{
+  "date": "2011-08-09T14:12:26Z",
+  "id": "e/f246cb5f2645454daf6805e56778f83d",
+  "rawBody": "Chromium Blog: Connecting Web Apps with Web Intents",
+  "url": "http://friendfeed.com/zag/f246cb5f/chromium-blog-connecting-web-apps-with-intents",
+  "body": "Chromium Blog: Connecting Web Apps with Web Intents - <a rel=\"nofollow\" href=\"http://blog.chromium.org/2011/08/connecting-web-apps-with-web-intents.html\" title=\"http://blog.chromium.org/2011/08/connecting-web-apps-with-web-intents.html\">http://blog.chromium.org/2011...</a>",
+  "rawLink": "http://blog.chromium.org/2011/08/connecting-web-apps-with-web-intents.html",
+  "via": {
+    "name": "Bookmarklet",
+    "url": "http://friendfeed.com/share/bookmarklet"
+  },
+  "from": {
+    "name": "углы «Исимуры»",
+    "type": "user",
+    "id": "zag"
+  },
+  "comments": [
+    {
+      "date": "2011-08-09T14:12:26Z",
+      "id": "e/f246cb5f2645454daf6805e56778f83d/c/666665f2dc014366a64ad8739aa81053",
+      "rawBody": "\"posting a comment to Twitter from your custom publishing domain\"",
+      "from": {
+        "name": "углы «Исимуры»",
+        "id": "zag",
+        "type": "user"
+      },
+      "via": {
+        "url": "http://friendfeed.com/share/bookmarklet",
+        "name": "Bookmarklet"
+      },
+      "body": "&quot;posting a comment to Twitter from your custom publishing domain&quot;"
+    }
+  ]
+}
+=end comment
+
+=end pod

@@ -1,0 +1,46 @@
+=begin pod :pubdate('2011-05-09T05:45:58Z') :type<note> :tags<golang sppw>
+=NAME RT @bradfitz: Just presented about #golang in São Paolo at #sppw and released https://github.com/bradfitz/campher/ - Perl embedded in Go!
+
+=begin DESCRIPTION
+
+RT @bradfitz: Just presented about #golang in São Paolo at #sppw and released https://github.com/bradfitz/campher/ - Perl embedded in Go! - L<link|http://twitter.com/zagru/statuses/67465310084665344>
+
+
+
+=end DESCRIPTION
+
+RT @bradfitz: Just presented about #golang in São Paolo at #sppw and released https://github.com/bradfitz/campher/ - Perl embedded in Go! - L<link|http://twitter.com/zagru/statuses/67465310084665344>
+
+
+
+=begin comment :src
+{
+  "via": {
+    "name": "Twitter",
+    "url": "http://twitter.com/zagru/statuses/67465310084665344"
+  },
+  "from": {
+    "id": "zag",
+    "type": "user",
+    "name": "углы «Исимуры»"
+  },
+  "rawBody": "RT @bradfitz: Just presented about #golang in São Paolo at #sppw and released https://github.com/bradfitz/campher/ - Perl embedded in Go!",
+  "id": "e/184eb8a9c2590d21a733ecb57c279b17",
+  "date": "2011-05-09T05:45:58Z",
+  "url": "http://friendfeed.com/zag/184eb8a9/rt-bradfitz-just-presented-about-golang-in-sao",
+  "body": "RT @<a rel=\"nofollow\" href=\"http://twitter.com/bradfitz\">bradfitz</a>: Just presented about <a rel=\"nofollow\" href=\"http://search.twitter.com/search?q=%23golang\">#golang</a> in São Paolo at <a rel=\"nofollow\" href=\"http://search.twitter.com/search?q=%23sppw\">#sppw</a> and released <a rel=\"nofollow\" href=\"https://github.com/bradfitz/campher/\" title=\"https://github.com/bradfitz/campher/\">https://github.com/bradfit...</a> - Perl embedded in Go!",
+  "likes": [
+    {
+      "from": {
+        "name": "alex@kapranoff.ru",
+        "type": "user",
+        "id": "kkapp"
+      },
+      "date": "2011-05-09T09:03:11Z"
+    }
+  ],
+  "rawLink": "http://twitter.com/zagru/statuses/67465310084665344"
+}
+=end comment
+
+=end pod

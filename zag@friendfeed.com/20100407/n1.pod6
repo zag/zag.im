@@ -1,0 +1,67 @@
+=begin pod :pubdate('2010-04-07T17:03:23Z') :type<note> 
+=NAME М.Видео будет продавать iPad
+
+=begin DESCRIPTION
+
+М.Видео будет продавать iPad - L<link|http://www.thg.ru/technews/20100402_210227.html>
+=for Image :width(212) :link('http://www.thg.ru/technews/20100402_210227.html') :height(175) :preview
+media/874adf5e017883c01a486d8d1841d980fb55fea5.jpg
+
+=item во второй половине апреля начнутся продажи этих устройств по 25 тысяч рублей за базовую конфигурацию
+
+
+=end DESCRIPTION
+
+М.Видео будет продавать iPad - L<link|http://www.thg.ru/technews/20100402_210227.html>
+=for Image :width(212) :link('http://www.thg.ru/technews/20100402_210227.html') :height(175) :preview
+media/874adf5e017883c01a486d8d1841d980fb55fea5.jpg
+
+=item во второй половине апреля начнутся продажи этих устройств по 25 тысяч рублей за базовую конфигурацию
+
+
+=begin comment :src
+{
+  "rawLink": "http://www.thg.ru/technews/20100402_210227.html",
+  "body": "М.Видео будет продавать iPad - <a rel=\"nofollow\" href=\"http://www.thg.ru/technews/20100402_210227.html\" title=\"http://www.thg.ru/technews/20100402_210227.html\">http://www.thg.ru/technew...</a>",
+  "date": "2010-04-07T17:03:23Z",
+  "id": "e/2ea400a0dbcb41e1a58231e481fb406f",
+  "url": "http://friendfeed.com/zag/2ea400a0/ipad",
+  "rawBody": "М.Видео будет продавать iPad",
+  "thumbnails": [
+    {
+      "link": "http://www.thg.ru/technews/20100402_210227.html",
+      "height": 175,
+      "url": "http://m.friendfeed-media.com/874adf5e017883c01a486d8d1841d980fb55fea5",
+      "width": 212
+    }
+  ],
+  "comments": [
+    {
+      "body": "во второй половине апреля начнутся продажи этих устройств по 25 тысяч рублей за базовую конфигурацию",
+      "id": "e/2ea400a0dbcb41e1a58231e481fb406f/c/b036fa50b51540bca876b7a3f14733c5",
+      "date": "2010-04-07T17:03:23Z",
+      "rawBody": "во второй половине апреля начнутся продажи этих устройств по 25 тысяч рублей за базовую конфигурацию",
+      "from": {
+        "id": "zag",
+        "type": "user",
+        "name": "углы «Исимуры»"
+      },
+      "via": {
+        "url": "http://friendfeed.com/share/bookmarklet",
+        "name": "Bookmarklet"
+      }
+    }
+  ],
+  "from": {
+    "name": "углы «Исимуры»",
+    "id": "zag",
+    "type": "user"
+  },
+  "via": {
+    "url": "http://friendfeed.com/share/bookmarklet",
+    "name": "Bookmarklet"
+  }
+}
+=end comment
+
+=end pod

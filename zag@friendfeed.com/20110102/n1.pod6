@@ -1,0 +1,36 @@
+=begin pod :pubdate('2011-01-02T20:18:46Z') :type<note> 
+=NAME на короткое время пропал свет. истина где то там.
+
+=begin DESCRIPTION
+
+на короткое время пропал свет. истина где то там. - L<link|http://twitter.com/zagru/statuses/21661701325717504>
+
+
+
+=end DESCRIPTION
+
+на короткое время пропал свет. истина где то там. - L<link|http://twitter.com/zagru/statuses/21661701325717504>
+
+
+
+=begin comment :src
+{
+  "body": "на короткое время пропал свет. истина где то там.",
+  "rawLink": "http://twitter.com/zagru/statuses/21661701325717504",
+  "id": "e/7c99fa80f6766d958eb5d4f8f7725902",
+  "rawBody": "на короткое время пропал свет. истина где то там.",
+  "date": "2011-01-02T20:18:46Z",
+  "url": "http://friendfeed.com/zag/7c99fa80",
+  "from": {
+    "id": "zag",
+    "type": "user",
+    "name": "углы «Исимуры»"
+  },
+  "via": {
+    "name": "Twitter",
+    "url": "http://twitter.com/zagru/statuses/21661701325717504"
+  }
+}
+=end comment
+
+=end pod

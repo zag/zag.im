@@ -1,0 +1,93 @@
+=begin pod :pubdate('2010-11-30T08:51:29Z') :type<note> 
+=NAME CodeMirror
+
+=begin DESCRIPTION
+
+CodeMirror - L<link|http://codemirror.net/#>
+=for Image :width(302) :link('http://codemirror.net/#') :height(175) :preview
+media/c0f9dfa26b636e823847f7e55c6dbcff680d1501.jpg
+
+=item "CodeMirror is a JavaScript library that can be used to create a relatively pleasant editor interface for code-like content ― computer programs, HTML markup, and similar. If a parser has been written for the language you are editing (see below for a list of supported languages), the code will be coloured, and the editor will help you with indentation."
+
+
+=end DESCRIPTION
+
+CodeMirror - L<link|http://codemirror.net/#>
+=for Image :width(302) :link('http://codemirror.net/#') :height(175) :preview
+media/c0f9dfa26b636e823847f7e55c6dbcff680d1501.jpg
+
+=item "CodeMirror is a JavaScript library that can be used to create a relatively pleasant editor interface for code-like content ― computer programs, HTML markup, and similar. If a parser has been written for the language you are editing (see below for a list of supported languages), the code will be coloured, and the editor will help you with indentation."
+
+
+=begin comment :src
+{
+  "date": "2010-11-30T08:51:29Z",
+  "id": "e/8f1856cc455e457fbabe0d7f473fd23a",
+  "rawBody": "CodeMirror",
+  "url": "http://friendfeed.com/zag/8f1856cc/codemirror",
+  "thumbnails": [
+    {
+      "url": "http://m.friendfeed-media.com/c0f9dfa26b636e823847f7e55c6dbcff680d1501",
+      "width": 302,
+      "height": 175,
+      "link": "http://codemirror.net/#"
+    }
+  ],
+  "likes": [
+    {
+      "date": "2010-11-30T09:55:06Z",
+      "from": {
+        "type": "user",
+        "id": "elephantum",
+        "name": "Сло"
+      }
+    },
+    {
+      "from": {
+        "name": "написано иероглифами",
+        "id": "naty007",
+        "type": "user"
+      },
+      "date": "2010-11-30T09:39:17Z"
+    },
+    {
+      "date": "2010-11-30T09:17:16Z",
+      "from": {
+        "name": "alex@kapranoff.ru",
+        "type": "user",
+        "id": "kkapp"
+      }
+    }
+  ],
+  "rawLink": "http://codemirror.net/#",
+  "body": "CodeMirror - <a rel=\"nofollow\" href=\"http://codemirror.net/#\">http://codemirror.net/#</a>",
+  "via": {
+    "url": "http://friendfeed.com/share/bookmarklet",
+    "name": "Bookmarklet"
+  },
+  "from": {
+    "type": "user",
+    "id": "zag",
+    "name": "углы «Исимуры»"
+  },
+  "comments": [
+    {
+      "body": "&quot;CodeMirror is a JavaScript library that can be used to create a relatively pleasant editor interface for code-like content ― computer programs, HTML markup, and similar. If a parser has been written for the language you are editing (see below for a list of supported languages), the code will be coloured, and the editor will help you with indentation.&quot;",
+      "via": {
+        "name": "Bookmarklet",
+        "url": "http://friendfeed.com/share/bookmarklet"
+      },
+      "date": "2010-11-30T08:51:29Z",
+      "id": "e/8f1856cc455e457fbabe0d7f473fd23a/c/0a852a6499ed457d8a2ea33b14a57a6a",
+      "rawBody": "\"CodeMirror is a JavaScript library that can be used to create a relatively pleasant editor interface for code-like content ― computer programs, HTML markup, and similar. If a parser has been written for the language you are editing (see below for a list of supported languages), the code will be coloured, and the editor will help you with indentation.\"",
+      "from": {
+        "name": "углы «Исимуры»",
+        "type": "user",
+        "id": "zag"
+      }
+    }
+  ]
+}
+=end comment
+
+=end pod

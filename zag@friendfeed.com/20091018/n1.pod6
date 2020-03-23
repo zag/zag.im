@@ -1,0 +1,67 @@
+=begin pod :pubdate('2009-10-18T19:42:35Z') :type<note> 
+=NAME IMDb Turns 19. Yes, 19. Older Than The Web Browser.
+
+=begin DESCRIPTION
+
+IMDb Turns 19. Yes, 19. Older Than The Web Browser. - L<link|http://www.techcrunch.com/2009/10/17/imdb-turns-19-yes-19-older-than-the-web-browser/>
+=for Image :width(135) :link('http://www.techcrunch.com/2009/10/17/imdb-turns-19-yes-19-older-than-the-web-browser/') :height(175) :preview
+media/3a4842ae4a1b3c28e78b85661db1f3ecdeaef6b0.jpg
+
+=item Оказывается imdb.com появился раньше web браузера. Был набором скриптов
+
+
+=end DESCRIPTION
+
+IMDb Turns 19. Yes, 19. Older Than The Web Browser. - L<link|http://www.techcrunch.com/2009/10/17/imdb-turns-19-yes-19-older-than-the-web-browser/>
+=for Image :width(135) :link('http://www.techcrunch.com/2009/10/17/imdb-turns-19-yes-19-older-than-the-web-browser/') :height(175) :preview
+media/3a4842ae4a1b3c28e78b85661db1f3ecdeaef6b0.jpg
+
+=item Оказывается imdb.com появился раньше web браузера. Был набором скриптов
+
+
+=begin comment :src
+{
+  "date": "2009-10-18T19:42:35Z",
+  "id": "e/818738ea36c74d0c9b650cdf07d243d0",
+  "url": "http://friendfeed.com/zag/818738ea/imdb-turns-19-yes-older-than-web-browser",
+  "rawBody": "IMDb Turns 19. Yes, 19. Older Than The Web Browser.",
+  "thumbnails": [
+    {
+      "height": 175,
+      "link": "http://www.techcrunch.com/2009/10/17/imdb-turns-19-yes-19-older-than-the-web-browser/",
+      "width": 135,
+      "url": "http://m.friendfeed-media.com/3a4842ae4a1b3c28e78b85661db1f3ecdeaef6b0"
+    }
+  ],
+  "rawLink": "http://www.techcrunch.com/2009/10/17/imdb-turns-19-yes-19-older-than-the-web-browser/",
+  "body": "IMDb Turns 19. Yes, 19. Older Than The Web Browser. - <a rel=\"nofollow\" href=\"http://www.techcrunch.com/2009/10/17/imdb-turns-19-yes-19-older-than-the-web-browser/\" title=\"http://www.techcrunch.com/2009/10/17/imdb-turns-19-yes-19-older-than-the-web-browser/\">http://www.techcrunch.com/2009...</a>",
+  "from": {
+    "id": "zag",
+    "type": "user",
+    "name": "углы «Исимуры»"
+  },
+  "via": {
+    "name": "Bookmarklet",
+    "url": "http://friendfeed.com/share/bookmarklet"
+  },
+  "comments": [
+    {
+      "id": "e/818738ea36c74d0c9b650cdf07d243d0/c/349073a84d2247dfba0639602681cb05",
+      "date": "2009-10-18T19:42:35Z",
+      "rawBody": "Оказывается imdb.com появился раньше web браузера. Был набором скриптов",
+      "from": {
+        "name": "углы «Исимуры»",
+        "id": "zag",
+        "type": "user"
+      },
+      "via": {
+        "name": "Bookmarklet",
+        "url": "http://friendfeed.com/share/bookmarklet"
+      },
+      "body": "Оказывается imdb.com появился раньше web браузера. Был набором скриптов"
+    }
+  ]
+}
+=end comment
+
+=end pod

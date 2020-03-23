@@ -1,0 +1,54 @@
+=begin pod :pubdate('2010-08-18T07:27:43Z') :type<note> 
+=NAME Прогресс времени прохождения спектестов perl 6 для Rakudo
+
+=begin DESCRIPTION
+
+Прогресс времени прохождения спектестов perl 6 для Rakudo
+=for Image :width(263) :link('http://m.friendfeed-media.com/5238ea1e356c0cb8808448913f18bda9587ba7ff') :height(175) :preview
+media/5dcef0b5d57c156197abe85692db5e4c89f253c5.jpg
+
+
+
+=end DESCRIPTION
+
+Прогресс времени прохождения спектестов perl 6 для Rakudo
+=for Image :width(263) :link('http://m.friendfeed-media.com/5238ea1e356c0cb8808448913f18bda9587ba7ff') :height(175) :preview
+media/5dcef0b5d57c156197abe85692db5e4c89f253c5.jpg
+
+
+
+=begin comment :src
+{
+  "from": {
+    "id": "zag",
+    "type": "user",
+    "name": "углы «Исимуры»"
+  },
+  "rawBody": "Прогресс времени прохождения спектестов perl 6 для Rakudo",
+  "id": "e/80bfc3e60591432388bf10f08a55c8d8",
+  "date": "2010-08-18T07:27:43Z",
+  "url": "http://friendfeed.com/zag/80bfc3e6/perl-6-rakudo",
+  "thumbnails": [
+    {
+      "height": 175,
+      "link": "http://m.friendfeed-media.com/5238ea1e356c0cb8808448913f18bda9587ba7ff",
+      "url": "http://m.friendfeed-media.com/5dcef0b5d57c156197abe85692db5e4c89f253c5",
+      "width": 263
+    }
+  ],
+  "body": "Прогресс времени прохождения спектестов perl 6 для Rakudo",
+  "likes": [
+    {
+      "date": "2010-08-18T07:53:46Z",
+      "from": {
+        "type": "user",
+        "id": "kkapp",
+        "name": "alex@kapranoff.ru"
+      }
+    }
+  ],
+  "rawLink": "http://friendfeed.com/e/80bfc3e6-0591-4323-88bf-10f08a55c8d8"
+}
+=end comment
+
+=end pod

@@ -1,0 +1,174 @@
+=begin pod :pubdate('2010-03-09T18:47:06Z') :type<note> :tags<ps3>
+=NAME Completed: Uncharted 2:Among Thieves #ps3
+
+=begin DESCRIPTION
+
+Completed: Uncharted 2:Among Thieves #ps3
+=for Image :width(233) :link('http://m.friendfeed-media.com/30b033e5bb5c3337bfdd80a62c1faef002f8766d') :height(175) :preview
+media/ffbb5aa21e8d8769c512226606e6a50024a9dccb.jpg
+=for Image :width(233) :link('http://m.friendfeed-media.com/2635468ab427857278dc56e607bf486820dcf90a') :height(175) :preview
+media/389cfabae1e5e5a4df84ec46ac4e0a632ac5aaea.jpg
+=for Image :width(233) :link('http://m.friendfeed-media.com/9f3e50b7eaed0f804c464d8974a838d662925e25') :height(175) :preview
+media/c07eb7536b0bfdeeb0b6e3a9f767c269b84716e2.jpg
+=for Image :width(233) :link('http://m.friendfeed-media.com/878d81518501f2379d68ce0a6cfd57a36d40d0eb') :height(175) :preview
+media/3dc734d4998483de41453943be489a1309c2e1e3.jpg
+=for Image :width(233) :link('http://m.friendfeed-media.com/b6b3e67419c152255b01ebaafbce9398e1ff6373') :height(175) :preview
+media/474d68cd318eb9ff560e7402f907e5637b623329.jpg
+=for Image :width(233) :link('http://m.friendfeed-media.com/18a6b0acd877da618abd7b702c0fd4c071ba27f2') :height(175) :preview
+media/0a24d140de14877918b84682dc8d89938019b61a.jpg
+=for Image :width(175) :link('http://m.friendfeed-media.com/d72ae1ed5490b9f680198cb3b9ab3f8558a738a8') :height(175) :preview
+media/4dd2e4185e86f9f5ee96a25e36898a1aa7ed779c.jpg
+=for Image :width(233) :link('http://m.friendfeed-media.com/9785b7fdf25578b19eb83887347f3b9ed6fdbee7') :height(175) :preview
+media/9192d9f850b119b74c94ec2b5cad3d84c6351a9b.jpg
+=for Image :width(233) :link('http://m.friendfeed-media.com/930857aa70e518092ce5fad58c0c4ef556d38ff5') :height(175) :preview
+media/1788d1a30aa8840b1622408d79960e8eb68bd437.jpg
+=for Image :width(233) :link('http://m.friendfeed-media.com/17458dc588a0ecfc94dab152dddd8b1375520fdf') :height(175) :preview
+media/14ea2657fb241510d540daed2da686202e69e747.jpg
+=for Image :width(233) :link('http://m.friendfeed-media.com/b90bd8d654f1e9f062d8b54cdc679847f069d037') :height(175) :preview
+media/79c426865d22b688af46d1ecf29952e5ab6acfb9.jpg
+=for Image :width(233) :link('http://m.friendfeed-media.com/af0b791b3fdad89765b606be7024358f83c2957d') :height(175) :preview
+media/7e5b41b4956d8c3082468a34eec5ca9bf753c56c.jpg
+=for Image :width(233) :link('http://m.friendfeed-media.com/2a8f6919c5c851bf2b0b83e373e0884d4255693d') :height(175) :preview
+media/acb42167ce4d1f8a0934f572c8f163eb7927c44d.jpg
+=for Image :width(233) :link('http://m.friendfeed-media.com/80e198359786ab313ed2f8ffb2b52e70bdba632a') :height(175) :preview
+media/54927004bdfeea70a5a19043189e824f9baa006d.jpg
+
+
+
+=end DESCRIPTION
+
+Completed: Uncharted 2:Among Thieves #ps3
+=for Image :width(233) :link('http://m.friendfeed-media.com/30b033e5bb5c3337bfdd80a62c1faef002f8766d') :height(175) :preview
+media/ffbb5aa21e8d8769c512226606e6a50024a9dccb.jpg
+=for Image :width(233) :link('http://m.friendfeed-media.com/2635468ab427857278dc56e607bf486820dcf90a') :height(175) :preview
+media/389cfabae1e5e5a4df84ec46ac4e0a632ac5aaea.jpg
+=for Image :width(233) :link('http://m.friendfeed-media.com/9f3e50b7eaed0f804c464d8974a838d662925e25') :height(175) :preview
+media/c07eb7536b0bfdeeb0b6e3a9f767c269b84716e2.jpg
+=for Image :width(233) :link('http://m.friendfeed-media.com/878d81518501f2379d68ce0a6cfd57a36d40d0eb') :height(175) :preview
+media/3dc734d4998483de41453943be489a1309c2e1e3.jpg
+=for Image :width(233) :link('http://m.friendfeed-media.com/b6b3e67419c152255b01ebaafbce9398e1ff6373') :height(175) :preview
+media/474d68cd318eb9ff560e7402f907e5637b623329.jpg
+=for Image :width(233) :link('http://m.friendfeed-media.com/18a6b0acd877da618abd7b702c0fd4c071ba27f2') :height(175) :preview
+media/0a24d140de14877918b84682dc8d89938019b61a.jpg
+=for Image :width(175) :link('http://m.friendfeed-media.com/d72ae1ed5490b9f680198cb3b9ab3f8558a738a8') :height(175) :preview
+media/4dd2e4185e86f9f5ee96a25e36898a1aa7ed779c.jpg
+=for Image :width(233) :link('http://m.friendfeed-media.com/9785b7fdf25578b19eb83887347f3b9ed6fdbee7') :height(175) :preview
+media/9192d9f850b119b74c94ec2b5cad3d84c6351a9b.jpg
+=for Image :width(233) :link('http://m.friendfeed-media.com/930857aa70e518092ce5fad58c0c4ef556d38ff5') :height(175) :preview
+media/1788d1a30aa8840b1622408d79960e8eb68bd437.jpg
+=for Image :width(233) :link('http://m.friendfeed-media.com/17458dc588a0ecfc94dab152dddd8b1375520fdf') :height(175) :preview
+media/14ea2657fb241510d540daed2da686202e69e747.jpg
+=for Image :width(233) :link('http://m.friendfeed-media.com/b90bd8d654f1e9f062d8b54cdc679847f069d037') :height(175) :preview
+media/79c426865d22b688af46d1ecf29952e5ab6acfb9.jpg
+=for Image :width(233) :link('http://m.friendfeed-media.com/af0b791b3fdad89765b606be7024358f83c2957d') :height(175) :preview
+media/7e5b41b4956d8c3082468a34eec5ca9bf753c56c.jpg
+=for Image :width(233) :link('http://m.friendfeed-media.com/2a8f6919c5c851bf2b0b83e373e0884d4255693d') :height(175) :preview
+media/acb42167ce4d1f8a0934f572c8f163eb7927c44d.jpg
+=for Image :width(233) :link('http://m.friendfeed-media.com/80e198359786ab313ed2f8ffb2b52e70bdba632a') :height(175) :preview
+media/54927004bdfeea70a5a19043189e824f9baa006d.jpg
+
+
+
+=begin comment :src
+{
+  "id": "e/d5e01f3a418a472db66d8532338784c8",
+  "url": "http://friendfeed.com/zag/d5e01f3a/completed-uncharted-2-among-thieves-ps3",
+  "date": "2010-03-09T18:47:06Z",
+  "rawBody": "Completed: Uncharted 2:Among Thieves #ps3",
+  "thumbnails": [
+    {
+      "link": "http://m.friendfeed-media.com/30b033e5bb5c3337bfdd80a62c1faef002f8766d",
+      "height": 175,
+      "width": 233,
+      "url": "http://m.friendfeed-media.com/ffbb5aa21e8d8769c512226606e6a50024a9dccb"
+    },
+    {
+      "url": "http://m.friendfeed-media.com/389cfabae1e5e5a4df84ec46ac4e0a632ac5aaea",
+      "width": 233,
+      "height": 175,
+      "link": "http://m.friendfeed-media.com/2635468ab427857278dc56e607bf486820dcf90a"
+    },
+    {
+      "url": "http://m.friendfeed-media.com/c07eb7536b0bfdeeb0b6e3a9f767c269b84716e2",
+      "width": 233,
+      "link": "http://m.friendfeed-media.com/9f3e50b7eaed0f804c464d8974a838d662925e25",
+      "height": 175
+    },
+    {
+      "height": 175,
+      "link": "http://m.friendfeed-media.com/878d81518501f2379d68ce0a6cfd57a36d40d0eb",
+      "width": 233,
+      "url": "http://m.friendfeed-media.com/3dc734d4998483de41453943be489a1309c2e1e3"
+    },
+    {
+      "link": "http://m.friendfeed-media.com/b6b3e67419c152255b01ebaafbce9398e1ff6373",
+      "height": 175,
+      "url": "http://m.friendfeed-media.com/474d68cd318eb9ff560e7402f907e5637b623329",
+      "width": 233
+    },
+    {
+      "height": 175,
+      "link": "http://m.friendfeed-media.com/18a6b0acd877da618abd7b702c0fd4c071ba27f2",
+      "url": "http://m.friendfeed-media.com/0a24d140de14877918b84682dc8d89938019b61a",
+      "width": 233
+    },
+    {
+      "url": "http://m.friendfeed-media.com/4dd2e4185e86f9f5ee96a25e36898a1aa7ed779c",
+      "width": 175,
+      "height": 175,
+      "link": "http://m.friendfeed-media.com/d72ae1ed5490b9f680198cb3b9ab3f8558a738a8"
+    },
+    {
+      "link": "http://m.friendfeed-media.com/9785b7fdf25578b19eb83887347f3b9ed6fdbee7",
+      "height": 175,
+      "width": 233,
+      "url": "http://m.friendfeed-media.com/9192d9f850b119b74c94ec2b5cad3d84c6351a9b"
+    },
+    {
+      "height": 175,
+      "link": "http://m.friendfeed-media.com/930857aa70e518092ce5fad58c0c4ef556d38ff5",
+      "url": "http://m.friendfeed-media.com/1788d1a30aa8840b1622408d79960e8eb68bd437",
+      "width": 233
+    },
+    {
+      "link": "http://m.friendfeed-media.com/17458dc588a0ecfc94dab152dddd8b1375520fdf",
+      "height": 175,
+      "url": "http://m.friendfeed-media.com/14ea2657fb241510d540daed2da686202e69e747",
+      "width": 233
+    },
+    {
+      "width": 233,
+      "url": "http://m.friendfeed-media.com/79c426865d22b688af46d1ecf29952e5ab6acfb9",
+      "link": "http://m.friendfeed-media.com/b90bd8d654f1e9f062d8b54cdc679847f069d037",
+      "height": 175
+    },
+    {
+      "height": 175,
+      "link": "http://m.friendfeed-media.com/af0b791b3fdad89765b606be7024358f83c2957d",
+      "width": 233,
+      "url": "http://m.friendfeed-media.com/7e5b41b4956d8c3082468a34eec5ca9bf753c56c"
+    },
+    {
+      "height": 175,
+      "link": "http://m.friendfeed-media.com/2a8f6919c5c851bf2b0b83e373e0884d4255693d",
+      "url": "http://m.friendfeed-media.com/acb42167ce4d1f8a0934f572c8f163eb7927c44d",
+      "width": 233
+    },
+    {
+      "link": "http://m.friendfeed-media.com/80e198359786ab313ed2f8ffb2b52e70bdba632a",
+      "height": 175,
+      "width": 233,
+      "url": "http://m.friendfeed-media.com/54927004bdfeea70a5a19043189e824f9baa006d"
+    }
+  ],
+  "body": "Completed: Uncharted 2:Among Thieves <a href=\"http://friendfeed.com/search?q=%23ps3\">#ps3</a>",
+  "rawLink": "http://friendfeed.com/e/d5e01f3a-418a-472d-b66d-8532338784c8",
+  "from": {
+    "name": "углы «Исимуры»",
+    "type": "user",
+    "id": "zag"
+  }
+}
+=end comment
+
+=end pod

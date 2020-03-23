@@ -1,0 +1,48 @@
+=begin pod :pubdate('2010-05-27T11:05:10Z') :type<note> 
+=NAME Half-Life 2 for Mac OS X
+
+=begin DESCRIPTION
+
+Half-Life 2 for Mac OS X - L<link|http://hivelogic.com/articles/half-life-2-for-mac-os-x>
+=for Image :width(280) :link('http://hivelogic.com/articles/half-life-2-for-mac-os-x') :height(175) :preview
+media/04306795b1c270c5d4178d4f4f2c28c3c7e7720c.jpg
+
+
+
+=end DESCRIPTION
+
+Half-Life 2 for Mac OS X - L<link|http://hivelogic.com/articles/half-life-2-for-mac-os-x>
+=for Image :width(280) :link('http://hivelogic.com/articles/half-life-2-for-mac-os-x') :height(175) :preview
+media/04306795b1c270c5d4178d4f4f2c28c3c7e7720c.jpg
+
+
+
+=begin comment :src
+{
+  "from": {
+    "name": "углы «Исимуры»",
+    "id": "zag",
+    "type": "user"
+  },
+  "via": {
+    "url": "http://friendfeed.com/share/bookmarklet",
+    "name": "Bookmarklet"
+  },
+  "id": "e/805b6d5adb0e4b5089897525cd171420",
+  "rawBody": "Half-Life 2 for Mac OS X",
+  "date": "2010-05-27T11:05:10Z",
+  "url": "http://friendfeed.com/zag/805b6d5a/half-life-2-for-mac-os-x",
+  "thumbnails": [
+    {
+      "height": 175,
+      "link": "http://hivelogic.com/articles/half-life-2-for-mac-os-x",
+      "url": "http://m.friendfeed-media.com/04306795b1c270c5d4178d4f4f2c28c3c7e7720c",
+      "width": 280
+    }
+  ],
+  "rawLink": "http://hivelogic.com/articles/half-life-2-for-mac-os-x",
+  "body": "Half-Life 2 for Mac OS X - <a rel=\"nofollow\" href=\"http://hivelogic.com/articles/half-life-2-for-mac-os-x\" title=\"http://hivelogic.com/articles/half-life-2-for-mac-os-x\">http://hivelogic.com/article...</a>"
+}
+=end comment
+
+=end pod

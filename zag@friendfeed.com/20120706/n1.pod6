@@ -1,0 +1,77 @@
+=begin pod :pubdate('2012-07-06T07:07:56Z') :type<note> 
+=NAME The Architecture of Open Source Applications
+
+=begin DESCRIPTION
+
+The Architecture of Open Source Applications - L<link|http://www.aosabook.org/en/index.html>
+=for Image :width(133) :link('http://www.aosabook.org/en/index.html') :height(175) :preview
+media/3c788759d9645de4b709dec59ff73190bd183717.jpg
+=for Image :width(133) :link('http://www.aosabook.org/en/index.html') :height(175) :preview
+media/79c014fee9b4795ab719fa1ebd15e27527f2722e.jpg
+
+=item "This work is made available under the Creative Commons Attribution 3.0 Unported license"
+
+
+=end DESCRIPTION
+
+The Architecture of Open Source Applications - L<link|http://www.aosabook.org/en/index.html>
+=for Image :width(133) :link('http://www.aosabook.org/en/index.html') :height(175) :preview
+media/3c788759d9645de4b709dec59ff73190bd183717.jpg
+=for Image :width(133) :link('http://www.aosabook.org/en/index.html') :height(175) :preview
+media/79c014fee9b4795ab719fa1ebd15e27527f2722e.jpg
+
+=item "This work is made available under the Creative Commons Attribution 3.0 Unported license"
+
+
+=begin comment :src
+{
+  "via": {
+    "name": "Bookmarklet",
+    "url": "http://friendfeed.com/share/bookmarklet"
+  },
+  "from": {
+    "name": "углы «Исимуры»",
+    "id": "zag",
+    "type": "user"
+  },
+  "comments": [
+    {
+      "rawBody": "\"This work is made available under the Creative Commons Attribution 3.0 Unported license\"",
+      "id": "e/dc72beca8fe44cea806e221aee236302/c/0ec6b4c1430244b0a5594282cd8876da",
+      "date": "2012-07-06T07:07:56Z",
+      "from": {
+        "name": "углы «Исимуры»",
+        "id": "zag",
+        "type": "user"
+      },
+      "via": {
+        "url": "http://friendfeed.com/share/bookmarklet",
+        "name": "Bookmarklet"
+      },
+      "body": "&quot;This work is made available under the Creative Commons Attribution 3.0 Unported license&quot;"
+    }
+  ],
+  "url": "http://friendfeed.com/zag/dc72beca/architecture-of-open-source-applications",
+  "id": "e/dc72beca8fe44cea806e221aee236302",
+  "date": "2012-07-06T07:07:56Z",
+  "rawBody": "The Architecture of Open Source Applications",
+  "thumbnails": [
+    {
+      "height": 175,
+      "link": "http://www.aosabook.org/en/index.html",
+      "width": 133,
+      "url": "http://m.friendfeed-media.com/3c788759d9645de4b709dec59ff73190bd183717"
+    },
+    {
+      "url": "http://m.friendfeed-media.com/79c014fee9b4795ab719fa1ebd15e27527f2722e",
+      "width": 133,
+      "height": 175,
+      "link": "http://www.aosabook.org/en/index.html"
+    }
+  ],
+  "body": "The Architecture of Open Source Applications - <a rel=\"nofollow\" href=\"http://www.aosabook.org/en/index.html\" title=\"http://www.aosabook.org/en/index.html\">http://www.aosabook.org/en...</a>",
+  "rawLink": "http://www.aosabook.org/en/index.html"
+}
+=end comment
+
+=end pod

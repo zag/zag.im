@@ -1,0 +1,67 @@
+=begin pod :pubdate('2010-11-25T21:14:04Z') :type<note> :tags<haml>
+=NAME Markup should be beautiful #haml
+
+=begin DESCRIPTION
+
+Markup should be beautiful #haml - L<link|http://haml-lang.com/#>
+=for Image :width(169) :link('http://haml-lang.com/#') :height(175) :preview
+media/a2011498af5d3cfd5e3ffe53d534cddb3a0d80f7.jpg
+
+=item Haml is the next step in generating views in your Rails application. Haml is a refreshing take that is meant to free us from the shitty templating languages we have gotten used to.
+
+
+=end DESCRIPTION
+
+Markup should be beautiful #haml - L<link|http://haml-lang.com/#>
+=for Image :width(169) :link('http://haml-lang.com/#') :height(175) :preview
+media/a2011498af5d3cfd5e3ffe53d534cddb3a0d80f7.jpg
+
+=item Haml is the next step in generating views in your Rails application. Haml is a refreshing take that is meant to free us from the shitty templating languages we have gotten used to.
+
+
+=begin comment :src
+{
+  "id": "e/c0bcc77399024d3a8c5e3c3d84555480",
+  "date": "2010-11-25T21:14:04Z",
+  "url": "http://friendfeed.com/zag/c0bcc773/markup-should-be-beautiful-haml",
+  "rawBody": "Markup should be beautiful #haml",
+  "thumbnails": [
+    {
+      "height": 175,
+      "link": "http://haml-lang.com/#",
+      "width": 169,
+      "url": "http://m.friendfeed-media.com/a2011498af5d3cfd5e3ffe53d534cddb3a0d80f7"
+    }
+  ],
+  "body": "Markup should be beautiful <a href=\"http://friendfeed.com/search?q=%23haml\">#haml</a> - <a rel=\"nofollow\" href=\"http://haml-lang.com/#\">http://haml-lang.com/#</a>",
+  "rawLink": "http://haml-lang.com/#",
+  "from": {
+    "name": "углы «Исимуры»",
+    "type": "user",
+    "id": "zag"
+  },
+  "via": {
+    "url": "http://friendfeed.com/share/bookmarklet",
+    "name": "Bookmarklet"
+  },
+  "comments": [
+    {
+      "date": "2010-11-25T21:14:04Z",
+      "id": "e/c0bcc77399024d3a8c5e3c3d84555480/c/565934aa58294a17990baf87427d886d",
+      "from": {
+        "name": "углы «Исимуры»",
+        "id": "zag",
+        "type": "user"
+      },
+      "rawBody": "Haml is the next step in generating views in your Rails application. Haml is a refreshing take that is meant to free us from the shitty templating languages we have gotten used to.",
+      "via": {
+        "url": "http://friendfeed.com/share/bookmarklet",
+        "name": "Bookmarklet"
+      },
+      "body": "Haml is the next step in generating views in your Rails application. Haml is a refreshing take that is meant to free us from the shitty templating languages we have gotten used to."
+    }
+  ]
+}
+=end comment
+
+=end pod

@@ -1,0 +1,48 @@
+=begin pod :pubdate('2010-10-18T07:20:15Z') :type<note> :tags<PS3>
+=NAME Netflix on #PS3 ready to download on some consoles, service starts Oct. 18th -- Engadget
+
+=begin DESCRIPTION
+
+Netflix on #PS3 ready to download on some consoles, service starts Oct. 18th -- Engadget - L<link|http://www.engadget.com/2010/10/16/netflix-on-ps3-ready-to-download-on-some-consoles-but-service-s/>
+=for Image :width(75) :link('http://www.engadget.com/2010/10/16/netflix-on-ps3-ready-to-download-on-some-consoles-but-service-s/') :height(75) :preview
+media/ed6cc311fdf4e8a68fb572b5995d28fe9492ff5a.jpg
+
+
+
+=end DESCRIPTION
+
+Netflix on #PS3 ready to download on some consoles, service starts Oct. 18th -- Engadget - L<link|http://www.engadget.com/2010/10/16/netflix-on-ps3-ready-to-download-on-some-consoles-but-service-s/>
+=for Image :width(75) :link('http://www.engadget.com/2010/10/16/netflix-on-ps3-ready-to-download-on-some-consoles-but-service-s/') :height(75) :preview
+media/ed6cc311fdf4e8a68fb572b5995d28fe9492ff5a.jpg
+
+
+
+=begin comment :src
+{
+  "from": {
+    "name": "углы «Исимуры»",
+    "type": "user",
+    "id": "zag"
+  },
+  "via": {
+    "name": "Bookmarklet",
+    "url": "http://friendfeed.com/share/bookmarklet"
+  },
+  "rawLink": "http://www.engadget.com/2010/10/16/netflix-on-ps3-ready-to-download-on-some-consoles-but-service-s/",
+  "body": "Netflix on <a href=\"http://friendfeed.com/search?q=%23PS3\">#PS3</a> ready to download on some consoles, service starts Oct. 18th -- Engadget - <a rel=\"nofollow\" href=\"http://www.engadget.com/2010/10/16/netflix-on-ps3-ready-to-download-on-some-consoles-but-service-s/\" title=\"http://www.engadget.com/2010/10/16/netflix-on-ps3-ready-to-download-on-some-consoles-but-service-s/\">http://www.engadget.com/2010...</a>",
+  "id": "e/1970a2eaa86f46e9a56cd2986ec80b30",
+  "rawBody": "Netflix on #PS3 ready to download on some consoles, service starts Oct. 18th -- Engadget",
+  "date": "2010-10-18T07:20:15Z",
+  "url": "http://friendfeed.com/zag/1970a2ea/netflix-on-ps3-ready-to-download-some-consoles",
+  "thumbnails": [
+    {
+      "width": 75,
+      "url": "http://m.friendfeed-media.com/ed6cc311fdf4e8a68fb572b5995d28fe9492ff5a",
+      "link": "http://www.engadget.com/2010/10/16/netflix-on-ps3-ready-to-download-on-some-consoles-but-service-s/",
+      "height": 75
+    }
+  ]
+}
+=end comment
+
+=end pod

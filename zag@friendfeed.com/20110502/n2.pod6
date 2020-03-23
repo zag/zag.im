@@ -1,0 +1,36 @@
+=begin pod :pubdate('2011-05-02T04:38:04Z') :type<note> 
+=NAME RT @google: Google's Prediction API v1.2 helps developers build smarter apps using machine learning, new features: http://goo.gl/1AZhC
+
+=begin DESCRIPTION
+
+RT @google: Google's Prediction API v1.2 helps developers build smarter apps using machine learning, new features: http://goo.gl/1AZhC - L<link|http://twitter.com/zagru/statuses/64911510144692224>
+
+
+
+=end DESCRIPTION
+
+RT @google: Google's Prediction API v1.2 helps developers build smarter apps using machine learning, new features: http://goo.gl/1AZhC - L<link|http://twitter.com/zagru/statuses/64911510144692224>
+
+
+
+=begin comment :src
+{
+  "from": {
+    "name": "углы «Исимуры»",
+    "id": "zag",
+    "type": "user"
+  },
+  "via": {
+    "url": "http://twitter.com/zagru/statuses/64911510144692224",
+    "name": "Twitter"
+  },
+  "rawLink": "http://twitter.com/zagru/statuses/64911510144692224",
+  "body": "RT @<a rel=\"nofollow\" href=\"http://twitter.com/google\">google</a>: Google's Prediction API v1.2 helps developers build smarter apps using machine learning, new features: <a rel=\"nofollow\" href=\"http://goo.gl/1AZhC\" title=\"http://googlecode.blogspot.com/2011/04/prediction-api-every-app-smart-app.html\">http://googlecode.blogspot.com/2011...</a>",
+  "id": "e/b55ede9f31f9bfd5bf06e40be3aa4c47",
+  "date": "2011-05-02T04:38:04Z",
+  "rawBody": "RT @google: Google's Prediction API v1.2 helps developers build smarter apps using machine learning, new features: http://goo.gl/1AZhC",
+  "url": "http://friendfeed.com/zag/b55ede9f/rt-google-prediction-api-v1-2-helps-developers"
+}
+=end comment
+
+=end pod

@@ -1,0 +1,36 @@
+=begin pod :pubdate('2009-05-18T08:19:25Z') :type<note> 
+=NAME @AnatolyUnix Окно в крыше. Для наклейки пленки надо вылазить на крышу.
+
+=begin DESCRIPTION
+
+@AnatolyUnix Окно в крыше. Для наклейки пленки надо вылазить на крышу. - L<link|http://twitter.com/zagru/statuses/1834020796>
+
+
+
+=end DESCRIPTION
+
+@AnatolyUnix Окно в крыше. Для наклейки пленки надо вылазить на крышу. - L<link|http://twitter.com/zagru/statuses/1834020796>
+
+
+
+=begin comment :src
+{
+  "body": "@<a rel=\"nofollow\" href=\"http://twitter.com/AnatolyUnix\">AnatolyUnix</a> Окно в крыше. Для наклейки пленки надо вылазить на крышу.",
+  "rawLink": "http://twitter.com/zagru/statuses/1834020796",
+  "rawBody": "@AnatolyUnix Окно в крыше. Для наклейки пленки надо вылазить на крышу.",
+  "id": "e/ee3cd5e4f3210a949df8d3a50fa50550",
+  "date": "2009-05-18T08:19:25Z",
+  "url": "http://friendfeed.com/zag/ee3cd5e4/anatolyunix",
+  "from": {
+    "name": "углы «Исимуры»",
+    "id": "zag",
+    "type": "user"
+  },
+  "via": {
+    "name": "Twitter",
+    "url": "http://twitter.com/zagru/statuses/1834020796"
+  }
+}
+=end comment
+
+=end pod

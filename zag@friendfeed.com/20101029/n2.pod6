@@ -1,0 +1,121 @@
+=begin pod :pubdate('2010-10-29T08:47:25Z') :type<note> :tags<Android>
+=NAME #Android Halloween Pumpkin - http://techcrunch.com/2010/10/28/requisite-halloween-post/ (via http://ff.im/sPulJ)
+
+=begin DESCRIPTION
+
+#Android Halloween Pumpkin - http://techcrunch.com/2010/10/28/requisite-halloween-post/ (via http://ff.im/sPulJ)
+=for Image :width(286) :link('http://techcrunch.com/2010/10/28/requisite-halloween-post/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+Techcrunch+%28TechCrunch%29') :height(175) :preview
+media/6be01c1eb5235facee10b6b39719504e9b48d137.jpg
+=for Image :width(305) :link('http://techcrunch.com/2010/10/28/requisite-halloween-post/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+Techcrunch+%28TechCrunch%29') :height(175) :preview
+media/ea51745bf2a67899df7bb259174fb25710779a1a.jpg
+
+
+
+=end DESCRIPTION
+
+#Android Halloween Pumpkin - http://techcrunch.com/2010/10/28/requisite-halloween-post/ (via http://ff.im/sPulJ)
+=for Image :width(286) :link('http://techcrunch.com/2010/10/28/requisite-halloween-post/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+Techcrunch+%28TechCrunch%29') :height(175) :preview
+media/6be01c1eb5235facee10b6b39719504e9b48d137.jpg
+=for Image :width(305) :link('http://techcrunch.com/2010/10/28/requisite-halloween-post/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+Techcrunch+%28TechCrunch%29') :height(175) :preview
+media/ea51745bf2a67899df7bb259174fb25710779a1a.jpg
+
+
+
+=begin comment :src
+{
+  "date": "2010-10-29T08:47:25Z",
+  "id": "e/327ee95094f54937ae2297c87b4a3dc8",
+  "url": "http://friendfeed.com/zag/327ee950/android-halloween-pumpkin-via",
+  "rawBody": "#Android Halloween Pumpkin - http://techcrunch.com/2010/10/28/requisite-halloween-post/ (via http://ff.im/sPulJ)",
+  "thumbnails": [
+    {
+      "link": "http://techcrunch.com/2010/10/28/requisite-halloween-post/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+Techcrunch+%28TechCrunch%29",
+      "height": 175,
+      "url": "http://m.friendfeed-media.com/6be01c1eb5235facee10b6b39719504e9b48d137",
+      "width": 286
+    },
+    {
+      "url": "http://m.friendfeed-media.com/ea51745bf2a67899df7bb259174fb25710779a1a",
+      "width": 305,
+      "link": "http://techcrunch.com/2010/10/28/requisite-halloween-post/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+Techcrunch+%28TechCrunch%29",
+      "height": 175
+    }
+  ],
+  "likes": [
+    {
+      "from": {
+        "id": "sargo",
+        "type": "user",
+        "name": "Sergey Trofimov"
+      },
+      "date": "2010-10-29T14:11:11Z"
+    },
+    {
+      "from": {
+        "name": "afds",
+        "id": "afds",
+        "type": "user"
+      },
+      "date": "2010-10-29T09:01:50Z"
+    },
+    {
+      "date": "2010-10-29T09:01:30Z",
+      "from": {
+        "name": "бык с ледорезом",
+        "id": "burzoom",
+        "type": "user"
+      }
+    },
+    {
+      "from": {
+        "name": "jenys",
+        "type": "user",
+        "id": "jenys",
+        "private": true
+      },
+      "date": "2010-10-29T08:58:36Z"
+    },
+    {
+      "from": {
+        "name": "woof",
+        "id": "woof",
+        "type": "user"
+      },
+      "date": "2010-10-29T08:57:44Z"
+    },
+    {
+      "from": {
+        "name": "Истеричная белка",
+        "type": "user",
+        "id": "adilik"
+      },
+      "date": "2010-10-29T08:56:29Z"
+    },
+    {
+      "from": {
+        "name": "Alexei Tymchenko",
+        "id": "armiol",
+        "type": "user"
+      },
+      "date": "2010-10-29T08:50:12Z"
+    },
+    {
+      "from": {
+        "name": "alex@kapranoff.ru",
+        "type": "user",
+        "id": "kkapp"
+      },
+      "date": "2010-10-29T08:48:12Z"
+    }
+  ],
+  "rawLink": "http://friendfeed.com/e/327ee950-94f5-4937-ae22-97c87b4a3dc8",
+  "body": "<a href=\"http://friendfeed.com/search?q=%23Android\">#Android</a> Halloween Pumpkin - <a rel=\"nofollow\" href=\"http://techcrunch.com/2010/10/28/requisite-halloween-post/\" title=\"http://techcrunch.com/2010/10/28/requisite-halloween-post/\">http://techcrunch.com/2010...</a> (via <a href=\"http://ff.im/sPulJ\" title=\"http://friendfeed.com/android/f90c4c3a/nerds-carve-android-halloween-pumpkin\">http://friendfeed.com/android...</a>)",
+  "from": {
+    "name": "углы «Исимуры»",
+    "type": "user",
+    "id": "zag"
+  }
+}
+=end comment
+
+=end pod

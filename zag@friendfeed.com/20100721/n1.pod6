@@ -1,0 +1,182 @@
+=begin pod :pubdate('2010-07-21T12:46:38Z') :type<note> 
+=NAME A Tesla mocks others
+
+=begin DESCRIPTION
+
+A Tesla mocks others
+=for Image :width(293) :link('http://m.friendfeed-media.com/16ec8d18e449c6891d0f03837dcce6b9239f359e') :height(175) :preview
+media/41cbded7112c2c5a674a7cce362ab952f4cd72c6.jpg
+=for Image :width(270) :link('http://m.friendfeed-media.com/7d3ec72daafa01c48e10111c6817d22911078cdb') :height(175) :preview
+media/abc0e89db53afc1c06991d43e51cc3693bdf0ede.jpg
+
+=item ну и тачка :)
+=item Элекрическая
+=item кайф
+
+
+=end DESCRIPTION
+
+A Tesla mocks others
+=for Image :width(293) :link('http://m.friendfeed-media.com/16ec8d18e449c6891d0f03837dcce6b9239f359e') :height(175) :preview
+media/41cbded7112c2c5a674a7cce362ab952f4cd72c6.jpg
+=for Image :width(270) :link('http://m.friendfeed-media.com/7d3ec72daafa01c48e10111c6817d22911078cdb') :height(175) :preview
+media/abc0e89db53afc1c06991d43e51cc3693bdf0ede.jpg
+
+=item ну и тачка :)
+=item Элекрическая
+=item кайф
+
+
+=begin comment :src
+{
+  "rawBody": "A Tesla mocks others",
+  "id": "e/59c7e8ca18884fa2a95af48ba7f34844",
+  "date": "2010-07-21T12:46:38Z",
+  "thumbnails": [
+    {
+      "width": 293,
+      "url": "http://m.friendfeed-media.com/41cbded7112c2c5a674a7cce362ab952f4cd72c6",
+      "height": 175,
+      "link": "http://m.friendfeed-media.com/16ec8d18e449c6891d0f03837dcce6b9239f359e"
+    },
+    {
+      "height": 175,
+      "link": "http://m.friendfeed-media.com/7d3ec72daafa01c48e10111c6817d22911078cdb",
+      "width": 270,
+      "url": "http://m.friendfeed-media.com/abc0e89db53afc1c06991d43e51cc3693bdf0ede"
+    }
+  ],
+  "url": "http://friendfeed.com/zag/59c7e8ca/tesla-mocks-others",
+  "body": "A Tesla mocks others",
+  "likes": [
+    {
+      "from": {
+        "name": "woof",
+        "id": "woof",
+        "type": "user"
+      },
+      "date": "2010-07-21T14:14:05Z"
+    },
+    {
+      "from": {
+        "id": "animasola",
+        "type": "user",
+        "name": "Документы зимы хорошие"
+      },
+      "date": "2010-07-21T14:07:38Z"
+    },
+    {
+      "date": "2010-07-21T14:06:27Z",
+      "from": {
+        "type": "user",
+        "id": "explanent",
+        "name": "Лёша"
+      }
+    },
+    {
+      "date": "2010-07-21T13:56:02Z",
+      "from": {
+        "type": "user",
+        "id": "sseeaann",
+        "private": true,
+        "name": "sseeaann"
+      }
+    },
+    {
+      "from": {
+        "type": "user",
+        "id": "enemo",
+        "name": "последние пни"
+      },
+      "date": "2010-07-21T12:58:26Z"
+    },
+    {
+      "from": {
+        "type": "user",
+        "id": "sereda",
+        "name": "Igor Sereda"
+      },
+      "date": "2010-07-21T12:53:29Z"
+    },
+    {
+      "date": "2010-07-21T12:52:07Z",
+      "from": {
+        "id": "annayu",
+        "type": "user",
+        "name": "альдебарановна"
+      }
+    },
+    {
+      "from": {
+        "name": "brain",
+        "type": "user",
+        "id": "jbrain"
+      },
+      "date": "2010-07-21T12:51:18Z"
+    },
+    {
+      "from": {
+        "name": "DS",
+        "type": "user",
+        "id": "dsumin"
+      },
+      "date": "2010-07-21T12:48:45Z"
+    },
+    {
+      "date": "2010-07-21T12:47:36Z",
+      "from": {
+        "name": "alex@kapranoff.ru",
+        "id": "kkapp",
+        "type": "user"
+      }
+    }
+  ],
+  "rawLink": "http://friendfeed.com/e/59c7e8ca-1888-4fa2-a95a-f48ba7f34844",
+  "from": {
+    "name": "углы «Исимуры»",
+    "id": "zag",
+    "type": "user"
+  },
+  "comments": [
+    {
+      "body": "ну и тачка :)",
+      "rawBody": "ну и тачка :)",
+      "from": {
+        "type": "user",
+        "id": "gigam",
+        "name": "относительно ой"
+      },
+      "id": "e/59c7e8ca18884fa2a95af48ba7f34844/c/55b1d62f84f54643be0c903e2ada58a1",
+      "date": "2010-07-21T14:02:20Z"
+    },
+    {
+      "body": "Элекрическая",
+      "via": {
+        "name": "IM",
+        "url": "http://friendfeed.com/about/im"
+      },
+      "rawBody": "Элекрическая",
+      "id": "e/59c7e8ca18884fa2a95af48ba7f34844/c/d7e7a48dabd34212a5fed80e8b2046c7",
+      "date": "2010-07-21T14:03:31Z",
+      "from": {
+        "name": "углы «Исимуры»",
+        "id": "zag",
+        "type": "user"
+      }
+    },
+    {
+      "rawBody": "кайф",
+      "date": "2010-07-21T14:06:42Z",
+      "id": "e/59c7e8ca18884fa2a95af48ba7f34844/c/09c458ea5d8a48488f7166f798ca3724",
+      "from": {
+        "type": "user",
+        "id": "explanent",
+        "name": "Лёша"
+      },
+      "body": "кайф"
+    }
+  ]
+}
+=end comment
+
+=end pod

@@ -1,0 +1,36 @@
+=begin pod :pubdate('2009-10-08T09:38:41Z') :type<note> 
+=NAME @AnatolyUnix К теме насколько разнятся ценности в других частях планеты: http://vimeo.com/6636389
+
+=begin DESCRIPTION
+
+@AnatolyUnix К теме насколько разнятся ценности в других частях планеты: http://vimeo.com/6636389 - L<link|http://twitter.com/zagru/statuses/4705469350>
+
+
+
+=end DESCRIPTION
+
+@AnatolyUnix К теме насколько разнятся ценности в других частях планеты: http://vimeo.com/6636389 - L<link|http://twitter.com/zagru/statuses/4705469350>
+
+
+
+=begin comment :src
+{
+  "rawLink": "http://twitter.com/zagru/statuses/4705469350",
+  "body": "@<a rel=\"nofollow\" href=\"http://twitter.com/AnatolyUnix\">AnatolyUnix</a> К теме насколько разнятся ценности в других частях планеты: <a rel=\"nofollow\" href=\"http://vimeo.com/6636389\">http://vimeo.com/6636389</a>",
+  "date": "2009-10-08T09:38:41Z",
+  "id": "e/3bdc6502d9452c3e042475864b5185be",
+  "rawBody": "@AnatolyUnix К теме насколько разнятся ценности в других частях планеты: http://vimeo.com/6636389",
+  "url": "http://friendfeed.com/zag/3bdc6502/anatolyunix",
+  "via": {
+    "name": "Twitter",
+    "url": "http://twitter.com/zagru/statuses/4705469350"
+  },
+  "from": {
+    "name": "углы «Исимуры»",
+    "type": "user",
+    "id": "zag"
+  }
+}
+=end comment
+
+=end pod

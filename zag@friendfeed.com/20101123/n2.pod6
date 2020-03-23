@@ -1,0 +1,67 @@
+=begin pod :pubdate('2010-11-23T14:01:45Z') :type<note> :tags<imhonet>
+=NAME Сэ Слава / Читательская премия Имхонета  - Не имей сто рублей, а имей тысячу followers! #imhonet  На данный момент : 105 941 руб.
+
+=begin DESCRIPTION
+
+Сэ Слава / Читательская премия Имхонета  - Не имей сто рублей, а имей тысячу followers! #imhonet  На данный момент : 105 941 руб. - L<link|http://premia.imhonet.ru/author/245450/stat/>
+=for Image :width(267) :link('http://premia.imhonet.ru/author/245450/stat/') :height(175) :preview
+media/ebbfe65c5bbf2226344a40e37c7af1aa8e6312a4.jpg
+
+=item После поста drugoi  http://drugoi.livejournal.com/3420414.html
+
+
+=end DESCRIPTION
+
+Сэ Слава / Читательская премия Имхонета  - Не имей сто рублей, а имей тысячу followers! #imhonet  На данный момент : 105 941 руб. - L<link|http://premia.imhonet.ru/author/245450/stat/>
+=for Image :width(267) :link('http://premia.imhonet.ru/author/245450/stat/') :height(175) :preview
+media/ebbfe65c5bbf2226344a40e37c7af1aa8e6312a4.jpg
+
+=item После поста drugoi  http://drugoi.livejournal.com/3420414.html
+
+
+=begin comment :src
+{
+  "id": "e/de70818e68414227a419b9738e995b0f",
+  "date": "2010-11-23T14:01:45Z",
+  "rawBody": "Сэ Слава / Читательская премия Имхонета  - Не имей сто рублей, а имей тысячу followers! #imhonet  На данный момент : 105 941 руб.",
+  "url": "http://friendfeed.com/zag/de70818e/followers-imhonet-105-941",
+  "thumbnails": [
+    {
+      "link": "http://premia.imhonet.ru/author/245450/stat/",
+      "height": 175,
+      "width": 267,
+      "url": "http://m.friendfeed-media.com/ebbfe65c5bbf2226344a40e37c7af1aa8e6312a4"
+    }
+  ],
+  "rawLink": "http://premia.imhonet.ru/author/245450/stat/",
+  "body": "Сэ Слава / Читательская премия Имхонета  - Не имей сто рублей, а имей тысячу followers! <a href=\"http://friendfeed.com/search?q=%23imhonet\">#imhonet</a>  На данный момент : 105 941 руб. - <a rel=\"nofollow\" href=\"http://premia.imhonet.ru/author/245450/stat/\" title=\"http://premia.imhonet.ru/author/245450/stat/\">http://premia.imhonet.ru/author...</a>",
+  "from": {
+    "name": "углы «Исимуры»",
+    "type": "user",
+    "id": "zag"
+  },
+  "via": {
+    "url": "http://friendfeed.com/share/bookmarklet",
+    "name": "Bookmarklet"
+  },
+  "comments": [
+    {
+      "body": "После поста drugoi  <a rel=\"nofollow\" href=\"http://drugoi.livejournal.com/3420414.html\" title=\"http://drugoi.livejournal.com/3420414.html\">http://drugoi.livejournal.com/3420414...</a>",
+      "via": {
+        "name": "Bookmarklet",
+        "url": "http://friendfeed.com/share/bookmarklet"
+      },
+      "rawBody": "После поста drugoi  http://drugoi.livejournal.com/3420414.html",
+      "id": "e/de70818e68414227a419b9738e995b0f/c/58b43013eb4a4189b5c644614f3aefb9",
+      "date": "2010-11-23T14:01:45Z",
+      "from": {
+        "name": "углы «Исимуры»",
+        "type": "user",
+        "id": "zag"
+      }
+    }
+  ]
+}
+=end comment
+
+=end pod

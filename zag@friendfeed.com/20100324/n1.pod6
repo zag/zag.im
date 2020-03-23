@@ -1,0 +1,118 @@
+=begin pod :pubdate('2010-03-24T18:20:24Z') :type<note> 
+=NAME see "The Pacific"
+
+=begin DESCRIPTION
+
+see "The Pacific"
+=for Image :width(233) :link('http://m.friendfeed-media.com/9e79587d5e19f179b6796742be11d5d80a24183c') :height(175) :preview
+media/4c5624db021207268d580c8a01c3754d57405ed6.jpg
+=for Image :width(233) :link('http://m.friendfeed-media.com/f164f90ac59c789464364dad65adcddeba9f629e') :height(175) :preview
+media/8ab9eca38fc2f0340d2f8fda61454ca221a0a6bd.jpg
+=for Image :width(233) :link('http://m.friendfeed-media.com/de9029062e53447a71a4c0fb140b18472eb1a0b8') :height(175) :preview
+media/2111506fa870fc7f52db7f1a35bd92b4cc543fdf.jpg
+=for Image :width(233) :link('http://m.friendfeed-media.com/ead410ddf3d6844f1df7022c38ce378e2ec875b0') :height(175) :preview
+media/f4534be115be9892dd267a248ccf0cee7f3cc9eb.jpg
+=for Image :width(233) :link('http://m.friendfeed-media.com/f51f9bac4e365d30c913926078e7994015cfed1d') :height(175) :preview
+media/df27200650b7aa89add39043d3e8665256281540.jpg
+=for Image :width(233) :link('http://m.friendfeed-media.com/de4207bb4c0c9774228197a7352a6877cf0b0be6') :height(175) :preview
+media/f2aafa78eeb0beaf72a1deeb2794499245090e1e.jpg
+=for Image :width(233) :link('http://m.friendfeed-media.com/bcb63108fe62e7ac0875e2969babbad3e32e50c6') :height(175) :preview
+media/570dbfcde65bde64f57bc75c4d92c45fc4ff9d53.jpg
+=for Image :width(233) :link('http://m.friendfeed-media.com/417771fb6da72112f18edad3da8cba3011cb86f0') :height(175) :preview
+media/7afeaeed4f752201b4fe19b3faf3cdff5cf9ba6c.jpg
+
+
+
+=end DESCRIPTION
+
+see "The Pacific"
+=for Image :width(233) :link('http://m.friendfeed-media.com/9e79587d5e19f179b6796742be11d5d80a24183c') :height(175) :preview
+media/4c5624db021207268d580c8a01c3754d57405ed6.jpg
+=for Image :width(233) :link('http://m.friendfeed-media.com/f164f90ac59c789464364dad65adcddeba9f629e') :height(175) :preview
+media/8ab9eca38fc2f0340d2f8fda61454ca221a0a6bd.jpg
+=for Image :width(233) :link('http://m.friendfeed-media.com/de9029062e53447a71a4c0fb140b18472eb1a0b8') :height(175) :preview
+media/2111506fa870fc7f52db7f1a35bd92b4cc543fdf.jpg
+=for Image :width(233) :link('http://m.friendfeed-media.com/ead410ddf3d6844f1df7022c38ce378e2ec875b0') :height(175) :preview
+media/f4534be115be9892dd267a248ccf0cee7f3cc9eb.jpg
+=for Image :width(233) :link('http://m.friendfeed-media.com/f51f9bac4e365d30c913926078e7994015cfed1d') :height(175) :preview
+media/df27200650b7aa89add39043d3e8665256281540.jpg
+=for Image :width(233) :link('http://m.friendfeed-media.com/de4207bb4c0c9774228197a7352a6877cf0b0be6') :height(175) :preview
+media/f2aafa78eeb0beaf72a1deeb2794499245090e1e.jpg
+=for Image :width(233) :link('http://m.friendfeed-media.com/bcb63108fe62e7ac0875e2969babbad3e32e50c6') :height(175) :preview
+media/570dbfcde65bde64f57bc75c4d92c45fc4ff9d53.jpg
+=for Image :width(233) :link('http://m.friendfeed-media.com/417771fb6da72112f18edad3da8cba3011cb86f0') :height(175) :preview
+media/7afeaeed4f752201b4fe19b3faf3cdff5cf9ba6c.jpg
+
+
+
+=begin comment :src
+{
+  "from": {
+    "id": "zag",
+    "type": "user",
+    "name": "углы «Исимуры»"
+  },
+  "via": {
+    "name": "email",
+    "url": "http://friendfeed.com/share/mail"
+  },
+  "body": "see &quot;The Pacific&quot;",
+  "rawLink": "http://friendfeed.com/e/7a1cb57b-684f-410b-ba59-eda3245279f9",
+  "id": "e/7a1cb57b684f410bba59eda3245279f9",
+  "date": "2010-03-24T18:20:24Z",
+  "rawBody": "see \"The Pacific\"",
+  "thumbnails": [
+    {
+      "width": 233,
+      "url": "http://m.friendfeed-media.com/4c5624db021207268d580c8a01c3754d57405ed6",
+      "height": 175,
+      "link": "http://m.friendfeed-media.com/9e79587d5e19f179b6796742be11d5d80a24183c"
+    },
+    {
+      "height": 175,
+      "link": "http://m.friendfeed-media.com/f164f90ac59c789464364dad65adcddeba9f629e",
+      "url": "http://m.friendfeed-media.com/8ab9eca38fc2f0340d2f8fda61454ca221a0a6bd",
+      "width": 233
+    },
+    {
+      "width": 233,
+      "url": "http://m.friendfeed-media.com/2111506fa870fc7f52db7f1a35bd92b4cc543fdf",
+      "height": 175,
+      "link": "http://m.friendfeed-media.com/de9029062e53447a71a4c0fb140b18472eb1a0b8"
+    },
+    {
+      "width": 233,
+      "url": "http://m.friendfeed-media.com/f4534be115be9892dd267a248ccf0cee7f3cc9eb",
+      "link": "http://m.friendfeed-media.com/ead410ddf3d6844f1df7022c38ce378e2ec875b0",
+      "height": 175
+    },
+    {
+      "url": "http://m.friendfeed-media.com/df27200650b7aa89add39043d3e8665256281540",
+      "width": 233,
+      "link": "http://m.friendfeed-media.com/f51f9bac4e365d30c913926078e7994015cfed1d",
+      "height": 175
+    },
+    {
+      "width": 233,
+      "url": "http://m.friendfeed-media.com/f2aafa78eeb0beaf72a1deeb2794499245090e1e",
+      "height": 175,
+      "link": "http://m.friendfeed-media.com/de4207bb4c0c9774228197a7352a6877cf0b0be6"
+    },
+    {
+      "width": 233,
+      "url": "http://m.friendfeed-media.com/570dbfcde65bde64f57bc75c4d92c45fc4ff9d53",
+      "height": 175,
+      "link": "http://m.friendfeed-media.com/bcb63108fe62e7ac0875e2969babbad3e32e50c6"
+    },
+    {
+      "url": "http://m.friendfeed-media.com/7afeaeed4f752201b4fe19b3faf3cdff5cf9ba6c",
+      "width": 233,
+      "height": 175,
+      "link": "http://m.friendfeed-media.com/417771fb6da72112f18edad3da8cba3011cb86f0"
+    }
+  ],
+  "url": "http://friendfeed.com/zag/7a1cb57b/see-pacific"
+}
+=end comment
+
+=end pod

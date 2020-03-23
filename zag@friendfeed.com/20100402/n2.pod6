@@ -1,0 +1,36 @@
+=begin pod :pubdate('2010-04-02T15:50:02Z') :type<note> 
+=NAME Erlang: "Я рекомендовал Ваш курс всем пацанам на раёне, они уже пошли добывать на него деньги " http://bit.ly/aU2Zqz
+
+=begin DESCRIPTION
+
+Erlang: "Я рекомендовал Ваш курс всем пацанам на раёне, они уже пошли добывать на него деньги " http://bit.ly/aU2Zqz - L<link|http://twitter.com/zagru/statuses/11486874245>
+
+
+
+=end DESCRIPTION
+
+Erlang: "Я рекомендовал Ваш курс всем пацанам на раёне, они уже пошли добывать на него деньги " http://bit.ly/aU2Zqz - L<link|http://twitter.com/zagru/statuses/11486874245>
+
+
+
+=begin comment :src
+{
+  "via": {
+    "url": "http://twitter.com/zagru/statuses/11486874245",
+    "name": "Twitter"
+  },
+  "from": {
+    "id": "zag",
+    "type": "user",
+    "name": "углы «Исимуры»"
+  },
+  "rawLink": "http://twitter.com/zagru/statuses/11486874245",
+  "body": "Erlang: &quot;Я рекомендовал Ваш курс всем пацанам на раёне, они уже пошли добывать на него деньги &quot; <a rel=\"nofollow\" href=\"http://bit.ly/aU2Zqz\" title=\"http://zabivator.livejournal.com/394316.html?thread=9293132#\">http://zabivator.livejournal.com/394316...</a>",
+  "rawBody": "Erlang: \"Я рекомендовал Ваш курс всем пацанам на раёне, они уже пошли добывать на него деньги \" http://bit.ly/aU2Zqz",
+  "id": "e/1d606443c18e4c1fdcfe0d880704b35d",
+  "date": "2010-04-02T15:50:02Z",
+  "url": "http://friendfeed.com/zag/1d606443/erlang"
+}
+=end comment
+
+=end pod

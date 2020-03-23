@@ -1,0 +1,68 @@
+=begin pod :pubdate('2010-08-21T13:56:06Z') :type<note> 
+=NAME Собор
+
+=begin DESCRIPTION
+
+Собор
+=for Image :width(233) :link('http://m.friendfeed-media.com/2af69191c8eaa994c2e6ea5f3ee833418a2fa87f') :height(175) :preview
+media/3b9aa2489d2e72b93bf82f844975f737b2a78757.jpg
+=for Image :width(233) :link('http://m.friendfeed-media.com/d2d776e54e41e44b418ff516736accd3df4ff257') :height(175) :preview
+media/0d93c79c5eccfa7c3b2408845a9ec1ae221ff101.jpg
+=for Image :width(233) :link('http://m.friendfeed-media.com/ada72dc117d037fd030f8202bec281c2db9eade4') :height(175) :preview
+media/81799900812861c2246583103c5127cbbb2cef7d.jpg
+
+
+
+=end DESCRIPTION
+
+Собор
+=for Image :width(233) :link('http://m.friendfeed-media.com/2af69191c8eaa994c2e6ea5f3ee833418a2fa87f') :height(175) :preview
+media/3b9aa2489d2e72b93bf82f844975f737b2a78757.jpg
+=for Image :width(233) :link('http://m.friendfeed-media.com/d2d776e54e41e44b418ff516736accd3df4ff257') :height(175) :preview
+media/0d93c79c5eccfa7c3b2408845a9ec1ae221ff101.jpg
+=for Image :width(233) :link('http://m.friendfeed-media.com/ada72dc117d037fd030f8202bec281c2db9eade4') :height(175) :preview
+media/81799900812861c2246583103c5127cbbb2cef7d.jpg
+
+
+
+=begin comment :src
+{
+  "date": "2010-08-21T13:56:06Z",
+  "id": "e/7a50f124a3074e3aa7afb5c2f25d1f34",
+  "url": "http://friendfeed.com/zag/7a50f124",
+  "rawBody": "Собор",
+  "thumbnails": [
+    {
+      "width": 233,
+      "url": "http://m.friendfeed-media.com/3b9aa2489d2e72b93bf82f844975f737b2a78757",
+      "link": "http://m.friendfeed-media.com/2af69191c8eaa994c2e6ea5f3ee833418a2fa87f",
+      "height": 175
+    },
+    {
+      "height": 175,
+      "link": "http://m.friendfeed-media.com/d2d776e54e41e44b418ff516736accd3df4ff257",
+      "url": "http://m.friendfeed-media.com/0d93c79c5eccfa7c3b2408845a9ec1ae221ff101",
+      "width": 233
+    },
+    {
+      "width": 233,
+      "url": "http://m.friendfeed-media.com/81799900812861c2246583103c5127cbbb2cef7d",
+      "link": "http://m.friendfeed-media.com/ada72dc117d037fd030f8202bec281c2db9eade4",
+      "height": 175
+    }
+  ],
+  "body": "Собор",
+  "rawLink": "http://friendfeed.com/e/7a50f124-a307-4e3a-a7af-b5c2f25d1f34",
+  "from": {
+    "type": "user",
+    "id": "zag",
+    "name": "углы «Исимуры»"
+  },
+  "via": {
+    "url": "http://friendfeed.com/share/mail",
+    "name": "email"
+  }
+}
+=end comment
+
+=end pod

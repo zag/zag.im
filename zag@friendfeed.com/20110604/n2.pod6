@@ -1,0 +1,57 @@
+=begin pod :pubdate('2011-06-04T16:22:05Z') :type<note> :tags<devconf_ru devconf>
+=NAME Доклад "Perl 6 Pod - современный формат ведения документации" #devconf_ru, #devconf http://www.slideshare.net/zagru/perl6pod-devconf
+
+=begin DESCRIPTION
+
+Доклад "Perl 6 Pod - современный формат ведения документации" #devconf_ru, #devconf http://www.slideshare.net/zagru/perl6pod-devconf
+
+=item отличный доклад, но еще полезнее https://github.com/zag/specs/raw/master/S26-documentation.pod
+
+
+=end DESCRIPTION
+
+Доклад "Perl 6 Pod - современный формат ведения документации" #devconf_ru, #devconf http://www.slideshare.net/zagru/perl6pod-devconf
+
+=item отличный доклад, но еще полезнее https://github.com/zag/specs/raw/master/S26-documentation.pod
+
+
+=begin comment :src
+{
+  "body": "Доклад &quot;Perl 6 Pod - современный формат ведения документации&quot; <a href=\"http://friendfeed.com/search?q=%23devconf_ru\">#devconf_ru</a>, <a href=\"http://friendfeed.com/search?q=%23devconf\">#devconf</a> <a rel=\"nofollow\" href=\"http://www.slideshare.net/zagru/perl6pod-devconf\" title=\"http://www.slideshare.net/zagru/perl6pod-devconf\">http://www.slideshare.net/zagru...</a>",
+  "rawLink": "http://friendfeed.com/e/daa67652-9ef4-42cf-ac1e-2c5ba13433d1",
+  "likes": [
+    {
+      "date": "2011-06-04T16:58:17Z",
+      "from": {
+        "name": "Николай",
+        "id": "mishin",
+        "type": "user"
+      }
+    }
+  ],
+  "id": "e/daa676529ef442cfac1e2c5ba13433d1",
+  "rawBody": "Доклад \"Perl 6 Pod - современный формат ведения документации\" #devconf_ru, #devconf http://www.slideshare.net/zagru/perl6pod-devconf",
+  "date": "2011-06-04T16:22:05Z",
+  "url": "http://friendfeed.com/zag/daa67652/perl-6-pod-devconf_ru-devconf",
+  "comments": [
+    {
+      "body": "отличный доклад, но еще полезнее <a rel=\"nofollow\" href=\"https://github.com/zag/specs/raw/master/S26-documentation.pod\" title=\"https://github.com/zag/specs/raw/master/S26-documentation.pod\">https://github.com/zag...</a>",
+      "rawBody": "отличный доклад, но еще полезнее https://github.com/zag/specs/raw/master/S26-documentation.pod",
+      "id": "e/daa676529ef442cfac1e2c5ba13433d1/c/996c0243ae6645508533a30027012ce7",
+      "date": "2011-06-04T16:58:33Z",
+      "from": {
+        "id": "mishin",
+        "type": "user",
+        "name": "Николай"
+      }
+    }
+  ],
+  "from": {
+    "type": "user",
+    "id": "zag",
+    "name": "углы «Исимуры»"
+  }
+}
+=end comment
+
+=end pod

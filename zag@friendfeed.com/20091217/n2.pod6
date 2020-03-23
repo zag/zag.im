@@ -1,0 +1,32 @@
+=begin pod :pubdate('2009-12-17T04:35:47Z') :type<note> 
+=NAME Вчера поздно вечером смотрел интервью Познера с Гайдаром. Оказалось: http://www.rian.ru/incidents/20091216/199533188.html
+
+=begin DESCRIPTION
+
+Вчера поздно вечером смотрел интервью Познера с Гайдаром. Оказалось: http://www.rian.ru/incidents/20091216/199533188.html
+
+
+
+=end DESCRIPTION
+
+Вчера поздно вечером смотрел интервью Познера с Гайдаром. Оказалось: http://www.rian.ru/incidents/20091216/199533188.html
+
+
+
+=begin comment :src
+{
+  "body": "Вчера поздно вечером смотрел интервью Познера с Гайдаром. Оказалось: <a rel=\"nofollow\" href=\"http://www.rian.ru/incidents/20091216/199533188.html\" title=\"http://www.rian.ru/incidents/20091216/199533188.html\">http://www.rian.ru/inciden...</a>",
+  "rawLink": "http://friendfeed.com/e/7e6529da-ccfe-478e-a88d-57c2139cc0ca",
+  "id": "e/7e6529daccfe478ea88d57c2139cc0ca",
+  "rawBody": "Вчера поздно вечером смотрел интервью Познера с Гайдаром. Оказалось: http://www.rian.ru/incidents/20091216/199533188.html",
+  "date": "2009-12-17T04:35:47Z",
+  "url": "http://friendfeed.com/zag/7e6529da",
+  "from": {
+    "name": "углы «Исимуры»",
+    "id": "zag",
+    "type": "user"
+  }
+}
+=end comment
+
+=end pod

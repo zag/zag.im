@@ -1,0 +1,36 @@
+=begin pod :pubdate('2011-01-05T20:43:44Z') :type<note> :tags<Vim>
+=NAME Всё о #Vim: Смена цветовой схемы в зависимости от времени суток
+
+=begin DESCRIPTION
+
+Всё о #Vim: Смена цветовой схемы в зависимости от времени суток - L<link|http://allaboutvim.blogspot.com/2011/01/blog-post.html>
+
+
+
+=end DESCRIPTION
+
+Всё о #Vim: Смена цветовой схемы в зависимости от времени суток - L<link|http://allaboutvim.blogspot.com/2011/01/blog-post.html>
+
+
+
+=begin comment :src
+{
+  "body": "Всё о <a href=\"http://friendfeed.com/search?q=%23Vim\">#Vim</a>: Смена цветовой схемы в зависимости от времени суток - <a rel=\"nofollow\" href=\"http://allaboutvim.blogspot.com/2011/01/blog-post.html\" title=\"http://allaboutvim.blogspot.com/2011/01/blog-post.html\">http://allaboutvim.blogspot.com/2011...</a>",
+  "rawLink": "http://allaboutvim.blogspot.com/2011/01/blog-post.html",
+  "rawBody": "Всё о #Vim: Смена цветовой схемы в зависимости от времени суток",
+  "id": "e/7967e8e57e6c436ab21ce37db4a1f6e0",
+  "date": "2011-01-05T20:43:44Z",
+  "url": "http://friendfeed.com/zag/7967e8e5/vim",
+  "via": {
+    "name": "Bookmarklet",
+    "url": "http://friendfeed.com/share/bookmarklet"
+  },
+  "from": {
+    "type": "user",
+    "id": "zag",
+    "name": "углы «Исимуры»"
+  }
+}
+=end comment
+
+=end pod

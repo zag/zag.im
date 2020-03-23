@@ -1,0 +1,48 @@
+=begin pod :pubdate('2011-06-04T10:29:25Z') :type<note> :tags<devconf_ru>
+=NAME Доклад про интегацию javascript frameworks и ruby on rails оказался очень познавательным. #devconf_ru
+
+=begin DESCRIPTION
+
+Доклад про интегацию javascript frameworks и ruby on rails оказался очень познавательным. #devconf_ru
+=for Image :width(292) :link('http://m.friendfeed-media.com/a1b765ec14e84aba7e92feb27810eb08848de231') :height(175) :preview
+media/5c5fb976ba11559d94162867afb6b31518851583.jpg
+
+
+
+=end DESCRIPTION
+
+Доклад про интегацию javascript frameworks и ruby on rails оказался очень познавательным. #devconf_ru
+=for Image :width(292) :link('http://m.friendfeed-media.com/a1b765ec14e84aba7e92feb27810eb08848de231') :height(175) :preview
+media/5c5fb976ba11559d94162867afb6b31518851583.jpg
+
+
+
+=begin comment :src
+{
+  "via": {
+    "name": "email",
+    "url": "http://friendfeed.com/share/mail"
+  },
+  "from": {
+    "type": "user",
+    "id": "zag",
+    "name": "углы «Исимуры»"
+  },
+  "body": "Доклад про интегацию javascript frameworks и ruby on rails оказался очень познавательным. <a href=\"http://friendfeed.com/search?q=%23devconf_ru\">#devconf_ru</a>",
+  "rawLink": "http://friendfeed.com/e/8d8e8293-98ec-4484-83f5-eceb70ceb0ee",
+  "id": "e/8d8e829398ec448483f5eceb70ceb0ee",
+  "url": "http://friendfeed.com/zag/8d8e8293/javascript-frameworks-ruby-on-rails",
+  "date": "2011-06-04T10:29:25Z",
+  "rawBody": "Доклад про интегацию javascript frameworks и ruby on rails оказался очень познавательным. #devconf_ru",
+  "thumbnails": [
+    {
+      "link": "http://m.friendfeed-media.com/a1b765ec14e84aba7e92feb27810eb08848de231",
+      "height": 175,
+      "width": 292,
+      "url": "http://m.friendfeed-media.com/5c5fb976ba11559d94162867afb6b31518851583"
+    }
+  ]
+}
+=end comment
+
+=end pod

@@ -1,0 +1,44 @@
+=begin pod :pubdate('2010-11-06T19:50:23Z') :type<note> 
+=NAME He covered the 35 kilometers in around 10 minutes.  (via http://ff.im/thFIn)
+
+=begin DESCRIPTION
+
+He covered the 35 kilometers in around 10 minutes.  (via http://ff.im/thFIn)
+=for Image :width(263) :link('http://news.discovery.com/tech/rocketman-jet-wingsuit.html') :height(175) :preview
+media/858e71933564dddfb9524c76bb5ca9998b9221a6.jpg
+
+
+
+=end DESCRIPTION
+
+He covered the 35 kilometers in around 10 minutes.  (via http://ff.im/thFIn)
+=for Image :width(263) :link('http://news.discovery.com/tech/rocketman-jet-wingsuit.html') :height(175) :preview
+media/858e71933564dddfb9524c76bb5ca9998b9221a6.jpg
+
+
+
+=begin comment :src
+{
+  "body": "He covered the 35 kilometers in around 10 minutes.  (via <a href=\"http://ff.im/thFIn\" title=\"http://friendfeed.com/jhuebel/c347b4e8/rocketman-takes-off-in-custom-made-wingsuit-big\">http://friendfeed.com/jhuebel...</a>)",
+  "rawLink": "http://friendfeed.com/e/46fcea54-d861-4f79-a795-dc47a08afd03",
+  "url": "http://friendfeed.com/zag/46fcea54/he-covered-35-kilometers-in-around-10-minutes",
+  "id": "e/46fcea54d8614f79a795dc47a08afd03",
+  "date": "2010-11-06T19:50:23Z",
+  "rawBody": "He covered the 35 kilometers in around 10 minutes.  (via http://ff.im/thFIn)",
+  "thumbnails": [
+    {
+      "url": "http://m.friendfeed-media.com/858e71933564dddfb9524c76bb5ca9998b9221a6",
+      "width": 263,
+      "height": 175,
+      "link": "http://news.discovery.com/tech/rocketman-jet-wingsuit.html"
+    }
+  ],
+  "from": {
+    "type": "user",
+    "id": "zag",
+    "name": "углы «Исимуры»"
+  }
+}
+=end comment
+
+=end pod

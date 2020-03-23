@@ -1,0 +1,48 @@
+=begin pod :pubdate('2011-07-02T09:08:52Z') :type<note> :tags<lvee>
+=NAME Тестироание nosql. #lvee
+
+=begin DESCRIPTION
+
+Тестироание nosql. #lvee
+=for Image :width(292) :link('http://m.friendfeed-media.com/f1945460d84e0af15197732014d880fd8caab3ff') :height(175) :preview
+media/2f2a599696e8008196844cc62d09be9aaedef2a2.jpg
+
+
+
+=end DESCRIPTION
+
+Тестироание nosql. #lvee
+=for Image :width(292) :link('http://m.friendfeed-media.com/f1945460d84e0af15197732014d880fd8caab3ff') :height(175) :preview
+media/2f2a599696e8008196844cc62d09be9aaedef2a2.jpg
+
+
+
+=begin comment :src
+{
+  "from": {
+    "name": "углы «Исимуры»",
+    "type": "user",
+    "id": "zag"
+  },
+  "via": {
+    "name": "email",
+    "url": "http://friendfeed.com/share/mail"
+  },
+  "date": "2011-07-02T09:08:52Z",
+  "id": "e/44ac71688bc648299ae4e0ae383d9f99",
+  "thumbnails": [
+    {
+      "height": 175,
+      "link": "http://m.friendfeed-media.com/f1945460d84e0af15197732014d880fd8caab3ff",
+      "width": 292,
+      "url": "http://m.friendfeed-media.com/2f2a599696e8008196844cc62d09be9aaedef2a2"
+    }
+  ],
+  "rawBody": "Тестироание nosql. #lvee",
+  "url": "http://friendfeed.com/zag/44ac7168/nosql-lvee",
+  "rawLink": "http://friendfeed.com/e/44ac7168-8bc6-4829-9ae4-e0ae383d9f99",
+  "body": "Тестироание nosql. <a href=\"http://friendfeed.com/search?q=%23lvee\">#lvee</a>"
+}
+=end comment
+
+=end pod

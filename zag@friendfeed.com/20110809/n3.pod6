@@ -1,0 +1,36 @@
+=begin pod :pubdate('2011-08-09T10:09:58Z') :type<note> 
+=NAME Identify The London Rioters. Do you know this person ?
+
+=begin DESCRIPTION
+
+Identify The London Rioters. Do you know this person ? - L<link|http://www.londonrioters.co.uk/identify/>
+
+
+
+=end DESCRIPTION
+
+Identify The London Rioters. Do you know this person ? - L<link|http://www.londonrioters.co.uk/identify/>
+
+
+
+=begin comment :src
+{
+  "rawLink": "http://www.londonrioters.co.uk/identify/",
+  "body": "Identify The London Rioters. Do you know this person ? - <a rel=\"nofollow\" href=\"http://www.londonrioters.co.uk/identify/\" title=\"http://www.londonrioters.co.uk/identify/\">http://www.londonrioters.co.uk/identif...</a>",
+  "rawBody": "Identify The London Rioters. Do you know this person ?",
+  "id": "e/aa3b1f31e23a481e801248ecee6606d2",
+  "date": "2011-08-09T10:09:58Z",
+  "url": "http://friendfeed.com/zag/aa3b1f31/identify-london-rioters-do-you-know-this-person",
+  "from": {
+    "type": "user",
+    "id": "zag",
+    "name": "углы «Исимуры»"
+  },
+  "via": {
+    "url": "http://friendfeed.com/share/bookmarklet",
+    "name": "Bookmarklet"
+  }
+}
+=end comment
+
+=end pod

@@ -1,0 +1,78 @@
+=begin pod :pubdate('2011-06-04T13:14:22Z') :type<note> :tags<devconf_ru>
+=NAME Как изменится документация в ближайшем будущем?Perl 6 Pod - границ между кодом документацией по нему нет.Скоро на #devconf_ru
+
+=begin DESCRIPTION
+
+Как изменится документация в ближайшем будущем?Perl 6 Pod - границ между кодом документацией по нему нет.Скоро на #devconf_ru - L<link|http://twitter.com/zagru/statuses/77000238774231042>
+
+=item да, вот интересно как в pod6 формулы писать
+=item Формулы можно писать в любом формате. В моей презентации они в Tex
+
+
+=end DESCRIPTION
+
+Как изменится документация в ближайшем будущем?Perl 6 Pod - границ между кодом документацией по нему нет.Скоро на #devconf_ru - L<link|http://twitter.com/zagru/statuses/77000238774231042>
+
+=item да, вот интересно как в pod6 формулы писать
+=item Формулы можно писать в любом формате. В моей презентации они в Tex
+
+
+=begin comment :src
+{
+  "from": {
+    "type": "user",
+    "id": "zag",
+    "name": "углы «Исимуры»"
+  },
+  "via": {
+    "name": "Twitter",
+    "url": "http://twitter.com/zagru/statuses/77000238774231042"
+  },
+  "comments": [
+    {
+      "body": "да, вот интересно как в pod6 формулы писать",
+      "id": "e/7fe532e59fdc12e00daf6952478dc39b/c/39d0263f6a134830969607c8dd4bf84e",
+      "rawBody": "да, вот интересно как в pod6 формулы писать",
+      "from": {
+        "type": "user",
+        "id": "mishin",
+        "name": "Николай"
+      },
+      "date": "2011-06-04T13:47:35Z"
+    },
+    {
+      "body": "Формулы можно писать в любом формате. В моей презентации они в Tex",
+      "id": "e/7fe532e59fdc12e00daf6952478dc39b/c/a63a47208e7f4605986df4aa32ce8d03",
+      "date": "2011-06-04T14:18:43Z",
+      "rawBody": "Формулы можно писать в любом формате. В моей презентации они в Tex",
+      "from": {
+        "type": "user",
+        "id": "zag",
+        "name": "углы «Исимуры»"
+      },
+      "via": {
+        "name": "Android",
+        "url": "http://friendfeed.com/about/tools"
+      }
+    }
+  ],
+  "date": "2011-06-04T13:14:22Z",
+  "id": "e/7fe532e59fdc12e00daf6952478dc39b",
+  "url": "http://friendfeed.com/zag/7fe532e5/perl-6-pod-devconf_ru",
+  "rawBody": "Как изменится документация в ближайшем будущем?Perl 6 Pod - границ между кодом документацией по нему нет.Скоро на #devconf_ru",
+  "body": "Как изменится документация в ближайшем будущем?Perl 6 Pod - границ между кодом документацией по нему нет.Скоро на <a rel=\"nofollow\" href=\"http://search.twitter.com/search?q=%23devconf_ru\">#devconf_ru</a>",
+  "likes": [
+    {
+      "from": {
+        "id": "mishin",
+        "type": "user",
+        "name": "Николай"
+      },
+      "date": "2011-06-04T13:47:40Z"
+    }
+  ],
+  "rawLink": "http://twitter.com/zagru/statuses/77000238774231042"
+}
+=end comment
+
+=end pod

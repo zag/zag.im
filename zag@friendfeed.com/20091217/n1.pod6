@@ -1,0 +1,44 @@
+=begin pod :pubdate('2009-12-17T12:19:25Z') :type<note> 
+=NAME Чебурашка без копирайта - ушастик забавный !
+
+=begin DESCRIPTION
+
+Чебурашка без копирайта - ушастик забавный !
+=for Image :width(127) :link('http://m.friendfeed-media.com/75ea51d018f7cfc5a98eacfbc98c9a1b962bc4b0') :height(175) :preview
+media/bfe0ee3328211493981c7acbba40267f2f9b672f.jpg
+
+
+
+=end DESCRIPTION
+
+Чебурашка без копирайта - ушастик забавный !
+=for Image :width(127) :link('http://m.friendfeed-media.com/75ea51d018f7cfc5a98eacfbc98c9a1b962bc4b0') :height(175) :preview
+media/bfe0ee3328211493981c7acbba40267f2f9b672f.jpg
+
+
+
+=begin comment :src
+{
+  "id": "e/a0a3cf529184407387f5a711a375c21f",
+  "rawBody": "Чебурашка без копирайта - ушастик забавный !",
+  "date": "2009-12-17T12:19:25Z",
+  "thumbnails": [
+    {
+      "link": "http://m.friendfeed-media.com/75ea51d018f7cfc5a98eacfbc98c9a1b962bc4b0",
+      "height": 175,
+      "url": "http://m.friendfeed-media.com/bfe0ee3328211493981c7acbba40267f2f9b672f",
+      "width": 127
+    }
+  ],
+  "url": "http://friendfeed.com/zag/a0a3cf52",
+  "rawLink": "http://friendfeed.com/e/a0a3cf52-9184-4073-87f5-a711a375c21f",
+  "body": "Чебурашка без копирайта - ушастик забавный !",
+  "from": {
+    "name": "углы «Исимуры»",
+    "type": "user",
+    "id": "zag"
+  }
+}
+=end comment
+
+=end pod

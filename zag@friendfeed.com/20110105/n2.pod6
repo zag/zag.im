@@ -1,0 +1,32 @@
+=begin pod :pubdate('2011-01-05T20:40:25Z') :type<note> :tags<FreeBSD java>
+=NAME Установка openjdk6  лечит ошибку ant : "Failed to copy ... Function not implemented"  #FreeBSD #java.   http://www.liferay.com/community/forums/-/message_boards/message/6112409;jsessionid=907345ECF21E53E9AA8032F94A320308.node-1
+
+=begin DESCRIPTION
+
+Установка openjdk6  лечит ошибку ant : "Failed to copy ... Function not implemented"  #FreeBSD #java.   http://www.liferay.com/community/forums/-/message_boards/message/6112409;jsessionid=907345ECF21E53E9AA8032F94A320308.node-1
+
+
+
+=end DESCRIPTION
+
+Установка openjdk6  лечит ошибку ant : "Failed to copy ... Function not implemented"  #FreeBSD #java.   http://www.liferay.com/community/forums/-/message_boards/message/6112409;jsessionid=907345ECF21E53E9AA8032F94A320308.node-1
+
+
+
+=begin comment :src
+{
+  "body": "Установка openjdk6  лечит ошибку ant : &quot;Failed to copy ... Function not implemented&quot;  <a href=\"http://friendfeed.com/search?q=%23FreeBSD\">#FreeBSD</a> <a href=\"http://friendfeed.com/search?q=%23java\">#java</a>.   <a rel=\"nofollow\" href=\"http://www.liferay.com/community/forums/-/message_boards/message/6112409;jsessionid=907345ECF21E53E9AA8032F94A320308.node-1\" title=\"http://www.liferay.com/community/forums/-/message_boards/message/6112409;jsessionid=907345ECF21E53E9AA8032F94A320308.node-1\">http://www.liferay.com/communi...</a>",
+  "rawLink": "http://friendfeed.com/e/14dfd58a-6acf-4434-9876-c173fdca1357",
+  "rawBody": "Установка openjdk6  лечит ошибку ant : \"Failed to copy ... Function not implemented\"  #FreeBSD #java.   http://www.liferay.com/community/forums/-/message_boards/message/6112409;jsessionid=907345ECF21E53E9AA8032F94A320308.node-1",
+  "id": "e/14dfd58a6acf44349876c173fdca1357",
+  "date": "2011-01-05T20:40:25Z",
+  "url": "http://friendfeed.com/zag/14dfd58a/openjdk6-ant-failed-to-copy-function-not",
+  "from": {
+    "name": "углы «Исимуры»",
+    "id": "zag",
+    "type": "user"
+  }
+}
+=end comment
+
+=end pod

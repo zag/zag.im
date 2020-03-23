@@ -1,0 +1,87 @@
+=begin pod :pubdate('2010-04-22T08:45:44Z') :type<note> 
+=NAME Facebook анонсировала новый API, интеграцию с любым сайтом, плюс инструменты для интеграции
+
+=begin DESCRIPTION
+
+Facebook анонсировала новый API, интеграцию с любым сайтом, плюс инструменты для интеграции - L<link|http://moskalyuk.name/2718>
+=for Image :width(188) :link('http://moskalyuk.name/2718') :height(175) :preview
+media/4bed16914c34d204bc06c9a145cc68b91d7da911.jpg
+=for Image :width(496) :link('http://moskalyuk.name/2718') :height(175) :preview
+media/1084f9a3cdb85ae20735dee235d0dd212ca9d2e4.jpg
+=for Image :width(313) :link('http://moskalyuk.name/2718') :height(175) :preview
+media/bf8979a1e6727fdd9e23c04043e5280236de099b.jpg
+
+=item Сайт может показывать кнопку "Понравилось" (с публикацией в ленту новостей), друзей пользователя, которые были на этом сайте, набор рекомендаций, основанный на предпочтения друзей и т.д.
+
+
+=end DESCRIPTION
+
+Facebook анонсировала новый API, интеграцию с любым сайтом, плюс инструменты для интеграции - L<link|http://moskalyuk.name/2718>
+=for Image :width(188) :link('http://moskalyuk.name/2718') :height(175) :preview
+media/4bed16914c34d204bc06c9a145cc68b91d7da911.jpg
+=for Image :width(496) :link('http://moskalyuk.name/2718') :height(175) :preview
+media/1084f9a3cdb85ae20735dee235d0dd212ca9d2e4.jpg
+=for Image :width(313) :link('http://moskalyuk.name/2718') :height(175) :preview
+media/bf8979a1e6727fdd9e23c04043e5280236de099b.jpg
+
+=item Сайт может показывать кнопку "Понравилось" (с публикацией в ленту новостей), друзей пользователя, которые были на этом сайте, набор рекомендаций, основанный на предпочтения друзей и т.д.
+
+
+=begin comment :src
+{
+  "rawBody": "Facebook анонсировала новый API, интеграцию с любым сайтом, плюс инструменты для интеграции",
+  "id": "e/9d2cb062a9dc475187ef8722f146194b",
+  "date": "2010-04-22T08:45:44Z",
+  "url": "http://friendfeed.com/zag/9d2cb062/facebook-api",
+  "thumbnails": [
+    {
+      "height": 175,
+      "link": "http://moskalyuk.name/2718",
+      "url": "http://m.friendfeed-media.com/4bed16914c34d204bc06c9a145cc68b91d7da911",
+      "width": 188
+    },
+    {
+      "link": "http://moskalyuk.name/2718",
+      "height": 175,
+      "width": 496,
+      "url": "http://m.friendfeed-media.com/1084f9a3cdb85ae20735dee235d0dd212ca9d2e4"
+    },
+    {
+      "url": "http://m.friendfeed-media.com/bf8979a1e6727fdd9e23c04043e5280236de099b",
+      "width": 313,
+      "height": 175,
+      "link": "http://moskalyuk.name/2718"
+    }
+  ],
+  "rawLink": "http://moskalyuk.name/2718",
+  "body": "Facebook анонсировала новый API, интеграцию с любым сайтом, плюс инструменты для интеграции - <a rel=\"nofollow\" href=\"http://moskalyuk.name/2718\">http://moskalyuk.name/2718</a>",
+  "via": {
+    "name": "Bookmarklet",
+    "url": "http://friendfeed.com/share/bookmarklet"
+  },
+  "from": {
+    "name": "углы «Исимуры»",
+    "id": "zag",
+    "type": "user"
+  },
+  "comments": [
+    {
+      "date": "2010-04-22T08:45:44Z",
+      "id": "e/9d2cb062a9dc475187ef8722f146194b/c/be075f4342094c3a91431c4e3e6172b1",
+      "rawBody": "Сайт может показывать кнопку \"Понравилось\" (с публикацией в ленту новостей), друзей пользователя, которые были на этом сайте, набор рекомендаций, основанный на предпочтения друзей и т.д.",
+      "from": {
+        "type": "user",
+        "id": "zag",
+        "name": "углы «Исимуры»"
+      },
+      "via": {
+        "name": "Bookmarklet",
+        "url": "http://friendfeed.com/share/bookmarklet"
+      },
+      "body": "Сайт может показывать кнопку &quot;Понравилось&quot; (с публикацией в ленту новостей), друзей пользователя, которые были на этом сайте, набор рекомендаций, основанный на предпочтения друзей и т.д."
+    }
+  ]
+}
+=end comment
+
+=end pod

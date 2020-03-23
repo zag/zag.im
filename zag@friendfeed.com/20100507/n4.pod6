@@ -1,0 +1,67 @@
+=begin pod :pubdate('2010-05-07T12:39:54Z') :type<note> 
+=NAME Official Google Enterprise Blog: More Google applications coming for Google Apps customers
+
+=begin DESCRIPTION
+
+Official Google Enterprise Blog: More Google applications coming for Google Apps customers - L<link|http://googleenterprise.blogspot.com/2010/05/more-google-applications-coming-for.html>
+=for Image :width(525) :link('http://googleenterprise.blogspot.com/2010/05/more-google-applications-coming-for.html') :height(141) :preview
+media/5c2fcdfef0e4e01afb171275f293b1d0d00c89bc.jpg
+
+=item coworkers will be able to publish their organization’s blog on Blogger, share project images with Picasa Web Albums, track industry news in Google Reader, advertise online with AdWords and much more
+
+
+=end DESCRIPTION
+
+Official Google Enterprise Blog: More Google applications coming for Google Apps customers - L<link|http://googleenterprise.blogspot.com/2010/05/more-google-applications-coming-for.html>
+=for Image :width(525) :link('http://googleenterprise.blogspot.com/2010/05/more-google-applications-coming-for.html') :height(141) :preview
+media/5c2fcdfef0e4e01afb171275f293b1d0d00c89bc.jpg
+
+=item coworkers will be able to publish their organization’s blog on Blogger, share project images with Picasa Web Albums, track industry news in Google Reader, advertise online with AdWords and much more
+
+
+=begin comment :src
+{
+  "body": "Official Google Enterprise Blog: More Google applications coming for Google Apps customers - <a rel=\"nofollow\" href=\"http://googleenterprise.blogspot.com/2010/05/more-google-applications-coming-for.html\" title=\"http://googleenterprise.blogspot.com/2010/05/more-google-applications-coming-for.html\">http://googleenterprise.blogspot.com/2010...</a>",
+  "rawLink": "http://googleenterprise.blogspot.com/2010/05/more-google-applications-coming-for.html",
+  "id": "e/b57fe3049b124788ab6c41728ffcc436",
+  "thumbnails": [
+    {
+      "width": 525,
+      "url": "http://m.friendfeed-media.com/5c2fcdfef0e4e01afb171275f293b1d0d00c89bc",
+      "height": 141,
+      "link": "http://googleenterprise.blogspot.com/2010/05/more-google-applications-coming-for.html"
+    }
+  ],
+  "date": "2010-05-07T12:39:54Z",
+  "rawBody": "Official Google Enterprise Blog: More Google applications coming for Google Apps customers",
+  "url": "http://friendfeed.com/zag/b57fe304/official-google-enterprise-blog-more",
+  "comments": [
+    {
+      "body": "coworkers will be able to publish their organization’s blog on Blogger, share project images with Picasa Web Albums, track industry news in Google Reader, advertise online with AdWords and much more",
+      "via": {
+        "url": "http://friendfeed.com/share/bookmarklet",
+        "name": "Bookmarklet"
+      },
+      "id": "e/b57fe3049b124788ab6c41728ffcc436/c/4560f42a911b4fe789fd9a28d256cceb",
+      "rawBody": "coworkers will be able to publish their organization’s blog on Blogger, share project images with Picasa Web Albums, track industry news in Google Reader, advertise online with AdWords and much more",
+      "date": "2010-05-07T12:39:54Z",
+      "from": {
+        "name": "углы «Исимуры»",
+        "id": "zag",
+        "type": "user"
+      }
+    }
+  ],
+  "from": {
+    "type": "user",
+    "id": "zag",
+    "name": "углы «Исимуры»"
+  },
+  "via": {
+    "url": "http://friendfeed.com/share/bookmarklet",
+    "name": "Bookmarklet"
+  }
+}
+=end comment
+
+=end pod

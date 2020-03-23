@@ -1,0 +1,36 @@
+=begin pod :pubdate('2009-11-15T16:49:20Z') :type<note> :tags<perl6 Pod>
+=NAME Implemented ":like" attribute Perl6::Pod #perl6 #Pod http://search.cpan.org/dist/Perl6-Pod/
+
+=begin DESCRIPTION
+
+Implemented ":like" attribute Perl6::Pod #perl6 #Pod http://search.cpan.org/dist/Perl6-Pod/ - L<link|http://twitter.com/zagru/statuses/5739874329>
+
+
+
+=end DESCRIPTION
+
+Implemented ":like" attribute Perl6::Pod #perl6 #Pod http://search.cpan.org/dist/Perl6-Pod/ - L<link|http://twitter.com/zagru/statuses/5739874329>
+
+
+
+=begin comment :src
+{
+  "rawLink": "http://twitter.com/zagru/statuses/5739874329",
+  "body": "Implemented &quot;:like&quot; attribute Perl6::Pod <a rel=\"nofollow\" href=\"http://search.twitter.com/search?q=%23perl6\">#perl6</a> <a rel=\"nofollow\" href=\"http://search.twitter.com/search?q=%23Pod\">#Pod</a> <a rel=\"nofollow\" href=\"http://search.cpan.org/dist/Perl6-Pod/\" title=\"http://search.cpan.org/dist/Perl6-Pod/\">http://search.cpan.org/dist...</a>",
+  "rawBody": "Implemented \":like\" attribute Perl6::Pod #perl6 #Pod http://search.cpan.org/dist/Perl6-Pod/",
+  "id": "e/4683447dabfd3710fd5cdc7766b554cd",
+  "date": "2009-11-15T16:49:20Z",
+  "url": "http://friendfeed.com/zag/4683447d/implemented-like-attribute-perl6-pod",
+  "from": {
+    "name": "углы «Исимуры»",
+    "id": "zag",
+    "type": "user"
+  },
+  "via": {
+    "name": "Twitter",
+    "url": "http://twitter.com/zagru/statuses/5739874329"
+  }
+}
+=end comment
+
+=end pod

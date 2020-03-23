@@ -1,0 +1,87 @@
+=begin pod :pubdate('2010-05-20T07:14:24Z') :type<note> :tags<font>
+=NAME Google Font API - Google Code #font-face
+
+=begin DESCRIPTION
+
+Google Font API - Google Code #font-face - L<link|http://code.google.com/apis/webfonts/#>
+=for Image :width(128) :link('http://code.google.com/apis/webfonts/#') :height(128) :preview
+media/7849c7aca7c5d513618a1ace7b1e37d8ae93af2b.gif
+=for Image :width(196) :link('http://code.google.com/apis/webfonts/#') :height(40) :preview
+media/b499119cc7fff91c573fd4e7efcf7d620ac30d1d.gif
+=for Image :width(264) :link('http://code.google.com/apis/webfonts/#') :height(40) :preview
+media/e402325113887f635ce5a0c1341a69000a8f7651.gif
+
+=item "The Google Font Directory provides high-quality web fonts that you can include in your pages using the Google Font API."
+
+
+=end DESCRIPTION
+
+Google Font API - Google Code #font-face - L<link|http://code.google.com/apis/webfonts/#>
+=for Image :width(128) :link('http://code.google.com/apis/webfonts/#') :height(128) :preview
+media/7849c7aca7c5d513618a1ace7b1e37d8ae93af2b.gif
+=for Image :width(196) :link('http://code.google.com/apis/webfonts/#') :height(40) :preview
+media/b499119cc7fff91c573fd4e7efcf7d620ac30d1d.gif
+=for Image :width(264) :link('http://code.google.com/apis/webfonts/#') :height(40) :preview
+media/e402325113887f635ce5a0c1341a69000a8f7651.gif
+
+=item "The Google Font Directory provides high-quality web fonts that you can include in your pages using the Google Font API."
+
+
+=begin comment :src
+{
+  "rawLink": "http://code.google.com/apis/webfonts/#",
+  "body": "Google Font API - Google Code <a href=\"http://friendfeed.com/search?q=%23font\">#font</a>-face - <a rel=\"nofollow\" href=\"http://code.google.com/apis/webfonts/#\" title=\"http://code.google.com/apis/webfonts/#\">http://code.google.com/apis...</a>",
+  "id": "e/7d67f1af3aca4ed8bc14ccfd45309719",
+  "date": "2010-05-20T07:14:24Z",
+  "rawBody": "Google Font API - Google Code #font-face",
+  "url": "http://friendfeed.com/zag/7d67f1af/google-font-api-code-face",
+  "thumbnails": [
+    {
+      "width": 128,
+      "url": "http://m.friendfeed-media.com/7849c7aca7c5d513618a1ace7b1e37d8ae93af2b",
+      "height": 128,
+      "link": "http://code.google.com/apis/webfonts/#"
+    },
+    {
+      "link": "http://code.google.com/apis/webfonts/#",
+      "height": 40,
+      "width": 196,
+      "url": "http://m.friendfeed-media.com/b499119cc7fff91c573fd4e7efcf7d620ac30d1d"
+    },
+    {
+      "url": "http://m.friendfeed-media.com/e402325113887f635ce5a0c1341a69000a8f7651",
+      "width": 264,
+      "height": 40,
+      "link": "http://code.google.com/apis/webfonts/#"
+    }
+  ],
+  "comments": [
+    {
+      "body": "&quot;The Google Font Directory provides high-quality web fonts that you can include in your pages using the Google Font API.&quot;",
+      "via": {
+        "name": "Bookmarklet",
+        "url": "http://friendfeed.com/share/bookmarklet"
+      },
+      "id": "e/7d67f1af3aca4ed8bc14ccfd45309719/c/401cec6c3a414ae4a163e34ac101ce7c",
+      "rawBody": "\"The Google Font Directory provides high-quality web fonts that you can include in your pages using the Google Font API.\"",
+      "date": "2010-05-20T07:14:24Z",
+      "from": {
+        "type": "user",
+        "id": "zag",
+        "name": "углы «Исимуры»"
+      }
+    }
+  ],
+  "via": {
+    "name": "Bookmarklet",
+    "url": "http://friendfeed.com/share/bookmarklet"
+  },
+  "from": {
+    "name": "углы «Исимуры»",
+    "type": "user",
+    "id": "zag"
+  }
+}
+=end comment
+
+=end pod

@@ -1,0 +1,38 @@
+=begin pod :pubdate('2011-07-28T09:10:18Z') :type<note> 
+=NAME Laser Guided Kitty
+
+=begin DESCRIPTION
+
+Laser Guided Kitty
+
+
+
+=end DESCRIPTION
+
+Laser Guided Kitty
+
+
+
+=begin comment :src
+{
+  "from": {
+    "name": "углы «Исимуры»",
+    "id": "zag",
+    "type": "user"
+  },
+  "id": "e/4cb5168a1b554625bdff8b16e7b42e8b",
+  "date": "2011-07-28T09:10:18Z",
+  "rawBody": "Laser Guided Kitty",
+  "url": "http://friendfeed.com/zag/4cb5168a/laser-guided-kitty",
+  "thumbnails": [
+    {
+      "link": "http://friendfeed.com/e/4cb5168a-1b55-4625-bdff-8b16e7b42e8b",
+      "url": "http://meme.zenfs.com/u/f6fef4cebf83a1b9bffe6592c6e4c1f6293f8216.gifa"
+    }
+  ],
+  "body": "Laser Guided Kitty",
+  "rawLink": "http://friendfeed.com/e/4cb5168a-1b55-4625-bdff-8b16e7b42e8b"
+}
+=end comment
+
+=end pod

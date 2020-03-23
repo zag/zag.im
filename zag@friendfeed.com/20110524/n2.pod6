@@ -1,0 +1,77 @@
+=begin pod :pubdate('2011-05-24T05:03:36Z') :type<note> 
+=NAME The Go Programming Language Blog: Go at Google I/O 2011: videos
+
+=begin DESCRIPTION
+
+The Go Programming Language Blog: Go at Google I/O 2011: videos - L<link|http://blog.golang.org/2011/05/go-at-google-io-2011-videos.html>
+=for Image :width(120) :link('http://blog.golang.org/2011/05/go-at-google-io-2011-videos.html') :height(90) :preview
+media/634122ec416993f3de52c20978649c555755e143.jpg
+
+=item Часть презентации Go посвящена проекту Brad Fitzpatrick Camlistore.
+
+
+=end DESCRIPTION
+
+The Go Programming Language Blog: Go at Google I/O 2011: videos - L<link|http://blog.golang.org/2011/05/go-at-google-io-2011-videos.html>
+=for Image :width(120) :link('http://blog.golang.org/2011/05/go-at-google-io-2011-videos.html') :height(90) :preview
+media/634122ec416993f3de52c20978649c555755e143.jpg
+
+=item Часть презентации Go посвящена проекту Brad Fitzpatrick Camlistore.
+
+
+=begin comment :src
+{
+  "via": {
+    "name": "Bookmarklet",
+    "url": "http://friendfeed.com/share/bookmarklet"
+  },
+  "from": {
+    "id": "zag",
+    "type": "user",
+    "name": "углы «Исимуры»"
+  },
+  "comments": [
+    {
+      "body": "Часть презентации Go посвящена проекту Brad Fitzpatrick Camlistore.",
+      "via": {
+        "name": "Bookmarklet",
+        "url": "http://friendfeed.com/share/bookmarklet"
+      },
+      "date": "2011-05-24T05:03:36Z",
+      "id": "e/658c00839b8e415ca39321f06127fb4e/c/4bb92896877846878e51f745341dbeb4",
+      "from": {
+        "name": "углы «Исимуры»",
+        "type": "user",
+        "id": "zag"
+      },
+      "rawBody": "Часть презентации Go посвящена проекту Brad Fitzpatrick Camlistore."
+    }
+  ],
+  "url": "http://friendfeed.com/zag/658c0083/go-programming-language-blog-at-google-i-o-2011",
+  "id": "e/658c00839b8e415ca39321f06127fb4e",
+  "date": "2011-05-24T05:03:36Z",
+  "rawBody": "The Go Programming Language Blog: Go at Google I/O 2011: videos",
+  "thumbnails": [
+    {
+      "url": "http://m.friendfeed-media.com/634122ec416993f3de52c20978649c555755e143",
+      "width": 120,
+      "height": 90,
+      "link": "http://blog.golang.org/2011/05/go-at-google-io-2011-videos.html"
+    }
+  ],
+  "body": "The Go Programming Language Blog: Go at Google I/O 2011: videos - <a rel=\"nofollow\" href=\"http://blog.golang.org/2011/05/go-at-google-io-2011-videos.html\" title=\"http://blog.golang.org/2011/05/go-at-google-io-2011-videos.html\">http://blog.golang.org/2011...</a>",
+  "likes": [
+    {
+      "date": "2011-05-24T08:03:11Z",
+      "from": {
+        "id": "kkapp",
+        "type": "user",
+        "name": "alex@kapranoff.ru"
+      }
+    }
+  ],
+  "rawLink": "http://blog.golang.org/2011/05/go-at-google-io-2011-videos.html"
+}
+=end comment
+
+=end pod

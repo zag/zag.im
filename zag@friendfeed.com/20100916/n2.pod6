@@ -1,0 +1,109 @@
+=begin pod :pubdate('2010-09-16T16:10:54Z') :type<note> :tags<mailru>
+=NAME Мэйл сообщил о готовности OAuth. Обещают пресс релиз в ближайшие пару недель. #mailru
+
+=begin DESCRIPTION
+
+Мэйл сообщил о готовности OAuth. Обещают пресс релиз в ближайшие пару недель. #mailru - L<link|http://twitter.com/zagru/statuses/24677046834>
+
+=item http://api.mail.ru/docs/guides/oauth/ и список функций http://api.mail.ru/docs/reference/rest/
+
+
+=end DESCRIPTION
+
+Мэйл сообщил о готовности OAuth. Обещают пресс релиз в ближайшие пару недель. #mailru - L<link|http://twitter.com/zagru/statuses/24677046834>
+
+=item http://api.mail.ru/docs/guides/oauth/ и список функций http://api.mail.ru/docs/reference/rest/
+
+
+=begin comment :src
+{
+  "comments": [
+    {
+      "body": "<a rel=\"nofollow\" href=\"http://api.mail.ru/docs/guides/oauth/\" title=\"http://api.mail.ru/docs/guides/oauth/\">http://api.mail.ru/docs...</a> и список функций <a rel=\"nofollow\" href=\"http://api.mail.ru/docs/reference/rest/\" title=\"http://api.mail.ru/docs/reference/rest/\">http://api.mail.ru/docs...</a>",
+      "date": "2010-09-18T13:33:06Z",
+      "rawBody": "http://api.mail.ru/docs/guides/oauth/ и список функций http://api.mail.ru/docs/reference/rest/",
+      "id": "e/e5bee5d29c1ccd90454c34bb2b737078/c/885763eacd23494691f856dbf813af0c",
+      "from": {
+        "name": "углы «Исимуры»",
+        "type": "user",
+        "id": "zag"
+      }
+    }
+  ],
+  "from": {
+    "name": "углы «Исимуры»",
+    "id": "zag",
+    "type": "user"
+  },
+  "via": {
+    "url": "http://twitter.com/zagru/statuses/24677046834",
+    "name": "Twitter"
+  },
+  "body": "Мэйл сообщил о готовности OAuth. Обещают пресс релиз в ближайшие пару недель. <a rel=\"nofollow\" href=\"http://search.twitter.com/search?q=%23mailru\">#mailru</a>",
+  "likes": [
+    {
+      "from": {
+        "id": "yodapunk",
+        "type": "user",
+        "name": "Глеб Арестов"
+      },
+      "date": "2010-09-18T16:43:23Z"
+    },
+    {
+      "date": "2010-09-18T15:46:22Z",
+      "from": {
+        "id": "catap",
+        "type": "user",
+        "name": "Kirill A. Korinskiy"
+      }
+    },
+    {
+      "date": "2010-09-18T14:23:18Z",
+      "from": {
+        "name": "arty",
+        "id": "arty",
+        "type": "user"
+      }
+    },
+    {
+      "from": {
+        "name": "Анатолий Шарифулин",
+        "type": "user",
+        "id": "sharifulin"
+      },
+      "date": "2010-09-16T19:17:06Z"
+    },
+    {
+      "date": "2010-09-16T18:19:54Z",
+      "from": {
+        "name": "Dmitriy Olerinskiy",
+        "id": "menelvagor",
+        "type": "user"
+      }
+    },
+    {
+      "date": "2010-09-16T17:02:22Z",
+      "from": {
+        "name": "Nikolay Dvas",
+        "type": "user",
+        "id": "dvas"
+      }
+    },
+    {
+      "from": {
+        "type": "user",
+        "id": "kkapp",
+        "name": "alex@kapranoff.ru"
+      },
+      "date": "2010-09-16T16:39:39Z"
+    }
+  ],
+  "rawLink": "http://twitter.com/zagru/statuses/24677046834",
+  "id": "e/e5bee5d29c1ccd90454c34bb2b737078",
+  "rawBody": "Мэйл сообщил о готовности OAuth. Обещают пресс релиз в ближайшие пару недель. #mailru",
+  "date": "2010-09-16T16:10:54Z",
+  "url": "http://friendfeed.com/zag/e5bee5d2/oauth-mailru"
+}
+=end comment
+
+=end pod

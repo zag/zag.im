@@ -1,0 +1,36 @@
+=begin pod :pubdate('2011-05-14T14:19:21Z') :type<note> :tags<yapc perl>
+=NAME доклад про исключения в perl  просто замечателен #yapc #perl http://event.perlrussia.org/mayperl4/talk/131
+
+=begin DESCRIPTION
+
+доклад про исключения в perl  просто замечателен #yapc #perl http://event.perlrussia.org/mayperl4/talk/131
+
+
+
+=end DESCRIPTION
+
+доклад про исключения в perl  просто замечателен #yapc #perl http://event.perlrussia.org/mayperl4/talk/131
+
+
+
+=begin comment :src
+{
+  "rawLink": "http://friendfeed.com/e/675c31b0-0a95-47d5-b756-b250080cea07",
+  "body": "доклад про исключения в perl  просто замечателен <a href=\"http://friendfeed.com/search?q=%23yapc\">#yapc</a> <a href=\"http://friendfeed.com/search?q=%23perl\">#perl</a> <a rel=\"nofollow\" href=\"http://event.perlrussia.org/mayperl4/talk/131\" title=\"http://event.perlrussia.org/mayperl4/talk/131\">http://event.perlrussia.org/mayperl...</a>",
+  "id": "e/675c31b00a9547d5b756b250080cea07",
+  "rawBody": "доклад про исключения в perl  просто замечателен #yapc #perl http://event.perlrussia.org/mayperl4/talk/131",
+  "date": "2011-05-14T14:19:21Z",
+  "url": "http://friendfeed.com/zag/675c31b0/perl-yapc",
+  "via": {
+    "name": "IM",
+    "url": "http://friendfeed.com/about/im"
+  },
+  "from": {
+    "name": "углы «Исимуры»",
+    "id": "zag",
+    "type": "user"
+  }
+}
+=end comment
+
+=end pod

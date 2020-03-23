@@ -1,0 +1,58 @@
+=begin pod :pubdate('2010-02-16T23:14:20Z') :type<note> 
+=NAME Смотрю : Все ненавидят Криса
+
+=begin DESCRIPTION
+
+Смотрю : Все ненавидят Криса
+=for Image :width(233) :link('http://m.friendfeed-media.com/f0a4276f194b9076129fb8046d8fae36e265902b') :height(175) :preview
+media/81d187c5eda2ac5eb13a5758053bd391b54a7edc.jpg
+=for Image :width(233) :link('http://m.friendfeed-media.com/b701f8a77f4bd37860864e130291d8f1d3072fcd') :height(175) :preview
+media/efabd0bb499b0afe946dd73ad1ba2b813d5bf381.jpg
+
+
+
+=end DESCRIPTION
+
+Смотрю : Все ненавидят Криса
+=for Image :width(233) :link('http://m.friendfeed-media.com/f0a4276f194b9076129fb8046d8fae36e265902b') :height(175) :preview
+media/81d187c5eda2ac5eb13a5758053bd391b54a7edc.jpg
+=for Image :width(233) :link('http://m.friendfeed-media.com/b701f8a77f4bd37860864e130291d8f1d3072fcd') :height(175) :preview
+media/efabd0bb499b0afe946dd73ad1ba2b813d5bf381.jpg
+
+
+
+=begin comment :src
+{
+  "from": {
+    "type": "user",
+    "id": "zag",
+    "name": "углы «Исимуры»"
+  },
+  "via": {
+    "name": "email",
+    "url": "http://friendfeed.com/share/mail"
+  },
+  "date": "2010-02-16T23:14:20Z",
+  "id": "e/58e4b24961fa425abac977fe48fef292",
+  "url": "http://friendfeed.com/zag/58e4b249",
+  "rawBody": "Смотрю : Все ненавидят Криса",
+  "thumbnails": [
+    {
+      "link": "http://m.friendfeed-media.com/f0a4276f194b9076129fb8046d8fae36e265902b",
+      "height": 175,
+      "width": 233,
+      "url": "http://m.friendfeed-media.com/81d187c5eda2ac5eb13a5758053bd391b54a7edc"
+    },
+    {
+      "height": 175,
+      "link": "http://m.friendfeed-media.com/b701f8a77f4bd37860864e130291d8f1d3072fcd",
+      "width": 233,
+      "url": "http://m.friendfeed-media.com/efabd0bb499b0afe946dd73ad1ba2b813d5bf381"
+    }
+  ],
+  "rawLink": "http://friendfeed.com/e/58e4b249-61fa-425a-bac9-77fe48fef292",
+  "body": "Смотрю : Все ненавидят Криса"
+}
+=end comment
+
+=end pod

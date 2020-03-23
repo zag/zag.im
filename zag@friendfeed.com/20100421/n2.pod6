@@ -1,0 +1,36 @@
+=begin pod :pubdate('2010-04-21T08:25:19Z') :type<note> 
+=NAME Кажется рождается новый мем. nexia-club.ru: "Состояние хорошее, одел и поехал" http://bit.ly/bMOfWV
+
+=begin DESCRIPTION
+
+Кажется рождается новый мем. nexia-club.ru: "Состояние хорошее, одел и поехал" http://bit.ly/bMOfWV - L<link|http://twitter.com/zagru/statuses/12565565980>
+
+
+
+=end DESCRIPTION
+
+Кажется рождается новый мем. nexia-club.ru: "Состояние хорошее, одел и поехал" http://bit.ly/bMOfWV - L<link|http://twitter.com/zagru/statuses/12565565980>
+
+
+
+=begin comment :src
+{
+  "rawLink": "http://twitter.com/zagru/statuses/12565565980",
+  "body": "Кажется рождается новый мем. nexia-club.ru: &quot;Состояние хорошее, одел и поехал&quot; <a rel=\"nofollow\" href=\"http://bit.ly/bMOfWV\" title=\"http://www.nexia-club.ru/forum/index.php?topic=109134.new#new\">http://www.nexia-club.ru/forum...</a>",
+  "id": "e/53be13bad7ce955ee52d7a6fd699c76d",
+  "date": "2010-04-21T08:25:19Z",
+  "rawBody": "Кажется рождается новый мем. nexia-club.ru: \"Состояние хорошее, одел и поехал\" http://bit.ly/bMOfWV",
+  "url": "http://friendfeed.com/zag/53be13ba/nexia-club-ru",
+  "from": {
+    "name": "углы «Исимуры»",
+    "id": "zag",
+    "type": "user"
+  },
+  "via": {
+    "name": "Twitter",
+    "url": "http://twitter.com/zagru/statuses/12565565980"
+  }
+}
+=end comment
+
+=end pod

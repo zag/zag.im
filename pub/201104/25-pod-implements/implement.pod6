@@ -1,0 +1,80 @@
+=begin pod :pubdate('2011-04-25 09:00:00') :tags<pod6 perl6 pod perl>
+=NAME Реализации Perl 6 Pod
+
+=begin DESCRIPTION
+
+Для формата Pod, используемого в Perl 6, отсутствует оригинальная или эталонная реализация. Более того, этот формат, как и сам Perl 6, существует в виде спецификации: Synopsis 26.
+
+=end DESCRIPTION
+
+Для формата Pod, используемого в Perl 6, отсутствует оригинальная или эталонная реализация. Более того, этот формат, как и сам Perl 6, существует в виде спецификации: Synopsis 26 N<Спецификация формата Pod (Synopsis 26 ).L<https://github.com/zag/specs/raw/master/S26-documentation.pod> >. Сама спецификация написана в формате Pod и может использоваться для проверки реализаций на соответствие ей :-).
+
+Создание спецификации датировано 9 апреля 2005 года, а последняя редакция - 31 июля 2010. Автор спецификации - Дамиан Конвей I<(Damian Conway)>. Он же автор первой реализации на языке Perl 5. 
+
+На сегодня данный формат стабилен и есть некоторое количество его реализаций.
+
+=begin item
+B<Perl6::Perldoc>  N<Реализация Perl 6 Pod от автора спецификации.L<http://search.cpan.org/dist/Perl6-Perldoc/>>
+
+Эта первая реализация на Perl 5, созданная автором спецификации Дамианом Конвеем. 
+
+Последняя версия вышла почти 4 года назад. Однако в начале этого месяца вышло обновление в виде U<DEVELOPER> версии. Поэтому есть шанс, что реализация будет развиваться.
+=end item
+
+=begin item
+B<Perl6::Pod>  N<Реализация Perl 6 Pod на Perl 5.L<http://search.cpan.org/dist/Perl6-Perldoc/>>
+
+Моя собственная реализация этого формата на языке Perl 5. О ее статусе можно прочитать на страницах моего блога N<Статус реализации Perl6::Pod. L<http://zag.ru/2011/109/a1/status-realizacii-Perl6-Pod.html> >. 
+
+На мой U<субъективный> взгляд, она является самой полной из существующих реализаций.
+=end item
+
+=begin item
+B<http://github.com/perl6/perl6-examples/blob/master/lib/Pod/Parser.pm>  N<Первая реализация на Perl 6. Автор  - Martin Berends.L<http://github.com/perl6/perl6-examples/blob/master/lib/Pod/Parser.pm> >
+
+Эта первая из известных мне и единственная до недавнего времени, реализация на Perl 6. Она была написана,
+во времена, когда еще не существовало стабильной версии Perl 6. Видимо отсутствие стабильности стало причиной ее заморозки.
+Автор  - Martin Berends.
+
+=end item
+
+=begin item
+B<SUPERNOVA> N<SUPERNOVA- реализация Pod на Perl 6. L<http://github.com/lue/SUPERNOVA> >
+
+Совсем недавно выложенная в открытый доступ N<Анонс начальной версии реализации Pod на Perl 6 SUPERNOVA. L<http://rdstar.wordpress.com/2011/04/09/supernova-made-public/> > реализация на Perl 6. Данная реализация находится в самом начале разработки. Она доступна на GitHub.
+
+=end item
+
+=head2 Развитие Perl 6 Pod
+
+Сам формат Pod в некоторый частях спецификации подразумевает тесную интеграцию с грамматикой Perl 6 I<(например, "Блоки деклараторы")>. Поэтому полная реализация этого формата возможна, скорее всего, только на Perl 6.
+
+Тем не менее интерес к этому формату растет. Подтверждением может служить тот факт,
+что для участия в Google Summer of Code 2011 представлены два независимых предложения:
+
+=config code :allow<B U>
+=begin item 
+B<от Perl Foundation> N<GSoc2011 Perl Foundation ideas. L<http://epo.means.no/gsoc2011/ideas>>
+
+   B<Pod parser for Rakudo>
+   Perl 6 has a built-in documentation format named 'Pod'. Rakudo currently only recognizes the begin and end of such Pod sections, and ignores them otherwise.
+ A student could write a parser for Pod (or a subset of Pod), and make the parse tree available both for accessing it from withing Perl 6 objects and for redering it in other formats (plain text, html, latex, markdown, ...)
+ See the Pod specification in S26
+ Possible mentors: Moritz Lenz, Carl Masak
+
+=end item
+
+=begin item
+B<Parrot Foundation> N<GSoc2011 Parrot Foundation ideas. L<http://trac.parrot.org/parrot/wiki/GSoc2011>>
+
+    B<POD parser>
+    Difficulty: 1/5
+    Links of Interest: U< NONE, please add some>
+    Possible Mentors: U<UNKNOWN, please volunteer!>
+    Details: Implement a library or tool to parse POD documentation from standalone .pod files and code files containing intermittent POD. The successful project should be able to translate POD documentation into other formats such as LaTeX, HTML, man pages, raw text, or others. Special focus should be on both compliance with the Perl 6 POD specification (Synopsis 26 - Documentation) and interoperability with other HLLs besides Perl 6. The successful project will have a system with pluggable backends for outputting documentation in the formats listed above and others.
+    Expected Deliverables: U<UNKNOWN, Please list what the deliverables will be> 
+
+=end item
+
+
+=end pod

@@ -1,0 +1,36 @@
+=begin pod :pubdate('2011-06-04T09:05:05Z') :type<note> :tags<devconf_ru>
+=NAME Мир django, похоже, катится в tornado #devconf_ru
+
+=begin DESCRIPTION
+
+Мир django, похоже, катится в tornado #devconf_ru
+
+
+
+=end DESCRIPTION
+
+Мир django, похоже, катится в tornado #devconf_ru
+
+
+
+=begin comment :src
+{
+  "via": {
+    "url": "http://friendfeed.com/share/mail",
+    "name": "email"
+  },
+  "from": {
+    "name": "углы «Исимуры»",
+    "id": "zag",
+    "type": "user"
+  },
+  "id": "e/fb48153648da4aef830ca524ae45d275",
+  "date": "2011-06-04T09:05:05Z",
+  "rawBody": "Мир django, похоже, катится в tornado #devconf_ru",
+  "url": "http://friendfeed.com/zag/fb481536/django-tornado-devconf_ru",
+  "rawLink": "http://friendfeed.com/e/fb481536-48da-4aef-830c-a524ae45d275",
+  "body": "Мир django, похоже, катится в tornado <a href=\"http://friendfeed.com/search?q=%23devconf_ru\">#devconf_ru</a>"
+}
+=end comment
+
+=end pod

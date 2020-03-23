@@ -1,0 +1,44 @@
+=begin pod :pubdate('2012-04-01T05:59:50Z') :type<note> :tags<8bit>
+=NAME Google maps #8bit !
+
+=begin DESCRIPTION
+
+Google maps #8bit !
+=for Image :width(296) :link('http://m.friendfeed-media.com/2ea7354414b34ef9c0d35fff19993abf279a2783') :height(175) :preview
+media/4053d75951574c7b8520dc8212b8ab149440dd82.jpg
+
+
+
+=end DESCRIPTION
+
+Google maps #8bit !
+=for Image :width(296) :link('http://m.friendfeed-media.com/2ea7354414b34ef9c0d35fff19993abf279a2783') :height(175) :preview
+media/4053d75951574c7b8520dc8212b8ab149440dd82.jpg
+
+
+
+=begin comment :src
+{
+  "id": "e/c44b9f4c1d0a4434ab650d38063a5bcf",
+  "date": "2012-04-01T05:59:50Z",
+  "thumbnails": [
+    {
+      "url": "http://m.friendfeed-media.com/4053d75951574c7b8520dc8212b8ab149440dd82",
+      "width": 296,
+      "link": "http://m.friendfeed-media.com/2ea7354414b34ef9c0d35fff19993abf279a2783",
+      "height": 175
+    }
+  ],
+  "rawBody": "Google maps #8bit !",
+  "url": "http://friendfeed.com/zag/c44b9f4c/google-maps-8bit",
+  "rawLink": "http://friendfeed.com/e/c44b9f4c-1d0a-4434-ab65-0d38063a5bcf",
+  "body": "Google maps <a href=\"http://friendfeed.com/search?q=%238bit\">#8bit</a> !",
+  "from": {
+    "type": "user",
+    "id": "zag",
+    "name": "углы «Исимуры»"
+  }
+}
+=end comment
+
+=end pod

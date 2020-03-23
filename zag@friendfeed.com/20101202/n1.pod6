@@ -1,0 +1,36 @@
+=begin pod :pubdate('2010-12-02T13:20:11Z') :type<note> :tags<perl6 idea>
+=NAME Compiler check for errors in the code and documentation on it. Inspired by #perl6 Pod. #idea
+
+=begin DESCRIPTION
+
+Compiler check for errors in the code and documentation on it. Inspired by #perl6 Pod. #idea - L<link|http://twitter.com/zagru/statuses/10322337215807489>
+
+
+
+=end DESCRIPTION
+
+Compiler check for errors in the code and documentation on it. Inspired by #perl6 Pod. #idea - L<link|http://twitter.com/zagru/statuses/10322337215807489>
+
+
+
+=begin comment :src
+{
+  "url": "http://friendfeed.com/zag/03809e63/compiler-check-for-errors-in-code-and",
+  "id": "e/03809e63827869d707161c3e11654a3e",
+  "date": "2010-12-02T13:20:11Z",
+  "rawBody": "Compiler check for errors in the code and documentation on it. Inspired by #perl6 Pod. #idea",
+  "body": "Compiler check for errors in the code and documentation on it. Inspired by <a rel=\"nofollow\" href=\"http://search.twitter.com/search?q=%23perl6\">#perl6</a> Pod. <a rel=\"nofollow\" href=\"http://search.twitter.com/search?q=%23idea\">#idea</a>",
+  "rawLink": "http://twitter.com/zagru/statuses/10322337215807489",
+  "from": {
+    "name": "углы «Исимуры»",
+    "id": "zag",
+    "type": "user"
+  },
+  "via": {
+    "name": "Twitter",
+    "url": "http://twitter.com/zagru/statuses/10322337215807489"
+  }
+}
+=end comment
+
+=end pod

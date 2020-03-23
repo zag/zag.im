@@ -1,0 +1,152 @@
+=begin pod :pubdate('2011-04-30T18:13:02Z') :type<note> 
+=NAME wallpaper
+
+=begin DESCRIPTION
+
+wallpaper
+=for Image :width(233) :link('http://m.friendfeed-media.com/0de7753f02909b47a99e4ef52a945b67cdecfd6b') :height(175) :preview
+media/d8ec65349620aa2db0cd52fcab383ec50b671b75.jpg
+
+=item Не хватает Свидетеля на вершине холма
+
+
+=end DESCRIPTION
+
+wallpaper
+=for Image :width(233) :link('http://m.friendfeed-media.com/0de7753f02909b47a99e4ef52a945b67cdecfd6b') :height(175) :preview
+media/d8ec65349620aa2db0cd52fcab383ec50b671b75.jpg
+
+=item Не хватает Свидетеля на вершине холма
+
+
+=begin comment :src
+{
+  "from": {
+    "id": "zag",
+    "type": "user",
+    "name": "углы «Исимуры»"
+  },
+  "comments": [
+    {
+      "id": "e/060315323b9647659ea7b5ba42a1f861/c/045fce2946b747e38cbc5471c0f3d670",
+      "rawBody": "Не хватает Свидетеля на вершине холма",
+      "date": "2011-04-30T18:46:22Z",
+      "from": {
+        "type": "user",
+        "id": "meatreach",
+        "name": "Based on real people"
+      },
+      "body": "Не хватает Свидетеля на вершине холма"
+    }
+  ],
+  "date": "2011-04-30T18:13:02Z",
+  "id": "e/060315323b9647659ea7b5ba42a1f861",
+  "rawBody": "wallpaper",
+  "thumbnails": [
+    {
+      "height": 175,
+      "link": "http://m.friendfeed-media.com/0de7753f02909b47a99e4ef52a945b67cdecfd6b",
+      "url": "http://m.friendfeed-media.com/d8ec65349620aa2db0cd52fcab383ec50b671b75",
+      "width": 233
+    }
+  ],
+  "url": "http://friendfeed.com/zag/06031532/wallpaper",
+  "likes": [
+    {
+      "date": "2011-05-01T10:04:20Z",
+      "from": {
+        "type": "user",
+        "id": "philsmirnov",
+        "name": "Phil Smirnov"
+      }
+    },
+    {
+      "date": "2011-05-01T08:18:19Z",
+      "from": {
+        "id": "seliv",
+        "type": "user",
+        "name": "sёliv"
+      }
+    },
+    {
+      "date": "2011-05-01T03:21:13Z",
+      "from": {
+        "name": "Белопони",
+        "type": "user",
+        "id": "jo10"
+      }
+    },
+    {
+      "from": {
+        "name": "prool",
+        "id": "prool",
+        "type": "user"
+      },
+      "date": "2011-04-30T21:20:55Z"
+    },
+    {
+      "date": "2011-04-30T20:18:00Z",
+      "from": {
+        "type": "user",
+        "id": "jinger",
+        "name": "Нет, ты"
+      }
+    },
+    {
+      "date": "2011-04-30T19:02:08Z",
+      "from": {
+        "id": "prdx",
+        "type": "user",
+        "name": "Покак Пузантес"
+      }
+    },
+    {
+      "date": "2011-04-30T19:01:16Z",
+      "from": {
+        "name": "Sergey Zhuzhgov",
+        "private": true,
+        "id": "sergeyzhuzhgov",
+        "type": "user"
+      }
+    },
+    {
+      "date": "2011-04-30T18:48:51Z",
+      "from": {
+        "private": true,
+        "type": "user",
+        "id": "hostya",
+        "name": "Лучшая девушка в СССР"
+      }
+    },
+    {
+      "date": "2011-04-30T18:39:51Z",
+      "from": {
+        "name": "cat",
+        "id": "kikelia",
+        "type": "user",
+        "private": true
+      }
+    },
+    {
+      "date": "2011-04-30T18:37:30Z",
+      "from": {
+        "id": "artreal",
+        "type": "user",
+        "name": "50 оттенков кошкости"
+      }
+    },
+    {
+      "date": "2011-04-30T18:37:25Z",
+      "from": {
+        "name": "alex@kapranoff.ru",
+        "type": "user",
+        "id": "kkapp"
+      }
+    }
+  ],
+  "rawLink": "http://friendfeed.com/e/06031532-3b96-4765-9ea7-b5ba42a1f861",
+  "body": "wallpaper"
+}
+=end comment
+
+=end pod

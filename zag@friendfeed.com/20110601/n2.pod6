@@ -1,0 +1,46 @@
+=begin pod :pubdate('2011-06-01T06:40:56Z') :type<note> 
+=NAME Chapter 14. Python Packaging http://www.aosabook.org/en/packaging.html
+
+=begin DESCRIPTION
+
+Chapter 14. Python Packaging http://www.aosabook.org/en/packaging.html - L<link|http://twitter.com/zagru/statuses/75814067096403968>
+
+
+
+=end DESCRIPTION
+
+Chapter 14. Python Packaging http://www.aosabook.org/en/packaging.html - L<link|http://twitter.com/zagru/statuses/75814067096403968>
+
+
+
+=begin comment :src
+{
+  "rawLink": "http://twitter.com/zagru/statuses/75814067096403968",
+  "likes": [
+    {
+      "from": {
+        "name": "Николай",
+        "type": "user",
+        "id": "mishin"
+      },
+      "date": "2011-06-01T07:25:39Z"
+    }
+  ],
+  "body": "Chapter 14. Python Packaging <a rel=\"nofollow\" href=\"http://www.aosabook.org/en/packaging.html\" title=\"http://www.aosabook.org/en/packaging.html\">http://www.aosabook.org/en...</a>",
+  "id": "e/df084ac8167a95b2d4140f74bd1a82b0",
+  "date": "2011-06-01T06:40:56Z",
+  "rawBody": "Chapter 14. Python Packaging http://www.aosabook.org/en/packaging.html",
+  "url": "http://friendfeed.com/zag/df084ac8/chapter-14-python-packaging",
+  "from": {
+    "name": "углы «Исимуры»",
+    "type": "user",
+    "id": "zag"
+  },
+  "via": {
+    "name": "Twitter",
+    "url": "http://twitter.com/zagru/statuses/75814067096403968"
+  }
+}
+=end comment
+
+=end pod

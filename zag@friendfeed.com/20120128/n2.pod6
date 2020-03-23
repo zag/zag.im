@@ -1,0 +1,68 @@
+=begin pod :pubdate('2012-01-28T19:33:45Z') :type<note> :tags<perl6>
+=NAME Rakudo Star 2012.01 released #perl6.
+
+=begin DESCRIPTION
+
+Rakudo Star 2012.01 released #perl6. - L<link|http://rakudo.org/2012/01/28/rakudo-star-2012-01-released/>
+
+=item "POD6 support, including the $=POD variable to make the POD available at runtime and a –doc option to get at the POD"
+=item "some existing code will need change"
+
+
+=end DESCRIPTION
+
+Rakudo Star 2012.01 released #perl6. - L<link|http://rakudo.org/2012/01/28/rakudo-star-2012-01-released/>
+
+=item "POD6 support, including the $=POD variable to make the POD available at runtime and a –doc option to get at the POD"
+=item "some existing code will need change"
+
+
+=begin comment :src
+{
+  "comments": [
+    {
+      "id": "e/60af6bc33b4f4b599bbfb0ec3fa585fa/c/756fbe84add146a2b509e69d2fcfdd7c",
+      "date": "2012-01-28T19:33:45Z",
+      "from": {
+        "id": "zag",
+        "type": "user",
+        "name": "углы «Исимуры»"
+      },
+      "rawBody": "\"POD6 support, including the $=POD variable to make the POD available at runtime and a –doc option to get at the POD\"",
+      "via": {
+        "url": "http://friendfeed.com/share/bookmarklet",
+        "name": "Bookmarklet"
+      },
+      "body": "&quot;POD6 support, including the $=POD variable to make the POD available at runtime and a –doc option to get at the POD&quot;"
+    },
+    {
+      "rawBody": "\"some existing code will need change\"",
+      "id": "e/60af6bc33b4f4b599bbfb0ec3fa585fa/c/f214db4ba8d744feacc704a030b34753",
+      "date": "2012-01-28T19:34:22Z",
+      "from": {
+        "name": "углы «Исимуры»",
+        "type": "user",
+        "id": "zag"
+      },
+      "body": "&quot;some existing code will need change&quot;"
+    }
+  ],
+  "from": {
+    "name": "углы «Исимуры»",
+    "type": "user",
+    "id": "zag"
+  },
+  "via": {
+    "url": "http://friendfeed.com/share/bookmarklet",
+    "name": "Bookmarklet"
+  },
+  "body": "Rakudo Star 2012.01 released <a href=\"http://friendfeed.com/search?q=%23perl6\">#perl6</a>. - <a rel=\"nofollow\" href=\"http://rakudo.org/2012/01/28/rakudo-star-2012-01-released/\" title=\"http://rakudo.org/2012/01/28/rakudo-star-2012-01-released/\">http://rakudo.org/2012...</a>",
+  "rawLink": "http://rakudo.org/2012/01/28/rakudo-star-2012-01-released/",
+  "rawBody": "Rakudo Star 2012.01 released #perl6.",
+  "id": "e/60af6bc33b4f4b599bbfb0ec3fa585fa",
+  "date": "2012-01-28T19:33:45Z",
+  "url": "http://friendfeed.com/zag/60af6bc3/rakudo-star-2012-01-released-perl6"
+}
+=end comment
+
+=end pod

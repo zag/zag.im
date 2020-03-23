@@ -1,0 +1,67 @@
+=begin pod :pubdate('2010-08-09T06:47:23Z') :type<note> 
+=NAME TorrentReactor Buys and Renames Russian Town. Есть теперь такой город.
+
+=begin DESCRIPTION
+
+TorrentReactor Buys and Renames Russian Town. Есть теперь такой город. - L<link|http://torrentfreak.com/torrentreactor-buys-and-renames-russian-town-100807/>
+=for Image :width(268) :link('http://torrentfreak.com/torrentreactor-buys-and-renames-russian-town-100807/') :height(175) :preview
+media/aecc5ef5db059f1394fe5ba1682e2cbc95c89179.jpg
+
+=item Also torrentreactor.net company decided to pay for broadband Internet connection in the settlement which will result in about 900,000 rubles ($30,000) because there are no networks nearby
+
+
+=end DESCRIPTION
+
+TorrentReactor Buys and Renames Russian Town. Есть теперь такой город. - L<link|http://torrentfreak.com/torrentreactor-buys-and-renames-russian-town-100807/>
+=for Image :width(268) :link('http://torrentfreak.com/torrentreactor-buys-and-renames-russian-town-100807/') :height(175) :preview
+media/aecc5ef5db059f1394fe5ba1682e2cbc95c89179.jpg
+
+=item Also torrentreactor.net company decided to pay for broadband Internet connection in the settlement which will result in about 900,000 rubles ($30,000) because there are no networks nearby
+
+
+=begin comment :src
+{
+  "comments": [
+    {
+      "body": "Also torrentreactor.net company decided to pay for broadband Internet connection in the settlement which will result in about 900,000 rubles ($30,000) because there are no networks nearby",
+      "via": {
+        "url": "http://friendfeed.com/share/bookmarklet",
+        "name": "Bookmarklet"
+      },
+      "id": "e/a6a53b46d78b4346af5b8f22fe383c09/c/1ce67df7bf7945fa8192eef2cc209d70",
+      "date": "2010-08-09T06:47:23Z",
+      "rawBody": "Also torrentreactor.net company decided to pay for broadband Internet connection in the settlement which will result in about 900,000 rubles ($30,000) because there are no networks nearby",
+      "from": {
+        "type": "user",
+        "id": "zag",
+        "name": "углы «Исимуры»"
+      }
+    }
+  ],
+  "from": {
+    "id": "zag",
+    "type": "user",
+    "name": "углы «Исимуры»"
+  },
+  "via": {
+    "name": "Bookmarklet",
+    "url": "http://friendfeed.com/share/bookmarklet"
+  },
+  "rawLink": "http://torrentfreak.com/torrentreactor-buys-and-renames-russian-town-100807/",
+  "body": "TorrentReactor Buys and Renames Russian Town. Есть теперь такой город. - <a rel=\"nofollow\" href=\"http://torrentfreak.com/torrentreactor-buys-and-renames-russian-town-100807/\" title=\"http://torrentfreak.com/torrentreactor-buys-and-renames-russian-town-100807/\">http://torrentfreak.com/torrent...</a>",
+  "thumbnails": [
+    {
+      "height": 175,
+      "link": "http://torrentfreak.com/torrentreactor-buys-and-renames-russian-town-100807/",
+      "url": "http://m.friendfeed-media.com/aecc5ef5db059f1394fe5ba1682e2cbc95c89179",
+      "width": 268
+    }
+  ],
+  "id": "e/a6a53b46d78b4346af5b8f22fe383c09",
+  "date": "2010-08-09T06:47:23Z",
+  "rawBody": "TorrentReactor Buys and Renames Russian Town. Есть теперь такой город.",
+  "url": "http://friendfeed.com/zag/a6a53b46/torrentreactor-buys-and-renames-russian-town"
+}
+=end comment
+
+=end pod

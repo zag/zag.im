@@ -1,0 +1,87 @@
+=begin pod :pubdate('2010-07-13T16:45:05Z') :type<note> 
+=NAME Eizo X-Ray Pin-Up Calendar
+
+=begin DESCRIPTION
+
+Eizo X-Ray Pin-Up Calendar - L<link|http://www.thecoolist.com/eizo-x-ray-pin-up-calendar/>
+=for Image :width(249) :link('http://www.thecoolist.com/eizo-x-ray-pin-up-calendar/') :height(175) :preview
+media/f6858ed5811c22d44b3b2d451290bb44c752c86a.jpg
+=for Image :width(248) :link('http://www.thecoolist.com/eizo-x-ray-pin-up-calendar/') :height(175) :preview
+media/2eead9186710b5290fd7ee0d232f632d67ff8179.jpg
+=for Image :width(248) :link('http://www.thecoolist.com/eizo-x-ray-pin-up-calendar/') :height(175) :preview
+media/295f81a20d8785e5cb32600a07906d66db23d407.jpg
+
+=item "I work in a medical office and I would really appreciate a higher resolution on these images to set as backgrounds :D"
+
+
+=end DESCRIPTION
+
+Eizo X-Ray Pin-Up Calendar - L<link|http://www.thecoolist.com/eizo-x-ray-pin-up-calendar/>
+=for Image :width(249) :link('http://www.thecoolist.com/eizo-x-ray-pin-up-calendar/') :height(175) :preview
+media/f6858ed5811c22d44b3b2d451290bb44c752c86a.jpg
+=for Image :width(248) :link('http://www.thecoolist.com/eizo-x-ray-pin-up-calendar/') :height(175) :preview
+media/2eead9186710b5290fd7ee0d232f632d67ff8179.jpg
+=for Image :width(248) :link('http://www.thecoolist.com/eizo-x-ray-pin-up-calendar/') :height(175) :preview
+media/295f81a20d8785e5cb32600a07906d66db23d407.jpg
+
+=item "I work in a medical office and I would really appreciate a higher resolution on these images to set as backgrounds :D"
+
+
+=begin comment :src
+{
+  "comments": [
+    {
+      "body": "&quot;I work in a medical office and I would really appreciate a higher resolution on these images to set as backgrounds :D&quot;",
+      "via": {
+        "name": "Bookmarklet",
+        "url": "http://friendfeed.com/share/bookmarklet"
+      },
+      "rawBody": "\"I work in a medical office and I would really appreciate a higher resolution on these images to set as backgrounds :D\"",
+      "id": "e/61704b6b57594b8fa9346b0991a1510e/c/acbeec09456144309df1d00587bd7612",
+      "date": "2010-07-13T16:45:05Z",
+      "from": {
+        "name": "углы «Исимуры»",
+        "type": "user",
+        "id": "zag"
+      }
+    }
+  ],
+  "from": {
+    "name": "углы «Исимуры»",
+    "type": "user",
+    "id": "zag"
+  },
+  "via": {
+    "name": "Bookmarklet",
+    "url": "http://friendfeed.com/share/bookmarklet"
+  },
+  "rawLink": "http://www.thecoolist.com/eizo-x-ray-pin-up-calendar/",
+  "body": "Eizo X-Ray Pin-Up Calendar - <a rel=\"nofollow\" href=\"http://www.thecoolist.com/eizo-x-ray-pin-up-calendar/\" title=\"http://www.thecoolist.com/eizo-x-ray-pin-up-calendar/\">http://www.thecoolist.com/eizo-x-...</a>",
+  "rawBody": "Eizo X-Ray Pin-Up Calendar",
+  "id": "e/61704b6b57594b8fa9346b0991a1510e",
+  "date": "2010-07-13T16:45:05Z",
+  "url": "http://friendfeed.com/zag/61704b6b/eizo-x-ray-pin-up-calendar",
+  "thumbnails": [
+    {
+      "width": 249,
+      "url": "http://m.friendfeed-media.com/f6858ed5811c22d44b3b2d451290bb44c752c86a",
+      "link": "http://www.thecoolist.com/eizo-x-ray-pin-up-calendar/",
+      "height": 175
+    },
+    {
+      "url": "http://m.friendfeed-media.com/2eead9186710b5290fd7ee0d232f632d67ff8179",
+      "width": 248,
+      "link": "http://www.thecoolist.com/eizo-x-ray-pin-up-calendar/",
+      "height": 175
+    },
+    {
+      "width": 248,
+      "url": "http://m.friendfeed-media.com/295f81a20d8785e5cb32600a07906d66db23d407",
+      "height": 175,
+      "link": "http://www.thecoolist.com/eizo-x-ray-pin-up-calendar/"
+    }
+  ]
+}
+=end comment
+
+=end pod

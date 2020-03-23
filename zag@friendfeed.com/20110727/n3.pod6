@@ -1,0 +1,36 @@
+=begin pod :pubdate('2011-07-27T08:39:03Z') :type<note> :tags<perl6>
+=NAME Perl6 (aka rakudo) is available on Debian. #perl6
+
+=begin DESCRIPTION
+
+Perl6 (aka rakudo) is available on Debian. #perl6 - L<link|http://www.debian-news.net/2011/07/25/perl6-aka-rakudo-is-available-on-debian/>
+
+
+
+=end DESCRIPTION
+
+Perl6 (aka rakudo) is available on Debian. #perl6 - L<link|http://www.debian-news.net/2011/07/25/perl6-aka-rakudo-is-available-on-debian/>
+
+
+
+=begin comment :src
+{
+  "from": {
+    "id": "zag",
+    "type": "user",
+    "name": "углы «Исимуры»"
+  },
+  "via": {
+    "url": "http://friendfeed.com/share/bookmarklet",
+    "name": "Bookmarklet"
+  },
+  "body": "Perl6 (aka rakudo) is available on Debian. <a href=\"http://friendfeed.com/search?q=%23perl6\">#perl6</a> - <a rel=\"nofollow\" href=\"http://www.debian-news.net/2011/07/25/perl6-aka-rakudo-is-available-on-debian/\" title=\"http://www.debian-news.net/2011/07/25/perl6-aka-rakudo-is-available-on-debian/\">http://www.debian-news.net/2011...</a>",
+  "rawLink": "http://www.debian-news.net/2011/07/25/perl6-aka-rakudo-is-available-on-debian/",
+  "rawBody": "Perl6 (aka rakudo) is available on Debian. #perl6",
+  "id": "e/312acb7989a54e71a9886a9f700f9b78",
+  "date": "2011-07-27T08:39:03Z",
+  "url": "http://friendfeed.com/zag/312acb79/perl6-aka-rakudo-is-available-on-debian"
+}
+=end comment
+
+=end pod

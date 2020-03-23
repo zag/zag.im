@@ -1,0 +1,58 @@
+=begin pod :pubdate('2010-12-11T17:34:08Z') :type<note> 
+=NAME RED VS DARK
+
+=begin DESCRIPTION
+
+RED VS DARK
+=for Image :width(233) :link('http://m.friendfeed-media.com/88cf33f54f9b730f628f3e3d23d5768430a419d2') :height(175) :preview
+media/93fdee00bc0c91b5ea902a2eb4191d5cf8eb2008.jpg
+=for Image :width(233) :link('http://m.friendfeed-media.com/969a690797743df3ed617645b462d8debfbcc6f7') :height(175) :preview
+media/a5a7f741c6d04bade55320716888aca779296581.jpg
+
+
+
+=end DESCRIPTION
+
+RED VS DARK
+=for Image :width(233) :link('http://m.friendfeed-media.com/88cf33f54f9b730f628f3e3d23d5768430a419d2') :height(175) :preview
+media/93fdee00bc0c91b5ea902a2eb4191d5cf8eb2008.jpg
+=for Image :width(233) :link('http://m.friendfeed-media.com/969a690797743df3ed617645b462d8debfbcc6f7') :height(175) :preview
+media/a5a7f741c6d04bade55320716888aca779296581.jpg
+
+
+
+=begin comment :src
+{
+  "from": {
+    "id": "zag",
+    "type": "user",
+    "name": "углы «Исимуры»"
+  },
+  "via": {
+    "url": "http://friendfeed.com/share/mail",
+    "name": "email"
+  },
+  "rawBody": "RED VS DARK",
+  "id": "e/0d3916b108e74fdea32f129735d09131",
+  "date": "2010-12-11T17:34:08Z",
+  "url": "http://friendfeed.com/zag/0d3916b1/red-vs-dark",
+  "thumbnails": [
+    {
+      "url": "http://m.friendfeed-media.com/93fdee00bc0c91b5ea902a2eb4191d5cf8eb2008",
+      "width": 233,
+      "height": 175,
+      "link": "http://m.friendfeed-media.com/88cf33f54f9b730f628f3e3d23d5768430a419d2"
+    },
+    {
+      "width": 233,
+      "url": "http://m.friendfeed-media.com/a5a7f741c6d04bade55320716888aca779296581",
+      "height": 175,
+      "link": "http://m.friendfeed-media.com/969a690797743df3ed617645b462d8debfbcc6f7"
+    }
+  ],
+  "rawLink": "http://friendfeed.com/e/0d3916b1-08e7-4fde-a32f-129735d09131",
+  "body": "RED VS DARK"
+}
+=end comment
+
+=end pod

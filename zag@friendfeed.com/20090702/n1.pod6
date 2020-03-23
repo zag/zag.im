@@ -1,0 +1,36 @@
+=begin pod :pubdate('2009-07-02T14:59:49Z') :type<note> 
+=NAME f test "$cpuload" -gt "$CPULOADMAX"; then top -b -n 1 | sendxmpp -s "wake up! cpu load $cpuload at `hostname`" someone@jabber.org fi
+
+=begin DESCRIPTION
+
+f test "$cpuload" -gt "$CPULOADMAX"; then top -b -n 1 | sendxmpp -s "wake up! cpu load $cpuload at `hostname`" someone@jabber.org fi - L<link|http://twitter.com/zagru/statuses/2437964586>
+
+
+
+=end DESCRIPTION
+
+f test "$cpuload" -gt "$CPULOADMAX"; then top -b -n 1 | sendxmpp -s "wake up! cpu load $cpuload at `hostname`" someone@jabber.org fi - L<link|http://twitter.com/zagru/statuses/2437964586>
+
+
+
+=begin comment :src
+{
+  "rawLink": "http://twitter.com/zagru/statuses/2437964586",
+  "body": "f test &quot;$cpuload&quot; -gt &quot;$CPULOADMAX&quot;; then top -b -n 1 | sendxmpp -s &quot;wake up! cpu load $cpuload at `hostname`&quot; someone@jabber.org fi",
+  "id": "e/c166df219766e2b1490ec835af21ccf6",
+  "date": "2009-07-02T14:59:49Z",
+  "rawBody": "f test \"$cpuload\" -gt \"$CPULOADMAX\"; then top -b -n 1 | sendxmpp -s \"wake up! cpu load $cpuload at `hostname`\" someone@jabber.org fi",
+  "url": "http://friendfeed.com/zag/c166df21/f-test-cpuload-gt-cpuloadmax-then-top-b-n-1",
+  "via": {
+    "name": "Twitter",
+    "url": "http://twitter.com/zagru/statuses/2437964586"
+  },
+  "from": {
+    "type": "user",
+    "id": "zag",
+    "name": "углы «Исимуры»"
+  }
+}
+=end comment
+
+=end pod

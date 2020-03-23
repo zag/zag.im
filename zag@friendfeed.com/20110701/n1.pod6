@@ -1,0 +1,58 @@
+=begin pod :pubdate('2011-07-01T20:04:16Z') :type<note> :tags<lvee>
+=NAME в ближайшее время вечерняя программа продолжится музыкальным выступлением #lvee
+
+=begin DESCRIPTION
+
+в ближайшее время вечерняя программа продолжится музыкальным выступлением #lvee
+=for Image :width(292) :link('http://m.friendfeed-media.com/a956f7979460da7eae4374bff74a905f1d4a9ba2') :height(175) :preview
+media/d72f7308ec7e683e39ca1fb9760b2384d77d587a.jpg
+
+
+
+=end DESCRIPTION
+
+в ближайшее время вечерняя программа продолжится музыкальным выступлением #lvee
+=for Image :width(292) :link('http://m.friendfeed-media.com/a956f7979460da7eae4374bff74a905f1d4a9ba2') :height(175) :preview
+media/d72f7308ec7e683e39ca1fb9760b2384d77d587a.jpg
+
+
+
+=begin comment :src
+{
+  "via": {
+    "name": "email",
+    "url": "http://friendfeed.com/share/mail"
+  },
+  "from": {
+    "type": "user",
+    "id": "zag",
+    "name": "углы «Исимуры»"
+  },
+  "body": "в ближайшее время вечерняя программа продолжится музыкальным выступлением <a href=\"http://friendfeed.com/search?q=%23lvee\">#lvee</a>",
+  "likes": [
+    {
+      "from": {
+        "name": "Николай",
+        "type": "user",
+        "id": "mishin"
+      },
+      "date": "2011-07-02T03:37:21Z"
+    }
+  ],
+  "rawLink": "http://friendfeed.com/e/677da7be-3f9c-47f8-8428-00ee10c7852b",
+  "id": "e/677da7be3f9c47f8842800ee10c7852b",
+  "rawBody": "в ближайшее время вечерняя программа продолжится музыкальным выступлением #lvee",
+  "date": "2011-07-01T20:04:16Z",
+  "url": "http://friendfeed.com/zag/677da7be/lvee",
+  "thumbnails": [
+    {
+      "url": "http://m.friendfeed-media.com/d72f7308ec7e683e39ca1fb9760b2384d77d587a",
+      "width": 292,
+      "height": 175,
+      "link": "http://m.friendfeed-media.com/a956f7979460da7eae4374bff74a905f1d4a9ba2"
+    }
+  ]
+}
+=end comment
+
+=end pod

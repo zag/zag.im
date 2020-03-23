@@ -1,0 +1,44 @@
+=begin pod :pubdate('2009-07-22T10:03:24Z') :type<note> 
+=NAME Pepsi vs Coca
+
+=begin DESCRIPTION
+
+Pepsi vs Coca
+=for Image :width(76) :link('http://m.friendfeed-media.com/73bc445aea288600ece89dc8de4c909b65f1abe1') :height(175) :preview
+media/8e633094a9cf30a655d12cfe8be9d57a8bd18360.jpg
+
+
+
+=end DESCRIPTION
+
+Pepsi vs Coca
+=for Image :width(76) :link('http://m.friendfeed-media.com/73bc445aea288600ece89dc8de4c909b65f1abe1') :height(175) :preview
+media/8e633094a9cf30a655d12cfe8be9d57a8bd18360.jpg
+
+
+
+=begin comment :src
+{
+  "from": {
+    "name": "углы «Исимуры»",
+    "id": "zag",
+    "type": "user"
+  },
+  "date": "2009-07-22T10:03:24Z",
+  "id": "e/3695a39746154c6f987a3857d3543e30",
+  "url": "http://friendfeed.com/zag/3695a397/pepsi-vs-coca",
+  "rawBody": "Pepsi vs Coca",
+  "thumbnails": [
+    {
+      "link": "http://m.friendfeed-media.com/73bc445aea288600ece89dc8de4c909b65f1abe1",
+      "height": 175,
+      "width": 76,
+      "url": "http://m.friendfeed-media.com/8e633094a9cf30a655d12cfe8be9d57a8bd18360"
+    }
+  ],
+  "body": "Pepsi vs Coca",
+  "rawLink": "http://friendfeed.com/e/3695a397-4615-4c6f-987a-3857d3543e30"
+}
+=end comment
+
+=end pod

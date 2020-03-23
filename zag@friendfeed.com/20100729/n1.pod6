@@ -1,0 +1,67 @@
+=begin pod :pubdate('2010-07-29T08:10:38Z') :type<note> :tags<OSCON>
+=NAME Speaker Slides & Video: #OSCON 2010, The O'Reilly Open Source Convention - O'Reilly Conferences, July 19 - 23, 2010, Portland, OR
+
+=begin DESCRIPTION
+
+Speaker Slides & Video: #OSCON 2010, The O'Reilly Open Source Convention - O'Reilly Conferences, July 19 - 23, 2010, Portland, OR - L<link|http://www.oscon.com/oscon2010/public/schedule/proceedings#>
+=for Image :width(525) :link('http://www.oscon.com/oscon2010/public/schedule/proceedings#') :height(104) :preview
+media/b5070873f192c556b1b5c2db079519759c5bb15f.jpg
+
+=item Материалы конференции OSCON 2010
+
+
+=end DESCRIPTION
+
+Speaker Slides & Video: #OSCON 2010, The O'Reilly Open Source Convention - O'Reilly Conferences, July 19 - 23, 2010, Portland, OR - L<link|http://www.oscon.com/oscon2010/public/schedule/proceedings#>
+=for Image :width(525) :link('http://www.oscon.com/oscon2010/public/schedule/proceedings#') :height(104) :preview
+media/b5070873f192c556b1b5c2db079519759c5bb15f.jpg
+
+=item Материалы конференции OSCON 2010
+
+
+=begin comment :src
+{
+  "id": "e/bc6fe066c1b443efb5b88f2e482f29b0",
+  "rawBody": "Speaker Slides & Video: #OSCON 2010, The O'Reilly Open Source Convention - O'Reilly Conferences, July 19 - 23, 2010, Portland, OR",
+  "date": "2010-07-29T08:10:38Z",
+  "url": "http://friendfeed.com/zag/bc6fe066/speaker-slides-video-oscon-2010-o-reilly-open",
+  "thumbnails": [
+    {
+      "height": 104,
+      "link": "http://www.oscon.com/oscon2010/public/schedule/proceedings#",
+      "url": "http://m.friendfeed-media.com/b5070873f192c556b1b5c2db079519759c5bb15f",
+      "width": 525
+    }
+  ],
+  "rawLink": "http://www.oscon.com/oscon2010/public/schedule/proceedings#",
+  "body": "Speaker Slides &amp; Video: <a href=\"http://friendfeed.com/search?q=%23OSCON\">#OSCON</a> 2010, The O'Reilly Open Source Convention - O'Reilly Conferences, July 19 - 23, 2010, Portland, OR - <a rel=\"nofollow\" href=\"http://www.oscon.com/oscon2010/public/schedule/proceedings#\" title=\"http://www.oscon.com/oscon2010/public/schedule/proceedings#\">http://www.oscon.com/oscon20...</a>",
+  "from": {
+    "id": "zag",
+    "type": "user",
+    "name": "углы «Исимуры»"
+  },
+  "via": {
+    "url": "http://friendfeed.com/share/bookmarklet",
+    "name": "Bookmarklet"
+  },
+  "comments": [
+    {
+      "body": "Материалы конференции OSCON 2010",
+      "via": {
+        "name": "Bookmarklet",
+        "url": "http://friendfeed.com/share/bookmarklet"
+      },
+      "id": "e/bc6fe066c1b443efb5b88f2e482f29b0/c/d139f495b0534a9d97cc12daaa1f4c1f",
+      "rawBody": "Материалы конференции OSCON 2010",
+      "date": "2010-07-29T08:10:38Z",
+      "from": {
+        "name": "углы «Исимуры»",
+        "type": "user",
+        "id": "zag"
+      }
+    }
+  ]
+}
+=end comment
+
+=end pod

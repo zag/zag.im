@@ -1,0 +1,36 @@
+=begin pod :pubdate('2009-06-03T09:50:57Z') :type<note> 
+=NAME @dkovalkov мобильная камера в чб реально лучше смотрится http://tinyurl.com/o6r8te vs http://tinyurl.com/pudm6c
+
+=begin DESCRIPTION
+
+@dkovalkov мобильная камера в чб реально лучше смотрится http://tinyurl.com/o6r8te vs http://tinyurl.com/pudm6c - L<link|http://twitter.com/zagru/statuses/2014836492>
+
+
+
+=end DESCRIPTION
+
+@dkovalkov мобильная камера в чб реально лучше смотрится http://tinyurl.com/o6r8te vs http://tinyurl.com/pudm6c - L<link|http://twitter.com/zagru/statuses/2014836492>
+
+
+
+=begin comment :src
+{
+  "from": {
+    "type": "user",
+    "id": "zag",
+    "name": "углы «Исимуры»"
+  },
+  "via": {
+    "name": "Twitter",
+    "url": "http://twitter.com/zagru/statuses/2014836492"
+  },
+  "id": "e/66d9836671fd4482c601557111e62ee7",
+  "rawBody": "@dkovalkov мобильная камера в чб реально лучше смотрится http://tinyurl.com/o6r8te vs http://tinyurl.com/pudm6c",
+  "date": "2009-06-03T09:50:57Z",
+  "url": "http://friendfeed.com/zag/66d98366/dkovalkov-vs",
+  "rawLink": "http://twitter.com/zagru/statuses/2014836492",
+  "body": "@<a rel=\"nofollow\" href=\"http://twitter.com/dkovalkov\">dkovalkov</a> мобильная камера в чб реально лучше смотрится <a rel=\"nofollow\" href=\"http://tinyurl.com/o6r8te\" title=\"http://zag.ru/metadb/f0cb3d7466abdd11914cb357fa0cbd7f/View/18102008136.jpg\">http://zag.ru/metadb...</a> vs <a rel=\"nofollow\" href=\"http://tinyurl.com/pudm6c\" title=\"http://zag.ru/metadb/22b5a57366abdd11914cb357fa0cbd7f/View/18102008132.jpg\">http://zag.ru/metadb...</a>"
+}
+=end comment
+
+=end pod

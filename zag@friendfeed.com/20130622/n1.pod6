@@ -1,0 +1,36 @@
+=begin pod :pubdate('2013-06-22T04:00:48Z') :type<note> 
+=NAME Happy Birthday FreeBSD! FreeBSD celebrated its 20th birthday today. On June 19, 1993, Jordan Hubbard, Rod Grimes, and David Greenman announced to the world the creation of their new fork of the BSD 4.3 operating system.
+
+=begin DESCRIPTION
+
+Happy Birthday FreeBSD! FreeBSD celebrated its 20th birthday today. On June 19, 1993, Jordan Hubbard, Rod Grimes, and David Greenman announced to the world the creation of their new fork of the BSD 4.3 operating system. - L<link|http://www.freebsd.org/news/1993/freebsd-coined.html>
+
+
+
+=end DESCRIPTION
+
+Happy Birthday FreeBSD! FreeBSD celebrated its 20th birthday today. On June 19, 1993, Jordan Hubbard, Rod Grimes, and David Greenman announced to the world the creation of their new fork of the BSD 4.3 operating system. - L<link|http://www.freebsd.org/news/1993/freebsd-coined.html>
+
+
+
+=begin comment :src
+{
+  "via": {
+    "url": "http://friendfeed.com/share/bookmarklet",
+    "name": "Bookmarklet"
+  },
+  "from": {
+    "name": "углы «Исимуры»",
+    "type": "user",
+    "id": "zag"
+  },
+  "body": "Happy Birthday FreeBSD! FreeBSD celebrated its 20th birthday today. On June 19, 1993, Jordan Hubbard, Rod Grimes, and David Greenman announced to the world the creation of their new fork of the BSD 4.3 operating system. - <a rel=\"nofollow\" href=\"http://www.freebsd.org/news/1993/freebsd-coined.html\" title=\"http://www.freebsd.org/news/1993/freebsd-coined.html\">http://www.freebsd.org/news...</a>",
+  "rawLink": "http://www.freebsd.org/news/1993/freebsd-coined.html",
+  "date": "2013-06-22T04:00:48Z",
+  "id": "e/4106c315fa9f4f8bbc65e394bff2c146",
+  "url": "http://friendfeed.com/zag/4106c315/happy-birthday-freebsd-celebrated-its-20th",
+  "rawBody": "Happy Birthday FreeBSD! FreeBSD celebrated its 20th birthday today. On June 19, 1993, Jordan Hubbard, Rod Grimes, and David Greenman announced to the world the creation of their new fork of the BSD 4.3 operating system."
+}
+=end comment
+
+=end pod

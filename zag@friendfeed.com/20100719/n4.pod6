@@ -1,0 +1,91 @@
+=begin pod :pubdate('2010-07-19T07:12:29Z') :type<note> :tags<friendfeed>
+=NAME Гейт для публикации в #friendfeed с помощью email (share@friendfeed.com)  совсем испортился. Сегодня пришли уведомления о невозможности доставки писем в течение 2 дней.
+
+=begin DESCRIPTION
+
+Гейт для публикации в #friendfeed с помощью email (share@friendfeed.com)  совсем испортился. Сегодня пришли уведомления о невозможности доставки писем в течение 2 дней.
+
+=item есть ещё старый гейт, nick+remotekey@mail2ff.com — я им пользуюсь.
+=item @kkapp Спасибо за подсказку !
+=item да. а я думал, что это только у меня что-то сломалось
+=item не работает -- факт.
+
+
+=end DESCRIPTION
+
+Гейт для публикации в #friendfeed с помощью email (share@friendfeed.com)  совсем испортился. Сегодня пришли уведомления о невозможности доставки писем в течение 2 дней.
+
+=item есть ещё старый гейт, nick+remotekey@mail2ff.com — я им пользуюсь.
+=item @kkapp Спасибо за подсказку !
+=item да. а я думал, что это только у меня что-то сломалось
+=item не работает -- факт.
+
+
+=begin comment :src
+{
+  "comments": [
+    {
+      "date": "2010-07-19T08:29:11Z",
+      "rawBody": "есть ещё старый гейт, nick+remotekey@mail2ff.com — я им пользуюсь.",
+      "id": "e/7e0dfec2ae9d480d9b2b41498d075323/c/49247c56bf834e87861bbc3aba3ceec6",
+      "from": {
+        "id": "kkapp",
+        "type": "user",
+        "name": "alex@kapranoff.ru"
+      },
+      "body": "есть ещё старый гейт, nick+remotekey@mail2ff.com — я им пользуюсь."
+    },
+    {
+      "date": "2010-07-19T08:32:39Z",
+      "rawBody": "@kkapp Спасибо за подсказку !",
+      "id": "e/7e0dfec2ae9d480d9b2b41498d075323/c/2bb33dea180942e29cc86c8cefcf93a3",
+      "from": {
+        "id": "zag",
+        "type": "user",
+        "name": "углы «Исимуры»"
+      },
+      "body": "@kkapp Спасибо за подсказку !"
+    },
+    {
+      "via": {
+        "name": "fftogo",
+        "url": "http://www.fftogo.com/"
+      },
+      "rawBody": "да. а я думал, что это только у меня что-то сломалось",
+      "id": "e/7e0dfec2ae9d480d9b2b41498d075323/c/35c9588de2a044a288e894b3b57deb32",
+      "date": "2010-07-19T08:34:27Z",
+      "from": {
+        "id": "4shir",
+        "type": "user",
+        "name": "4sh.ir"
+      },
+      "body": "да. а я думал, что это только у меня что-то сломалось"
+    },
+    {
+      "body": "не работает -- факт.",
+      "from": {
+        "id": "iviotor",
+        "type": "user",
+        "private": true,
+        "name": "IvIotor"
+      },
+      "rawBody": "не работает -- факт.",
+      "id": "e/7e0dfec2ae9d480d9b2b41498d075323/c/69993ed668d54bd28cde7620b59318d3",
+      "date": "2010-07-19T08:42:48Z"
+    }
+  ],
+  "from": {
+    "type": "user",
+    "id": "zag",
+    "name": "углы «Исимуры»"
+  },
+  "body": "Гейт для публикации в <a href=\"http://friendfeed.com/search?q=%23friendfeed\">#friendfeed</a> с помощью email (share@friendfeed.com)  совсем испортился. Сегодня пришли уведомления о невозможности доставки писем в течение 2 дней.",
+  "rawLink": "http://friendfeed.com/e/7e0dfec2-ae9d-480d-9b2b-41498d075323",
+  "date": "2010-07-19T07:12:29Z",
+  "id": "e/7e0dfec2ae9d480d9b2b41498d075323",
+  "rawBody": "Гейт для публикации в #friendfeed с помощью email (share@friendfeed.com)  совсем испортился. Сегодня пришли уведомления о невозможности доставки писем в течение 2 дней.",
+  "url": "http://friendfeed.com/zag/7e0dfec2/friendfeed-email-share-2"
+}
+=end comment
+
+=end pod

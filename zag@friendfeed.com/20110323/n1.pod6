@@ -1,0 +1,48 @@
+=begin pod :pubdate('2011-03-23T11:34:32Z') :type<note> 
+=NAME Убегающая пушнина
+
+=begin DESCRIPTION
+
+Убегающая пушнина
+
+
+
+=end DESCRIPTION
+
+Убегающая пушнина
+
+
+
+=begin comment :src
+{
+  "from": {
+    "type": "user",
+    "id": "zag",
+    "name": "углы «Исимуры»"
+  },
+  "likes": [
+    {
+      "date": "2011-05-25T14:38:51Z",
+      "from": {
+        "id": "mishin",
+        "type": "user",
+        "name": "Николай"
+      }
+    }
+  ],
+  "rawLink": "http://friendfeed.com/e/8edd8e5b-a0cf-4d2b-81f1-85f0b7bc680d",
+  "body": "Убегающая пушнина",
+  "date": "2011-03-23T11:34:32Z",
+  "id": "e/8edd8e5ba0cf4d2b81f185f0b7bc680d",
+  "url": "http://friendfeed.com/zag/8edd8e5b",
+  "rawBody": "Убегающая пушнина",
+  "thumbnails": [
+    {
+      "link": "http://friendfeed.com/e/8edd8e5b-a0cf-4d2b-81f1-85f0b7bc680d",
+      "url": "http://d.yimg.com/gg/u/30772087a55ea502e34bbd478ad31cd0c18e0ee5.gifa"
+    }
+  ]
+}
+=end comment
+
+=end pod

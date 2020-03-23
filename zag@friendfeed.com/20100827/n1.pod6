@@ -1,0 +1,63 @@
+=begin pod :pubdate('2010-08-27T10:06:05Z') :type<note> 
+=NAME Donald Rumsfeld Is Magic !
+
+=begin DESCRIPTION
+
+Donald Rumsfeld Is Magic !
+
+
+
+=end DESCRIPTION
+
+Donald Rumsfeld Is Magic !
+
+
+
+=begin comment :src
+{
+  "from": {
+    "name": "углы «Исимуры»",
+    "id": "zag",
+    "type": "user"
+  },
+  "rawLink": "http://friendfeed.com/e/eb6cf16d-52f0-4395-919f-533dcffd6244",
+  "likes": [
+    {
+      "date": "2010-09-02T11:30:22Z",
+      "from": {
+        "id": "jemm",
+        "type": "user",
+        "name": "Jemm"
+      }
+    },
+    {
+      "from": {
+        "name": "IvIotor",
+        "type": "user",
+        "id": "iviotor",
+        "private": true
+      },
+      "date": "2010-08-27T10:17:23Z"
+    }
+  ],
+  "body": "Donald Rumsfeld Is Magic !",
+  "thumbnails": [
+    {
+      "url": "http://s0.wp.com/wp-content/themes/vip/cheezcommon2/images/ajax-loader.gif",
+      "link": "http://friendfeed.com/e/eb6cf16d-52f0-4395-919f-533dcffd6244"
+    },
+    {
+      "link": "http://friendfeed.com/e/eb6cf16d-52f0-4395-919f-533dcffd6244",
+      "height": 131,
+      "width": 149,
+      "url": "http://punditkitchen.files.wordpress.com/2010/08/292l57b.gif"
+    }
+  ],
+  "id": "e/eb6cf16d52f04395919f533dcffd6244",
+  "date": "2010-08-27T10:06:05Z",
+  "rawBody": "Donald Rumsfeld Is Magic !",
+  "url": "http://friendfeed.com/zag/eb6cf16d/donald-rumsfeld-is-magic"
+}
+=end comment
+
+=end pod

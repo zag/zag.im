@@ -1,0 +1,58 @@
+=begin pod :pubdate('2011-02-25T06:16:36Z') :type<note> 
+=NAME Infographic: How Netflix is Destroying Blockbuster | /Film
+
+=begin DESCRIPTION
+
+Infographic: How Netflix is Destroying Blockbuster | /Film - L<link|http://www.slashfilm.com/infographic-netflix-destroyed-blockbuster/>
+=for Image :width(20) :link('http://www.slashfilm.com/infographic-netflix-destroyed-blockbuster/') :height(175) :preview
+media/41df95d06cabdfa2ed1f827ec64219744a91e9a3.jpg
+=for Image :width(361) :link('http://www.slashfilm.com/infographic-netflix-destroyed-blockbuster/') :height(175) :preview
+media/43f595239611ca4e45d8484c938589079ed7f2a1.jpg
+
+
+
+=end DESCRIPTION
+
+Infographic: How Netflix is Destroying Blockbuster | /Film - L<link|http://www.slashfilm.com/infographic-netflix-destroyed-blockbuster/>
+=for Image :width(20) :link('http://www.slashfilm.com/infographic-netflix-destroyed-blockbuster/') :height(175) :preview
+media/41df95d06cabdfa2ed1f827ec64219744a91e9a3.jpg
+=for Image :width(361) :link('http://www.slashfilm.com/infographic-netflix-destroyed-blockbuster/') :height(175) :preview
+media/43f595239611ca4e45d8484c938589079ed7f2a1.jpg
+
+
+
+=begin comment :src
+{
+  "date": "2011-02-25T06:16:36Z",
+  "id": "e/6e5cbce7d6504f10866060f7c8fe0578",
+  "rawBody": "Infographic: How Netflix is Destroying Blockbuster | /Film",
+  "url": "http://friendfeed.com/zag/6e5cbce7/infographic-how-netflix-is-destroying",
+  "thumbnails": [
+    {
+      "height": 175,
+      "link": "http://www.slashfilm.com/infographic-netflix-destroyed-blockbuster/",
+      "url": "http://m.friendfeed-media.com/41df95d06cabdfa2ed1f827ec64219744a91e9a3",
+      "width": 20
+    },
+    {
+      "link": "http://www.slashfilm.com/infographic-netflix-destroyed-blockbuster/",
+      "height": 175,
+      "url": "http://m.friendfeed-media.com/43f595239611ca4e45d8484c938589079ed7f2a1",
+      "width": 361
+    }
+  ],
+  "rawLink": "http://www.slashfilm.com/infographic-netflix-destroyed-blockbuster/",
+  "body": "Infographic: How Netflix is Destroying Blockbuster | /Film - <a rel=\"nofollow\" href=\"http://www.slashfilm.com/infographic-netflix-destroyed-blockbuster/\" title=\"http://www.slashfilm.com/infographic-netflix-destroyed-blockbuster/\">http://www.slashfilm.com/infogra...</a>",
+  "via": {
+    "name": "Bookmarklet",
+    "url": "http://friendfeed.com/share/bookmarklet"
+  },
+  "from": {
+    "id": "zag",
+    "type": "user",
+    "name": "углы «Исимуры»"
+  }
+}
+=end comment
+
+=end pod

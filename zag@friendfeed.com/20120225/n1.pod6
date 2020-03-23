@@ -1,0 +1,46 @@
+=begin pod :pubdate('2012-02-25T19:57:07Z') :type<note> :tags<webdao>
+=NAME Отметил выход версии Apache удалением поддержки mod_perl и CGI.pm из #webdao
+
+=begin DESCRIPTION
+
+Отметил выход версии Apache удалением поддержки mod_perl и CGI.pm из #webdao - L<link|http://twitter.com/zagru/statuses/173496766346428417>
+
+
+
+=end DESCRIPTION
+
+Отметил выход версии Apache удалением поддержки mod_perl и CGI.pm из #webdao - L<link|http://twitter.com/zagru/statuses/173496766346428417>
+
+
+
+=begin comment :src
+{
+  "id": "e/39d56ba23854edc36b921ff75a20c4b2",
+  "rawBody": "Отметил выход версии Apache удалением поддержки mod_perl и CGI.pm из #webdao",
+  "date": "2012-02-25T19:57:07Z",
+  "url": "http://friendfeed.com/zag/39d56ba2/apache-mod_perl-cgi-pm-webdao",
+  "likes": [
+    {
+      "date": "2012-02-25T21:22:49Z",
+      "from": {
+        "type": "user",
+        "id": "kkapp",
+        "name": "alex@kapranoff.ru"
+      }
+    }
+  ],
+  "rawLink": "http://twitter.com/zagru/statuses/173496766346428417",
+  "body": "Отметил выход версии Apache удалением поддержки mod_perl и CGI.pm из <a rel=\"nofollow\" href=\"http://search.twitter.com/search?q=%23webdao\">#webdao</a>",
+  "via": {
+    "url": "http://twitter.com/zagru/statuses/173496766346428417",
+    "name": "Twitter"
+  },
+  "from": {
+    "name": "углы «Исимуры»",
+    "type": "user",
+    "id": "zag"
+  }
+}
+=end comment
+
+=end pod

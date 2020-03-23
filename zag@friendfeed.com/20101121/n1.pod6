@@ -1,0 +1,58 @@
+=begin pod :pubdate('2010-11-21T07:50:39Z') :type<note> 
+=NAME Kinect's Second Life: 5 Awesome Hacks, from Puppets to KinectBots
+
+=begin DESCRIPTION
+
+Kinect's Second Life: 5 Awesome Hacks, from Puppets to KinectBots - L<link|http://www.switched.com/2010/11/20/xbox-kinect-hacks-mods-puppets-to-robots/>
+=for Image :width(75) :link('http://www.switched.com/2010/11/20/xbox-kinect-hacks-mods-puppets-to-robots/') :height(75) :preview
+media/b68e60a9db3c2dd5a1dbec522c01cb1c990b21f6.jpg
+=for Image :width(332) :link('http://www.switched.com/2010/11/20/xbox-kinect-hacks-mods-puppets-to-robots/') :height(175) :preview
+media/86dddc5b83db596eabdf45e43562df1f4f92d45e.jpg
+
+
+
+=end DESCRIPTION
+
+Kinect's Second Life: 5 Awesome Hacks, from Puppets to KinectBots - L<link|http://www.switched.com/2010/11/20/xbox-kinect-hacks-mods-puppets-to-robots/>
+=for Image :width(75) :link('http://www.switched.com/2010/11/20/xbox-kinect-hacks-mods-puppets-to-robots/') :height(75) :preview
+media/b68e60a9db3c2dd5a1dbec522c01cb1c990b21f6.jpg
+=for Image :width(332) :link('http://www.switched.com/2010/11/20/xbox-kinect-hacks-mods-puppets-to-robots/') :height(175) :preview
+media/86dddc5b83db596eabdf45e43562df1f4f92d45e.jpg
+
+
+
+=begin comment :src
+{
+  "via": {
+    "name": "Bookmarklet",
+    "url": "http://friendfeed.com/share/bookmarklet"
+  },
+  "from": {
+    "name": "углы «Исимуры»",
+    "type": "user",
+    "id": "zag"
+  },
+  "rawLink": "http://www.switched.com/2010/11/20/xbox-kinect-hacks-mods-puppets-to-robots/",
+  "body": "Kinect's Second Life: 5 Awesome Hacks, from Puppets to KinectBots - <a rel=\"nofollow\" href=\"http://www.switched.com/2010/11/20/xbox-kinect-hacks-mods-puppets-to-robots/\" title=\"http://www.switched.com/2010/11/20/xbox-kinect-hacks-mods-puppets-to-robots/\">http://www.switched.com/2010...</a>",
+  "id": "e/76a2823a72d14df7abc8b28912ed371d",
+  "rawBody": "Kinect's Second Life: 5 Awesome Hacks, from Puppets to KinectBots",
+  "date": "2010-11-21T07:50:39Z",
+  "url": "http://friendfeed.com/zag/76a2823a/kinect-second-life-5-awesome-hacks-from-puppets",
+  "thumbnails": [
+    {
+      "width": 75,
+      "url": "http://m.friendfeed-media.com/b68e60a9db3c2dd5a1dbec522c01cb1c990b21f6",
+      "link": "http://www.switched.com/2010/11/20/xbox-kinect-hacks-mods-puppets-to-robots/",
+      "height": 75
+    },
+    {
+      "width": 332,
+      "url": "http://m.friendfeed-media.com/86dddc5b83db596eabdf45e43562df1f4f92d45e",
+      "height": 175,
+      "link": "http://www.switched.com/2010/11/20/xbox-kinect-hacks-mods-puppets-to-robots/"
+    }
+  ]
+}
+=end comment
+
+=end pod

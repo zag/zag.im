@@ -1,0 +1,55 @@
+=begin pod :pubdate('2011-01-24T11:09:55Z') :type<note> :tags<Perl>
+=NAME Bailamos « "here’s a minimal part of Dancer implemented in Perl 6"
+
+=begin DESCRIPTION
+
+Bailamos « "here’s a minimal part of Dancer implemented in Perl 6" - L<link|http://ttjjss.wordpress.com/2011/01/10/bailamos/>
+
+=item "minimal part of Dancer implemented in #Perl 6"
+
+
+=end DESCRIPTION
+
+Bailamos « "here’s a minimal part of Dancer implemented in Perl 6" - L<link|http://ttjjss.wordpress.com/2011/01/10/bailamos/>
+
+=item "minimal part of Dancer implemented in #Perl 6"
+
+
+=begin comment :src
+{
+  "comments": [
+    {
+      "date": "2011-01-24T11:09:55Z",
+      "id": "e/a9862f082de44df78e2ff6292fe50ddc/c/4922c9eeb6054f9197918f2af1b8a4c7",
+      "rawBody": "\"minimal part of Dancer implemented in #Perl 6\"",
+      "from": {
+        "name": "углы «Исимуры»",
+        "id": "zag",
+        "type": "user"
+      },
+      "via": {
+        "url": "http://friendfeed.com/share/bookmarklet",
+        "name": "Bookmarklet"
+      },
+      "body": "&quot;minimal part of Dancer implemented in <a href=\"http://friendfeed.com/search?q=%23Perl\">#Perl</a> 6&quot;"
+    }
+  ],
+  "via": {
+    "url": "http://friendfeed.com/share/bookmarklet",
+    "name": "Bookmarklet"
+  },
+  "from": {
+    "type": "user",
+    "id": "zag",
+    "name": "углы «Исимуры»"
+  },
+  "rawLink": "http://ttjjss.wordpress.com/2011/01/10/bailamos/",
+  "body": "Bailamos « &quot;here’s a minimal part of Dancer implemented in Perl 6&quot; - <a rel=\"nofollow\" href=\"http://ttjjss.wordpress.com/2011/01/10/bailamos/\" title=\"http://ttjjss.wordpress.com/2011/01/10/bailamos/\">http://ttjjss.wordpress.com/2011...</a>",
+  "id": "e/a9862f082de44df78e2ff6292fe50ddc",
+  "url": "http://friendfeed.com/zag/a9862f08/bailamos-heres-minimal-part-of-dancer",
+  "date": "2011-01-24T11:09:55Z",
+  "rawBody": "Bailamos « \"here’s a minimal part of Dancer implemented in Perl 6\""
+}
+=end comment
+
+=end pod

@@ -1,0 +1,48 @@
+=begin pod :pubdate('2010-04-01T09:31:38Z') :type<note> 
+=NAME File Transfers Coming to Gmail Chat
+
+=begin DESCRIPTION
+
+File Transfers Coming to Gmail Chat - L<link|http://mashable.com/2010/03/29/gchat-file-transfer/>
+=for Image :width(372) :link('http://mashable.com/2010/03/29/gchat-file-transfer/') :height(175) :preview
+media/807e137c2862938a8d507cd97a56fdc72fb34a20.jpg
+
+
+
+=end DESCRIPTION
+
+File Transfers Coming to Gmail Chat - L<link|http://mashable.com/2010/03/29/gchat-file-transfer/>
+=for Image :width(372) :link('http://mashable.com/2010/03/29/gchat-file-transfer/') :height(175) :preview
+media/807e137c2862938a8d507cd97a56fdc72fb34a20.jpg
+
+
+
+=begin comment :src
+{
+  "via": {
+    "name": "Bookmarklet",
+    "url": "http://friendfeed.com/share/bookmarklet"
+  },
+  "from": {
+    "name": "углы «Исимуры»",
+    "id": "zag",
+    "type": "user"
+  },
+  "rawLink": "http://mashable.com/2010/03/29/gchat-file-transfer/",
+  "body": "File Transfers Coming to Gmail Chat - <a rel=\"nofollow\" href=\"http://mashable.com/2010/03/29/gchat-file-transfer/\" title=\"http://mashable.com/2010/03/29/gchat-file-transfer/\">http://mashable.com/2010...</a>",
+  "id": "e/a7e681d8d48640bcb2ed0d1eeadfd4e1",
+  "date": "2010-04-01T09:31:38Z",
+  "rawBody": "File Transfers Coming to Gmail Chat",
+  "thumbnails": [
+    {
+      "width": 372,
+      "url": "http://m.friendfeed-media.com/807e137c2862938a8d507cd97a56fdc72fb34a20",
+      "link": "http://mashable.com/2010/03/29/gchat-file-transfer/",
+      "height": 175
+    }
+  ],
+  "url": "http://friendfeed.com/zag/a7e681d8/file-transfers-coming-to-gmail-chat"
+}
+=end comment
+
+=end pod

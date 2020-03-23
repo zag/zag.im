@@ -1,0 +1,93 @@
+=begin pod :pubdate('2011-09-19 10:00:00') :tags<perl6 book perl>
+=NAME Все о Perl 6: Классы и Объекты 
+
+=begin DESCRIPTION
+
+=for Image :align("left") :preview
+cover_draft.jpg
+
+Perl 6, как и много других языков, использует ключевое слово C<class> для определения нового класса. Следующий затем блок, как и любой другой блок, может содержать произвольный код, однако классы обычно содержат определения состояний и поведения.
+
+=end DESCRIPTION
+
+Следующая программа показывает как может выглядеть обработчик 
+зависимостей в Perl 6. Она демонстрирует использование пользовательских
+конструкторов, приватных и публичных атрибутов, методов, а также 
+некоторые аспекты сигнатур. Кода в примере приведено не много,
+тем не менее он интересен и местами полезен.    
+
+=begin code 
+
+    class Task { 
+        has      &!callback;
+        has Task @!dependencies;
+        has Bool $.done;
+
+        method new(&callback, Task *@dependencies)  {
+            return self.bless(*, :&callback, :@dependencies);
+        }
+
+        method add-dependency(Task $dependency) {
+            push @!dependencies, $dependency;
+        }
+
+        method perform() {
+            unless $!done {
+                .perform() for @!dependencies;
+                &!callback();
+                $!done = True;
+            }
+        }
+    }
+
+    my $eat =
+        Task.new({ say 'eating dinner. NOM!' },
+            Task.new({ say 'making dinner' },
+                Task.new({ say 'buying food' },
+                    Task.new({ say 'making some money' }),
+                    Task.new({ say 'going to the store' })
+                ),
+                Task.new({ say 'cleaning kitchen' })
+            )
+        );
+
+    $eat.perform();
+
+=end code 
+
+=head2 Приступая к изучению классов
+
+Perl 6, как и много других языков, использует ключевое слово C<class> для определения нового класса. Следующий затем блок, как и любой другой блок, может содержать произвольный код, однако классы обычно содержат определения состояний и поведения.
+
+Код примера содержит атрибуты (состояния), определяемые с помощью ключевого слова C<has>, и поведения, определяемые с помощью C<method>.
+
+Определение класса создает I<объект-тип>, который по умолчанию становиться
+доступным внутри текущего пакета ( аналогично переменным, определенным с 
+помощью C<our> ). Этот объект-тип является "пустым экземпляром" класса.
+С ними мы встречались в предыдущих главах. Например, каждый из типов C<Int>
+и C<Str> относятся к объектам-типам одного из встроенных в Perl 6 классов.
+Код примера в начале главы демонстрирует, как имя класса C<Task> может 
+использоваться в роли ссылки в дальнейшем, например для создания экземпляров класса вызывая метод C<new>.
+
+Объекты-типы не определены в том смысле, что они возвращают значение C<False>
+если вызвать их метод C<.defined>. Эту особенность можно использовать чтобы узнать является ли какой-либо объект объектом-типом или нет:
+
+=begin code 
+
+    my $obj = Int;
+    if $obj.defined {
+        say "Ordinary, defined object";
+    } else {
+        say "Type object";
+    }
+
+=end code
+
+L<Далее ...|http://writeat.com/zag/perl6-book/html-chunk/ch05.html>
+
+Эта статья входит в книгу "L<Все о Perl 6|http://zag.ru/perl6-book/>".
+
+=for Image :align("left") :preview
+cover_draft.jpg
+
+=end pod

@@ -1,0 +1,203 @@
+=begin pod :pubdate('2010-12-13T08:50:07Z') :type<note> 
+=NAME Впервые посмотрел TRON (1982). Некоторые вещи, подобные этому фильму, оказываются неожиданной классикой, о которой все знают.  Все, кроме меня. Слишком рано перестал смотреть телевизор ?
+
+=begin DESCRIPTION
+
+Впервые посмотрел TRON (1982). Некоторые вещи, подобные этому фильму, оказываются неожиданной классикой, о которой все знают.  Все, кроме меня. Слишком рано перестал смотреть телевизор ? - L<link|http://akas.imdb.com/title/tt0084827/>
+=for Image :width(76) :link('http://akas.imdb.com/title/tt0084827/') :height(139) :preview
+media/e8f2d6c19b8bec98eb226c98bdb4e48f635b3940.jpg
+
+=item Ну и как тебе?
+=item Отлично !
+=item У меня всё впереди.
+=item @pozorro этот фильм увидеть ?
+=item Ага.
+=item И еще : Tron2 : 23 December 2010 (Russia) http://www.imdb.com/title/tt1104001/
+=item про два понятно, а оригинал в этой стране вообще мало кто видел.
+=item «Russia	16 December 2010	 (IMAX version)»
+=item Я тоже посмотрел Трон совсем недавно (с месяц назад). Слегка поностальгировал
+=item Записываюсь в клуб недавно посмотревших
+=item а я еще не смотрела( но хочу.
+
+
+=end DESCRIPTION
+
+Впервые посмотрел TRON (1982). Некоторые вещи, подобные этому фильму, оказываются неожиданной классикой, о которой все знают.  Все, кроме меня. Слишком рано перестал смотреть телевизор ? - L<link|http://akas.imdb.com/title/tt0084827/>
+=for Image :width(76) :link('http://akas.imdb.com/title/tt0084827/') :height(139) :preview
+media/e8f2d6c19b8bec98eb226c98bdb4e48f635b3940.jpg
+
+=item Ну и как тебе?
+=item Отлично !
+=item У меня всё впереди.
+=item @pozorro этот фильм увидеть ?
+=item Ага.
+=item И еще : Tron2 : 23 December 2010 (Russia) http://www.imdb.com/title/tt1104001/
+=item про два понятно, а оригинал в этой стране вообще мало кто видел.
+=item «Russia	16 December 2010	 (IMAX version)»
+=item Я тоже посмотрел Трон совсем недавно (с месяц назад). Слегка поностальгировал
+=item Записываюсь в клуб недавно посмотревших
+=item а я еще не смотрела( но хочу.
+
+
+=begin comment :src
+{
+  "id": "e/6bf6e606f52046aa970e4644f53f593f",
+  "date": "2010-12-13T08:50:07Z",
+  "rawBody": "Впервые посмотрел TRON (1982). Некоторые вещи, подобные этому фильму, оказываются неожиданной классикой, о которой все знают.  Все, кроме меня. Слишком рано перестал смотреть телевизор ?",
+  "thumbnails": [
+    {
+      "width": 76,
+      "url": "http://m.friendfeed-media.com/e8f2d6c19b8bec98eb226c98bdb4e48f635b3940",
+      "link": "http://akas.imdb.com/title/tt0084827/",
+      "height": 139
+    }
+  ],
+  "url": "http://friendfeed.com/zag/6bf6e606/tron-1982",
+  "body": "Впервые посмотрел TRON (1982). Некоторые вещи, подобные этому фильму, оказываются неожиданной классикой, о которой все знают.  Все, кроме меня. Слишком рано перестал смотреть телевизор ? - <a rel=\"nofollow\" href=\"http://akas.imdb.com/title/tt0084827/\" title=\"http://akas.imdb.com/title/tt0084827/\">http://akas.imdb.com/title...</a>",
+  "likes": [
+    {
+      "date": "2010-12-13T09:49:00Z",
+      "from": {
+        "id": "prool",
+        "type": "user",
+        "name": "prool"
+      }
+    }
+  ],
+  "rawLink": "http://akas.imdb.com/title/tt0084827/",
+  "from": {
+    "name": "углы «Исимуры»",
+    "id": "zag",
+    "type": "user"
+  },
+  "via": {
+    "name": "Bookmarklet",
+    "url": "http://friendfeed.com/share/bookmarklet"
+  },
+  "comments": [
+    {
+      "rawBody": "Ну и как тебе?",
+      "id": "e/6bf6e606f52046aa970e4644f53f593f/c/aa666fb4ed78404986ca4809c94bf78f",
+      "date": "2010-12-13T09:00:29Z",
+      "from": {
+        "name": "alex@kapranoff.ru",
+        "type": "user",
+        "id": "kkapp"
+      },
+      "body": "Ну и как тебе?"
+    },
+    {
+      "body": "Отлично !",
+      "rawBody": "Отлично !",
+      "date": "2010-12-13T09:10:49Z",
+      "id": "e/6bf6e606f52046aa970e4644f53f593f/c/44d5455f6c6f44f49a60022b91717e58",
+      "from": {
+        "id": "zag",
+        "type": "user",
+        "name": "углы «Исимуры»"
+      }
+    },
+    {
+      "body": "У меня всё впереди.",
+      "from": {
+        "id": "pozorro",
+        "type": "user",
+        "name": "CES & nootropics"
+      },
+      "rawBody": "У меня всё впереди.",
+      "id": "e/6bf6e606f52046aa970e4644f53f593f/c/180cb378208242e1ae3e6cb86f28a5a4",
+      "date": "2010-12-13T09:12:24Z"
+    },
+    {
+      "rawBody": "@pozorro этот фильм увидеть ?",
+      "id": "e/6bf6e606f52046aa970e4644f53f593f/c/6cb0a644847342f293cdd14c36347fba",
+      "from": {
+        "id": "zag",
+        "type": "user",
+        "name": "углы «Исимуры»"
+      },
+      "date": "2010-12-13T09:13:38Z",
+      "body": "@pozorro этот фильм увидеть ?"
+    },
+    {
+      "rawBody": "Ага.",
+      "id": "e/6bf6e606f52046aa970e4644f53f593f/c/95f0435d8fb24ba28e7715473fa2d811",
+      "from": {
+        "type": "user",
+        "id": "pozorro",
+        "name": "CES & nootropics"
+      },
+      "date": "2010-12-13T09:15:59Z",
+      "body": "Ага."
+    },
+    {
+      "body": "И еще : Tron2 : 23 December 2010 (Russia) <a rel=\"nofollow\" href=\"http://www.imdb.com/title/tt1104001/\" title=\"http://www.imdb.com/title/tt1104001/\">http://www.imdb.com/title...</a>",
+      "rawBody": "И еще : Tron2 : 23 December 2010 (Russia) http://www.imdb.com/title/tt1104001/",
+      "id": "e/6bf6e606f52046aa970e4644f53f593f/c/53410c08c584444ea330ca63ebd9c07c",
+      "date": "2010-12-13T09:20:26Z",
+      "from": {
+        "id": "zag",
+        "type": "user",
+        "name": "углы «Исимуры»"
+      }
+    },
+    {
+      "body": "про два понятно, а оригинал в этой стране вообще мало кто видел.",
+      "id": "e/6bf6e606f52046aa970e4644f53f593f/c/ded61728e8034b0b9c8fccc9bf95ed4d",
+      "rawBody": "про два понятно, а оригинал в этой стране вообще мало кто видел.",
+      "from": {
+        "type": "user",
+        "id": "kkapp",
+        "name": "alex@kapranoff.ru"
+      },
+      "date": "2010-12-13T09:23:37Z"
+    },
+    {
+      "body": "«Russia\t16 December 2010\t (IMAX version)»",
+      "id": "e/6bf6e606f52046aa970e4644f53f593f/c/6cbbdf67a53b43ed800fd00a9a41c5c3",
+      "rawBody": "«Russia\t16 December 2010\t (IMAX version)»",
+      "date": "2010-12-13T09:24:13Z",
+      "from": {
+        "id": "beskov",
+        "type": "user",
+        "name": "муха шла"
+      }
+    },
+    {
+      "body": "Я тоже посмотрел Трон совсем недавно (с месяц назад). Слегка поностальгировал",
+      "rawBody": "Я тоже посмотрел Трон совсем недавно (с месяц назад). Слегка поностальгировал",
+      "id": "e/6bf6e606f52046aa970e4644f53f593f/c/90869b362da844e6b66285ad614f96de",
+      "from": {
+        "type": "user",
+        "id": "prool",
+        "name": "prool"
+      },
+      "date": "2010-12-13T09:49:23Z"
+    },
+    {
+      "rawBody": "Записываюсь в клуб недавно посмотревших",
+      "date": "2010-12-13T10:36:53Z",
+      "id": "e/6bf6e606f52046aa970e4644f53f593f/c/d2f84b9d85734af29587de0d7f22af3d",
+      "from": {
+        "name": "Велопрограммист Аркадий",
+        "id": "ilvar",
+        "type": "user"
+      },
+      "body": "Записываюсь в клуб недавно посмотревших"
+    },
+    {
+      "body": "а я еще не смотрела( но хочу.",
+      "rawBody": "а я еще не смотрела( но хочу.",
+      "date": "2010-12-13T10:50:09Z",
+      "id": "e/6bf6e606f52046aa970e4644f53f593f/c/148af8db02744795809271fad6c1faeb",
+      "from": {
+        "name": "написано иероглифами",
+        "id": "naty007",
+        "type": "user"
+      }
+    }
+  ]
+}
+=end comment
+
+=end pod

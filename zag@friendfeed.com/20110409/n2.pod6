@@ -1,0 +1,55 @@
+=begin pod :pubdate('2011-04-09T06:01:26Z') :type<note> 
+=NAME Node.js and the Javascript Age
+
+=begin DESCRIPTION
+
+Node.js and the Javascript Age - L<link|http://metamarketsgroup.com/blog/node-js-and-the-javascript-age/>
+
+=item "LAMP architectures are dead because few web applications want to ship full payloads of markup to the client in response to a small event"
+
+
+=end DESCRIPTION
+
+Node.js and the Javascript Age - L<link|http://metamarketsgroup.com/blog/node-js-and-the-javascript-age/>
+
+=item "LAMP architectures are dead because few web applications want to ship full payloads of markup to the client in response to a small event"
+
+
+=begin comment :src
+{
+  "comments": [
+    {
+      "body": "&quot;LAMP architectures are dead because few web applications want to ship full payloads of markup to the client in response to a small event&quot;",
+      "via": {
+        "name": "Bookmarklet",
+        "url": "http://friendfeed.com/share/bookmarklet"
+      },
+      "rawBody": "\"LAMP architectures are dead because few web applications want to ship full payloads of markup to the client in response to a small event\"",
+      "id": "e/3a96f3d95b9f4f8085abf175b795690b/c/ed7f20e6be074175942b81338f1eebdf",
+      "date": "2011-04-09T06:01:26Z",
+      "from": {
+        "name": "углы «Исимуры»",
+        "id": "zag",
+        "type": "user"
+      }
+    }
+  ],
+  "from": {
+    "name": "углы «Исимуры»",
+    "id": "zag",
+    "type": "user"
+  },
+  "via": {
+    "url": "http://friendfeed.com/share/bookmarklet",
+    "name": "Bookmarklet"
+  },
+  "body": "Node.js and the Javascript Age - <a rel=\"nofollow\" href=\"http://metamarketsgroup.com/blog/node-js-and-the-javascript-age/\" title=\"http://metamarketsgroup.com/blog/node-js-and-the-javascript-age/\">http://metamarketsgroup.com/blog...</a>",
+  "rawLink": "http://metamarketsgroup.com/blog/node-js-and-the-javascript-age/",
+  "id": "e/3a96f3d95b9f4f8085abf175b795690b",
+  "date": "2011-04-09T06:01:26Z",
+  "rawBody": "Node.js and the Javascript Age",
+  "url": "http://friendfeed.com/zag/3a96f3d9/node-js-and-javascript-age"
+}
+=end comment
+
+=end pod

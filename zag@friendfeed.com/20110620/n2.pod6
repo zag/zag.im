@@ -1,0 +1,55 @@
+=begin pod :pubdate('2011-06-20T04:23:43Z') :type<note> 
+=NAME Huge Bitcoin sell off due to a compromised account - rollback : Mt.Gox
+
+=begin DESCRIPTION
+
+Huge Bitcoin sell off due to a compromised account - rollback : Mt.Gox - L<link|https://support.mtgox.com/entries/20208066-huge-bitcoin-sell-off-due-to-a-compromised-account-rollback#>
+
+=item "We have been working with Google to ensure any gmail accounts associated with Mt.Gox user accounts have been locked and need to be reverified."
+
+
+=end DESCRIPTION
+
+Huge Bitcoin sell off due to a compromised account - rollback : Mt.Gox - L<link|https://support.mtgox.com/entries/20208066-huge-bitcoin-sell-off-due-to-a-compromised-account-rollback#>
+
+=item "We have been working with Google to ensure any gmail accounts associated with Mt.Gox user accounts have been locked and need to be reverified."
+
+
+=begin comment :src
+{
+  "rawBody": "Huge Bitcoin sell off due to a compromised account - rollback : Mt.Gox",
+  "id": "e/284b862007b844a28c132300eb44fbd1",
+  "date": "2011-06-20T04:23:43Z",
+  "url": "http://friendfeed.com/zag/284b8620/huge-bitcoin-sell-off-due-to-compromised",
+  "body": "Huge Bitcoin sell off due to a compromised account - rollback : Mt.Gox - <a rel=\"nofollow\" href=\"https://support.mtgox.com/entries/20208066-huge-bitcoin-sell-off-due-to-a-compromised-account-rollback#\" title=\"https://support.mtgox.com/entries/20208066-huge-bitcoin-sell-off-due-to-a-compromised-account-rollback#\">https://support.mtgox.com/entries...</a>",
+  "rawLink": "https://support.mtgox.com/entries/20208066-huge-bitcoin-sell-off-due-to-a-compromised-account-rollback#",
+  "from": {
+    "id": "zag",
+    "type": "user",
+    "name": "углы «Исимуры»"
+  },
+  "via": {
+    "name": "Bookmarklet",
+    "url": "http://friendfeed.com/share/bookmarklet"
+  },
+  "comments": [
+    {
+      "via": {
+        "url": "http://friendfeed.com/share/bookmarklet",
+        "name": "Bookmarklet"
+      },
+      "rawBody": "\"We have been working with Google to ensure any gmail accounts associated with Mt.Gox user accounts have been locked and need to be reverified.\"",
+      "id": "e/284b862007b844a28c132300eb44fbd1/c/15c1a805992e411cbb873e899dbda61e",
+      "date": "2011-06-20T04:23:43Z",
+      "from": {
+        "name": "углы «Исимуры»",
+        "id": "zag",
+        "type": "user"
+      },
+      "body": "&quot;We have been working with Google to ensure any gmail accounts associated with Mt.Gox user accounts have been locked and need to be reverified.&quot;"
+    }
+  ]
+}
+=end comment
+
+=end pod

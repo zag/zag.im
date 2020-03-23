@@ -1,0 +1,70 @@
+=begin pod :pubdate('2010-07-03T11:11:13Z') :type<note> :tags<lvee>
+=NAME Админские байки на #lvee
+
+=begin DESCRIPTION
+
+Админские байки на #lvee
+=for Image :width(233) :link('http://m.friendfeed-media.com/7772730652c0cf1abd6899c9321bcab0f1b50ee3') :height(175) :preview
+media/2a7dc5db8c156847a39cbb6213eb24b9a864a4c5.jpg
+
+
+
+=end DESCRIPTION
+
+Админские байки на #lvee
+=for Image :width(233) :link('http://m.friendfeed-media.com/7772730652c0cf1abd6899c9321bcab0f1b50ee3') :height(175) :preview
+media/2a7dc5db8c156847a39cbb6213eb24b9a864a4c5.jpg
+
+
+
+=begin comment :src
+{
+  "via": {
+    "url": "http://friendfeed.com/share/mail",
+    "name": "email"
+  },
+  "from": {
+    "type": "user",
+    "id": "zag",
+    "name": "углы «Исимуры»"
+  },
+  "body": "Админские байки на <a href=\"http://friendfeed.com/search?q=%23lvee\">#lvee</a>",
+  "rawLink": "http://friendfeed.com/e/a6d8eb82-0de6-4b54-a2eb-f89125a6ea7d",
+  "likes": [
+    {
+      "from": {
+        "name": "alex@kapranoff.ru",
+        "id": "kkapp",
+        "type": "user"
+      },
+      "date": "2010-07-03T11:13:01Z"
+    }
+  ],
+  "to": [
+    {
+      "id": "zag",
+      "type": "user",
+      "name": "углы's feed"
+    },
+    {
+      "name": "Lvee",
+      "id": "lvee",
+      "type": "group"
+    }
+  ],
+  "id": "e/a6d8eb820de64b54a2ebf89125a6ea7d",
+  "date": "2010-07-03T11:11:13Z",
+  "url": "http://friendfeed.com/lvee/a6d8eb82/lvee",
+  "rawBody": "Админские байки на #lvee",
+  "thumbnails": [
+    {
+      "link": "http://m.friendfeed-media.com/7772730652c0cf1abd6899c9321bcab0f1b50ee3",
+      "height": 175,
+      "width": 233,
+      "url": "http://m.friendfeed-media.com/2a7dc5db8c156847a39cbb6213eb24b9a864a4c5"
+    }
+  ]
+}
+=end comment
+
+=end pod

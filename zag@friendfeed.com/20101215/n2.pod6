@@ -1,0 +1,32 @@
+=begin pod :pubdate('2010-12-15T08:26:35Z') :type<note> :tags<GetClients>
+=NAME From email :  Dear #GetClients.full_name#
+
+=begin DESCRIPTION
+
+From email :  Dear #GetClients.full_name#
+
+
+
+=end DESCRIPTION
+
+From email :  Dear #GetClients.full_name#
+
+
+
+=begin comment :src
+{
+  "rawLink": "http://friendfeed.com/e/5afc2177-8faf-4515-a4ea-3a9c5d030a86",
+  "body": "From email :  Dear <a href=\"http://friendfeed.com/search?q=%23GetClients\">#GetClients</a>.full_name#",
+  "rawBody": "From email :  Dear #GetClients.full_name#",
+  "id": "e/5afc21778faf4515a4ea3a9c5d030a86",
+  "date": "2010-12-15T08:26:35Z",
+  "from": {
+    "type": "user",
+    "id": "zag",
+    "name": "углы «Исимуры»"
+  },
+  "url": "http://friendfeed.com/zag/5afc2177/from-email-dear-getclients-full_name"
+}
+=end comment
+
+=end pod

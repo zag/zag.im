@@ -1,0 +1,96 @@
+=begin pod :pubdate('2010-12-15T05:35:17Z') :type<note> 
+=NAME Бесконечность не предел
+
+=begin DESCRIPTION
+
+Бесконечность не предел
+=for Image :width(180) :link('http://m.friendfeed-media.com/3db44fbd0ef68a706eb4e9816872cf64f23c7961') :height(175) :preview
+media/140def344c7b25640c2f65b832f84a64d6dc996c.jpg
+
+
+
+=end DESCRIPTION
+
+Бесконечность не предел
+=for Image :width(180) :link('http://m.friendfeed-media.com/3db44fbd0ef68a706eb4e9816872cf64f23c7961') :height(175) :preview
+media/140def344c7b25640c2f65b832f84a64d6dc996c.jpg
+
+
+
+=begin comment :src
+{
+  "from": {
+    "name": "углы «Исимуры»",
+    "type": "user",
+    "id": "zag"
+  },
+  "body": "Бесконечность не предел",
+  "likes": [
+    {
+      "from": {
+        "id": "dominaz",
+        "type": "user",
+        "private": true,
+        "name": "Dominaz"
+      },
+      "date": "2010-12-15T08:00:33Z"
+    },
+    {
+      "date": "2010-12-15T07:08:40Z",
+      "from": {
+        "id": "burzoom",
+        "type": "user",
+        "name": "бык с ледорезом"
+      }
+    },
+    {
+      "from": {
+        "id": "evg",
+        "type": "user",
+        "name": "about.me/evgeny.terekhov"
+      },
+      "date": "2010-12-15T06:59:18Z"
+    },
+    {
+      "date": "2010-12-15T06:58:03Z",
+      "from": {
+        "name": "Гора Кьяльфедль",
+        "id": "vladimirbright",
+        "type": "user",
+        "private": true
+      }
+    },
+    {
+      "from": {
+        "name": "ptzn",
+        "type": "user",
+        "id": "ptzn"
+      },
+      "date": "2010-12-15T06:27:35Z"
+    },
+    {
+      "date": "2010-12-15T06:25:00Z",
+      "from": {
+        "name": "woof",
+        "id": "woof",
+        "type": "user"
+      }
+    }
+  ],
+  "rawLink": "http://friendfeed.com/e/cfdb04d6-f432-476f-89c4-307c07a15ef7",
+  "thumbnails": [
+    {
+      "link": "http://m.friendfeed-media.com/3db44fbd0ef68a706eb4e9816872cf64f23c7961",
+      "height": 175,
+      "width": 180,
+      "url": "http://m.friendfeed-media.com/140def344c7b25640c2f65b832f84a64d6dc996c"
+    }
+  ],
+  "id": "e/cfdb04d6f432476f89c4307c07a15ef7",
+  "date": "2010-12-15T05:35:17Z",
+  "rawBody": "Бесконечность не предел",
+  "url": "http://friendfeed.com/zag/cfdb04d6"
+}
+=end comment
+
+=end pod

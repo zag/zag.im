@@ -1,0 +1,107 @@
+=begin pod :pubdate('2011-04-07T08:52:39Z') :type<note> 
+=NAME pavel_kosenko: Размер фотографий для публикации в интернете - 900x600
+
+=begin DESCRIPTION
+
+pavel_kosenko: Размер фотографий для публикации в интернете - 900x600 - L<link|http://pavel-kosenko.livejournal.com/74527.html>
+=for Image :width(233) :link('http://pavel-kosenko.livejournal.com/74527.html') :height(175) :preview
+media/3602d61be0f4d4d270b47b9a6439060da1de945d.jpg
+=for Image :width(263) :link('http://pavel-kosenko.livejournal.com/74527.html') :height(175) :preview
+media/159c629583589fa02f6937d0e2fa148b7301693e.jpg
+
+=item "Фотография в таком размере ( 900 x 600 )будет показана целиком (без полосы прокрутки) у подавляющего большинства пользователей."
+
+
+=end DESCRIPTION
+
+pavel_kosenko: Размер фотографий для публикации в интернете - 900x600 - L<link|http://pavel-kosenko.livejournal.com/74527.html>
+=for Image :width(233) :link('http://pavel-kosenko.livejournal.com/74527.html') :height(175) :preview
+media/3602d61be0f4d4d270b47b9a6439060da1de945d.jpg
+=for Image :width(263) :link('http://pavel-kosenko.livejournal.com/74527.html') :height(175) :preview
+media/159c629583589fa02f6937d0e2fa148b7301693e.jpg
+
+=item "Фотография в таком размере ( 900 x 600 )будет показана целиком (без полосы прокрутки) у подавляющего большинства пользователей."
+
+
+=begin comment :src
+{
+  "likes": [
+    {
+      "date": "2011-05-25T14:37:45Z",
+      "from": {
+        "id": "mishin",
+        "type": "user",
+        "name": "Николай"
+      }
+    },
+    {
+      "date": "2011-04-16T10:10:47Z",
+      "from": {
+        "id": "artreal",
+        "type": "user",
+        "name": "50 оттенков кошкости"
+      }
+    },
+    {
+      "date": "2011-04-07T21:07:13Z",
+      "from": {
+        "name": "Документы зимы хорошие",
+        "type": "user",
+        "id": "animasola"
+      }
+    },
+    {
+      "date": "2011-04-07T21:06:55Z",
+      "from": {
+        "name": "alex@kapranoff.ru",
+        "id": "kkapp",
+        "type": "user"
+      }
+    }
+  ],
+  "rawLink": "http://pavel-kosenko.livejournal.com/74527.html",
+  "body": "pavel_kosenko: Размер фотографий для публикации в интернете - 900x600 - <a rel=\"nofollow\" href=\"http://pavel-kosenko.livejournal.com/74527.html\" title=\"http://pavel-kosenko.livejournal.com/74527.html\">http://pavel-kosenko.livejournal.com/74527...</a>",
+  "thumbnails": [
+    {
+      "url": "http://m.friendfeed-media.com/3602d61be0f4d4d270b47b9a6439060da1de945d",
+      "width": 233,
+      "height": 175,
+      "link": "http://pavel-kosenko.livejournal.com/74527.html"
+    },
+    {
+      "url": "http://m.friendfeed-media.com/159c629583589fa02f6937d0e2fa148b7301693e",
+      "width": 263,
+      "link": "http://pavel-kosenko.livejournal.com/74527.html",
+      "height": 175
+    }
+  ],
+  "id": "e/3a89f689eaa64615a590e2c297c250f1",
+  "date": "2011-04-07T08:52:39Z",
+  "rawBody": "pavel_kosenko: Размер фотографий для публикации в интернете - 900x600",
+  "url": "http://friendfeed.com/zag/3a89f689/pavel_kosenko-900x600",
+  "comments": [
+    {
+      "id": "e/3a89f689eaa64615a590e2c297c250f1/c/9b1e1f27b2c54ec396ab64a7cda3dff0",
+      "rawBody": "\"Фотография в таком размере ( 900 x 600 )будет показана целиком (без полосы прокрутки) у подавляющего большинства пользователей.\"",
+      "date": "2011-04-07T08:53:03Z",
+      "from": {
+        "name": "углы «Исимуры»",
+        "type": "user",
+        "id": "zag"
+      },
+      "body": "&quot;Фотография в таком размере ( 900 x 600 )будет показана целиком (без полосы прокрутки) у подавляющего большинства пользователей.&quot;"
+    }
+  ],
+  "from": {
+    "name": "углы «Исимуры»",
+    "id": "zag",
+    "type": "user"
+  },
+  "via": {
+    "name": "Bookmarklet",
+    "url": "http://friendfeed.com/share/bookmarklet"
+  }
+}
+=end comment
+
+=end pod

@@ -1,0 +1,36 @@
+=begin pod :pubdate('2010-07-24T07:54:28Z') :type<note> :tags<31 perl6>
+=NAME Update FreeBSD ports to Parrot 2.6.0 and Rakudo #31 "Atlanta" #perl6 http://www.freebsd.org/cgi/ports.cgi?query=parrot&stype=all
+
+=begin DESCRIPTION
+
+Update FreeBSD ports to Parrot 2.6.0 and Rakudo #31 "Atlanta" #perl6 http://www.freebsd.org/cgi/ports.cgi?query=parrot&stype=all - L<link|http://twitter.com/zagru/statuses/19405999605>
+
+
+
+=end DESCRIPTION
+
+Update FreeBSD ports to Parrot 2.6.0 and Rakudo #31 "Atlanta" #perl6 http://www.freebsd.org/cgi/ports.cgi?query=parrot&stype=all - L<link|http://twitter.com/zagru/statuses/19405999605>
+
+
+
+=begin comment :src
+{
+  "via": {
+    "name": "Twitter",
+    "url": "http://twitter.com/zagru/statuses/19405999605"
+  },
+  "from": {
+    "name": "углы «Исимуры»",
+    "type": "user",
+    "id": "zag"
+  },
+  "id": "e/af9cf6d1262d769f9edcc4cfd50b814f",
+  "date": "2010-07-24T07:54:28Z",
+  "rawBody": "Update FreeBSD ports to Parrot 2.6.0 and Rakudo #31 \"Atlanta\" #perl6 http://www.freebsd.org/cgi/ports.cgi?query=parrot&stype=all",
+  "url": "http://friendfeed.com/zag/af9cf6d1/update-freebsd-ports-to-parrot-2-6-0-and-rakudo-31",
+  "rawLink": "http://twitter.com/zagru/statuses/19405999605",
+  "body": "Update FreeBSD ports to Parrot 2.6.0 and Rakudo <a rel=\"nofollow\" href=\"http://search.twitter.com/search?q=%2331\">#31</a> &quot;Atlanta&quot; <a rel=\"nofollow\" href=\"http://search.twitter.com/search?q=%23perl6\">#perl6</a> <a rel=\"nofollow\" href=\"http://www.freebsd.org/cgi/ports.cgi?query=parrot&amp;stype=all\" title=\"http://www.freebsd.org/cgi/ports.cgi?query=parrot&amp;stype=all\">http://www.freebsd.org/cgi...</a>"
+}
+=end comment
+
+=end pod

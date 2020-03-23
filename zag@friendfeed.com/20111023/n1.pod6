@@ -1,0 +1,55 @@
+=begin pod :pubdate('2011-10-23T18:11:32Z') :type<note> 
+=NAME Physical Bitcoins by Casascius
+
+=begin DESCRIPTION
+
+Physical Bitcoins by Casascius - L<link|https://www.casascius.com/#>
+
+=item "The "private key" is on a card embedded inside the coin and is protected by a tamper-evident hologram."
+
+
+=end DESCRIPTION
+
+Physical Bitcoins by Casascius - L<link|https://www.casascius.com/#>
+
+=item "The "private key" is on a card embedded inside the coin and is protected by a tamper-evident hologram."
+
+
+=begin comment :src
+{
+  "from": {
+    "name": "углы «Исимуры»",
+    "id": "zag",
+    "type": "user"
+  },
+  "via": {
+    "url": "http://friendfeed.com/share/bookmarklet",
+    "name": "Bookmarklet"
+  },
+  "comments": [
+    {
+      "body": "&quot;The &quot;private key&quot; is on a card embedded inside the coin and is protected by a tamper-evident hologram.&quot;",
+      "id": "e/4d2c644af796417aa19d8c58c74e2699/c/42857f0e300240d3a3141b65eac97000",
+      "rawBody": "\"The \"private key\" is on a card embedded inside the coin and is protected by a tamper-evident hologram.\"",
+      "date": "2011-10-23T18:11:32Z",
+      "from": {
+        "name": "углы «Исимуры»",
+        "id": "zag",
+        "type": "user"
+      },
+      "via": {
+        "name": "Bookmarklet",
+        "url": "http://friendfeed.com/share/bookmarklet"
+      }
+    }
+  ],
+  "date": "2011-10-23T18:11:32Z",
+  "id": "e/4d2c644af796417aa19d8c58c74e2699",
+  "rawBody": "Physical Bitcoins by Casascius",
+  "url": "http://friendfeed.com/zag/4d2c644a/physical-bitcoins-by-casascius",
+  "body": "Physical Bitcoins by Casascius - <a rel=\"nofollow\" href=\"https://www.casascius.com/#\">https://www.casascius.com/#</a>",
+  "rawLink": "https://www.casascius.com/#"
+}
+=end comment
+
+=end pod

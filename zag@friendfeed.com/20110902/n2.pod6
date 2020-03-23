@@ -1,0 +1,78 @@
+=begin pod :pubdate('2011-09-02T06:56:58Z') :type<note> 
+=NAME The Greatest Brandversations on the Behance Network
+
+=begin DESCRIPTION
+
+The Greatest Brandversations on the Behance Network - L<link|http://www.behance.net/gallery/The-Greatest-Brandversations/1971913>
+=for Image :width(124) :link('http://www.behance.net/gallery/The-Greatest-Brandversations/1971913') :height(175) :preview
+media/158587b67dba14a4380a8bb897320799ba5f04d1.jpg
+=for Image :width(409) :link('http://www.behance.net/gallery/The-Greatest-Brandversations/1971913') :height(175) :preview
+media/f32b4a740496779eca50ed813aaa11a1768fc29e.jpg
+=for Image :width(124) :link('http://www.behance.net/gallery/The-Greatest-Brandversations/1971913') :height(175) :preview
+media/47486171cd0c0ee76b79197638ed4e179d004585.jpg
+
+
+
+=end DESCRIPTION
+
+The Greatest Brandversations on the Behance Network - L<link|http://www.behance.net/gallery/The-Greatest-Brandversations/1971913>
+=for Image :width(124) :link('http://www.behance.net/gallery/The-Greatest-Brandversations/1971913') :height(175) :preview
+media/158587b67dba14a4380a8bb897320799ba5f04d1.jpg
+=for Image :width(409) :link('http://www.behance.net/gallery/The-Greatest-Brandversations/1971913') :height(175) :preview
+media/f32b4a740496779eca50ed813aaa11a1768fc29e.jpg
+=for Image :width(124) :link('http://www.behance.net/gallery/The-Greatest-Brandversations/1971913') :height(175) :preview
+media/47486171cd0c0ee76b79197638ed4e179d004585.jpg
+
+
+
+=begin comment :src
+{
+  "via": {
+    "name": "Bookmarklet",
+    "url": "http://friendfeed.com/share/bookmarklet"
+  },
+  "from": {
+    "name": "углы «Исимуры»",
+    "type": "user",
+    "id": "zag"
+  },
+  "id": "e/77bc1113cfac412ea0b00d09677fe70e",
+  "url": "http://friendfeed.com/zag/77bc1113/greatest-brandversations-on-behance-network",
+  "date": "2011-09-02T06:56:58Z",
+  "rawBody": "The Greatest Brandversations on the Behance Network",
+  "thumbnails": [
+    {
+      "link": "http://www.behance.net/gallery/The-Greatest-Brandversations/1971913",
+      "height": 175,
+      "url": "http://m.friendfeed-media.com/158587b67dba14a4380a8bb897320799ba5f04d1",
+      "width": 124
+    },
+    {
+      "url": "http://m.friendfeed-media.com/f32b4a740496779eca50ed813aaa11a1768fc29e",
+      "width": 409,
+      "height": 175,
+      "link": "http://www.behance.net/gallery/The-Greatest-Brandversations/1971913"
+    },
+    {
+      "url": "http://m.friendfeed-media.com/47486171cd0c0ee76b79197638ed4e179d004585",
+      "width": 124,
+      "link": "http://www.behance.net/gallery/The-Greatest-Brandversations/1971913",
+      "height": 175
+    }
+  ],
+  "body": "The Greatest Brandversations on the Behance Network - <a rel=\"nofollow\" href=\"http://www.behance.net/gallery/The-Greatest-Brandversations/1971913\" title=\"http://www.behance.net/gallery/The-Greatest-Brandversations/1971913\">http://www.behance.net/gallery...</a>",
+  "likes": [
+    {
+      "date": "2011-09-02T08:21:15Z",
+      "from": {
+        "id": "mishin",
+        "type": "user",
+        "name": "Николай"
+      }
+    }
+  ],
+  "rawLink": "http://www.behance.net/gallery/The-Greatest-Brandversations/1971913"
+}
+=end comment
+
+=end pod

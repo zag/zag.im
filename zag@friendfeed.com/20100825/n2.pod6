@@ -1,0 +1,32 @@
+=begin pod :pubdate('2010-08-25T12:40:42Z') :type<note> :tags<perl6 n900>
+=NAME Perl6 уже в мобильных телефонах :-) #perl6 #n900 http://twitter.com/snarkyboojum/status/21738635293
+
+=begin DESCRIPTION
+
+Perl6 уже в мобильных телефонах :-) #perl6 #n900 http://twitter.com/snarkyboojum/status/21738635293
+
+
+
+=end DESCRIPTION
+
+Perl6 уже в мобильных телефонах :-) #perl6 #n900 http://twitter.com/snarkyboojum/status/21738635293
+
+
+
+=begin comment :src
+{
+  "id": "e/aef52c2164594b64b92a8c3c5d41ba9a",
+  "rawBody": "Perl6 уже в мобильных телефонах :-) #perl6 #n900 http://twitter.com/snarkyboojum/status/21738635293",
+  "date": "2010-08-25T12:40:42Z",
+  "url": "http://friendfeed.com/zag/aef52c21/perl6-n900",
+  "from": {
+    "type": "user",
+    "id": "zag",
+    "name": "углы «Исимуры»"
+  },
+  "rawLink": "http://friendfeed.com/e/aef52c21-6459-4b64-b92a-8c3c5d41ba9a",
+  "body": "Perl6 уже в мобильных телефонах :-) <a href=\"http://friendfeed.com/search?q=%23perl6\">#perl6</a> <a href=\"http://friendfeed.com/search?q=%23n900\">#n900</a> <a rel=\"nofollow\" href=\"http://twitter.com/snarkyboojum/status/21738635293\" title=\"http://twitter.com/snarkyboojum/status/21738635293\">http://twitter.com/snarkyb...</a>"
+}
+=end comment
+
+=end pod

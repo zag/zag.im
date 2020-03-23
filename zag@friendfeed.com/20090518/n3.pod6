@@ -1,0 +1,36 @@
+=begin pod :pubdate('2009-05-18T11:34:54Z') :type<note> 
+=NAME twitter - еще одна игрушка для рунета : http://bit.ly/LpMEh
+
+=begin DESCRIPTION
+
+twitter - еще одна игрушка для рунета : http://bit.ly/LpMEh - L<link|http://twitter.com/zagru/statuses/1834908295>
+
+
+
+=end DESCRIPTION
+
+twitter - еще одна игрушка для рунета : http://bit.ly/LpMEh - L<link|http://twitter.com/zagru/statuses/1834908295>
+
+
+
+=begin comment :src
+{
+  "from": {
+    "name": "углы «Исимуры»",
+    "type": "user",
+    "id": "zag"
+  },
+  "via": {
+    "url": "http://twitter.com/zagru/statuses/1834908295",
+    "name": "Twitter"
+  },
+  "rawLink": "http://twitter.com/zagru/statuses/1834908295",
+  "body": "twitter - еще одна игрушка для рунета : <a rel=\"nofollow\" href=\"http://bit.ly/LpMEh\" title=\"http://www.rutwitter.com/russkiy-tviksperiment/\">http://www.rutwitter.com/russkiy...</a>",
+  "id": "e/e174e1f804248bcb91dcbdd5f8ce6099",
+  "date": "2009-05-18T11:34:54Z",
+  "rawBody": "twitter - еще одна игрушка для рунета : http://bit.ly/LpMEh",
+  "url": "http://friendfeed.com/zag/e174e1f8/twitter"
+}
+=end comment
+
+=end pod

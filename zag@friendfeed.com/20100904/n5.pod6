@@ -1,0 +1,67 @@
+=begin pod :pubdate('2010-09-04T05:13:27Z') :type<note> 
+=NAME Happy Hacking Keyboard - Wikipedia, the free encyclopedia
+
+=begin DESCRIPTION
+
+Happy Hacking Keyboard - Wikipedia, the free encyclopedia - L<link|http://en.wikipedia.org/wiki/Happy_Hacking_Keyboard>
+=for Image :width(220) :link('http://en.wikipedia.org/wiki/Happy_Hacking_Keyboard') :height(118) :preview
+media/9b8e22e346751be70a945c423429d0acd195ad2d.jpg
+
+=item The keys are arranged in a layout resembling the Sun Type 3 keyboard
+
+
+=end DESCRIPTION
+
+Happy Hacking Keyboard - Wikipedia, the free encyclopedia - L<link|http://en.wikipedia.org/wiki/Happy_Hacking_Keyboard>
+=for Image :width(220) :link('http://en.wikipedia.org/wiki/Happy_Hacking_Keyboard') :height(118) :preview
+media/9b8e22e346751be70a945c423429d0acd195ad2d.jpg
+
+=item The keys are arranged in a layout resembling the Sun Type 3 keyboard
+
+
+=begin comment :src
+{
+  "comments": [
+    {
+      "body": "The keys are arranged in a layout resembling the Sun Type 3 keyboard",
+      "id": "e/dba0ad140ac443e79fa0b24cd4c9857a/c/882d9a4c8f1b45c1b5275824378282e4",
+      "date": "2010-09-04T05:13:27Z",
+      "rawBody": "The keys are arranged in a layout resembling the Sun Type 3 keyboard",
+      "from": {
+        "name": "углы «Исимуры»",
+        "id": "zag",
+        "type": "user"
+      },
+      "via": {
+        "url": "http://friendfeed.com/share/bookmarklet",
+        "name": "Bookmarklet"
+      }
+    }
+  ],
+  "from": {
+    "id": "zag",
+    "type": "user",
+    "name": "углы «Исимуры»"
+  },
+  "via": {
+    "url": "http://friendfeed.com/share/bookmarklet",
+    "name": "Bookmarklet"
+  },
+  "rawLink": "http://en.wikipedia.org/wiki/Happy_Hacking_Keyboard",
+  "body": "Happy Hacking Keyboard - Wikipedia, the free encyclopedia - <a rel=\"nofollow\" href=\"http://en.wikipedia.org/wiki/Happy_Hacking_Keyboard\" title=\"http://en.wikipedia.org/wiki/Happy_Hacking_Keyboard\">http://en.wikipedia.org/wiki...</a>",
+  "rawBody": "Happy Hacking Keyboard - Wikipedia, the free encyclopedia",
+  "id": "e/dba0ad140ac443e79fa0b24cd4c9857a",
+  "date": "2010-09-04T05:13:27Z",
+  "thumbnails": [
+    {
+      "width": 220,
+      "url": "http://m.friendfeed-media.com/9b8e22e346751be70a945c423429d0acd195ad2d",
+      "height": 118,
+      "link": "http://en.wikipedia.org/wiki/Happy_Hacking_Keyboard"
+    }
+  ],
+  "url": "http://friendfeed.com/zag/dba0ad14/happy-hacking-keyboard-wikipedia-free"
+}
+=end comment
+
+=end pod

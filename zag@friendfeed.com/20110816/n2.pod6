@@ -1,0 +1,36 @@
+=begin pod :pubdate('2011-08-16T07:20:29Z') :type<note> 
+=NAME Successfully upgraded my blog feed from RSS to Atom+ ActivityStreams !
+
+=begin DESCRIPTION
+
+Successfully upgraded my blog feed from RSS to Atom+ ActivityStreams ! - L<link|http://twitter.com/zagru/statuses/103365496656760833>
+
+
+
+=end DESCRIPTION
+
+Successfully upgraded my blog feed from RSS to Atom+ ActivityStreams ! - L<link|http://twitter.com/zagru/statuses/103365496656760833>
+
+
+
+=begin comment :src
+{
+  "body": "Successfully upgraded my blog feed from RSS to Atom+ ActivityStreams !",
+  "rawLink": "http://twitter.com/zagru/statuses/103365496656760833",
+  "id": "e/df830c1b0664ac93446e8a56d052a67b",
+  "rawBody": "Successfully upgraded my blog feed from RSS to Atom+ ActivityStreams !",
+  "date": "2011-08-16T07:20:29Z",
+  "url": "http://friendfeed.com/zag/df830c1b/successfully-upgraded-my-blog-feed-from-rss-to",
+  "from": {
+    "name": "углы «Исимуры»",
+    "type": "user",
+    "id": "zag"
+  },
+  "via": {
+    "url": "http://twitter.com/zagru/statuses/103365496656760833",
+    "name": "Twitter"
+  }
+}
+=end comment
+
+=end pod

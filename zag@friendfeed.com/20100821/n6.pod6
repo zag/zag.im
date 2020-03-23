@@ -1,0 +1,68 @@
+=begin pod :pubdate('2010-08-21T10:08:43Z') :type<note> 
+=NAME Петропавловская крепость
+
+=begin DESCRIPTION
+
+Петропавловская крепость
+=for Image :width(233) :link('http://m.friendfeed-media.com/f1cbd7340dd3a883122dc0f2f4e6e5fea4bf26d4') :height(175) :preview
+media/49f598e12f1301230b9dacfe5e03781cbe0c01a1.jpg
+=for Image :width(233) :link('http://m.friendfeed-media.com/6e414e50d19cbde76c94e1a6b2f88f7d83cb8cc7') :height(175) :preview
+media/f0d11d0d6f3c86f28804ef3d2486e1d0db3e8603.jpg
+=for Image :width(233) :link('http://m.friendfeed-media.com/75b84f0c2ff6e0391a859836dab202687a1d5a9a') :height(175) :preview
+media/120f2cb1f92cdc091b5380d430db9659dc5d314d.jpg
+
+
+
+=end DESCRIPTION
+
+Петропавловская крепость
+=for Image :width(233) :link('http://m.friendfeed-media.com/f1cbd7340dd3a883122dc0f2f4e6e5fea4bf26d4') :height(175) :preview
+media/49f598e12f1301230b9dacfe5e03781cbe0c01a1.jpg
+=for Image :width(233) :link('http://m.friendfeed-media.com/6e414e50d19cbde76c94e1a6b2f88f7d83cb8cc7') :height(175) :preview
+media/f0d11d0d6f3c86f28804ef3d2486e1d0db3e8603.jpg
+=for Image :width(233) :link('http://m.friendfeed-media.com/75b84f0c2ff6e0391a859836dab202687a1d5a9a') :height(175) :preview
+media/120f2cb1f92cdc091b5380d430db9659dc5d314d.jpg
+
+
+
+=begin comment :src
+{
+  "from": {
+    "name": "углы «Исимуры»",
+    "id": "zag",
+    "type": "user"
+  },
+  "via": {
+    "name": "email",
+    "url": "http://friendfeed.com/share/mail"
+  },
+  "body": "Петропавловская крепость",
+  "rawLink": "http://friendfeed.com/e/63a6213b-3d14-431a-9be1-7c9f005d7624",
+  "url": "http://friendfeed.com/zag/63a6213b",
+  "id": "e/63a6213b3d14431a9be17c9f005d7624",
+  "date": "2010-08-21T10:08:43Z",
+  "rawBody": "Петропавловская крепость",
+  "thumbnails": [
+    {
+      "height": 175,
+      "link": "http://m.friendfeed-media.com/f1cbd7340dd3a883122dc0f2f4e6e5fea4bf26d4",
+      "url": "http://m.friendfeed-media.com/49f598e12f1301230b9dacfe5e03781cbe0c01a1",
+      "width": 233
+    },
+    {
+      "height": 175,
+      "link": "http://m.friendfeed-media.com/6e414e50d19cbde76c94e1a6b2f88f7d83cb8cc7",
+      "width": 233,
+      "url": "http://m.friendfeed-media.com/f0d11d0d6f3c86f28804ef3d2486e1d0db3e8603"
+    },
+    {
+      "height": 175,
+      "link": "http://m.friendfeed-media.com/75b84f0c2ff6e0391a859836dab202687a1d5a9a",
+      "width": 233,
+      "url": "http://m.friendfeed-media.com/120f2cb1f92cdc091b5380d430db9659dc5d314d"
+    }
+  ]
+}
+=end comment
+
+=end pod

@@ -1,0 +1,61 @@
+=begin pod :pubdate('2009-11-10T09:17:14Z') :type<note> :tags<gdd09ru>
+=NAME Яндех сказал спасибо Google за Developer Day #gdd09ru
+
+=begin DESCRIPTION
+
+Яндех сказал спасибо Google за Developer Day #gdd09ru - L<link|http://twitter.com/zagru/statuses/5584655449>
+
+=item Яндех.Директ vs  AdWords , Секция "Бизнес", Доклад "Как привлечь посетителя на сайт"
+
+
+=end DESCRIPTION
+
+Яндех сказал спасибо Google за Developer Day #gdd09ru - L<link|http://twitter.com/zagru/statuses/5584655449>
+
+=item Яндех.Директ vs  AdWords , Секция "Бизнес", Доклад "Как привлечь посетителя на сайт"
+
+
+=begin comment :src
+{
+  "comments": [
+    {
+      "rawBody": "Яндех.Директ vs  AdWords , Секция \"Бизнес\", Доклад \"Как привлечь посетителя на сайт\"",
+      "id": "e/3e4a94a8fcb352b38df5ffa6676abd13/c/02ec999d15a547b2ac23961d48c1d9e5",
+      "from": {
+        "name": "углы «Исимуры»",
+        "id": "zag",
+        "type": "user"
+      },
+      "date": "2009-11-11T07:44:05Z",
+      "body": "Яндех.Директ vs  AdWords , Секция &quot;Бизнес&quot;, Доклад &quot;Как привлечь посетителя на сайт&quot;"
+    }
+  ],
+  "via": {
+    "url": "http://twitter.com/zagru/statuses/5584655449",
+    "name": "Twitter"
+  },
+  "from": {
+    "name": "углы «Исимуры»",
+    "type": "user",
+    "id": "zag"
+  },
+  "likes": [
+    {
+      "date": "2009-11-10T09:24:58Z",
+      "from": {
+        "type": "user",
+        "id": "d1v3r",
+        "name": "Maxim Duyunov"
+      }
+    }
+  ],
+  "rawLink": "http://twitter.com/zagru/statuses/5584655449",
+  "body": "Яндех сказал спасибо Google за Developer Day <a rel=\"nofollow\" href=\"http://search.twitter.com/search?q=%23gdd09ru\">#gdd09ru</a>",
+  "id": "e/3e4a94a8fcb352b38df5ffa6676abd13",
+  "date": "2009-11-10T09:17:14Z",
+  "rawBody": "Яндех сказал спасибо Google за Developer Day #gdd09ru",
+  "url": "http://friendfeed.com/zag/3e4a94a8/google-developer-day-gdd09ru"
+}
+=end comment
+
+=end pod

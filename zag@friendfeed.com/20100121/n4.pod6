@@ -1,0 +1,36 @@
+=begin pod :pubdate('2010-01-21T04:44:03Z') :type<note> 
+=NAME Как качать будем — Rambler.Сайты дня
+
+=begin DESCRIPTION
+
+Как качать будем — Rambler.Сайты дня - L<link|http://web.rambler.ru/post/kak-kachat-budem/>
+
+
+
+=end DESCRIPTION
+
+Как качать будем — Rambler.Сайты дня - L<link|http://web.rambler.ru/post/kak-kachat-budem/>
+
+
+
+=begin comment :src
+{
+  "date": "2010-01-21T04:44:03Z",
+  "id": "e/32eb985839e2416bb77e9f2fd5d2043d",
+  "url": "http://friendfeed.com/zag/32eb9858/rambler",
+  "rawBody": "Как качать будем — Rambler.Сайты дня",
+  "rawLink": "http://web.rambler.ru/post/kak-kachat-budem/",
+  "body": "Как качать будем — Rambler.Сайты дня - <a rel=\"nofollow\" href=\"http://web.rambler.ru/post/kak-kachat-budem/\" title=\"http://web.rambler.ru/post/kak-kachat-budem/\">http://web.rambler.ru/post...</a>",
+  "from": {
+    "type": "user",
+    "id": "zag",
+    "name": "углы «Исимуры»"
+  },
+  "via": {
+    "name": "Bookmarklet",
+    "url": "http://friendfeed.com/share/bookmarklet"
+  }
+}
+=end comment
+
+=end pod

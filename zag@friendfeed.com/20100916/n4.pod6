@@ -1,0 +1,36 @@
+=begin pod :pubdate('2010-09-16T13:17:24Z') :type<note> :tags<mailru>
+=NAME Все никак не начнется этот partners day #mailru
+
+=begin DESCRIPTION
+
+Все никак не начнется этот partners day #mailru
+
+
+
+=end DESCRIPTION
+
+Все никак не начнется этот partners day #mailru
+
+
+
+=begin comment :src
+{
+  "from": {
+    "id": "zag",
+    "type": "user",
+    "name": "углы «Исимуры»"
+  },
+  "via": {
+    "url": "http://www.fftogo.com/",
+    "name": "fftogo"
+  },
+  "body": "Все никак не начнется этот partners day <a href=\"http://friendfeed.com/search?q=%23mailru\">#mailru</a>",
+  "rawLink": "http://friendfeed.com/e/f9a17c0e-f409-45c3-8e16-9ca7a09f84e7",
+  "id": "e/f9a17c0ef40945c38e169ca7a09f84e7",
+  "date": "2010-09-16T13:17:24Z",
+  "rawBody": "Все никак не начнется этот partners day #mailru",
+  "url": "http://friendfeed.com/zag/f9a17c0e/partners-day-mailru"
+}
+=end comment
+
+=end pod

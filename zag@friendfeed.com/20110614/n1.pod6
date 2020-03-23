@@ -1,0 +1,44 @@
+=begin pod :pubdate('2011-06-14T10:15:01Z') :type<note> 
+=NAME breaking life
+
+=begin DESCRIPTION
+
+breaking life
+=for Image :width(280) :link('http://m.friendfeed-media.com/9b473c1de75edde1f907e7defe313ed2782b5e1a') :height(175) :preview
+media/83cd86c6f027c2eacf3a21f8c8482d0cc3bc503e.jpg
+
+
+
+=end DESCRIPTION
+
+breaking life
+=for Image :width(280) :link('http://m.friendfeed-media.com/9b473c1de75edde1f907e7defe313ed2782b5e1a') :height(175) :preview
+media/83cd86c6f027c2eacf3a21f8c8482d0cc3bc503e.jpg
+
+
+
+=begin comment :src
+{
+  "from": {
+    "type": "user",
+    "id": "zag",
+    "name": "углы «Исимуры»"
+  },
+  "thumbnails": [
+    {
+      "url": "http://m.friendfeed-media.com/83cd86c6f027c2eacf3a21f8c8482d0cc3bc503e",
+      "width": 280,
+      "link": "http://m.friendfeed-media.com/9b473c1de75edde1f907e7defe313ed2782b5e1a",
+      "height": 175
+    }
+  ],
+  "id": "e/2f8efd8b79fa4187a84bbba17a33e6b3",
+  "date": "2011-06-14T10:15:01Z",
+  "rawBody": "breaking life",
+  "url": "http://friendfeed.com/zag/2f8efd8b/breaking-life",
+  "rawLink": "http://friendfeed.com/e/2f8efd8b-79fa-4187-a84b-bba17a33e6b3",
+  "body": "breaking life"
+}
+=end comment
+
+=end pod

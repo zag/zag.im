@@ -1,0 +1,36 @@
+=begin pod :pubdate('2010-02-08T19:07:05Z') :type<note> :tags<perl6 Pod>
+=NAME implemented =table block for #perl6 's #Pod http://search.cpan.org/dist/Perl6-Pod/
+
+=begin DESCRIPTION
+
+implemented =table block for #perl6 's #Pod http://search.cpan.org/dist/Perl6-Pod/ - L<link|http://twitter.com/zagru/statuses/8820606967>
+
+
+
+=end DESCRIPTION
+
+implemented =table block for #perl6 's #Pod http://search.cpan.org/dist/Perl6-Pod/ - L<link|http://twitter.com/zagru/statuses/8820606967>
+
+
+
+=begin comment :src
+{
+  "date": "2010-02-08T19:07:05Z",
+  "id": "e/630ea555aaf06b97e1d8a5808ce7a490",
+  "rawBody": "implemented =table block for #perl6 's #Pod http://search.cpan.org/dist/Perl6-Pod/",
+  "url": "http://friendfeed.com/zag/630ea555/implemented-table-block-for-perl6-pod",
+  "rawLink": "http://twitter.com/zagru/statuses/8820606967",
+  "body": "implemented =table block for <a rel=\"nofollow\" href=\"http://search.twitter.com/search?q=%23perl6\">#perl6</a> 's <a rel=\"nofollow\" href=\"http://search.twitter.com/search?q=%23Pod\">#Pod</a> <a rel=\"nofollow\" href=\"http://search.cpan.org/dist/Perl6-Pod/\" title=\"http://search.cpan.org/dist/Perl6-Pod/\">http://search.cpan.org/dist...</a>",
+  "from": {
+    "name": "углы «Исимуры»",
+    "type": "user",
+    "id": "zag"
+  },
+  "via": {
+    "url": "http://twitter.com/zagru/statuses/8820606967",
+    "name": "Twitter"
+  }
+}
+=end comment
+
+=end pod

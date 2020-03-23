@@ -1,0 +1,48 @@
+=begin pod :pubdate('2010-12-14T21:15:35Z') :type<note> 
+=NAME When I said "Great Job" I really meant "please stop talking to me"
+
+=begin DESCRIPTION
+
+When I said "Great Job" I really meant "please stop talking to me" - L<link|http://twitterleaks.net/>
+=for Image :width(175) :link('http://twitterleaks.net/') :height(175) :preview
+media/5910045cb564899674faeedf634e2e11950566a0.jpg
+
+
+
+=end DESCRIPTION
+
+When I said "Great Job" I really meant "please stop talking to me" - L<link|http://twitterleaks.net/>
+=for Image :width(175) :link('http://twitterleaks.net/') :height(175) :preview
+media/5910045cb564899674faeedf634e2e11950566a0.jpg
+
+
+
+=begin comment :src
+{
+  "id": "e/51ce047aec314bbe99cd63d0182232ed",
+  "url": "http://friendfeed.com/zag/51ce047a/when-i-said-great-job-really-meant-please-stop",
+  "date": "2010-12-14T21:15:35Z",
+  "rawBody": "When I said \"Great Job\" I really meant \"please stop talking to me\"",
+  "thumbnails": [
+    {
+      "url": "http://m.friendfeed-media.com/5910045cb564899674faeedf634e2e11950566a0",
+      "width": 175,
+      "link": "http://twitterleaks.net/",
+      "height": 175
+    }
+  ],
+  "rawLink": "http://twitterleaks.net/",
+  "body": "When I said &quot;Great Job&quot; I really meant &quot;please stop talking to me&quot; - <a rel=\"nofollow\" href=\"http://twitterleaks.net/\">http://twitterleaks.net/</a>",
+  "from": {
+    "id": "zag",
+    "type": "user",
+    "name": "углы «Исимуры»"
+  },
+  "via": {
+    "url": "http://friendfeed.com/share/bookmarklet",
+    "name": "Bookmarklet"
+  }
+}
+=end comment
+
+=end pod

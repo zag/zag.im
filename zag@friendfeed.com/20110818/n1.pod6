@@ -1,0 +1,87 @@
+=begin pod :pubdate('2011-08-18T13:04:23Z') :type<note> 
+=NAME Why Rounded Corners are Easier on the Eyes - UX Movement
+
+=begin DESCRIPTION
+
+Why Rounded Corners are Easier on the Eyes - UX Movement - L<link|http://uxmovement.com/thinking/why-rounded-corners-are-easier-on-the-eyes/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+uxmovement+%28UX+Movement%29>
+=for Image :width(270) :link('http://uxmovement.com/thinking/why-rounded-corners-are-easier-on-the-eyes/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+uxmovement+%28UX+Movement%29') :height(131) :preview
+media/d70224b5d28ce6b48686d3a424d78dc36056d6c9.png
+=for Image :width(268) :link('http://uxmovement.com/thinking/why-rounded-corners-are-easier-on-the-eyes/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+uxmovement+%28UX+Movement%29') :height(135) :preview
+media/e895c46d6eca65376aa290d4c4c2c37037693cc2.png
+=for Image :width(351) :link('http://uxmovement.com/thinking/why-rounded-corners-are-easier-on-the-eyes/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+uxmovement+%28UX+Movement%29') :height(154) :preview
+media/06ea944e9be03c4f0d943b039dc564ce9852b4f1.gif
+
+=item "Which object would you trust with your child?"
+
+
+=end DESCRIPTION
+
+Why Rounded Corners are Easier on the Eyes - UX Movement - L<link|http://uxmovement.com/thinking/why-rounded-corners-are-easier-on-the-eyes/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+uxmovement+%28UX+Movement%29>
+=for Image :width(270) :link('http://uxmovement.com/thinking/why-rounded-corners-are-easier-on-the-eyes/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+uxmovement+%28UX+Movement%29') :height(131) :preview
+media/d70224b5d28ce6b48686d3a424d78dc36056d6c9.png
+=for Image :width(268) :link('http://uxmovement.com/thinking/why-rounded-corners-are-easier-on-the-eyes/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+uxmovement+%28UX+Movement%29') :height(135) :preview
+media/e895c46d6eca65376aa290d4c4c2c37037693cc2.png
+=for Image :width(351) :link('http://uxmovement.com/thinking/why-rounded-corners-are-easier-on-the-eyes/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+uxmovement+%28UX+Movement%29') :height(154) :preview
+media/06ea944e9be03c4f0d943b039dc564ce9852b4f1.gif
+
+=item "Which object would you trust with your child?"
+
+
+=begin comment :src
+{
+  "id": "e/c979dde3ca5640aa98ad8573cf21fdce",
+  "date": "2011-08-18T13:04:23Z",
+  "url": "http://friendfeed.com/zag/c979dde3/why-rounded-corners-are-easier-on-eyes-ux",
+  "rawBody": "Why Rounded Corners are Easier on the Eyes - UX Movement",
+  "thumbnails": [
+    {
+      "height": 131,
+      "link": "http://uxmovement.com/thinking/why-rounded-corners-are-easier-on-the-eyes/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+uxmovement+%28UX+Movement%29",
+      "width": 270,
+      "url": "http://m.friendfeed-media.com/d70224b5d28ce6b48686d3a424d78dc36056d6c9"
+    },
+    {
+      "link": "http://uxmovement.com/thinking/why-rounded-corners-are-easier-on-the-eyes/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+uxmovement+%28UX+Movement%29",
+      "height": 135,
+      "width": 268,
+      "url": "http://m.friendfeed-media.com/e895c46d6eca65376aa290d4c4c2c37037693cc2"
+    },
+    {
+      "height": 154,
+      "link": "http://uxmovement.com/thinking/why-rounded-corners-are-easier-on-the-eyes/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+uxmovement+%28UX+Movement%29",
+      "width": 351,
+      "url": "http://m.friendfeed-media.com/06ea944e9be03c4f0d943b039dc564ce9852b4f1"
+    }
+  ],
+  "rawLink": "http://uxmovement.com/thinking/why-rounded-corners-are-easier-on-the-eyes/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+uxmovement+%28UX+Movement%29",
+  "body": "Why Rounded Corners are Easier on the Eyes - UX Movement - <a rel=\"nofollow\" href=\"http://uxmovement.com/thinking/why-rounded-corners-are-easier-on-the-eyes/?utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+uxmovement+%28UX+Movement%29\" title=\"http://uxmovement.com/thinking/why-rounded-corners-are-easier-on-the-eyes/?utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+uxmovement+%28UX+Movement%29\">http://uxmovement.com/thinkin...</a>",
+  "via": {
+    "url": "http://friendfeed.com/share/bookmarklet",
+    "name": "Bookmarklet"
+  },
+  "from": {
+    "type": "user",
+    "id": "zag",
+    "name": "углы «Исимуры»"
+  },
+  "comments": [
+    {
+      "id": "e/c979dde3ca5640aa98ad8573cf21fdce/c/af174354c15f4d85a67155d55a00b8a9",
+      "rawBody": "\"Which object would you trust with your child?\"",
+      "date": "2011-08-18T13:04:23Z",
+      "from": {
+        "name": "углы «Исимуры»",
+        "id": "zag",
+        "type": "user"
+      },
+      "via": {
+        "name": "Bookmarklet",
+        "url": "http://friendfeed.com/share/bookmarklet"
+      },
+      "body": "&quot;Which object would you trust with your child?&quot;"
+    }
+  ]
+}
+=end comment
+
+=end pod

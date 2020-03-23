@@ -1,0 +1,68 @@
+=begin pod :pubdate('2010-03-30T18:57:29Z') :type<note> 
+=NAME The State of the Internet Operating System - O'Reilly Radar
+
+=begin DESCRIPTION
+
+The State of the Internet Operating System - O'Reilly Radar - L<link|http://radar.oreilly.com/2010/03/state-of-internet-operating-system.html>
+=for Image :width(153) :link('http://radar.oreilly.com/2010/03/state-of-internet-operating-system.html') :height(175) :preview
+media/26c447e8b21cb65366adb51f3dab808a79533468.jpg
+=for Image :width(271) :link('http://radar.oreilly.com/2010/03/state-of-internet-operating-system.html') :height(175) :preview
+media/c5b36b02c46563cb0e9ef86d4aa8d1d04a0e68b4.jpg
+=for Image :width(88) :link('http://radar.oreilly.com/2010/03/state-of-internet-operating-system.html') :height(175) :preview
+media/2b04ce5371b1b446de05b4a95e6d630ab5debae4.jpg
+
+
+
+=end DESCRIPTION
+
+The State of the Internet Operating System - O'Reilly Radar - L<link|http://radar.oreilly.com/2010/03/state-of-internet-operating-system.html>
+=for Image :width(153) :link('http://radar.oreilly.com/2010/03/state-of-internet-operating-system.html') :height(175) :preview
+media/26c447e8b21cb65366adb51f3dab808a79533468.jpg
+=for Image :width(271) :link('http://radar.oreilly.com/2010/03/state-of-internet-operating-system.html') :height(175) :preview
+media/c5b36b02c46563cb0e9ef86d4aa8d1d04a0e68b4.jpg
+=for Image :width(88) :link('http://radar.oreilly.com/2010/03/state-of-internet-operating-system.html') :height(175) :preview
+media/2b04ce5371b1b446de05b4a95e6d630ab5debae4.jpg
+
+
+
+=begin comment :src
+{
+  "from": {
+    "name": "углы «Исимуры»",
+    "type": "user",
+    "id": "zag"
+  },
+  "via": {
+    "name": "Bookmarklet",
+    "url": "http://friendfeed.com/share/bookmarklet"
+  },
+  "id": "e/cd556e17bf5e4ab9944cfe831b908ad0",
+  "rawBody": "The State of the Internet Operating System - O'Reilly Radar",
+  "date": "2010-03-30T18:57:29Z",
+  "url": "http://friendfeed.com/zag/cd556e17/state-of-internet-operating-system-o-reilly",
+  "thumbnails": [
+    {
+      "width": 153,
+      "url": "http://m.friendfeed-media.com/26c447e8b21cb65366adb51f3dab808a79533468",
+      "height": 175,
+      "link": "http://radar.oreilly.com/2010/03/state-of-internet-operating-system.html"
+    },
+    {
+      "url": "http://m.friendfeed-media.com/c5b36b02c46563cb0e9ef86d4aa8d1d04a0e68b4",
+      "width": 271,
+      "link": "http://radar.oreilly.com/2010/03/state-of-internet-operating-system.html",
+      "height": 175
+    },
+    {
+      "url": "http://m.friendfeed-media.com/2b04ce5371b1b446de05b4a95e6d630ab5debae4",
+      "width": 88,
+      "height": 175,
+      "link": "http://radar.oreilly.com/2010/03/state-of-internet-operating-system.html"
+    }
+  ],
+  "rawLink": "http://radar.oreilly.com/2010/03/state-of-internet-operating-system.html",
+  "body": "The State of the Internet Operating System - O'Reilly Radar - <a rel=\"nofollow\" href=\"http://radar.oreilly.com/2010/03/state-of-internet-operating-system.html\" title=\"http://radar.oreilly.com/2010/03/state-of-internet-operating-system.html\">http://radar.oreilly.com/2010...</a>"
+}
+=end comment
+
+=end pod

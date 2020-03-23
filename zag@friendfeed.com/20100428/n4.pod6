@@ -1,0 +1,234 @@
+=begin pod :pubdate('2010-04-28T09:42:55Z') :type<note> 
+=NAME Спокойной ночи !
+
+=begin DESCRIPTION
+
+Спокойной ночи !
+=for Image :width(233) :link('http://m.friendfeed-media.com/001e05662a822489980957178f7bb84bda4e0522') :height(175) :preview
+media/ea561e7674038891dca2c59e0d6a310d904ca809.jpg
+=for Image :width(144) :link('http://m.friendfeed-media.com/bce1c92e34b9b8334e7a755cf338deb2ae7a61ca') :height(175) :preview
+media/c0607a7b2245a1bb152ff72d7158a4db967725c7.jpg
+
+=item А ведь  куклы на какое-то время становятся частью  кукловода...
+
+
+=end DESCRIPTION
+
+Спокойной ночи !
+=for Image :width(233) :link('http://m.friendfeed-media.com/001e05662a822489980957178f7bb84bda4e0522') :height(175) :preview
+media/ea561e7674038891dca2c59e0d6a310d904ca809.jpg
+=for Image :width(144) :link('http://m.friendfeed-media.com/bce1c92e34b9b8334e7a755cf338deb2ae7a61ca') :height(175) :preview
+media/c0607a7b2245a1bb152ff72d7158a4db967725c7.jpg
+
+=item А ведь  куклы на какое-то время становятся частью  кукловода...
+
+
+=begin comment :src
+{
+  "url": "http://friendfeed.com/zag/eb2f3623",
+  "id": "e/eb2f3623d0b947dd9ea3c9265af51205",
+  "date": "2010-04-28T09:42:55Z",
+  "rawBody": "Спокойной ночи !",
+  "thumbnails": [
+    {
+      "link": "http://m.friendfeed-media.com/001e05662a822489980957178f7bb84bda4e0522",
+      "height": 175,
+      "width": 233,
+      "url": "http://m.friendfeed-media.com/ea561e7674038891dca2c59e0d6a310d904ca809"
+    },
+    {
+      "link": "http://m.friendfeed-media.com/bce1c92e34b9b8334e7a755cf338deb2ae7a61ca",
+      "height": 175,
+      "width": 144,
+      "url": "http://m.friendfeed-media.com/c0607a7b2245a1bb152ff72d7158a4db967725c7"
+    }
+  ],
+  "body": "Спокойной ночи !",
+  "likes": [
+    {
+      "from": {
+        "id": "donat",
+        "type": "user",
+        "name": "Donat"
+      },
+      "date": "2010-05-03T16:37:47Z"
+    },
+    {
+      "date": "2010-04-30T10:56:37Z",
+      "from": {
+        "name": "kuchin",
+        "id": "kuchin",
+        "type": "user"
+      }
+    },
+    {
+      "date": "2010-04-28T19:50:32Z",
+      "from": {
+        "type": "user",
+        "id": "buildmoray",
+        "name": "MORE"
+      }
+    },
+    {
+      "date": "2010-04-28T15:34:17Z",
+      "from": {
+        "id": "zaha",
+        "type": "user",
+        "name": "zaha"
+      }
+    },
+    {
+      "date": "2010-04-28T12:04:21Z",
+      "from": {
+        "type": "user",
+        "id": "vylegzhanin",
+        "name": "Rostislav"
+      }
+    },
+    {
+      "from": {
+        "name": "nazer1",
+        "id": "nazer1",
+        "type": "user"
+      },
+      "date": "2010-04-28T11:38:27Z"
+    },
+    {
+      "date": "2010-04-28T11:17:44Z",
+      "from": {
+        "id": "alterego",
+        "type": "user",
+        "name": "make some noise"
+      }
+    },
+    {
+      "from": {
+        "name": "buger",
+        "id": "buger",
+        "type": "user"
+      },
+      "date": "2010-04-28T11:13:48Z"
+    },
+    {
+      "from": {
+        "type": "user",
+        "id": "sseeaann",
+        "private": true,
+        "name": "sseeaann"
+      },
+      "date": "2010-04-28T11:07:43Z"
+    },
+    {
+      "date": "2010-04-28T11:01:47Z",
+      "from": {
+        "name": "Kirill A. Korinskiy",
+        "id": "catap",
+        "type": "user"
+      }
+    },
+    {
+      "date": "2010-04-28T10:38:27Z",
+      "from": {
+        "id": "menelvagor",
+        "type": "user",
+        "name": "Dmitriy Olerinskiy"
+      }
+    },
+    {
+      "date": "2010-04-28T10:32:29Z",
+      "from": {
+        "name": "denya",
+        "id": "denya",
+        "type": "user"
+      }
+    },
+    {
+      "from": {
+        "name": "Pavel Simonoff",
+        "id": "pisimonov",
+        "type": "user"
+      },
+      "date": "2010-04-28T10:27:40Z"
+    },
+    {
+      "from": {
+        "id": "teine",
+        "type": "user",
+        "name": "teinett"
+      },
+      "date": "2010-04-28T10:23:33Z"
+    },
+    {
+      "from": {
+        "name": "Лёша",
+        "type": "user",
+        "id": "explanent"
+      },
+      "date": "2010-04-28T10:17:53Z"
+    },
+    {
+      "date": "2010-04-28T10:17:19Z",
+      "from": {
+        "name": "Андрiй Анатолiйович",
+        "type": "user",
+        "id": "kostenko"
+      }
+    },
+    {
+      "from": {
+        "type": "user",
+        "id": "gwinnblade",
+        "private": true,
+        "name": "Alex Lushpai"
+      },
+      "date": "2010-04-28T10:17:16Z"
+    },
+    {
+      "from": {
+        "name": "&nbsp;",
+        "type": "user",
+        "id": "zoff",
+        "private": true
+      },
+      "date": "2010-04-28T10:13:19Z"
+    },
+    {
+      "date": "2010-04-28T10:11:49Z",
+      "from": {
+        "name": "alex@kapranoff.ru",
+        "type": "user",
+        "id": "kkapp"
+      }
+    },
+    {
+      "date": "2010-04-28T10:05:30Z",
+      "from": {
+        "name": "Анатолий Шарифулин",
+        "type": "user",
+        "id": "sharifulin"
+      }
+    }
+  ],
+  "rawLink": "http://friendfeed.com/e/eb2f3623-d0b9-47dd-9ea3-c9265af51205",
+  "from": {
+    "name": "углы «Исимуры»",
+    "id": "zag",
+    "type": "user"
+  },
+  "comments": [
+    {
+      "body": "А ведь  куклы на какое-то время становятся частью  кукловода...",
+      "rawBody": "А ведь  куклы на какое-то время становятся частью  кукловода...",
+      "id": "e/eb2f3623d0b947dd9ea3c9265af51205/c/e6f5c5e6331b4c94af2d228ec9a9b3f4",
+      "from": {
+        "name": "углы «Исимуры»",
+        "type": "user",
+        "id": "zag"
+      },
+      "date": "2010-04-28T10:43:03Z"
+    }
+  ]
+}
+=end comment
+
+=end pod

@@ -1,0 +1,61 @@
+=begin pod :pubdate('2010-08-30T10:05:13Z') :type<note> :tags<perl6>
+=NAME This is 'Niecza', which will eventually be a Perl 6 implementation focusing on optimization research. It targets the Common Language Runtime (ECMA-335; implementations are "Mono" and ".NET"). #perl6
+
+=begin DESCRIPTION
+
+This is 'Niecza', which will eventually be a Perl 6 implementation focusing on optimization research. It targets the Common Language Runtime (ECMA-335; implementations are "Mono" and ".NET"). #perl6 - L<link|http://github.com/sorear/niecza>
+
+=item Реализация Perl 6 под Mono (.NET)
+
+
+=end DESCRIPTION
+
+This is 'Niecza', which will eventually be a Perl 6 implementation focusing on optimization research. It targets the Common Language Runtime (ECMA-335; implementations are "Mono" and ".NET"). #perl6 - L<link|http://github.com/sorear/niecza>
+
+=item Реализация Perl 6 под Mono (.NET)
+
+
+=begin comment :src
+{
+  "from": {
+    "name": "углы «Исимуры»",
+    "type": "user",
+    "id": "zag"
+  },
+  "via": {
+    "name": "Bookmarklet",
+    "url": "http://friendfeed.com/share/bookmarklet"
+  },
+  "comments": [
+    {
+      "id": "e/d7f97a5aaee04035988d8bd21730c1a2/c/8b7de79eed03446dbdc96f9af61811e4",
+      "rawBody": "Реализация Perl 6 под Mono (.NET)",
+      "from": {
+        "type": "user",
+        "id": "zag",
+        "name": "углы «Исимуры»"
+      },
+      "date": "2010-08-30T10:06:34Z",
+      "body": "Реализация Perl 6 под Mono (.NET)"
+    }
+  ],
+  "date": "2010-08-30T10:05:13Z",
+  "id": "e/d7f97a5aaee04035988d8bd21730c1a2",
+  "url": "http://friendfeed.com/zag/d7f97a5a/this-is-niecza-which-will-eventually-be-perl-6",
+  "rawBody": "This is 'Niecza', which will eventually be a Perl 6 implementation focusing on optimization research. It targets the Common Language Runtime (ECMA-335; implementations are \"Mono\" and \".NET\"). #perl6",
+  "likes": [
+    {
+      "from": {
+        "name": "alex@kapranoff.ru",
+        "type": "user",
+        "id": "kkapp"
+      },
+      "date": "2010-08-30T10:43:04Z"
+    }
+  ],
+  "rawLink": "http://github.com/sorear/niecza",
+  "body": "This is 'Niecza', which will eventually be a Perl 6 implementation focusing on optimization research. It targets the Common Language Runtime (ECMA-335; implementations are &quot;Mono&quot; and &quot;.NET&quot;). <a href=\"http://friendfeed.com/search?q=%23perl6\">#perl6</a> - <a rel=\"nofollow\" href=\"http://github.com/sorear/niecza\" title=\"http://github.com/sorear/niecza\">http://github.com/sorear...</a>"
+}
+=end comment
+
+=end pod

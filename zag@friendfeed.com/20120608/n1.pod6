@@ -1,0 +1,36 @@
+=begin pod :pubdate('2012-06-08T18:26:57Z') :type<note> :tags<lvee>
+=NAME RT @max_posedon: #lvee RackTables - хранение информации о серверах - удобнее любых wiki!
+
+=begin DESCRIPTION
+
+RT @max_posedon: #lvee RackTables - хранение информации о серверах - удобнее любых wiki! - L<link|http://twitter.com/zagru/statuses/211162413238722561>
+
+
+
+=end DESCRIPTION
+
+RT @max_posedon: #lvee RackTables - хранение информации о серверах - удобнее любых wiki! - L<link|http://twitter.com/zagru/statuses/211162413238722561>
+
+
+
+=begin comment :src
+{
+  "via": {
+    "url": "http://twitter.com/zagru/statuses/211162413238722561",
+    "name": "Twitter"
+  },
+  "from": {
+    "id": "zag",
+    "type": "user",
+    "name": "углы «Исимуры»"
+  },
+  "body": "RT @<a rel=\"nofollow\" href=\"http://twitter.com/max_posedon\">max_posedon</a>: <a rel=\"nofollow\" href=\"http://search.twitter.com/search?q=%23lvee\">#lvee</a> RackTables - хранение информации о серверах - удобнее любых wiki!",
+  "rawLink": "http://twitter.com/zagru/statuses/211162413238722561",
+  "id": "e/7e1b524af7a98fb08e3ad74dc14fb04b",
+  "date": "2012-06-08T18:26:57Z",
+  "rawBody": "RT @max_posedon: #lvee RackTables - хранение информации о серверах - удобнее любых wiki!",
+  "url": "http://friendfeed.com/zag/7e1b524a/rt-max_posedon-lvee-racktables-wiki"
+}
+=end comment
+
+=end pod

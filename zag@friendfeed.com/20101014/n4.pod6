@@ -1,0 +1,58 @@
+=begin pod :pubdate('2010-10-14T08:10:14Z') :type<note> :tags<html5>
+=NAME Scroll Clock / cool #html5  clock
+
+=begin DESCRIPTION
+
+Scroll Clock / cool #html5  clock - L<link|http://toki-woki.net/p/scroll-clock/#>
+=for Image :width(140) :link('http://toki-woki.net/p/scroll-clock/#') :height(175) :preview
+media/b261543cf2e68a5a362d62dc9960726ed94163e7.jpg
+=for Image :width(321) :link('http://toki-woki.net/p/scroll-clock/#') :height(175) :preview
+media/30d3964a925cefc1610d08a810e5c1e79dc425af.jpg
+
+
+
+=end DESCRIPTION
+
+Scroll Clock / cool #html5  clock - L<link|http://toki-woki.net/p/scroll-clock/#>
+=for Image :width(140) :link('http://toki-woki.net/p/scroll-clock/#') :height(175) :preview
+media/b261543cf2e68a5a362d62dc9960726ed94163e7.jpg
+=for Image :width(321) :link('http://toki-woki.net/p/scroll-clock/#') :height(175) :preview
+media/30d3964a925cefc1610d08a810e5c1e79dc425af.jpg
+
+
+
+=begin comment :src
+{
+  "from": {
+    "name": "углы «Исимуры»",
+    "id": "zag",
+    "type": "user"
+  },
+  "via": {
+    "name": "Bookmarklet",
+    "url": "http://friendfeed.com/share/bookmarklet"
+  },
+  "body": "Scroll Clock / cool <a href=\"http://friendfeed.com/search?q=%23html5\">#html5</a>  clock - <a rel=\"nofollow\" href=\"http://toki-woki.net/p/scroll-clock/#\" title=\"http://toki-woki.net/p/scroll-clock/#\">http://toki-woki.net/p...</a>",
+  "rawLink": "http://toki-woki.net/p/scroll-clock/#",
+  "id": "e/fe045df67bfe4baf8ae7402a5f02627f",
+  "date": "2010-10-14T08:10:14Z",
+  "rawBody": "Scroll Clock / cool #html5  clock",
+  "url": "http://friendfeed.com/zag/fe045df6/scroll-clock-cool-html5",
+  "thumbnails": [
+    {
+      "width": 140,
+      "url": "http://m.friendfeed-media.com/b261543cf2e68a5a362d62dc9960726ed94163e7",
+      "link": "http://toki-woki.net/p/scroll-clock/#",
+      "height": 175
+    },
+    {
+      "height": 175,
+      "link": "http://toki-woki.net/p/scroll-clock/#",
+      "width": 321,
+      "url": "http://m.friendfeed-media.com/30d3964a925cefc1610d08a810e5c1e79dc425af"
+    }
+  ]
+}
+=end comment
+
+=end pod

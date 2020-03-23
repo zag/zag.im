@@ -1,0 +1,36 @@
+=begin pod :pubdate('2009-05-18T11:15:10Z') :type<note> 
+=NAME Сообщение о блокировке получил.
+
+=begin DESCRIPTION
+
+Сообщение о блокировке получил. - L<link|http://twitter.com/zagru/statuses/1834802939>
+
+
+
+=end DESCRIPTION
+
+Сообщение о блокировке получил. - L<link|http://twitter.com/zagru/statuses/1834802939>
+
+
+
+=begin comment :src
+{
+  "id": "e/494d3d4fe135f9187d31c70716766146",
+  "date": "2009-05-18T11:15:10Z",
+  "rawBody": "Сообщение о блокировке получил.",
+  "url": "http://friendfeed.com/zag/494d3d4f",
+  "rawLink": "http://twitter.com/zagru/statuses/1834802939",
+  "body": "Сообщение о блокировке получил.",
+  "from": {
+    "name": "углы «Исимуры»",
+    "type": "user",
+    "id": "zag"
+  },
+  "via": {
+    "name": "Twitter",
+    "url": "http://twitter.com/zagru/statuses/1834802939"
+  }
+}
+=end comment
+
+=end pod

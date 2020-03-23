@@ -1,0 +1,68 @@
+=begin pod :pubdate('2011-08-11T10:06:21Z') :type<note> 
+=NAME London Looters Get Photoshopped - My Modern Metropolis
+
+=begin DESCRIPTION
+
+London Looters Get Photoshopped - My Modern Metropolis - L<link|http://www.mymodernmet.com/profiles/blogs/london-looters-get-photoshopped>
+=for Image :width(345) :link('http://www.mymodernmet.com/profiles/blogs/london-looters-get-photoshopped') :height(175) :preview
+media/cae98c37a9bf4810c1d7fcdff58f83dad9d9eaf2.jpg
+=for Image :width(312) :link('http://www.mymodernmet.com/profiles/blogs/london-looters-get-photoshopped') :height(175) :preview
+media/e17bbf0fef2a54cf0684e500ed58be5a6cb72c99.jpg
+=for Image :width(109) :link('http://www.mymodernmet.com/profiles/blogs/london-looters-get-photoshopped') :height(175) :preview
+media/eb33c9fe0a40d5985f7480ea25d81d3df4928db0.jpg
+
+
+
+=end DESCRIPTION
+
+London Looters Get Photoshopped - My Modern Metropolis - L<link|http://www.mymodernmet.com/profiles/blogs/london-looters-get-photoshopped>
+=for Image :width(345) :link('http://www.mymodernmet.com/profiles/blogs/london-looters-get-photoshopped') :height(175) :preview
+media/cae98c37a9bf4810c1d7fcdff58f83dad9d9eaf2.jpg
+=for Image :width(312) :link('http://www.mymodernmet.com/profiles/blogs/london-looters-get-photoshopped') :height(175) :preview
+media/e17bbf0fef2a54cf0684e500ed58be5a6cb72c99.jpg
+=for Image :width(109) :link('http://www.mymodernmet.com/profiles/blogs/london-looters-get-photoshopped') :height(175) :preview
+media/eb33c9fe0a40d5985f7480ea25d81d3df4928db0.jpg
+
+
+
+=begin comment :src
+{
+  "id": "e/5c22fe4aa6b54a05998c36cc42201f30",
+  "date": "2011-08-11T10:06:21Z",
+  "rawBody": "London Looters Get Photoshopped - My Modern Metropolis",
+  "url": "http://friendfeed.com/zag/5c22fe4a/london-looters-get-photoshopped-my-modern",
+  "thumbnails": [
+    {
+      "link": "http://www.mymodernmet.com/profiles/blogs/london-looters-get-photoshopped",
+      "height": 175,
+      "url": "http://m.friendfeed-media.com/cae98c37a9bf4810c1d7fcdff58f83dad9d9eaf2",
+      "width": 345
+    },
+    {
+      "link": "http://www.mymodernmet.com/profiles/blogs/london-looters-get-photoshopped",
+      "height": 175,
+      "url": "http://m.friendfeed-media.com/e17bbf0fef2a54cf0684e500ed58be5a6cb72c99",
+      "width": 312
+    },
+    {
+      "link": "http://www.mymodernmet.com/profiles/blogs/london-looters-get-photoshopped",
+      "height": 175,
+      "width": 109,
+      "url": "http://m.friendfeed-media.com/eb33c9fe0a40d5985f7480ea25d81d3df4928db0"
+    }
+  ],
+  "rawLink": "http://www.mymodernmet.com/profiles/blogs/london-looters-get-photoshopped",
+  "body": "London Looters Get Photoshopped - My Modern Metropolis - <a rel=\"nofollow\" href=\"http://www.mymodernmet.com/profiles/blogs/london-looters-get-photoshopped\" title=\"http://www.mymodernmet.com/profiles/blogs/london-looters-get-photoshopped\">http://www.mymodernmet.com/profile...</a>",
+  "via": {
+    "url": "http://friendfeed.com/share/bookmarklet",
+    "name": "Bookmarklet"
+  },
+  "from": {
+    "id": "zag",
+    "type": "user",
+    "name": "углы «Исимуры»"
+  }
+}
+=end comment
+
+=end pod

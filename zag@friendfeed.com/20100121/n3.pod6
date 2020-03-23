@@ -1,0 +1,44 @@
+=begin pod :pubdate('2010-01-21T08:49:34Z') :type<note> :tags<playstation3>
+=NAME Убиватель зомби и времени. #playstation3
+
+=begin DESCRIPTION
+
+Убиватель зомби и времени. #playstation3
+=for Image :width(233) :link('http://m.friendfeed-media.com/1872f5d02d10abba529bde800c52c9b579bb2467') :height(175) :preview
+media/6b794b89b8692b33a97bf61203fca2c998513895.jpg
+
+
+
+=end DESCRIPTION
+
+Убиватель зомби и времени. #playstation3
+=for Image :width(233) :link('http://m.friendfeed-media.com/1872f5d02d10abba529bde800c52c9b579bb2467') :height(175) :preview
+media/6b794b89b8692b33a97bf61203fca2c998513895.jpg
+
+
+
+=begin comment :src
+{
+  "body": "Убиватель зомби и времени. <a href=\"http://friendfeed.com/search?q=%23playstation3\">#playstation3</a>",
+  "rawLink": "http://friendfeed.com/e/51f1092e-6e54-45c3-9bf1-9acdaaaf4bc8",
+  "id": "e/51f1092e6e5445c39bf19acdaaaf4bc8",
+  "rawBody": "Убиватель зомби и времени. #playstation3",
+  "date": "2010-01-21T08:49:34Z",
+  "thumbnails": [
+    {
+      "url": "http://m.friendfeed-media.com/6b794b89b8692b33a97bf61203fca2c998513895",
+      "width": 233,
+      "height": 175,
+      "link": "http://m.friendfeed-media.com/1872f5d02d10abba529bde800c52c9b579bb2467"
+    }
+  ],
+  "url": "http://friendfeed.com/zag/51f1092e/playstation3",
+  "from": {
+    "name": "углы «Исимуры»",
+    "type": "user",
+    "id": "zag"
+  }
+}
+=end comment
+
+=end pod

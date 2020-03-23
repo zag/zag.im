@@ -1,0 +1,48 @@
+=begin pod :pubdate('2010-09-03T10:00:48Z') :type<note> :tags<mibf>
+=NAME Сканер книг #mibf
+
+=begin DESCRIPTION
+
+Сканер книг #mibf
+=for Image :width(233) :link('http://m.friendfeed-media.com/821a7dc9977979489726fc5e13d88d6e33045888') :height(175) :preview
+media/965e28f93d5ae12019e4667bf49ca06a203e97ba.jpg
+
+
+
+=end DESCRIPTION
+
+Сканер книг #mibf
+=for Image :width(233) :link('http://m.friendfeed-media.com/821a7dc9977979489726fc5e13d88d6e33045888') :height(175) :preview
+media/965e28f93d5ae12019e4667bf49ca06a203e97ba.jpg
+
+
+
+=begin comment :src
+{
+  "via": {
+    "url": "http://friendfeed.com/share/mail",
+    "name": "email"
+  },
+  "from": {
+    "name": "углы «Исимуры»",
+    "type": "user",
+    "id": "zag"
+  },
+  "rawLink": "http://friendfeed.com/e/911f4f24-41fb-49e5-969f-99d33ca9974d",
+  "body": "Сканер книг <a href=\"http://friendfeed.com/search?q=%23mibf\">#mibf</a>",
+  "rawBody": "Сканер книг #mibf",
+  "id": "e/911f4f2441fb49e5969f99d33ca9974d",
+  "date": "2010-09-03T10:00:48Z",
+  "thumbnails": [
+    {
+      "url": "http://m.friendfeed-media.com/965e28f93d5ae12019e4667bf49ca06a203e97ba",
+      "width": 233,
+      "height": 175,
+      "link": "http://m.friendfeed-media.com/821a7dc9977979489726fc5e13d88d6e33045888"
+    }
+  ],
+  "url": "http://friendfeed.com/zag/911f4f24/mibf"
+}
+=end comment
+
+=end pod

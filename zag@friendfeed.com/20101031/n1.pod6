@@ -1,0 +1,84 @@
+=begin pod :pubdate('2010-10-31T13:43:33Z') :type<note> 
+=NAME Chuck Norris shoots kittens
+
+=begin DESCRIPTION
+
+Chuck Norris shoots kittens
+
+
+
+=end DESCRIPTION
+
+Chuck Norris shoots kittens
+
+
+
+=begin comment :src
+{
+  "likes": [
+    {
+      "from": {
+        "type": "user",
+        "id": "elmexicano",
+        "name": "zooz"
+      },
+      "date": "2010-10-31T14:38:22Z"
+    },
+    {
+      "from": {
+        "id": "jamais",
+        "type": "user",
+        "name": "jamais vu"
+      },
+      "date": "2010-10-31T14:15:34Z"
+    },
+    {
+      "from": {
+        "type": "user",
+        "id": "fatihtaskiran",
+        "name": "Fatih Taşkıran"
+      },
+      "date": "2010-10-31T13:50:39Z"
+    },
+    {
+      "from": {
+        "name": "Ayşegül",
+        "type": "user",
+        "id": "ayeglurgen"
+      },
+      "date": "2010-10-31T13:46:13Z"
+    }
+  ],
+  "rawLink": "http://friendfeed.com/e/06dc4b59-4c2e-4cd3-8bc0-7cd0a391c72b",
+  "to": [
+    {
+      "name": "углы's feed",
+      "type": "user",
+      "id": "zag"
+    },
+    {
+      "name": "Funny Pics and Videos",
+      "type": "group",
+      "id": "funny-pics-videos"
+    }
+  ],
+  "body": "Chuck Norris shoots kittens",
+  "rawBody": "Chuck Norris shoots kittens",
+  "id": "e/06dc4b594c2e4cd38bc07cd0a391c72b",
+  "date": "2010-10-31T13:43:33Z",
+  "thumbnails": [
+    {
+      "link": "http://friendfeed.com/e/06dc4b59-4c2e-4cd3-8bc0-7cd0a391c72b",
+      "url": "http://asset.soup.io/asset/1189/6581_000c_400.gif"
+    }
+  ],
+  "url": "http://friendfeed.com/funny-pics-videos/06dc4b59/chuck-norris-shoots-kittens",
+  "from": {
+    "name": "углы «Исимуры»",
+    "id": "zag",
+    "type": "user"
+  }
+}
+=end comment
+
+=end pod

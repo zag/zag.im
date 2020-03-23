@@ -1,0 +1,67 @@
+=begin pod :pubdate('2010-04-20T07:47:27Z') :type<note> :tags<ipad>
+=NAME TweetDeck (for #ipad)
+
+=begin DESCRIPTION
+
+TweetDeck (for #ipad) - L<link|http://www.tweetdeck.com/>
+=for Image :width(254) :link('http://www.tweetdeck.com/') :height(175) :preview
+media/1f8b094f72c75a847e290449661fe0a60b4be6bd.jpg
+
+=item TweetDeck is your personal browser for staying in touch with what’s happening now, connecting you with your contacts across Twitter, Facebook, MySpace, LinkedIn and more.
+
+
+=end DESCRIPTION
+
+TweetDeck (for #ipad) - L<link|http://www.tweetdeck.com/>
+=for Image :width(254) :link('http://www.tweetdeck.com/') :height(175) :preview
+media/1f8b094f72c75a847e290449661fe0a60b4be6bd.jpg
+
+=item TweetDeck is your personal browser for staying in touch with what’s happening now, connecting you with your contacts across Twitter, Facebook, MySpace, LinkedIn and more.
+
+
+=begin comment :src
+{
+  "comments": [
+    {
+      "date": "2010-04-20T07:47:27Z",
+      "id": "e/dcd9d31b1c334ce2b0ba3ae55f7f6228/c/7a4ff89103f64462af5681ea99b6012c",
+      "rawBody": "TweetDeck is your personal browser for staying in touch with what’s happening now, connecting you with your contacts across Twitter, Facebook, MySpace, LinkedIn and more.",
+      "from": {
+        "name": "углы «Исимуры»",
+        "type": "user",
+        "id": "zag"
+      },
+      "via": {
+        "name": "Bookmarklet",
+        "url": "http://friendfeed.com/share/bookmarklet"
+      },
+      "body": "TweetDeck is your personal browser for staying in touch with what’s happening now, connecting you with your contacts across Twitter, Facebook, MySpace, LinkedIn and more."
+    }
+  ],
+  "via": {
+    "url": "http://friendfeed.com/share/bookmarklet",
+    "name": "Bookmarklet"
+  },
+  "from": {
+    "name": "углы «Исимуры»",
+    "id": "zag",
+    "type": "user"
+  },
+  "body": "TweetDeck (for <a href=\"http://friendfeed.com/search?q=%23ipad\">#ipad</a>) - <a rel=\"nofollow\" href=\"http://www.tweetdeck.com/\" title=\"http://www.tweetdeck.com/beta/\">http://www.tweetdeck.com/beta/</a>",
+  "rawLink": "http://www.tweetdeck.com/",
+  "id": "e/dcd9d31b1c334ce2b0ba3ae55f7f6228",
+  "date": "2010-04-20T07:47:27Z",
+  "rawBody": "TweetDeck (for #ipad)",
+  "thumbnails": [
+    {
+      "url": "http://m.friendfeed-media.com/1f8b094f72c75a847e290449661fe0a60b4be6bd",
+      "width": 254,
+      "height": 175,
+      "link": "http://www.tweetdeck.com/"
+    }
+  ],
+  "url": "http://friendfeed.com/zag/dcd9d31b/tweetdeck-for-ipad"
+}
+=end comment
+
+=end pod

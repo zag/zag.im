@@ -1,0 +1,36 @@
+=begin pod :pubdate('2010-10-01T11:07:42Z') :type<note> :tags<yac2010>
+=NAME весело наблюдать за реакцией слушателей когда их показывают на больших мониторах #yac2010
+
+=begin DESCRIPTION
+
+весело наблюдать за реакцией слушателей когда их показывают на больших мониторах #yac2010
+
+
+
+=end DESCRIPTION
+
+весело наблюдать за реакцией слушателей когда их показывают на больших мониторах #yac2010
+
+
+
+=begin comment :src
+{
+  "from": {
+    "type": "user",
+    "id": "zag",
+    "name": "углы «Исимуры»"
+  },
+  "via": {
+    "name": "IM",
+    "url": "http://friendfeed.com/about/im"
+  },
+  "url": "http://friendfeed.com/zag/95ca0b54/yac2010",
+  "id": "e/95ca0b54065842bba9271297fc06c9ef",
+  "date": "2010-10-01T11:07:42Z",
+  "rawBody": "весело наблюдать за реакцией слушателей когда их показывают на больших мониторах #yac2010",
+  "rawLink": "http://friendfeed.com/e/95ca0b54-0658-42bb-a927-1297fc06c9ef",
+  "body": "весело наблюдать за реакцией слушателей когда их показывают на больших мониторах <a href=\"http://friendfeed.com/search?q=%23yac2010\">#yac2010</a>"
+}
+=end comment
+
+=end pod

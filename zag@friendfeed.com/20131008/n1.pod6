@@ -1,0 +1,95 @@
+=begin pod :pubdate('2013-10-08T08:11:56Z') :type<note> 
+=NAME Зимние Олимпийские игры 2014 — Википедия
+
+=begin DESCRIPTION
+
+Зимние Олимпийские игры 2014 — Википедия - L<link|http://ru.wikipedia.org/wiki/%D0%97%D0%B8%D0%BC%D0%BD%D0%B8%D0%B5_%D0%9E%D0%BB%D0%B8%D0%BC%D0%BF%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B5_%D0%B8%D0%B3%D1%80%D1%8B_2014#>
+=for Image :width(260) :link('http://ru.wikipedia.org/wiki/%D0%97%D0%B8%D0%BC%D0%BD%D0%B8%D0%B5_%D0%9E%D0%BB%D0%B8%D0%BC%D0%BF%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B5_%D0%B8%D0%B3%D1%80%D1%8B_2014#') :height(168) :preview
+media/ed10ebe440e6b36e32b97e2214d688d182af9461.jpg
+=for Image :width(260) :link('http://ru.wikipedia.org/wiki/%D0%97%D0%B8%D0%BC%D0%BD%D0%B8%D0%B5_%D0%9E%D0%BB%D0%B8%D0%BC%D0%BF%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B5_%D0%B8%D0%B3%D1%80%D1%8B_2014#') :height(174) :preview
+media/d95c295c0b185aa57a20a0f1d5e52fcbcbe650f3.jpg
+
+=item "Спортсмены, одержавшие победу 15-го февраля получат медали с фрагментом Челябинского метеорита в честь годовщины ЧП."
+
+
+=end DESCRIPTION
+
+Зимние Олимпийские игры 2014 — Википедия - L<link|http://ru.wikipedia.org/wiki/%D0%97%D0%B8%D0%BC%D0%BD%D0%B8%D0%B5_%D0%9E%D0%BB%D0%B8%D0%BC%D0%BF%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B5_%D0%B8%D0%B3%D1%80%D1%8B_2014#>
+=for Image :width(260) :link('http://ru.wikipedia.org/wiki/%D0%97%D0%B8%D0%BC%D0%BD%D0%B8%D0%B5_%D0%9E%D0%BB%D0%B8%D0%BC%D0%BF%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B5_%D0%B8%D0%B3%D1%80%D1%8B_2014#') :height(168) :preview
+media/ed10ebe440e6b36e32b97e2214d688d182af9461.jpg
+=for Image :width(260) :link('http://ru.wikipedia.org/wiki/%D0%97%D0%B8%D0%BC%D0%BD%D0%B8%D0%B5_%D0%9E%D0%BB%D0%B8%D0%BC%D0%BF%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B5_%D0%B8%D0%B3%D1%80%D1%8B_2014#') :height(174) :preview
+media/d95c295c0b185aa57a20a0f1d5e52fcbcbe650f3.jpg
+
+=item "Спортсмены, одержавшие победу 15-го февраля получат медали с фрагментом Челябинского метеорита в честь годовщины ЧП."
+
+
+=begin comment :src
+{
+  "thumbnails": [
+    {
+      "url": "http://m.friendfeed-media.com/ed10ebe440e6b36e32b97e2214d688d182af9461",
+      "width": 260,
+      "link": "http://ru.wikipedia.org/wiki/%D0%97%D0%B8%D0%BC%D0%BD%D0%B8%D0%B5_%D0%9E%D0%BB%D0%B8%D0%BC%D0%BF%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B5_%D0%B8%D0%B3%D1%80%D1%8B_2014#",
+      "height": 168
+    },
+    {
+      "link": "http://ru.wikipedia.org/wiki/%D0%97%D0%B8%D0%BC%D0%BD%D0%B8%D0%B5_%D0%9E%D0%BB%D0%B8%D0%BC%D0%BF%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B5_%D0%B8%D0%B3%D1%80%D1%8B_2014#",
+      "height": 174,
+      "url": "http://m.friendfeed-media.com/d95c295c0b185aa57a20a0f1d5e52fcbcbe650f3",
+      "width": 260
+    }
+  ],
+  "id": "e/97f76d8aed434446b4af91fe576f22e4",
+  "date": "2013-10-08T08:11:56Z",
+  "rawBody": "Зимние Олимпийские игры 2014 — Википедия",
+  "url": "http://friendfeed.com/zag/97f76d8a/2014",
+  "rawLink": "http://ru.wikipedia.org/wiki/%D0%97%D0%B8%D0%BC%D0%BD%D0%B8%D0%B5_%D0%9E%D0%BB%D0%B8%D0%BC%D0%BF%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B5_%D0%B8%D0%B3%D1%80%D1%8B_2014#",
+  "likes": [
+    {
+      "date": "2013-10-08T12:34:53Z",
+      "from": {
+        "name": "центр персей для детей",
+        "type": "user",
+        "id": "atarka"
+      }
+    },
+    {
+      "date": "2013-10-08T12:33:45Z",
+      "from": {
+        "name": "alex@kapranoff.ru",
+        "type": "user",
+        "id": "kkapp"
+      }
+    }
+  ],
+  "body": "Зимние Олимпийские игры 2014 — Википедия - <a rel=\"nofollow\" href=\"http://ru.wikipedia.org/wiki/%D0%97%D0%B8%D0%BC%D0%BD%D0%B8%D0%B5_%D0%9E%D0%BB%D0%B8%D0%BC%D0%BF%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B5_%D0%B8%D0%B3%D1%80%D1%8B_2014#\" title=\"http://ru.wikipedia.org/wiki/%D0%97%D0%B8%D0%BC%D0%BD%D0%B8%D0%B5_%D0%9E%D0%BB%D0%B8%D0%BC%D0%BF%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B5_%D0%B8%D0%B3%D1%80%D1%8B_2014#\">http://ru.wikipedia.org/wiki...</a>",
+  "from": {
+    "id": "zag",
+    "type": "user",
+    "name": "углы «Исимуры»"
+  },
+  "via": {
+    "name": "Bookmarklet",
+    "url": "http://friendfeed.com/share/bookmarklet"
+  },
+  "comments": [
+    {
+      "via": {
+        "name": "Bookmarklet",
+        "url": "http://friendfeed.com/share/bookmarklet"
+      },
+      "rawBody": "\"Спортсмены, одержавшие победу 15-го февраля получат медали с фрагментом Челябинского метеорита в честь годовщины ЧП.\"",
+      "id": "e/97f76d8aed434446b4af91fe576f22e4/c/d725d8cafd314560a537d78f9e088564",
+      "date": "2013-10-08T08:11:56Z",
+      "from": {
+        "id": "zag",
+        "type": "user",
+        "name": "углы «Исимуры»"
+      },
+      "body": "&quot;Спортсмены, одержавшие победу 15-го февраля получат медали с фрагментом Челябинского метеорита в честь годовщины ЧП.&quot;"
+    }
+  ]
+}
+=end comment
+
+=end pod

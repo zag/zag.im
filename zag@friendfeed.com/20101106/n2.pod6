@@ -1,0 +1,32 @@
+=begin pod :pubdate('2010-11-06T18:01:46Z') :type<note> 
+=NAME Successfully updated  to  FreeBSD 8.1-STABLE
+
+=begin DESCRIPTION
+
+Successfully updated  to  FreeBSD 8.1-STABLE
+
+
+
+=end DESCRIPTION
+
+Successfully updated  to  FreeBSD 8.1-STABLE
+
+
+
+=begin comment :src
+{
+  "body": "Successfully updated  to  FreeBSD 8.1-STABLE",
+  "rawLink": "http://friendfeed.com/e/71637043-c4b3-4621-94d7-5769f3e162ce",
+  "date": "2010-11-06T18:01:46Z",
+  "id": "e/71637043c4b3462194d75769f3e162ce",
+  "rawBody": "Successfully updated  to  FreeBSD 8.1-STABLE",
+  "url": "http://friendfeed.com/zag/71637043/successfully-updated-to-freebsd-8-1-stable",
+  "from": {
+    "name": "углы «Исимуры»",
+    "id": "zag",
+    "type": "user"
+  }
+}
+=end comment
+
+=end pod

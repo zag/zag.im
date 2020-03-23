@@ -1,0 +1,127 @@
+=begin pod :pubdate('2010-08-18T06:47:31Z') :type<note> 
+=NAME BBC - Dimensions
+
+=begin DESCRIPTION
+
+BBC - Dimensions - L<link|http://howbigreally.com/>
+=for Image :width(304) :link('http://howbigreally.com/') :height(171) :preview
+media/5342c2feb8451edbe319850c0481e97066de286f.png
+=for Image :width(304) :link('http://howbigreally.com/') :height(171) :preview
+media/b9f02e981624dfc0ef30898d377c3d1b6e4b7e80.png
+=for Image :width(304) :link('http://howbigreally.com/') :height(171) :preview
+media/d3edc8a19cd5bb15a90dc29b601f78921d1fd944.png
+
+=item На титульной наложение области загрязнения нефтяного пятна на UK
+=item Unable to connect to your database server using the provided settings.
+
+
+=end DESCRIPTION
+
+BBC - Dimensions - L<link|http://howbigreally.com/>
+=for Image :width(304) :link('http://howbigreally.com/') :height(171) :preview
+media/5342c2feb8451edbe319850c0481e97066de286f.png
+=for Image :width(304) :link('http://howbigreally.com/') :height(171) :preview
+media/b9f02e981624dfc0ef30898d377c3d1b6e4b7e80.png
+=for Image :width(304) :link('http://howbigreally.com/') :height(171) :preview
+media/d3edc8a19cd5bb15a90dc29b601f78921d1fd944.png
+
+=item На титульной наложение области загрязнения нефтяного пятна на UK
+=item Unable to connect to your database server using the provided settings.
+
+
+=begin comment :src
+{
+  "date": "2010-08-18T06:47:31Z",
+  "id": "e/9c8c259fd28d400a8dccc408a0046613",
+  "url": "http://friendfeed.com/zag/9c8c259f/bbc-dimensions",
+  "rawBody": "BBC - Dimensions",
+  "thumbnails": [
+    {
+      "width": 304,
+      "url": "http://m.friendfeed-media.com/5342c2feb8451edbe319850c0481e97066de286f",
+      "height": 171,
+      "link": "http://howbigreally.com/"
+    },
+    {
+      "height": 171,
+      "link": "http://howbigreally.com/",
+      "url": "http://m.friendfeed-media.com/b9f02e981624dfc0ef30898d377c3d1b6e4b7e80",
+      "width": 304
+    },
+    {
+      "height": 171,
+      "link": "http://howbigreally.com/",
+      "width": 304,
+      "url": "http://m.friendfeed-media.com/d3edc8a19cd5bb15a90dc29b601f78921d1fd944"
+    }
+  ],
+  "rawLink": "http://howbigreally.com/",
+  "likes": [
+    {
+      "date": "2010-08-18T08:51:00Z",
+      "from": {
+        "name": "Victory through semantics",
+        "type": "user",
+        "id": "karabatov"
+      }
+    },
+    {
+      "date": "2010-08-18T07:44:11Z",
+      "from": {
+        "private": true,
+        "type": "user",
+        "id": "lavale",
+        "name": "слуги белку стерегут"
+      }
+    },
+    {
+      "date": "2010-08-18T07:37:17Z",
+      "from": {
+        "name": "alex@kapranoff.ru",
+        "id": "kkapp",
+        "type": "user"
+      }
+    }
+  ],
+  "body": "BBC - Dimensions - <a rel=\"nofollow\" href=\"http://howbigreally.com/\">http://howbigreally.com/</a>",
+  "from": {
+    "id": "zag",
+    "type": "user",
+    "name": "углы «Исимуры»"
+  },
+  "via": {
+    "url": "http://friendfeed.com/share/bookmarklet",
+    "name": "Bookmarklet"
+  },
+  "comments": [
+    {
+      "body": "На титульной наложение области загрязнения нефтяного пятна на UK",
+      "via": {
+        "name": "Bookmarklet",
+        "url": "http://friendfeed.com/share/bookmarklet"
+      },
+      "id": "e/9c8c259fd28d400a8dccc408a0046613/c/9978e6a5cc154fbfaed1014a59bde97e",
+      "date": "2010-08-18T06:47:31Z",
+      "rawBody": "На титульной наложение области загрязнения нефтяного пятна на UK",
+      "from": {
+        "type": "user",
+        "id": "zag",
+        "name": "углы «Исимуры»"
+      }
+    },
+    {
+      "id": "e/9c8c259fd28d400a8dccc408a0046613/c/45f3ddcc44f249d58cdf660e14d6185b",
+      "rawBody": "Unable to connect to your database server using the provided settings.",
+      "from": {
+        "name": "Victory through semantics",
+        "id": "karabatov",
+        "type": "user"
+      },
+      "date": "2010-08-18T08:52:19Z",
+      "body": "Unable to connect to your database server using the provided settings."
+    }
+  ]
+}
+=end comment
+
+=end pod

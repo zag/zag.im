@@ -1,0 +1,44 @@
+=begin pod :pubdate('2011-01-03T06:15:39Z') :type<note> 
+=NAME RT @cliqset: Cliqset - Sorry we're closed. http://twitpic.com/3dv7jv
+
+=begin DESCRIPTION
+
+RT @cliqset: Cliqset - Sorry we're closed. http://twitpic.com/3dv7jv - L<link|http://twitter.com/zagru/statuses/21811909229551616>
+
+
+
+=end DESCRIPTION
+
+RT @cliqset: Cliqset - Sorry we're closed. http://twitpic.com/3dv7jv - L<link|http://twitter.com/zagru/statuses/21811909229551616>
+
+
+
+=begin comment :src
+{
+  "from": {
+    "name": "углы «Исимуры»",
+    "id": "zag",
+    "type": "user"
+  },
+  "via": {
+    "url": "http://twitter.com/zagru/statuses/21811909229551616",
+    "name": "Twitter"
+  },
+  "id": "e/ba9c9eef63e0bb306ee8cfab5afcc17c",
+  "date": "2011-01-03T06:15:39Z",
+  "thumbnails": [
+    {
+      "url": "http://twitpic.com/show/thumb/3dv7jv",
+      "width": 150,
+      "height": 150,
+      "link": "http://twitpic.com/3dv7jv"
+    }
+  ],
+  "rawBody": "RT @cliqset: Cliqset - Sorry we're closed. http://twitpic.com/3dv7jv",
+  "url": "http://friendfeed.com/zag/ba9c9eef/rt-cliqset-sorry-we-re-closed",
+  "rawLink": "http://twitter.com/zagru/statuses/21811909229551616",
+  "body": "RT @<a rel=\"nofollow\" href=\"http://twitter.com/cliqset\">cliqset</a>: Cliqset - Sorry we're closed. <a rel=\"nofollow\" href=\"http://twitpic.com/3dv7jv\">http://twitpic.com/3dv7jv</a>"
+}
+=end comment
+
+=end pod

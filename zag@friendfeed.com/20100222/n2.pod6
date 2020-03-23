@@ -1,0 +1,36 @@
+=begin pod :pubdate('2010-02-22T09:49:46Z') :type<note> 
+=NAME Как установить клиент NFS для Windows.
+
+=begin DESCRIPTION
+
+Как установить клиент NFS для Windows. - L<link|http://support.microsoft.com/kb/324055>
+
+
+
+=end DESCRIPTION
+
+Как установить клиент NFS для Windows. - L<link|http://support.microsoft.com/kb/324055>
+
+
+
+=begin comment :src
+{
+  "via": {
+    "url": "http://friendfeed.com/share/bookmarklet",
+    "name": "Bookmarklet"
+  },
+  "from": {
+    "id": "zag",
+    "type": "user",
+    "name": "углы «Исимуры»"
+  },
+  "rawLink": "http://support.microsoft.com/kb/324055",
+  "body": "Как установить клиент NFS для Windows. - <a rel=\"nofollow\" href=\"http://support.microsoft.com/kb/324055\" title=\"http://support.microsoft.com/kb/324055\">http://support.microsoft.com/kb...</a>",
+  "id": "e/b01e3064fae946dea1f04c43caa25f50",
+  "date": "2010-02-22T09:49:46Z",
+  "rawBody": "Как установить клиент NFS для Windows.",
+  "url": "http://friendfeed.com/zag/b01e3064/nfs-windows"
+}
+=end comment
+
+=end pod

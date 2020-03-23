@@ -1,0 +1,40 @@
+=begin pod :pubdate('2010-10-07T07:56:15Z') :type<note> 
+=NAME Building Web Reputation Systems - http://www.amazon.co.uk/dp/059615979X/
+
+=begin DESCRIPTION
+
+Building Web Reputation Systems - http://www.amazon.co.uk/dp/059615979X/
+
+
+
+=end DESCRIPTION
+
+Building Web Reputation Systems - http://www.amazon.co.uk/dp/059615979X/
+
+
+
+=begin comment :src
+{
+  "id": "e/cc1151745dd04f41b3506d488d390519",
+  "url": "http://friendfeed.com/zag/cc115174/building-web-reputation-systems",
+  "date": "2010-10-07T07:56:15Z",
+  "rawBody": "Building Web Reputation Systems - http://www.amazon.co.uk/dp/059615979X/",
+  "thumbnails": [
+    {
+      "link": "http://friendfeed.com/e/cc115174-5dd0-4f41-b350-6d488d390519",
+      "height": 160,
+      "url": "http://ecx.images-amazon.com/images/I/51vEN99BMVL._SL160_.jpg",
+      "width": 122
+    }
+  ],
+  "body": "Building Web Reputation Systems - <a rel=\"nofollow\" href=\"http://www.amazon.co.uk/dp/059615979X/\" title=\"http://www.amazon.co.uk/dp/059615979X/\">http://www.amazon.co.uk/dp...</a>",
+  "rawLink": "http://friendfeed.com/e/cc115174-5dd0-4f41-b350-6d488d390519",
+  "from": {
+    "id": "zag",
+    "type": "user",
+    "name": "углы «Исимуры»"
+  }
+}
+=end comment
+
+=end pod

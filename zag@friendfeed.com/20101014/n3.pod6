@@ -1,0 +1,58 @@
+=begin pod :pubdate('2010-10-14T09:03:41Z') :type<note> 
+=NAME Goollery - A collection of awesome Google-related projects from people around the world
+
+=begin DESCRIPTION
+
+Goollery - A collection of awesome Google-related projects from people around the world - L<link|http://www.goollery.org/#recent/Google\%27s%20World>
+=for Image :width(214) :link('http://www.goollery.org/#recent/Google\%27s%20World') :height(175) :preview
+media/752bf692add83ddb819c2fdc95cf9e4fd9eeaa88.jpg
+=for Image :width(190) :link('http://www.goollery.org/#recent/Google\%27s%20World') :height(54) :preview
+media/a51610dcae1c9fc5d67812518395a1ee1a6149c5.png
+
+
+
+=end DESCRIPTION
+
+Goollery - A collection of awesome Google-related projects from people around the world - L<link|http://www.goollery.org/#recent/Google\%27s%20World>
+=for Image :width(214) :link('http://www.goollery.org/#recent/Google\%27s%20World') :height(175) :preview
+media/752bf692add83ddb819c2fdc95cf9e4fd9eeaa88.jpg
+=for Image :width(190) :link('http://www.goollery.org/#recent/Google\%27s%20World') :height(54) :preview
+media/a51610dcae1c9fc5d67812518395a1ee1a6149c5.png
+
+
+
+=begin comment :src
+{
+  "from": {
+    "name": "углы «Исимуры»",
+    "type": "user",
+    "id": "zag"
+  },
+  "via": {
+    "name": "Bookmarklet",
+    "url": "http://friendfeed.com/share/bookmarklet"
+  },
+  "body": "Goollery - A collection of awesome Google-related projects from people around the world - <a rel=\"nofollow\" href=\"http://www.goollery.org/#recent/Google\\%27s%20World\" title=\"http://www.goollery.org/#recent/Google\\%27s%20World\">http://www.goollery.org/#recent...</a>",
+  "rawLink": "http://www.goollery.org/#recent/Google\\%27s%20World",
+  "id": "e/2cf47bf5ccfd4c139a3c1dedd85369cb",
+  "date": "2010-10-14T09:03:41Z",
+  "rawBody": "Goollery - A collection of awesome Google-related projects from people around the world",
+  "url": "http://friendfeed.com/zag/2cf47bf5/goollery-collection-of-awesome-google-related",
+  "thumbnails": [
+    {
+      "link": "http://www.goollery.org/#recent/Google\\%27s%20World",
+      "height": 175,
+      "url": "http://m.friendfeed-media.com/752bf692add83ddb819c2fdc95cf9e4fd9eeaa88",
+      "width": 214
+    },
+    {
+      "width": 190,
+      "url": "http://m.friendfeed-media.com/a51610dcae1c9fc5d67812518395a1ee1a6149c5",
+      "height": 54,
+      "link": "http://www.goollery.org/#recent/Google\\%27s%20World"
+    }
+  ]
+}
+=end comment
+
+=end pod

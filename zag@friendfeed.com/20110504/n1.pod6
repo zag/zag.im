@@ -1,0 +1,87 @@
+=begin pod :pubdate('2011-05-04T06:38:20Z') :type<note> 
+=NAME Free Comic Book Day. may 7, 2011
+
+=begin DESCRIPTION
+
+Free Comic Book Day. may 7, 2011 - L<link|http://www.freecomicbookday.com/>
+=for Image :width(123) :link('http://www.freecomicbookday.com/') :height(123) :preview
+media/927a52296512a696d579275143d792bfefbaec03.gif
+=for Image :width(116) :link('http://www.freecomicbookday.com/') :height(175) :preview
+media/a262153f113bc9216d3bd263c84ad648d2ec01c0.jpg
+=for Image :width(117) :link('http://www.freecomicbookday.com/') :height(175) :preview
+media/31ae0a570378d91675ac295e2e2d3126a0590372.jpg
+
+=item "Free Comic Book Day is a single day - the first Saturday in May each year - when participating comic book shops across North America and around the world give away comic books absolutely FREE* to anyone who comes into their stores."
+
+
+=end DESCRIPTION
+
+Free Comic Book Day. may 7, 2011 - L<link|http://www.freecomicbookday.com/>
+=for Image :width(123) :link('http://www.freecomicbookday.com/') :height(123) :preview
+media/927a52296512a696d579275143d792bfefbaec03.gif
+=for Image :width(116) :link('http://www.freecomicbookday.com/') :height(175) :preview
+media/a262153f113bc9216d3bd263c84ad648d2ec01c0.jpg
+=for Image :width(117) :link('http://www.freecomicbookday.com/') :height(175) :preview
+media/31ae0a570378d91675ac295e2e2d3126a0590372.jpg
+
+=item "Free Comic Book Day is a single day - the first Saturday in May each year - when participating comic book shops across North America and around the world give away comic books absolutely FREE* to anyone who comes into their stores."
+
+
+=begin comment :src
+{
+  "id": "e/34085c9db98b48eab1fece8d841126c0",
+  "date": "2011-05-04T06:38:20Z",
+  "rawBody": "Free Comic Book Day. may 7, 2011",
+  "url": "http://friendfeed.com/zag/34085c9d/free-comic-book-day-may-7-2011",
+  "thumbnails": [
+    {
+      "url": "http://m.friendfeed-media.com/927a52296512a696d579275143d792bfefbaec03",
+      "width": 123,
+      "height": 123,
+      "link": "http://www.freecomicbookday.com/"
+    },
+    {
+      "height": 175,
+      "link": "http://www.freecomicbookday.com/",
+      "url": "http://m.friendfeed-media.com/a262153f113bc9216d3bd263c84ad648d2ec01c0",
+      "width": 116
+    },
+    {
+      "height": 175,
+      "link": "http://www.freecomicbookday.com/",
+      "width": 117,
+      "url": "http://m.friendfeed-media.com/31ae0a570378d91675ac295e2e2d3126a0590372"
+    }
+  ],
+  "rawLink": "http://www.freecomicbookday.com/",
+  "body": "Free Comic Book Day. may 7, 2011 - <a rel=\"nofollow\" href=\"http://www.freecomicbookday.com/\" title=\"http://www.freecomicbookday.com/\">http://www.freecomicbookday.com/</a>",
+  "from": {
+    "id": "zag",
+    "type": "user",
+    "name": "углы «Исимуры»"
+  },
+  "via": {
+    "url": "http://friendfeed.com/share/bookmarklet",
+    "name": "Bookmarklet"
+  },
+  "comments": [
+    {
+      "via": {
+        "name": "Bookmarklet",
+        "url": "http://friendfeed.com/share/bookmarklet"
+      },
+      "id": "e/34085c9db98b48eab1fece8d841126c0/c/439198c921b04799b3c37c58d4f2b03c",
+      "rawBody": "\"Free Comic Book Day is a single day - the first Saturday in May each year - when participating comic book shops across North America and around the world give away comic books absolutely FREE* to anyone who comes into their stores.\"",
+      "date": "2011-05-04T06:38:20Z",
+      "from": {
+        "name": "углы «Исимуры»",
+        "type": "user",
+        "id": "zag"
+      },
+      "body": "&quot;Free Comic Book Day is a single day - the first Saturday in May each year - when participating comic book shops across North America and around the world give away comic books absolutely FREE* to anyone who comes into their stores.&quot;"
+    }
+  ]
+}
+=end comment
+
+=end pod

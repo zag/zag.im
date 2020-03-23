@@ -1,0 +1,55 @@
+=begin pod :pubdate('2011-06-15T11:47:27Z') :type<note> :tags<perl>
+=NAME I actually tried learning Rails | Jeremy Zawodny's blog #perl
+
+=begin DESCRIPTION
+
+I actually tried learning Rails | Jeremy Zawodny's blog #perl - L<link|http://blog.zawodny.com/2011/06/13/i-actually-tried-learning-rails/>
+
+=item "I still think Ruby is a cool language and I’d like to tinker with it more. But Rails is not the best way to learn Ruby."
+
+
+=end DESCRIPTION
+
+I actually tried learning Rails | Jeremy Zawodny's blog #perl - L<link|http://blog.zawodny.com/2011/06/13/i-actually-tried-learning-rails/>
+
+=item "I still think Ruby is a cool language and I’d like to tinker with it more. But Rails is not the best way to learn Ruby."
+
+
+=begin comment :src
+{
+  "via": {
+    "url": "http://friendfeed.com/share/bookmarklet",
+    "name": "Bookmarklet"
+  },
+  "from": {
+    "type": "user",
+    "id": "zag",
+    "name": "углы «Исимуры»"
+  },
+  "comments": [
+    {
+      "date": "2011-06-15T11:47:27Z",
+      "id": "e/2046a3c02d5b4846bb350ce586883101/c/84b6ada643054a72bdcff7ed5acb3110",
+      "rawBody": "\"I still think Ruby is a cool language and I’d like to tinker with it more. But Rails is not the best way to learn Ruby.\"",
+      "from": {
+        "name": "углы «Исимуры»",
+        "id": "zag",
+        "type": "user"
+      },
+      "via": {
+        "url": "http://friendfeed.com/share/bookmarklet",
+        "name": "Bookmarklet"
+      },
+      "body": "&quot;I still think Ruby is a cool language and I’d like to tinker with it more. But Rails is not the best way to learn Ruby.&quot;"
+    }
+  ],
+  "id": "e/2046a3c02d5b4846bb350ce586883101",
+  "rawBody": "I actually tried learning Rails | Jeremy Zawodny's blog #perl",
+  "date": "2011-06-15T11:47:27Z",
+  "url": "http://friendfeed.com/zag/2046a3c0/i-actually-tried-learning-rails-jeremy-zawodny",
+  "body": "I actually tried learning Rails | Jeremy Zawodny's blog <a href=\"http://friendfeed.com/search?q=%23perl\">#perl</a> - <a rel=\"nofollow\" href=\"http://blog.zawodny.com/2011/06/13/i-actually-tried-learning-rails/\" title=\"http://blog.zawodny.com/2011/06/13/i-actually-tried-learning-rails/\">http://blog.zawodny.com/2011...</a>",
+  "rawLink": "http://blog.zawodny.com/2011/06/13/i-actually-tried-learning-rails/"
+}
+=end comment
+
+=end pod

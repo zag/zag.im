@@ -1,0 +1,68 @@
+=begin pod :pubdate('2010-12-13T09:34:27Z') :type<note> 
+=NAME Tron Ice Hotel (13 photos + video) - My Modern Metropolis
+
+=begin DESCRIPTION
+
+Tron Ice Hotel (13 photos + video) - My Modern Metropolis - L<link|http://www.mymodernmet.com/profiles/blogs/tron-ice-hotel-13-photos>
+=for Image :width(263) :link('http://www.mymodernmet.com/profiles/blogs/tron-ice-hotel-13-photos') :height(175) :preview
+media/ef8590b6d4aa23780e8e6276681d7472e3ca02c1.jpg
+=for Image :width(263) :link('http://www.mymodernmet.com/profiles/blogs/tron-ice-hotel-13-photos') :height(175) :preview
+media/8513026ecfd1f161d997ccda6d23d30b7d110ab9.jpg
+=for Image :width(263) :link('http://www.mymodernmet.com/profiles/blogs/tron-ice-hotel-13-photos') :height(175) :preview
+media/f2a1312c989ae92c14769f48a580d5f010bce35d.jpg
+
+
+
+=end DESCRIPTION
+
+Tron Ice Hotel (13 photos + video) - My Modern Metropolis - L<link|http://www.mymodernmet.com/profiles/blogs/tron-ice-hotel-13-photos>
+=for Image :width(263) :link('http://www.mymodernmet.com/profiles/blogs/tron-ice-hotel-13-photos') :height(175) :preview
+media/ef8590b6d4aa23780e8e6276681d7472e3ca02c1.jpg
+=for Image :width(263) :link('http://www.mymodernmet.com/profiles/blogs/tron-ice-hotel-13-photos') :height(175) :preview
+media/8513026ecfd1f161d997ccda6d23d30b7d110ab9.jpg
+=for Image :width(263) :link('http://www.mymodernmet.com/profiles/blogs/tron-ice-hotel-13-photos') :height(175) :preview
+media/f2a1312c989ae92c14769f48a580d5f010bce35d.jpg
+
+
+
+=begin comment :src
+{
+  "from": {
+    "name": "углы «Исимуры»",
+    "type": "user",
+    "id": "zag"
+  },
+  "via": {
+    "name": "Bookmarklet",
+    "url": "http://friendfeed.com/share/bookmarklet"
+  },
+  "body": "Tron Ice Hotel (13 photos + video) - My Modern Metropolis - <a rel=\"nofollow\" href=\"http://www.mymodernmet.com/profiles/blogs/tron-ice-hotel-13-photos\" title=\"http://www.mymodernmet.com/profiles/blogs/tron-ice-hotel-13-photos\">http://www.mymodernmet.com/profile...</a>",
+  "rawLink": "http://www.mymodernmet.com/profiles/blogs/tron-ice-hotel-13-photos",
+  "id": "e/c1dc5bf3a71a48c7bb191896444629b4",
+  "thumbnails": [
+    {
+      "link": "http://www.mymodernmet.com/profiles/blogs/tron-ice-hotel-13-photos",
+      "height": 175,
+      "width": 263,
+      "url": "http://m.friendfeed-media.com/ef8590b6d4aa23780e8e6276681d7472e3ca02c1"
+    },
+    {
+      "width": 263,
+      "url": "http://m.friendfeed-media.com/8513026ecfd1f161d997ccda6d23d30b7d110ab9",
+      "height": 175,
+      "link": "http://www.mymodernmet.com/profiles/blogs/tron-ice-hotel-13-photos"
+    },
+    {
+      "url": "http://m.friendfeed-media.com/f2a1312c989ae92c14769f48a580d5f010bce35d",
+      "width": 263,
+      "height": 175,
+      "link": "http://www.mymodernmet.com/profiles/blogs/tron-ice-hotel-13-photos"
+    }
+  ],
+  "date": "2010-12-13T09:34:27Z",
+  "rawBody": "Tron Ice Hotel (13 photos + video) - My Modern Metropolis",
+  "url": "http://friendfeed.com/zag/c1dc5bf3/tron-ice-hotel-13-photos-video-my-modern"
+}
+=end comment
+
+=end pod

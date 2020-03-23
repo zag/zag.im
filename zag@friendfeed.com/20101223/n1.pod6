@@ -1,0 +1,65 @@
+=begin pod :pubdate('2010-12-23T19:12:39Z') :type<note> 
+=NAME Rakudo Perl 6 port of the Perl 5 GD graphics library using the Zavolaj native call interface
+
+=begin DESCRIPTION
+
+Rakudo Perl 6 port of the Perl 5 GD graphics library using the Zavolaj native call interface - L<link|https://github.com/mberends/GD>
+
+=item I<#>perl6
+
+
+=end DESCRIPTION
+
+Rakudo Perl 6 port of the Perl 5 GD graphics library using the Zavolaj native call interface - L<link|https://github.com/mberends/GD>
+
+=item I<#>perl6
+
+
+=begin comment :src
+{
+  "body": "Rakudo Perl 6 port of the Perl 5 GD graphics library using the Zavolaj native call interface - <a rel=\"nofollow\" href=\"https://github.com/mberends/GD\">https://github.com/mberends/GD</a>",
+  "likes": [
+    {
+      "from": {
+        "name": "alex@kapranoff.ru",
+        "type": "user",
+        "id": "kkapp"
+      },
+      "date": "2010-12-23T19:19:14Z"
+    }
+  ],
+  "rawLink": "https://github.com/mberends/GD",
+  "id": "e/3e963570128d4b14af660b0f529926df",
+  "rawBody": "Rakudo Perl 6 port of the Perl 5 GD graphics library using the Zavolaj native call interface",
+  "date": "2010-12-23T19:12:39Z",
+  "url": "http://friendfeed.com/zag/3e963570/rakudo-perl-6-port-of-5-gd-graphics-library-using",
+  "comments": [
+    {
+      "body": "<a href=\"http://friendfeed.com/search?q=%23perl6\">#perl6</a>",
+      "via": {
+        "url": "http://friendfeed.com/share/bookmarklet",
+        "name": "Bookmarklet"
+      },
+      "date": "2010-12-23T19:12:39Z",
+      "id": "e/3e963570128d4b14af660b0f529926df/c/17f8393d00ec445c9f86598db1c0b696",
+      "rawBody": "I<#>perl6",
+      "from": {
+        "id": "zag",
+        "type": "user",
+        "name": "углы «Исимуры»"
+      }
+    }
+  ],
+  "from": {
+    "id": "zag",
+    "type": "user",
+    "name": "углы «Исимуры»"
+  },
+  "via": {
+    "name": "Bookmarklet",
+    "url": "http://friendfeed.com/share/bookmarklet"
+  }
+}
+=end comment
+
+=end pod

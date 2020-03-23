@@ -1,0 +1,38 @@
+=begin pod :pubdate('2010-09-15T07:54:41Z') :type<note> 
+=NAME Fish day
+
+=begin DESCRIPTION
+
+Fish day
+
+
+
+=end DESCRIPTION
+
+Fish day
+
+
+
+=begin comment :src
+{
+  "date": "2010-09-15T07:54:41Z",
+  "id": "e/a90c2a22446b4be2916913864a2df1b0",
+  "url": "http://friendfeed.com/zag/a90c2a22/fish-day",
+  "rawBody": "Fish day",
+  "thumbnails": [
+    {
+      "link": "http://friendfeed.com/e/a90c2a22-446b-4be2-9169-13864a2df1b0",
+      "url": "http://d.yimg.com/gg/u/923399216d798af4e7e033aaac32b6a9bd95671b.gifa"
+    }
+  ],
+  "rawLink": "http://friendfeed.com/e/a90c2a22-446b-4be2-9169-13864a2df1b0",
+  "body": "Fish day",
+  "from": {
+    "name": "углы «Исимуры»",
+    "id": "zag",
+    "type": "user"
+  }
+}
+=end comment
+
+=end pod

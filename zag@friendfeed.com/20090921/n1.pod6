@@ -1,0 +1,36 @@
+=begin pod :pubdate('2009-09-21T09:49:10Z') :type<note> :tags<chrome freebsd>
+=NAME read: porting Chromium to FreeBSD #chrome #freebsd http://www.links.org/?p=724
+
+=begin DESCRIPTION
+
+read: porting Chromium to FreeBSD #chrome #freebsd http://www.links.org/?p=724 - L<link|http://twitter.com/zagru/statuses/4143373968>
+
+
+
+=end DESCRIPTION
+
+read: porting Chromium to FreeBSD #chrome #freebsd http://www.links.org/?p=724 - L<link|http://twitter.com/zagru/statuses/4143373968>
+
+
+
+=begin comment :src
+{
+  "from": {
+    "type": "user",
+    "id": "zag",
+    "name": "углы «Исимуры»"
+  },
+  "via": {
+    "name": "Twitter",
+    "url": "http://twitter.com/zagru/statuses/4143373968"
+  },
+  "body": "read: porting Chromium to FreeBSD <a rel=\"nofollow\" href=\"http://search.twitter.com/search?q=%23chrome\">#chrome</a> <a rel=\"nofollow\" href=\"http://search.twitter.com/search?q=%23freebsd\">#freebsd</a> <a rel=\"nofollow\" href=\"http://www.links.org/?p=724\">http://www.links.org/?p=724</a>",
+  "rawLink": "http://twitter.com/zagru/statuses/4143373968",
+  "id": "e/18b3080bfe6479135ae25cf6ea9a436c",
+  "rawBody": "read: porting Chromium to FreeBSD #chrome #freebsd http://www.links.org/?p=724",
+  "date": "2009-09-21T09:49:10Z",
+  "url": "http://friendfeed.com/zag/18b3080b/read-porting-chromium-to-freebsd-chrome"
+}
+=end comment
+
+=end pod

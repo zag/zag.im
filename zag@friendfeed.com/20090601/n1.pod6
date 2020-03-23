@@ -1,0 +1,36 @@
+=begin pod :pubdate('2009-06-01T08:55:12Z') :type<note> 
+=NAME prepare a tasty Makefile ...
+
+=begin DESCRIPTION
+
+prepare a tasty Makefile ... - L<link|http://twitter.com/zagru/statuses/1989538987>
+
+
+
+=end DESCRIPTION
+
+prepare a tasty Makefile ... - L<link|http://twitter.com/zagru/statuses/1989538987>
+
+
+
+=begin comment :src
+{
+  "date": "2009-06-01T08:55:12Z",
+  "id": "e/f4f83872a1cac73cd8773717f94f295f",
+  "url": "http://friendfeed.com/zag/f4f83872/prepare-tasty-makefile",
+  "rawBody": "prepare a tasty Makefile ...",
+  "body": "prepare a tasty Makefile ...",
+  "rawLink": "http://twitter.com/zagru/statuses/1989538987",
+  "via": {
+    "url": "http://twitter.com/zagru/statuses/1989538987",
+    "name": "Twitter"
+  },
+  "from": {
+    "type": "user",
+    "id": "zag",
+    "name": "углы «Исимуры»"
+  }
+}
+=end comment
+
+=end pod

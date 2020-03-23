@@ -1,0 +1,77 @@
+=begin pod :pubdate('2011-03-19T06:55:41Z') :type<note> 
+=NAME Комкон 2011 Вам случалось любоваться Игрой? Ее гениальностью... Сотни людей живут полноценной жизнью... в игре
+
+=begin DESCRIPTION
+
+Комкон 2011 Вам случалось любоваться Игрой? Ее гениальностью... Сотни людей живут полноценной жизнью... в игре - L<link|http://www.comcon.su/>
+=for Image :width(277) :link('http://www.comcon.su/') :height(175) :preview
+media/bfa78e06c3ebe68b35f3e22af820ee12cbe21b34.jpg
+=for Image :width(45) :link('http://www.comcon.su/') :height(175) :preview
+media/8daf09a855e92e3e4e4bd37d859d22421fbd55f8.jpg
+
+=item Воссозданы лучшие условия обсуждений даже для искушенных теоретиков, сыгровки и презентации для практиков, обучающие семинары, маленькие игры и мастер-классы для тех, кто еще хочет что-то узнать.
+
+
+=end DESCRIPTION
+
+Комкон 2011 Вам случалось любоваться Игрой? Ее гениальностью... Сотни людей живут полноценной жизнью... в игре - L<link|http://www.comcon.su/>
+=for Image :width(277) :link('http://www.comcon.su/') :height(175) :preview
+media/bfa78e06c3ebe68b35f3e22af820ee12cbe21b34.jpg
+=for Image :width(45) :link('http://www.comcon.su/') :height(175) :preview
+media/8daf09a855e92e3e4e4bd37d859d22421fbd55f8.jpg
+
+=item Воссозданы лучшие условия обсуждений даже для искушенных теоретиков, сыгровки и презентации для практиков, обучающие семинары, маленькие игры и мастер-классы для тех, кто еще хочет что-то узнать.
+
+
+=begin comment :src
+{
+  "body": "Комкон 2011 Вам случалось любоваться Игрой? Ее гениальностью... Сотни людей живут полноценной жизнью... в игре - <a rel=\"nofollow\" href=\"http://www.comcon.su/\">http://www.comcon.su/</a>",
+  "rawLink": "http://www.comcon.su/",
+  "thumbnails": [
+    {
+      "height": 175,
+      "link": "http://www.comcon.su/",
+      "width": 277,
+      "url": "http://m.friendfeed-media.com/bfa78e06c3ebe68b35f3e22af820ee12cbe21b34"
+    },
+    {
+      "url": "http://m.friendfeed-media.com/8daf09a855e92e3e4e4bd37d859d22421fbd55f8",
+      "width": 45,
+      "height": 175,
+      "link": "http://www.comcon.su/"
+    }
+  ],
+  "id": "e/d9a7083ae29747a5a42081409c5e8a45",
+  "date": "2011-03-19T06:55:41Z",
+  "rawBody": "Комкон 2011 Вам случалось любоваться Игрой? Ее гениальностью... Сотни людей живут полноценной жизнью... в игре",
+  "url": "http://friendfeed.com/zag/d9a7083a/2011",
+  "comments": [
+    {
+      "from": {
+        "type": "user",
+        "id": "zag",
+        "name": "углы «Исимуры»"
+      },
+      "id": "e/d9a7083ae29747a5a42081409c5e8a45/c/de5323b7df7d4aabba9845e2b04b39d0",
+      "date": "2011-03-19T06:55:41Z",
+      "rawBody": "Воссозданы лучшие условия обсуждений даже для искушенных теоретиков, сыгровки и презентации для практиков, обучающие семинары, маленькие игры и мастер-классы для тех, кто еще хочет что-то узнать.",
+      "via": {
+        "url": "http://friendfeed.com/share/bookmarklet",
+        "name": "Bookmarklet"
+      },
+      "body": "Воссозданы лучшие условия обсуждений даже для искушенных теоретиков, сыгровки и презентации для практиков, обучающие семинары, маленькие игры и мастер-классы для тех, кто еще хочет что-то узнать."
+    }
+  ],
+  "via": {
+    "name": "Bookmarklet",
+    "url": "http://friendfeed.com/share/bookmarklet"
+  },
+  "from": {
+    "name": "углы «Исимуры»",
+    "id": "zag",
+    "type": "user"
+  }
+}
+=end comment
+
+=end pod

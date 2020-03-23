@@ -1,0 +1,159 @@
+=begin pod :pubdate('2011-06-22T17:37:50Z') :type<note> 
+=NAME startup
+
+=begin DESCRIPTION
+
+startup
+=for Image :width(262) :link('http://m.friendfeed-media.com/9984600df9ee7dc891c06d025b0807fcc521596a') :height(175) :preview
+media/1b9fb35d78ca391369459d12f46e58ac3949d223.jpg
+
+
+
+=end DESCRIPTION
+
+startup
+=for Image :width(262) :link('http://m.friendfeed-media.com/9984600df9ee7dc891c06d025b0807fcc521596a') :height(175) :preview
+media/1b9fb35d78ca391369459d12f46e58ac3949d223.jpg
+
+
+
+=begin comment :src
+{
+  "id": "e/d1694bb786504251822e3079998dfe11",
+  "date": "2011-06-22T17:37:50Z",
+  "url": "http://friendfeed.com/zag/d1694bb7/startup",
+  "rawBody": "startup",
+  "thumbnails": [
+    {
+      "width": 262,
+      "url": "http://m.friendfeed-media.com/1b9fb35d78ca391369459d12f46e58ac3949d223",
+      "height": 175,
+      "link": "http://m.friendfeed-media.com/9984600df9ee7dc891c06d025b0807fcc521596a"
+    }
+  ],
+  "likes": [
+    {
+      "date": "2011-06-23T13:26:27Z",
+      "from": {
+        "name": "Turkey banned Bloggum :(",
+        "id": "bloggum",
+        "type": "user"
+      }
+    },
+    {
+      "date": "2011-06-23T07:30:23Z",
+      "from": {
+        "name": "Ivan Bessarabov",
+        "type": "user",
+        "id": "bessarabov"
+      }
+    },
+    {
+      "from": {
+        "id": "mishin",
+        "type": "user",
+        "name": "Николай"
+      },
+      "date": "2011-06-22T21:18:48Z"
+    },
+    {
+      "date": "2011-06-22T20:22:24Z",
+      "from": {
+        "name": "Dmitry Khrustalev",
+        "type": "user",
+        "id": "dk42"
+      }
+    },
+    {
+      "from": {
+        "name": "из капусты с морковью",
+        "id": "drakulavich",
+        "type": "user"
+      },
+      "date": "2011-06-22T20:05:50Z"
+    },
+    {
+      "from": {
+        "name": "Nop",
+        "id": "nop",
+        "type": "user"
+      },
+      "date": "2011-06-22T19:59:17Z"
+    },
+    {
+      "date": "2011-06-22T19:52:43Z",
+      "from": {
+        "name": "piikummitus",
+        "id": "silpol",
+        "type": "user"
+      }
+    },
+    {
+      "from": {
+        "type": "user",
+        "id": "antonme",
+        "name": "Anton Volnuhin"
+      },
+      "date": "2011-06-22T19:47:37Z"
+    },
+    {
+      "from": {
+        "name": "Стадо овец",
+        "id": "aivanov",
+        "type": "user"
+      },
+      "date": "2011-06-22T19:36:44Z"
+    },
+    {
+      "from": {
+        "type": "user",
+        "id": "dyachkoff",
+        "private": true,
+        "name": "Ivan"
+      },
+      "date": "2011-06-22T19:35:46Z"
+    },
+    {
+      "from": {
+        "type": "user",
+        "id": "alexit",
+        "name": "Из сушёных грибов сиитакэ"
+      },
+      "date": "2011-06-22T19:35:28Z"
+    },
+    {
+      "date": "2011-06-22T19:34:29Z",
+      "from": {
+        "name": "Покак Пузантес",
+        "type": "user",
+        "id": "prdx"
+      }
+    },
+    {
+      "date": "2011-06-22T19:31:56Z",
+      "from": {
+        "name": "ptzn",
+        "type": "user",
+        "id": "ptzn"
+      }
+    },
+    {
+      "from": {
+        "name": "alex@kapranoff.ru",
+        "id": "kkapp",
+        "type": "user"
+      },
+      "date": "2011-06-22T19:30:34Z"
+    }
+  ],
+  "rawLink": "http://friendfeed.com/e/d1694bb7-8650-4251-822e-3079998dfe11",
+  "body": "startup",
+  "from": {
+    "type": "user",
+    "id": "zag",
+    "name": "углы «Исимуры»"
+  }
+}
+=end comment
+
+=end pod

@@ -1,0 +1,68 @@
+=begin pod :pubdate('2010-09-05T09:26:11Z') :type<note> 
+=NAME Bookshelf Porn - A collection of all the best bookshelf photos for people who *heart* bookshelves.
+
+=begin DESCRIPTION
+
+Bookshelf Porn - A collection of all the best bookshelf photos for people who *heart* bookshelves. - L<link|http://bookshelfporn.com/>
+=for Image :width(250) :link('http://bookshelfporn.com/') :height(169) :preview
+media/220659f7eea6d52524dc190862a231050e598d39.jpg
+=for Image :width(117) :link('http://bookshelfporn.com/') :height(175) :preview
+media/3faeabaede8986b985e0e89d12f8dca227b16eec.jpg
+=for Image :width(131) :link('http://bookshelfporn.com/') :height(175) :preview
+media/bab00df36fb0aaae8e7dcc9e9d99d12a49885122.jpg
+
+
+
+=end DESCRIPTION
+
+Bookshelf Porn - A collection of all the best bookshelf photos for people who *heart* bookshelves. - L<link|http://bookshelfporn.com/>
+=for Image :width(250) :link('http://bookshelfporn.com/') :height(169) :preview
+media/220659f7eea6d52524dc190862a231050e598d39.jpg
+=for Image :width(117) :link('http://bookshelfporn.com/') :height(175) :preview
+media/3faeabaede8986b985e0e89d12f8dca227b16eec.jpg
+=for Image :width(131) :link('http://bookshelfporn.com/') :height(175) :preview
+media/bab00df36fb0aaae8e7dcc9e9d99d12a49885122.jpg
+
+
+
+=begin comment :src
+{
+  "from": {
+    "name": "углы «Исимуры»",
+    "type": "user",
+    "id": "zag"
+  },
+  "via": {
+    "name": "Bookmarklet",
+    "url": "http://friendfeed.com/share/bookmarklet"
+  },
+  "id": "e/655b977062aa44b68fb35fa1dc8d7b4a",
+  "date": "2010-09-05T09:26:11Z",
+  "rawBody": "Bookshelf Porn - A collection of all the best bookshelf photos for people who *heart* bookshelves.",
+  "url": "http://friendfeed.com/zag/655b9770/bookshelf-porn-collection-of-all-best",
+  "thumbnails": [
+    {
+      "height": 169,
+      "link": "http://bookshelfporn.com/",
+      "width": 250,
+      "url": "http://m.friendfeed-media.com/220659f7eea6d52524dc190862a231050e598d39"
+    },
+    {
+      "link": "http://bookshelfporn.com/",
+      "height": 175,
+      "width": 117,
+      "url": "http://m.friendfeed-media.com/3faeabaede8986b985e0e89d12f8dca227b16eec"
+    },
+    {
+      "width": 131,
+      "url": "http://m.friendfeed-media.com/bab00df36fb0aaae8e7dcc9e9d99d12a49885122",
+      "height": 175,
+      "link": "http://bookshelfporn.com/"
+    }
+  ],
+  "rawLink": "http://bookshelfporn.com/",
+  "body": "Bookshelf Porn - A collection of all the best bookshelf photos for people who *heart* bookshelves. - <a rel=\"nofollow\" href=\"http://bookshelfporn.com/\">http://bookshelfporn.com/</a>"
+}
+=end comment
+
+=end pod

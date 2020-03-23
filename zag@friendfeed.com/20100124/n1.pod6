@@ -1,0 +1,48 @@
+=begin pod :pubdate('2010-01-24T09:55:35Z') :type<note> 
+=NAME see two and a half men
+
+=begin DESCRIPTION
+
+see two and a half men
+=for Image :width(233) :link('http://m.friendfeed-media.com/532c910f82f97d983bcb1bd23a524d16710f04b3') :height(175) :preview
+media/76493a86fc3fa83caccbc4ff8b1fa528f459396e.jpg
+
+
+
+=end DESCRIPTION
+
+see two and a half men
+=for Image :width(233) :link('http://m.friendfeed-media.com/532c910f82f97d983bcb1bd23a524d16710f04b3') :height(175) :preview
+media/76493a86fc3fa83caccbc4ff8b1fa528f459396e.jpg
+
+
+
+=begin comment :src
+{
+  "id": "e/fe3d0fac4e8344968cfab02300c023b6",
+  "rawBody": "see two and a half men",
+  "date": "2010-01-24T09:55:35Z",
+  "url": "http://friendfeed.com/zag/fe3d0fac/see-two-and-half-men",
+  "thumbnails": [
+    {
+      "width": 233,
+      "url": "http://m.friendfeed-media.com/76493a86fc3fa83caccbc4ff8b1fa528f459396e",
+      "height": 175,
+      "link": "http://m.friendfeed-media.com/532c910f82f97d983bcb1bd23a524d16710f04b3"
+    }
+  ],
+  "body": "see two and a half men",
+  "rawLink": "http://friendfeed.com/e/fe3d0fac-4e83-4496-8cfa-b02300c023b6",
+  "via": {
+    "url": "http://friendfeed.com/share/mail",
+    "name": "email"
+  },
+  "from": {
+    "name": "углы «Исимуры»",
+    "type": "user",
+    "id": "zag"
+  }
+}
+=end comment
+
+=end pod

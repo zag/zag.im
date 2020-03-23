@@ -1,0 +1,32 @@
+=begin pod :pubdate('2010-07-30T13:56:32Z') :type<note> :tags<Rakudo perl6>
+=NAME @godegisel предложил отличную идею: порт lang/rakudo сделать портом Rakudo Star. И даже сделал это. Забыл только добавить документацию. Итак: порт lang/rakudo  содержит последнюю версию #Rakudo пригодную для разработки на #perl6 !
+
+=begin DESCRIPTION
+
+@godegisel предложил отличную идею: порт lang/rakudo сделать портом Rakudo Star. И даже сделал это. Забыл только добавить документацию. Итак: порт lang/rakudo  содержит последнюю версию #Rakudo пригодную для разработки на #perl6 !
+
+
+
+=end DESCRIPTION
+
+@godegisel предложил отличную идею: порт lang/rakudo сделать портом Rakudo Star. И даже сделал это. Забыл только добавить документацию. Итак: порт lang/rakudo  содержит последнюю версию #Rakudo пригодную для разработки на #perl6 !
+
+
+
+=begin comment :src
+{
+  "from": {
+    "id": "zag",
+    "type": "user",
+    "name": "углы «Исимуры»"
+  },
+  "id": "e/d261f30900d04f9ca7c854e8a6693661",
+  "date": "2010-07-30T13:56:32Z",
+  "rawBody": "@godegisel предложил отличную идею: порт lang/rakudo сделать портом Rakudo Star. И даже сделал это. Забыл только добавить документацию. Итак: порт lang/rakudo  содержит последнюю версию #Rakudo пригодную для разработки на #perl6 !",
+  "url": "http://friendfeed.com/zag/d261f309/godegisel-lang-rakudo-star-perl6",
+  "body": "@godegisel предложил отличную идею: порт lang/rakudo сделать портом Rakudo Star. И даже сделал это. Забыл только добавить документацию. Итак: порт lang/rakudo  содержит последнюю версию <a href=\"http://friendfeed.com/search?q=%23Rakudo\">#Rakudo</a> пригодную для разработки на <a href=\"http://friendfeed.com/search?q=%23perl6\">#perl6</a> !",
+  "rawLink": "http://friendfeed.com/e/d261f309-00d0-4f9c-a7c8-54e8a6693661"
+}
+=end comment
+
+=end pod

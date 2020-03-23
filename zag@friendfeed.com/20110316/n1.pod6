@@ -1,0 +1,77 @@
+=begin pod :pubdate('2011-03-16T15:18:58Z') :type<note> 
+=NAME Hire Free Web Developer. http://t.co/u8KnKLn
+
+=begin DESCRIPTION
+
+Hire Free Web Developer. http://t.co/u8KnKLn - L<link|http://twitter.com/zagru/statuses/48040566352646144>
+
+=item I work for you 20hr per week for 2 months
+=item I will work for free
+=item I want to work at something I find interesting and get opportunity to travel.
+
+
+=end DESCRIPTION
+
+Hire Free Web Developer. http://t.co/u8KnKLn - L<link|http://twitter.com/zagru/statuses/48040566352646144>
+
+=item I work for you 20hr per week for 2 months
+=item I will work for free
+=item I want to work at something I find interesting and get opportunity to travel.
+
+
+=begin comment :src
+{
+  "from": {
+    "name": "углы «Исимуры»",
+    "type": "user",
+    "id": "zag"
+  },
+  "via": {
+    "name": "Twitter",
+    "url": "http://twitter.com/zagru/statuses/48040566352646144"
+  },
+  "comments": [
+    {
+      "id": "e/2d99343cbafdf93612b0110a77b1885b/c/3409d995714e4dcca05842e889ec1332",
+      "rawBody": "I work for you 20hr per week for 2 months",
+      "from": {
+        "name": "углы «Исимуры»",
+        "type": "user",
+        "id": "zag"
+      },
+      "date": "2011-03-16T15:21:12Z",
+      "body": "I work for you 20hr per week for 2 months"
+    },
+    {
+      "body": "I will work for free",
+      "rawBody": "I will work for free",
+      "date": "2011-03-16T15:21:18Z",
+      "id": "e/2d99343cbafdf93612b0110a77b1885b/c/e16ffec44fae4cbea3efab7d6284bf18",
+      "from": {
+        "type": "user",
+        "id": "zag",
+        "name": "углы «Исимуры»"
+      }
+    },
+    {
+      "body": "I want to work at something I find interesting and get opportunity to travel.",
+      "rawBody": "I want to work at something I find interesting and get opportunity to travel.",
+      "date": "2011-03-16T15:21:49Z",
+      "id": "e/2d99343cbafdf93612b0110a77b1885b/c/0d53f461ba224d8fa54187af6021ee18",
+      "from": {
+        "id": "zag",
+        "type": "user",
+        "name": "углы «Исимуры»"
+      }
+    }
+  ],
+  "date": "2011-03-16T15:18:58Z",
+  "id": "e/2d99343cbafdf93612b0110a77b1885b",
+  "rawBody": "Hire Free Web Developer. http://t.co/u8KnKLn",
+  "url": "http://friendfeed.com/zag/2d99343c/hire-free-web-developer",
+  "rawLink": "http://twitter.com/zagru/statuses/48040566352646144",
+  "body": "Hire Free Web Developer. <a rel=\"nofollow\" href=\"http://t.co/u8KnKLn\" title=\"http://hirefreecoder.heroku.com/?sms_ss=twitter&amp;at_xt=4d80d45844a666af,0\">http://hirefreecoder.heroku.com/...</a>"
+}
+=end comment
+
+=end pod

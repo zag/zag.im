@@ -1,0 +1,74 @@
+=begin pod :pubdate('2009-05-28T07:49:39Z') :type<note> :tags<17>
+=NAME The port of rakudo perl6 compiler for FreeBSD is updated to rakudo #17(Stockholm) and parrot 1.2.0 http://rakudoport.sourceforge.net/
+
+=begin DESCRIPTION
+
+The port of rakudo perl6 compiler for FreeBSD is updated to rakudo #17(Stockholm) and parrot 1.2.0 http://rakudoport.sourceforge.net/ - L<link|http://twitter.com/zagru/statuses/1945077366>
+
+=item Одно не ясно -- если это порт, то почему его в портах нет?!
+=item Ждемс одобрения  http://www.freebsd.org/cgi/query-pr.cgi?pr=130629
+
+
+=end DESCRIPTION
+
+The port of rakudo perl6 compiler for FreeBSD is updated to rakudo #17(Stockholm) and parrot 1.2.0 http://rakudoport.sourceforge.net/ - L<link|http://twitter.com/zagru/statuses/1945077366>
+
+=item Одно не ясно -- если это порт, то почему его в портах нет?!
+=item Ждемс одобрения  http://www.freebsd.org/cgi/query-pr.cgi?pr=130629
+
+
+=begin comment :src
+{
+  "likes": [
+    {
+      "date": "2009-05-28T08:28:15Z",
+      "from": {
+        "id": "kkapp",
+        "type": "user",
+        "name": "alex@kapranoff.ru"
+      }
+    }
+  ],
+  "rawLink": "http://twitter.com/zagru/statuses/1945077366",
+  "body": "The port of rakudo perl6 compiler for FreeBSD is updated to rakudo <a rel=\"nofollow\" href=\"http://search.twitter.com/search?q=%2317\">#17</a>(Stockholm) and parrot 1.2.0 <a rel=\"nofollow\" href=\"http://rakudoport.sourceforge.net/\" title=\"http://rakudoport.sourceforge.net/\">http://rakudoport.sourceforge.net/</a>",
+  "id": "e/eb43bc15f14e01522af4b1015c187cbb",
+  "rawBody": "The port of rakudo perl6 compiler for FreeBSD is updated to rakudo #17(Stockholm) and parrot 1.2.0 http://rakudoport.sourceforge.net/",
+  "date": "2009-05-28T07:49:39Z",
+  "url": "http://friendfeed.com/zag/eb43bc15/port-of-rakudo-perl6-compiler-for-freebsd-is",
+  "comments": [
+    {
+      "body": "Одно не ясно -- если это порт, то почему его в портах нет?!",
+      "rawBody": "Одно не ясно -- если это порт, то почему его в портах нет?!",
+      "id": "e/eb43bc15f14e01522af4b1015c187cbb/c/95276c2aaffe42a18abcd689068b5c35",
+      "from": {
+        "name": "рептильный дом",
+        "id": "blacklion",
+        "type": "user"
+      },
+      "date": "2009-05-28T08:43:43Z"
+    },
+    {
+      "rawBody": "Ждемс одобрения  http://www.freebsd.org/cgi/query-pr.cgi?pr=130629",
+      "id": "e/eb43bc15f14e01522af4b1015c187cbb/c/78b3397876d94bdfa9e3a72baee2cef1",
+      "from": {
+        "id": "zag",
+        "type": "user",
+        "name": "углы «Исимуры»"
+      },
+      "date": "2009-05-28T08:45:44Z",
+      "body": "Ждемс одобрения  <a rel=\"nofollow\" href=\"http://www.freebsd.org/cgi/query-pr.cgi?pr=130629\" title=\"http://www.freebsd.org/cgi/query-pr.cgi?pr=130629\">http://www.freebsd.org/cgi...</a>"
+    }
+  ],
+  "via": {
+    "name": "Twitter",
+    "url": "http://twitter.com/zagru/statuses/1945077366"
+  },
+  "from": {
+    "type": "user",
+    "id": "zag",
+    "name": "углы «Исимуры»"
+  }
+}
+=end comment
+
+=end pod

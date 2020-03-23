@@ -1,0 +1,44 @@
+=begin pod :pubdate('2011-05-13T19:10:50Z') :type<note> 
+=NAME Source of twitter status issues
+
+=begin DESCRIPTION
+
+Source of twitter status issues
+=for Image :width(207) :link('http://m.friendfeed-media.com/b1420460c9ea81ae5c06f6c323709d6963bf0cfb') :height(175) :preview
+media/5191417498989883a2bd190834db0c9e6a92ca09.jpg
+
+
+
+=end DESCRIPTION
+
+Source of twitter status issues
+=for Image :width(207) :link('http://m.friendfeed-media.com/b1420460c9ea81ae5c06f6c323709d6963bf0cfb') :height(175) :preview
+media/5191417498989883a2bd190834db0c9e6a92ca09.jpg
+
+
+
+=begin comment :src
+{
+  "id": "e/2ed6fd3484ec478b99e799994a690192",
+  "url": "http://friendfeed.com/zag/2ed6fd34/source-of-twitter-status-issues",
+  "date": "2011-05-13T19:10:50Z",
+  "rawBody": "Source of twitter status issues",
+  "thumbnails": [
+    {
+      "height": 175,
+      "link": "http://m.friendfeed-media.com/b1420460c9ea81ae5c06f6c323709d6963bf0cfb",
+      "url": "http://m.friendfeed-media.com/5191417498989883a2bd190834db0c9e6a92ca09",
+      "width": 207
+    }
+  ],
+  "body": "Source of twitter status issues",
+  "rawLink": "http://friendfeed.com/e/2ed6fd34-84ec-478b-99e7-99994a690192",
+  "from": {
+    "type": "user",
+    "id": "zag",
+    "name": "углы «Исимуры»"
+  }
+}
+=end comment
+
+=end pod

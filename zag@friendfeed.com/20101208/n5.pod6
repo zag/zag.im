@@ -1,0 +1,128 @@
+=begin pod :pubdate('2010-12-08T08:49:49Z') :type<note> 
+=NAME У Motorola Milestone/Droid хороший qwerty.
+
+=begin DESCRIPTION
+
+У Motorola Milestone/Droid хороший qwerty.
+=for Image :width(233) :link('http://m.friendfeed-media.com/0408bea95a8a4894c0fdaa7b8abf2298f4a65518') :height(175) :preview
+media/41f24a86ff8ffe80014d557b7651fb43ca35fe39.jpg
+=for Image :width(233) :link('http://m.friendfeed-media.com/8694660ba82ff9d973da2a4cc49b5c8141804c65') :height(175) :preview
+media/f008eb655dae831eb9e34aad3d7076435e36ea9a.jpg
+=for Image :width(233) :link('http://m.friendfeed-media.com/40fbdd68ef0021c9ce83605a7682f0d57dcb87c2') :height(175) :preview
+media/fc28b74483116158af18e51e1a1630e8c0534d93.jpg
+=for Image :width(233) :link('http://m.friendfeed-media.com/5c669d1f5dba204f0eefe09b1335ea9e664507be') :height(175) :preview
+media/61e9d9e16ac390ce4ab545d81e7c08682dc48092.jpg
+
+=item 1. Двойное нажатие для нектороых клавиш позволяет вводить символы без использования клавиши fn.
+=item 2. Упругий механизм слайдера.
+=item 3. Джойстик при редактировании выключает режим двойного нажания fn (ввод спец символов)
+=item Нет буквы ё, зато есть символы < и > прямо на клавишах.
+
+
+=end DESCRIPTION
+
+У Motorola Milestone/Droid хороший qwerty.
+=for Image :width(233) :link('http://m.friendfeed-media.com/0408bea95a8a4894c0fdaa7b8abf2298f4a65518') :height(175) :preview
+media/41f24a86ff8ffe80014d557b7651fb43ca35fe39.jpg
+=for Image :width(233) :link('http://m.friendfeed-media.com/8694660ba82ff9d973da2a4cc49b5c8141804c65') :height(175) :preview
+media/f008eb655dae831eb9e34aad3d7076435e36ea9a.jpg
+=for Image :width(233) :link('http://m.friendfeed-media.com/40fbdd68ef0021c9ce83605a7682f0d57dcb87c2') :height(175) :preview
+media/fc28b74483116158af18e51e1a1630e8c0534d93.jpg
+=for Image :width(233) :link('http://m.friendfeed-media.com/5c669d1f5dba204f0eefe09b1335ea9e664507be') :height(175) :preview
+media/61e9d9e16ac390ce4ab545d81e7c08682dc48092.jpg
+
+=item 1. Двойное нажатие для нектороых клавиш позволяет вводить символы без использования клавиши fn.
+=item 2. Упругий механизм слайдера.
+=item 3. Джойстик при редактировании выключает режим двойного нажания fn (ввод спец символов)
+=item Нет буквы ё, зато есть символы < и > прямо на клавишах.
+
+
+=begin comment :src
+{
+  "from": {
+    "id": "zag",
+    "type": "user",
+    "name": "углы «Исимуры»"
+  },
+  "comments": [
+    {
+      "body": "1. Двойное нажатие для нектороых клавиш позволяет вводить символы без использования клавиши fn.",
+      "date": "2010-12-08T08:50:53Z",
+      "rawBody": "1. Двойное нажатие для нектороых клавиш позволяет вводить символы без использования клавиши fn.",
+      "id": "e/ad80efbce59242b780d13c06cd207c09/c/af2bc99af851477484ca70146891edd4",
+      "from": {
+        "type": "user",
+        "id": "zag",
+        "name": "углы «Исимуры»"
+      }
+    },
+    {
+      "body": "2. Упругий механизм слайдера.",
+      "rawBody": "2. Упругий механизм слайдера.",
+      "from": {
+        "name": "углы «Исимуры»",
+        "type": "user",
+        "id": "zag"
+      },
+      "id": "e/ad80efbce59242b780d13c06cd207c09/c/fd43be449bad4c5493e1aa7e4f1551eb",
+      "date": "2010-12-08T08:51:31Z"
+    },
+    {
+      "body": "3. Джойстик при редактировании выключает режим двойного нажания fn (ввод спец символов)",
+      "id": "e/ad80efbce59242b780d13c06cd207c09/c/42540c5193e14a9697c007f59a58ba1b",
+      "rawBody": "3. Джойстик при редактировании выключает режим двойного нажания fn (ввод спец символов)",
+      "date": "2010-12-08T08:56:23Z",
+      "from": {
+        "type": "user",
+        "id": "zag",
+        "name": "углы «Исимуры»"
+      }
+    },
+    {
+      "body": "Нет буквы ё, зато есть символы &lt; и &gt; прямо на клавишах.",
+      "rawBody": "Нет буквы ё, зато есть символы < и > прямо на клавишах.",
+      "id": "e/ad80efbce59242b780d13c06cd207c09/c/f16dcaa8fb104a8495e0ac32347b3aa7",
+      "date": "2010-12-08T08:59:06Z",
+      "from": {
+        "name": "углы «Исимуры»",
+        "id": "zag",
+        "type": "user"
+      }
+    }
+  ],
+  "date": "2010-12-08T08:49:49Z",
+  "id": "e/ad80efbce59242b780d13c06cd207c09",
+  "url": "http://friendfeed.com/zag/ad80efbc/motorola-milestone-droid-qwerty",
+  "rawBody": "У Motorola Milestone/Droid хороший qwerty.",
+  "thumbnails": [
+    {
+      "width": 233,
+      "url": "http://m.friendfeed-media.com/41f24a86ff8ffe80014d557b7651fb43ca35fe39",
+      "height": 175,
+      "link": "http://m.friendfeed-media.com/0408bea95a8a4894c0fdaa7b8abf2298f4a65518"
+    },
+    {
+      "width": 233,
+      "url": "http://m.friendfeed-media.com/f008eb655dae831eb9e34aad3d7076435e36ea9a",
+      "height": 175,
+      "link": "http://m.friendfeed-media.com/8694660ba82ff9d973da2a4cc49b5c8141804c65"
+    },
+    {
+      "url": "http://m.friendfeed-media.com/fc28b74483116158af18e51e1a1630e8c0534d93",
+      "width": 233,
+      "link": "http://m.friendfeed-media.com/40fbdd68ef0021c9ce83605a7682f0d57dcb87c2",
+      "height": 175
+    },
+    {
+      "width": 233,
+      "url": "http://m.friendfeed-media.com/61e9d9e16ac390ce4ab545d81e7c08682dc48092",
+      "height": 175,
+      "link": "http://m.friendfeed-media.com/5c669d1f5dba204f0eefe09b1335ea9e664507be"
+    }
+  ],
+  "body": "У Motorola Milestone/Droid хороший qwerty.",
+  "rawLink": "http://friendfeed.com/e/ad80efbc-e592-42b7-80d1-3c06cd207c09"
+}
+=end comment
+
+=end pod

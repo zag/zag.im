@@ -1,0 +1,96 @@
+=begin pod :pubdate('2012-01-13 11:00:00') :tags<js perl>
+=NAME Грамматики для Perl 5 и JavaScript
+
+=begin DESCRIPTION
+
+В продолжение темы инструментов синтаксического анализа опишу еще пару.
+
+=end DESCRIPTION
+
+В продолжение темы инструментов синтаксического анализа N<Грамматики в Java, Perl 6 и Perl 5. L<http://zag.ru/2011/318/a1/grammatiki-v-Java-Perl-6-i-Perl-5.html>> опишу еще пару.
+
+Прежде приведу ссылку на статью про основу построений грамматик в Perl 5 N< О грамматиках в v5.10. L<http://www.effectiveperlprogramming.com/blog/1479>>.
+
+=head2 Парсер Marpa для Perl 5
+
+Alexey Shrub I<(за что ему отдельное спасибо)> подбросил ссылку на еще одну библиотеку для Perl 5 - Marpa N<Библиотека для синтаксического анализа Marpa. L<http://www.jeffreykegler.com/marpa>>. Этому проекту около 4 лет и недавно вышла XS версия за номером 1.0 N<Marpa::XS is now 1.000000. L<http://blogs.perl.org/users/jeffrey_kegler/2011/12/marpaxs-is-now-1000000.html>>, что вроде как намекает на стабильность.
+
+Вот пример грамматики, описывающей простой калькулятор:
+
+=begin code
+
+my $grammar = Marpa::PP::Grammar->new(
+    {   start   => 'Expression',
+        actions => 'My_Actions',
+        default_action => 'first_arg',
+        rules   => [
+            { lhs => 'Expression', rhs => [qw/Term/] },
+            { lhs => 'Term', rhs => [qw/Factor/] },
+            { lhs => 'Factor', rhs => [qw/Number/] },
+            { lhs => 'Term', rhs => [qw/Term Add Term/], action => 'do_add' },
+            {   lhs    => 'Factor',
+                rhs    => [qw/Factor Multiply Factor/],
+                action => 'do_multiply'
+            },
+        ],
+    }
+);
+=end code
+
+Непосредственно правила описываются в виде массива хэшей, в которых ключи
+C<lhs> - имена правил, а ключи C<rhs> описывают возможные комбинации значений. Marpa умеет вызывать обработчики правил для выполнения каких-либо
+действий (ключ B<action>).
+
+В правилах I<не> используются регулярные выражения. Чтобы описать количество повторений используется  ключ "min". 
+
+Например:
+
+=for code :allow<B>
+  # Эквивалент * в регулярных выражениях
+  { lhs => 'sequence', rhs => ['item'], B<min> => 0 } 
+
+Возможные значения должны быть перечислены явно:
+
+=for code :allow<B>
+    $recce->read( B<'Number', 42> );
+    $recce->read( 'Multiply', );
+    $recce->read( B<'Number', 1> );
+    $recce->read( 'Add', );
+    $recce->read( B<'Number', 7> );
+
+Это и есть расплата за игнорирование регулярных выражений в угоду скорости :-). Советую посмотреть программу по разбору CSS N<Sample CSS Parser using Marpa::XS. L<https://gist.github.com/1511584>>. Там, в начале, производится анализ и сбор возможных значений с помощью регулярных выражений I<(никуда тут не денешься)>.
+
+Также возможно будет интерсна стратья об  использовании библиотеки Marpa-HTML N<How to Parse HTML. L<http://blogs.perl.org/users/jeffrey_kegler/2011/11/how-to-parse-html.html>> для обработки HTML. И я I<не> советую смотреть в исходный код самого парсера Marpa-HTML N< Marpa-HTML.L<http://search.cpan.org/dist/Marpa-HTML/>>.
+
+
+=head2 Грамматики для JavaScript
+
+Наиболее развитым, на мой взгляд, является PEG.js N<Parser Generator for JavaScript.L<http://pegjs.majda.cz/>>
+    
+Парсер грамматик работает по принципу Javacc I<(да и по синтаксису очень похож)>: сначала описываются грамматики, а затем генерируется парсер. Генератор кода запускается под Node.js.
+
+Вот пример грамматики для обработки арифметического выражения C<2*(3+4)>:
+
+=begin code
+start
+  = additive
+
+additive
+  = left:multiplicative "+" right:additive { return left + right; }
+  / multiplicative
+
+multiplicative
+  = left:primary "*" right:multiplicative { return left * right; }
+  / primary
+
+primary
+  = integer
+  / "(" additive:additive ")" { return additive; }
+
+integer "integer" 
+  = digits:[0-9]+ { return parseInt(digits.join(""), 10); }
+=end code
+
+Peg.js используется для обработки SQL-подобных запросов в http://ql.io/ N<Анонс инструментария для разработки mashup-приложений. L<http://www.opennet.ru/opennews/art.shtml?num=32463>>.
+
+=end pod

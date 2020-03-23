@@ -1,0 +1,77 @@
+=begin pod :pubdate('2010-04-06T09:20:54Z') :type<note> 
+=NAME FriendFeed's Fade From the View of Downstream Traffic
+
+=begin DESCRIPTION
+
+FriendFeed's Fade From the View of Downstream Traffic - L<link|http://blog.louisgray.com/2010/04/graphs-friendfeeds-fade-from-view-of.html>
+=for Image :width(400) :link('http://blog.louisgray.com/2010/04/graphs-friendfeeds-fade-from-view-of.html') :height(99) :preview
+media/5991ff6423971a1758ebfa8d64ad0af3d08e6e05.png
+=for Image :width(284) :link('http://blog.louisgray.com/2010/04/graphs-friendfeeds-fade-from-view-of.html') :height(175) :preview
+media/fe5e1d30b63c5a2cdbc4402a262f8f5e0f773c33.jpg
+
+=item Referrals here from FriendFeed dropped below 2,000 by June of 2009, fell below 1,000 by fall of 2009
+
+
+=end DESCRIPTION
+
+FriendFeed's Fade From the View of Downstream Traffic - L<link|http://blog.louisgray.com/2010/04/graphs-friendfeeds-fade-from-view-of.html>
+=for Image :width(400) :link('http://blog.louisgray.com/2010/04/graphs-friendfeeds-fade-from-view-of.html') :height(99) :preview
+media/5991ff6423971a1758ebfa8d64ad0af3d08e6e05.png
+=for Image :width(284) :link('http://blog.louisgray.com/2010/04/graphs-friendfeeds-fade-from-view-of.html') :height(175) :preview
+media/fe5e1d30b63c5a2cdbc4402a262f8f5e0f773c33.jpg
+
+=item Referrals here from FriendFeed dropped below 2,000 by June of 2009, fell below 1,000 by fall of 2009
+
+
+=begin comment :src
+{
+  "from": {
+    "type": "user",
+    "id": "zag",
+    "name": "углы «Исимуры»"
+  },
+  "via": {
+    "name": "Bookmarklet",
+    "url": "http://friendfeed.com/share/bookmarklet"
+  },
+  "comments": [
+    {
+      "body": "Referrals here from FriendFeed dropped below 2,000 by June of 2009, fell below 1,000 by fall of 2009",
+      "via": {
+        "url": "http://friendfeed.com/share/bookmarklet",
+        "name": "Bookmarklet"
+      },
+      "rawBody": "Referrals here from FriendFeed dropped below 2,000 by June of 2009, fell below 1,000 by fall of 2009",
+      "id": "e/539fa56f9908462294a0b78b7846fb4e/c/d935fd832f0446ad8d8128dc885f74cd",
+      "date": "2010-04-06T09:20:54Z",
+      "from": {
+        "name": "углы «Исимуры»",
+        "type": "user",
+        "id": "zag"
+      }
+    }
+  ],
+  "rawBody": "FriendFeed's Fade From the View of Downstream Traffic",
+  "id": "e/539fa56f9908462294a0b78b7846fb4e",
+  "date": "2010-04-06T09:20:54Z",
+  "url": "http://friendfeed.com/zag/539fa56f/friendfeed-fade-from-view-of-downstream",
+  "thumbnails": [
+    {
+      "height": 99,
+      "link": "http://blog.louisgray.com/2010/04/graphs-friendfeeds-fade-from-view-of.html",
+      "width": 400,
+      "url": "http://m.friendfeed-media.com/5991ff6423971a1758ebfa8d64ad0af3d08e6e05"
+    },
+    {
+      "height": 175,
+      "link": "http://blog.louisgray.com/2010/04/graphs-friendfeeds-fade-from-view-of.html",
+      "width": 284,
+      "url": "http://m.friendfeed-media.com/fe5e1d30b63c5a2cdbc4402a262f8f5e0f773c33"
+    }
+  ],
+  "body": "FriendFeed's Fade From the View of Downstream Traffic - <a rel=\"nofollow\" href=\"http://blog.louisgray.com/2010/04/graphs-friendfeeds-fade-from-view-of.html\" title=\"http://blog.louisgray.com/2010/04/graphs-friendfeeds-fade-from-view-of.html\">http://blog.louisgray.com/2010...</a>",
+  "rawLink": "http://blog.louisgray.com/2010/04/graphs-friendfeeds-fade-from-view-of.html"
+}
+=end comment
+
+=end pod

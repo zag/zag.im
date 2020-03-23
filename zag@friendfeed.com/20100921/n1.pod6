@@ -1,0 +1,48 @@
+=begin pod :pubdate('2010-09-21T07:37:35Z') :type<note> 
+=NAME Mingle2 - The Mind of a Web Developer: An Illustrated Diagram
+
+=begin DESCRIPTION
+
+Mingle2 - The Mind of a Web Developer: An Illustrated Diagram - L<link|http://mingle2.com/blog/view/web-developer-mind>
+=for Image :width(181) :link('http://mingle2.com/blog/view/web-developer-mind') :height(175) :preview
+media/cce736da24bc2eb6e66bf6f3c35fa9c27d135397.jpg
+
+
+
+=end DESCRIPTION
+
+Mingle2 - The Mind of a Web Developer: An Illustrated Diagram - L<link|http://mingle2.com/blog/view/web-developer-mind>
+=for Image :width(181) :link('http://mingle2.com/blog/view/web-developer-mind') :height(175) :preview
+media/cce736da24bc2eb6e66bf6f3c35fa9c27d135397.jpg
+
+
+
+=begin comment :src
+{
+  "from": {
+    "id": "zag",
+    "type": "user",
+    "name": "углы «Исимуры»"
+  },
+  "via": {
+    "name": "Bookmarklet",
+    "url": "http://friendfeed.com/share/bookmarklet"
+  },
+  "id": "e/a41a0569bbf247938d5085f935701c9d",
+  "date": "2010-09-21T07:37:35Z",
+  "url": "http://friendfeed.com/zag/a41a0569/mingle2-mind-of-web-developer-illustrated",
+  "rawBody": "Mingle2 - The Mind of a Web Developer: An Illustrated Diagram",
+  "thumbnails": [
+    {
+      "link": "http://mingle2.com/blog/view/web-developer-mind",
+      "height": 175,
+      "width": 181,
+      "url": "http://m.friendfeed-media.com/cce736da24bc2eb6e66bf6f3c35fa9c27d135397"
+    }
+  ],
+  "body": "Mingle2 - The Mind of a Web Developer: An Illustrated Diagram - <a rel=\"nofollow\" href=\"http://mingle2.com/blog/view/web-developer-mind\" title=\"http://mingle2.com/blog/view/web-developer-mind\">http://mingle2.com/blog...</a>",
+  "rawLink": "http://mingle2.com/blog/view/web-developer-mind"
+}
+=end comment
+
+=end pod

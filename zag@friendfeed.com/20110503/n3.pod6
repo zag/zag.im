@@ -1,0 +1,173 @@
+=begin pod :pubdate('2011-05-03T08:01:02Z') :type<note> 
+=NAME Багz (via http://ff.im/CvzTF)
+
+=begin DESCRIPTION
+
+Багz (via http://ff.im/CvzTF)
+=for Image :width(149) :link('http://m.friendfeed-media.com/72b3bd10c6682381c32556243da31903d3298463') :height(175) :preview
+media/379ad5311e058f2c36d7bf516be84b44657cd3f0.jpg
+
+=item Интересно попробовать его в метро
+=item еще внутрь кинуть магнитофон с записью стрекочущих жвал
+
+
+=end DESCRIPTION
+
+Багz (via http://ff.im/CvzTF)
+=for Image :width(149) :link('http://m.friendfeed-media.com/72b3bd10c6682381c32556243da31903d3298463') :height(175) :preview
+media/379ad5311e058f2c36d7bf516be84b44657cd3f0.jpg
+
+=item Интересно попробовать его в метро
+=item еще внутрь кинуть магнитофон с записью стрекочущих жвал
+
+
+=begin comment :src
+{
+  "comments": [
+    {
+      "body": "Интересно попробовать его в метро",
+      "from": {
+        "type": "user",
+        "id": "ruguevara",
+        "name": "ʕ⨂˕̥⨂ʔ Т ПДМЛ?"
+      },
+      "rawBody": "Интересно попробовать его в метро",
+      "id": "e/b701a967a2b54035b028bea59a34e9f7/c/05ccc4e6fa81435b86ae3232c44966b3",
+      "date": "2011-05-03T08:24:40Z"
+    },
+    {
+      "from": {
+        "name": "Покак Пузантес",
+        "id": "prdx",
+        "type": "user"
+      },
+      "rawBody": "еще внутрь кинуть магнитофон с записью стрекочущих жвал",
+      "id": "e/b701a967a2b54035b028bea59a34e9f7/c/bf701c9c5cd34ce2afa40ee5cb2423ff",
+      "date": "2011-05-03T09:11:27Z",
+      "body": "еще внутрь кинуть магнитофон с записью стрекочущих жвал"
+    }
+  ],
+  "from": {
+    "name": "углы «Исимуры»",
+    "id": "zag",
+    "type": "user"
+  },
+  "body": "Багz (via <a href=\"http://ff.im/CvzTF\" title=\"http://friendfeed.com/ajbatac/d04e143a/want\">http://friendfeed.com/ajbatac...</a>)",
+  "rawLink": "http://friendfeed.com/e/b701a967-a2b5-4035-b028-bea59a34e9f7",
+  "likes": [
+    {
+      "date": "2011-05-04T18:46:13Z",
+      "from": {
+        "name": "Sergey Zhuzhgov",
+        "id": "sergeyzhuzhgov",
+        "type": "user",
+        "private": true
+      }
+    },
+    {
+      "date": "2011-05-03T17:08:40Z",
+      "from": {
+        "name": "sona",
+        "id": "sonna",
+        "type": "user"
+      }
+    },
+    {
+      "from": {
+        "name": "ReCoder",
+        "id": "recoder",
+        "type": "user"
+      },
+      "date": "2011-05-03T14:01:59Z"
+    },
+    {
+      "date": "2011-05-03T12:10:21Z",
+      "from": {
+        "name": "Шатать интроекты",
+        "type": "user",
+        "id": "patamyshta",
+        "private": true
+      }
+    },
+    {
+      "date": "2011-05-03T10:50:24Z",
+      "from": {
+        "id": "kuchin",
+        "type": "user",
+        "name": "kuchin"
+      }
+    },
+    {
+      "from": {
+        "type": "user",
+        "id": "prool",
+        "name": "prool"
+      },
+      "date": "2011-05-03T09:52:46Z"
+    },
+    {
+      "from": {
+        "type": "user",
+        "id": "prdx",
+        "name": "Покак Пузантес"
+      },
+      "date": "2011-05-03T08:29:01Z"
+    },
+    {
+      "date": "2011-05-03T08:15:44Z",
+      "from": {
+        "name": "indeyets",
+        "type": "user",
+        "id": "indeyets"
+      }
+    },
+    {
+      "date": "2011-05-03T08:09:04Z",
+      "from": {
+        "type": "user",
+        "id": "dyachkoff",
+        "private": true,
+        "name": "Ivan"
+      }
+    },
+    {
+      "from": {
+        "type": "user",
+        "id": "afds",
+        "name": "afds"
+      },
+      "date": "2011-05-03T08:05:09Z"
+    },
+    {
+      "date": "2011-05-03T08:03:28Z",
+      "from": {
+        "name": "woof",
+        "type": "user",
+        "id": "woof"
+      }
+    },
+    {
+      "date": "2011-05-03T08:02:35Z",
+      "from": {
+        "name": "alex@kapranoff.ru",
+        "id": "kkapp",
+        "type": "user"
+      }
+    }
+  ],
+  "date": "2011-05-03T08:01:02Z",
+  "id": "e/b701a967a2b54035b028bea59a34e9f7",
+  "rawBody": "Багz (via http://ff.im/CvzTF)",
+  "url": "http://friendfeed.com/zag/b701a967/z-via",
+  "thumbnails": [
+    {
+      "height": 175,
+      "link": "http://m.friendfeed-media.com/72b3bd10c6682381c32556243da31903d3298463",
+      "url": "http://m.friendfeed-media.com/379ad5311e058f2c36d7bf516be84b44657cd3f0",
+      "width": 149
+    }
+  ]
+}
+=end comment
+
+=end pod

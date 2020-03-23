@@ -1,0 +1,77 @@
+=begin pod :pubdate('2010-08-16T11:00:03Z') :type<note> 
+=NAME Perl Vogue - Perl  fashion  magazine (http://www.slideshare.net/davorg/perl-vogue ),  Dave Cross
+
+=begin DESCRIPTION
+
+Perl Vogue - Perl  fashion  magazine (http://www.slideshare.net/davorg/perl-vogue ),  Dave Cross - L<link|http://perlvogue.com/>
+=for Image :width(125) :link('http://perlvogue.com/') :height(175) :preview
+media/81254675058d9a4ab865a41f412531929c05b443.jpg
+
+=item I<#>yapceu2010
+
+
+=end DESCRIPTION
+
+Perl Vogue - Perl  fashion  magazine (http://www.slideshare.net/davorg/perl-vogue ),  Dave Cross - L<link|http://perlvogue.com/>
+=for Image :width(125) :link('http://perlvogue.com/') :height(175) :preview
+media/81254675058d9a4ab865a41f412531929c05b443.jpg
+
+=item I<#>yapceu2010
+
+
+=begin comment :src
+{
+  "rawLink": "http://perlvogue.com/",
+  "likes": [
+    {
+      "date": "2010-08-16T11:02:45Z",
+      "from": {
+        "name": "Daina Thomas",
+        "id": "dainathomas1",
+        "type": "user"
+      }
+    }
+  ],
+  "body": "Perl Vogue - Perl  fashion  magazine (<a rel=\"nofollow\" href=\"http://www.slideshare.net/davorg/perl-vogue\" title=\"http://www.slideshare.net/davorg/perl-vogue\">http://www.slideshare.net/davorg...</a> ),  Dave Cross - <a rel=\"nofollow\" href=\"http://perlvogue.com/\">http://perlvogue.com/</a>",
+  "date": "2010-08-16T11:00:03Z",
+  "id": "e/b382eed457004b0094434cf6e0bcbb68",
+  "rawBody": "Perl Vogue - Perl  fashion  magazine (http://www.slideshare.net/davorg/perl-vogue ),  Dave Cross",
+  "thumbnails": [
+    {
+      "width": 125,
+      "url": "http://m.friendfeed-media.com/81254675058d9a4ab865a41f412531929c05b443",
+      "link": "http://perlvogue.com/",
+      "height": 175
+    }
+  ],
+  "url": "http://friendfeed.com/zag/b382eed4/perl-vogue-fashion-magazine-dave-cross",
+  "comments": [
+    {
+      "from": {
+        "type": "user",
+        "id": "zag",
+        "name": "углы «Исимуры»"
+      },
+      "id": "e/b382eed457004b0094434cf6e0bcbb68/c/9fc208e789cd4f288e50e475b0946f80",
+      "date": "2010-08-16T11:00:03Z",
+      "rawBody": "I<#>yapceu2010",
+      "via": {
+        "name": "Bookmarklet",
+        "url": "http://friendfeed.com/share/bookmarklet"
+      },
+      "body": "<a href=\"http://friendfeed.com/search?q=%23yapceu2010\">#yapceu2010</a>"
+    }
+  ],
+  "via": {
+    "name": "Bookmarklet",
+    "url": "http://friendfeed.com/share/bookmarklet"
+  },
+  "from": {
+    "name": "углы «Исимуры»",
+    "type": "user",
+    "id": "zag"
+  }
+}
+=end comment
+
+=end pod

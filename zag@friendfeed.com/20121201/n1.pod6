@@ -1,0 +1,100 @@
+=begin pod :pubdate('2012-12-01T07:23:44Z') :type<note> 
+=NAME The Weise7 in/compatible Laboratorium Archive
+
+=begin DESCRIPTION
+
+The Weise7 in/compatible Laboratorium Archive - L<link|http://weise7.org/book/>
+=for Image :width(233) :link('http://weise7.org/book/') :height(175) :preview
+media/19861a60ec5f6ce655e85df7481a8e2155dcac57.jpg
+=for Image :width(233) :link('http://weise7.org/book/') :height(175) :preview
+media/848f1c8ae316ad366f563029f835a1751c78445e.jpg
+=for Image :width(233) :link('http://weise7.org/book/') :height(175) :preview
+media/e9ec536bac13e32faf09f4f4f7fd0a01e6012fe3.jpg
+
+=item "Unlike other books, this book acts as an Internet independent wireless server, running from a tiny, custom designed computer inside the book."
+=item "To start the server just open the book and connect to it wirelessly using your laptop, tablet or phone. "
+
+
+=end DESCRIPTION
+
+The Weise7 in/compatible Laboratorium Archive - L<link|http://weise7.org/book/>
+=for Image :width(233) :link('http://weise7.org/book/') :height(175) :preview
+media/19861a60ec5f6ce655e85df7481a8e2155dcac57.jpg
+=for Image :width(233) :link('http://weise7.org/book/') :height(175) :preview
+media/848f1c8ae316ad366f563029f835a1751c78445e.jpg
+=for Image :width(233) :link('http://weise7.org/book/') :height(175) :preview
+media/e9ec536bac13e32faf09f4f4f7fd0a01e6012fe3.jpg
+
+=item "Unlike other books, this book acts as an Internet independent wireless server, running from a tiny, custom designed computer inside the book."
+=item "To start the server just open the book and connect to it wirelessly using your laptop, tablet or phone. "
+
+
+=begin comment :src
+{
+  "via": {
+    "url": "http://friendfeed.com/share/bookmarklet",
+    "name": "Bookmarklet"
+  },
+  "from": {
+    "name": "углы «Исимуры»",
+    "id": "zag",
+    "type": "user"
+  },
+  "comments": [
+    {
+      "body": "&quot;Unlike other books, this book acts as an Internet independent wireless server, running from a tiny, custom designed computer inside the book.&quot;",
+      "via": {
+        "url": "http://friendfeed.com/share/bookmarklet",
+        "name": "Bookmarklet"
+      },
+      "id": "e/73328600f611418ba217419c0beeb224/c/db0a8f0f70a74a31991e5ec17f8dfb79",
+      "date": "2012-12-01T07:23:44Z",
+      "from": {
+        "name": "углы «Исимуры»",
+        "type": "user",
+        "id": "zag"
+      },
+      "rawBody": "\"Unlike other books, this book acts as an Internet independent wireless server, running from a tiny, custom designed computer inside the book.\""
+    },
+    {
+      "rawBody": "\"To start the server just open the book and connect to it wirelessly using your laptop, tablet or phone. \"",
+      "date": "2012-12-01T07:24:19Z",
+      "id": "e/73328600f611418ba217419c0beeb224/c/91adc36cdffd4e869e61a7788053f08f",
+      "from": {
+        "name": "углы «Исимуры»",
+        "id": "zag",
+        "type": "user"
+      },
+      "body": "&quot;To start the server just open the book and connect to it wirelessly using your laptop, tablet or phone. &quot;"
+    }
+  ],
+  "id": "e/73328600f611418ba217419c0beeb224",
+  "url": "http://friendfeed.com/zag/73328600/weise7-in-compatible-laboratorium-archive",
+  "date": "2012-12-01T07:23:44Z",
+  "rawBody": "The Weise7 in/compatible Laboratorium Archive",
+  "thumbnails": [
+    {
+      "url": "http://m.friendfeed-media.com/19861a60ec5f6ce655e85df7481a8e2155dcac57",
+      "width": 233,
+      "height": 175,
+      "link": "http://weise7.org/book/"
+    },
+    {
+      "height": 175,
+      "link": "http://weise7.org/book/",
+      "url": "http://m.friendfeed-media.com/848f1c8ae316ad366f563029f835a1751c78445e",
+      "width": 233
+    },
+    {
+      "width": 233,
+      "url": "http://m.friendfeed-media.com/e9ec536bac13e32faf09f4f4f7fd0a01e6012fe3",
+      "link": "http://weise7.org/book/",
+      "height": 175
+    }
+  ],
+  "body": "The Weise7 in/compatible Laboratorium Archive - <a rel=\"nofollow\" href=\"http://weise7.org/book/\">http://weise7.org/book/</a>",
+  "rawLink": "http://weise7.org/book/"
+}
+=end comment
+
+=end pod

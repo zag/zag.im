@@ -1,0 +1,54 @@
+=begin pod :pubdate('2011-12-14T10:20:51Z') :type<note> :tags<Perl>
+=NAME RT @avarab: The #Perl Foundation's 100,000 EUR grant from booking.com http://t.co/Z5HRZyKk
+
+=begin DESCRIPTION
+
+RT @avarab: The #Perl Foundation's 100,000 EUR grant from booking.com http://t.co/Z5HRZyKk - L<link|http://twitter.com/zagru/statuses/146897431601229824>
+
+
+
+=end DESCRIPTION
+
+RT @avarab: The #Perl Foundation's 100,000 EUR grant from booking.com http://t.co/Z5HRZyKk - L<link|http://twitter.com/zagru/statuses/146897431601229824>
+
+
+
+=begin comment :src
+{
+  "via": {
+    "name": "Twitter",
+    "url": "http://twitter.com/zagru/statuses/146897431601229824"
+  },
+  "from": {
+    "id": "zag",
+    "type": "user",
+    "name": "углы «Исимуры»"
+  },
+  "date": "2011-12-14T10:20:51Z",
+  "id": "e/76fb9a532c619e52fdc325e28f319fd8",
+  "rawBody": "RT @avarab: The #Perl Foundation's 100,000 EUR grant from booking.com http://t.co/Z5HRZyKk",
+  "url": "http://friendfeed.com/zag/76fb9a53/rt-avarab-perl-foundation-100-000-eur-grant-from",
+  "rawLink": "http://twitter.com/zagru/statuses/146897431601229824",
+  "likes": [
+    {
+      "date": "2011-12-14T14:39:10Z",
+      "from": {
+        "type": "user",
+        "id": "kkapp",
+        "name": "alex@kapranoff.ru"
+      }
+    },
+    {
+      "date": "2011-12-14T10:52:20Z",
+      "from": {
+        "type": "user",
+        "id": "bessarabov",
+        "name": "Ivan Bessarabov"
+      }
+    }
+  ],
+  "body": "RT @<a rel=\"nofollow\" href=\"http://twitter.com/avarab\">avarab</a>: The <a rel=\"nofollow\" href=\"http://search.twitter.com/search?q=%23Perl\">#Perl</a> Foundation's 100,000 EUR grant from booking.com <a rel=\"nofollow\" href=\"http://t.co/Z5HRZyKk\">http://t.co/Z5HRZyKk</a>"
+}
+=end comment
+
+=end pod

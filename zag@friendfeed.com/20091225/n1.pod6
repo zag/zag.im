@@ -1,0 +1,74 @@
+=begin pod :pubdate('2009-12-25T08:07:34Z') :type<note> :tags<avatarmovie>
+=NAME Pandorapedia - путеводитель по миру Пандоры. http://www.pandorapedia.com   #avatarmovie
+
+=begin DESCRIPTION
+
+Pandorapedia - путеводитель по миру Пандоры. http://www.pandorapedia.com   #avatarmovie
+=for Image :width(311) :link('http://m.friendfeed-media.com/e2acd1553c82d4434d41e5472711fff20135d0ce') :height(175) :preview
+media/0fd2aad8659533da6f2c5a66afe9d2a5e05d7c21.jpg
+=for Image :width(312) :link('http://m.friendfeed-media.com/fe586e88b4ea56778764ec28da3a784603843a28') :height(175) :preview
+media/e3e19f545ba0c37ecb2ee310f7e56fe017df8d57.jpg
+=for Image :width(311) :link('http://m.friendfeed-media.com/bf6c652cbf0aa1202c222c72ad9068043a7ad8ba') :height(175) :preview
+media/229a067507680408acd192b5203af97acccd308c.jpg
+=for Image :width(311) :link('http://m.friendfeed-media.com/c301aaa103362ab4bdd931d2b3edce87d934d63e') :height(175) :preview
+media/0e38554599b4954698c6752951837bafd48f3718.jpg
+
+
+
+=end DESCRIPTION
+
+Pandorapedia - путеводитель по миру Пандоры. http://www.pandorapedia.com   #avatarmovie
+=for Image :width(311) :link('http://m.friendfeed-media.com/e2acd1553c82d4434d41e5472711fff20135d0ce') :height(175) :preview
+media/0fd2aad8659533da6f2c5a66afe9d2a5e05d7c21.jpg
+=for Image :width(312) :link('http://m.friendfeed-media.com/fe586e88b4ea56778764ec28da3a784603843a28') :height(175) :preview
+media/e3e19f545ba0c37ecb2ee310f7e56fe017df8d57.jpg
+=for Image :width(311) :link('http://m.friendfeed-media.com/bf6c652cbf0aa1202c222c72ad9068043a7ad8ba') :height(175) :preview
+media/229a067507680408acd192b5203af97acccd308c.jpg
+=for Image :width(311) :link('http://m.friendfeed-media.com/c301aaa103362ab4bdd931d2b3edce87d934d63e') :height(175) :preview
+media/0e38554599b4954698c6752951837bafd48f3718.jpg
+
+
+
+=begin comment :src
+{
+  "from": {
+    "id": "zag",
+    "type": "user",
+    "name": "углы «Исимуры»"
+  },
+  "body": "Pandorapedia - путеводитель по миру Пандоры. <a rel=\"nofollow\" href=\"http://www.pandorapedia.com\" title=\"http://www.pandorapedia.com/doku.php\">http://www.pandorapedia.com/doku...</a>   <a href=\"http://friendfeed.com/search?q=%23avatarmovie\">#avatarmovie</a>",
+  "rawLink": "http://friendfeed.com/e/559eceb0-39c3-4a47-9fe2-a3fd1fdea723",
+  "id": "e/559eceb039c34a479fe2a3fd1fdea723",
+  "date": "2009-12-25T08:07:34Z",
+  "rawBody": "Pandorapedia - путеводитель по миру Пандоры. http://www.pandorapedia.com   #avatarmovie",
+  "thumbnails": [
+    {
+      "height": 175,
+      "link": "http://m.friendfeed-media.com/e2acd1553c82d4434d41e5472711fff20135d0ce",
+      "width": 311,
+      "url": "http://m.friendfeed-media.com/0fd2aad8659533da6f2c5a66afe9d2a5e05d7c21"
+    },
+    {
+      "height": 175,
+      "link": "http://m.friendfeed-media.com/fe586e88b4ea56778764ec28da3a784603843a28",
+      "width": 312,
+      "url": "http://m.friendfeed-media.com/e3e19f545ba0c37ecb2ee310f7e56fe017df8d57"
+    },
+    {
+      "link": "http://m.friendfeed-media.com/bf6c652cbf0aa1202c222c72ad9068043a7ad8ba",
+      "height": 175,
+      "url": "http://m.friendfeed-media.com/229a067507680408acd192b5203af97acccd308c",
+      "width": 311
+    },
+    {
+      "link": "http://m.friendfeed-media.com/c301aaa103362ab4bdd931d2b3edce87d934d63e",
+      "height": 175,
+      "url": "http://m.friendfeed-media.com/0e38554599b4954698c6752951837bafd48f3718",
+      "width": 311
+    }
+  ],
+  "url": "http://friendfeed.com/zag/559eceb0/pandorapedia-avatarmovie"
+}
+=end comment
+
+=end pod

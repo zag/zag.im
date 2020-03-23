@@ -1,0 +1,36 @@
+=begin pod :pubdate('2011-05-04T17:46:08Z') :type<note> 
+=NAME RT @newsyc20: cpanm and PSGI author joins DotCloud http://bulknews.typepad.com/blog/2011/04/joining-dotcloud.html (http://bit.ly/kEgUr1)
+
+=begin DESCRIPTION
+
+RT @newsyc20: cpanm and PSGI author joins DotCloud http://bulknews.typepad.com/blog/2011/04/joining-dotcloud.html (http://bit.ly/kEgUr1) - L<link|http://twitter.com/zagru/statuses/65834609308467200>
+
+
+
+=end DESCRIPTION
+
+RT @newsyc20: cpanm and PSGI author joins DotCloud http://bulknews.typepad.com/blog/2011/04/joining-dotcloud.html (http://bit.ly/kEgUr1) - L<link|http://twitter.com/zagru/statuses/65834609308467200>
+
+
+
+=begin comment :src
+{
+  "rawLink": "http://twitter.com/zagru/statuses/65834609308467200",
+  "body": "RT @<a rel=\"nofollow\" href=\"http://twitter.com/newsyc20\">newsyc20</a>: cpanm and PSGI author joins DotCloud <a rel=\"nofollow\" href=\"http://bulknews.typepad.com/blog/2011/04/joining-dotcloud.html\" title=\"http://bulknews.typepad.com/blog/2011/04/joining-dotcloud.html\">http://bulknews.typepad.com/blog...</a> (<a rel=\"nofollow\" href=\"http://bit.ly/kEgUr1\" title=\"http://news.ycombinator.com/item?id=2508172\">http://news.ycombinator.com/item...</a>)",
+  "id": "e/80181a03c7d53ac8f87ee3e0647a4f1b",
+  "date": "2011-05-04T17:46:08Z",
+  "rawBody": "RT @newsyc20: cpanm and PSGI author joins DotCloud http://bulknews.typepad.com/blog/2011/04/joining-dotcloud.html (http://bit.ly/kEgUr1)",
+  "url": "http://friendfeed.com/zag/80181a03/rt-newsyc20-cpanm-and-psgi-author-joins",
+  "from": {
+    "name": "углы «Исимуры»",
+    "id": "zag",
+    "type": "user"
+  },
+  "via": {
+    "name": "Twitter",
+    "url": "http://twitter.com/zagru/statuses/65834609308467200"
+  }
+}
+=end comment
+
+=end pod

@@ -1,0 +1,76 @@
+=begin pod :pubdate('2011-03-04T18:12:25Z') :type<note> 
+=NAME Тепловоз, тянущий космический корабль к стартовой площадке. Просто хочется смотреть на лицо этого лорда, на тепловоз и снова на лорда.
+
+=begin DESCRIPTION
+
+Тепловоз, тянущий космический корабль к стартовой площадке. Просто хочется смотреть на лицо этого лорда, на тепловоз и снова на лорда. - L<link|http://arstechnica.com/gaming/news/2011/02/lord-british-wants-to-take-you-to-space-and-hes-closer-than-you-think.ars/2#>
+=for Image :width(300) :link('http://arstechnica.com/gaming/news/2011/02/lord-british-wants-to-take-you-to-space-and-hes-closer-than-you-think.ars/2#') :height(169) :preview
+media/36ef712569fe11f30c41a4e7df490ed3788dcedf.jpg
+=for Image :width(284) :link('http://arstechnica.com/gaming/news/2011/02/lord-british-wants-to-take-you-to-space-and-hes-closer-than-you-think.ars/2#') :height(175) :preview
+media/e7c447f55fa90c5d924d565fa00b507174c897f1.jpg
+
+
+
+=end DESCRIPTION
+
+Тепловоз, тянущий космический корабль к стартовой площадке. Просто хочется смотреть на лицо этого лорда, на тепловоз и снова на лорда. - L<link|http://arstechnica.com/gaming/news/2011/02/lord-british-wants-to-take-you-to-space-and-hes-closer-than-you-think.ars/2#>
+=for Image :width(300) :link('http://arstechnica.com/gaming/news/2011/02/lord-british-wants-to-take-you-to-space-and-hes-closer-than-you-think.ars/2#') :height(169) :preview
+media/36ef712569fe11f30c41a4e7df490ed3788dcedf.jpg
+=for Image :width(284) :link('http://arstechnica.com/gaming/news/2011/02/lord-british-wants-to-take-you-to-space-and-hes-closer-than-you-think.ars/2#') :height(175) :preview
+media/e7c447f55fa90c5d924d565fa00b507174c897f1.jpg
+
+
+
+=begin comment :src
+{
+  "from": {
+    "type": "user",
+    "id": "zag",
+    "name": "углы «Исимуры»"
+  },
+  "via": {
+    "url": "http://friendfeed.com/share/bookmarklet",
+    "name": "Bookmarklet"
+  },
+  "rawLink": "http://arstechnica.com/gaming/news/2011/02/lord-british-wants-to-take-you-to-space-and-hes-closer-than-you-think.ars/2#",
+  "likes": [
+    {
+      "from": {
+        "type": "user",
+        "id": "lothar",
+        "name": "Peter Fedin"
+      },
+      "date": "2011-03-04T22:56:30Z"
+    },
+    {
+      "from": {
+        "type": "user",
+        "id": "menelvagor",
+        "name": "Dmitriy Olerinskiy"
+      },
+      "date": "2011-03-04T18:14:48Z"
+    }
+  ],
+  "body": "Тепловоз, тянущий космический корабль к стартовой площадке. Просто хочется смотреть на лицо этого лорда, на тепловоз и снова на лорда. - <a rel=\"nofollow\" href=\"http://arstechnica.com/gaming/news/2011/02/lord-british-wants-to-take-you-to-space-and-hes-closer-than-you-think.ars/2#\" title=\"http://arstechnica.com/gaming/news/2011/02/lord-british-wants-to-take-you-to-space-and-hes-closer-than-you-think.ars/2#\">http://arstechnica.com/gaming...</a>",
+  "id": "e/913f73fbb1ec49ed9d5316b64e525230",
+  "date": "2011-03-04T18:12:25Z",
+  "url": "http://friendfeed.com/zag/913f73fb",
+  "rawBody": "Тепловоз, тянущий космический корабль к стартовой площадке. Просто хочется смотреть на лицо этого лорда, на тепловоз и снова на лорда.",
+  "thumbnails": [
+    {
+      "link": "http://arstechnica.com/gaming/news/2011/02/lord-british-wants-to-take-you-to-space-and-hes-closer-than-you-think.ars/2#",
+      "height": 169,
+      "width": 300,
+      "url": "http://m.friendfeed-media.com/36ef712569fe11f30c41a4e7df490ed3788dcedf"
+    },
+    {
+      "height": 175,
+      "link": "http://arstechnica.com/gaming/news/2011/02/lord-british-wants-to-take-you-to-space-and-hes-closer-than-you-think.ars/2#",
+      "width": 284,
+      "url": "http://m.friendfeed-media.com/e7c447f55fa90c5d924d565fa00b507174c897f1"
+    }
+  ]
+}
+=end comment
+
+=end pod

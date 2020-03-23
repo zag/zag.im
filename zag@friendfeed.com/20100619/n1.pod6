@@ -1,0 +1,32 @@
+=begin pod :pubdate('2010-06-19T20:02:50Z') :type<note> :tags<perl6>
+=NAME Готовлю презентацию perl6's Pod на #perl6's Pod !
+
+=begin DESCRIPTION
+
+Готовлю презентацию perl6's Pod на #perl6's Pod !
+
+
+
+=end DESCRIPTION
+
+Готовлю презентацию perl6's Pod на #perl6's Pod !
+
+
+
+=begin comment :src
+{
+  "body": "Готовлю презентацию perl6's Pod на <a href=\"http://friendfeed.com/search?q=%23perl6\">#perl6</a>'s Pod !",
+  "rawLink": "http://friendfeed.com/e/e2af0062-2629-46ce-aa7c-46b26a52d18b",
+  "rawBody": "Готовлю презентацию perl6's Pod на #perl6's Pod !",
+  "id": "e/e2af0062262946ceaa7c46b26a52d18b",
+  "date": "2010-06-19T20:02:50Z",
+  "url": "http://friendfeed.com/zag/e2af0062/perl6-pod",
+  "from": {
+    "id": "zag",
+    "type": "user",
+    "name": "углы «Исимуры»"
+  }
+}
+=end comment
+
+=end pod

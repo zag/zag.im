@@ -1,0 +1,66 @@
+=begin pod :pubdate('2010-11-09T09:48:50Z') :type<note> 
+=NAME The Best CAPTCHA Ever
+
+=begin DESCRIPTION
+
+The Best CAPTCHA Ever - L<link|http://geektoplasm.com/the-best-captcha-ever/>
+=for Image :width(110) :link('http://geektoplasm.com/the-best-captcha-ever/') :height(175) :preview
+media/f9734c73986dc0590d8f2b5444688bf29f4c9317.jpg
+
+
+
+=end DESCRIPTION
+
+The Best CAPTCHA Ever - L<link|http://geektoplasm.com/the-best-captcha-ever/>
+=for Image :width(110) :link('http://geektoplasm.com/the-best-captcha-ever/') :height(175) :preview
+media/f9734c73986dc0590d8f2b5444688bf29f4c9317.jpg
+
+
+
+=begin comment :src
+{
+  "via": {
+    "url": "http://friendfeed.com/share/bookmarklet",
+    "name": "Bookmarklet"
+  },
+  "from": {
+    "id": "zag",
+    "type": "user",
+    "name": "углы «Исимуры»"
+  },
+  "thumbnails": [
+    {
+      "width": 110,
+      "url": "http://m.friendfeed-media.com/f9734c73986dc0590d8f2b5444688bf29f4c9317",
+      "height": 175,
+      "link": "http://geektoplasm.com/the-best-captcha-ever/"
+    }
+  ],
+  "id": "e/616119d071e147ab94627f3eb1450ef4",
+  "date": "2010-11-09T09:48:50Z",
+  "rawBody": "The Best CAPTCHA Ever",
+  "url": "http://friendfeed.com/zag/616119d0/best-captcha-ever",
+  "rawLink": "http://geektoplasm.com/the-best-captcha-ever/",
+  "likes": [
+    {
+      "from": {
+        "name": "Oguz Serdar",
+        "id": "oguzserdar",
+        "type": "user"
+      },
+      "date": "2010-11-09T11:07:52Z"
+    },
+    {
+      "from": {
+        "name": "Daina Thomas",
+        "id": "dainathomas1",
+        "type": "user"
+      },
+      "date": "2010-11-09T11:04:45Z"
+    }
+  ],
+  "body": "The Best CAPTCHA Ever - <a rel=\"nofollow\" href=\"http://geektoplasm.com/the-best-captcha-ever/\" title=\"http://geektoplasm.com/the-best-captcha-ever/\">http://geektoplasm.com/the-bes...</a>"
+}
+=end comment
+
+=end pod

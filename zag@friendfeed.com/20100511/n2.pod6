@@ -1,0 +1,48 @@
+=begin pod :pubdate('2010-05-11T07:02:02Z') :type<note> 
+=NAME grivD — молния и салют
+
+=begin DESCRIPTION
+
+grivD — молния и салют - L<link|http://fotki.yandex.ru/users/grivd/view/342881/?page=0#>
+=for Image :width(264) :link('http://fotki.yandex.ru/users/grivd/view/342881/?page=0#') :height(175) :preview
+media/4d48ed7c9d053255dda1d463f1d131e9fe96f685.jpg
+
+
+
+=end DESCRIPTION
+
+grivD — молния и салют - L<link|http://fotki.yandex.ru/users/grivd/view/342881/?page=0#>
+=for Image :width(264) :link('http://fotki.yandex.ru/users/grivd/view/342881/?page=0#') :height(175) :preview
+media/4d48ed7c9d053255dda1d463f1d131e9fe96f685.jpg
+
+
+
+=begin comment :src
+{
+  "from": {
+    "name": "углы «Исимуры»",
+    "type": "user",
+    "id": "zag"
+  },
+  "via": {
+    "name": "Bookmarklet",
+    "url": "http://friendfeed.com/share/bookmarklet"
+  },
+  "id": "e/6c7d3c2caaa94d82a7e8ed704044b0f2",
+  "rawBody": "grivD — молния и салют",
+  "date": "2010-05-11T07:02:02Z",
+  "thumbnails": [
+    {
+      "width": 264,
+      "url": "http://m.friendfeed-media.com/4d48ed7c9d053255dda1d463f1d131e9fe96f685",
+      "link": "http://fotki.yandex.ru/users/grivd/view/342881/?page=0#",
+      "height": 175
+    }
+  ],
+  "url": "http://friendfeed.com/zag/6c7d3c2c/grivd",
+  "rawLink": "http://fotki.yandex.ru/users/grivd/view/342881/?page=0#",
+  "body": "grivD — молния и салют - <a rel=\"nofollow\" href=\"http://fotki.yandex.ru/users/grivd/view/342881/?page=0#\" title=\"http://fotki.yandex.ru/users/grivd/view/342881/?page=0#\">http://fotki.yandex.ru/users...</a>"
+}
+=end comment
+
+=end pod

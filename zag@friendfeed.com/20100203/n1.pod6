@@ -1,0 +1,42 @@
+=begin pod :pubdate('2010-02-03T09:07:55Z') :type<note> :tags<perl6 rakudoport>
+=NAME В деле порта #perl6 (#rakudoport) для FreeBSD наметились положительные сдвиги: With portmgr hat on, reset the maintainership of skv@ for ports that he has had one or more maintainer-timeouts on in the past 12 months. http://www.freebsd.org/cgi/cvsweb.cgi/ports/lang/parrot/Makefile?rev=1.40;content-type=text%2Fx-cvsweb-markup
+
+=begin DESCRIPTION
+
+В деле порта #perl6 (#rakudoport) для FreeBSD наметились положительные сдвиги: With portmgr hat on, reset the maintainership of skv@ for ports that he has had one or more maintainer-timeouts on in the past 12 months. http://www.freebsd.org/cgi/cvsweb.cgi/ports/lang/parrot/Makefile?rev=1.40;content-type=text%2Fx-cvsweb-markup
+
+
+
+=end DESCRIPTION
+
+В деле порта #perl6 (#rakudoport) для FreeBSD наметились положительные сдвиги: With portmgr hat on, reset the maintainership of skv@ for ports that he has had one or more maintainer-timeouts on in the past 12 months. http://www.freebsd.org/cgi/cvsweb.cgi/ports/lang/parrot/Makefile?rev=1.40;content-type=text%2Fx-cvsweb-markup
+
+
+
+=begin comment :src
+{
+  "id": "e/3fd6013775f24b65bace504b9ec9bf14",
+  "date": "2010-02-03T09:07:55Z",
+  "rawBody": "В деле порта #perl6 (#rakudoport) для FreeBSD наметились положительные сдвиги: With portmgr hat on, reset the maintainership of skv@ for ports that he has had one or more maintainer-timeouts on in the past 12 months. http://www.freebsd.org/cgi/cvsweb.cgi/ports/lang/parrot/Makefile?rev=1.40;content-type=text%2Fx-cvsweb-markup",
+  "url": "http://friendfeed.com/zag/3fd60137/perl6-rakudoport-freebsd-with-portmgr-hat-on",
+  "rawLink": "http://friendfeed.com/e/3fd60137-75f2-4b65-bace-504b9ec9bf14",
+  "likes": [
+    {
+      "date": "2010-02-03T10:58:51Z",
+      "from": {
+        "name": "alex@kapranoff.ru",
+        "id": "kkapp",
+        "type": "user"
+      }
+    }
+  ],
+  "body": "В деле порта <a href=\"http://friendfeed.com/search?q=%23perl6\">#perl6</a> (#rakudoport) для FreeBSD наметились положительные сдвиги: With portmgr hat on, reset the maintainership of skv@ for ports that he has had one or more maintainer-timeouts on in the past 12 months. <a rel=\"nofollow\" href=\"http://www.freebsd.org/cgi/cvsweb.cgi/ports/lang/parrot/Makefile?rev=1.40;content-type=text%2Fx-cvsweb-markup\" title=\"http://www.freebsd.org/cgi/cvsweb.cgi/ports/lang/parrot/Makefile?rev=1.40;content-type=text%2Fx-cvsweb-markup\">http://www.freebsd.org/cgi...</a>",
+  "from": {
+    "type": "user",
+    "id": "zag",
+    "name": "углы «Исимуры»"
+  }
+}
+=end comment
+
+=end pod

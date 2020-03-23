@@ -1,0 +1,49 @@
+=begin pod :pubdate('2011-07-07 10:00:00') :tags<socialminig>
+=NAME Atom 
+
+=begin DESCRIPTION
+
+=for Image :align("left") :preview
+atom-logo.png
+
+Формат Atom  является во многих сервисах контейнером для дополнительной информации. Он представляет собой XML файл и содержит в структурированном виде информацию о ресурсе и его содержимом. Если в качестве ресурса выступает персональный блог, то Atom файл содержит информацию о самом блоге, а также содержимое и свойства каждой записи.
+
+=end DESCRIPTION
+
+=for Image :align("left") :preview
+atom-logo.png
+
+Формат Atom  является во многих сервисах контейнером для дополнительной информации. Он представляет собой XML файл и содержит в структурированном виде информацию о ресурсе и его содержимом. Если в качестве ресурса выступает персональный блог, то Atom файл содержит информацию о самом блоге, а также содержимое и свойства каждой записи.
+
+Простой пример Atom выглядит следующим образом:
+
+=begin code
+ <?xml version="1.0" encoding="utf-8"?>
+   <feed xmlns="http://www.w3.org/2005/Atom">
+     <title>Example Feed</title>
+     <link href="http://example.org/"/>
+     <updated>2003-12-13T18:30:02Z</updated>
+     <author>
+       <name>John Doe</name>
+     </author>
+     <id>urn:uuid:60a76c80-d399-11d9-b93C-0003939e0af6</id>
+     <entry>
+       <title>Atom-Powered Robots Run Amok</title>
+       <link href="http://example.org/2003/12/13/atom03"/>
+       <id>urn:uuid:1225c695-cfb8-4ebb-aaaa-80da344efa6a</id>
+       <updated>2003-12-13T18:30:02Z</updated>
+       <summary>Some text.</summary>
+     </entry>
+   </feed>
+=end code
+
+В общем он схож с более простым форматом RSS, но появился Atom позже и является более современной заменой RSS. 
+
+Так как в основе формата синдикации Atom лежит XML, это позволяет ему быть контейнером дополнительной информации, сохраняя при этом соответствие своей спецификации. Расширение формата возможно с помощью пространства имен XML N<Namespaces in XML 1.0. L<http://www.w3.org/TR/REC-xml-names/>>.
+Следующий пример демонстрирует определение пространства имен и параметров протокола Salmon N< Salmon Protocol. L<http://www.salmon-protocol.org/>>.
+
+    <link rel="hub" href="http://myhub.example.com/endpoint" />
+
+На формате Atom базируется протокол публикации Atompub N<The Atom Publishing Protocol. L<http://tools.ietf.org/html/rfc5023>>. Этот стандарт унифицирует последовательность действий при публикации данных на ресурсе (например, Фотографий или заметок в блоге). При этом Atom является основным форматом для размещения информации.
+
+=end pod

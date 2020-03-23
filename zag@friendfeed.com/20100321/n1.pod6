@@ -1,0 +1,68 @@
+=begin pod :pubdate('2010-03-21T16:57:31Z') :type<note> 
+=NAME Iron Man 2. Release Date: 7 May 2010 (Russia)
+
+=begin DESCRIPTION
+
+Iron Man 2. Release Date: 7 May 2010 (Russia) - L<link|http://www.imdb.com/title/tt1228705/>
+=for Image :width(94) :link('http://www.imdb.com/title/tt1228705/') :height(140) :preview
+media/16959468c026037c4703e71a09bb02e3d62bf0c0.jpg
+=for Image :width(90) :link('http://www.imdb.com/title/tt1228705/') :height(90) :preview
+media/a70727f69c7e8e85b8b5b7db0c61239573cd7098.jpg
+=for Image :width(90) :link('http://www.imdb.com/title/tt1228705/') :height(90) :preview
+media/7fc250fd353d32427fca251e3581518b56896580.jpg
+
+
+
+=end DESCRIPTION
+
+Iron Man 2. Release Date: 7 May 2010 (Russia) - L<link|http://www.imdb.com/title/tt1228705/>
+=for Image :width(94) :link('http://www.imdb.com/title/tt1228705/') :height(140) :preview
+media/16959468c026037c4703e71a09bb02e3d62bf0c0.jpg
+=for Image :width(90) :link('http://www.imdb.com/title/tt1228705/') :height(90) :preview
+media/a70727f69c7e8e85b8b5b7db0c61239573cd7098.jpg
+=for Image :width(90) :link('http://www.imdb.com/title/tt1228705/') :height(90) :preview
+media/7fc250fd353d32427fca251e3581518b56896580.jpg
+
+
+
+=begin comment :src
+{
+  "via": {
+    "url": "http://friendfeed.com/share/bookmarklet",
+    "name": "Bookmarklet"
+  },
+  "from": {
+    "type": "user",
+    "id": "zag",
+    "name": "углы «Исимуры»"
+  },
+  "rawBody": "Iron Man 2. Release Date: 7 May 2010 (Russia)",
+  "id": "e/b237469a164c422aa47775499b9338bf",
+  "date": "2010-03-21T16:57:31Z",
+  "thumbnails": [
+    {
+      "url": "http://m.friendfeed-media.com/16959468c026037c4703e71a09bb02e3d62bf0c0",
+      "width": 94,
+      "height": 140,
+      "link": "http://www.imdb.com/title/tt1228705/"
+    },
+    {
+      "height": 90,
+      "link": "http://www.imdb.com/title/tt1228705/",
+      "width": 90,
+      "url": "http://m.friendfeed-media.com/a70727f69c7e8e85b8b5b7db0c61239573cd7098"
+    },
+    {
+      "width": 90,
+      "url": "http://m.friendfeed-media.com/7fc250fd353d32427fca251e3581518b56896580",
+      "height": 90,
+      "link": "http://www.imdb.com/title/tt1228705/"
+    }
+  ],
+  "url": "http://friendfeed.com/zag/b237469a/iron-man-2-release-date-7-may-2010-russia",
+  "rawLink": "http://www.imdb.com/title/tt1228705/",
+  "body": "Iron Man 2. Release Date: 7 May 2010 (Russia) - <a rel=\"nofollow\" href=\"http://www.imdb.com/title/tt1228705/\" title=\"http://www.imdb.com/title/tt1228705/\">http://www.imdb.com/title...</a>"
+}
+=end comment
+
+=end pod

@@ -1,0 +1,51 @@
+=begin pod :pubdate('2010-09-29T07:01:01Z') :type<note> :tags<rakudo>
+=NAME RT @carlmasak: It is 2010, and I'm using a blog engine written in Perl 6. http://strangelyconsistent.org/blog/dog-food-with-a-distinct-perl6-flavor #rakudo
+
+=begin DESCRIPTION
+
+RT @carlmasak: It is 2010, and I'm using a blog engine written in Perl 6. http://strangelyconsistent.org/blog/dog-food-with-a-distinct-perl6-flavor #rakudo - L<link|http://twitter.com/zagru/statuses/25861159591>
+
+=item http://gist.github.com/601864  It's written in Perl 6 !
+
+
+=end DESCRIPTION
+
+RT @carlmasak: It is 2010, and I'm using a blog engine written in Perl 6. http://strangelyconsistent.org/blog/dog-food-with-a-distinct-perl6-flavor #rakudo - L<link|http://twitter.com/zagru/statuses/25861159591>
+
+=item http://gist.github.com/601864  It's written in Perl 6 !
+
+
+=begin comment :src
+{
+  "body": "RT @<a rel=\"nofollow\" href=\"http://twitter.com/carlmasak\">carlmasak</a>: It is 2010, and I'm using a blog engine written in Perl 6. <a rel=\"nofollow\" href=\"http://strangelyconsistent.org/blog/dog-food-with-a-distinct-perl6-flavor\" title=\"http://strangelyconsistent.org/blog/dog-food-with-a-distinct-perl6-flavor\">http://strangelyconsistent.org/blog...</a> <a rel=\"nofollow\" href=\"http://search.twitter.com/search?q=%23rakudo\">#rakudo</a>",
+  "rawLink": "http://twitter.com/zagru/statuses/25861159591",
+  "rawBody": "RT @carlmasak: It is 2010, and I'm using a blog engine written in Perl 6. http://strangelyconsistent.org/blog/dog-food-with-a-distinct-perl6-flavor #rakudo",
+  "id": "e/95ba334cfbd3661ee66b873627d3b8ce",
+  "date": "2010-09-29T07:01:01Z",
+  "url": "http://friendfeed.com/zag/95ba334c/rt-carlmasak-it-is-2010-and-i-m-using-blog-engine",
+  "comments": [
+    {
+      "rawBody": "http://gist.github.com/601864  It's written in Perl 6 !",
+      "id": "e/95ba334cfbd3661ee66b873627d3b8ce/c/a32745631bf24b3d956c50e3b5f8ef3f",
+      "date": "2010-09-29T07:03:08Z",
+      "from": {
+        "name": "углы «Исимуры»",
+        "id": "zag",
+        "type": "user"
+      },
+      "body": "<a rel=\"nofollow\" href=\"http://gist.github.com/601864\">http://gist.github.com/601864</a>  It's written in Perl 6 !"
+    }
+  ],
+  "via": {
+    "name": "Twitter",
+    "url": "http://twitter.com/zagru/statuses/25861159591"
+  },
+  "from": {
+    "name": "углы «Исимуры»",
+    "id": "zag",
+    "type": "user"
+  }
+}
+=end comment
+
+=end pod

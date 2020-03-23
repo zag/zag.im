@@ -1,0 +1,46 @@
+=begin pod :pubdate('2010-04-02T15:52:27Z') :type<note> 
+=NAME Вот оно в чем дело: «Я Учился Создавать Профессиональные Опердени на Эрланг 23 долгих года» http://bit.ly/aF629U
+
+=begin DESCRIPTION
+
+Вот оно в чем дело: «Я Учился Создавать Профессиональные Опердени на Эрланг 23 долгих года» http://bit.ly/aF629U - L<link|http://twitter.com/zagru/statuses/11486995868>
+
+
+
+=end DESCRIPTION
+
+Вот оно в чем дело: «Я Учился Создавать Профессиональные Опердени на Эрланг 23 долгих года» http://bit.ly/aF629U - L<link|http://twitter.com/zagru/statuses/11486995868>
+
+
+
+=begin comment :src
+{
+  "via": {
+    "url": "http://twitter.com/zagru/statuses/11486995868",
+    "name": "Twitter"
+  },
+  "from": {
+    "type": "user",
+    "id": "zag",
+    "name": "углы «Исимуры»"
+  },
+  "likes": [
+    {
+      "from": {
+        "type": "user",
+        "id": "sharifulin",
+        "name": "Анатолий Шарифулин"
+      },
+      "date": "2010-04-05T09:47:53Z"
+    }
+  ],
+  "rawLink": "http://twitter.com/zagru/statuses/11486995868",
+  "body": "Вот оно в чем дело: «Я Учился Создавать Профессиональные Опердени на Эрланг 23 долгих года» <a rel=\"nofollow\" href=\"http://bit.ly/aF629U\" title=\"http://erlang-mnesia-video.ru/\">http://erlang-mnesia-video.ru/</a>",
+  "rawBody": "Вот оно в чем дело: «Я Учился Создавать Профессиональные Опердени на Эрланг 23 долгих года» http://bit.ly/aF629U",
+  "id": "e/519e5aa03682166c34c290969991a9f8",
+  "date": "2010-04-02T15:52:27Z",
+  "url": "http://friendfeed.com/zag/519e5aa0/23"
+}
+=end comment
+
+=end pod

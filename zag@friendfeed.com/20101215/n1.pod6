@@ -1,0 +1,36 @@
+=begin pod :pubdate('2010-12-15T20:01:24Z') :type<note> 
+=NAME RT @perlbuzz: Calling native libraries from Perl 6 http://perl6advent.wordpress.com/2010/12/15/day-15-calling-native-libraries-from-perl-6/
+
+=begin DESCRIPTION
+
+RT @perlbuzz: Calling native libraries from Perl 6 http://perl6advent.wordpress.com/2010/12/15/day-15-calling-native-libraries-from-perl-6/ - L<link|http://twitter.com/zagru/statuses/15134348311265280>
+
+
+
+=end DESCRIPTION
+
+RT @perlbuzz: Calling native libraries from Perl 6 http://perl6advent.wordpress.com/2010/12/15/day-15-calling-native-libraries-from-perl-6/ - L<link|http://twitter.com/zagru/statuses/15134348311265280>
+
+
+
+=begin comment :src
+{
+  "id": "e/0726f068ba2d6926d92a5a38fc777dd8",
+  "date": "2010-12-15T20:01:24Z",
+  "rawBody": "RT @perlbuzz: Calling native libraries from Perl 6 http://perl6advent.wordpress.com/2010/12/15/day-15-calling-native-libraries-from-perl-6/",
+  "url": "http://friendfeed.com/zag/0726f068/rt-perlbuzz-calling-native-libraries-from-perl",
+  "body": "RT @<a rel=\"nofollow\" href=\"http://twitter.com/perlbuzz\">perlbuzz</a>: Calling native libraries from Perl 6 <a rel=\"nofollow\" href=\"http://perl6advent.wordpress.com/2010/12/15/day-15-calling-native-libraries-from-perl-6/\" title=\"http://perl6advent.wordpress.com/2010/12/15/day-15-calling-native-libraries-from-perl-6/\">http://perl6advent.wordpress.com/2010...</a>",
+  "rawLink": "http://twitter.com/zagru/statuses/15134348311265280",
+  "from": {
+    "type": "user",
+    "id": "zag",
+    "name": "углы «Исимуры»"
+  },
+  "via": {
+    "name": "Twitter",
+    "url": "http://twitter.com/zagru/statuses/15134348311265280"
+  }
+}
+=end comment
+
+=end pod

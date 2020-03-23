@@ -1,0 +1,44 @@
+=begin pod :pubdate('2009-10-17T10:05:56Z') :type<note> 
+=NAME Сейчас идет второй  perl воркшоп в Минске. http://event.perlbelarus.org/minsk2009/schedule
+
+=begin DESCRIPTION
+
+Сейчас идет второй  perl воркшоп в Минске. http://event.perlbelarus.org/minsk2009/schedule
+=for Image :width(233) :link('http://m.friendfeed-media.com/acbfce4bdaa2aa69f39400aa97992000162f3bc9') :height(175) :preview
+media/75bad695dcd909af5e2716e73570a2ee5e25e240.jpg
+
+
+
+=end DESCRIPTION
+
+Сейчас идет второй  perl воркшоп в Минске. http://event.perlbelarus.org/minsk2009/schedule
+=for Image :width(233) :link('http://m.friendfeed-media.com/acbfce4bdaa2aa69f39400aa97992000162f3bc9') :height(175) :preview
+media/75bad695dcd909af5e2716e73570a2ee5e25e240.jpg
+
+
+
+=begin comment :src
+{
+  "date": "2009-10-17T10:05:56Z",
+  "id": "e/a30cfe0186b746b883c05a0ff757fe07",
+  "rawBody": "Сейчас идет второй  perl воркшоп в Минске. http://event.perlbelarus.org/minsk2009/schedule",
+  "thumbnails": [
+    {
+      "width": 233,
+      "url": "http://m.friendfeed-media.com/75bad695dcd909af5e2716e73570a2ee5e25e240",
+      "link": "http://m.friendfeed-media.com/acbfce4bdaa2aa69f39400aa97992000162f3bc9",
+      "height": 175
+    }
+  ],
+  "url": "http://friendfeed.com/zag/a30cfe01/perl",
+  "body": "Сейчас идет второй  perl воркшоп в Минске. <a rel=\"nofollow\" href=\"http://event.perlbelarus.org/minsk2009/schedule\" title=\"http://event.perlbelarus.org/minsk2009/schedule\">http://event.perlbelarus.org/minsk20...</a>",
+  "rawLink": "http://friendfeed.com/e/a30cfe01-86b7-46b8-83c0-5a0ff757fe07",
+  "from": {
+    "name": "углы «Исимуры»",
+    "id": "zag",
+    "type": "user"
+  }
+}
+=end comment
+
+=end pod

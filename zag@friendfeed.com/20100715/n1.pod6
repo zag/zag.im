@@ -1,0 +1,67 @@
+=begin pod :pubdate('2010-07-15T09:44:59Z') :type<note> 
+=NAME 'The chicken came first, not the egg', scientists prove
+
+=begin DESCRIPTION
+
+'The chicken came first, not the egg', scientists prove - L<link|http://www.metro.co.uk/news/835020-the-chicken-came-first-not-the-egg-scientists-prove>
+=for Image :width(304) :link('http://www.metro.co.uk/news/835020-the-chicken-came-first-not-the-egg-scientists-prove') :height(156) :preview
+media/2727cde00140322f11759712464d79e0de8f64f1.jpg
+
+=item Курица повилась раньше яйца
+
+
+=end DESCRIPTION
+
+'The chicken came first, not the egg', scientists prove - L<link|http://www.metro.co.uk/news/835020-the-chicken-came-first-not-the-egg-scientists-prove>
+=for Image :width(304) :link('http://www.metro.co.uk/news/835020-the-chicken-came-first-not-the-egg-scientists-prove') :height(156) :preview
+media/2727cde00140322f11759712464d79e0de8f64f1.jpg
+
+=item Курица повилась раньше яйца
+
+
+=begin comment :src
+{
+  "via": {
+    "url": "http://friendfeed.com/share/bookmarklet",
+    "name": "Bookmarklet"
+  },
+  "from": {
+    "type": "user",
+    "id": "zag",
+    "name": "углы «Исимуры»"
+  },
+  "comments": [
+    {
+      "via": {
+        "url": "http://friendfeed.com/share/bookmarklet",
+        "name": "Bookmarklet"
+      },
+      "id": "e/45635c5d4e0c4c4cb4b1153ed0816e32/c/28ebe987f9274d6984f5a6d721e64c47",
+      "rawBody": "Курица повилась раньше яйца",
+      "date": "2010-07-15T09:44:59Z",
+      "from": {
+        "name": "углы «Исимуры»",
+        "type": "user",
+        "id": "zag"
+      },
+      "body": "Курица повилась раньше яйца"
+    }
+  ],
+  "date": "2010-07-15T09:44:59Z",
+  "id": "e/45635c5d4e0c4c4cb4b1153ed0816e32",
+  "rawBody": "'The chicken came first, not the egg', scientists prove",
+  "url": "http://friendfeed.com/zag/45635c5d/chicken-came-first-not-egg-scientists-prove",
+  "thumbnails": [
+    {
+      "link": "http://www.metro.co.uk/news/835020-the-chicken-came-first-not-the-egg-scientists-prove",
+      "height": 156,
+      "url": "http://m.friendfeed-media.com/2727cde00140322f11759712464d79e0de8f64f1",
+      "width": 304
+    }
+  ],
+  "rawLink": "http://www.metro.co.uk/news/835020-the-chicken-came-first-not-the-egg-scientists-prove",
+  "body": "'The chicken came first, not the egg', scientists prove - <a rel=\"nofollow\" href=\"http://www.metro.co.uk/news/835020-the-chicken-came-first-not-the-egg-scientists-prove\" title=\"http://www.metro.co.uk/news/835020-the-chicken-came-first-not-the-egg-scientists-prove\">http://www.metro.co.uk/news...</a>"
+}
+=end comment
+
+=end pod

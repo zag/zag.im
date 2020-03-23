@@ -1,0 +1,36 @@
+=begin pod :pubdate('2009-06-03T08:25:38Z') :type<note> 
+=NAME Install search addon for bing.com http://bit.ly/9nNVE
+
+=begin DESCRIPTION
+
+Install search addon for bing.com http://bit.ly/9nNVE - L<link|http://twitter.com/zagru/statuses/2014407002>
+
+
+
+=end DESCRIPTION
+
+Install search addon for bing.com http://bit.ly/9nNVE - L<link|http://twitter.com/zagru/statuses/2014407002>
+
+
+
+=begin comment :src
+{
+  "from": {
+    "id": "zag",
+    "type": "user",
+    "name": "углы «Исимуры»"
+  },
+  "via": {
+    "name": "Twitter",
+    "url": "http://twitter.com/zagru/statuses/2014407002"
+  },
+  "rawLink": "http://twitter.com/zagru/statuses/2014407002",
+  "body": "Install search addon for bing.com <a rel=\"nofollow\" href=\"http://bit.ly/9nNVE\" title=\"http://releases.mozilla.org/pub/mozilla.org/addons/12205/bing-20090531.xml\">http://releases.mozilla.org/pub...</a>",
+  "rawBody": "Install search addon for bing.com http://bit.ly/9nNVE",
+  "id": "e/12ea2e27d1bf1ef4a24f58955cab013e",
+  "date": "2009-06-03T08:25:38Z",
+  "url": "http://friendfeed.com/zag/12ea2e27/install-search-addon-for-bing"
+}
+=end comment
+
+=end pod

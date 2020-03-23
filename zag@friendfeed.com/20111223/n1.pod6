@@ -1,0 +1,50 @@
+=begin pod :pubdate('2011-12-23T11:48:42Z') :type<note> 
+=NAME Juick - https://github.com/juick
+
+=begin DESCRIPTION
+
+Juick - https://github.com/juick
+
+
+
+=end DESCRIPTION
+
+Juick - https://github.com/juick
+
+
+
+=begin comment :src
+{
+  "id": "e/4afa77cef41f447bbebe27636e8f9882",
+  "date": "2011-12-23T11:48:42Z",
+  "rawBody": "Juick - https://github.com/juick",
+  "url": "http://friendfeed.com/zag/4afa77ce/juick",
+  "body": "Juick - <a rel=\"nofollow\" href=\"https://github.com/juick\">https://github.com/juick</a>",
+  "likes": [
+    {
+      "from": {
+        "id": "kkapp",
+        "type": "user",
+        "name": "alex@kapranoff.ru"
+      },
+      "date": "2011-12-23T15:17:41Z"
+    },
+    {
+      "from": {
+        "name": "Ivan Bessarabov",
+        "id": "bessarabov",
+        "type": "user"
+      },
+      "date": "2011-12-23T11:52:25Z"
+    }
+  ],
+  "rawLink": "http://friendfeed.com/e/4afa77ce-f41f-447b-bebe-27636e8f9882",
+  "from": {
+    "name": "углы «Исимуры»",
+    "id": "zag",
+    "type": "user"
+  }
+}
+=end comment
+
+=end pod

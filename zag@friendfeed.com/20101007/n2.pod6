@@ -1,0 +1,41 @@
+=begin pod :pubdate('2010-10-07T07:51:27Z') :type<note> 
+=NAME YouTube - Building Web Reputation Systems - http://www.youtube.com/watch?v=Yn7e0J9m6rE
+
+=begin DESCRIPTION
+
+YouTube - Building Web Reputation Systems - http://www.youtube.com/watch?v=Yn7e0J9m6rE
+
+
+
+=end DESCRIPTION
+
+YouTube - Building Web Reputation Systems - http://www.youtube.com/watch?v=Yn7e0J9m6rE
+
+
+
+=begin comment :src
+{
+  "from": {
+    "type": "user",
+    "id": "zag",
+    "name": "углы «Исимуры»"
+  },
+  "date": "2010-10-07T07:51:27Z",
+  "id": "e/258c4441aa6841a18cf4db74e4f15040",
+  "rawBody": "YouTube - Building Web Reputation Systems - http://www.youtube.com/watch?v=Yn7e0J9m6rE",
+  "url": "http://friendfeed.com/zag/258c4441/youtube-building-web-reputation-systems",
+  "thumbnails": [
+    {
+      "width": 130,
+      "url": "http://img.youtube.com/vi/Yn7e0J9m6rE/2.jpg",
+      "link": "http://friendfeed.com/e/258c4441-aa68-41a1-8cf4-db74e4f15040",
+      "height": 97,
+      "player": "<object width=\"425\" height=\"350\"><param name=\"movie\" value=\"http://www.youtube.com/v/Yn7e0J9m6rE&amp;autoplay=1&amp;showsearch=0&amp;ap=%2526fmt%3D18&amp;fs=1\"></param><param name=\"allowFullScreen\" value=\"true\"><embed src=\"http://www.youtube.com/v/Yn7e0J9m6rE&amp;autoplay=1&amp;showsearch=0&amp;ap=%2526fmt%3D18&amp;fs=1\" type=\"application/x-shockwave-flash\" allowfullscreen=\"true\" width=\"425\" height=\"350\"></embed></object>"
+    }
+  ],
+  "body": "YouTube - Building Web Reputation Systems - <a rel=\"nofollow\" href=\"http://www.youtube.com/watch?v=Yn7e0J9m6rE\" title=\"http://www.youtube.com/watch?v=Yn7e0J9m6rE\">http://www.youtube.com/watch...</a>",
+  "rawLink": "http://friendfeed.com/e/258c4441-aa68-41a1-8cf4-db74e4f15040"
+}
+=end comment
+
+=end pod

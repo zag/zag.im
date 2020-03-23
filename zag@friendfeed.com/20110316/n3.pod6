@@ -1,0 +1,77 @@
+=begin pod :pubdate('2011-03-16T06:07:53Z') :type<note> :tags<Perl>
+=NAME Facebook Authentication with #Perl and Facebook::Graph - Perl.com
+
+=begin DESCRIPTION
+
+Facebook Authentication with #Perl and Facebook::Graph - Perl.com - L<link|http://www.perl.com/pub/2011/03/facebook-authentication-with-perl-and-facebookgraph.html>
+=for Image :width(525) :link('http://www.perl.com/pub/2011/03/facebook-authentication-with-perl-and-facebookgraph.html') :height(158) :preview
+media/44e9bf12697c211bcf76a37a29aee8d7279d2f08.jpg
+=for Image :width(525) :link('http://www.perl.com/pub/2011/03/facebook-authentication-with-perl-and-facebookgraph.html') :height(159) :preview
+media/76d25563559a62e30ebf64f1ad620f9868541bb7.jpg
+
+=item Facebook Graph API documentation: http://developers.facebook.com/docs/reference/api/
+
+
+=end DESCRIPTION
+
+Facebook Authentication with #Perl and Facebook::Graph - Perl.com - L<link|http://www.perl.com/pub/2011/03/facebook-authentication-with-perl-and-facebookgraph.html>
+=for Image :width(525) :link('http://www.perl.com/pub/2011/03/facebook-authentication-with-perl-and-facebookgraph.html') :height(158) :preview
+media/44e9bf12697c211bcf76a37a29aee8d7279d2f08.jpg
+=for Image :width(525) :link('http://www.perl.com/pub/2011/03/facebook-authentication-with-perl-and-facebookgraph.html') :height(159) :preview
+media/76d25563559a62e30ebf64f1ad620f9868541bb7.jpg
+
+=item Facebook Graph API documentation: http://developers.facebook.com/docs/reference/api/
+
+
+=begin comment :src
+{
+  "id": "e/f27a485d46be43c08fd27275244e5666",
+  "date": "2011-03-16T06:07:53Z",
+  "url": "http://friendfeed.com/zag/f27a485d/facebook-authentication-with-perl-and",
+  "rawBody": "Facebook Authentication with #Perl and Facebook::Graph - Perl.com",
+  "thumbnails": [
+    {
+      "url": "http://m.friendfeed-media.com/44e9bf12697c211bcf76a37a29aee8d7279d2f08",
+      "width": 525,
+      "link": "http://www.perl.com/pub/2011/03/facebook-authentication-with-perl-and-facebookgraph.html",
+      "height": 158
+    },
+    {
+      "height": 159,
+      "link": "http://www.perl.com/pub/2011/03/facebook-authentication-with-perl-and-facebookgraph.html",
+      "url": "http://m.friendfeed-media.com/76d25563559a62e30ebf64f1ad620f9868541bb7",
+      "width": 525
+    }
+  ],
+  "body": "Facebook Authentication with <a href=\"http://friendfeed.com/search?q=%23Perl\">#Perl</a> and Facebook::Graph - Perl.com - <a rel=\"nofollow\" href=\"http://www.perl.com/pub/2011/03/facebook-authentication-with-perl-and-facebookgraph.html\" title=\"http://www.perl.com/pub/2011/03/facebook-authentication-with-perl-and-facebookgraph.html\">http://www.perl.com/pub...</a>",
+  "rawLink": "http://www.perl.com/pub/2011/03/facebook-authentication-with-perl-and-facebookgraph.html",
+  "from": {
+    "name": "углы «Исимуры»",
+    "type": "user",
+    "id": "zag"
+  },
+  "via": {
+    "name": "Bookmarklet",
+    "url": "http://friendfeed.com/share/bookmarklet"
+  },
+  "comments": [
+    {
+      "body": "Facebook Graph API documentation: <a rel=\"nofollow\" href=\"http://developers.facebook.com/docs/reference/api/\" title=\"http://developers.facebook.com/docs/reference/api/\">http://developers.facebook.com/docs...</a>",
+      "id": "e/f27a485d46be43c08fd27275244e5666/c/cc8f3d18b3f34bee97f1225093133f38",
+      "date": "2011-03-16T06:07:53Z",
+      "from": {
+        "name": "углы «Исимуры»",
+        "type": "user",
+        "id": "zag"
+      },
+      "rawBody": "Facebook Graph API documentation: http://developers.facebook.com/docs/reference/api/",
+      "via": {
+        "name": "Bookmarklet",
+        "url": "http://friendfeed.com/share/bookmarklet"
+      }
+    }
+  ]
+}
+=end comment
+
+=end pod

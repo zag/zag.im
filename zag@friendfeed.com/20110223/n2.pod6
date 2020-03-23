@@ -1,0 +1,48 @@
+=begin pod :pubdate('2011-02-23T06:16:12Z') :type<note> 
+=NAME Magic button. Волшебная кнопка "Сделать всё хорошо"
+
+=begin DESCRIPTION
+
+Magic button. Волшебная кнопка "Сделать всё хорошо" - L<link|http://button.dekel.ru/#>
+=for Image :width(115) :link('http://button.dekel.ru/#') :height(175) :preview
+media/4cac8e73cb1868374931838882597dda8827689c.jpg
+
+
+
+=end DESCRIPTION
+
+Magic button. Волшебная кнопка "Сделать всё хорошо" - L<link|http://button.dekel.ru/#>
+=for Image :width(115) :link('http://button.dekel.ru/#') :height(175) :preview
+media/4cac8e73cb1868374931838882597dda8827689c.jpg
+
+
+
+=begin comment :src
+{
+  "body": "Magic button. Волшебная кнопка &quot;Сделать всё хорошо&quot; - <a rel=\"nofollow\" href=\"http://button.dekel.ru/#\">http://button.dekel.ru/#</a>",
+  "rawLink": "http://button.dekel.ru/#",
+  "rawBody": "Magic button. Волшебная кнопка \"Сделать всё хорошо\"",
+  "id": "e/516aa236b24a4661ad95aa8dcb551bf8",
+  "date": "2011-02-23T06:16:12Z",
+  "url": "http://friendfeed.com/zag/516aa236/magic-button",
+  "thumbnails": [
+    {
+      "url": "http://m.friendfeed-media.com/4cac8e73cb1868374931838882597dda8827689c",
+      "width": 115,
+      "link": "http://button.dekel.ru/#",
+      "height": 175
+    }
+  ],
+  "from": {
+    "id": "zag",
+    "type": "user",
+    "name": "углы «Исимуры»"
+  },
+  "via": {
+    "name": "Bookmarklet",
+    "url": "http://friendfeed.com/share/bookmarklet"
+  }
+}
+=end comment
+
+=end pod

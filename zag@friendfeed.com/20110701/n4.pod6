@@ -1,0 +1,58 @@
+=begin pod :pubdate('2011-07-01T12:17:09Z') :type<note> :tags<lvee>
+=NAME Еще майки с #lvee
+
+=begin DESCRIPTION
+
+Еще майки с #lvee
+=for Image :width(292) :link('http://m.friendfeed-media.com/9b99446c34937d6ccac5a7bdc310a5dc019de387') :height(175) :preview
+media/b8e4c59cfd431872216cf4dbe6c6badfb7ca57cf.jpg
+
+
+
+=end DESCRIPTION
+
+Еще майки с #lvee
+=for Image :width(292) :link('http://m.friendfeed-media.com/9b99446c34937d6ccac5a7bdc310a5dc019de387') :height(175) :preview
+media/b8e4c59cfd431872216cf4dbe6c6badfb7ca57cf.jpg
+
+
+
+=begin comment :src
+{
+  "id": "e/df32141dd344444595bc8d56c7f83514",
+  "date": "2011-07-01T12:17:09Z",
+  "url": "http://friendfeed.com/zag/df32141d/lvee",
+  "rawBody": "Еще майки с #lvee",
+  "thumbnails": [
+    {
+      "width": 292,
+      "url": "http://m.friendfeed-media.com/b8e4c59cfd431872216cf4dbe6c6badfb7ca57cf",
+      "link": "http://m.friendfeed-media.com/9b99446c34937d6ccac5a7bdc310a5dc019de387",
+      "height": 175
+    }
+  ],
+  "likes": [
+    {
+      "from": {
+        "name": "Николай",
+        "id": "mishin",
+        "type": "user"
+      },
+      "date": "2011-07-01T13:22:39Z"
+    }
+  ],
+  "rawLink": "http://friendfeed.com/e/df32141d-d344-4445-95bc-8d56c7f83514",
+  "body": "Еще майки с <a href=\"http://friendfeed.com/search?q=%23lvee\">#lvee</a>",
+  "from": {
+    "name": "углы «Исимуры»",
+    "type": "user",
+    "id": "zag"
+  },
+  "via": {
+    "url": "http://friendfeed.com/share/mail",
+    "name": "email"
+  }
+}
+=end comment
+
+=end pod

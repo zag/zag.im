@@ -1,0 +1,44 @@
+=begin pod :pubdate('2011-01-05T15:34:59Z') :type<note> :tags<qwerty HTC android>
+=NAME А теперь еще и с джойстиком #qwerty #HTC. Sprint announces the HTC Shift 4G  available January 9th. http://bit.ly/i3R8rV #android (via http://ff.im/wj6YX)
+
+=begin DESCRIPTION
+
+А теперь еще и с джойстиком #qwerty #HTC. Sprint announces the HTC Shift 4G  available January 9th. http://bit.ly/i3R8rV #android (via http://ff.im/wj6YX)
+=for Image :width(137) :link('http://m.friendfeed-media.com/26f6d7a83cc9b8038d5db2b9a9494c5ac22d7df9') :height(175) :preview
+media/5e6f0a9d2d3879475536ad8a254e32136e316259.jpg
+
+
+
+=end DESCRIPTION
+
+А теперь еще и с джойстиком #qwerty #HTC. Sprint announces the HTC Shift 4G  available January 9th. http://bit.ly/i3R8rV #android (via http://ff.im/wj6YX)
+=for Image :width(137) :link('http://m.friendfeed-media.com/26f6d7a83cc9b8038d5db2b9a9494c5ac22d7df9') :height(175) :preview
+media/5e6f0a9d2d3879475536ad8a254e32136e316259.jpg
+
+
+
+=begin comment :src
+{
+  "rawLink": "http://friendfeed.com/e/24599821-9c39-4b63-8a2c-08d79135363f",
+  "body": "А теперь еще и с джойстиком <a href=\"http://friendfeed.com/search?q=%23qwerty\">#qwerty</a> <a href=\"http://friendfeed.com/search?q=%23HTC\">#HTC</a>. Sprint announces the HTC Shift 4G  available January 9th. <a rel=\"nofollow\" href=\"http://bit.ly/i3R8rV\" title=\"http://androidappinspection.blogspot.com/2011/01/htc-evo-shift-4g.html\">http://androidappinspection.blogspot.com/2011...</a> <a href=\"http://friendfeed.com/search?q=%23android\">#android</a> (via <a href=\"http://ff.im/wj6YX\" title=\"http://friendfeed.com/android/2d165b27/sprint-announces-htc-shift-4g-available\">http://friendfeed.com/android...</a>)",
+  "rawBody": "А теперь еще и с джойстиком #qwerty #HTC. Sprint announces the HTC Shift 4G  available January 9th. http://bit.ly/i3R8rV #android (via http://ff.im/wj6YX)",
+  "id": "e/245998219c394b638a2c08d79135363f",
+  "date": "2011-01-05T15:34:59Z",
+  "thumbnails": [
+    {
+      "link": "http://m.friendfeed-media.com/26f6d7a83cc9b8038d5db2b9a9494c5ac22d7df9",
+      "height": 175,
+      "url": "http://m.friendfeed-media.com/5e6f0a9d2d3879475536ad8a254e32136e316259",
+      "width": 137
+    }
+  ],
+  "url": "http://friendfeed.com/zag/24599821/qwerty-htc-sprint-announces-shift-4g-available",
+  "from": {
+    "name": "углы «Исимуры»",
+    "id": "zag",
+    "type": "user"
+  }
+}
+=end comment
+
+=end pod

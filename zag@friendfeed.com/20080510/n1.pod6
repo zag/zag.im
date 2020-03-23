@@ -1,0 +1,32 @@
+=begin pod :pubdate('2008-05-10T15:18:58Z') :type<note> 
+=NAME test
+
+=begin DESCRIPTION
+
+test - L<link|http://www.google.com/url?q=http://www.youtube.com/watch%3Fv%3Dolm7xC-gBMY&sa=X&oi=video_result&resnum=3&ct=thumbnail&usg=AFQjCNEzzU6rp7AXyExt0dZTYOxWnhBkEQ>
+
+
+
+=end DESCRIPTION
+
+test - L<link|http://www.google.com/url?q=http://www.youtube.com/watch%3Fv%3Dolm7xC-gBMY&sa=X&oi=video_result&resnum=3&ct=thumbnail&usg=AFQjCNEzzU6rp7AXyExt0dZTYOxWnhBkEQ>
+
+
+
+=begin comment :src
+{
+  "body": "test - <a rel=\"nofollow\" href=\"http://www.google.com/url?q=http://www.youtube.com/watch%3Fv%3Dolm7xC-gBMY&amp;sa=X&amp;oi=video_result&amp;resnum=3&amp;ct=thumbnail&amp;usg=AFQjCNEzzU6rp7AXyExt0dZTYOxWnhBkEQ\" title=\"http://www.google.com/url?q=http://www.youtube.com/watch%3Fv%3Dolm7xC-gBMY&amp;sa=X&amp;oi=video_result&amp;resnum=3&amp;ct=thumbnail&amp;usg=AFQjCNEzzU6rp7AXyExt0dZTYOxWnhBkEQ\">http://www.google.com/url...</a>",
+  "rawLink": "http://www.google.com/url?q=http://www.youtube.com/watch%3Fv%3Dolm7xC-gBMY&sa=X&oi=video_result&resnum=3&ct=thumbnail&usg=AFQjCNEzzU6rp7AXyExt0dZTYOxWnhBkEQ",
+  "id": "e/0809c486ea3844eebecd21fe6a1799f6",
+  "url": "http://friendfeed.com/zag/0809c486/test",
+  "date": "2008-05-10T15:18:58Z",
+  "rawBody": "test",
+  "from": {
+    "type": "user",
+    "id": "zag",
+    "name": "углы «Исимуры»"
+  }
+}
+=end comment
+
+=end pod

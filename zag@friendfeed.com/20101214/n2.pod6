@@ -1,0 +1,68 @@
+=begin pod :pubdate('2010-12-14T21:01:16Z') :type<note> 
+=NAME HTML5 is the Future - by Jason Beaird
+
+=begin DESCRIPTION
+
+HTML5 is the Future - by Jason Beaird - L<link|http://www.unmatchedstyle.com/news/html5-is-the-future.php>
+=for Image :width(232) :link('http://www.unmatchedstyle.com/news/html5-is-the-future.php') :height(175) :preview
+media/d92fad5010ddc01eea3b56f3ae6de9d34736a83e.jpg
+=for Image :width(235) :link('http://www.unmatchedstyle.com/news/html5-is-the-future.php') :height(175) :preview
+media/54a20330671e720875d2a57dd24c31519be12fac.jpg
+=for Image :width(232) :link('http://www.unmatchedstyle.com/news/html5-is-the-future.php') :height(175) :preview
+media/2cdfa89e090408d0f8db42fb779e21fb4c6c4e42.jpg
+
+
+
+=end DESCRIPTION
+
+HTML5 is the Future - by Jason Beaird - L<link|http://www.unmatchedstyle.com/news/html5-is-the-future.php>
+=for Image :width(232) :link('http://www.unmatchedstyle.com/news/html5-is-the-future.php') :height(175) :preview
+media/d92fad5010ddc01eea3b56f3ae6de9d34736a83e.jpg
+=for Image :width(235) :link('http://www.unmatchedstyle.com/news/html5-is-the-future.php') :height(175) :preview
+media/54a20330671e720875d2a57dd24c31519be12fac.jpg
+=for Image :width(232) :link('http://www.unmatchedstyle.com/news/html5-is-the-future.php') :height(175) :preview
+media/2cdfa89e090408d0f8db42fb779e21fb4c6c4e42.jpg
+
+
+
+=begin comment :src
+{
+  "via": {
+    "name": "Bookmarklet",
+    "url": "http://friendfeed.com/share/bookmarklet"
+  },
+  "from": {
+    "name": "углы «Исимуры»",
+    "type": "user",
+    "id": "zag"
+  },
+  "rawLink": "http://www.unmatchedstyle.com/news/html5-is-the-future.php",
+  "body": "HTML5 is the Future - by Jason Beaird - <a rel=\"nofollow\" href=\"http://www.unmatchedstyle.com/news/html5-is-the-future.php\" title=\"http://www.unmatchedstyle.com/news/html5-is-the-future.php\">http://www.unmatchedstyle.com/news...</a>",
+  "url": "http://friendfeed.com/zag/262042fe/html5-is-future-by-jason-beaird",
+  "id": "e/262042feee2e4069b8cf504e4f715289",
+  "date": "2010-12-14T21:01:16Z",
+  "rawBody": "HTML5 is the Future - by Jason Beaird",
+  "thumbnails": [
+    {
+      "url": "http://m.friendfeed-media.com/d92fad5010ddc01eea3b56f3ae6de9d34736a83e",
+      "width": 232,
+      "height": 175,
+      "link": "http://www.unmatchedstyle.com/news/html5-is-the-future.php"
+    },
+    {
+      "height": 175,
+      "link": "http://www.unmatchedstyle.com/news/html5-is-the-future.php",
+      "url": "http://m.friendfeed-media.com/54a20330671e720875d2a57dd24c31519be12fac",
+      "width": 235
+    },
+    {
+      "width": 232,
+      "url": "http://m.friendfeed-media.com/2cdfa89e090408d0f8db42fb779e21fb4c6c4e42",
+      "link": "http://www.unmatchedstyle.com/news/html5-is-the-future.php",
+      "height": 175
+    }
+  ]
+}
+=end comment
+
+=end pod

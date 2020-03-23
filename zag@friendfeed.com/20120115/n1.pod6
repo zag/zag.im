@@ -1,0 +1,48 @@
+=begin pod :pubdate('2012-01-15T07:09:47Z') :type<note> 
+=NAME Логотип DC-Baltimore Perl Workshop 2012
+
+=begin DESCRIPTION
+
+Логотип DC-Baltimore Perl Workshop 2012 - L<link|http://dcbpw.org/dcbpw2012/>
+=for Image :width(213) :link('http://dcbpw.org/dcbpw2012/') :height(175) :preview
+media/6cf5e811dc5fa9d9bd078b00c5d7340612576d66.jpg
+
+
+
+=end DESCRIPTION
+
+Логотип DC-Baltimore Perl Workshop 2012 - L<link|http://dcbpw.org/dcbpw2012/>
+=for Image :width(213) :link('http://dcbpw.org/dcbpw2012/') :height(175) :preview
+media/6cf5e811dc5fa9d9bd078b00c5d7340612576d66.jpg
+
+
+
+=begin comment :src
+{
+  "via": {
+    "url": "http://friendfeed.com/share/bookmarklet",
+    "name": "Bookmarklet"
+  },
+  "from": {
+    "type": "user",
+    "id": "zag",
+    "name": "углы «Исимуры»"
+  },
+  "rawLink": "http://dcbpw.org/dcbpw2012/",
+  "body": "Логотип DC-Baltimore Perl Workshop 2012 - <a rel=\"nofollow\" href=\"http://dcbpw.org/dcbpw2012/\">http://dcbpw.org/dcbpw2012/</a>",
+  "date": "2012-01-15T07:09:47Z",
+  "id": "e/83bf6976889a461fbe66e2f18fad3f93",
+  "thumbnails": [
+    {
+      "width": 213,
+      "url": "http://m.friendfeed-media.com/6cf5e811dc5fa9d9bd078b00c5d7340612576d66",
+      "height": 175,
+      "link": "http://dcbpw.org/dcbpw2012/"
+    }
+  ],
+  "rawBody": "Логотип DC-Baltimore Perl Workshop 2012",
+  "url": "http://friendfeed.com/zag/83bf6976/dc-baltimore-perl-workshop-2012"
+}
+=end comment
+
+=end pod

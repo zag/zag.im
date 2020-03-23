@@ -1,0 +1,65 @@
+=begin pod :pubdate('2011-08-23T11:32:55Z') :type<note> 
+=NAME TeleHash / JSON + UDP + DHT = Freedom
+
+=begin DESCRIPTION
+
+TeleHash / JSON + UDP + DHT = Freedom - L<link|http://telehash.org/>
+
+=item "A new wire protocol enabling applications to connect directly in a real-time and fully distributed manner, freeing them from relying on centralized datacenters"
+
+
+=end DESCRIPTION
+
+TeleHash / JSON + UDP + DHT = Freedom - L<link|http://telehash.org/>
+
+=item "A new wire protocol enabling applications to connect directly in a real-time and fully distributed manner, freeing them from relying on centralized datacenters"
+
+
+=begin comment :src
+{
+  "from": {
+    "type": "user",
+    "id": "zag",
+    "name": "углы «Исимуры»"
+  },
+  "via": {
+    "url": "http://friendfeed.com/share/bookmarklet",
+    "name": "Bookmarklet"
+  },
+  "comments": [
+    {
+      "via": {
+        "name": "Bookmarklet",
+        "url": "http://friendfeed.com/share/bookmarklet"
+      },
+      "date": "2011-08-23T11:32:55Z",
+      "id": "e/f174c19b27b94d7b9e866aabf19c5a54/c/54d0af0cbd2c40a480ded829ee591af7",
+      "from": {
+        "name": "углы «Исимуры»",
+        "id": "zag",
+        "type": "user"
+      },
+      "rawBody": "\"A new wire protocol enabling applications to connect directly in a real-time and fully distributed manner, freeing them from relying on centralized datacenters\"",
+      "body": "&quot;A new wire protocol enabling applications to connect directly in a real-time and fully distributed manner, freeing them from relying on centralized datacenters&quot;"
+    }
+  ],
+  "id": "e/f174c19b27b94d7b9e866aabf19c5a54",
+  "date": "2011-08-23T11:32:55Z",
+  "rawBody": "TeleHash / JSON + UDP + DHT = Freedom",
+  "url": "http://friendfeed.com/zag/f174c19b/telehash-json-udp-dht-freedom",
+  "rawLink": "http://telehash.org/",
+  "likes": [
+    {
+      "date": "2011-08-23T12:31:11Z",
+      "from": {
+        "type": "user",
+        "id": "mishin",
+        "name": "Николай"
+      }
+    }
+  ],
+  "body": "TeleHash / JSON + UDP + DHT = Freedom - <a rel=\"nofollow\" href=\"http://telehash.org/\">http://telehash.org/</a>"
+}
+=end comment
+
+=end pod

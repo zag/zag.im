@@ -1,0 +1,32 @@
+=begin pod :pubdate('2011-06-20T04:23:53Z') :type<note> 
+=NAME День начался с непробивного условия Gmail сменить свой пароль. Оказалось : [Mt.Gox] Account database compromised.
+
+=begin DESCRIPTION
+
+День начался с непробивного условия Gmail сменить свой пароль. Оказалось : [Mt.Gox] Account database compromised.
+
+
+
+=end DESCRIPTION
+
+День начался с непробивного условия Gmail сменить свой пароль. Оказалось : [Mt.Gox] Account database compromised.
+
+
+
+=begin comment :src
+{
+  "date": "2011-06-20T04:23:53Z",
+  "id": "e/bf58bca3bc314253b3a041b6ca2bfeff",
+  "rawBody": "День начался с непробивного условия Gmail сменить свой пароль. Оказалось : [Mt.Gox] Account database compromised.",
+  "from": {
+    "name": "углы «Исимуры»",
+    "id": "zag",
+    "type": "user"
+  },
+  "url": "http://friendfeed.com/zag/bf58bca3/gmail-mt-gox-account-database-compromised",
+  "rawLink": "http://friendfeed.com/e/bf58bca3-bc31-4253-b3a0-41b6ca2bfeff",
+  "body": "День начался с непробивного условия Gmail сменить свой пароль. Оказалось : [Mt.Gox] Account database compromised."
+}
+=end comment
+
+=end pod

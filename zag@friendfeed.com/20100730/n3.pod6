@@ -1,0 +1,36 @@
+=begin pod :pubdate('2010-07-30T07:44:36Z') :type<note> :tags<perl6 freebsd>
+=NAME Port of "Rakudo Star" for FreeBSD available at http://rakudoport.sourceforge.net/ #perl6 #freebsd
+
+=begin DESCRIPTION
+
+Port of "Rakudo Star" for FreeBSD available at http://rakudoport.sourceforge.net/ #perl6 #freebsd - L<link|http://twitter.com/zagru/statuses/19893138038>
+
+
+
+=end DESCRIPTION
+
+Port of "Rakudo Star" for FreeBSD available at http://rakudoport.sourceforge.net/ #perl6 #freebsd - L<link|http://twitter.com/zagru/statuses/19893138038>
+
+
+
+=begin comment :src
+{
+  "date": "2010-07-30T07:44:36Z",
+  "id": "e/03c8fadb90b05bc44e8b06a36ac1f016",
+  "rawBody": "Port of \"Rakudo Star\" for FreeBSD available at http://rakudoport.sourceforge.net/ #perl6 #freebsd",
+  "url": "http://friendfeed.com/zag/03c8fadb/port-of-rakudo-star-for-freebsd-available-at",
+  "rawLink": "http://twitter.com/zagru/statuses/19893138038",
+  "body": "Port of &quot;Rakudo Star&quot; for FreeBSD available at <a rel=\"nofollow\" href=\"http://rakudoport.sourceforge.net/\" title=\"http://rakudoport.sourceforge.net/\">http://rakudoport.sourceforge.net/</a> <a rel=\"nofollow\" href=\"http://search.twitter.com/search?q=%23perl6\">#perl6</a> <a rel=\"nofollow\" href=\"http://search.twitter.com/search?q=%23freebsd\">#freebsd</a>",
+  "from": {
+    "name": "углы «Исимуры»",
+    "id": "zag",
+    "type": "user"
+  },
+  "via": {
+    "name": "Twitter",
+    "url": "http://twitter.com/zagru/statuses/19893138038"
+  }
+}
+=end comment
+
+=end pod

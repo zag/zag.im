@@ -1,0 +1,48 @@
+=begin pod :pubdate('2009-10-26T13:38:15Z') :type<note> 
+=NAME Google Docs Batch Export/backup all your docs !
+
+=begin DESCRIPTION
+
+Google Docs Batch Export/backup all your docs ! - L<link|http://googlesystem.blogspot.com/2009/10/export-google-docs.html>
+=for Image :width(205) :link('http://googlesystem.blogspot.com/2009/10/export-google-docs.html') :height(175) :preview
+media/14a70df27c5c6a50c36cc093d97831e8ecb54a84.jpg
+
+
+
+=end DESCRIPTION
+
+Google Docs Batch Export/backup all your docs ! - L<link|http://googlesystem.blogspot.com/2009/10/export-google-docs.html>
+=for Image :width(205) :link('http://googlesystem.blogspot.com/2009/10/export-google-docs.html') :height(175) :preview
+media/14a70df27c5c6a50c36cc093d97831e8ecb54a84.jpg
+
+
+
+=begin comment :src
+{
+  "id": "e/857e92cc62034716873b336dde965a27",
+  "date": "2009-10-26T13:38:15Z",
+  "rawBody": "Google Docs Batch Export/backup all your docs !",
+  "url": "http://friendfeed.com/zag/857e92cc/google-docs-batch-export-backup-all-your",
+  "thumbnails": [
+    {
+      "height": 175,
+      "link": "http://googlesystem.blogspot.com/2009/10/export-google-docs.html",
+      "width": 205,
+      "url": "http://m.friendfeed-media.com/14a70df27c5c6a50c36cc093d97831e8ecb54a84"
+    }
+  ],
+  "body": "Google Docs Batch Export/backup all your docs ! - <a rel=\"nofollow\" href=\"http://googlesystem.blogspot.com/2009/10/export-google-docs.html\" title=\"http://googlesystem.blogspot.com/2009/10/export-google-docs.html\">http://googlesystem.blogspot.com/2009...</a>",
+  "rawLink": "http://googlesystem.blogspot.com/2009/10/export-google-docs.html",
+  "via": {
+    "url": "http://friendfeed.com/share/bookmarklet",
+    "name": "Bookmarklet"
+  },
+  "from": {
+    "id": "zag",
+    "type": "user",
+    "name": "углы «Исимуры»"
+  }
+}
+=end comment
+
+=end pod

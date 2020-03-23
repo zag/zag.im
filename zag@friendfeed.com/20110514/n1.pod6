@@ -1,0 +1,48 @@
+=begin pod :pubdate('2011-05-14T19:00:21Z') :type<note> :tags<yapc>
+=NAME Видекамера универсальный переходник для любых видеоинтерфейсов #yapc
+
+=begin DESCRIPTION
+
+Видекамера универсальный переходник для любых видеоинтерфейсов #yapc
+=for Image :width(292) :link('http://m.friendfeed-media.com/3320339a3bc33a9e4614771b2eec983a5a370fb6') :height(175) :preview
+media/e713651e22b4402031cf0a726dd05bc90558a5f1.jpg
+
+
+
+=end DESCRIPTION
+
+Видекамера универсальный переходник для любых видеоинтерфейсов #yapc
+=for Image :width(292) :link('http://m.friendfeed-media.com/3320339a3bc33a9e4614771b2eec983a5a370fb6') :height(175) :preview
+media/e713651e22b4402031cf0a726dd05bc90558a5f1.jpg
+
+
+
+=begin comment :src
+{
+  "via": {
+    "url": "http://friendfeed.com/share/mail",
+    "name": "email"
+  },
+  "from": {
+    "name": "углы «Исимуры»",
+    "id": "zag",
+    "type": "user"
+  },
+  "rawLink": "http://friendfeed.com/e/8a275fb1-2900-4434-a2d9-c95a41d94fc6",
+  "body": "Видекамера универсальный переходник для любых видеоинтерфейсов <a href=\"http://friendfeed.com/search?q=%23yapc\">#yapc</a>",
+  "id": "e/8a275fb129004434a2d9c95a41d94fc6",
+  "thumbnails": [
+    {
+      "link": "http://m.friendfeed-media.com/3320339a3bc33a9e4614771b2eec983a5a370fb6",
+      "height": 175,
+      "width": 292,
+      "url": "http://m.friendfeed-media.com/e713651e22b4402031cf0a726dd05bc90558a5f1"
+    }
+  ],
+  "date": "2011-05-14T19:00:21Z",
+  "rawBody": "Видекамера универсальный переходник для любых видеоинтерфейсов #yapc",
+  "url": "http://friendfeed.com/zag/8a275fb1/yapc"
+}
+=end comment
+
+=end pod

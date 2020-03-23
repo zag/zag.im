@@ -1,0 +1,68 @@
+=begin pod :pubdate('2009-12-30T07:35:48Z') :type<note> :tags<avatarmovie>
+=NAME 10 Possible Sources of "Avatar" in Classic Science Fiction  #avatarmovie
+
+=begin DESCRIPTION
+
+10 Possible Sources of "Avatar" in Classic Science Fiction  #avatarmovie - L<link|http://www.darkroastedblend.com/2009/12/10-possible-sources-of-avatar-in.html>
+=for Image :width(280) :link('http://www.darkroastedblend.com/2009/12/10-possible-sources-of-avatar-in.html') :height(175) :preview
+media/183fff7a84b6f3146a9bb6ee2483b8c57e176e51.jpg
+=for Image :width(246) :link('http://www.darkroastedblend.com/2009/12/10-possible-sources-of-avatar-in.html') :height(175) :preview
+media/2c77eef0448cfe220bab876413ab02256a4779dc.jpg
+=for Image :width(236) :link('http://www.darkroastedblend.com/2009/12/10-possible-sources-of-avatar-in.html') :height(175) :preview
+media/06d95495ab03718298e03b8ddec405ed714008b0.jpg
+
+
+
+=end DESCRIPTION
+
+10 Possible Sources of "Avatar" in Classic Science Fiction  #avatarmovie - L<link|http://www.darkroastedblend.com/2009/12/10-possible-sources-of-avatar-in.html>
+=for Image :width(280) :link('http://www.darkroastedblend.com/2009/12/10-possible-sources-of-avatar-in.html') :height(175) :preview
+media/183fff7a84b6f3146a9bb6ee2483b8c57e176e51.jpg
+=for Image :width(246) :link('http://www.darkroastedblend.com/2009/12/10-possible-sources-of-avatar-in.html') :height(175) :preview
+media/2c77eef0448cfe220bab876413ab02256a4779dc.jpg
+=for Image :width(236) :link('http://www.darkroastedblend.com/2009/12/10-possible-sources-of-avatar-in.html') :height(175) :preview
+media/06d95495ab03718298e03b8ddec405ed714008b0.jpg
+
+
+
+=begin comment :src
+{
+  "id": "e/0f2dcb17846b4508aa6b873f76776391",
+  "date": "2009-12-30T07:35:48Z",
+  "url": "http://friendfeed.com/zag/0f2dcb17/10-possible-sources-of-avatar-in-classic",
+  "rawBody": "10 Possible Sources of \"Avatar\" in Classic Science Fiction  #avatarmovie",
+  "thumbnails": [
+    {
+      "url": "http://m.friendfeed-media.com/183fff7a84b6f3146a9bb6ee2483b8c57e176e51",
+      "width": 280,
+      "height": 175,
+      "link": "http://www.darkroastedblend.com/2009/12/10-possible-sources-of-avatar-in.html"
+    },
+    {
+      "link": "http://www.darkroastedblend.com/2009/12/10-possible-sources-of-avatar-in.html",
+      "height": 175,
+      "width": 246,
+      "url": "http://m.friendfeed-media.com/2c77eef0448cfe220bab876413ab02256a4779dc"
+    },
+    {
+      "width": 236,
+      "url": "http://m.friendfeed-media.com/06d95495ab03718298e03b8ddec405ed714008b0",
+      "link": "http://www.darkroastedblend.com/2009/12/10-possible-sources-of-avatar-in.html",
+      "height": 175
+    }
+  ],
+  "body": "10 Possible Sources of &quot;Avatar&quot; in Classic Science Fiction  <a href=\"http://friendfeed.com/search?q=%23avatarmovie\">#avatarmovie</a> - <a rel=\"nofollow\" href=\"http://www.darkroastedblend.com/2009/12/10-possible-sources-of-avatar-in.html\" title=\"http://www.darkroastedblend.com/2009/12/10-possible-sources-of-avatar-in.html\">http://www.darkroastedblend.com/2009...</a>",
+  "rawLink": "http://www.darkroastedblend.com/2009/12/10-possible-sources-of-avatar-in.html",
+  "from": {
+    "name": "углы «Исимуры»",
+    "id": "zag",
+    "type": "user"
+  },
+  "via": {
+    "name": "Bookmarklet",
+    "url": "http://friendfeed.com/share/bookmarklet"
+  }
+}
+=end comment
+
+=end pod

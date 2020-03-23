@@ -1,0 +1,46 @@
+=begin pod :pubdate('2012-06-08T15:45:12Z') :type<note> :tags<lvee>
+=NAME http://t.co/dB240eTr некоторые из участников #lvee двинули на вечерний клев
+
+=begin DESCRIPTION
+
+http://t.co/dB240eTr некоторые из участников #lvee двинули на вечерний клев - L<link|http://twitter.com/zagru/statuses/211121708512460800>
+
+
+
+=end DESCRIPTION
+
+http://t.co/dB240eTr некоторые из участников #lvee двинули на вечерний клев - L<link|http://twitter.com/zagru/statuses/211121708512460800>
+
+
+
+=begin comment :src
+{
+  "via": {
+    "name": "Twitter",
+    "url": "http://twitter.com/zagru/statuses/211121708512460800"
+  },
+  "from": {
+    "type": "user",
+    "id": "zag",
+    "name": "углы «Исимуры»"
+  },
+  "body": "<a rel=\"nofollow\" href=\"http://t.co/dB240eTr\" title=\"http://ow.ly/i/GomS\">http://ow.ly/i/GomS</a> некоторые из участников <a rel=\"nofollow\" href=\"http://search.twitter.com/search?q=%23lvee\">#lvee</a> двинули на вечерний клев",
+  "rawLink": "http://twitter.com/zagru/statuses/211121708512460800",
+  "likes": [
+    {
+      "from": {
+        "id": "kkapp",
+        "type": "user",
+        "name": "alex@kapranoff.ru"
+      },
+      "date": "2012-06-08T18:01:33Z"
+    }
+  ],
+  "rawBody": "http://t.co/dB240eTr некоторые из участников #lvee двинули на вечерний клев",
+  "id": "e/74a9956e0d1727a0f3d9bc913f3c384e",
+  "date": "2012-06-08T15:45:12Z",
+  "url": "http://friendfeed.com/zag/74a9956e/lvee"
+}
+=end comment
+
+=end pod

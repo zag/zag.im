@@ -1,0 +1,32 @@
+=begin pod :pubdate('2011-12-26T11:59:00Z') :type<note> 
+=NAME Программист про фильм "Муха": "Это там, где на выходе crc не сошлось?"
+
+=begin DESCRIPTION
+
+Программист про фильм "Муха": "Это там, где на выходе crc не сошлось?"
+
+
+
+=end DESCRIPTION
+
+Программист про фильм "Муха": "Это там, где на выходе crc не сошлось?"
+
+
+
+=begin comment :src
+{
+  "rawLink": "http://friendfeed.com/e/fec14d04-72c0-41de-b533-05fc2a2c29eb",
+  "body": "Программист про фильм &quot;Муха&quot;: &quot;Это там, где на выходе crc не сошлось?&quot;",
+  "id": "e/fec14d0472c041deb53305fc2a2c29eb",
+  "date": "2011-12-26T11:59:00Z",
+  "from": {
+    "name": "углы «Исимуры»",
+    "type": "user",
+    "id": "zag"
+  },
+  "rawBody": "Программист про фильм \"Муха\": \"Это там, где на выходе crc не сошлось?\"",
+  "url": "http://friendfeed.com/zag/fec14d04/crc"
+}
+=end comment
+
+=end pod

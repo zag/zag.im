@@ -1,0 +1,44 @@
+=begin pod :pubdate('2011-05-24T13:06:24Z') :type<note> 
+=NAME Duke Nukem Forever has gone gold! - http://yfrog.com/h7j7qujhj (via http://ff.im/E55Eq)
+
+=begin DESCRIPTION
+
+Duke Nukem Forever has gone gold! - http://yfrog.com/h7j7qujhj (via http://ff.im/E55Eq)
+=for Image :width(271) :link('http://yfrog.com/h7j7qujhj') :height(175) :preview
+media/edcc416806f507efea3811be7093bcafbe02eb6c.jpg
+
+
+
+=end DESCRIPTION
+
+Duke Nukem Forever has gone gold! - http://yfrog.com/h7j7qujhj (via http://ff.im/E55Eq)
+=for Image :width(271) :link('http://yfrog.com/h7j7qujhj') :height(175) :preview
+media/edcc416806f507efea3811be7093bcafbe02eb6c.jpg
+
+
+
+=begin comment :src
+{
+  "id": "e/8679cc16723349538dc23482f2a55746",
+  "date": "2011-05-24T13:06:24Z",
+  "url": "http://friendfeed.com/zag/8679cc16/duke-nukem-forever-has-gone-gold-via",
+  "rawBody": "Duke Nukem Forever has gone gold! - http://yfrog.com/h7j7qujhj (via http://ff.im/E55Eq)",
+  "thumbnails": [
+    {
+      "width": 271,
+      "url": "http://m.friendfeed-media.com/edcc416806f507efea3811be7093bcafbe02eb6c",
+      "link": "http://yfrog.com/h7j7qujhj",
+      "height": 175
+    }
+  ],
+  "body": "Duke Nukem Forever has gone gold! - <a rel=\"nofollow\" href=\"http://yfrog.com/h7j7qujhj\">http://yfrog.com/h7j7qujhj</a> (via <a href=\"http://ff.im/E55Eq\" title=\"http://friendfeed.com/games/333225ea/duke-nukem-forever-has-gone-gold\">http://friendfeed.com/games...</a>)",
+  "rawLink": "http://friendfeed.com/e/8679cc16-7233-4953-8dc2-3482f2a55746",
+  "from": {
+    "name": "углы «Исимуры»",
+    "type": "user",
+    "id": "zag"
+  }
+}
+=end comment
+
+=end pod

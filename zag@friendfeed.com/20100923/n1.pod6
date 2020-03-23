@@ -1,0 +1,54 @@
+=begin pod :pubdate('2010-09-23T07:01:26Z') :type<note> :tags<perl>
+=NAME Try Rakudo and Learn Perl 6 (Beta) — all in your browser. #perl  http://try.rakudo.org/
+
+=begin DESCRIPTION
+
+Try Rakudo and Learn Perl 6 (Beta) — all in your browser. #perl  http://try.rakudo.org/
+=for Image :width(305) :link('http://m.friendfeed-media.com/5f6a931eab321a41a27c1bfc300054f0c8f42661') :height(175) :preview
+media/984146588dc2261026be171a2f031c9715d5541d.jpg
+=for Image :width(293) :link('http://m.friendfeed-media.com/ecc5d511350d85be865ef549c26ce1450d7f4b43') :height(175) :preview
+media/cc12214e2edd9854ad7ba9f55d914fe75bbb0f57.jpg
+
+
+
+=end DESCRIPTION
+
+Try Rakudo and Learn Perl 6 (Beta) — all in your browser. #perl  http://try.rakudo.org/
+=for Image :width(305) :link('http://m.friendfeed-media.com/5f6a931eab321a41a27c1bfc300054f0c8f42661') :height(175) :preview
+media/984146588dc2261026be171a2f031c9715d5541d.jpg
+=for Image :width(293) :link('http://m.friendfeed-media.com/ecc5d511350d85be865ef549c26ce1450d7f4b43') :height(175) :preview
+media/cc12214e2edd9854ad7ba9f55d914fe75bbb0f57.jpg
+
+
+
+=begin comment :src
+{
+  "id": "e/71bcd394889f40df830064aed0126f40",
+  "rawBody": "Try Rakudo and Learn Perl 6 (Beta) — all in your browser. #perl  http://try.rakudo.org/",
+  "date": "2010-09-23T07:01:26Z",
+  "url": "http://friendfeed.com/zag/71bcd394/try-rakudo-and-learn-perl-6-beta-all-in-your",
+  "thumbnails": [
+    {
+      "height": 175,
+      "link": "http://m.friendfeed-media.com/5f6a931eab321a41a27c1bfc300054f0c8f42661",
+      "width": 305,
+      "url": "http://m.friendfeed-media.com/984146588dc2261026be171a2f031c9715d5541d"
+    },
+    {
+      "link": "http://m.friendfeed-media.com/ecc5d511350d85be865ef549c26ce1450d7f4b43",
+      "height": 175,
+      "url": "http://m.friendfeed-media.com/cc12214e2edd9854ad7ba9f55d914fe75bbb0f57",
+      "width": 293
+    }
+  ],
+  "body": "Try Rakudo and Learn Perl 6 (Beta) — all in your browser. <a href=\"http://friendfeed.com/search?q=%23perl\">#perl</a>  <a rel=\"nofollow\" href=\"http://try.rakudo.org/\">http://try.rakudo.org/</a>",
+  "rawLink": "http://friendfeed.com/e/71bcd394-889f-40df-8300-64aed0126f40",
+  "from": {
+    "type": "user",
+    "id": "zag",
+    "name": "углы «Исимуры»"
+  }
+}
+=end comment
+
+=end pod

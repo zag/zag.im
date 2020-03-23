@@ -1,0 +1,68 @@
+=begin pod :pubdate('2010-07-15T08:18:22Z') :type<note> 
+=NAME Лучшее из сети - Происхождение некоторых личностей
+
+=begin DESCRIPTION
+
+Лучшее из сети - Происхождение некоторых личностей - L<link|http://bestpage.livejournal.com/791674.html>
+=for Image :width(467) :link('http://bestpage.livejournal.com/791674.html') :height(175) :preview
+media/4a4ada71adec27b1d0f9a5d7fa5d3d0881ae7141.jpg
+=for Image :width(467) :link('http://bestpage.livejournal.com/791674.html') :height(175) :preview
+media/3e0f49e0483904103b2284b87482f1b28e85ac39.jpg
+=for Image :width(467) :link('http://bestpage.livejournal.com/791674.html') :height(175) :preview
+media/fb0629ce0e5456d7ad31340a7e7d89163934ddd0.jpg
+
+
+
+=end DESCRIPTION
+
+Лучшее из сети - Происхождение некоторых личностей - L<link|http://bestpage.livejournal.com/791674.html>
+=for Image :width(467) :link('http://bestpage.livejournal.com/791674.html') :height(175) :preview
+media/4a4ada71adec27b1d0f9a5d7fa5d3d0881ae7141.jpg
+=for Image :width(467) :link('http://bestpage.livejournal.com/791674.html') :height(175) :preview
+media/3e0f49e0483904103b2284b87482f1b28e85ac39.jpg
+=for Image :width(467) :link('http://bestpage.livejournal.com/791674.html') :height(175) :preview
+media/fb0629ce0e5456d7ad31340a7e7d89163934ddd0.jpg
+
+
+
+=begin comment :src
+{
+  "date": "2010-07-15T08:18:22Z",
+  "id": "e/689026ac6d084e62aa2377e176fb9cea",
+  "rawBody": "Лучшее из сети - Происхождение некоторых личностей",
+  "url": "http://friendfeed.com/zag/689026ac",
+  "thumbnails": [
+    {
+      "width": 467,
+      "url": "http://m.friendfeed-media.com/4a4ada71adec27b1d0f9a5d7fa5d3d0881ae7141",
+      "link": "http://bestpage.livejournal.com/791674.html",
+      "height": 175
+    },
+    {
+      "width": 467,
+      "url": "http://m.friendfeed-media.com/3e0f49e0483904103b2284b87482f1b28e85ac39",
+      "height": 175,
+      "link": "http://bestpage.livejournal.com/791674.html"
+    },
+    {
+      "link": "http://bestpage.livejournal.com/791674.html",
+      "height": 175,
+      "url": "http://m.friendfeed-media.com/fb0629ce0e5456d7ad31340a7e7d89163934ddd0",
+      "width": 467
+    }
+  ],
+  "body": "Лучшее из сети - Происхождение некоторых личностей - <a rel=\"nofollow\" href=\"http://bestpage.livejournal.com/791674.html\" title=\"http://bestpage.livejournal.com/791674.html\">http://bestpage.livejournal.com/791674...</a>",
+  "rawLink": "http://bestpage.livejournal.com/791674.html",
+  "via": {
+    "url": "http://friendfeed.com/share/bookmarklet",
+    "name": "Bookmarklet"
+  },
+  "from": {
+    "name": "углы «Исимуры»",
+    "id": "zag",
+    "type": "user"
+  }
+}
+=end comment
+
+=end pod

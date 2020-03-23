@@ -1,0 +1,77 @@
+=begin pod :pubdate('2011-09-16T11:01:28Z') :type<note> 
+=NAME PC-BSD 9.0 on its Way
+
+=begin DESCRIPTION
+
+PC-BSD 9.0 on its Way - L<link|http://ostatic.com/blog/pc-bsd-9-0-on-its-way>
+=for Image :width(200) :link('http://ostatic.com/blog/pc-bsd-9-0-on-its-way') :height(130) :preview
+media/7ace9b00d33c6fe8ef696470b11c86130d3cc9c2.png
+=for Image :width(219) :link('http://ostatic.com/blog/pc-bsd-9-0-on-its-way') :height(175) :preview
+media/cdba2a828b2040fda332bf290f91b0905a0a779f.jpg
+
+=item "PC-BSD is the Ubuntu of the free BSD world."
+
+
+=end DESCRIPTION
+
+PC-BSD 9.0 on its Way - L<link|http://ostatic.com/blog/pc-bsd-9-0-on-its-way>
+=for Image :width(200) :link('http://ostatic.com/blog/pc-bsd-9-0-on-its-way') :height(130) :preview
+media/7ace9b00d33c6fe8ef696470b11c86130d3cc9c2.png
+=for Image :width(219) :link('http://ostatic.com/blog/pc-bsd-9-0-on-its-way') :height(175) :preview
+media/cdba2a828b2040fda332bf290f91b0905a0a779f.jpg
+
+=item "PC-BSD is the Ubuntu of the free BSD world."
+
+
+=begin comment :src
+{
+  "rawLink": "http://ostatic.com/blog/pc-bsd-9-0-on-its-way",
+  "body": "PC-BSD 9.0 on its Way - <a rel=\"nofollow\" href=\"http://ostatic.com/blog/pc-bsd-9-0-on-its-way\" title=\"http://ostatic.com/blog/pc-bsd-9-0-on-its-way\">http://ostatic.com/blog...</a>",
+  "date": "2011-09-16T11:01:28Z",
+  "id": "e/b856614b4ec44d0196acef78994295cc",
+  "url": "http://friendfeed.com/zag/b856614b/pc-bsd-9-0-on-its-way",
+  "rawBody": "PC-BSD 9.0 on its Way",
+  "thumbnails": [
+    {
+      "width": 200,
+      "url": "http://m.friendfeed-media.com/7ace9b00d33c6fe8ef696470b11c86130d3cc9c2",
+      "link": "http://ostatic.com/blog/pc-bsd-9-0-on-its-way",
+      "height": 130
+    },
+    {
+      "width": 219,
+      "url": "http://m.friendfeed-media.com/cdba2a828b2040fda332bf290f91b0905a0a779f",
+      "link": "http://ostatic.com/blog/pc-bsd-9-0-on-its-way",
+      "height": 175
+    }
+  ],
+  "comments": [
+    {
+      "body": "&quot;PC-BSD is the Ubuntu of the free BSD world.&quot;",
+      "via": {
+        "name": "Bookmarklet",
+        "url": "http://friendfeed.com/share/bookmarklet"
+      },
+      "date": "2011-09-16T11:01:28Z",
+      "id": "e/b856614b4ec44d0196acef78994295cc/c/835914b48bc043dfb798c6b79612234e",
+      "rawBody": "\"PC-BSD is the Ubuntu of the free BSD world.\"",
+      "from": {
+        "name": "углы «Исимуры»",
+        "id": "zag",
+        "type": "user"
+      }
+    }
+  ],
+  "via": {
+    "url": "http://friendfeed.com/share/bookmarklet",
+    "name": "Bookmarklet"
+  },
+  "from": {
+    "name": "углы «Исимуры»",
+    "type": "user",
+    "id": "zag"
+  }
+}
+=end comment
+
+=end pod

@@ -1,0 +1,36 @@
+=begin pod :pubdate('2009-05-15T11:57:04Z') :type<note> :tags<perl YAPCRussia>
+=NAME YAPC::Russia one day left. About 230 participants. #perl #YAPCRussia
+
+=begin DESCRIPTION
+
+YAPC::Russia one day left. About 230 participants. #perl #YAPCRussia - L<link|http://twitter.com/zagru/statuses/1805227792>
+
+
+
+=end DESCRIPTION
+
+YAPC::Russia one day left. About 230 participants. #perl #YAPCRussia - L<link|http://twitter.com/zagru/statuses/1805227792>
+
+
+
+=begin comment :src
+{
+  "id": "e/1603b6ae508d2bd426c746525fbb11c5",
+  "date": "2009-05-15T11:57:04Z",
+  "rawBody": "YAPC::Russia one day left. About 230 participants. #perl #YAPCRussia",
+  "url": "http://friendfeed.com/zag/1603b6ae/yapc-russia-one-day-left-about-230-participants",
+  "rawLink": "http://twitter.com/zagru/statuses/1805227792",
+  "body": "YAPC::Russia one day left. About 230 participants. <a rel=\"nofollow\" href=\"http://search.twitter.com/search?q=%23perl\">#perl</a> <a rel=\"nofollow\" href=\"http://search.twitter.com/search?q=%23YAPCRussia\">#YAPCRussia</a>",
+  "via": {
+    "url": "http://twitter.com/zagru/statuses/1805227792",
+    "name": "Twitter"
+  },
+  "from": {
+    "name": "углы «Исимуры»",
+    "id": "zag",
+    "type": "user"
+  }
+}
+=end comment
+
+=end pod

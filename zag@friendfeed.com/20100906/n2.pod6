@@ -1,0 +1,54 @@
+=begin pod :pubdate('2010-09-06T08:03:02Z') :type<note> 
+=NAME Мемовский салат/when memes unite
+
+=begin DESCRIPTION
+
+Мемовский салат/when memes unite
+=for Image :width(252) :link('http://m.friendfeed-media.com/a1cf662a2ae32e986c263ec7aaa1acd54582ecbc') :height(175) :preview
+media/c91e4b3325bdf139fa52c35fc73001a4318de2a5.jpg
+
+
+
+=end DESCRIPTION
+
+Мемовский салат/when memes unite
+=for Image :width(252) :link('http://m.friendfeed-media.com/a1cf662a2ae32e986c263ec7aaa1acd54582ecbc') :height(175) :preview
+media/c91e4b3325bdf139fa52c35fc73001a4318de2a5.jpg
+
+
+
+=begin comment :src
+{
+  "from": {
+    "type": "user",
+    "id": "zag",
+    "name": "углы «Исимуры»"
+  },
+  "date": "2010-09-06T08:03:02Z",
+  "id": "e/33cbcacf1e4c41a48d51caca6f2539cd",
+  "thumbnails": [
+    {
+      "width": 252,
+      "url": "http://m.friendfeed-media.com/c91e4b3325bdf139fa52c35fc73001a4318de2a5",
+      "height": 175,
+      "link": "http://m.friendfeed-media.com/a1cf662a2ae32e986c263ec7aaa1acd54582ecbc"
+    }
+  ],
+  "rawBody": "Мемовский салат/when memes unite",
+  "url": "http://friendfeed.com/zag/33cbcacf/when-memes-unite",
+  "likes": [
+    {
+      "from": {
+        "name": "Daina Thomas",
+        "type": "user",
+        "id": "dainathomas1"
+      },
+      "date": "2010-09-06T10:19:56Z"
+    }
+  ],
+  "rawLink": "http://friendfeed.com/e/33cbcacf-1e4c-41a4-8d51-caca6f2539cd",
+  "body": "Мемовский салат/when memes unite"
+}
+=end comment
+
+=end pod

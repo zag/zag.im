@@ -1,0 +1,103 @@
+=begin pod :pubdate('2014-11-09T12:55:05Z') :type<note> :tags<perl6>
+=NAME Get ready to party! #perl6 https://fosdem.org/2015/schedule/event/get_ready_to_party/
+
+=begin DESCRIPTION
+
+Get ready to party! #perl6 https://fosdem.org/2015/schedule/event/get_ready_to_party/
+
+=item 2015 will be the year that Perl 6 officially launches for production use.
+=item Не знаю, что сказать.
+=item Насколько я в курсе, cpan в привычном виде для perl6 - нет ( на базе github наподобие homebrew есть ), пару месяцев мэнтейнер пакета для debian искал кому передать его, тут еще халявный сервер, где perl6 комьюнити тусуется до конца года закрывают. Может речь идет о готовности спек  :-)
+
+
+=end DESCRIPTION
+
+Get ready to party! #perl6 https://fosdem.org/2015/schedule/event/get_ready_to_party/
+
+=item 2015 will be the year that Perl 6 officially launches for production use.
+=item Не знаю, что сказать.
+=item Насколько я в курсе, cpan в привычном виде для perl6 - нет ( на базе github наподобие homebrew есть ), пару месяцев мэнтейнер пакета для debian искал кому передать его, тут еще халявный сервер, где perl6 комьюнити тусуется до конца года закрывают. Может речь идет о готовности спек  :-)
+
+
+=begin comment :src
+{
+  "id": "e/6657a1d2f0744d54a9fdbdd553dcdb5d",
+  "date": "2014-11-09T12:55:05Z",
+  "rawBody": "Get ready to party! #perl6 https://fosdem.org/2015/schedule/event/get_ready_to_party/",
+  "url": "http://friendfeed.com/zag/6657a1d2/get-ready-to-party-perl6",
+  "body": "Get ready to party! <a href=\"http://friendfeed.com/search?q=%23perl6\">#perl6</a> <a rel=\"nofollow\" href=\"https://fosdem.org/2015/schedule/event/get_ready_to_party/\" title=\"https://fosdem.org/2015/schedule/event/get_ready_to_party/\">https://fosdem.org/2015...</a>",
+  "likes": [
+    {
+      "from": {
+        "name": "последние пни",
+        "type": "user",
+        "id": "enemo"
+      },
+      "date": "2014-11-09T15:25:50Z"
+    },
+    {
+      "date": "2014-11-09T14:59:27Z",
+      "from": {
+        "type": "user",
+        "id": "indeyets",
+        "name": "indeyets"
+      }
+    },
+    {
+      "from": {
+        "type": "user",
+        "id": "kkapp",
+        "name": "alex@kapranoff.ru"
+      },
+      "date": "2014-11-09T14:55:27Z"
+    }
+  ],
+  "rawLink": "http://friendfeed.com/e/6657a1d2-f074-4d54-a9fd-bdd553dcdb5d",
+  "from": {
+    "name": "углы «Исимуры»",
+    "type": "user",
+    "id": "zag"
+  },
+  "comments": [
+    {
+      "date": "2014-11-09T12:55:18Z",
+      "rawBody": "2015 will be the year that Perl 6 officially launches for production use.",
+      "id": "e/6657a1d2f0744d54a9fdbdd553dcdb5d/c/4d244332b024488991d1d38efff08dfb",
+      "from": {
+        "name": "углы «Исимуры»",
+        "id": "zag",
+        "type": "user"
+      },
+      "body": "2015 will be the year that Perl 6 officially launches for production use."
+    },
+    {
+      "date": "2014-11-09T14:55:56Z",
+      "id": "e/6657a1d2f0744d54a9fdbdd553dcdb5d/c/fb79d19d3cda4dd39dc5a4c2cbbfabf4",
+      "from": {
+        "name": "alex@kapranoff.ru",
+        "id": "kkapp",
+        "type": "user"
+      },
+      "rawBody": "Не знаю, что сказать.",
+      "via": {
+        "name": "Android",
+        "url": "http://friendfeed.com/about/tools"
+      },
+      "body": "Не знаю, что сказать."
+    },
+    {
+      "body": "Насколько я в курсе, cpan в привычном виде для perl6 - нет ( на базе github наподобие homebrew есть ), пару месяцев мэнтейнер пакета для debian искал кому передать его, тут еще халявный сервер, где perl6 комьюнити тусуется до конца года закрывают. Может речь идет о готовности спек  :-)",
+      "rawBody": "Насколько я в курсе, cpan в привычном виде для perl6 - нет ( на базе github наподобие homebrew есть ), пару месяцев мэнтейнер пакета для debian искал кому передать его, тут еще халявный сервер, где perl6 комьюнити тусуется до конца года закрывают. Может речь идет о готовности спек  :-)",
+      "id": "e/6657a1d2f0744d54a9fdbdd553dcdb5d/c/06468e7170154762a7ae155e602626fc",
+      "from": {
+        "name": "углы «Исимуры»",
+        "id": "zag",
+        "type": "user"
+      },
+      "date": "2014-11-10T11:49:38Z"
+    }
+  ]
+}
+=end comment
+
+=end pod

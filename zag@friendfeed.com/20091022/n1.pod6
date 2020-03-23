@@ -1,0 +1,48 @@
+=begin pod :pubdate('2009-10-22T17:54:41Z') :type<note> 
+=NAME Linus recommends Windows7
+
+=begin DESCRIPTION
+
+Linus recommends Windows7 - L<link|http://www.flickr.com/photos/christaleye/4033726325/>
+=for Image :width(240) :link('http://www.flickr.com/photos/christaleye/4033726325/') :height(161) :preview
+media/76f0bfd2ad60786ca022fbef841ad4421b6aa479.jpg
+
+
+
+=end DESCRIPTION
+
+Linus recommends Windows7 - L<link|http://www.flickr.com/photos/christaleye/4033726325/>
+=for Image :width(240) :link('http://www.flickr.com/photos/christaleye/4033726325/') :height(161) :preview
+media/76f0bfd2ad60786ca022fbef841ad4421b6aa479.jpg
+
+
+
+=begin comment :src
+{
+  "from": {
+    "name": "углы «Исимуры»",
+    "id": "zag",
+    "type": "user"
+  },
+  "via": {
+    "url": "http://friendfeed.com/share/bookmarklet",
+    "name": "Bookmarklet"
+  },
+  "id": "e/db8874a84b5940449eba251551c4b9ed",
+  "date": "2009-10-22T17:54:41Z",
+  "rawBody": "Linus recommends Windows7",
+  "url": "http://friendfeed.com/zag/db8874a8/linus-recommends-windows7",
+  "thumbnails": [
+    {
+      "width": 240,
+      "url": "http://m.friendfeed-media.com/76f0bfd2ad60786ca022fbef841ad4421b6aa479",
+      "link": "http://www.flickr.com/photos/christaleye/4033726325/",
+      "height": 161
+    }
+  ],
+  "body": "Linus recommends Windows7 - <a rel=\"nofollow\" href=\"http://www.flickr.com/photos/christaleye/4033726325/\" title=\"http://www.flickr.com/photos/christaleye/4033726325/\">http://www.flickr.com/photos...</a>",
+  "rawLink": "http://www.flickr.com/photos/christaleye/4033726325/"
+}
+=end comment
+
+=end pod

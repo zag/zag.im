@@ -1,0 +1,103 @@
+=begin pod :pubdate('2013-01-09T15:38:19Z') :type<note> 
+=NAME Иллюстрированный Уголовный кодекс Российской Федерации
+
+=begin DESCRIPTION
+
+Иллюстрированный Уголовный кодекс Российской Федерации - L<link|http://mann-ivanov-ferber.ru/books/paperbook/UKRF/>
+=for Image :width(353) :link('http://mann-ivanov-ferber.ru/books/paperbook/UKRF/') :height(175) :preview
+media/d17567a28da80caf551672b9d877f5ce78638ddc.jpg
+=for Image :width(353) :link('http://mann-ivanov-ferber.ru/books/paperbook/UKRF/') :height(175) :preview
+media/ad6e6965e4348744371cf9005612f2f9ec4425a3.jpg
+
+=item ".. благодаря «картинкам» законы читаются взахлеб (больше того — легко запоминаются!)."
+
+
+=end DESCRIPTION
+
+Иллюстрированный Уголовный кодекс Российской Федерации - L<link|http://mann-ivanov-ferber.ru/books/paperbook/UKRF/>
+=for Image :width(353) :link('http://mann-ivanov-ferber.ru/books/paperbook/UKRF/') :height(175) :preview
+media/d17567a28da80caf551672b9d877f5ce78638ddc.jpg
+=for Image :width(353) :link('http://mann-ivanov-ferber.ru/books/paperbook/UKRF/') :height(175) :preview
+media/ad6e6965e4348744371cf9005612f2f9ec4425a3.jpg
+
+=item ".. благодаря «картинкам» законы читаются взахлеб (больше того — легко запоминаются!)."
+
+
+=begin comment :src
+{
+  "date": "2013-01-09T15:38:19Z",
+  "id": "e/c212df83e8a5417ab2a9cd49f475630f",
+  "thumbnails": [
+    {
+      "link": "http://mann-ivanov-ferber.ru/books/paperbook/UKRF/",
+      "height": 175,
+      "width": 353,
+      "url": "http://m.friendfeed-media.com/d17567a28da80caf551672b9d877f5ce78638ddc"
+    },
+    {
+      "url": "http://m.friendfeed-media.com/ad6e6965e4348744371cf9005612f2f9ec4425a3",
+      "width": 353,
+      "link": "http://mann-ivanov-ferber.ru/books/paperbook/UKRF/",
+      "height": 175
+    }
+  ],
+  "rawBody": "Иллюстрированный Уголовный кодекс Российской Федерации",
+  "url": "http://friendfeed.com/zag/c212df83",
+  "likes": [
+    {
+      "date": "2013-08-04T10:05:54Z",
+      "from": {
+        "name": "Иван",
+        "id": "metavoid",
+        "type": "user"
+      }
+    },
+    {
+      "from": {
+        "type": "user",
+        "id": "centralasian",
+        "name": "ⓒⓔⓐ"
+      },
+      "date": "2013-08-04T09:57:21Z"
+    },
+    {
+      "date": "2013-08-04T08:15:06Z",
+      "from": {
+        "name": "The Awesomeness Herself",
+        "id": "olgasafonova",
+        "type": "user"
+      }
+    }
+  ],
+  "rawLink": "http://mann-ivanov-ferber.ru/books/paperbook/UKRF/",
+  "body": "Иллюстрированный Уголовный кодекс Российской Федерации - <a rel=\"nofollow\" href=\"http://mann-ivanov-ferber.ru/books/paperbook/UKRF/\" title=\"http://mann-ivanov-ferber.ru/books/paperbook/UKRF/\">http://mann-ivanov-ferber.ru/books...</a>",
+  "from": {
+    "id": "zag",
+    "type": "user",
+    "name": "углы «Исимуры»"
+  },
+  "via": {
+    "name": "Bookmarklet",
+    "url": "http://friendfeed.com/share/bookmarklet"
+  },
+  "comments": [
+    {
+      "id": "e/c212df83e8a5417ab2a9cd49f475630f/c/55820088ed474ecd921bac69ec35a41f",
+      "date": "2013-01-09T15:38:19Z",
+      "from": {
+        "id": "zag",
+        "type": "user",
+        "name": "углы «Исимуры»"
+      },
+      "rawBody": "\".. благодаря «картинкам» законы читаются взахлеб (больше того — легко запоминаются!).\"",
+      "via": {
+        "name": "Bookmarklet",
+        "url": "http://friendfeed.com/share/bookmarklet"
+      },
+      "body": "&quot;.. благодаря «картинкам» законы читаются взахлеб (больше того — легко запоминаются!).&quot;"
+    }
+  ]
+}
+=end comment
+
+=end pod

@@ -1,0 +1,32 @@
+=begin pod :pubdate('2010-09-15T07:06:54Z') :type<note> 
+=NAME Has looked through 130 series. Now I know "How it made" !!
+
+=begin DESCRIPTION
+
+Has looked through 130 series. Now I know "How it made" !!
+
+
+
+=end DESCRIPTION
+
+Has looked through 130 series. Now I know "How it made" !!
+
+
+
+=begin comment :src
+{
+  "url": "http://friendfeed.com/zag/b2685cd9/has-looked-through-130-series-now-i-know-how-it",
+  "id": "e/b2685cd9aee44c21a9280b890b4fd742",
+  "date": "2010-09-15T07:06:54Z",
+  "rawBody": "Has looked through 130 series. Now I know \"How it made\" !!",
+  "from": {
+    "type": "user",
+    "id": "zag",
+    "name": "углы «Исимуры»"
+  },
+  "body": "Has looked through 130 series. Now I know &quot;How it made&quot; !!",
+  "rawLink": "http://friendfeed.com/e/b2685cd9-aee4-4c21-a928-0b890b4fd742"
+}
+=end comment
+
+=end pod

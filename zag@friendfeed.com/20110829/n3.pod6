@@ -1,0 +1,46 @@
+=begin pod :pubdate('2011-08-29T12:22:06Z') :type<note> 
+=NAME СlojureScript Quick Start: "... currently only Sun Java 6 is supported" :-(
+
+=begin DESCRIPTION
+
+СlojureScript Quick Start: "... currently only Sun Java 6 is supported" :-( - L<link|https://github.com/clojure/clojurescript/wiki/Quick-Start>
+
+
+
+=end DESCRIPTION
+
+СlojureScript Quick Start: "... currently only Sun Java 6 is supported" :-( - L<link|https://github.com/clojure/clojurescript/wiki/Quick-Start>
+
+
+
+=begin comment :src
+{
+  "date": "2011-08-29T12:22:06Z",
+  "id": "e/cf058d9639e44a7e83f5bc63b8d509de",
+  "rawBody": "СlojureScript Quick Start: \"... currently only Sun Java 6 is supported\" :-(",
+  "url": "http://friendfeed.com/zag/cf058d96/lojurescript-quick-start-currently-only-sun",
+  "likes": [
+    {
+      "date": "2011-08-29T13:25:14Z",
+      "from": {
+        "type": "user",
+        "id": "mishin",
+        "name": "Николай"
+      }
+    }
+  ],
+  "rawLink": "https://github.com/clojure/clojurescript/wiki/Quick-Start",
+  "body": "СlojureScript Quick Start: &quot;... currently only Sun Java 6 is supported&quot; :-( - <a rel=\"nofollow\" href=\"https://github.com/clojure/clojurescript/wiki/Quick-Start\" title=\"https://github.com/clojure/clojurescript/wiki/Quick-Start\">https://github.com/clojure...</a>",
+  "via": {
+    "url": "http://friendfeed.com/share/bookmarklet",
+    "name": "Bookmarklet"
+  },
+  "from": {
+    "name": "углы «Исимуры»",
+    "type": "user",
+    "id": "zag"
+  }
+}
+=end comment
+
+=end pod

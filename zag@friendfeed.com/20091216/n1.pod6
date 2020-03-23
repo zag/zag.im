@@ -1,0 +1,36 @@
+=begin pod :pubdate('2009-12-16T18:54:32Z') :type<note> 
+=NAME Каждый может завести свой сервис сокращения ссылок. Google Apps Shortcuts ( я себе еще в ноябре сделал) http://tinyurl.com/yjlw2dg
+
+=begin DESCRIPTION
+
+Каждый может завести свой сервис сокращения ссылок. Google Apps Shortcuts ( я себе еще в ноябре сделал) http://tinyurl.com/yjlw2dg - L<link|http://twitter.com/zagru/statuses/6738604899>
+
+
+
+=end DESCRIPTION
+
+Каждый может завести свой сервис сокращения ссылок. Google Apps Shortcuts ( я себе еще в ноябре сделал) http://tinyurl.com/yjlw2dg - L<link|http://twitter.com/zagru/statuses/6738604899>
+
+
+
+=begin comment :src
+{
+  "rawLink": "http://twitter.com/zagru/statuses/6738604899",
+  "body": "Каждый может завести свой сервис сокращения ссылок. Google Apps Shortcuts ( я себе еще в ноябре сделал) <a rel=\"nofollow\" href=\"http://tinyurl.com/yjlw2dg\" title=\"http://www.google.com/support/a/bin/answer.py?hl=en&amp;answer=114245\">http://www.google.com/support...</a>",
+  "id": "e/61634e1dc6e845a911d103626f73fe2a",
+  "date": "2009-12-16T18:54:32Z",
+  "rawBody": "Каждый может завести свой сервис сокращения ссылок. Google Apps Shortcuts ( я себе еще в ноябре сделал) http://tinyurl.com/yjlw2dg",
+  "url": "http://friendfeed.com/zag/61634e1d/google-apps-shortcuts",
+  "from": {
+    "type": "user",
+    "id": "zag",
+    "name": "углы «Исимуры»"
+  },
+  "via": {
+    "name": "Twitter",
+    "url": "http://twitter.com/zagru/statuses/6738604899"
+  }
+}
+=end comment
+
+=end pod

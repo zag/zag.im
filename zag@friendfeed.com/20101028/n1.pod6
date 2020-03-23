@@ -1,0 +1,94 @@
+=begin pod :pubdate('2010-10-28T09:43:48Z') :type<note> :tags<FreeBSD ps3>
+=NAME #FreeBSD on #ps3
+
+=begin DESCRIPTION
+
+#FreeBSD on #ps3 - L<link|http://people.freebsd.org/~nwhitehorn/ps3/>
+
+=item Sony Playstation 3 Fat, firmware version < 3.21
+=item Netbooting only
+
+
+=end DESCRIPTION
+
+#FreeBSD on #ps3 - L<link|http://people.freebsd.org/~nwhitehorn/ps3/>
+
+=item Sony Playstation 3 Fat, firmware version < 3.21
+=item Netbooting only
+
+
+=begin comment :src
+{
+  "body": "<a href=\"http://friendfeed.com/search?q=%23FreeBSD\">#FreeBSD</a> on <a href=\"http://friendfeed.com/search?q=%23ps3\">#ps3</a> - <a rel=\"nofollow\" href=\"http://people.freebsd.org/~nwhitehorn/ps3/\" title=\"http://people.freebsd.org/~nwhitehorn/ps3/\">http://people.freebsd.org/~nwhite...</a>",
+  "rawLink": "http://people.freebsd.org/~nwhitehorn/ps3/",
+  "likes": [
+    {
+      "date": "2010-10-28T10:36:06Z",
+      "from": {
+        "name": "Dmitry Khrustalev",
+        "id": "dk42",
+        "type": "user"
+      }
+    },
+    {
+      "date": "2010-10-28T10:06:10Z",
+      "from": {
+        "name": "woof",
+        "type": "user",
+        "id": "woof"
+      }
+    },
+    {
+      "date": "2010-10-28T10:03:44Z",
+      "from": {
+        "name": "alex@kapranoff.ru",
+        "id": "kkapp",
+        "type": "user"
+      }
+    }
+  ],
+  "url": "http://friendfeed.com/zag/d9933cc9/freebsd-on-ps3",
+  "id": "e/d9933cc913bd43629c09e447b928ee5c",
+  "date": "2010-10-28T09:43:48Z",
+  "rawBody": "#FreeBSD on #ps3",
+  "comments": [
+    {
+      "id": "e/d9933cc913bd43629c09e447b928ee5c/c/3ad9d1544ac048218e4623c8b75f0d7e",
+      "date": "2010-10-28T09:43:48Z",
+      "from": {
+        "name": "углы «Исимуры»",
+        "type": "user",
+        "id": "zag"
+      },
+      "rawBody": "Sony Playstation 3 Fat, firmware version < 3.21",
+      "via": {
+        "name": "Bookmarklet",
+        "url": "http://friendfeed.com/share/bookmarklet"
+      },
+      "body": "Sony Playstation 3 Fat, firmware version &lt; 3.21"
+    },
+    {
+      "date": "2010-10-28T09:44:17Z",
+      "rawBody": "Netbooting only",
+      "id": "e/d9933cc913bd43629c09e447b928ee5c/c/e3992f6f8e8f48d6a0f3e40da0254671",
+      "from": {
+        "name": "углы «Исимуры»",
+        "type": "user",
+        "id": "zag"
+      },
+      "body": "Netbooting only"
+    }
+  ],
+  "via": {
+    "url": "http://friendfeed.com/share/bookmarklet",
+    "name": "Bookmarklet"
+  },
+  "from": {
+    "id": "zag",
+    "type": "user",
+    "name": "углы «Исимуры»"
+  }
+}
+=end comment
+
+=end pod

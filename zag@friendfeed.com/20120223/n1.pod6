@@ -1,0 +1,36 @@
+=begin pod :pubdate('2012-02-23T16:40:56Z') :type<note> :tags<freebsd>
+=NAME В кои-то веки собрался обновиться и вот те раз: #freebsd http://t.co/UHJz5QPH
+
+=begin DESCRIPTION
+
+В кои-то веки собрался обновиться и вот те раз: #freebsd http://t.co/UHJz5QPH - L<link|http://twitter.com/zagru/statuses/172722622067515392>
+
+
+
+=end DESCRIPTION
+
+В кои-то веки собрался обновиться и вот те раз: #freebsd http://t.co/UHJz5QPH - L<link|http://twitter.com/zagru/statuses/172722622067515392>
+
+
+
+=begin comment :src
+{
+  "via": {
+    "name": "Twitter",
+    "url": "http://twitter.com/zagru/statuses/172722622067515392"
+  },
+  "from": {
+    "type": "user",
+    "id": "zag",
+    "name": "углы «Исимуры»"
+  },
+  "url": "http://friendfeed.com/zag/4e07f309/freebsd",
+  "id": "e/4e07f309a65bb994b3eace6bc8f0a5d5",
+  "date": "2012-02-23T16:40:56Z",
+  "rawBody": "В кои-то веки собрался обновиться и вот те раз: #freebsd http://t.co/UHJz5QPH",
+  "rawLink": "http://twitter.com/zagru/statuses/172722622067515392",
+  "body": "В кои-то веки собрался обновиться и вот те раз: <a rel=\"nofollow\" href=\"http://search.twitter.com/search?q=%23freebsd\">#freebsd</a> <a rel=\"nofollow\" href=\"http://t.co/UHJz5QPH\" title=\"http://www.freebsd.org/cgi/query-pr.cgi?pr=165363&amp;cat=\">http://www.freebsd.org/cgi...</a>"
+}
+=end comment
+
+=end pod

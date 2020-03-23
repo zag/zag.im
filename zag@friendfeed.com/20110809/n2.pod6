@@ -1,0 +1,46 @@
+=begin pod :pubdate('2011-08-09T14:11:28Z') :type<note> 
+=NAME RT @newsycombinator: How to Level Up as a Developer http://j.mp/nTVOum
+
+=begin DESCRIPTION
+
+RT @newsycombinator: How to Level Up as a Developer http://j.mp/nTVOum - L<link|http://twitter.com/zagru/statuses/100932210445660160>
+
+
+
+=end DESCRIPTION
+
+RT @newsycombinator: How to Level Up as a Developer http://j.mp/nTVOum - L<link|http://twitter.com/zagru/statuses/100932210445660160>
+
+
+
+=begin comment :src
+{
+  "via": {
+    "url": "http://twitter.com/zagru/statuses/100932210445660160",
+    "name": "Twitter"
+  },
+  "from": {
+    "name": "углы «Исимуры»",
+    "type": "user",
+    "id": "zag"
+  },
+  "rawBody": "RT @newsycombinator: How to Level Up as a Developer http://j.mp/nTVOum",
+  "id": "e/29374cee80fe33e7edae98fad9d59986",
+  "date": "2011-08-09T14:11:28Z",
+  "url": "http://friendfeed.com/zag/29374cee/rt-newsycombinator-how-to-level-up-as-developer",
+  "body": "RT @<a rel=\"nofollow\" href=\"http://twitter.com/newsycombinator\">newsycombinator</a>: How to Level Up as a Developer <a rel=\"nofollow\" href=\"http://j.mp/nTVOum\">http://j.mp/nTVOum</a>",
+  "likes": [
+    {
+      "date": "2011-08-09T14:15:23Z",
+      "from": {
+        "name": "Ivan Bessarabov",
+        "type": "user",
+        "id": "bessarabov"
+      }
+    }
+  ],
+  "rawLink": "http://twitter.com/zagru/statuses/100932210445660160"
+}
+=end comment
+
+=end pod

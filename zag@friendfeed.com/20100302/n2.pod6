@@ -1,0 +1,36 @@
+=begin pod :pubdate('2010-03-02T10:22:08Z') :type<note> 
+=NAME @ltemik по поводу торрентов: http://bit.ly/b09FCz стенография программы ТОЧКА http://bit.ly/bnK9hc
+
+=begin DESCRIPTION
+
+@ltemik по поводу торрентов: http://bit.ly/b09FCz стенография программы ТОЧКА http://bit.ly/bnK9hc - L<link|http://twitter.com/zagru/statuses/9868776479>
+
+
+
+=end DESCRIPTION
+
+@ltemik по поводу торрентов: http://bit.ly/b09FCz стенография программы ТОЧКА http://bit.ly/bnK9hc - L<link|http://twitter.com/zagru/statuses/9868776479>
+
+
+
+=begin comment :src
+{
+  "from": {
+    "name": "углы «Исимуры»",
+    "id": "zag",
+    "type": "user"
+  },
+  "via": {
+    "name": "Twitter",
+    "url": "http://twitter.com/zagru/statuses/9868776479"
+  },
+  "id": "e/06d8b33d4c43f42719f467eee324d5c5",
+  "date": "2010-03-02T10:22:08Z",
+  "rawBody": "@ltemik по поводу торрентов: http://bit.ly/b09FCz стенография программы ТОЧКА http://bit.ly/bnK9hc",
+  "url": "http://friendfeed.com/zag/06d8b33d/ltemik",
+  "body": "@<a rel=\"nofollow\" href=\"http://twitter.com/ltemik\">ltemik</a> по поводу торрентов: <a rel=\"nofollow\" href=\"http://bit.ly/b09FCz\" title=\"http://www.girus.ru/petition/33/\">http://www.girus.ru/petitio...</a> стенография программы ТОЧКА <a rel=\"nofollow\" href=\"http://bit.ly/bnK9hc\" title=\"http://www.echo.msk.ru/programs/tochka/658190-echo/\">http://www.echo.msk.ru/program...</a>",
+  "rawLink": "http://twitter.com/zagru/statuses/9868776479"
+}
+=end comment
+
+=end pod

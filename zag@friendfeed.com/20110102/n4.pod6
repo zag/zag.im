@@ -1,0 +1,32 @@
+=begin pod :pubdate('2011-01-02T15:02:59Z') :type<note> 
+=NAME Пересматривая X-files, встретил "Kill Switch" ( сезон 5 серия 11). Просто бесподобно, причем снята серия за год до Matrix. http://www.imdb.com/title/tt0751150/
+
+=begin DESCRIPTION
+
+Пересматривая X-files, встретил "Kill Switch" ( сезон 5 серия 11). Просто бесподобно, причем снята серия за год до Matrix. http://www.imdb.com/title/tt0751150/
+
+
+
+=end DESCRIPTION
+
+Пересматривая X-files, встретил "Kill Switch" ( сезон 5 серия 11). Просто бесподобно, причем снята серия за год до Matrix. http://www.imdb.com/title/tt0751150/
+
+
+
+=begin comment :src
+{
+  "body": "Пересматривая X-files, встретил &quot;Kill Switch&quot; ( сезон 5 серия 11). Просто бесподобно, причем снята серия за год до Matrix. <a rel=\"nofollow\" href=\"http://www.imdb.com/title/tt0751150/\" title=\"http://www.imdb.com/title/tt0751150/\">http://www.imdb.com/title...</a>",
+  "rawLink": "http://friendfeed.com/e/4812c88f-d1f7-47cd-9d65-bb494c3dbff5",
+  "date": "2011-01-02T15:02:59Z",
+  "id": "e/4812c88fd1f747cd9d65bb494c3dbff5",
+  "from": {
+    "type": "user",
+    "id": "zag",
+    "name": "углы «Исимуры»"
+  },
+  "rawBody": "Пересматривая X-files, встретил \"Kill Switch\" ( сезон 5 серия 11). Просто бесподобно, причем снята серия за год до Matrix. http://www.imdb.com/title/tt0751150/",
+  "url": "http://friendfeed.com/zag/4812c88f/x-files-kill-switch-5-11-matrix"
+}
+=end comment
+
+=end pod

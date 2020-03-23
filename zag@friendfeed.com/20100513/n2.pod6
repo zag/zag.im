@@ -1,0 +1,68 @@
+=begin pod :pubdate('2010-05-13T06:58:28Z') :type<note> 
+=NAME Disaster unfolds slowly in the Gulf of Mexico - The Big Picture - Boston.com
+
+=begin DESCRIPTION
+
+Disaster unfolds slowly in the Gulf of Mexico - The Big Picture - Boston.com - L<link|http://www.boston.com/bigpicture/2010/05/disaster_unfolds_slowly_in_the.html>
+=for Image :width(265) :link('http://www.boston.com/bigpicture/2010/05/disaster_unfolds_slowly_in_the.html') :height(175) :preview
+media/83caded3c293c5b95d5410f4bd0a72b97acc631c.jpg
+=for Image :width(282) :link('http://www.boston.com/bigpicture/2010/05/disaster_unfolds_slowly_in_the.html') :height(175) :preview
+media/eed163c03d64f438883394a872d954f0a4665d66.jpg
+=for Image :width(271) :link('http://www.boston.com/bigpicture/2010/05/disaster_unfolds_slowly_in_the.html') :height(175) :preview
+media/081eb1de317497c0eedef34f676c846a2bf30497.jpg
+
+
+
+=end DESCRIPTION
+
+Disaster unfolds slowly in the Gulf of Mexico - The Big Picture - Boston.com - L<link|http://www.boston.com/bigpicture/2010/05/disaster_unfolds_slowly_in_the.html>
+=for Image :width(265) :link('http://www.boston.com/bigpicture/2010/05/disaster_unfolds_slowly_in_the.html') :height(175) :preview
+media/83caded3c293c5b95d5410f4bd0a72b97acc631c.jpg
+=for Image :width(282) :link('http://www.boston.com/bigpicture/2010/05/disaster_unfolds_slowly_in_the.html') :height(175) :preview
+media/eed163c03d64f438883394a872d954f0a4665d66.jpg
+=for Image :width(271) :link('http://www.boston.com/bigpicture/2010/05/disaster_unfolds_slowly_in_the.html') :height(175) :preview
+media/081eb1de317497c0eedef34f676c846a2bf30497.jpg
+
+
+
+=begin comment :src
+{
+  "from": {
+    "type": "user",
+    "id": "zag",
+    "name": "углы «Исимуры»"
+  },
+  "via": {
+    "url": "http://friendfeed.com/share/bookmarklet",
+    "name": "Bookmarklet"
+  },
+  "rawLink": "http://www.boston.com/bigpicture/2010/05/disaster_unfolds_slowly_in_the.html",
+  "body": "Disaster unfolds slowly in the Gulf of Mexico - The Big Picture - Boston.com - <a rel=\"nofollow\" href=\"http://www.boston.com/bigpicture/2010/05/disaster_unfolds_slowly_in_the.html\" title=\"http://www.boston.com/bigpicture/2010/05/disaster_unfolds_slowly_in_the.html\">http://www.boston.com/bigpict...</a>",
+  "id": "e/1527509d0e544d98b2e2cda4b8686022",
+  "thumbnails": [
+    {
+      "width": 265,
+      "url": "http://m.friendfeed-media.com/83caded3c293c5b95d5410f4bd0a72b97acc631c",
+      "height": 175,
+      "link": "http://www.boston.com/bigpicture/2010/05/disaster_unfolds_slowly_in_the.html"
+    },
+    {
+      "link": "http://www.boston.com/bigpicture/2010/05/disaster_unfolds_slowly_in_the.html",
+      "height": 175,
+      "url": "http://m.friendfeed-media.com/eed163c03d64f438883394a872d954f0a4665d66",
+      "width": 282
+    },
+    {
+      "link": "http://www.boston.com/bigpicture/2010/05/disaster_unfolds_slowly_in_the.html",
+      "height": 175,
+      "width": 271,
+      "url": "http://m.friendfeed-media.com/081eb1de317497c0eedef34f676c846a2bf30497"
+    }
+  ],
+  "date": "2010-05-13T06:58:28Z",
+  "rawBody": "Disaster unfolds slowly in the Gulf of Mexico - The Big Picture - Boston.com",
+  "url": "http://friendfeed.com/zag/1527509d/disaster-unfolds-slowly-in-gulf-of-mexico-big"
+}
+=end comment
+
+=end pod

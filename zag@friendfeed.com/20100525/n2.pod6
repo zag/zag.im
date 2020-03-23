@@ -1,0 +1,94 @@
+=begin pod :pubdate('2010-05-25T07:16:35Z') :type<note> :tags<iptv>
+=NAME google о TV   на I/O   #iptv
+
+=begin DESCRIPTION
+
+google о TV   на I/O   #iptv
+=for Image :width(233) :link('http://m.friendfeed-media.com/f4141d34430468b8fab83490f9bcfc72834a232b') :height(175) :preview
+media/50f9d22a62c50b5b0d1054e9cbf912dc57d8f304.jpg
+=for Image :width(233) :link('http://m.friendfeed-media.com/89d7c8bf66fabe3c2046847c2b66e6462f7346f5') :height(175) :preview
+media/23f5cca80bb716c29a2baf2046dfe38c1a166902.jpg
+=for Image :width(233) :link('http://m.friendfeed-media.com/cd642a80d00040f5c395e500c74ae6e5a4328763') :height(175) :preview
+media/1aa53981b85cab09c6500d0fe5dfa1300e11e7e8.jpg
+=for Image :width(233) :link('http://m.friendfeed-media.com/857ce03f94f7393d35b3152e7a262612ca89a4f7') :height(175) :preview
+media/c5014b4068ebe45e3ff32433bb8338fcab964f1d.jpg
+=for Image :width(233) :link('http://m.friendfeed-media.com/50b03ff8de666b90b9fa6410aa8bdd640cc1bd2f') :height(175) :preview
+media/789efa8f5aebb59c14d17c25cc5039c456f0ed47.jpg
+=for Image :width(233) :link('http://m.friendfeed-media.com/f84bac0d56414a4681a66e59656f1d0ae050c75b') :height(175) :preview
+media/eaa2bd98be68a78e47972ca33860ec8ded6547f5.jpg
+
+
+
+=end DESCRIPTION
+
+google о TV   на I/O   #iptv
+=for Image :width(233) :link('http://m.friendfeed-media.com/f4141d34430468b8fab83490f9bcfc72834a232b') :height(175) :preview
+media/50f9d22a62c50b5b0d1054e9cbf912dc57d8f304.jpg
+=for Image :width(233) :link('http://m.friendfeed-media.com/89d7c8bf66fabe3c2046847c2b66e6462f7346f5') :height(175) :preview
+media/23f5cca80bb716c29a2baf2046dfe38c1a166902.jpg
+=for Image :width(233) :link('http://m.friendfeed-media.com/cd642a80d00040f5c395e500c74ae6e5a4328763') :height(175) :preview
+media/1aa53981b85cab09c6500d0fe5dfa1300e11e7e8.jpg
+=for Image :width(233) :link('http://m.friendfeed-media.com/857ce03f94f7393d35b3152e7a262612ca89a4f7') :height(175) :preview
+media/c5014b4068ebe45e3ff32433bb8338fcab964f1d.jpg
+=for Image :width(233) :link('http://m.friendfeed-media.com/50b03ff8de666b90b9fa6410aa8bdd640cc1bd2f') :height(175) :preview
+media/789efa8f5aebb59c14d17c25cc5039c456f0ed47.jpg
+=for Image :width(233) :link('http://m.friendfeed-media.com/f84bac0d56414a4681a66e59656f1d0ae050c75b') :height(175) :preview
+media/eaa2bd98be68a78e47972ca33860ec8ded6547f5.jpg
+
+
+
+=begin comment :src
+{
+  "from": {
+    "name": "углы «Исимуры»",
+    "type": "user",
+    "id": "zag"
+  },
+  "body": "google о TV   на I/O   <a href=\"http://friendfeed.com/search?q=%23iptv\">#iptv</a>",
+  "rawLink": "http://friendfeed.com/e/82ea79b0-74ae-4294-a25c-a2f040971de9",
+  "id": "e/82ea79b074ae4294a25ca2f040971de9",
+  "date": "2010-05-25T07:16:35Z",
+  "rawBody": "google о TV   на I/O   #iptv",
+  "url": "http://friendfeed.com/zag/82ea79b0/google-tv-i-o-iptv",
+  "thumbnails": [
+    {
+      "height": 175,
+      "link": "http://m.friendfeed-media.com/f4141d34430468b8fab83490f9bcfc72834a232b",
+      "url": "http://m.friendfeed-media.com/50f9d22a62c50b5b0d1054e9cbf912dc57d8f304",
+      "width": 233
+    },
+    {
+      "width": 233,
+      "url": "http://m.friendfeed-media.com/23f5cca80bb716c29a2baf2046dfe38c1a166902",
+      "link": "http://m.friendfeed-media.com/89d7c8bf66fabe3c2046847c2b66e6462f7346f5",
+      "height": 175
+    },
+    {
+      "url": "http://m.friendfeed-media.com/1aa53981b85cab09c6500d0fe5dfa1300e11e7e8",
+      "width": 233,
+      "link": "http://m.friendfeed-media.com/cd642a80d00040f5c395e500c74ae6e5a4328763",
+      "height": 175
+    },
+    {
+      "link": "http://m.friendfeed-media.com/857ce03f94f7393d35b3152e7a262612ca89a4f7",
+      "height": 175,
+      "url": "http://m.friendfeed-media.com/c5014b4068ebe45e3ff32433bb8338fcab964f1d",
+      "width": 233
+    },
+    {
+      "link": "http://m.friendfeed-media.com/50b03ff8de666b90b9fa6410aa8bdd640cc1bd2f",
+      "height": 175,
+      "width": 233,
+      "url": "http://m.friendfeed-media.com/789efa8f5aebb59c14d17c25cc5039c456f0ed47"
+    },
+    {
+      "link": "http://m.friendfeed-media.com/f84bac0d56414a4681a66e59656f1d0ae050c75b",
+      "height": 175,
+      "url": "http://m.friendfeed-media.com/eaa2bd98be68a78e47972ca33860ec8ded6547f5",
+      "width": 233
+    }
+  ]
+}
+=end comment
+
+=end pod

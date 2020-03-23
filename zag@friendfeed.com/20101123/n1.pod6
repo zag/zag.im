@@ -1,0 +1,58 @@
+=begin pod :pubdate('2010-11-23T14:43:44Z') :type<note> 
+=NAME Rakudo Death Star | The slightly offtopic, laser-equipped space station of Perl 6
+
+=begin DESCRIPTION
+
+Rakudo Death Star | The slightly offtopic, laser-equipped space station of Perl 6 - L<link|http://rdstar.wordpress.com/>
+=for Image :width(525) :link('http://rdstar.wordpress.com/') :height(111) :preview
+media/72d2be00e7957e510ee60bc306e7ffac7568b4dd.jpg
+
+
+
+=end DESCRIPTION
+
+Rakudo Death Star | The slightly offtopic, laser-equipped space station of Perl 6 - L<link|http://rdstar.wordpress.com/>
+=for Image :width(525) :link('http://rdstar.wordpress.com/') :height(111) :preview
+media/72d2be00e7957e510ee60bc306e7ffac7568b4dd.jpg
+
+
+
+=begin comment :src
+{
+  "date": "2010-11-23T14:43:44Z",
+  "id": "e/1f1fec731b0d477fa7d4dfd856fb1c61",
+  "rawBody": "Rakudo Death Star | The slightly offtopic, laser-equipped space station of Perl 6",
+  "url": "http://friendfeed.com/zag/1f1fec73/rakudo-death-star-slightly-offtopic-laser",
+  "thumbnails": [
+    {
+      "height": 111,
+      "link": "http://rdstar.wordpress.com/",
+      "url": "http://m.friendfeed-media.com/72d2be00e7957e510ee60bc306e7ffac7568b4dd",
+      "width": 525
+    }
+  ],
+  "body": "Rakudo Death Star | The slightly offtopic, laser-equipped space station of Perl 6 - <a rel=\"nofollow\" href=\"http://rdstar.wordpress.com/\">http://rdstar.wordpress.com/</a>",
+  "likes": [
+    {
+      "from": {
+        "name": "alex@kapranoff.ru",
+        "id": "kkapp",
+        "type": "user"
+      },
+      "date": "2010-11-23T14:48:41Z"
+    }
+  ],
+  "rawLink": "http://rdstar.wordpress.com/",
+  "from": {
+    "id": "zag",
+    "type": "user",
+    "name": "углы «Исимуры»"
+  },
+  "via": {
+    "name": "Bookmarklet",
+    "url": "http://friendfeed.com/share/bookmarklet"
+  }
+}
+=end comment
+
+=end pod

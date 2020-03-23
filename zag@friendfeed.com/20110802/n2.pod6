@@ -1,0 +1,36 @@
+=begin pod :pubdate('2011-08-02T14:09:33Z') :type<note> :tags<perl6 FreeBSD>
+=NAME Update lang/rakudo to 2011.07 release of Rakudo * #perl6 #FreeBSD (PR:http://t.co/xNdUGwl)
+
+=begin DESCRIPTION
+
+Update lang/rakudo to 2011.07 release of Rakudo * #perl6 #FreeBSD (PR:http://t.co/xNdUGwl) - L<link|http://twitter.com/zagru/statuses/98395013259599872>
+
+
+
+=end DESCRIPTION
+
+Update lang/rakudo to 2011.07 release of Rakudo * #perl6 #FreeBSD (PR:http://t.co/xNdUGwl) - L<link|http://twitter.com/zagru/statuses/98395013259599872>
+
+
+
+=begin comment :src
+{
+  "id": "e/b49340c783aa5388c6a6015dcfae7ab1",
+  "url": "http://friendfeed.com/zag/b49340c7/update-lang-rakudo-to-2011-07-release-of-perl6",
+  "date": "2011-08-02T14:09:33Z",
+  "rawBody": "Update lang/rakudo to 2011.07 release of Rakudo * #perl6 #FreeBSD (PR:http://t.co/xNdUGwl)",
+  "rawLink": "http://twitter.com/zagru/statuses/98395013259599872",
+  "body": "Update lang/rakudo to 2011.07 release of Rakudo * <a rel=\"nofollow\" href=\"http://search.twitter.com/search?q=%23perl6\">#perl6</a> <a rel=\"nofollow\" href=\"http://search.twitter.com/search?q=%23FreeBSD\">#FreeBSD</a> (PR:<a rel=\"nofollow\" href=\"http://t.co/xNdUGwl\">http://t.co/xNdUGwl</a>)",
+  "from": {
+    "id": "zag",
+    "type": "user",
+    "name": "углы «Исимуры»"
+  },
+  "via": {
+    "url": "http://twitter.com/zagru/statuses/98395013259599872",
+    "name": "Twitter"
+  }
+}
+=end comment
+
+=end pod

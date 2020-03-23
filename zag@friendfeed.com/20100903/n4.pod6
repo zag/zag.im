@@ -1,0 +1,48 @@
+=begin pod :pubdate('2010-09-03T14:28:29Z') :type<note> :tags<imhonet mibf>
+=NAME #imhonet на #mibf
+
+=begin DESCRIPTION
+
+#imhonet на #mibf
+=for Image :width(233) :link('http://m.friendfeed-media.com/675f25d3acd3d46bffcb73654faa0ae2e0c0fea6') :height(175) :preview
+media/17612607101d7b315a754b4a44db92b17633fce4.jpg
+
+
+
+=end DESCRIPTION
+
+#imhonet на #mibf
+=for Image :width(233) :link('http://m.friendfeed-media.com/675f25d3acd3d46bffcb73654faa0ae2e0c0fea6') :height(175) :preview
+media/17612607101d7b315a754b4a44db92b17633fce4.jpg
+
+
+
+=begin comment :src
+{
+  "via": {
+    "url": "http://friendfeed.com/share/mail",
+    "name": "email"
+  },
+  "from": {
+    "name": "углы «Исимуры»",
+    "type": "user",
+    "id": "zag"
+  },
+  "date": "2010-09-03T14:28:29Z",
+  "id": "e/78de39cde90f4c6cb29773909c56abb0",
+  "rawBody": "#imhonet на #mibf",
+  "url": "http://friendfeed.com/zag/78de39cd/imhonet-mibf",
+  "thumbnails": [
+    {
+      "url": "http://m.friendfeed-media.com/17612607101d7b315a754b4a44db92b17633fce4",
+      "width": 233,
+      "link": "http://m.friendfeed-media.com/675f25d3acd3d46bffcb73654faa0ae2e0c0fea6",
+      "height": 175
+    }
+  ],
+  "body": "<a href=\"http://friendfeed.com/search?q=%23imhonet\">#imhonet</a> на <a href=\"http://friendfeed.com/search?q=%23mibf\">#mibf</a>",
+  "rawLink": "http://friendfeed.com/e/78de39cd-e90f-4c6c-b297-73909c56abb0"
+}
+=end comment
+
+=end pod

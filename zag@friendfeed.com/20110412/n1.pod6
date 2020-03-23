@@ -1,0 +1,67 @@
+=begin pod :pubdate('2011-04-12T12:21:03Z') :type<note> :tags<nginx>
+=NAME Here we go! nginx-1.0.0 stable version has been released ! #nginx
+
+=begin DESCRIPTION
+
+Here we go! nginx-1.0.0 stable version has been released ! #nginx - L<link|http://nginx.org/#>
+=for Image :width(121) :link('http://nginx.org/#') :height(32) :preview
+media/fbc8a61add21c0e06a003a87998defac46a22ca8.gif
+
+=item "nginx development was started about 9 years ago"
+
+
+=end DESCRIPTION
+
+Here we go! nginx-1.0.0 stable version has been released ! #nginx - L<link|http://nginx.org/#>
+=for Image :width(121) :link('http://nginx.org/#') :height(32) :preview
+media/fbc8a61add21c0e06a003a87998defac46a22ca8.gif
+
+=item "nginx development was started about 9 years ago"
+
+
+=begin comment :src
+{
+  "body": "Here we go! nginx-1.0.0 stable version has been released ! <a href=\"http://friendfeed.com/search?q=%23nginx\">#nginx</a> - <a rel=\"nofollow\" href=\"http://nginx.org/#\">http://nginx.org/#</a>",
+  "rawLink": "http://nginx.org/#",
+  "id": "e/1432eec505c048d5b0952b3da7e4a220",
+  "url": "http://friendfeed.com/zag/1432eec5/here-we-go-nginx-1-0-stable-version-has-been",
+  "date": "2011-04-12T12:21:03Z",
+  "rawBody": "Here we go! nginx-1.0.0 stable version has been released ! #nginx",
+  "thumbnails": [
+    {
+      "height": 32,
+      "link": "http://nginx.org/#",
+      "width": 121,
+      "url": "http://m.friendfeed-media.com/fbc8a61add21c0e06a003a87998defac46a22ca8"
+    }
+  ],
+  "comments": [
+    {
+      "via": {
+        "url": "http://friendfeed.com/share/bookmarklet",
+        "name": "Bookmarklet"
+      },
+      "id": "e/1432eec505c048d5b0952b3da7e4a220/c/93f2e592f691406fb056913bd2530faf",
+      "rawBody": "\"nginx development was started about 9 years ago\"",
+      "date": "2011-04-12T12:21:03Z",
+      "from": {
+        "name": "углы «Исимуры»",
+        "type": "user",
+        "id": "zag"
+      },
+      "body": "&quot;nginx development was started about 9 years ago&quot;"
+    }
+  ],
+  "via": {
+    "name": "Bookmarklet",
+    "url": "http://friendfeed.com/share/bookmarklet"
+  },
+  "from": {
+    "name": "углы «Исимуры»",
+    "id": "zag",
+    "type": "user"
+  }
+}
+=end comment
+
+=end pod

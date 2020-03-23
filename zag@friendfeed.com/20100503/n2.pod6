@@ -1,0 +1,44 @@
+=begin pod :pubdate('2010-05-03T15:43:08Z') :type<note> :tags<friendfeed>
+=NAME Не быть русскому клону #friendfeed: http://friendflow.ru с хостингом на пользовательском домене, сервису рейтинга блогов blogflow.ru, сервису мониторинга трендов в блогосфере coofeed.ru. Все красиво в мечтах... Постепенно отказываюсь от продления доменов.
+
+=begin DESCRIPTION
+
+Не быть русскому клону #friendfeed: http://friendflow.ru с хостингом на пользовательском домене, сервису рейтинга блогов blogflow.ru, сервису мониторинга трендов в блогосфере coofeed.ru. Все красиво в мечтах... Постепенно отказываюсь от продления доменов.
+=for Image :width(199) :link('http://m.friendfeed-media.com/8da324ff37e7f8ce646384398c54b9110a42cc81') :height(175) :preview
+media/c724103a7068d8e18248b82bcac2456afb3bf4c7.jpg
+
+
+
+=end DESCRIPTION
+
+Не быть русскому клону #friendfeed: http://friendflow.ru с хостингом на пользовательском домене, сервису рейтинга блогов blogflow.ru, сервису мониторинга трендов в блогосфере coofeed.ru. Все красиво в мечтах... Постепенно отказываюсь от продления доменов.
+=for Image :width(199) :link('http://m.friendfeed-media.com/8da324ff37e7f8ce646384398c54b9110a42cc81') :height(175) :preview
+media/c724103a7068d8e18248b82bcac2456afb3bf4c7.jpg
+
+
+
+=begin comment :src
+{
+  "rawLink": "http://friendfeed.com/e/f814c1ff-08fb-4243-aaaa-bf506b1db200",
+  "body": "Не быть русскому клону <a href=\"http://friendfeed.com/search?q=%23friendfeed\">#friendfeed</a>: <a rel=\"nofollow\" href=\"http://friendflow.ru\">http://friendflow.ru</a> с хостингом на пользовательском домене, сервису рейтинга блогов blogflow.ru, сервису мониторинга трендов в блогосфере coofeed.ru. Все красиво в мечтах... Постепенно отказываюсь от продления доменов.",
+  "rawBody": "Не быть русскому клону #friendfeed: http://friendflow.ru с хостингом на пользовательском домене, сервису рейтинга блогов blogflow.ru, сервису мониторинга трендов в блогосфере coofeed.ru. Все красиво в мечтах... Постепенно отказываюсь от продления доменов.",
+  "id": "e/f814c1ff08fb4243aaaabf506b1db200",
+  "date": "2010-05-03T15:43:08Z",
+  "url": "http://friendfeed.com/zag/f814c1ff/friendfeed-blogflow-ru-coofeed",
+  "thumbnails": [
+    {
+      "height": 175,
+      "link": "http://m.friendfeed-media.com/8da324ff37e7f8ce646384398c54b9110a42cc81",
+      "url": "http://m.friendfeed-media.com/c724103a7068d8e18248b82bcac2456afb3bf4c7",
+      "width": 199
+    }
+  ],
+  "from": {
+    "type": "user",
+    "id": "zag",
+    "name": "углы «Исимуры»"
+  }
+}
+=end comment
+
+=end pod

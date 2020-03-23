@@ -1,0 +1,44 @@
+=begin pod :pubdate('2010-12-24T09:11:17Z') :type<note> 
+=NAME Ты мне больше не сын !
+
+=begin DESCRIPTION
+
+Ты мне больше не сын !
+=for Image :width(130) :link('http://m.friendfeed-media.com/04d6442d957ed9ff938cb040741067f8600c928e') :height(175) :preview
+media/dee43070e3b567eae4226c007e6affc9c254efb7.jpg
+
+
+
+=end DESCRIPTION
+
+Ты мне больше не сын !
+=for Image :width(130) :link('http://m.friendfeed-media.com/04d6442d957ed9ff938cb040741067f8600c928e') :height(175) :preview
+media/dee43070e3b567eae4226c007e6affc9c254efb7.jpg
+
+
+
+=begin comment :src
+{
+  "id": "e/d5a09b2275994324b1b36c15f877008f",
+  "date": "2010-12-24T09:11:17Z",
+  "url": "http://friendfeed.com/zag/d5a09b22",
+  "rawBody": "Ты мне больше не сын !",
+  "thumbnails": [
+    {
+      "url": "http://m.friendfeed-media.com/dee43070e3b567eae4226c007e6affc9c254efb7",
+      "width": 130,
+      "height": 175,
+      "link": "http://m.friendfeed-media.com/04d6442d957ed9ff938cb040741067f8600c928e"
+    }
+  ],
+  "body": "Ты мне больше не сын !",
+  "rawLink": "http://friendfeed.com/e/d5a09b22-7599-4324-b1b3-6c15f877008f",
+  "from": {
+    "name": "углы «Исимуры»",
+    "type": "user",
+    "id": "zag"
+  }
+}
+=end comment
+
+=end pod

@@ -1,0 +1,64 @@
+=begin pod :pubdate('2010-03-16T10:22:34Z') :type<note> 
+=NAME В парке совсем как в лесу. Тишина и синицы..
+
+=begin DESCRIPTION
+
+В парке совсем как в лесу. Тишина и синицы..
+=for Image :width(233) :link('http://m.friendfeed-media.com/fc625d7aca098d1407c1eb956e9173bceff964e7') :height(175) :preview
+media/37032f2754330fd37d05821b7057532128acea1b.jpg
+=for Image :width(233) :link('http://m.friendfeed-media.com/2ac7730fe65e9793b78253ffff111c3a7f4b4c9f') :height(175) :preview
+media/965679d959eee555f589a433b4b21a6a177f6637.jpg
+=for Image :width(233) :link('http://m.friendfeed-media.com/0a897f39f9d4e100c65fc523bd1b96fb61cdcaa1') :height(175) :preview
+media/630a8cb62a9c8744a32b803a3c2cd33bfa73fc93.jpg
+
+
+
+=end DESCRIPTION
+
+В парке совсем как в лесу. Тишина и синицы..
+=for Image :width(233) :link('http://m.friendfeed-media.com/fc625d7aca098d1407c1eb956e9173bceff964e7') :height(175) :preview
+media/37032f2754330fd37d05821b7057532128acea1b.jpg
+=for Image :width(233) :link('http://m.friendfeed-media.com/2ac7730fe65e9793b78253ffff111c3a7f4b4c9f') :height(175) :preview
+media/965679d959eee555f589a433b4b21a6a177f6637.jpg
+=for Image :width(233) :link('http://m.friendfeed-media.com/0a897f39f9d4e100c65fc523bd1b96fb61cdcaa1') :height(175) :preview
+media/630a8cb62a9c8744a32b803a3c2cd33bfa73fc93.jpg
+
+
+
+=begin comment :src
+{
+  "body": "В парке совсем как в лесу. Тишина и синицы..",
+  "rawLink": "http://friendfeed.com/e/4aecf91e-fff8-42fa-a586-8a857c5e9417",
+  "url": "http://friendfeed.com/zag/4aecf91e",
+  "id": "e/4aecf91efff842faa5868a857c5e9417",
+  "date": "2010-03-16T10:22:34Z",
+  "rawBody": "В парке совсем как в лесу. Тишина и синицы..",
+  "thumbnails": [
+    {
+      "height": 175,
+      "link": "http://m.friendfeed-media.com/fc625d7aca098d1407c1eb956e9173bceff964e7",
+      "width": 233,
+      "url": "http://m.friendfeed-media.com/37032f2754330fd37d05821b7057532128acea1b"
+    },
+    {
+      "url": "http://m.friendfeed-media.com/965679d959eee555f589a433b4b21a6a177f6637",
+      "width": 233,
+      "link": "http://m.friendfeed-media.com/2ac7730fe65e9793b78253ffff111c3a7f4b4c9f",
+      "height": 175
+    },
+    {
+      "url": "http://m.friendfeed-media.com/630a8cb62a9c8744a32b803a3c2cd33bfa73fc93",
+      "width": 233,
+      "link": "http://m.friendfeed-media.com/0a897f39f9d4e100c65fc523bd1b96fb61cdcaa1",
+      "height": 175
+    }
+  ],
+  "from": {
+    "type": "user",
+    "id": "zag",
+    "name": "углы «Исимуры»"
+  }
+}
+=end comment
+
+=end pod

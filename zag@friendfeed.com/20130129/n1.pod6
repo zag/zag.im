@@ -1,0 +1,76 @@
+=begin pod :pubdate('2013-01-29T13:40:07Z') :type<note> 
+=NAME BitTorrent Launches Private and Secure Dropbox Alternative | TorrentFreak
+
+=begin DESCRIPTION
+
+BitTorrent Launches Private and Secure Dropbox Alternative | TorrentFreak - L<link|http://torrentfreak.com/bittorrent-launches-private-and-secure-dropbox-alternative-130125/>
+=for Image :width(225) :link('http://torrentfreak.com/bittorrent-launches-private-and-secure-dropbox-alternative-130125/') :height(70) :preview
+media/c4c05b7a1cf7bc66e142f0d7d553f0797d573012.jpg
+=for Image :width(286) :link('http://torrentfreak.com/bittorrent-launches-private-and-secure-dropbox-alternative-130125/') :height(175) :preview
+media/6879fb908a3e7c6694809a2fa17d5803a4dfd79e.jpg
+
+
+
+=end DESCRIPTION
+
+BitTorrent Launches Private and Secure Dropbox Alternative | TorrentFreak - L<link|http://torrentfreak.com/bittorrent-launches-private-and-secure-dropbox-alternative-130125/>
+=for Image :width(225) :link('http://torrentfreak.com/bittorrent-launches-private-and-secure-dropbox-alternative-130125/') :height(70) :preview
+media/c4c05b7a1cf7bc66e142f0d7d553f0797d573012.jpg
+=for Image :width(286) :link('http://torrentfreak.com/bittorrent-launches-private-and-secure-dropbox-alternative-130125/') :height(175) :preview
+media/6879fb908a3e7c6694809a2fa17d5803a4dfd79e.jpg
+
+
+
+=begin comment :src
+{
+  "from": {
+    "name": "углы «Исимуры»",
+    "type": "user",
+    "id": "zag"
+  },
+  "via": {
+    "url": "http://friendfeed.com/share/bookmarklet",
+    "name": "Bookmarklet"
+  },
+  "rawLink": "http://torrentfreak.com/bittorrent-launches-private-and-secure-dropbox-alternative-130125/",
+  "likes": [
+    {
+      "from": {
+        "type": "user",
+        "id": "teine",
+        "name": "teinett"
+      },
+      "date": "2013-01-29T17:12:53Z"
+    },
+    {
+      "from": {
+        "name": "alex@kapranoff.ru",
+        "type": "user",
+        "id": "kkapp"
+      },
+      "date": "2013-01-29T17:02:43Z"
+    }
+  ],
+  "body": "BitTorrent Launches Private and Secure Dropbox Alternative | TorrentFreak - <a rel=\"nofollow\" href=\"http://torrentfreak.com/bittorrent-launches-private-and-secure-dropbox-alternative-130125/\" title=\"http://torrentfreak.com/bittorrent-launches-private-and-secure-dropbox-alternative-130125/\">http://torrentfreak.com/bittorr...</a>",
+  "id": "e/b73d7dd9d9634ed7892d5b294b09e07b",
+  "date": "2013-01-29T13:40:07Z",
+  "rawBody": "BitTorrent Launches Private and Secure Dropbox Alternative | TorrentFreak",
+  "url": "http://friendfeed.com/zag/b73d7dd9/bittorrent-launches-private-and-secure",
+  "thumbnails": [
+    {
+      "height": 70,
+      "link": "http://torrentfreak.com/bittorrent-launches-private-and-secure-dropbox-alternative-130125/",
+      "url": "http://m.friendfeed-media.com/c4c05b7a1cf7bc66e142f0d7d553f0797d573012",
+      "width": 225
+    },
+    {
+      "width": 286,
+      "url": "http://m.friendfeed-media.com/6879fb908a3e7c6694809a2fa17d5803a4dfd79e",
+      "height": 175,
+      "link": "http://torrentfreak.com/bittorrent-launches-private-and-secure-dropbox-alternative-130125/"
+    }
+  ]
+}
+=end comment
+
+=end pod

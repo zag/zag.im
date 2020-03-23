@@ -1,0 +1,115 @@
+=begin pod :pubdate('2012-10-04T07:39:29Z') :type<note> 
+=NAME Bookcrossing - Книговорот. Освободите книги.
+
+=begin DESCRIPTION
+
+Bookcrossing - Книговорот. Освободите книги. - L<link|http://www.bookcrossing.ru/>
+=for Image :width(159) :link('http://www.bookcrossing.ru/') :height(156) :preview
+media/acc298181370a4f7640b5d8c2ecf5b41735e38b2.gif
+
+=item Регистрируем книгу на www.bookcrossing.ru
+=item Наклеиваем на книгу наклейку с номером
+=item Оставляем в безопасном месте
+=item Следим за путешествием книги по Миру
+=item I<#>bookcrossing
+
+
+=end DESCRIPTION
+
+Bookcrossing - Книговорот. Освободите книги. - L<link|http://www.bookcrossing.ru/>
+=for Image :width(159) :link('http://www.bookcrossing.ru/') :height(156) :preview
+media/acc298181370a4f7640b5d8c2ecf5b41735e38b2.gif
+
+=item Регистрируем книгу на www.bookcrossing.ru
+=item Наклеиваем на книгу наклейку с номером
+=item Оставляем в безопасном месте
+=item Следим за путешествием книги по Миру
+=item I<#>bookcrossing
+
+
+=begin comment :src
+{
+  "rawLink": "http://www.bookcrossing.ru/",
+  "body": "Bookcrossing - Книговорот. Освободите книги. - <a rel=\"nofollow\" href=\"http://www.bookcrossing.ru/\">http://www.bookcrossing.ru/</a>",
+  "id": "e/c5b2bc94376143dbb1d0ef3dcf178061",
+  "rawBody": "Bookcrossing - Книговорот. Освободите книги.",
+  "date": "2012-10-04T07:39:29Z",
+  "url": "http://friendfeed.com/zag/c5b2bc94/bookcrossing",
+  "thumbnails": [
+    {
+      "link": "http://www.bookcrossing.ru/",
+      "height": 156,
+      "url": "http://m.friendfeed-media.com/acc298181370a4f7640b5d8c2ecf5b41735e38b2",
+      "width": 159
+    }
+  ],
+  "comments": [
+    {
+      "body": "Регистрируем книгу на www.bookcrossing.ru",
+      "rawBody": "Регистрируем книгу на www.bookcrossing.ru",
+      "from": {
+        "name": "углы «Исимуры»",
+        "type": "user",
+        "id": "zag"
+      },
+      "id": "e/c5b2bc94376143dbb1d0ef3dcf178061/c/fd838cef5a9043d28355eaf22b4c88bd",
+      "date": "2012-10-04T07:39:54Z"
+    },
+    {
+      "date": "2012-10-04T07:40:06Z",
+      "rawBody": "Наклеиваем на книгу наклейку с номером",
+      "id": "e/c5b2bc94376143dbb1d0ef3dcf178061/c/394447f772844cce878e4d98abdf8e0b",
+      "from": {
+        "id": "zag",
+        "type": "user",
+        "name": "углы «Исимуры»"
+      },
+      "body": "Наклеиваем на книгу наклейку с номером"
+    },
+    {
+      "rawBody": "Оставляем в безопасном месте",
+      "date": "2012-10-04T07:40:14Z",
+      "id": "e/c5b2bc94376143dbb1d0ef3dcf178061/c/42c1eaef5ea14e8dbf94736cb224427c",
+      "from": {
+        "id": "zag",
+        "type": "user",
+        "name": "углы «Исимуры»"
+      },
+      "body": "Оставляем в безопасном месте"
+    },
+    {
+      "rawBody": "Следим за путешествием книги по Миру",
+      "id": "e/c5b2bc94376143dbb1d0ef3dcf178061/c/c4a8d71b5a6543c4a56104592ceff1a0",
+      "from": {
+        "name": "углы «Исимуры»",
+        "type": "user",
+        "id": "zag"
+      },
+      "date": "2012-10-04T07:40:25Z",
+      "body": "Следим за путешествием книги по Миру"
+    },
+    {
+      "body": "<a href=\"http://friendfeed.com/search?q=%23bookcrossing\">#bookcrossing</a>",
+      "rawBody": "I<#>bookcrossing",
+      "id": "e/c5b2bc94376143dbb1d0ef3dcf178061/c/34f8ec39a4874d77b4bf26af7b747965",
+      "from": {
+        "name": "углы «Исимуры»",
+        "id": "zag",
+        "type": "user"
+      },
+      "date": "2012-10-04T07:40:36Z"
+    }
+  ],
+  "from": {
+    "name": "углы «Исимуры»",
+    "id": "zag",
+    "type": "user"
+  },
+  "via": {
+    "url": "http://friendfeed.com/share/bookmarklet",
+    "name": "Bookmarklet"
+  }
+}
+=end comment
+
+=end pod

@@ -1,0 +1,38 @@
+=begin pod :pubdate('2011-01-02T17:14:36Z') :type<note> 
+=NAME Morning of the new year.
+
+=begin DESCRIPTION
+
+Morning of the new year.
+
+
+
+=end DESCRIPTION
+
+Morning of the new year.
+
+
+
+=begin comment :src
+{
+  "from": {
+    "name": "углы «Исимуры»",
+    "type": "user",
+    "id": "zag"
+  },
+  "body": "Morning of the new year.",
+  "rawLink": "http://friendfeed.com/e/b09cbe5b-28d7-4178-a8d6-afa8f3e61b67",
+  "url": "http://friendfeed.com/zag/b09cbe5b/morning-of-new-year",
+  "id": "e/b09cbe5b28d74178a8d6afa8f3e61b67",
+  "date": "2011-01-02T17:14:36Z",
+  "rawBody": "Morning of the new year.",
+  "thumbnails": [
+    {
+      "link": "http://friendfeed.com/e/b09cbe5b-28d7-4178-a8d6-afa8f3e61b67",
+      "url": "http://asset.soup.io/asset/1396/7649_2ad6.gif"
+    }
+  ]
+}
+=end comment
+
+=end pod

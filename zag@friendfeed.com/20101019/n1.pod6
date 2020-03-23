@@ -1,0 +1,36 @@
+=begin pod :pubdate('2010-10-19T11:17:45Z') :type<note> 
+=NAME RT @avarab: Mac OS X is excellent as a bloated device driver. I'm only using it to run VirtualBox + Debian. I'm on a horse.
+
+=begin DESCRIPTION
+
+RT @avarab: Mac OS X is excellent as a bloated device driver. I'm only using it to run VirtualBox + Debian. I'm on a horse. - L<link|http://twitter.com/zagru/statuses/27822982343>
+
+
+
+=end DESCRIPTION
+
+RT @avarab: Mac OS X is excellent as a bloated device driver. I'm only using it to run VirtualBox + Debian. I'm on a horse. - L<link|http://twitter.com/zagru/statuses/27822982343>
+
+
+
+=begin comment :src
+{
+  "via": {
+    "url": "http://twitter.com/zagru/statuses/27822982343",
+    "name": "Twitter"
+  },
+  "from": {
+    "name": "углы «Исимуры»",
+    "type": "user",
+    "id": "zag"
+  },
+  "body": "RT @<a rel=\"nofollow\" href=\"http://twitter.com/avarab\">avarab</a>: Mac OS X is excellent as a bloated device driver. I'm only using it to run VirtualBox + Debian. I'm on a horse.",
+  "rawLink": "http://twitter.com/zagru/statuses/27822982343",
+  "id": "e/82f7a38a633b76dab5edcddbd7b4b2a7",
+  "date": "2010-10-19T11:17:45Z",
+  "rawBody": "RT @avarab: Mac OS X is excellent as a bloated device driver. I'm only using it to run VirtualBox + Debian. I'm on a horse.",
+  "url": "http://friendfeed.com/zag/82f7a38a/rt-avarab-mac-os-x-is-excellent-as-bloated-device"
+}
+=end comment
+
+=end pod

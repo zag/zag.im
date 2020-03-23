@@ -1,0 +1,32 @@
+=begin pod :pubdate('2010-08-27T06:58:37Z') :type<note> 
+=NAME Великолепная идея лайкать  предметы в реале мобильник+GPS+Camera+распознавалка бар кодов http://bit.ly/cpB2rF
+
+=begin DESCRIPTION
+
+Великолепная идея лайкать  предметы в реале мобильник+GPS+Camera+распознавалка бар кодов http://bit.ly/cpB2rF
+
+
+
+=end DESCRIPTION
+
+Великолепная идея лайкать  предметы в реале мобильник+GPS+Camera+распознавалка бар кодов http://bit.ly/cpB2rF
+
+
+
+=begin comment :src
+{
+  "id": "e/79dcb2b6d7fc4c6dab0c525fcf15af9c",
+  "date": "2010-08-27T06:58:37Z",
+  "url": "http://friendfeed.com/zag/79dcb2b6/gps-camera",
+  "rawBody": "Великолепная идея лайкать  предметы в реале мобильник+GPS+Camera+распознавалка бар кодов http://bit.ly/cpB2rF",
+  "from": {
+    "id": "zag",
+    "type": "user",
+    "name": "углы «Исимуры»"
+  },
+  "rawLink": "http://friendfeed.com/e/79dcb2b6-d7fc-4c6d-ab0c-525fcf15af9c",
+  "body": "Великолепная идея лайкать  предметы в реале мобильник+GPS+Camera+распознавалка бар кодов <a rel=\"nofollow\" href=\"http://bit.ly/cpB2rF\" title=\"http://www.allfacebook.com/qr-codes-facebook-2010-08\">http://www.allfacebook.com/qr-code...</a>"
+}
+=end comment
+
+=end pod

@@ -1,0 +1,44 @@
+=begin pod :pubdate('2011-10-11T09:59:20Z') :type<note> 
+=NAME Note for followers
+
+=begin DESCRIPTION
+
+Note for followers
+=for Image :width(295) :link('http://m.friendfeed-media.com/74a100f11b600e4a0737489ff4a03521802bb51b') :height(175) :preview
+media/2d1cb146923d08f791e9966e6ee86cefa899b70a.jpg
+
+
+
+=end DESCRIPTION
+
+Note for followers
+=for Image :width(295) :link('http://m.friendfeed-media.com/74a100f11b600e4a0737489ff4a03521802bb51b') :height(175) :preview
+media/2d1cb146923d08f791e9966e6ee86cefa899b70a.jpg
+
+
+
+=begin comment :src
+{
+  "body": "Note for followers",
+  "rawLink": "http://friendfeed.com/e/23e9e43b-d057-4803-bd0a-97c417db9652",
+  "id": "e/23e9e43bd0574803bd0a97c417db9652",
+  "date": "2011-10-11T09:59:20Z",
+  "rawBody": "Note for followers",
+  "url": "http://friendfeed.com/zag/23e9e43b/note-for-followers",
+  "thumbnails": [
+    {
+      "width": 295,
+      "url": "http://m.friendfeed-media.com/2d1cb146923d08f791e9966e6ee86cefa899b70a",
+      "height": 175,
+      "link": "http://m.friendfeed-media.com/74a100f11b600e4a0737489ff4a03521802bb51b"
+    }
+  ],
+  "from": {
+    "name": "углы «Исимуры»",
+    "id": "zag",
+    "type": "user"
+  }
+}
+=end comment
+
+=end pod

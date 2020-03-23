@@ -1,0 +1,36 @@
+=begin pod :pubdate('2011-02-23T06:40:41Z') :type<note> 
+=NAME RT @newsycombinator: How We Made Github Fast http://j.mp/bSZz3U
+
+=begin DESCRIPTION
+
+RT @newsycombinator: How We Made Github Fast http://j.mp/bSZz3U - L<link|http://twitter.com/zagru/statuses/40299993466277888>
+
+
+
+=end DESCRIPTION
+
+RT @newsycombinator: How We Made Github Fast http://j.mp/bSZz3U - L<link|http://twitter.com/zagru/statuses/40299993466277888>
+
+
+
+=begin comment :src
+{
+  "body": "RT @<a rel=\"nofollow\" href=\"http://twitter.com/newsycombinator\">newsycombinator</a>: How We Made Github Fast <a rel=\"nofollow\" href=\"http://j.mp/bSZz3U\" title=\"https://github.com/blog/530-how-we-made-github-fast\">https://github.com/blog...</a>",
+  "rawLink": "http://twitter.com/zagru/statuses/40299993466277888",
+  "date": "2011-02-23T06:40:41Z",
+  "id": "e/221f823c64793b339989a736da07db9a",
+  "rawBody": "RT @newsycombinator: How We Made Github Fast http://j.mp/bSZz3U",
+  "url": "http://friendfeed.com/zag/221f823c/rt-newsycombinator-how-we-made-github-fast",
+  "via": {
+    "url": "http://twitter.com/zagru/statuses/40299993466277888",
+    "name": "Twitter"
+  },
+  "from": {
+    "type": "user",
+    "id": "zag",
+    "name": "углы «Исимуры»"
+  }
+}
+=end comment
+
+=end pod

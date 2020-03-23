@@ -1,0 +1,1854 @@
+<html xmlns='http://www.w3.org/1999/xhtml'><body><TITLE>Synopsis 26 - Documentation
+</TITLE><AUTHOR>Damian Conway <<code>damian@conway.org</code>>
+</AUTHOR><VERSION>    =table
+        Maintainer:     Damian Conway
+        Date:           9 Apr 2005
+        Last Modified:  31 Jul 2010
+</VERSION><h1>Pod
+</h1><p><dfn>Pod</dfn> is an easy-to-use markup language with a simple, consistent
+underlying document object model. Pod can be used for writing language
+documentation, for documenting programs and modules, as well as for
+other types of document composition.
+</p><p>Pod is an evolution of Perl 5's <em>Plain Ol' Documentation</em>
+(POD) markup. Compared to POD, Perl 6's Pod is much more
+uniform, somewhat more compact, and considerably more expressive. The
+Pod dialect also differs in that it is a purely descriptive mark-up
+notation, with no presentational components.
+</p><h2>General syntactic structure
+</h2><p>Pod documents are specified using <dfn>directives</dfn>, which are
+used to declare configuration information and to delimit blocks of
+textual content. All Pod directives are considered to be special types
+of comments in Perl 6.
+</p><p>Every directive starts either with an equals sign (<code>=</code>) followed
+immediately by an identifier <sup><a href='#ftn.nid1' name='nid1'>[1]</a></sup>, or with
+<code>#=</code> followed immediately by whitespace or an opening bracket.
+</p><p>Directives that start with <code>=</code> can be indented like the code they
+interleave, but their initial <code>=</code> must still be the first non-whitespace
+character on their line. Directives that start with <code>#=</code> can be placed
+anywhere that a Perl 6 comment can appear, though they are meaningful
+only in a subset of those places; see <a href='#Declarator blocks'>#Declarator blocks</a>.
+</p><p>An indented Pod block is considered to have a <em>virtual left margin</em>,
+determined by the indentation of its opening delimiter.
+</p><p>In other words, if a directive is indented from the left margin, the
+column at which the first character of its opening delimiter appears is
+thereafter considered the first column of the entire block's contents.
+</p><p>As with Perl 6 heredocs, the virtual margin treats leading tabs as
+aligning to tabstops spaced every <code>($?TABSTOP // 8)</code> characters.
+</p><h2>Pod blocks
+</h2><p>The content of a document is specified within one or more <dfn>blocks</dfn>.
+Every Pod block may be declared in any of four forms:
+</p><p><a href='#Delimited blocks'><em>delimited style</em></a>, <a href='#Paragraph'><em>paragraph style</em></a>, <a href='#Abbreviated blocks'><em>abbreviated style</em></a>, or <a href='#Declarator blocks'><em>declarator
+style</em></a>. The first three forms are all equivalent; the
+fourth is distinct.
+</p><p>Anything in a document that is neither a Pod directive nor contained
+within a Pod block is treated as "ambient" material. Typically this
+would be the source code of the program that the Pod is documenting. Pod
+parsers still parse this text into the internal representation of the
+file, representing it as a <code>Pod6::Block::Ambient</code> block. Renderers
+will <em>usually</em> ignore such blocks, but see <a href='#Aliases'>#Aliases</a>.
+</p><p>In Perl 5's POD format, once a POD directive is encountered, the parser
+considers everything that follows to be POD, until an explicit <code>=cut</code>
+directive is encountered, at which point the parser flips back to
+parsing ambient source code. The Perl 6 Pod format is different. All Pod
+directives have a defined terminator and the Pod parser always reverts to
+"ambient" at the end of each Pod directive or block. To cause the parser
+to remain in Pod mode, you must enclose the desired Pod region in a
+<code>pod</code> block:
+</p><pre><code>    <strong>=begin pod</strong>
+
+    =head1 A heading
+
+    This is Pod too. Specifically, this is a simple C&lt;para&gt; block
+
+        $this = pod('also');  # Specifically, a code block
+
+    <strong>=end pod</strong>
+</code></pre><h3>Delimited blocks
+</h3><p>Delimited blocks are bounded by <code>=begin</code> and <code>=end</code> markers, both of
+which are followed by a valid Perl 6 identifier, which is the
+<dfn>typename</dfn> of the block. Typenames that are entirely lowercase (for
+example: <code>=begin head1</code>) or entirely uppercase (for example: <code>=begin
+SYNOPSIS</code>) are reserved.
+</p><p>After the typename, the rest of the <code>=begin</code> marker line is treated as
+configuration information for the block. This information is used in
+different ways by different types of blocks, but is always specified using
+Perl6-ish option pairs. That is, any of:
+</p><blockquote><table><tr><th>Value is...</th><th>Specify with...</th><th>Or with...</th><th>Or with...</th></tr><tr><td>Boolean (true)</td><td>C«:key»</td><td>C«:key(1)»</td><td>C«key =&gt; 1»</td></tr><tr><td>Boolean (false)</td><td>C«:!key»</td><td>C«:key(0)»</td><td>C«key =&gt; 0»</td></tr><tr><td>String</td><td>C«:key&lt;str&gt;»</td><td>C«:key('str')»</td><td>C«key =&gt; 'str'»</td></tr><tr><td>List</td><td>C«:key&lt;1 2 3&gt;»</td><td>C«:key[1,2,3]»</td><td>C«key =&gt; [1,2,3]»</td></tr></table></blockquote><p>All option keys and values must, of course, be constants since Pod is a
+specification language, not a programming language. Specifically, option
+values cannot be closures. See Synopsis 2 for details of the various
+Perl 6 pair notations.
+</p><p>The configuration section may be extended over subsequent lines by
+starting those lines with an <code>=</code> in the first (virtual) column followed
+by a whitespace character.
+</p><p>The lines following the opening delimiter and configuration are the
+data or contents of the block, which continue until the block's matching
+<code>=end</code> marker line. For most block types, these contents may be
+indented if you wish, without them being treated as <a href='#Code'>code blocks</a>. Unlike Perl 5, indented text is only treated as code within
+<code>=pod</code>, <a href='#Nesting blocks'><code>=nested</code></a>, <a href='#Lists'><code>=item</code></a>, <code>=code</code>,
+and <a href='#Semantic blocks'>semantic</a> blocks.
+</p><p>The general syntax is:
+</p><pre><code>     =begin <var>BLOCK_TYPE</var>  <var>OPTIONAL CONFIG INFO</var>
+     =                  <var>OPTIONAL EXTRA CONFIG INFO</var>
+     <var>BLOCK CONTENTS</var>
+     =end <var>BLOCK_TYPE</var>
+</code></pre><p /><p>For example:
+</p><pre><code>     =begin table  :caption&lt;Table of Contents&gt;
+         Constants           1
+
+         Variables           10
+
+         Subroutines         33
+
+         Everything else     57
+     =end table
+
+        =begin Name  :required
+        =            :width(50)
+        The applicant's full name
+        =end Name
+
+        =begin Contact  :optional
+            The applicant's contact details
+        =end Contact
+</code></pre><p /><p>Note that no blank lines are required around the directives; blank
+lines within the contents are always treated as part of the contents.
+This is a universal feature of Pod.
+</p><p>Note also that in the following specifications, a "blank line" is a line
+that is either empty or that contains only whitespace characters. That
+is, a blank line matches the Perl 6 pattern: <code>/^^ \h* $$/</code>. Pod uses
+blank lines as delimiters, rather than empty lines, to minimize unpleasant
+surprises when stray spaces or tabs mysteriously turn up in hitherto
+empty lines.
+</p><h3>Paragraph blocks
+</h3><p>Paragraph blocks are introduced by a <code>=for</code> marker and terminated by
+the next Pod directive or the first blank line (which is <em>not</em>
+considered to be part of the block's contents). The <code>=for</code> marker is
+followed by the name of the block and optional configuration
+information. The general syntax is:
+</p><pre><code>     =for <var>BLOCK_TYPE</var>  <var>OPTIONAL CONFIG INFO</var>
+     =                <var>OPTIONAL EXTRA CONFIG INFO</var>
+     <var>BLOCK DATA</var>
+</code></pre><p /><p>For example:
+</p><pre><code>     =for table  :caption&lt;Table of Contents&gt;
+         Constants           1
+         Variables           10
+         Subroutines         33
+         Everything else     57
+
+        =for Name  :required
+        =          :width(50)
+        The applicant's full name
+
+     =for Contact  :optional
+        The applicant's contact details
+
+</code></pre><h3>Abbreviated blocks
+</h3><p>Abbreviated blocks are introduced by an <code>'='</code> sign in the
+first column, which is followed immediately by the typename of the
+block. The rest of the line is treated as block data, rather than as
+configuration. The content terminates at the next Pod directive or the
+first blank line (which is not part of the block data). The general
+syntax is:
+</p><pre><code>     =<var>BLOCK_TYPE</var>  <var>BLOCK DATA</var>
+     <var>MORE BLOCK DATA</var>
+
+</code></pre><p /><p>For example:
+</p><pre><code>     =table
+         Constants           1
+         Variables           10
+         Subroutines         33
+         Everything else     57
+
+        =Name  The applicant's full name
+     =Contact  The applicant's contact details
+
+</code></pre><p /><p>Note that abbreviated blocks cannot specify configuration information. If
+configuration is required, use a <code>=for</code> or <code>=begin</code>/<code>=end</code> instead.
+</p><h3>Declarator blocks
+</h3><p>The fourth form of Pod block differs from the first three in that it
+does not specify an explicit typename. Instead, it obtains its identity
+and purpose from the Perl 6 source code to which it is attached;
+specifically, from some nearby declarator.
+</p><p>Declarator blocks are introduced by a special Perl comment: <code>#=</code>, which
+must be immediately followed by either by a space or an opening bracket.
+If followed by a space, the block is terminated by the end of line; if
+followed by one or more opening brackets, the block is terminated by
+the matching sequence of closing brackets.
+</p><p>That is, declarator Pod blocks are syntactically like ordinary Perl 6
+single-line comments and embedded comments. The general syntax is:
+</p><pre><code>     #= <var>BLOCK DATA TO END OF LINE</var>
+
+     #={ <var>BLOCK DATA</var>
+         <var>MORE BLOCK DATA</var>
+       }
+
+</code></pre><p /><p>except that the second form may use <em>any</em> valid Perl 6 bracket delimiter
+(including repeated opening brackets), as described in Synopsis 2.
+</p><p>Declarator Pod blocks must either precede or immediately follow a valid
+Perl 6 declarator, and are then said to be "attached" to it. They are
+primarily intended to simplify the documentation of code interfaces.
+For example:
+</p><pre><code>
+    #= Base class for comms necromancy hierarchy
+    class Magic::Necrotelecomnicon {
+        has $.elemental;  #= Source of all power
+        has $!true_name;  #  Source of all self-protection (not documented)
+
+        method cast(Spell $s)
+        #= Initiate a specified spell normally
+        {
+            do_raw_magic($s);
+        }
+
+
+        method kast(  #= Initiate a specified spell abnormally
+            Spell $s     #= The spell to be abnormally initiated
+        ) {
+            do_raw_magic($s, :alternative);
+        }
+
+        #= This subroutine does the real work
+        sub do_raw_magic (
+            Spell $s,         #= Which spell to invoke
+            *%options         #= How to invoke it
+        ) {...}
+    }
+</code></pre><p /><p>Each declarator block is appended to the <code>.WHY</code> attribute of the
+declared entity (object or type) whose declarator appeared at the
+<em>start</em> of the nearest preceding line, provided that declarator is
+"attached" to the Pod comment (i.e. it must not be separated from it
+by an entirely blank line). That is:
+</p><pre><code>    my $chainsaw;        #= This text stored in C&lt;$chainsaw.WHY&gt;
+
+    sub fu (             #= This text stored in C&lt;&amp;fu.WHY&gt;
+        Any     $bar,    #= This text stored in C&lt;$bar.WHY&gt;
+        Mode    :$baz,   #= This text stored in C&lt;$baz.WHY&gt;
+        Context :$the_context_in_which_we_fu?
+                         #= This stored in C&lt;$the_context_in_which_we_fu.WHY&gt;
+    ) { ... }
+
+    sub fu2 (Any $bar)
+    #=[ This text stored in C&lt;&amp;fu2.WHY&gt;, not in C&lt;$bar.WHY&gt;,
+        (because C&lt;sub fu2&gt; is the declarator
+         at the I&lt;start&gt; of the preceding line)
+      ]
+
+    multi sub baz(Int $count, Str $name)
+        #=[ This text stored in C&lt;&amp;baz:(Int,Str).WHY&gt;
+            (i.e. the C&lt;.WHY&gt; of the variant, not of the entire multisub)
+          ]
+</code></pre><p /><p>If a declarator block is <em>not</em> immediately preceded by an attached line
+that begins with a declarator, then the declarator block is instead
+appended to the <code>.WHY</code> attribute of the <em>next</em> declarator encountered,
+which must also begin at the next non-whitespace token. For example:
+</p><pre><code>    #= This text stored in C&lt;$chainsaw.WHY&gt;
+    my $chainsaw;
+
+    #=[ This text stored in C&lt;&amp;fu.WHY&gt;
+        (because its delarator is the next non-ws token)
+      ]
+
+    sub fu (Any $bar) {...}
+</code></pre><p /><p>Note that the second Pod comment in this example documents the <code>&amp;fu</code>
+that comes after it, not the <code>$chainsaw</code> preceding it, because it is
+not "attached" to <code>$chainsaw</code>, being separated from it by a blank line.
+</p><p>In other words, Declarator blocks are assumed to document the
+declarator they immediately follow (i.e. without intervening blank
+lines), or if they don't immediately follow a declarator, to
+document the declarator they precede (regardless of intervening
+whitespace). This is intended to support and DWIM with most
+standard layout approaches for commenting and inline documention.
+</p><p>A declarator can have both a leading and a trailing Pod comment, in
+which case they are concatenated with an intermediate newline:
+</p><pre><code>   #= This is a special chainsaw
+   my SwissArmy $chainsaw    #= (It has a rocket launcher)
+
+   say $chainsaw.WHY;    # prints: This is a special chainsaw
+                         #         (It has a rocket launcher)
+
+</code></pre><p /><p>The Pod object representing each Declarator block is still appended to
+the current surrounding Pod object (e.g. to <code>$=POD</code> at the top level).
+Each such block representation is an object of class
+<code>Pod6::Block::Declarator</code>, and has a <code>.WHEREFORE</code> method that returns
+the code object or metaobject created by the declarator to which the
+documentation is attached.
+</p><p>When the <a href='#How Pod is parsed and processed'>default <code>DOC INIT</code> block</a>
+renders these Pod objects, it automatically includes information about
+the declarator as well. For instance, the earlier Necrotelecomnicon
+example might produce something like:
+</p><pre><samp>      Name:  Magic::Necrotelecomnicon:
+      Desc:  Base class for comms necromancy hierarchy
+
+      Attrs:
+           .elemental       : Source of all power
+
+      Methods:
+           .cast(Spell $s)  : Initiate a specified spell normally
+           .kast(Spell $s)  : Initiate a specified spell abnormally
+
+      Subroutines:
+        do_raw_magic(       : This subroutine does the real work
+            Spell $s,         : Which spell to invoke
+            *%options         : How to invoke it
+        )
+
+</samp></pre><p /><p>Note, however, that the exact rendering used for declarator blocks is
+implementation dependent, and may also be pre-empted explicitly by some
+<a href='#How Pod is parsed and processed'><code>DOC</code> configuration statement</a>
+within the document, such as:
+</p><pre><code>    DOC use Pod6::Markovian;
+</code></pre><p>or:
+</p><pre><code>    DOC INIT {
+        use Pod6::Eiffelish::Long;
+</code></pre><pre><code>        say eiffelish_long($=POD);
+</code></pre><pre><code>        exit;
+    }
+</code></pre><h3>Block equivalence
+</h3><p>The first three block specifications (delimited, paragraph, and
+abbreviated) are treated identically by the underlying documentation
+model, so you can use whichever form is most convenient for a particular
+documentation task. In the descriptions that follow, the abbreviated
+form will generally be used, but should be read as standing for all
+three forms equally.
+</p><p>For example, although <a href='#Headings'>#Headings</a> shows only:
+</p><pre><code>     =head1 Top Level Heading
+</code></pre><p /><p>this automatically implies that you could also write that block as:
+</p><pre><code>     =for head1
+     Top Level Heading
+</code></pre><p /><p>or:
+</p><pre><code>     =begin head1
+     Top Level Heading
+     =end head1
+</code></pre><p /><p>Declarator blocks are distinct from these three forms. They do not have
+typenames of their own, but rather take their meaning and identity from
+the declared object or type to which they are attached. In general, they
+are used specifically to describe that declarand.
+</p><h3>Standard configuration options
+</h3><p>Pod predefines a small number of standard configuration options that can be
+applied uniformly to any built-in block type. These include:
+</p><dl><dt><strong><code>:nested</code></strong></dt><dd><p>
+This option specifies that the block is to be nested within its current
+context. For example, nesting might be applied to block quotes, to textual
+examples, or to commentaries. In addition the <a href='#Code blocks'><code>=code</code></a>,
+<a href='#Lists'><code>=item</code></a>, <a href='#I/O blocks'><code>=input</code></a>, and <a href='#I/O blocks'><code>=output</code></a>
+blocks all have implicit nesting.</p><p>Nesting of blocks is usually rendered by adding extra indentation to the
+block contents, but may also be indicated in other ways:
+by boxing the contents, by changing the font or size of the nested text,
+or even by folding the text (so long as a visible placeholder is provided).</p><p>Occasionally it is desirable to nest content by more than one level:</p></dd><pre><code>    =begin para :nested
+    =begin para :nested
+    =begin para :nested
+    "We're going deep, deep, I&lt;deep&gt; undercover!"
+    =end para
+    =end para
+    =end para
+</code></pre><dt><strong /></dt><dd>This can be simplified by giving the <code>:nested</code> option a positive integer
+value:
+
+</dd><pre><code>    =begin para <strong>:nested(3)</strong>
+    "We're going deep, deep, I&lt;deep&gt; undercover!"
+    =end para
+</code></pre><dt><strong /></dt><dd>You can also give the option a value of zero, to defeat any implicit
+nesting that might normally be applied to a paragraph. For example, to
+specify a block of code that should appear <em>without</em> its usual
+nesting:
+
+</dd><pre><code>    =comment Don't nest this code block in the usual way...
+    <strong>=begin code :nested(0)</strong>
+
+                 1         2         3         4         5         6
+        123456789012345678901234567890123456789012345678901234567890
+        |------|-----------------------|---------------------------|
+          line        instruction                comments
+         number           code
+
+    <code>=end code</code>
+</code></pre><dt><strong /></dt><dd>Note that <code>:!nested</code> could also be used for this purpose:
+
+</dd><pre><code>    =Z&lt;&gt;begin code :!nested
+</code></pre><dt><strong /></dt><dd>
+</dd><dt><strong><code>:numbered</code></strong></dt><dd><p>
+This option specifies that the block is to be numbered. The most common
+use of this option is to create <a href='#Numbered headings'>numbered headings</a> and
+<a href='#Ordered lists'>ordered lists</a>, but it can be applied to any block.</p><p>The numbering conventions for headings and lists are specified in those
+sections, but it is up to individual renderers to decide how to display
+any numbering associated with other types of blocks.</p><p>Note that numbering is never explicit; it is always implied by context.</p></dd><dt><strong><code>:formatted</code></strong></dt><dd><p>
+This option specifies that the contents of the block should be treated as if
+they had one or more <a href='#Formatting codes'>formatting codes</a> placed around them.</p><p>For example, instead of:</p></dd><pre><code>    =for comment
+        The next para is both important and fundamental,
+        so doubly emphasize it...
+
+    =begin para
+    B&lt;I&lt;
+    Warning: Do not immerse in water. Do not expose to bright light.
+    Do not feed after midnight.
+    &gt;&gt;
+    =end para
+</code></pre><dt><strong /></dt><dd>you can just write:
+
+</dd><pre><code>    =begin para <strong>:formatted&lt;B I</strong>&gt;
+    Warning: Do not immerse in water. Do not expose to bright light.
+    Do not feed after midnight.
+    =end para
+</code></pre><dt><strong /></dt><dd><p>The internal representations of these two versions are exactly the same,
+except that the second one retains the <code>:formatted</code> option information
+as part of the resulting block object.</p><p>Like all formatting codes, codes applied via a <code>:formatted</code> are
+inherently cumulative. For example, if the block itself is already
+inside a formatting code, that formatting code will still apply, in
+addition to the extra "basis" and "important" formatting specified by
+<code>:formatted&lt;B I</code>&gt;.
+</p></dd><dt><strong><code>:like</code></strong></dt><dd>
+This option specifies that a block or config has the same formatting
+properties as the type named by its value. This is useful for creating
+related <a href='#Block pre-configuration'>configurations</a> or for making
+user-defined synonyms for existing types. For example:
+
+</dd><pre><code>    =config head2  :like&lt;head1&gt; :formatted&lt;I&gt;
+
+    =config Subhead :like&lt;head2&gt;
+</code></pre><dt><strong /></dt><dd>
+</dd><dt><strong><code>:allow</code></strong></dt><dd>This option expects a list of formatting codes that are to be recognized
+within any <code>V&lt;&gt;</code> codes that appear in (or are implicitly applied to)
+the current block. The option is most often used on <code>=code</code> blocks to
+allow mark-up within those otherwise verbatim blocks, though it can be
+used in <em>any</em> block that contains verbatim text. See <a href='#Formatting'>#Formatting</a>.
+</dd><dt><strong><code>:margin</code></strong></dt><dd>
+This option specifies a character that indicates the left margin of the
+contents of the block. Normally this left margin is determined by the column
+at which the <code>=</code> of the opening block-delimiter occurs. For example:
+
+</dd><pre><code>    =head1 Indenting Pod blocks
+
+        =begin para
+        This text is flush with the (virtual) left margin of
+        the Pod block because that margin is implicitly specified
+        by the C&lt;=&gt; of the C&lt;=begin&gt;
+        =end para
+</code></pre><dt><strong /></dt><dd>However, by using the <code>:margin</code> option it is possible to specify a
+character that acts like an explicit margin when it occurs as the first
+non-whitespace character on any line within the block. For example:
+
+</dd><pre><code>    =head1 Indenting Pod blocks
+
+        =begin para :margin&lt;|&gt;
+            |This text is flush with the (virtual) left margin of
+            |the Pod block because that margin is explicitly marked
+            |by the C&lt;|&gt;, as specified by the block's C&lt;:margin&lt;|&gt;&gt; option.
+        =end para
+</code></pre><dt><strong /></dt><dd>The virtual margin can even be to the left of the opening delimiter, which can
+be convenient to guide subsequent indentations. For example:
+
+</dd><pre><code>       sub foo {
+
+           V&lt;=begin&gt; pod :margin&lt;|&gt;
+           |=head1 Hey Look: Indented Pod!
+           |
+           |You can indent Pod in Perl 6
+           |which makes code look cleaner
+           |when documentation is interspersed
+           |
+           |     my $this is Code;
+           |
+           |=end pod
+
+           ...
+       }
+</code></pre><dt><strong /></dt><dd><p>When a <code>:margin</code> option is used, each subsequent line (until the
+corresponding closing delimiter is encountered) simply has any text matching
+<code>/^^ \s* $margin_char/</code> automatically removed. This may include a line that
+then becomes the closing delimiter, as in the above example.</p><p>Any line from which such a margin marker is removed automatically resets
+the implicit margin for subsequent lines of the block, setting it to the
+length of the "marginalized" indent that was just removed. This implicit
+margin is then used until the next line with an explicit margin marker
+is encountered, or the block terminates.</p></dd></dl><h2>Block types
+</h2><p>Pod offers notations for specifying a wide range of standard block types...
+</p><h3>Headings
+</h3><p>Pod provides an unlimited number of levels of heading, specified by the
+<code>=head</code><var>N</var> block marker. For example:
+</p><pre><code>    =head1 A Top Level Heading
+
+      =head2 A Second Level Heading
+
+        =head3 A third level heading
+
+                        =head86 A "Missed it by I&lt;that&gt; much!" heading
+</code></pre><p /><p>While Pod parsers are required to recognize and distinguish all levels
+of heading, Pod renderers are only required to provide distinct
+<em>renderings</em> of the first four levels of heading (though they may, of
+course, provide more than that). Headings at levels without distinct
+renderings would typically be rendered like the lowest distinctly
+rendered level.
+</p><h4>Numbered headings
+</h4><p>You can specify that a heading is numbered using the <code>:numbered</code> option. For
+example:
+</p><pre><code>    =for head1 :numbered
+    The Problem
+
+    =for head1 :numbered
+    The Solution
+
+        =for head2 :numbered
+        Analysis
+
+            =for head3
+            Overview
+
+            =for head3
+            Details
+
+        =for head2 :numbered
+        Design
+
+    =for head1 :numbered
+    The Implementation
+</code></pre><p /><p>which would produce:
+</p><blockquote><strong><p>1. The Problem</p><p>2. The Solution</p><blockquote><p>2.1. Analysis</p><blockquote><p>Overview</p><p>Details
+</p></blockquote><p>
+2.2: Design
+</p></blockquote><p>
+3. The Implementation
+</p></strong></blockquote><p /><p>It is usually better to preset a numbering scheme for each heading
+level, in a series of <a href='#Block pre-configuration'>configuration blocks</a>:
+</p><pre><code>    <strong>=config head1 :numbered
+    =config head2 :numbered
+    =config head3 :!numbered</strong>
+
+    =head1 The Problem
+    =head1 The Solution
+    =head2   Analysis
+    =head3     Overview
+    =head3     Details
+    =head2   Design
+    =head1 The Implementation
+</code></pre><p /><p>Alternatively, as a short-hand, if the first whitespace-delimited word
+in a heading consists of a single literal <code>#</code> character, the <code>#</code> is
+removed and the heading is treated as if it had a <code>:numbered</code> option:
+</p><pre><code>    =head1 # The Problem
+    =head1 # The Solution
+    =head2   # Analysis
+    =head3       Overview
+    =head3       Details
+    =head2   # Design
+    =head1 # The Implementation
+</code></pre><p /><p>Note that, even though renderers are not required to distinctly render
+more than the first four levels of heading, they <em>are</em> required to
+correctly honour arbitrarily nested numberings. That is:
+</p><pre><code>    =head6 # The Rescue of the Kobayashi Maru
+</code></pre><p /><p>should produce something like:
+</p><blockquote><p><strong>2.3.8.6.1.9. The Rescue of the Kobayashi Maru</strong>
+</p></blockquote><h3>Ordinary paragraph blocks
+</h3><p>Ordinary paragraph blocks consist of text that is to be formatted into
+a document at the current level of nesting, with whitespace
+squeezed, lines filled, and any special <a href='#Formatting codes'>inline mark-up</a>
+applied.
+</p><p>Ordinary paragraphs consist of one or more consecutive lines of text,
+each of which starts with a non-whitespace character at (virtual) column
+1. The paragraph is terminated by the first blank line or block
+directive. For example:
+</p><pre><code>    =head1 This is a heading block
+
+    This is an ordinary paragraph.
+    Its text  will   be     squeezed     and
+    short lines filled. It is terminated by
+    the first blank line.
+
+    This is another ordinary paragraph.
+    Its     text    will  also be squeezed and
+    short lines filled. It is terminated by
+    the trailing directive on the next line.
+        =head2 This is another heading block
+
+        This is yet another ordinary paragraph,
+        at the first virtual column set by the
+        previous directive
+</code></pre><p /><p>Within a <code>=pod</code>, <code>=item</code>, <code>=defn</code>, <code>=nested</code>, <code>=END</code>, or
+<a href='#Semantic blocks'>semantic</a> block, ordinary paragraphs do not require
+an explicit marker or delimiters, but there is also an explicit <code>para</code>
+marker (which may be used anywhere):
+</p><pre><code>     <strong>=para</strong>
+     This is an ordinary paragraph.
+     Its text  will   be     squeezed     and
+     short lines filled.
+</code></pre><p /><p>and likewise the longer <code>=for</code> and <code>=begin</code>/<code>=end</code> forms. For example:
+</p><pre><code>     <strong>=begin para</strong>
+         This is an ordinary paragraph.
+         Its text  will   be     squeezed     and
+         short lines filled.
+
+         This is I&lt;still&gt; part of the same paragraph,
+         which continues until an...
+     <strong>=end para</strong>
+</code></pre><p /><p>As the previous example implies, when any form of explicit <code>para</code> block
+is used, any whitespace at the start of each line is removed during rendering.
+In addition, within a delimited <code>=begin para</code>/<code>=end para</code> block, any
+blank lines are preserved.
+</p><h3>Code blocks
+</h3><p>Code blocks are used to specify pre-formatted text (typically source
+code), which should be rendered without rejustification, without
+whitespace-squeezing, and without recognizing any inline formatting
+codes. Code blocks also have an implicit <a href='#Nesting blocks'>nesting</a>
+associated with them. Typically these blocks are used to show examples
+of code, mark-up, or other textual specifications, and are rendered
+using a fixed-width font.
+</p><p>A code block may be implicitly specified as one or more lines of text,
+each of which starts with a whitespace character at the block's virtual
+left margin. The implicit code block is then terminated by a blank line.
+For example:
+</p><pre><code>    This ordinary paragraph introduces a code block:
+
+        $this = 1 * code('block');
+        $which.is_specified(:by&lt;indenting&gt;);
+</code></pre><p /><p>Implicit code blocks may only be used within <code>=pod</code>, <code>=item</code>, <code>=defn</code>,
+<code>=nested</code>, <code>=END</code>, or <a href='#Semantic blocks'>semantic</a> blocks.
+</p><p>There is also an explicit <code>=code</code> block (which can be specified within
+<em>any</em> other block type, not just <code>=pod</code>, <code>=item</code>, etc.):
+</p><pre><code>     The C&lt;loud_update()&gt; subroutine adds feedback:
+
+        <strong>=begin code</strong>
+
+        sub loud_update ($who, $status) {
+            say "$who -&gt; $status";
+
+            silent_update($who, $status);
+        }
+
+        <strong>=end code</strong>
+</code></pre><p /><p>As the previous example demonstrates, within an explicit <code>=code</code> block
+the code can start at the (virtual) left margin. Furthermore, lines that
+start with whitespace characters after that margin have subsequent
+whitespace preserved exactly (in addition to the implicit nesting of the
+code). Explicit <code>=code</code> blocks may also contain empty lines.
+</p><h4>Formatting within code blocks
+</h4><p>Although <code>=code</code> blocks automatically disregard all <a href='#Formatting codes'>formatting
+codes</a>, occasionally you may still need to specify
+some formatting within a code block. For example, you may wish
+to emphasize a particular keyword in an example (using a <code>B&lt;&gt;</code> code). Or
+you may want to indicate that part of the example is metasyntactic
+(using the <code>R&lt;&gt;</code> code). Or you might need to insert a non-ASCII
+character (using the <code>E&lt;&gt;</code> code).
+</p><p>You can specify a list of formatting codes that should still be
+recognized within a code block using the <code>:allow</code> option. The value of
+the <code>:allow</code> option must be a list of the (single-letter) names of one
+or more formatting codes. Those codes will then remain active inside the
+code block. For example:
+</p><pre><code>    =begin code :allow&lt; B R &gt;
+    sub demo {
+        B&lt;say&gt; 'Hello R&lt;name&gt;';
+    }
+    =end code
+</code></pre><p /><p>would be rendered:
+</p><pre><code>sub demo {
+    <strong>say</strong> 'Hello <var>name</var>';
+}
+</code></pre><p /><p>Note that the use of the <code>:allow</code> option also makes it possible
+for verbatim <a href='#Formatting codes'>formatting codes</a> (such as <code>C&lt;&gt;</code>
+and <code>V&lt;&gt;</code>) to <a href='#Pre-configuring formatting codes'>contain other codes as well</a>.
+</p><h3>I/O blocks
+</h3><p>Pod also provides blocks for specifying the input and output of programs.
+</p><p>The <code>=input</code> block is used to specify pre-formatted keyboard input,
+which should be rendered without rejustification or squeezing of whitespace.
+</p><p>The <code>=output</code> block is used to specify pre-formatted terminal or file
+output which should also be rendered without rejustification or
+whitespace-squeezing.
+</p><p>Note that, like <code>=code</code> blocks, both <code>=input</code> and <code>=output</code> blocks have an
+implicit level of nesting. They are also like <code>=code</code> blocks in that they
+are typically rendered in a fixed-width font, though ideally all three blocks
+would be rendered in distinct font/weight combinations (for example: regular
+serifed for code, bold sans-serif for input, and regular sans-serif for
+output).
+</p><p>Unlike <code>=code</code> blocks, both <code>=input</code> and <code>=output</code> blocks honour any
+nested formatting codes. This is particularly useful since a sample of
+input will often include prompts (which are, of course, output).
+Likewise a sample of output may contain the occasional interactive
+component. Pod provides <a href='#Example specifiers'>special formatting codes</a>
+(<code>K&lt;&gt;</code> and <code>T&lt;&gt;</code>) to indicate embedded input or output, so you can use
+the block type that indicates the overall purpose of the sample (i.e. is
+it demonstrating an input operation or an output sequence?) and then use
+the "contrasting" formatting code within the block.
+</p><p>For example, to include a small amount of input in a sample of output
+you could use the <code>K&lt;&gt;</code> formatting code:
+</p><pre><code>    =begin output
+        Name:    Baracus, B.A.
+        Rank:    Sgt
+        Serial:  1PTDF007
+
+        Do you want additional personnel details? <strong>K&lt;y&gt;</strong>
+
+        Height:  180cm/5'11"
+        Weight:  104kg/230lb
+        Age:     49
+
+        Print? <strong>K&lt;n&gt;</strong>
+    =end output
+</code></pre><h3>Lists
+</h3><p>Lists in Pod are specified as a series of contiguous <code>=item</code> blocks. No
+special "container" directives or other delimiters are required to
+enclose the entire list. For example:
+</p><pre><code>     The seven suspects are:
+
+     =item  Happy
+     =item  Dopey
+     =item  Sleepy
+     =item  Bashful
+     =item  Sneezy
+     =item  Grumpy
+     =item  Keyser Soze
+</code></pre><p /><p>List items have one implicit level of nesting:
+</p><blockquote><p>The seven suspects are:</p><ul><li>Happy
+</li><li>Dopey
+</li><li>Sleepy
+</li><li>Bashful
+</li><li>Sneezy
+</li><li>Grumpy
+</li><li>Keyser Soze
+</li></ul></blockquote><p /><p>Lists may be multi-level, with items at each level specified using the
+<code>=item1</code>, <code>=item2</code>, <code>=item3</code>, etc. blocks. Note that <code>=item</code> is just
+an abbreviation for <code>=item1</code>. For example:
+</p><pre><code>     =item1  Animal
+     =item2     Vertebrate
+     =item2     Invertebrate
+
+     =item1  Phase
+     =item2     Solid
+     =item2     Liquid
+     =item2     Gas
+     =item2     Chocolate
+</code></pre><p /><p>which would be rendered something like:
+</p><blockquote><p>&bull; Animal
+</p></blockquote><blockquote><blockquote><p>&ndash; Vertebrate
+</p></blockquote></blockquote><blockquote><blockquote><p>&ndash; Invertebrate
+</p></blockquote></blockquote><blockquote><p>&bull; Phase
+</p></blockquote><blockquote><blockquote><p>&ndash; Solid
+</p></blockquote></blockquote><blockquote><blockquote><p>&ndash; Liquid
+</p></blockquote></blockquote><blockquote><blockquote><p>&ndash; Gas
+</p></blockquote></blockquote><blockquote><blockquote><p>&ndash; Chocolate
+</p></blockquote></blockquote><p>Pod parsers must issue a warning if a "level-<var>N+1</var>" <code>=item</code> block
+(e.g. an <code>=item2</code>, <code>=item3</code>, etc.) appears anywhere except where there
+is a preceding "level-<var>N</var>" <code>=item</code> in the same surrounding block. That
+is, an <code>=item3</code> should only be specified if an <code>=item2</code> appears
+somewhere before it, and that <code>=item2</code> should itself only appear if
+there is a preceding <code>=item1</code>.
+</p><p>Note that item blocks within the same list are not physically nested.
+That is, lower-level items should <em>not</em> be specified inside
+higher-level items:
+</p><pre><code>    =comment WRONG...
+    =begin item1          --------------
+    The choices are:                    |
+    =item2 Liberty        ==&lt; Level 2   |==&lt;  Level 1
+    =item2 Death          ==&lt; Level 2   |
+    =item2 Beer           ==&lt; Level 2   |
+    =end item1            --------------
+</code></pre><pre><code>    =comment CORRECT...
+    =begin item1          ---------------
+    The choices are:                     |==&lt; Level 1
+    =end item1            ---------------
+    =item2 Liberty        ==================&lt; Level 2
+    =item2 Death          ==================&lt; Level 2
+    =item2 Beer           ==================&lt; Level 2
+</code></pre><h4>Ordered lists
+</h4><p>An item is part of an ordered list if the item has a <code>:numbered</code>
+configuration option:
+</p><pre><code>     =for item1 :numbered
+     Visito
+
+     =for item2 :numbered
+     Veni
+
+     =for item2 :numbered
+     Vidi
+
+     =for item2 :numbered
+     Vici
+</code></pre><p /><p>This would produce something like:
+</p><blockquote><p>1. Visito</p><blockquote><p>1.1. Veni</p><p>1.2. Vidi</p><p>1.3. Vici
+</p></blockquote></blockquote><p /><p>although the numbering scheme is entirely at the discretion of the
+renderer, so it might equally well be rendered:
+</p><blockquote><p>1. Visito</p><blockquote><p>1a. Veni</p><p>1b. Vidi</p><p>1c. Vici
+</p></blockquote></blockquote><p /><p>or even:
+</p><blockquote><p>A: Visito</p><blockquote><p>&nbsp;&nbsp;(i) Veni</p><p>&nbsp;(ii) Vidi</p><p>(iii) Vici
+</p></blockquote></blockquote><p /><p>Alternatively, if the first word of the item consists of a single <code>#</code>
+character, the item is treated as having a <code>:numbered</code> option:
+</p><pre><code>     =item1  # Visito
+     =item2     # Veni
+     =item2     # Vidi
+     =item2     # Vici
+</code></pre><p /><p>To specify an <em>unnumbered</em> list item that starts with a literal <code>#</code>, either
+make the octothorpe verbatim:
+</p><pre><code>    =item <strong>V&lt;#&gt;</strong> introduces a comment
+</code></pre><p /><p>or explicitly mark the item itself as being unnumbered:
+</p><pre><code>    =for item <strong>:!numbered</strong>
+    # introduces a comment
+</code></pre><p /><p>The numbering of successive <code>=item1</code> list items increments
+automatically, but is reset to 1 whenever any other kind of non-ambient
+Pod block appears between two <code>=item1</code> blocks. For example:
+</p><pre><code>    The options are:
+
+    =item1 # Liberty
+    =item1 # Death
+    =item1 # Beer
+
+    The tools are:
+
+    =item1 # Revolution
+    =item1 # Deep-fried peanut butter sandwich
+    =item1 # Keg
+</code></pre><p /><p>would produce:
+</p><blockquote><p>The options are:</p><blockquote><p>1. Liberty
+</p><p>2. Death
+</p><p>3. Beer
+</p></blockquote><p>
+The tools are:</p><blockquote><p>1. Revolution
+</p><p>2. Deep-fried peanut butter sandwich
+</p><p>3. Keg
+</p></blockquote></blockquote><p /><p>The numbering of nested items (<code>=item2</code>, <code>=item3</code>, etc.) only resets
+(to 1) when the higher-level item's numbering either resets or increments.
+</p><p>To prevent a numbered <code>=item1</code> from resetting after a non-item block,
+you can specify the <code>:continued</code> option:
+</p><pre><code>     =for item1
+     # Retreat to remote Himalayan monastery
+
+     =for item1
+     # Learn the hidden mysteries of space and time
+
+     I&lt;????&gt;
+
+     =for item1 <strong>:continued</strong>
+     # Prophet!
+</code></pre><p /><p>which produces:
+</p><blockquote><p>1. Retreat to remote Himalayan monastery
+</p><p>2. Learn the hidden mysteries of space and time
+</p><p><em>????</em>
+</p><p>3. Prophet!
+</p></blockquote><h4>Unordered lists
+</h4><p>List items that are not <code>:numbered</code> are treated as defining unordered
+lists. Typically, such lists are rendered with bullets. For example:
+</p><pre><code>    =item1 Reading
+    =item2 Writing
+    =item3 'Rithmetic
+</code></pre><p /><p>might be rendered:
+</p><blockquote><p>&bull;&nbsp;&nbsp;Reading
+</p></blockquote><blockquote><blockquote><p>&mdash;&nbsp;&nbsp;Writing
+</p></blockquote></blockquote><blockquote><blockquote><blockquote><p>&curren;&nbsp;&nbsp;'Rithmetic
+</p></blockquote></blockquote></blockquote><p>As with numbering styles, the bulleting strategy used for different levels
+within a nested list is entirely up to the renderer.
+</p><h4>Multi-paragraph list items
+</h4><p>Use the delimited form of the <code>=item</code> block to specify items that
+contain multiple paragraphs. For example:
+</p><pre><code>     Let's consider two common proverbs:
+
+     =begin item :numbered
+     I&lt;The rain in Spain falls mainly on the plain.&gt;
+
+     This is a common myth and an unconscionable slur on the Spanish
+     people, the majority of whom are extremely attractive.
+     =end item
+
+     =begin item :numbered
+     I&lt;The early bird gets the worm.&gt;
+
+     In deciding whether to become an early riser, it is worth
+     considering whether you would actually enjoy annelids
+     for breakfast.
+     =end item
+
+     As you can see, folk wisdom is often of dubious value.
+</code></pre><p /><p>which produces:
+</p><blockquote><p>Let's consider two common proverbs:</p><ol><li value='1'><p><em>The rain in Spain falls mainly on the plain.</em></p><p>This is a common myth and an unconscionable slur on the Spanish
+people, the majority of whom are extremely attractive.
+</p></li></ol><p>
+</p><ol><li value='2'><p><em>The early bird gets the worm.</em></p><p>In deciding whether to become an early riser, it is worth
+considering whether you would actually enjoy annelids
+for breakfast.
+</p></li></ol><p>
+As you can see, folk wisdom is often of dubious value.
+</p></blockquote><h4>Definition lists
+</h4><p>To create term/definition lists, use a <code>=defn</code> block. This is
+similar in effect to an <code>=item</code> block, in that a series of <code>=defn</code>
+blocks implicitly defines a list (but which might then be rendered into
+HTML using C«&lt;DL&gt;...&lt;/DL&gt;» tags, rather than C«&lt;UL&gt;...&lt;/UL&gt;» tags)
+</p><p>The first non-blank line of content is treated as a term being defined,
+and the remaining content is treated as the definition for the term.
+For example:
+</p><pre><code>    =defn  MAD
+    Affected with a high degree of intellectual independence.
+
+    =defn  MEEKNESS
+    Uncommon patience in planning a revenge that is worth while.
+
+    =defn
+    MORAL
+    Conforming to a local and mutable standard of right.
+    Having the quality of general expediency.
+</code></pre><p /><p>Like other kinds of list items, definitions can be numbered, using either an
+option or a leading <code>#</code>:
+</p><pre><code>    =for defn <strong>:numbered</strong>
+    SELFISH
+    Devoid of consideration for the selfishness of others.
+
+    =defn <strong>#</strong> SUCCESS
+    The one unpardonable sin against one's fellows.
+</code></pre><h3>Nesting blocks
+</h3><p>Any block can be nested by specifying a <code>:nested</code> option on it:
+</p><pre><code>    =begin para <strong>:nested</strong>
+        We are all of us in the gutter,E&lt;NL&gt;
+        but some of us are looking at the stars!
+    =end para
+</code></pre><p /><p>However, qualifying each nested paragraph individually quickly becomes
+tedious if there are many in a sequence, or if multiple levels of
+nesting are required:
+</p><pre><code>    =begin para <strong>:nested</strong>
+        We are all of us in the gutter,E&lt;NL&gt;
+        but some of us are looking at the stars!
+    =end para
+    =begin para <strong>:nested(2)</strong>
+            -- Oscar Wilde
+    =end para
+</code></pre><p /><p>So Pod provides a <code>=nested</code> block that marks all its contents as being
+nested:
+</p><pre><code>    <strong>=begin nested</strong>
+    We are all of us in the gutter,E&lt;NL&gt;
+    but some of us are looking at the stars!
+        <strong>=begin nested</strong>
+        -- Oscar Wilde
+        <strong>=end nested</strong>
+    <strong>=end nested</strong>
+</code></pre><p /><p>Nesting blocks can contain any other kind of block, including implicit
+paragraph and code blocks. Note that the relative physical indentation
+of the blocks plays no role in determining their ultimate nesting.
+The preceding example could equally have been specified:
+</p><pre><code>    <strong>=begin nested</strong>
+    We are all of us in the gutter,E&lt;NL&gt;
+    but some of us are looking at the stars!
+    <strong>=begin nested</strong>
+    -- Oscar Wilde
+    <strong>=end nested</strong>
+    <strong>=end nested</strong>
+</code></pre><h3>Tables
+</h3><p>Simple tables can be specified in Pod using a <code>=table</code> block.
+The table may be given an associated description or title using the
+<code>:caption</code> option.
+</p><p>Columns are separated by two or more consecutive whitespace characters,
+or by a vertical line (<code>|</code>) or a border intersection (<code>+</code>), either of
+which must be separated from any content by at least one whitespace
+character.
+</p><p>Rows can be specified in one of two ways: either one row per line, with
+no separators; or multiple lines per row with explicit horizontal
+separators (whitespace, intersections (<code>+</code>), or horizontal lines: <code>-</code>,
+<code>=</code>, <code>_</code>) between <em>every</em> row. Either style can also have an
+explicitly separated header row at the top.
+</p><p>Each individual table cell is separately formatted, as if it were a
+nested <code>=para</code>.
+</p><p>This means you can create tables compactly, line-by-line:
+</p><pre><code>    =table
+        The Shoveller   Eddie Stevens     King Arthur's singing shovel
+        Blue Raja       Geoffrey Smith    Master of cutlery
+        Mr Furious      Roy Orson         Ticking time bomb of fury
+        The Bowler      Carol Pinnsler    Haunted bowling ball
+</code></pre><p /><p>or line-by-line with multi-line headers:
+</p><pre><code>    =table
+        Superhero     | Secret          |
+                      | Identity        | Superpower
+        ==============|=================|================================
+        The Shoveller | Eddie Stevens   | King Arthur's singing shovel
+        Blue Raja     | Geoffrey Smith  | Master of cutlery
+        Mr Furious    | Roy Orson       | Ticking time bomb of fury
+        The Bowler    | Carol Pinnsler  | Haunted bowling ball
+</code></pre><p /><p>or with multi-line headers <em>and</em> multi-line data:
+</p><pre><code>    =begin table :caption('The Other Guys')
+
+                        Secret
+        Superhero       Identity          Superpower
+        =============   ===============   ===================
+        The Shoveller   Eddie Stevens     King Arthur's
+                                          singing shovel
+
+        Blue Raja       Geoffrey Smith    Master of cutlery
+
+        Mr Furious      Roy Orson         Ticking time bomb
+                                          of fury
+
+        The Bowler      Carol Pinnsler    Haunted bowling ball
+
+    =end table
+</code></pre><h3>Named blocks
+</h3><p>Blocks whose names contain at least one uppercase and one lowercase
+letter are assumed to be destined for specialized renderers or parser
+plug-ins. For example:
+</p><pre><code>    =begin Xhtml
+    &lt;object type="video/quicktime" data="onion.mov"&gt;
+    =end Xhtml
+</code></pre><p /><p>or:
+</p><pre><code>    =Image http://www.perlfoundation.org/images/perl_logo_32x104.png
+</code></pre><p /><p>Named blocks are converted by the Pod parser to block objects;
+specifically, to objects of a subclass of the standard
+<code>Pod6::Block::Named</code> class.
+</p><p>For example, the blocks of the previous example would be converted to
+objects of the classes <code>Pod6::Block::Named::Xhtml</code> and
+<code>Pod6::Block::Named::Image</code> respectively. Both of those classes
+would be automatically created as subclasses of the
+<code>Pod6::Block::Named</code> class (unless they were already defined in a module
+loaded via some prior <a href='#How Pod is parsed and processed'><code>DOC use</code></a>.
+</p><p>The resulting object's <code>.typename</code> method retrieves the short name of
+the block type: <code>'Xhtml'</code>, <code>'Image'</code>, etc. The object's <code>.config</code>
+method retrieves the list of configuration options (if any). The
+object's <code>.contents</code> method retrieves a list of the block's
+verbatim contents.
+</p><p>Named blocks for which no explicit class has been defined or loaded are
+usually not rendered by the standard renderers.
+</p><p>Note that all block names consisting entirely of lowercase or entirely of
+uppercase letters are reserved. See <a href='#Semantic blocks'>#Semantic blocks</a>.
+</p><h3>Pod comments
+</h3><p>All Pod blocks are intrinsically Perl 6 comments, but
+<dfn>Pod comments</dfn> are comments that Pod renderers ignore too.
+That is, they are Pod blocks that are never to be rendered by any
+renderer. They are, of course, still included in any internal Pod
+representation, and are accessible via the Pod API...and via the
+<code>$=POD</code> variable within a Perl 6 program.
+</p><p>Comments are useful for meta-documentation (documenting the documentation):
+</p><pre><code>    =comment Add more here about the algorithm
+</code></pre><p /><p>and for temporarily removing parts of a document:
+</p><pre><code>    =item # Retreat to remote Himalayan monastery
+
+    =item # Learn the hidden mysteries of space and time
+
+    =item # Achieve enlightenment
+
+    <strong>=begin comment</strong>
+    =item # Prophet!
+    <strong>=end comment</strong>
+</code></pre><p /><p>Note that, since the Perl interpreter never executes embedded Pod
+blocks, <code>comment</code> blocks can also be used as an alternative form of
+nestable block comments in Perl 6:
+</p><pre><code>    =begin comment
+    for my $file (@files) {
+        system("rm -rf $file");
+    }
+    =end comment
+</code></pre><h3>The <code>=END</code> block
+</h3><p>The <code>=END</code> block is special in that all three of its forms
+(<a href='#Delimited blocks'>delimited</a>, <a href='#Paragraph blocks'>paragraph</a>, and
+<a href='#Abbreviated blocks'>abbreviated</a>) are terminated only by the end of the
+current file. That is, neither <code>=END</code> nor <code>=for END</code> are terminated by the
+next blank line, and <code>=end END</code> has no effect within a <code>=begin END</code> block.
+A warning is issued if an explicit <code>=end END</code> appears within a document.
+</p><p>An <code>=END</code> block indicates the end-point of any ambient material within
+the document. This means that the parser will treat all the remaining
+text in the file as Pod, even if it is not inside an explicit block. In
+other words, apart from its special end-of-file termination behaviour,
+an <code>=END</code> block is in all other respects identical to a <code>=pod</code> block.
+</p><h3>Data blocks
+</h3><p>Named Pod blocks whose typename is <code>DATA</code> are the Perl 6 equivalent of
+the Perl 5 <code>__DATA__</code> section. The difference is that <code>=DATA</code> blocks are
+just regular Pod blocks and may appear anywhere within a source file, and as
+many times as required. Synopsis 2 describes the new Perl 6 interface
+for accessing inline data of this type.
+</p><p><code>=DATA</code> blocks are never rendered by the standard Pod renderers.
+</p><h3>Semantic blocks
+</h3><p>All uppercase block typenames except <code>=END</code> and <code>=DATA</code> are reserved
+for specifying standard documentation, publishing, or source components.
+In particular, all the standard components found in Perl and manpage
+documentation have reserved uppercase typenames.
+</p><p>Standard semantic blocks include:
+</p><pre><code>    =NAME
+    =VERSION
+    =SYNOPSIS
+    =DESCRIPTION
+    =USAGE
+    =INTERFACE
+    =METHOD
+    =SUBROUTINE
+    =OPTION
+    =DIAGNOSTIC
+    =ERROR
+    =WARNING
+    =DEPENDENCY
+    =BUG
+    =SEE-ALSO
+    =ACKNOWLEDGEMENT
+    =AUTHOR
+    =COPYRIGHT
+    =DISCLAIMER
+    =LICENCE
+    =LICENSE
+    =TITLE
+    =SECTION
+    =CHAPTER
+    =APPENDIX
+    =TOC
+    =INDEX
+    =FOREWORD
+    =SUMMARY
+</code></pre><p /><p>The plural forms of each of these keywords are also reserved, and are
+aliases for the singular forms.
+</p><p>Most of these blocks would typically be used in their full delimited forms:
+</p><pre><code>    =begin SYNOPSIS
+        use Magic::Parser
+
+        my Magic::Parser $parser .= new();
+
+        my $tree = $parser.parse($fh);
+    =end SYNOPSIS
+</code></pre><p /><p>Semantic blocks can be considered to be variants of the <code>=head1</code> block
+in most respects (and most renderers will treat them as such). The main
+difference is that, in a <code>=head1</code> block, the heading is the contents of
+the block; whereas, in a semantic block, the heading is derived from the
+typename of the block itself and the block contents are instead treated as
+the <code>=para</code> or <code>=code</code> block(s) belonging to the heading.
+</p><p>The use of these special blocks is not required; you can still just write:
+</p><pre><code>    =head1 SYNOPSIS
+    =begin code
+        use Magic::Parser
+
+        my Magic::Parser $parser .= new();
+
+        my $tree = $parser.parse($fh);
+    =end code
+</code></pre><p /><p>However, using the keywords adds semantic information to the
+documentation, which may assist various renderers, summarizers, coverage
+tools, document refactorers, and other utilities. This is because a
+semantic block <em>encloses</em> the text it controls (unlike a <code>=head1</code>,
+which merely precedes its corresponding text), so using semantic blocks
+produces a more explicitly structured document.
+</p><p>Note that there is no requirement that semantic blocks be rendered in
+a particular way (or at all). Specifically, it is not necessary to
+preserve the capitalization of the keyword. For example, the
+<code>=SYNOPSIS</code> block of the preceding example might be rendered like so:
+</p><blockquote><p><strong>3.&nbsp;&nbsp;<em>Synopsis</em></strong></p><pre><code>    use Perl6::Magic::Parser;
+
+    my $rep = Perl6::Magic::Parser.parse($fh, :all_pod);
+</code></pre></blockquote><h2>Formatting codes
+</h2><p>Formatting codes provide a way to add inline mark-up to a piece of text
+within the contents of (most types of) Pod block (including all
+<a href='#Declarator blocks'>declarator blocks</a>). Formatting codes are
+themselves a type of block, and may nest other formatting codes.
+other type of block (most often, other formatting codes). In particular,
+you can nest comment blocks in the middle of a formatting code:
+</p><pre><code>    <code>B</code>&lt;I shall say this loudly
+    <strong>Z&lt;and repeatedly&gt;</strong>
+    and with emphasis.&gt;
+</code></pre><p /><p>All Pod formatting codes consist of a single capital letter followed
+immediately by a set of angle brackets. The brackets contain the text or
+data to which the formatting code applies. You can use a set of single
+angles (C«&lt;...&gt;»), a set of double angles (<code>«...»</code>), or multiple
+single-angles (C«&lt;&lt;&lt;...&gt;&gt;&gt;»).
+</p><p>Within angle delimiters, you cannot use sequences of the same angle
+characters that are longer than the delimiters:
+</p><pre><code>    =comment
+        These are errors...
+
+    C&lt; $fooB«&lt;&lt;»barB«&gt;&gt;» &gt;
+    The Perl 5 heredoc syntax was: C&lt; B«&lt;&lt;»END_MARKER &gt;
+</code></pre><p /><p>You <em>can</em> use sequences of angles that are the same length as
+the delimiters, but they must be balanced. For example:
+</p><pre><code>    C&lt;  $foo&lt;bar&gt;   &gt;
+    C&lt;&lt; $foo&lt;&lt;bar&gt;&gt; &gt;&gt;
+</code></pre><p>If you need an unbalanced angle, either use different delimiters:
+</p><pre><code>    C<strong>«</strong>$foo &lt; $bar<strong>»</strong>
+    The Perl 5 heredoc syntax was: C<strong>«</strong> &lt;&lt;END_MARKER <strong>»</strong>
+</code></pre><p /><p>or delimiters with more consecutive angles than your text contains:
+</p><pre><code>    CB«&lt;&lt;»$foo &lt; $barB«&gt;&gt;»
+    The Perl 5 heredoc syntax was: CB«&lt;&lt;&lt;» &lt;&lt;END_MARKER B«&gt;&gt;&gt;»
+</code></pre><p /><p>A formatting code ends at the matching closing angle bracket(s), or at
+the end of the enclosing block or formatting code in which the opening
+angle bracket was specified, whichever comes first (this includes paragraph
+and abbreviated blocks, ending with blank a line). Pod parsers are
+required to issue a warning whenever a formatting code is terminated by
+the end of an outer block rather than by its own delimiter (unless the
+user explicitly disables the warning).
+</p><h3>Significance indicators
+</h3><p>Pod provides three formatting codes that flag their contents with
+increasing levels of significance:
+</p><ul><li>The <code>U&lt;&gt;</code> formatting code specifies that the contained text is
+<strong>unusual</strong> or distinctive; that it is of <em>minor significance</em>. Typically
+such content would be rendered in an underlined style.
+</li><li>The <code>I&lt;&gt;</code> formatting code specifies that the contained text is
+<strong>important</strong>; that it is of <em>major significance</em>. Such content would
+typically be rendered in italics or in <code> &lt;em</code>...&lt;em/&gt; &gt; tags
+</li><li>The <code>B&lt;&gt;</code> formatting code specifies that the contained text is the
+<strong>basis</strong> or focus of the surrounding text; that it is of <em>fundamental
+significance</em>. Such content would typically be rendered in a bold style or
+in <code> &lt;strong</code>...&lt;/strong&gt; &gt; tags.
+</li></ul><h3>Definitions
+</h3><p>The <code>D&lt;&gt;</code> formatting code indicates that the contained text is a
+<strong>definition</strong>, introducing a term that the adjacent text
+elucidates. It is the inline equivalent of a <code>=defn</code> block.
+For example:
+</p><pre><code>    There ensued a terrible moment of <strong>D&lt;coyotus interruptus&gt;</strong>: a brief
+    suspension of the effects of gravity, accompanied by a sudden
+    to-the-camera realisation of imminent downwards acceleration.
+</code></pre><p /><p>A definition may be given synonyms, which are specified after a vertical bar
+and separated by semicolons:
+</p><pre><code>    A <strong>D&lt;formatting code|formatting codes;formatters&gt;</strong> provides a way
+    to add inline mark-up to a piece of text.
+</code></pre><p /><p>A definition would typically be rendered in italics or <code> &lt;dfn</code>...&lt;/dfn&gt; &gt;
+tags and will often be used as a link target for subsequent instances of the
+term (or any of its specified synonyms) within a hypertext.
+</p><h3>Example specifiers
+</h3><p>Pod provides formatting codes for specifying inline examples of input,
+output, code, and metasyntax:
+</p><ul><li>The <code>T&lt;&gt;</code> formatting code specifies that the contained text is
+<strong>terminal output</strong>; that is: something that a program might print out.
+Such content would typically be rendered in a <samp>fixed-width font</samp> or with
+<code> &lt;samp</code>...&lt;/samp&gt; &gt; tags. The contents of a <code>T&lt;&gt;</code> code are always
+<a href='#Space-preserving text'>space-preserved</a> (as if they had an implicit
+<code>S&lt;...&gt;</code> around them). The <code>T&lt;&gt;</code> code is the inline equivalent of the
+<code>=output</code> block.
+</li><li>The <code>K&lt;&gt;</code> formatting code specifies that the contained text is
+<strong>keyboard input</strong>; that is: something that a user might type in. Such
+content would typically be rendered in a <kbd>fixed-width font</kbd> (preferably a
+different font from that used for the <code>T&lt;&gt;</code> formatting code) or with
+<code> &lt;kbd</code>...&lt;/kbd&gt; &gt; tags. The contents of a <code>K&lt;&gt;</code> code are always
+<a href='#Space-preserving text'>space-preserved</a>. The <code>K&lt;&gt;</code> code is the
+inline equivalent of the <code>=input</code> block.
+</li><li><p>The <code>C&lt;&gt;</code> formatting code specifies that the contained text is <strong>code</strong>;
+that is, something that might appear in a program or specification. Such
+content would typically be rendered in a <code>fixed-width font</code> (preferably
+a different font from that used for the <code>T&lt;&gt;</code> or <code>K&lt;&gt;</code> formatting
+codes) or with <code> &lt;code</code>...&lt;/code&gt; &gt; tags. The contents of a <code>C&lt;&gt;</code> code
+are <a href='#Space-preserving text'>space-preserved</a> and <a href='#Verbatim text'>verbatim</a>.
+The <code>C&lt;&gt;</code> code is the inline equivalent of the <code>=code</code> block.</p><p>To include other formatting codes in a <code>C&lt;&gt;</code> code, you can lexically
+<a href='#Block pre-configuration'>reconfigure</a> it:</p></li><pre><code>    =begin para
+    <strong>=config C&lt;&gt; :allow&lt;E I</strong>&gt;
+    Perl 6 makes extensive use of the C&lt;B&lt;E&lt;laquo&gt;&gt;&gt; and C&lt;B&lt;E&lt;raquo&gt;&gt;&gt;
+    characters, for example, in a hash look-up:
+    C&lt;%hashB&lt;I&lt;E&lt;laquo&gt;&gt;&gt;keyB&lt;I&lt;E&lt;raquo&gt;&gt;&gt;&gt;
+    =end para
+</code></pre><li>
+To enable entities in <em>every</em> <code>C&lt;...&gt;</code> put a <code>=config C&lt;&gt; :allow&lt;E</code>&gt;
+at the top of the document
+</li><li>The <code>R&lt;&gt;</code> formatting code specifies that the contained text is a
+<strong>replaceable item</strong>, a placeholder, or a metasyntactic variable. It is
+used to indicate a component of a syntax or specification that should
+eventually be replaced by an actual value. For example:
+
+</li><pre><code>    The basic C&lt;ln&gt; command is: C&lt;ln&gt; <strong>R&lt;source_file&gt; R&lt;target_file&gt;</strong>
+</code></pre><li>
+or:
+
+</li><pre><code>    Then enter your details at the prompt:
+
+    =for input
+        Name: <strong>R&lt;your surname&gt;</strong>
+          ID: <strong>R&lt;your employee number&gt;</strong>
+        Pass: <strong>R&lt;your 36-letter password&gt;</strong>
+</code></pre><li>
+Typically replaceables would be rendered in <var>fixed-width italics</var> or with
+<code> &lt;var</code>...&lt;/var&gt; &gt; tags. The font used should be the same as that used for
+the <code>C&lt;&gt;</code> code, unless the <code>R&lt;&gt;</code> is inside a <code>K&lt;&gt;</code> or <code>T&lt;&gt;</code> code (or
+the equivalent <code>=input</code> or <code>=output</code> blocks), in which case their
+respective fonts should be used.
+</li></ul><h3>Verbatim text
+</h3><p>The <code>V&lt;&gt;</code> formatting code treats its entire contents as being <strong>verbatim</strong>,
+disregarding every apparent formatting code within it. For example:
+</p><pre><code>    The B&lt;V&lt; V&lt;&gt; &gt;&gt; formatting code disarms other codes
+    such as V&lt; I&lt;&gt;, C&lt;&gt;, B&lt;&gt;, and M&lt;&gt; &gt;.
+</code></pre><p>Note, however that the <code>V&lt;&gt;</code> code only changes the way its
+contents are parsed, <em>not</em> the way they are rendered. That is, the
+contents are still wrapped and formatted like plain text, and the
+effects of any formatting codes surrounding the <code>V&lt;&gt;</code> code
+are still applied to its contents. For example the previous example
+is rendered:
+</p><blockquote><p>The <strong><code> <code /> </code></strong> formatting code disarms other codes
+such as <code> <em />, <code />, <strong />, and <M /> </code>.
+</p></blockquote><p>You can prespecify formatting codes that remain active within
+a <code>V&lt;&gt;</code> code, using the <a href='#Formatting within code blocks'><code>:allow</code></a>
+option.
+</p><h3>Inline comments
+</h3><p>The <code>Z&lt;&gt;</code> formatting code indicates that its contents constitute a
+<strong>zero-width comment</strong>, which should not be rendered by any renderer.
+For example:
+</p><pre><code>    The "exeunt" command <strong>Z&lt;Think about renaming this command?&gt;</strong> is used
+    to quit all applications.
+</code></pre><p /><p>In Perl 5 POD, the <code>Z&lt;&gt;</code> code was widely used to break up text that would
+otherwise be considered mark-up:
+</p><pre><code>    In Perl 5 POD, the Z<strong>Z&lt;&gt;</strong>&lt;&gt; code was widely used to break up text
+    that would otherwise be considered mark-up.
+</code></pre><p /><p>That technique still works, but it's now easier to accomplish the same goal
+using a verbatim formatting code:
+</p><pre><code>    In Perl 5 POD, the B«V&lt;V&lt;Z&lt;&gt;&gt;&gt;» code was widely used to break up text
+    that would otherwise be considered mark-up.
+</code></pre><p /><p>Moreover, the <code>C&lt;&gt;</code> code automatically treats its contents as being
+verbatim, which often eliminates the need for the <code>V&lt;&gt;</code> as well:
+</p><pre><code>    In Perl 5 POD, the B«V&lt;C&lt;Z&lt;&gt;&gt;&gt;» code was widely used to break up text
+    that would otherwise be considered mark-up.
+</code></pre><p /><p>The <code>Z&lt;&gt;</code> formatting code is the inline equivalent of a
+<a href='#Comments'><code>=comment</code> block</a>.
+</p><h4>Comments as category markers
+</h4><p>Most Pod renderers will provide a mechanism that allows particular Pod
+blocks to be explicitly excluded or included if they match a particular
+pattern. For example, a renderer might be instructed to omit any block
+that contains the pattern <code>/CONFIDENTIAL/</code>. Corresponding "invisibility
+markers" can then be placed inside <code>Z&lt;&gt;</code> comments within any block that
+should not normally be displayed. For example:
+</p><pre><code>    class Widget is Bauble
+    {
+        has $.things; #= a collection of other stuff
+        #={ Z&lt;CONFIDENTIAL&gt;
+            This variable needs to be replaced for political reasons
+        }
+    }
+</code></pre><h3>Links
+</h3><p>The <code>L&lt;&gt;</code> code is used to specify all kinds of links, filenames, citations,
+and cross-references (both internal and external).
+</p><p>A link specification consists of a <em>scheme specifier</em> terminated by a
+colon, followed by an <em>external address</em> (in the scheme's preferred
+syntax), followed by an <em>internal address</em> (again, in the scheme's syntax).
+All three components are optional, though at least one must be present in
+any link specification.
+</p><p>Usually, in schemes where an internal address makes sense, it will be
+separated from the preceding external address by a <code>#</code>, unless the
+particular addressing scheme requires some other syntax. When new
+addressing schemes are created specifically for Pod it is strongly
+recommended that <code>#</code> be used to mark the start of internal addresses.
+</p><p>Standard schemes include:
+</p><dl><dt><strong><code>http:</code> and <code>https:</code></strong></dt><dd>
+A standard web URL. For example:
+
+</dd><pre><code>    This module needs the LAME library
+    (available from L&lt;B&lt;http://www.mp3dev.org/mp3/&gt;&gt;)
+</code></pre><dt><strong /></dt><dd>If the link does not start with <code>//</code> it is treated as being relative to
+the location of the current document:
+
+</dd><pre><code>    See also: L&lt;B&lt;http:tutorial/faq.html&gt;&gt; and
+    L&lt;B&lt;http:../examples/index.html&gt;&gt;
+</code></pre><dt><strong /></dt><dd>
+</dd><dt><strong><code>file:</code></strong></dt><dd>
+A filename on the local system. For example:
+
+</dd><pre><code>    Next, edit the global config file (that is, either
+    L&lt;B&lt;file:/usr/local/lib/.configrc&gt;&gt; or L&lt;B&lt;file:~/.configrc&gt;&gt;).
+</code></pre><dt><strong /></dt><dd>Filenames that don't begin with a <code>/</code> or a <code>~</code> are relative
+to the current document's location:
+
+</dd><pre><code>    Then, edit the local config file (that is, either
+    L&lt;B&lt;file:.configrc&gt;&gt; or L&lt;B&lt;file:CONFIG/.configrc&gt;&gt;.
+</code></pre><dt><strong /></dt><dd>
+</dd><dt><strong><code>mailto:</code></strong></dt><dd>
+An email address. Typically, activating this type of link invokes a mailer.
+For example:
+
+</dd><pre><code>    Please forward bug reports to L&lt;B&lt;mailto:devnull@rt.cpan.org&gt;&gt;
+</code></pre><dt><strong /></dt><dd>
+</dd><dt><strong><code>man:</code></strong></dt><dd>
+A link to the system manpages. For example:
+
+</dd><pre><code>    This module implements the standard
+    Unix L&lt;B&lt;man:find(1)&gt;&gt; facilities.
+</code></pre><dt><strong /></dt><dd>
+</dd><dt><strong><code>doc:</code></strong></dt><dd>
+A link to some other documentation, typically a module or part of the
+core documentation; things that would normally be read with <code>perl --doc</code>.
+For example:
+
+</dd><pre><code>    You may wish to use L&lt;B&lt;doc:Data::Dumper&gt;&gt; to
+    view the results. See also: L&lt;B&lt;doc:perldata&gt;&gt;.
+</code></pre><dt><strong /></dt><dd>
+</dd><dt><strong><code>defn:</code></strong></dt><dd>
+A link to the <a href='#Definition lists'>block-form</a> or <a href='#Definitions'>inline</a>
+definition of the specified term within the current document. For example:
+
+</dd><pre><code>    He was highly prone to <strong>D&lt;lexiphania&gt;</strong>: an unfortunate proclivity
+    for employing grandiloquisms (for example, words such as "proclivity",
+    "grandiloquism", and indeed "lexiphania").
+
+    <strong>=defn glossoligation</strong>
+    Restraint of the tongue (voluntary or otherwise)
+</code></pre><dt><strong /></dt><dd>and later, to link back to the definition
+
+</dd><pre><code>To treat his chronic L&lt;B&lt;defn:lexiphania&gt;&gt; the doctor prescribed an
+immediate L&lt;B&lt;defn:glossoligation&gt;&gt; or, if that proved ineffective,
+a complete cephalectomy.
+</code></pre><dt><strong /></dt><dd>
+</dd><dt><strong><code>isbn:</code> and <code>issn:</code></strong></dt><dd>
+The International Standard Book Number or International Standard
+Serial Number for a publication. For example:
+
+</dd><pre><code>    The Perl Journal was a registered
+    serial publication (L&lt;B&lt;issn:1087-903X&gt;&gt;)
+</code></pre><dt><strong /></dt><dd>
+</dd></dl><p /><p>To refer to a specific section within a webpage, manpage, or Pod
+document, add the name of that section after the main link, separated by
+a <code>#</code>. For example:
+</p><pre><code>    Also see: L&lt;man:bash(1)B&lt;#Compound Commands&gt;&gt;,
+    L&lt;doc:perlsynB&lt;#For Loops&gt;&gt;, and
+    L&lt;http://dev.perl.org/perl6/syn/S04.htmlB&lt;#The_for_statement&gt;&gt;
+</code></pre><p /><p>To refer to a section of the current document, omit the external address:
+</p><pre><code>    This mechanism is described under L&lt;doc:B&lt;#Special Features&gt;&gt; below.
+</code></pre><p /><p>The scheme name may also be omitted in that case:
+</p><pre><code>    This mechanism is described under L&lt;B&lt;#Special Features&gt;&gt; below.
+</code></pre><p /><p>Normally a link is presented as some rendered version of the link
+specification itself. However, you can specify an alternate
+presentation by prefixing the link with the desired text and a
+vertical bar. Whitespace is not significant on either side of the bar.
+For example:
+</p><pre><code>    This module needs the L&lt;B&lt;LAME library|&gt;http://www.mp3dev.org/mp3/&gt;.
+
+    You could also write the code
+    L&lt;B&lt;in Latin |&gt; doc:Lingua::Romana::Perligata&gt;
+
+    His L&lt;B&lt;lexiphanic|&gt;defn:lexiphania&gt;&gt; tendencies were, alas, incurable.
+</code></pre><h3>Placement links
+</h3><p>A second kind of link&mdash;the <code>P&lt;&gt;</code> or <strong>placement link</strong>&mdash;works
+in the opposite direction. Instead of directing focus out to another
+document, it allows you to assimilate the contents of another document
+into your own.
+</p><p>In other words, the <code>P&lt;&gt;</code> formatting code takes a URI and (where possible)
+inserts the contents of the corresponding document inline in place of the
+code itself.
+</p><p><code>P&lt;&gt;</code> codes are handy for breaking out standard elements of
+your documentation set into reusable components that can then be
+incorporated directly into multiple documents. For example:
+</p><pre><code>    =COPYRIGHT
+    P&lt;file:/shared/docs/std_copyright.pod&gt;
+</code></pre><pre><code>    =DISCLAIMER
+    P&lt;http://www.MegaGigaTeraPetaCorp.com/std/disclaimer.txt&gt;
+</code></pre><p>might produce:
+</p><blockquote><p><strong>Copyright</strong></p><p>This document is copyright (c) MegaGigaTeraPetaCorp, 2006. All rights reserved.</p><p><strong>Disclaimer</strong></p><p>ABSOLUTELY NO WARRANTY IS IMPLIED. NOT EVEN OF ANY KIND. WE HAVE SOLD
+YOU THIS SOFTWARE WITH NO HINT OF A SUGGESTION THAT IT IS EITHER USEFUL
+OR USABLE. AS FOR GUARANTEES OF CORRECTNESS...DON'T MAKE US LAUGH! AT
+SOME TIME IN THE FUTURE WE MIGHT DEIGN TO SELL YOU UPGRADES THAT PURPORT
+TO ADDRESS SOME OF THE APPLICATION'S MANY DEFICIENCIES, BUT NO PROMISES
+THERE EITHER. WE HAVE MORE LAWYERS ON STAFF THAN YOU HAVE TOTAL
+EMPLOYEES, SO DON'T EVEN *THINK* ABOUT SUING US. HAVE A NICE DAY.
+</p></blockquote><p /><p>If a renderer cannot find or access the external data source for a
+placement link, it must issue a warning and render the URI directly in
+some form, possibly as an outwards link. For example:
+</p><blockquote><p><strong>Copyright</strong></p><p>See: std_copyright.pod</p><p><strong>Disclaimer</strong></p><p>See: <a href='http://www.MegaGigaTeraPetaCorp.com/std/disclaimer.txt'>http://www.MegaGigaTeraPetaCorp.com/std/disclaimer.txt</a>
+</p></blockquote><p /><p>You can use any of the following URI forms (see <a href='#Links'>#Links</a>) in a
+placement link:
+</p><ul><li><code>http:</code> and <code>https:</code>
+</li><li><code>file:</code>
+</li><li><code>man:</code>
+</li><li><code>doc:</code>
+</li><li><code>toc:</code>
+</li></ul><p>The <code>toc:</code> form is a special pseudo-scheme that inserts a table of contents
+in place of the <code>P&lt;&gt;</code> code. After the colon, list the block types that you
+wish to include in the table of contents. For example, to place a table of
+contents listing only top- and second-level headings:
+</p><pre><code>    P&lt;toc: head1 head2&gt;
+</code></pre><p>To place a table of contents that lists the top four levels of headings, as
+well as any tables:
+</p><pre><code>    P&lt;toc: head1 head2 head3 head4 table&gt;
+</code></pre><p>To place a table of diagrams (assuming a user-defined <code>Diagram</code> block):
+</p><pre><code>    P&lt;toc: Diagram&gt;
+</code></pre><p>Note also that, for <code>P&lt;toc:...&gt;</code>, all <a href='#Semantic'>semantic blocks</a> are treated as equivalent to <code>head1</code> headings, and the
+<code>=item1</code>/<code>=item</code> equivalence is preserved.
+</p><p>A document may have as many <code>P&lt;toc:...&gt;</code> placements as necessary.
+</p><h3>Alias placements
+</h3><p>A variation on placement codes is the <code>A&lt;&gt;</code> code, which is replaced
+by the contents of the named alias or object specified within its delimiters.
+For example:
+</p><pre><code>    =alias PROGNAME    Earl Irradiatem Eventually
+    =alias VENDOR      4D Kingdoms
+    =alias TERMS_URL   L&lt;http://www.4dk.com/eie&gt;
+
+    The use of A&lt;PROGNAME&gt; is subject to the terms and conditions
+    laid out by A&lt;VENDOR&gt;, as specified at A&lt;TERMS_URL&gt;.
+</code></pre><p /><p>Any compile-time Perl 6 object that starts with a sigil is automatically
+available within an alias placement as well. Unless the object is already
+a string type, it is converted to a string during document-generation by
+implicitly calling <code>.perl</code> on it.
+</p><p>So, for example, a document can refer to its own filename (as
+<code>A&lt;$?FILE&gt;</code>), or to the subroutine inside which the specific Pod is nested
+(as <code>A&lt;$?ROUTINE&gt;</code>), or to the current class (as <code>A&lt;$?CLASS&gt;</code>).
+Similarly, the value of any program constants defined with sigils can be
+easily reproduced in documentation:
+</p><pre><code>    # Actual code...
+    constant $GROWTH_RATE of Num where 0..* = 1.6;
+</code></pre><pre><code>    =pod
+    =head4 Standard Growth Rate
+</code></pre><pre><code>    The standard growth rate is assumed to be A&lt;$GROWTH_RATE&gt;.
+</code></pre><p>Non-mutating method calls on these objects are also allowed, so a
+document can reproduce the surrounding subroutine's signature
+(<code>A&lt;$?ROUTINE.signature&gt;</code>) or the type of a constant
+(<code>A&lt;$GROWTH_RATE.WHAT&gt;</code>).
+</p><p>See <a href='#Aliases'>#Aliases</a> for further details of the aliasing macro mechanism.
+</p><h3>Space-preserving text
+</h3><p>Any text enclosed in an <code>S&lt;&gt;</code> code is formatted normally, except that
+every whitespace character in it&mdash;including any newline&mdash;is
+preserved. These characters are also treated as being non-breaking
+(except for the newlines, of course). For example:
+</p><pre><code>    The emergency signal is: S&lt;
+    dot dot dot   dash dash dash   dot dot dot&gt;.
+</code></pre><p>would be formatted like so:
+</p><blockquote><p>The emergency signal is:<br />
+dot&nbsp;dot&nbsp;dot&nbsp;&nbsp;&nbsp;dash&nbsp;dash&nbsp;dash&nbsp;&nbsp;&nbsp;&nbsp;dot&nbsp;dot&nbsp;dot.
+</p></blockquote><p>rather than:
+</p><blockquote><p>The emergency signal is: dot dot dot dash dash dash dot dot dot.
+</p></blockquote><h3>Entities
+</h3><p>To include Unicode code points or HTML5 character references in a
+Pod document, specify the required <dfn>entity</dfn> using the <code>E&lt;&gt;</code> code.
+</p><p>If the <code>E&lt;&gt;</code> contains a number, that number is treated as the decimal
+Unicode value for the desired code point. For example:
+</p><pre><code>    Perl 6 makes considerable use of E&lt;171&gt; and E&lt;187&gt;.
+</code></pre><p>You can also use explicit binary, octal, decimal, or hexadecimal numbers
+(using the Perl 6 notations for explicitly based numbers):
+</p><pre><code>    Perl 6 makes considerable use of E&lt;0b10101011&gt; and E&lt;0b10111011&gt;.
+    Perl 6 makes considerable use of E&lt;0o253&gt; and E&lt;0o273&gt;.
+    Perl 6 makes considerable use of E&lt;0d171&gt; and E&lt;0d187&gt;.
+    Perl 6 makes considerable use of E&lt;0xAB&gt; and E&lt;0xBB&gt;.
+</code></pre><p>If the <code>E&lt;&gt;</code> contains anything that is not a number, the contents are
+interpreted as a Unicode character name (which is always uppercase), or
+else as an HTML5 named character reference. For example:
+</p><pre><code>    Perl 6 makes considerable use of E&lt;LEFT DOUBLE ANGLE BRACKET&gt;
+    and E&lt;RIGHT DOUBLE ANGLE BRACKET&gt;.
+</code></pre><p>or, equivalently:
+</p><pre><code>    Perl 6 makes considerable use of E&lt;laquo&gt; and E&lt;raquo&gt;.
+</code></pre><p>Multiple consecutive entities (in any format) can be specified in a
+single <code>E&lt;&gt;</code> code, separated by semicolons:
+</p><pre><code>    Perl 6 makes considerable use of E&lt;LEFT DOUBLE ANGLE BRACKET;hellip;0xBB&gt;.
+</code></pre><h3>Indexing terms
+</h3><p>Anything enclosed in an <code>X&lt;&gt;</code> code is an <strong>index entry</strong>. The contents
+of the code are both formatted into the document and used as the
+(case-insensitive) index entry:
+</p><pre><code>    An <strong>X&lt;array&gt;</strong> is an ordered list of scalars indexed by number,
+    starting with 0. A <strong>X&lt;hash&gt;</strong> is an unordered collection of scalar
+    values indexed by their associated string key.
+</code></pre><p /><p>You can specify an index entry in which the indexed text and the index
+entry are different, by separating the two with a vertical bar:
+</p><pre><code>    An <strong>X&lt;array|arrays&gt;</strong> is an ordered list of scalars indexed by number,
+    starting with 0. A <strong>X&lt;hash|hashes&gt;</strong> is an unordered collection of
+    scalar values indexed by their associated string key.
+</code></pre><p /><p>In the two-part form, the index entry comes after the bar and is
+case-sensitive.
+</p><p>You can specify hierarchical index entries by separating indexing levels
+with commas:
+</p><pre><code>    An X&lt;array|B&lt;arrays, definition of&gt;&gt; is an ordered list of scalars
+    indexed by number, starting with 0. A X&lt;hash|B&lt;hashes, definition of&gt;&gt;
+    is an unordered collection of scalar values indexed by their
+    associated string key.
+</code></pre><p /><p>You can specify two or more entries for a single indexed text, by separating
+the entries with semicolons:
+</p><pre><code>    A X&lt;hash|B&lt;hashes, definition of; associative arrays&gt;&gt;
+    is an unordered collection of scalar values indexed by their
+    associated string key.
+</code></pre><p /><p>The indexed text can be empty, creating a "zero-width" index entry:
+</p><pre><code>    <strong>X&lt;|puns, deliberate&gt;</strong>This is called the "Orcish Manoeuvre"
+    because you "OR" the "cache".
+</code></pre><h3>Annotations
+</h3><p>Anything enclosed in an <code>N&lt;&gt;</code> code is an inline <strong>note</strong>.
+For example:
+</p><pre><code>    Use a C&lt;for&gt; loop instead.<strong>N&lt;The Perl 6 C&lt;for&gt; loop is far more
+    powerful than its Perl 5 predecessor.&gt;</strong> Preferably with an explicit
+    iterator variable.
+</code></pre><p /><p>Renderers may render such annotations in a variety of ways: as
+footnotes, as endnotes, as sidebars, as pop-ups, as tooltips, as
+expandable tags, etc. They are never, however, rendered as unmarked
+inline text. So the previous example might be rendered as:
+</p><blockquote><p>Use a <code>for</code> loop instead.&dagger; Preferably with an explicit iterator
+variable.
+</p></blockquote><p>and later:
+</p><blockquote><p><strong>Footnotes</strong></p><p>&dagger; The Perl 6 <code>for</code> loop is far more powerful than its Perl 5
+predecessor.
+</p></blockquote><h3>Module-defined formatting codes
+</h3><p>Modules loaded with a <a href='#How Pod is parsed and processed'><code>DOC use</code></a>
+can define classes that implement new formatting codes, which can
+then be specified using the <code>M&lt;&gt;</code> code. An <code>M&lt;&gt;</code> code must start with
+a colon-terminated scheme specifier. The rest of the enclosed text is
+treated as the (verbatim) contents of the formatting code. For example:
+</p><pre><code>    DOC use Pod6::TT;
+
+    =head1 Overview of the <strong>M&lt;TT: $CLASSNAME &gt;</strong> class
+    (version <strong>M&lt;TT: $VERSION&gt;</strong>)
+
+    <strong>M&lt;TT: get_description($CLASSNAME) &gt;</strong>
+</code></pre><p /><p>The <code>M&lt;&gt;</code> formatting code is the inline equivalent of a
+<a href='#Named blocks'>named block</a>.
+</p><p>Internally an <code>M&lt;&gt;</code> code is converted to an object derived from the
+<code>Pod6::FormattingCode::Named</code> class. The name of the scheme becomes
+the final component of the object's classname. For instance, the <code>M&lt;&gt;</code>
+code in the previous example would be converted to a
+<code>Pod6::FormattingCode::Named::TT</code> object, whose <code>.typename</code>
+method retrieves the string <code>"TT"</code> and whose <code>.contents</code>
+method retrieves a list of the formatting code's (verbatim,
+unformatted) contents.
+</p><p>If the formatting code is unrecognized, the contents of the code (i.e.
+everything after the first colon) would normally be rendered as
+ordinary text.
+</p><h2>Encoding
+</h2><p>By default, Pod assumes that documents are Unicode, encoded in one
+of the three common schemes (UTF-8, UTF-16, or UTF-32). The particular
+scheme a document uses is autodiscovered by examination of the first few
+bytes of the file (where possible). If the autodiscovery fails, UTF-8 is
+assumed, and parsers may treat any non-UTF-8 bytes later in the
+document as fatal errors.
+</p><p>At any point in a document, you can explicitly set or change the encoding
+of its content using the <code>=encoding</code> directive:
+</p><pre><code>    =encoding ShiftJIS
+
+    =encoding Macintosh
+
+    =encoding KOI8-R
+</code></pre><p /><p>The specified encoding is used from the start of the <em>next</em> line in
+the document. If a second <code>=encoding</code> directive is encountered, the
+current encoding changes again after that line. Note, however, that
+the second encoding directive must itself be encoded using the first
+encoding scheme.
+</p><p>This requirement also applies to an <code>=encoding</code> directive at the very
+beginning of the file. That is, it must itself be encoded in
+the default UTF-8, -16, or -32. However, as a special case, the
+autodiscovery mechanism will (as far as possible) also attempt to
+recognize "self-encoded" <code>=encoding</code> directives that begin at the first
+byte of the file. For example, at the start of a ShiftJIS-encoded file
+you can specify <code>=encoding ShiftJIS</code> in the ShiftJIS encoding.
+</p><p>An <code>=encoding</code> directive affects any ambient code between the Pod
+as well. That is, Perl 6 uses <code>=encoding</code> directives to determine the
+encoding of its source code as well as that of any documentation.
+</p><p>Note that <code>=encoding</code> is a fundamental Pod directive, like <code>=begin</code> or
+<code>=for</code>; it is <em>not</em> an instance of an <a href='#Abbreviated'>abbreviated block</a>. Hence there is no paragraph or delimited form of the <code>=encoding</code>
+directive (just as there is no paragraph or delimited form of <code>=begin</code>).
+</p><h2>Block pre-configuration
+</h2><p>The <code>=config</code> directive allows you to prespecify standard configuration
+information that is applied to every block of a particular type.
+</p><p>For example, to specify particular formatting for different levels of
+heading, you could preconfigure all the heading blocks with
+appropriate formatting schemes:
+</p><pre><code>    =config head1              :formatted&lt;B U&gt;  :numbered
+    =config head2 :like&lt;head1&gt; :formatted&lt;I&gt;
+    =config head3              :formatted&lt;U&gt;
+    =config head4 :like&lt;head3&gt; :formatted&lt;I&gt;
+</code></pre><p /><p>The general syntax for configuration directives is:
+</p><pre><code>    =config <var>BLOCK_TYPE</var>  <var>CONFIG OPTIONS</var>
+    =                   <var>OPTIONAL EXTRA CONFIG OPTIONS</var>
+</code></pre><p /><p>Like <code>=encoding</code>, a <code>=config</code> is a directive, not a block. Hence,
+there is no paragraph or delimited form of the <code>=config</code> directive.
+Each <code>=config</code> specification is lexically scoped to the surrounding
+block in which it is specified.
+</p><p>Note that, if a particular block later explicitly specifies a
+configuration option with the same key, that option overrides the
+pre-configured option. For example, given the heading configurations in the
+previous example, to specify a <em>non</em>-basic second-level heading:
+</p><pre><code>    =for head2 :formatted&lt;I U&gt;
+    Details
+</code></pre><p /><p>The <code>:like</code> option causes the current formatting options for the
+named block type to be (lexically) <em>replaced</em> by the complete
+formatting information of the block type specified as the <code>:like</code>'s
+value. That other block type must already have been preconfigured. Any
+additional formatting specifications are subsequently added to that
+config. For example:
+</p><pre><code>    =comment  In the current scope make =head2 an "important" variant of =head1
+    =config head2 <strong>:like&lt;head1</strong>&gt; :formatted&lt;I&gt;
+</code></pre><p /><p>Incidentally, this also means you can arrange for an explicit <code>:formatted</code>
+option to <em>augment</em> an existing <code>=config</code>, rather than replacing
+it. Like so:
+</p><pre><code>    =comment  Mark this =head3 (but only this one) as being important
+            (in addition to the normal formatting)...
+    =head3 <strong>:like&lt;head3</strong>&gt; :formatted&lt;I&gt;
+</code></pre><h3>Pre-configuring formatting codes
+</h3><p>You can also lexically preconfigure a <a href='#Formatting codes'>formatting code</a>,
+by naming it with a pair of angles as a suffix. For example:
+</p><pre><code>    =comment  Always allow E&lt;&gt; codes in any (implicit or explicit) V&lt;&gt; code...
+    <strong>=config V&lt;&gt;  :allow&lt;E</strong>&gt;
+</code></pre><pre><code>    =comment  All inline code to be marked as important...
+    <strong>=config C&lt;&gt;  :formatted&lt;I</strong>&gt;
+</code></pre><p /><p>Note that, even though the formatting code is named using single-angles,
+the preconfiguration applies regardless of the actual delimiters used on
+subsequent instances of the code.
+</p><h2>Aliases
+</h2><p>The <code>=alias</code> directive provides a way to define lexically scoped
+synonyms for longer Pod sequences, (meta)object declarators from the
+code, or even entire chunks of ambient source. These synonyms can then
+be inserted into subsequent Pod using the
+<code>A&lt;&gt; formatting code</code>.
+</p><p>Note that <code>=alias</code> is a fundamental Pod directive, like <code>=begin</code> or
+<code>=for</code>; there are no equivalent paragraph or delimited forms.
+</p><p>There are two forms of <code>=alias</code> directive: macro aliases and contextual
+aliases. Both forms are lexically scoped to the surrounding Pod block.
+</p><h3>Macro aliases
+</h3><p>The simplest form of alias takes two arguments. The first is an
+identifier (which is usually specified in uppercase, though this is
+certainly not mandatory). The second argument consists of one or more
+lines of replacement text.
+</p><p>This creates a lexically scoped Perl 6 macro that can be invoked during
+document generation by placing the identifier (i.e. the first argument
+of the alias) in an <code>A&lt;&gt;</code> formatting code. This formatting code is then
+replaced by the text returned by new macro.
+</p><p>The replacement text returned by the alias macro begins at the first
+non-whitespace character after the alias's identifier, and continues to
+the end of the line. You can extend the replacement text over multiple
+lines by starting the following line(s) with an <code>=</code> (at the same level
+of indentation as the <code>=alias</code> directive itself) followed by at least
+one whitespace. Each addition line of replacement text uses the original
+line's (virtual) left margin, as specified by the indentation of the
+replacement text on the <code>=alias</code> line.
+</p><p>For example:
+</p><pre><code>    =alias PROGNAME    Earl Irradiatem Evermore
+    =alias VENDOR      4D Kingdoms
+    =alias TERMS_URLS  =item L&lt;http://www.4dk.com/eie&gt;
+    =                  =item L&lt;http://www.4dk.co.uk/eie.io/&gt;
+    =                  =item L&lt;http://www.fordecay.ch/canttouchthis&gt;
+
+    The use of A&lt;PROGNAME&gt; is subject to the terms and conditions
+    laid out by A&lt;VENDOR&gt;, as specified at:
+
+        A&lt;TERMS_URL&gt;
+
+</code></pre><p /><p>would produce:
+</p><blockquote><p>    The use of Earl Irradiatem Evermore is subject to the terms and
+    conditions laid out by 4D Kingdoms Inc, as specified at:</p><p>        =item <a href='http://www.4dk.com/eie'>http://www.4dk.com/eie</a>
+        =item <a href='http://www.4dk.co.uk/eie.io/'>http://www.4dk.co.uk/eie.io/</a>
+        =item <a href='http://www.fordecay.ch/canttouchthis'>http://www.fordecay.ch/canttouchthis</a></p></blockquote><p /><p>The advantage of using aliases is, obviously, that the same alias can be
+reused in multiple places in the documentation. Then, if the replacement
+text ever has to be changed, it need only be modified in a single place:
+</p><pre><code>    =alias PROGNAME    Count Krunchem Constantly
+    =alias VENDOR      Last Chance Receivers Intl
+    =alias TERMS_URLS  L&lt;http://www.c11.com/generic_conditions&gt;
+</code></pre><h3>Contextual aliases
+</h3><p>If the <code>=alias</code> directive is specified with only a single argument
+(that is, with only its identifier), a <dfn>contextual alias</dfn> is created. In
+this form, the <code>=alias</code> directive must be followed immediately (on the
+next non-blank line) by ambient code.
+</p><p>The single argument is then used as the name of the alias being created,
+and some portion of the following code is used as the value returned by the
+alias macro.
+</p><p>Note that the code block following the <code>=alias</code> line is still treated
+as real code by the Perl 6 parser, but its contents are <em>also</em> used to
+create the replacement macro of the alias. This allows the developer to
+reproduce chunks of actual source code directly in the documentation,
+without having to copy it.
+</p><p>If the code following the one-argument <code>=alias</code> directive begins with a
+sequence of one or more repetitions of any opening bracket character,
+the replacement macro returns a string containing everything from the
+end of that opening sequence to just before the corresponding closing
+bracket sequence. For example:
+</p><pre><code>
+    # This is actual code...
+
+    sub hash_function ($key)
+    =alias HASHCODE
+    {
+        my $hash = 0;
+        for $key.split("") -&gt; $char {
+            $hash = $hash*33 + $char.ord;
+        }
+        return $hash;
+    }
+
+    =begin pod
+    An ancient (but fast) hashing algorithm is used:
+
+        =begin code :allow&lt;A&gt;
+        A&lt;HASHCODE&gt;
+        =end code
+
+    =end pod
+</code></pre><p /><p>This would produce:
+</p><blockquote><p>An ancient (but fast) hashing algorithm is used:</p><pre><code>    my $hash = 0;
+    for $key.split("") -&gt; $char {
+        $hash *= 33;
+        $hash += $char.ord;
+    }
+    return $hash;</code></pre></blockquote><p /><p>Alternatively, if the <code>=alias</code> directive is <em>not</em> followed by an
+opening bracket, it must be followed by a declarator (such as <code>my</code>,
+<code>class</code>, <code>sub</code>, etc.) The declared object then becomes the (read-only)
+return value of the alias. For example:
+</p><pre><code>    <strong>=alias CLASSNAME</strong>
+    class Database::Handle {
+        <strong>=alias ATTR</strong>
+        has IO $!handle;
+
+        <strong>=alias OPEN</strong>
+        my Bool method open ($filename?) {...}
+
+        <strong>=alias DEFNAME</strong>
+        constant Str DEFAULT_FILENAME = 'db.log';
+
+        =for para
+            Note that the <strong>A&lt;OPEN.name&gt;</strong> method of class <strong>A&lt;CLASSNAME&gt;</strong>
+            stores the resulting low-level database handle
+            in its private <strong>A&lt;ATTR.name&gt;</strong> attribute. By default,
+            handles are opened to the file "<strong>A&lt;DEFNAME&gt;</strong>".
+
+    }
+</code></pre><p /><p>This would produce:
+</p><blockquote><p>Note that the <code>open</code> method of class <code>Database::Handle</code> stores the
+resulting low-level database handle in its private <code>$!handle</code>
+attribute. By default, handles are opened to the file "<code>db.log</code>".
+</p></blockquote><h1>How Pod is parsed and processed
+</h1><p>Pod is just a collection of specialized forms of Perl 6 comment. Every
+Perl 6 implementation must provide a special command-line flag that
+locates, parses, and processes Pod to produce documentation. That flag
+is <kbd>--doc</kbd>.
+</p><p>Hence, to read Pod documentation you would type things like:
+</p><pre><code>    perl --doc  perlrun
+</code></pre><pre><code>    perl --doc  DBI::DBD::Metadata
+</code></pre><pre><code>    perl --doc  ./lib/My/Module.pm
+</code></pre><p>When the Perl 6 interpreter is run in this mode, it sets the compiler
+hint <code>$?DOC</code> to true. If the <kbd>--doc</kbd> flag is given a value, that value
+(with a <code>but true</code> added) is placed in <code>$?DOC</code>. This can be used to
+specify, for example, the output format desired:
+</p><pre><code>    perl --doc=html perldelta  &gt; perldelta.html
+</code></pre><p>Under <kbd>--doc</kbd>, the interpreter runs in a special mode, parsing the
+source code (including the Pod, as it always does) during compilation
+and building the program's syntax tree. However, during parsing and
+initialization under <kbd>--doc</kbd>, the interpreter executes any
+<code>BEGIN</code>, <code>CHECK</code>, and <code>INIT</code> blocks (and equivalents, such as <code>use</code>
+statements and subroutine declarations) that are preceded by the special
+prefix: <code>DOC</code>
+</p><p>When the <kbd>--doc</kbd> is <em>not</em> specified on the commandline, blocks and
+statements that are preceded by the <code>DOC</code> prefix are not executed at all.
+</p><p>By default, once the <code>DOC INIT</code> phase is complete, the interpreter then
+calls a special default <code>DOC INIT</code> block that walks the AST and
+generates the documentation, guided by the content of the <code>$?DOC</code> hint,
+the <code>$=POD</code> tree, and any <code>DOC</code> blocks that have loaded Pod-related
+handler code.
+</p><p>Because the conversion of documentation is just a variation on the
+standard Perl 6 compilation process, the processing of any given file of
+Pod can be modified from within that file itself by the appropriate
+insertion of <code>DOC</code> blocks. For example:
+</p><pre><code>    DOC use Pod6::Markovian;
+</code></pre><p>or:
+</p><pre><code>    DOC BEGIN {
+        use Pod6::Literate;
+</code></pre><pre><code>        if ($?DOC ~~ /short/) {
+            literate_sequence(&lt;
+                NAME
+                AUTHOR
+                SYNOPSIS
+                COPYRIGHT
+                WARRANTY
+                DESCRIPTION
+                INTERFACE
+                DIAGNOSTICS
+            &gt;);
+        }
+        else {
+            literate_sequence(:default);
+        }
+</code></pre><p>You can even <em>replace</em> the standard Pod processor with your own, so
+long as you remember to exit before the default <code>DOC INIT</code> can run:
+</p><pre><code>    DOC INIT {
+        use My::Pod::To::Text;
+</code></pre><pre><code>        pod_to_text( $=POD );
+</code></pre><pre><code>        exit(0);
+    }
+</code></pre><p>The idea is that developers will be able to add their own documentation
+mechanisms simply by loading a module (via a <code>DOC use</code>) to augment or
+override the default documentation behaviour. Such mechanisms can then
+be built using code written in standard Perl 6 that accesses <code>$=POD</code>,
+as well as using the <code>.WHY</code> and <code>.WHEREFORE</code> introspection methods of
+any constructs that have attached Pod blocks.
+</p><p>Note also that this mechanism means that, on many systems, you can
+create a self-converting documentation file like so:
+</p><pre><code>    #! /usr/bin/perl6 --doc
+
+    =begin pod
+
+    =head1 A document that can write itself
+
+    Executing this document from the commandline will automatically
+    convert it to a readable text representation.
+
+    =head2 Et cetera
+    ...
+
+    =end pod
+
+</code></pre><SUMMARY>
+<h2>Directives
+</h2><blockquote><table><tr><td>Directive</td><td>Specifies</td></tr><tr><td>_________</td><td>____________________________________________________</td></tr><tr><td><code>=begin</code></td><td>Start of an explicitly terminated block</td></tr><tr><td><code>=config</code></td><td>Lexical modifications to a block or formatting code</td></tr><tr><td><code>=encoding</code></td><td>Encoding scheme for subsequent text</td></tr><tr><td><code>=end</code></td><td>Explicit termination of a <code>=begin</code> block</td></tr><tr><td><code>=for</code></td><td>Start of an implicitly (blank-line) terminated block</td></tr><tr><td><code>=alias</code></td><td>Define a Pod macro</td></tr></table></blockquote>
+
+<h2>Blocks
+</h2><blockquote><table><tr><td>Block typename</td><td>Specifies</td></tr><tr><td>______________</td><td>___________________________________________________</td></tr><tr><td><code>=code</code></td><td>Verbatim pre-formatted sample source code</td></tr><tr><td><code>=comment</code></td><td>Content to be ignored by all renderers</td></tr><tr><td><code>=defn</code></td><td>Definition of a term</td></tr><tr><td><code>=head</code><var>N</var></td><td><em>N</em>th-level heading</td></tr><tr><td><code>=input</code></td><td>Pre-formatted sample input</td></tr><tr><td><code>=item</code></td><td>First-level list item</td></tr><tr><td><code>=item</code><var>N</var></td><td><em>N</em>th-level list item</td></tr><tr><td><code>=nested</code></td><td>Nest block contents within the current context</td></tr><tr><td><code>=output</code></td><td>Pre-formatted sample output</td></tr><tr><td><code>=para</code></td><td>Ordinary paragraph</td></tr><tr><td><code>=pod</code></td><td>No "ambient" blocks inside</td></tr><tr><td><code>=table</code></td><td>Simple rectangular table</td></tr><tr><td><code>=DATA</code></td><td>Perl 6 data section</td></tr><tr><td><code>=END</code></td><td>No ambient blocks after this point</td></tr><tr><td><code>=</code><var>RESERVED</var></td><td>Semantic blocks (<code>=SYNOPIS</code>, <code>=BUGS</code>, etc.)</td></tr><tr><td><code>=</code><var>Typename</var></td><td>User-defined block</td></tr></table></blockquote>
+<h2>Formatting codes
+</h2><blockquote><table><tr><td>Formatting code _______________ <code>A&lt;...&gt;</code> <code>B&lt;...&gt;</code> <code>C&lt;...&gt;</code> <code>D&lt;...&gt;</code></td><td>Specifies ___________________________________________________ Replaced by contents of specified macro/object Basis/focus of sentence (typically rendered bold) Code (typically rendered fixed-width) ...;...&gt;&gt;</td><td>Definition (<code>D&lt;R&lt;defined term&gt;&gt;</code></td><td><var>synonym</var>;<var>synonym</var>;...&gt;&gt;)</td></tr><tr><td><code>E&lt;...;...&gt;</code> <code>I&lt;...&gt;</code> <code>K&lt;...&gt;</code> <code>L&lt;...&gt;</code></td><td>Entity names or numeric codepoints (<code>E&lt;R&lt;entity1&gt;;R&lt;entity2&gt;;...&gt;</code>) Important (typically rendered in italics) Keyboard input (typically rendered fixed-width) ...&gt;&gt;</td><td>Link (<code>L&lt;R&lt;display text&gt;&gt;</code></td><td><var>destination URI</var>&gt;&gt;)</td></tr><tr><td><code>M&lt;...:...&gt;</code> <code>N&lt;...&gt;</code> <code>P&lt;...&gt;</code> <code><code>R</code>&lt;...</code>&gt; <code>S&lt;...&gt;</code> <code>T&lt;...&gt;</code> <code>U&lt;...&gt;</code> <code><code>V</code>&lt;...</code>&gt; <code>X&lt;...&gt;</code></td><td>Module-defined code (<code>M&lt;R&lt;scheme&gt;:R&lt;contents&gt;&gt;</code>) Note (not rendered inline) Placement link Replaceable component or metasyntax Space characters to be preserved Terminal output (typically rendered fixed-width) Unusual (typically rendered with underlining) Verbatim (internal formatting codes ignored) ..,..;...&gt;&gt;</td><td>Index entry (<code>X&lt;R&lt;display text&gt;&gt;</code></td><td><var>entry</var>,<var>subentry</var>;...&gt;&gt;)</td></tr></table></blockquote>
+</SUMMARY><div class='footnote'><p>NOTES</p><p><a href='#nid1' name='ftn.nid1'><sup>1.</sup></a> as specified in Synopsis 2</p></div></body></html>

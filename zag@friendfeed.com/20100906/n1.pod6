@@ -1,0 +1,54 @@
+=begin pod :pubdate('2010-09-06T08:06:05Z') :type<note> 
+=NAME Anyway......I'm sleepy! / Кольцевая ветка
+
+=begin DESCRIPTION
+
+Anyway......I'm sleepy! / Кольцевая ветка
+=for Image :width(298) :link('http://m.friendfeed-media.com/3c8b503390d4e90649025cb96ef4aa870a170e1b') :height(175) :preview
+media/75e9f3d392f661cdddf64086200ae7e003c51ba3.jpg
+
+
+
+=end DESCRIPTION
+
+Anyway......I'm sleepy! / Кольцевая ветка
+=for Image :width(298) :link('http://m.friendfeed-media.com/3c8b503390d4e90649025cb96ef4aa870a170e1b') :height(175) :preview
+media/75e9f3d392f661cdddf64086200ae7e003c51ba3.jpg
+
+
+
+=begin comment :src
+{
+  "id": "e/a5a8143869e0428d9773ce7a22ebc622",
+  "date": "2010-09-06T08:06:05Z",
+  "rawBody": "Anyway......I'm sleepy! / Кольцевая ветка",
+  "url": "http://friendfeed.com/zag/a5a81438/anyway-i-m-sleepy",
+  "thumbnails": [
+    {
+      "url": "http://m.friendfeed-media.com/75e9f3d392f661cdddf64086200ae7e003c51ba3",
+      "width": 298,
+      "height": 175,
+      "link": "http://m.friendfeed-media.com/3c8b503390d4e90649025cb96ef4aa870a170e1b"
+    }
+  ],
+  "body": "Anyway......I'm sleepy! / Кольцевая ветка",
+  "rawLink": "http://friendfeed.com/e/a5a81438-69e0-428d-9773-ce7a22ebc622",
+  "likes": [
+    {
+      "from": {
+        "name": "Daina Thomas",
+        "type": "user",
+        "id": "dainathomas1"
+      },
+      "date": "2010-09-06T10:19:53Z"
+    }
+  ],
+  "from": {
+    "type": "user",
+    "id": "zag",
+    "name": "углы «Исимуры»"
+  }
+}
+=end comment
+
+=end pod

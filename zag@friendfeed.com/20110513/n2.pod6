@@ -1,0 +1,32 @@
+=begin pod :pubdate('2011-05-13T18:18:03Z') :type<note> :tags<perl6>
+=NAME Пятница, 13. Солнце село за село. Twitter лежит. Готовлю очередную версию книги о #perl6 http://zag.ru/perl6-book/
+
+=begin DESCRIPTION
+
+Пятница, 13. Солнце село за село. Twitter лежит. Готовлю очередную версию книги о #perl6 http://zag.ru/perl6-book/
+
+
+
+=end DESCRIPTION
+
+Пятница, 13. Солнце село за село. Twitter лежит. Готовлю очередную версию книги о #perl6 http://zag.ru/perl6-book/
+
+
+
+=begin comment :src
+{
+  "id": "e/260af376b0c94be3ac698212e6e601e7",
+  "date": "2011-05-13T18:18:03Z",
+  "rawBody": "Пятница, 13. Солнце село за село. Twitter лежит. Готовлю очередную версию книги о #perl6 http://zag.ru/perl6-book/",
+  "url": "http://friendfeed.com/zag/260af376/13-twitter-perl6",
+  "from": {
+    "id": "zag",
+    "type": "user",
+    "name": "углы «Исимуры»"
+  },
+  "rawLink": "http://friendfeed.com/e/260af376-b0c9-4be3-ac69-8212e6e601e7",
+  "body": "Пятница, 13. Солнце село за село. Twitter лежит. Готовлю очередную версию книги о <a href=\"http://friendfeed.com/search?q=%23perl6\">#perl6</a> <a rel=\"nofollow\" href=\"http://zag.ru/perl6-book/\">http://zag.ru/perl6-book/</a>"
+}
+=end comment
+
+=end pod

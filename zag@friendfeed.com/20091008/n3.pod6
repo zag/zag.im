@@ -1,0 +1,68 @@
+=begin pod :pubdate('2009-10-08T07:05:51Z') :type<note> 
+=NAME The Berlin Reunion - The Big Picture - Boston.com
+
+=begin DESCRIPTION
+
+The Berlin Reunion - The Big Picture - Boston.com - L<link|http://www.boston.com/bigpicture/2009/10/the_berlin_reunion.html>
+=for Image :width(267) :link('http://www.boston.com/bigpicture/2009/10/the_berlin_reunion.html') :height(175) :preview
+media/4e1c87c9a210cebd6f152b00e094648fd85256d0.jpg
+=for Image :width(296) :link('http://www.boston.com/bigpicture/2009/10/the_berlin_reunion.html') :height(175) :preview
+media/875019233ddebf785d6a48086fe18c6d63aaea17.jpg
+=for Image :width(272) :link('http://www.boston.com/bigpicture/2009/10/the_berlin_reunion.html') :height(175) :preview
+media/9b28421195ad44fd98fde61eb74b1654ee4d5199.jpg
+
+
+
+=end DESCRIPTION
+
+The Berlin Reunion - The Big Picture - Boston.com - L<link|http://www.boston.com/bigpicture/2009/10/the_berlin_reunion.html>
+=for Image :width(267) :link('http://www.boston.com/bigpicture/2009/10/the_berlin_reunion.html') :height(175) :preview
+media/4e1c87c9a210cebd6f152b00e094648fd85256d0.jpg
+=for Image :width(296) :link('http://www.boston.com/bigpicture/2009/10/the_berlin_reunion.html') :height(175) :preview
+media/875019233ddebf785d6a48086fe18c6d63aaea17.jpg
+=for Image :width(272) :link('http://www.boston.com/bigpicture/2009/10/the_berlin_reunion.html') :height(175) :preview
+media/9b28421195ad44fd98fde61eb74b1654ee4d5199.jpg
+
+
+
+=begin comment :src
+{
+  "id": "e/9917f8c5889e4b7da1408fc18be4f686",
+  "thumbnails": [
+    {
+      "url": "http://m.friendfeed-media.com/4e1c87c9a210cebd6f152b00e094648fd85256d0",
+      "width": 267,
+      "link": "http://www.boston.com/bigpicture/2009/10/the_berlin_reunion.html",
+      "height": 175
+    },
+    {
+      "url": "http://m.friendfeed-media.com/875019233ddebf785d6a48086fe18c6d63aaea17",
+      "width": 296,
+      "link": "http://www.boston.com/bigpicture/2009/10/the_berlin_reunion.html",
+      "height": 175
+    },
+    {
+      "height": 175,
+      "link": "http://www.boston.com/bigpicture/2009/10/the_berlin_reunion.html",
+      "url": "http://m.friendfeed-media.com/9b28421195ad44fd98fde61eb74b1654ee4d5199",
+      "width": 272
+    }
+  ],
+  "date": "2009-10-08T07:05:51Z",
+  "rawBody": "The Berlin Reunion - The Big Picture - Boston.com",
+  "url": "http://friendfeed.com/zag/9917f8c5/berlin-reunion-big-picture-boston",
+  "rawLink": "http://www.boston.com/bigpicture/2009/10/the_berlin_reunion.html",
+  "body": "The Berlin Reunion - The Big Picture - Boston.com - <a rel=\"nofollow\" href=\"http://www.boston.com/bigpicture/2009/10/the_berlin_reunion.html\" title=\"http://www.boston.com/bigpicture/2009/10/the_berlin_reunion.html\">http://www.boston.com/bigpict...</a>",
+  "via": {
+    "url": "http://friendfeed.com/share/bookmarklet",
+    "name": "Bookmarklet"
+  },
+  "from": {
+    "name": "углы «Исимуры»",
+    "id": "zag",
+    "type": "user"
+  }
+}
+=end comment
+
+=end pod

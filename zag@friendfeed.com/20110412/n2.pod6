@@ -1,0 +1,87 @@
+=begin pod :pubdate('2011-04-12T05:01:59Z') :type<note> :tags<tdd>
+=NAME happyprog - TDGotchi
+
+=begin DESCRIPTION
+
+happyprog - TDGotchi - L<link|http://www.happyprog.com/tdgotchi/>
+=for Image :width(158) :link('http://www.happyprog.com/tdgotchi/') :height(175) :preview
+media/2c2d32d79effbd8029da17820fac72bcea8aec93.jpg
+=for Image :width(360) :link('http://www.happyprog.com/tdgotchi/') :height(93) :preview
+media/8b71b6659983eb3579970d516ef84a2de7ebd149.png
+=for Image :width(174) :link('http://www.happyprog.com/tdgotchi/') :height(175) :preview
+media/ecba0d5d3492859b835b6599422e8c6428c48586.jpg
+
+=item "Make a test fail and then make it pass, TDGotchi is happy" #tdd
+
+
+=end DESCRIPTION
+
+happyprog - TDGotchi - L<link|http://www.happyprog.com/tdgotchi/>
+=for Image :width(158) :link('http://www.happyprog.com/tdgotchi/') :height(175) :preview
+media/2c2d32d79effbd8029da17820fac72bcea8aec93.jpg
+=for Image :width(360) :link('http://www.happyprog.com/tdgotchi/') :height(93) :preview
+media/8b71b6659983eb3579970d516ef84a2de7ebd149.png
+=for Image :width(174) :link('http://www.happyprog.com/tdgotchi/') :height(175) :preview
+media/ecba0d5d3492859b835b6599422e8c6428c48586.jpg
+
+=item "Make a test fail and then make it pass, TDGotchi is happy" #tdd
+
+
+=begin comment :src
+{
+  "date": "2011-04-12T05:01:59Z",
+  "id": "e/50224effe3d046a39fb13a63ba2dbc10",
+  "rawBody": "happyprog - TDGotchi",
+  "url": "http://friendfeed.com/zag/50224eff/happyprog-tdgotchi",
+  "thumbnails": [
+    {
+      "width": 158,
+      "url": "http://m.friendfeed-media.com/2c2d32d79effbd8029da17820fac72bcea8aec93",
+      "height": 175,
+      "link": "http://www.happyprog.com/tdgotchi/"
+    },
+    {
+      "height": 93,
+      "link": "http://www.happyprog.com/tdgotchi/",
+      "width": 360,
+      "url": "http://m.friendfeed-media.com/8b71b6659983eb3579970d516ef84a2de7ebd149"
+    },
+    {
+      "link": "http://www.happyprog.com/tdgotchi/",
+      "height": 175,
+      "url": "http://m.friendfeed-media.com/ecba0d5d3492859b835b6599422e8c6428c48586",
+      "width": 174
+    }
+  ],
+  "rawLink": "http://www.happyprog.com/tdgotchi/",
+  "body": "happyprog - TDGotchi - <a rel=\"nofollow\" href=\"http://www.happyprog.com/tdgotchi/\" title=\"http://www.happyprog.com/tdgotchi/\">http://www.happyprog.com/tdgotch...</a>",
+  "from": {
+    "name": "углы «Исимуры»",
+    "id": "zag",
+    "type": "user"
+  },
+  "via": {
+    "name": "Bookmarklet",
+    "url": "http://friendfeed.com/share/bookmarklet"
+  },
+  "comments": [
+    {
+      "body": "&quot;Make a test fail and then make it pass, TDGotchi is happy&quot; <a href=\"http://friendfeed.com/search?q=%23tdd\">#tdd</a>",
+      "via": {
+        "url": "http://friendfeed.com/share/bookmarklet",
+        "name": "Bookmarklet"
+      },
+      "id": "e/50224effe3d046a39fb13a63ba2dbc10/c/50fd39422e0747dd806c11bd2e868036",
+      "date": "2011-04-12T05:01:59Z",
+      "from": {
+        "id": "zag",
+        "type": "user",
+        "name": "углы «Исимуры»"
+      },
+      "rawBody": "\"Make a test fail and then make it pass, TDGotchi is happy\" #tdd"
+    }
+  ]
+}
+=end comment
+
+=end pod

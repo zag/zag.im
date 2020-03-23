@@ -1,0 +1,77 @@
+=begin pod :pubdate('2011-10-22T15:44:03Z') :type<note> 
+=NAME lionet: BSD License Fears
+
+=begin DESCRIPTION
+
+lionet: BSD License Fears - L<link|http://lionet.livejournal.com/31952.html#>
+=for Image :width(232) :link('http://lionet.livejournal.com/31952.html#') :height(175) :preview
+media/3c954164a06875c945212110255f910dce58c315.jpg
+=for Image :width(204) :link('http://lionet.livejournal.com/31952.html#') :height(175) :preview
+media/46a6ff31bf09e962382a7a07ca44540fa47003f0.jpg
+
+=item "Вместе с тем, я периодически получаю патчи на мой BSD код, демонстрирующие, что отсутствие LGPL'ности не является помехой к посылке кода автору"
+
+
+=end DESCRIPTION
+
+lionet: BSD License Fears - L<link|http://lionet.livejournal.com/31952.html#>
+=for Image :width(232) :link('http://lionet.livejournal.com/31952.html#') :height(175) :preview
+media/3c954164a06875c945212110255f910dce58c315.jpg
+=for Image :width(204) :link('http://lionet.livejournal.com/31952.html#') :height(175) :preview
+media/46a6ff31bf09e962382a7a07ca44540fa47003f0.jpg
+
+=item "Вместе с тем, я периодически получаю патчи на мой BSD код, демонстрирующие, что отсутствие LGPL'ности не является помехой к посылке кода автору"
+
+
+=begin comment :src
+{
+  "rawLink": "http://lionet.livejournal.com/31952.html#",
+  "body": "lionet: BSD License Fears - <a rel=\"nofollow\" href=\"http://lionet.livejournal.com/31952.html#\" title=\"http://lionet.livejournal.com/31952.html#\">http://lionet.livejournal.com/31952...</a>",
+  "date": "2011-10-22T15:44:03Z",
+  "id": "e/bc06aef350d94389abbccce6d072be89",
+  "rawBody": "lionet: BSD License Fears",
+  "url": "http://friendfeed.com/zag/bc06aef3/lionet-bsd-license-fears",
+  "thumbnails": [
+    {
+      "width": 232,
+      "url": "http://m.friendfeed-media.com/3c954164a06875c945212110255f910dce58c315",
+      "link": "http://lionet.livejournal.com/31952.html#",
+      "height": 175
+    },
+    {
+      "width": 204,
+      "url": "http://m.friendfeed-media.com/46a6ff31bf09e962382a7a07ca44540fa47003f0",
+      "link": "http://lionet.livejournal.com/31952.html#",
+      "height": 175
+    }
+  ],
+  "comments": [
+    {
+      "via": {
+        "name": "Bookmarklet",
+        "url": "http://friendfeed.com/share/bookmarklet"
+      },
+      "date": "2011-10-22T15:44:03Z",
+      "id": "e/bc06aef350d94389abbccce6d072be89/c/ce11615c2f314deeab3b7cedf43cacc6",
+      "from": {
+        "type": "user",
+        "id": "zag",
+        "name": "углы «Исимуры»"
+      },
+      "rawBody": "\"Вместе с тем, я периодически получаю патчи на мой BSD код, демонстрирующие, что отсутствие LGPL'ности не является помехой к посылке кода автору\"",
+      "body": "&quot;Вместе с тем, я периодически получаю патчи на мой BSD код, демонстрирующие, что отсутствие LGPL'ности не является помехой к посылке кода автору&quot;"
+    }
+  ],
+  "via": {
+    "url": "http://friendfeed.com/share/bookmarklet",
+    "name": "Bookmarklet"
+  },
+  "from": {
+    "id": "zag",
+    "type": "user",
+    "name": "углы «Исимуры»"
+  }
+}
+=end comment
+
+=end pod

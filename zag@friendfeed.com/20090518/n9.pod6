@@ -1,0 +1,36 @@
+=begin pod :pubdate('2009-05-18T08:06:40Z') :type<note> 
+=NAME @AnatolyUnix твитер клиенты опрашивают этот сервис и выврдят все новые сообщения. twitter это не IM
+
+=begin DESCRIPTION
+
+@AnatolyUnix твитер клиенты опрашивают этот сервис и выврдят все новые сообщения. twitter это не IM - L<link|http://twitter.com/zagru/statuses/1833964882>
+
+
+
+=end DESCRIPTION
+
+@AnatolyUnix твитер клиенты опрашивают этот сервис и выврдят все новые сообщения. twitter это не IM - L<link|http://twitter.com/zagru/statuses/1833964882>
+
+
+
+=begin comment :src
+{
+  "via": {
+    "url": "http://twitter.com/zagru/statuses/1833964882",
+    "name": "Twitter"
+  },
+  "from": {
+    "id": "zag",
+    "type": "user",
+    "name": "углы «Исимуры»"
+  },
+  "rawBody": "@AnatolyUnix твитер клиенты опрашивают этот сервис и выврдят все новые сообщения. twitter это не IM",
+  "id": "e/c9142c995a90fe60cec32beedc4c83a8",
+  "date": "2009-05-18T08:06:40Z",
+  "url": "http://friendfeed.com/zag/c9142c99/anatolyunix-twitter-im",
+  "body": "@<a rel=\"nofollow\" href=\"http://twitter.com/AnatolyUnix\">AnatolyUnix</a> твитер клиенты опрашивают этот сервис и выврдят все новые сообщения. twitter это не IM",
+  "rawLink": "http://twitter.com/zagru/statuses/1833964882"
+}
+=end comment
+
+=end pod

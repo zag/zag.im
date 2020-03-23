@@ -1,0 +1,63 @@
+=begin pod :pubdate('2011-02-10T05:42:38Z') :type<note> 
+=NAME The Malcolm Gladwell Book Generator
+
+=begin DESCRIPTION
+
+The Malcolm Gladwell Book Generator - L<link|http://malcolmgladwellbookgenerator.com/>
+=for Image :width(109) :link('http://malcolmgladwellbookgenerator.com/') :height(175) :preview
+media/a62b9a4f426471388f157c673e04acdde71da057.jpg
+
+=item "Generate New Best Seller"
+
+
+=end DESCRIPTION
+
+The Malcolm Gladwell Book Generator - L<link|http://malcolmgladwellbookgenerator.com/>
+=for Image :width(109) :link('http://malcolmgladwellbookgenerator.com/') :height(175) :preview
+media/a62b9a4f426471388f157c673e04acdde71da057.jpg
+
+=item "Generate New Best Seller"
+
+
+=begin comment :src
+{
+  "comments": [
+    {
+      "id": "e/672a30de751848dcacaf2bd0b44eaf13/c/e52c749cf968472986d7caca32c9f0e4",
+      "rawBody": "\"Generate New Best Seller\"",
+      "from": {
+        "name": "углы «Исимуры»",
+        "type": "user",
+        "id": "zag"
+      },
+      "date": "2011-02-10T05:43:01Z",
+      "body": "&quot;Generate New Best Seller&quot;"
+    }
+  ],
+  "via": {
+    "url": "http://friendfeed.com/share/bookmarklet",
+    "name": "Bookmarklet"
+  },
+  "from": {
+    "id": "zag",
+    "type": "user",
+    "name": "углы «Исимуры»"
+  },
+  "rawLink": "http://malcolmgladwellbookgenerator.com/",
+  "body": "The Malcolm Gladwell Book Generator - <a rel=\"nofollow\" href=\"http://malcolmgladwellbookgenerator.com/\" title=\"http://malcolmgladwellbookgenerator.com/\">http://malcolmgladwellbookgenerator.com/</a>",
+  "id": "e/672a30de751848dcacaf2bd0b44eaf13",
+  "rawBody": "The Malcolm Gladwell Book Generator",
+  "date": "2011-02-10T05:42:38Z",
+  "url": "http://friendfeed.com/zag/672a30de/malcolm-gladwell-book-generator",
+  "thumbnails": [
+    {
+      "height": 175,
+      "link": "http://malcolmgladwellbookgenerator.com/",
+      "url": "http://m.friendfeed-media.com/a62b9a4f426471388f157c673e04acdde71da057",
+      "width": 109
+    }
+  ]
+}
+=end comment
+
+=end pod

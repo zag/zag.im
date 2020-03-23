@@ -1,0 +1,74 @@
+=begin pod :pubdate('2013-08-30T18:37:54Z') :type<note> 
+=NAME GNU 30th anniversary celebration and hackathon - GNU Project - Free Software Foundation
+
+=begin DESCRIPTION
+
+GNU 30th anniversary celebration and hackathon - GNU Project - Free Software Foundation - L<link|https://www.gnu.org/gnu30/>
+=for Image :width(525) :link('https://www.gnu.org/gnu30/') :height(166) :preview
+media/44c85b78bd32380fbf8fafb608ecf17b9b0f0064.jpg
+
+
+
+=end DESCRIPTION
+
+GNU 30th anniversary celebration and hackathon - GNU Project - Free Software Foundation - L<link|https://www.gnu.org/gnu30/>
+=for Image :width(525) :link('https://www.gnu.org/gnu30/') :height(166) :preview
+media/44c85b78bd32380fbf8fafb608ecf17b9b0f0064.jpg
+
+
+
+=begin comment :src
+{
+  "via": {
+    "name": "Bookmarklet",
+    "url": "http://friendfeed.com/share/bookmarklet"
+  },
+  "from": {
+    "name": "углы «Исимуры»",
+    "type": "user",
+    "id": "zag"
+  },
+  "id": "e/6945d60ac1974518820b29413c6c4c67",
+  "rawBody": "GNU 30th anniversary celebration and hackathon - GNU Project - Free Software Foundation",
+  "date": "2013-08-30T18:37:54Z",
+  "url": "http://friendfeed.com/zag/6945d60a/gnu-30th-anniversary-celebration-and",
+  "thumbnails": [
+    {
+      "width": 525,
+      "url": "http://m.friendfeed-media.com/44c85b78bd32380fbf8fafb608ecf17b9b0f0064",
+      "height": 166,
+      "link": "https://www.gnu.org/gnu30/"
+    }
+  ],
+  "likes": [
+    {
+      "date": "2013-08-30T18:58:56Z",
+      "from": {
+        "id": "arty",
+        "type": "user",
+        "name": "arty"
+      }
+    },
+    {
+      "from": {
+        "id": "enemo",
+        "type": "user",
+        "name": "последние пни"
+      },
+      "date": "2013-08-30T18:54:10Z"
+    },
+    {
+      "from": {
+        "type": "user",
+        "id": "kkapp",
+        "name": "alex@kapranoff.ru"
+      },
+      "date": "2013-08-30T18:49:58Z"
+    }
+  ],
+  "rawLink": "https://www.gnu.org/gnu30/",
+  "body": "GNU 30th anniversary celebration and hackathon - GNU Project - Free Software Foundation - <a rel=\"nofollow\" href=\"https://www.gnu.org/gnu30/\">https://www.gnu.org/gnu30/</a>"
+}
+=end comment
+
+=end pod

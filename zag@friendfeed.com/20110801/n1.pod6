@@ -1,0 +1,77 @@
+=begin pod :pubdate('2011-08-01T18:24:07Z') :type<note> 
+=NAME Netflix Instant is coming to the entire Linux Community!
+
+=begin DESCRIPTION
+
+Netflix Instant is coming to the entire Linux Community! - L<link|http://benjaminkerensa.com/netflix-instant-is-coming-to-the-entire-linux>
+=for Image :width(100) :link('http://benjaminkerensa.com/netflix-instant-is-coming-to-the-entire-linux') :height(100) :preview
+media/9f878e94cab02d19f739d8850fb72ef10033b9d5.gif
+=for Image :width(378) :link('http://benjaminkerensa.com/netflix-instant-is-coming-to-the-entire-linux') :height(175) :preview
+media/26d6470d0d9b5a6422aa2c016b6b295d99e000ee.jpg
+
+=item "Netflix has some engineers working on a proprietary client for Linux that should be available in the next 12 months."
+
+
+=end DESCRIPTION
+
+Netflix Instant is coming to the entire Linux Community! - L<link|http://benjaminkerensa.com/netflix-instant-is-coming-to-the-entire-linux>
+=for Image :width(100) :link('http://benjaminkerensa.com/netflix-instant-is-coming-to-the-entire-linux') :height(100) :preview
+media/9f878e94cab02d19f739d8850fb72ef10033b9d5.gif
+=for Image :width(378) :link('http://benjaminkerensa.com/netflix-instant-is-coming-to-the-entire-linux') :height(175) :preview
+media/26d6470d0d9b5a6422aa2c016b6b295d99e000ee.jpg
+
+=item "Netflix has some engineers working on a proprietary client for Linux that should be available in the next 12 months."
+
+
+=begin comment :src
+{
+  "date": "2011-08-01T18:24:07Z",
+  "id": "e/a5204006718d469e9d665767423d9601",
+  "rawBody": "Netflix Instant is coming to the entire Linux Community!",
+  "url": "http://friendfeed.com/zag/a5204006/netflix-instant-is-coming-to-entire-linux",
+  "thumbnails": [
+    {
+      "url": "http://m.friendfeed-media.com/9f878e94cab02d19f739d8850fb72ef10033b9d5",
+      "width": 100,
+      "height": 100,
+      "link": "http://benjaminkerensa.com/netflix-instant-is-coming-to-the-entire-linux"
+    },
+    {
+      "link": "http://benjaminkerensa.com/netflix-instant-is-coming-to-the-entire-linux",
+      "height": 175,
+      "width": 378,
+      "url": "http://m.friendfeed-media.com/26d6470d0d9b5a6422aa2c016b6b295d99e000ee"
+    }
+  ],
+  "rawLink": "http://benjaminkerensa.com/netflix-instant-is-coming-to-the-entire-linux",
+  "body": "Netflix Instant is coming to the entire Linux Community! - <a rel=\"nofollow\" href=\"http://benjaminkerensa.com/netflix-instant-is-coming-to-the-entire-linux\" title=\"http://benjaminkerensa.com/netflix-instant-is-coming-to-the-entire-linux\">http://benjaminkerensa.com/netflix...</a>",
+  "from": {
+    "name": "углы «Исимуры»",
+    "type": "user",
+    "id": "zag"
+  },
+  "via": {
+    "name": "Bookmarklet",
+    "url": "http://friendfeed.com/share/bookmarklet"
+  },
+  "comments": [
+    {
+      "body": "&quot;Netflix has some engineers working on a proprietary client for Linux that should be available in the next 12 months.&quot;",
+      "date": "2011-08-01T18:24:07Z",
+      "id": "e/a5204006718d469e9d665767423d9601/c/02b7d7241a9f48f28e73a604a68f0352",
+      "from": {
+        "type": "user",
+        "id": "zag",
+        "name": "углы «Исимуры»"
+      },
+      "rawBody": "\"Netflix has some engineers working on a proprietary client for Linux that should be available in the next 12 months.\"",
+      "via": {
+        "name": "Bookmarklet",
+        "url": "http://friendfeed.com/share/bookmarklet"
+      }
+    }
+  ]
+}
+=end comment
+
+=end pod

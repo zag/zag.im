@@ -1,0 +1,55 @@
+=begin pod :pubdate('2012-09-07T14:31:08Z') :type<note> 
+=NAME Amazon Web Services Blog: Amazon S3 - Cross Origin Resource Sharing Support
+
+=begin DESCRIPTION
+
+Amazon Web Services Blog: Amazon S3 - Cross Origin Resource Sharing Support - L<link|http://aws.typepad.com/aws/2012/08/amazon-s3-cross-origin-resource-sharing.html>
+
+=item "You can implement HTML5 drag and drop uploads to Amazon S3, show upload progress, or update content directly from your web applications. "
+
+
+=end DESCRIPTION
+
+Amazon Web Services Blog: Amazon S3 - Cross Origin Resource Sharing Support - L<link|http://aws.typepad.com/aws/2012/08/amazon-s3-cross-origin-resource-sharing.html>
+
+=item "You can implement HTML5 drag and drop uploads to Amazon S3, show upload progress, or update content directly from your web applications. "
+
+
+=begin comment :src
+{
+  "rawLink": "http://aws.typepad.com/aws/2012/08/amazon-s3-cross-origin-resource-sharing.html",
+  "body": "Amazon Web Services Blog: Amazon S3 - Cross Origin Resource Sharing Support - <a rel=\"nofollow\" href=\"http://aws.typepad.com/aws/2012/08/amazon-s3-cross-origin-resource-sharing.html\" title=\"http://aws.typepad.com/aws/2012/08/amazon-s3-cross-origin-resource-sharing.html\">http://aws.typepad.com/aws...</a>",
+  "url": "http://friendfeed.com/zag/33f9b240/amazon-web-services-blog-s3-cross-origin",
+  "id": "e/33f9b2403dd04c659a4247a564f4538b",
+  "date": "2012-09-07T14:31:08Z",
+  "rawBody": "Amazon Web Services Blog: Amazon S3 - Cross Origin Resource Sharing Support",
+  "comments": [
+    {
+      "rawBody": "\"You can implement HTML5 drag and drop uploads to Amazon S3, show upload progress, or update content directly from your web applications. \"",
+      "id": "e/33f9b2403dd04c659a4247a564f4538b/c/3783d307d8864642a4e2146811b21ae5",
+      "date": "2012-09-07T14:31:08Z",
+      "from": {
+        "type": "user",
+        "id": "zag",
+        "name": "углы «Исимуры»"
+      },
+      "via": {
+        "name": "Bookmarklet",
+        "url": "http://friendfeed.com/share/bookmarklet"
+      },
+      "body": "&quot;You can implement HTML5 drag and drop uploads to Amazon S3, show upload progress, or update content directly from your web applications. &quot;"
+    }
+  ],
+  "via": {
+    "name": "Bookmarklet",
+    "url": "http://friendfeed.com/share/bookmarklet"
+  },
+  "from": {
+    "type": "user",
+    "id": "zag",
+    "name": "углы «Исимуры»"
+  }
+}
+=end comment
+
+=end pod

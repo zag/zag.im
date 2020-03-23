@@ -1,0 +1,62 @@
+=begin pod :pubdate('2010-07-23T11:11:12Z') :type<note> 
+=NAME Правильная распальцовка для тру-ИТ-шников ( RT @mkrentovskiy )
+
+=begin DESCRIPTION
+
+Правильная распальцовка для тру-ИТ-шников ( RT @mkrentovskiy )
+=for Image :width(119) :link('http://m.friendfeed-media.com/24494c93b4bcda7ddb4cfa939df0238cf3d0b30c') :height(175) :preview
+media/70fd47bd482cf05fb188addc4cf5688457e50b90.jpg
+
+
+
+=end DESCRIPTION
+
+Правильная распальцовка для тру-ИТ-шников ( RT @mkrentovskiy )
+=for Image :width(119) :link('http://m.friendfeed-media.com/24494c93b4bcda7ddb4cfa939df0238cf3d0b30c') :height(175) :preview
+media/70fd47bd482cf05fb188addc4cf5688457e50b90.jpg
+
+
+
+=begin comment :src
+{
+  "body": "Правильная распальцовка для тру-ИТ-шников ( RT @mkrentovskiy )",
+  "rawLink": "http://friendfeed.com/e/cde2b08c-ef81-46ea-a44f-698967cf9425",
+  "likes": [
+    {
+      "from": {
+        "id": "sharifulin",
+        "type": "user",
+        "name": "Анатолий Шарифулин"
+      },
+      "date": "2010-07-23T19:47:14Z"
+    },
+    {
+      "date": "2010-07-23T11:12:54Z",
+      "from": {
+        "type": "user",
+        "id": "menelvagor",
+        "name": "Dmitriy Olerinskiy"
+      }
+    }
+  ],
+  "rawBody": "Правильная распальцовка для тру-ИТ-шников ( RT @mkrentovskiy )",
+  "id": "e/cde2b08cef8146eaa44f698967cf9425",
+  "date": "2010-07-23T11:11:12Z",
+  "thumbnails": [
+    {
+      "height": 175,
+      "link": "http://m.friendfeed-media.com/24494c93b4bcda7ddb4cfa939df0238cf3d0b30c",
+      "url": "http://m.friendfeed-media.com/70fd47bd482cf05fb188addc4cf5688457e50b90",
+      "width": 119
+    }
+  ],
+  "url": "http://friendfeed.com/zag/cde2b08c/rt-mkrentovskiy",
+  "from": {
+    "name": "углы «Исимуры»",
+    "id": "zag",
+    "type": "user"
+  }
+}
+=end comment
+
+=end pod

@@ -1,0 +1,32 @@
+=begin pod :pubdate('2012-10-30T15:35:40Z') :type<note> 
+=NAME Если бы у меня был домен .mail, я бы отдал ru.mail бесплатно
+
+=begin DESCRIPTION
+
+Если бы у меня был домен .mail, я бы отдал ru.mail бесплатно
+
+
+
+=end DESCRIPTION
+
+Если бы у меня был домен .mail, я бы отдал ru.mail бесплатно
+
+
+
+=begin comment :src
+{
+  "body": "Если бы у меня был домен .mail, я бы отдал ru.mail бесплатно",
+  "rawLink": "http://friendfeed.com/e/daf19a8c-43fd-4cfb-809e-f6d015911cc9",
+  "id": "e/daf19a8c43fd4cfb809ef6d015911cc9",
+  "rawBody": "Если бы у меня был домен .mail, я бы отдал ru.mail бесплатно",
+  "date": "2012-10-30T15:35:40Z",
+  "url": "http://friendfeed.com/zag/daf19a8c/mail-ru",
+  "from": {
+    "name": "углы «Исимуры»",
+    "id": "zag",
+    "type": "user"
+  }
+}
+=end comment
+
+=end pod

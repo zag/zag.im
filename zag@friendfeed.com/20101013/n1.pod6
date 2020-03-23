@@ -1,0 +1,59 @@
+=begin pod :pubdate('2010-10-13T09:12:22Z') :type<note> :tags<newtwitter twitterway>
+=NAME #newtwitter ? скорее #twitterway
+
+=begin DESCRIPTION
+
+#newtwitter ? скорее #twitterway
+=for Image :width(178) :link('http://m.friendfeed-media.com/a0d32291cfa04dc0f822ad76d017a986182e1c48') :height(175) :preview
+media/90f133a86626499cef089d434003068703f9684d.jpg
+
+=item I<#>cliqset
+
+
+=end DESCRIPTION
+
+#newtwitter ? скорее #twitterway
+=for Image :width(178) :link('http://m.friendfeed-media.com/a0d32291cfa04dc0f822ad76d017a986182e1c48') :height(175) :preview
+media/90f133a86626499cef089d434003068703f9684d.jpg
+
+=item I<#>cliqset
+
+
+=begin comment :src
+{
+  "comments": [
+    {
+      "rawBody": "I<#>cliqset",
+      "id": "e/1c91f634e4e84a4c997cf71adbe6457b/c/ffb785333d744db59d09a73e0daa3d6b",
+      "from": {
+        "type": "user",
+        "id": "zag",
+        "name": "углы «Исимуры»"
+      },
+      "date": "2010-10-13T09:16:03Z",
+      "body": "<a href=\"http://friendfeed.com/search?q=%23cliqset\">#cliqset</a>"
+    }
+  ],
+  "from": {
+    "name": "углы «Исимуры»",
+    "type": "user",
+    "id": "zag"
+  },
+  "body": "<a href=\"http://friendfeed.com/search?q=%23newtwitter\">#newtwitter</a> ? скорее <a href=\"http://friendfeed.com/search?q=%23twitterway\">#twitterway</a>",
+  "rawLink": "http://friendfeed.com/e/1c91f634-e4e8-4a4c-997c-f71adbe6457b",
+  "date": "2010-10-13T09:12:22Z",
+  "id": "e/1c91f634e4e84a4c997cf71adbe6457b",
+  "rawBody": "#newtwitter ? скорее #twitterway",
+  "url": "http://friendfeed.com/zag/1c91f634/newtwitter-twitterway",
+  "thumbnails": [
+    {
+      "width": 178,
+      "url": "http://m.friendfeed-media.com/90f133a86626499cef089d434003068703f9684d",
+      "height": 175,
+      "link": "http://m.friendfeed-media.com/a0d32291cfa04dc0f822ad76d017a986182e1c48"
+    }
+  ]
+}
+=end comment
+
+=end pod

@@ -1,0 +1,77 @@
+=begin pod :pubdate('2010-10-18T07:54:17Z') :type<note> 
+=NAME Monocle - Books in the browser
+
+=begin DESCRIPTION
+
+Monocle - Books in the browser - L<link|http://monocle.inventivelabs.com.au/#>
+=for Image :width(135) :link('http://monocle.inventivelabs.com.au/#') :height(175) :preview
+media/5bce2f30e970f1c15f2e7a9b7dc5dac53844c953.jpg
+=for Image :width(337) :link('http://monocle.inventivelabs.com.au/#') :height(50) :preview
+media/28e8cb0d9968587ea354e23443e15361a0f9335c.png
+
+=item You can embed a ‘book’ on any webpage with two lines of code — one to include the library, one to initialize the reader. Monocle is approximately 25kb and has no dependencies on external JavaScript libraries.
+
+
+=end DESCRIPTION
+
+Monocle - Books in the browser - L<link|http://monocle.inventivelabs.com.au/#>
+=for Image :width(135) :link('http://monocle.inventivelabs.com.au/#') :height(175) :preview
+media/5bce2f30e970f1c15f2e7a9b7dc5dac53844c953.jpg
+=for Image :width(337) :link('http://monocle.inventivelabs.com.au/#') :height(50) :preview
+media/28e8cb0d9968587ea354e23443e15361a0f9335c.png
+
+=item You can embed a ‘book’ on any webpage with two lines of code — one to include the library, one to initialize the reader. Monocle is approximately 25kb and has no dependencies on external JavaScript libraries.
+
+
+=begin comment :src
+{
+  "rawBody": "Monocle - Books in the browser",
+  "id": "e/180b8eb6fcb041caaaa5919dd7cc587f",
+  "date": "2010-10-18T07:54:17Z",
+  "url": "http://friendfeed.com/zag/180b8eb6/monocle-books-in-browser",
+  "thumbnails": [
+    {
+      "link": "http://monocle.inventivelabs.com.au/#",
+      "height": 175,
+      "width": 135,
+      "url": "http://m.friendfeed-media.com/5bce2f30e970f1c15f2e7a9b7dc5dac53844c953"
+    },
+    {
+      "url": "http://m.friendfeed-media.com/28e8cb0d9968587ea354e23443e15361a0f9335c",
+      "width": 337,
+      "link": "http://monocle.inventivelabs.com.au/#",
+      "height": 50
+    }
+  ],
+  "body": "Monocle - Books in the browser - <a rel=\"nofollow\" href=\"http://monocle.inventivelabs.com.au/#\" title=\"http://monocle.inventivelabs.com.au/#\">http://monocle.inventivelabs.com.au/#</a>",
+  "rawLink": "http://monocle.inventivelabs.com.au/#",
+  "via": {
+    "url": "http://friendfeed.com/share/bookmarklet",
+    "name": "Bookmarklet"
+  },
+  "from": {
+    "name": "углы «Исимуры»",
+    "type": "user",
+    "id": "zag"
+  },
+  "comments": [
+    {
+      "body": "You can embed a ‘book’ on any webpage with two lines of code — one to include the library, one to initialize the reader. Monocle is approximately 25kb and has no dependencies on external JavaScript libraries.",
+      "via": {
+        "url": "http://friendfeed.com/share/bookmarklet",
+        "name": "Bookmarklet"
+      },
+      "id": "e/180b8eb6fcb041caaaa5919dd7cc587f/c/cafc0ebe1a5f49df9b4deb1f6c632107",
+      "date": "2010-10-18T07:54:17Z",
+      "rawBody": "You can embed a ‘book’ on any webpage with two lines of code — one to include the library, one to initialize the reader. Monocle is approximately 25kb and has no dependencies on external JavaScript libraries.",
+      "from": {
+        "name": "углы «Исимуры»",
+        "type": "user",
+        "id": "zag"
+      }
+    }
+  ]
+}
+=end comment
+
+=end pod

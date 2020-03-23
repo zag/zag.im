@@ -1,0 +1,43 @@
+=begin pod :pubdate('2010-10-27T09:28:36Z') :type<note> :tags<ps3>
+=NAME Оказывается в xbox нет браузера. В #ps3 есть web браузер и flash.
+
+=begin DESCRIPTION
+
+Оказывается в xbox нет браузера. В #ps3 есть web браузер и flash.
+
+
+
+=end DESCRIPTION
+
+Оказывается в xbox нет браузера. В #ps3 есть web браузер и flash.
+
+
+
+=begin comment :src
+{
+  "from": {
+    "id": "zag",
+    "type": "user",
+    "name": "углы «Исимуры»"
+  },
+  "id": "e/030bbf0752044879bfaa407f0f77023e",
+  "date": "2010-10-27T09:28:36Z",
+  "rawBody": "Оказывается в xbox нет браузера. В #ps3 есть web браузер и flash.",
+  "url": "http://friendfeed.com/zag/030bbf07/xbox-ps3-web-flash",
+  "body": "Оказывается в xbox нет браузера. В <a href=\"http://friendfeed.com/search?q=%23ps3\">#ps3</a> есть web браузер и flash.",
+  "likes": [
+    {
+      "date": "2010-10-27T09:29:20Z",
+      "from": {
+        "type": "user",
+        "id": "iviotor",
+        "private": true,
+        "name": "IvIotor"
+      }
+    }
+  ],
+  "rawLink": "http://friendfeed.com/e/030bbf07-5204-4879-bfaa-407f0f77023e"
+}
+=end comment
+
+=end pod

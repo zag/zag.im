@@ -1,0 +1,88 @@
+=begin pod :pubdate('2010-05-08T18:13:36Z') :type<note> 
+=NAME "Закон есть закон" 1958. "- ваш отец был занят законными путями обхода закона"
+
+=begin DESCRIPTION
+
+"Закон есть закон" 1958. "- ваш отец был занят законными путями обхода закона"
+=for Image :width(233) :link('http://m.friendfeed-media.com/97fd675654391e80379c07555de626c9d5e3b292') :height(175) :preview
+media/a12a16a21bbaddc6cb5489c333727e2f3ce2b04c.jpg
+=for Image :width(233) :link('http://m.friendfeed-media.com/648d13e100b96922295d107364b00914cfe7d0d2') :height(175) :preview
+media/3d8b41a300d7c95ab2a1d317e0a18ec7316a266c.jpg
+=for Image :width(233) :link('http://m.friendfeed-media.com/4cc530c91d80ff8cc05be1ea2a6c5fdb820b917c') :height(175) :preview
+media/9f930ce41f46bce7c0ac9b5434d8710239c29517.jpg
+=for Image :width(233) :link('http://m.friendfeed-media.com/eb47ec16fb8d5d1c50226bf3bcc20e3510a6d89d') :height(175) :preview
+media/01d99facdec4e2505a9c8dd317ff12a135f35093.jpg
+=for Image :width(233) :link('http://m.friendfeed-media.com/f1dcefb31ea00f55eb88a164521544ad90896eb5') :height(175) :preview
+media/7e74b4df718b6c0af2f9af6fb18f76626bc03183.jpg
+
+
+
+=end DESCRIPTION
+
+"Закон есть закон" 1958. "- ваш отец был занят законными путями обхода закона"
+=for Image :width(233) :link('http://m.friendfeed-media.com/97fd675654391e80379c07555de626c9d5e3b292') :height(175) :preview
+media/a12a16a21bbaddc6cb5489c333727e2f3ce2b04c.jpg
+=for Image :width(233) :link('http://m.friendfeed-media.com/648d13e100b96922295d107364b00914cfe7d0d2') :height(175) :preview
+media/3d8b41a300d7c95ab2a1d317e0a18ec7316a266c.jpg
+=for Image :width(233) :link('http://m.friendfeed-media.com/4cc530c91d80ff8cc05be1ea2a6c5fdb820b917c') :height(175) :preview
+media/9f930ce41f46bce7c0ac9b5434d8710239c29517.jpg
+=for Image :width(233) :link('http://m.friendfeed-media.com/eb47ec16fb8d5d1c50226bf3bcc20e3510a6d89d') :height(175) :preview
+media/01d99facdec4e2505a9c8dd317ff12a135f35093.jpg
+=for Image :width(233) :link('http://m.friendfeed-media.com/f1dcefb31ea00f55eb88a164521544ad90896eb5') :height(175) :preview
+media/7e74b4df718b6c0af2f9af6fb18f76626bc03183.jpg
+
+
+
+=begin comment :src
+{
+  "body": "&quot;Закон есть закон&quot; 1958. &quot;- ваш отец был занят законными путями обхода закона&quot;",
+  "rawLink": "http://friendfeed.com/e/bfd3b55a-2435-47d5-9355-7adb2be27780",
+  "date": "2010-05-08T18:13:36Z",
+  "id": "e/bfd3b55a243547d593557adb2be27780",
+  "thumbnails": [
+    {
+      "height": 175,
+      "link": "http://m.friendfeed-media.com/97fd675654391e80379c07555de626c9d5e3b292",
+      "url": "http://m.friendfeed-media.com/a12a16a21bbaddc6cb5489c333727e2f3ce2b04c",
+      "width": 233
+    },
+    {
+      "link": "http://m.friendfeed-media.com/648d13e100b96922295d107364b00914cfe7d0d2",
+      "height": 175,
+      "width": 233,
+      "url": "http://m.friendfeed-media.com/3d8b41a300d7c95ab2a1d317e0a18ec7316a266c"
+    },
+    {
+      "link": "http://m.friendfeed-media.com/4cc530c91d80ff8cc05be1ea2a6c5fdb820b917c",
+      "height": 175,
+      "url": "http://m.friendfeed-media.com/9f930ce41f46bce7c0ac9b5434d8710239c29517",
+      "width": 233
+    },
+    {
+      "url": "http://m.friendfeed-media.com/01d99facdec4e2505a9c8dd317ff12a135f35093",
+      "width": 233,
+      "link": "http://m.friendfeed-media.com/eb47ec16fb8d5d1c50226bf3bcc20e3510a6d89d",
+      "height": 175
+    },
+    {
+      "link": "http://m.friendfeed-media.com/f1dcefb31ea00f55eb88a164521544ad90896eb5",
+      "height": 175,
+      "width": 233,
+      "url": "http://m.friendfeed-media.com/7e74b4df718b6c0af2f9af6fb18f76626bc03183"
+    }
+  ],
+  "rawBody": "\"Закон есть закон\" 1958. \"- ваш отец был занят законными путями обхода закона\"",
+  "url": "http://friendfeed.com/zag/bfd3b55a/1958",
+  "via": {
+    "url": "http://friendfeed.com/share/mail",
+    "name": "email"
+  },
+  "from": {
+    "type": "user",
+    "id": "zag",
+    "name": "углы «Исимуры»"
+  }
+}
+=end comment
+
+=end pod

@@ -1,0 +1,106 @@
+=begin pod :pubdate('2010-05-11T08:59:24Z') :type<note> 
+=NAME IBM Debuts New Social Media Analytics Tool.
+
+=begin DESCRIPTION
+
+IBM Debuts New Social Media Analytics Tool. - L<link|http://mashable.com/2010/05/11/ibm-social-media-analytics-tool/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+Mashable+%28Mashable%29&utm_content=Google+Reader>
+=for Image :width(239) :link('http://mashable.com/2010/05/11/ibm-social-media-analytics-tool/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+Mashable+%28Mashable%29&utm_content=Google+Reader') :height(175) :preview
+media/8d01515c7363868bc0d26615651d919c6de512d2.jpg
+=for Image :width(256) :link('http://mashable.com/2010/05/11/ibm-social-media-analytics-tool/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+Mashable+%28Mashable%29&utm_content=Google+Reader') :height(175) :preview
+media/2a19e0c4825f24a42b515a4128e9dd711a322a7d.jpg
+=for Image :width(253) :link('http://mashable.com/2010/05/11/ibm-social-media-analytics-tool/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+Mashable+%28Mashable%29&utm_content=Google+Reader') :height(175) :preview
+media/24f9d3dd5d40dafb6dda9b2dd030d0833d0cb06a.jpg
+
+=item IBM is introducing a new social media monitoring tool, one that it says will measure consumer sentiment from data gathered on Twitter, blogs and other web services and networks.
+
+
+=end DESCRIPTION
+
+IBM Debuts New Social Media Analytics Tool. - L<link|http://mashable.com/2010/05/11/ibm-social-media-analytics-tool/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+Mashable+%28Mashable%29&utm_content=Google+Reader>
+=for Image :width(239) :link('http://mashable.com/2010/05/11/ibm-social-media-analytics-tool/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+Mashable+%28Mashable%29&utm_content=Google+Reader') :height(175) :preview
+media/8d01515c7363868bc0d26615651d919c6de512d2.jpg
+=for Image :width(256) :link('http://mashable.com/2010/05/11/ibm-social-media-analytics-tool/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+Mashable+%28Mashable%29&utm_content=Google+Reader') :height(175) :preview
+media/2a19e0c4825f24a42b515a4128e9dd711a322a7d.jpg
+=for Image :width(253) :link('http://mashable.com/2010/05/11/ibm-social-media-analytics-tool/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+Mashable+%28Mashable%29&utm_content=Google+Reader') :height(175) :preview
+media/24f9d3dd5d40dafb6dda9b2dd030d0833d0cb06a.jpg
+
+=item IBM is introducing a new social media monitoring tool, one that it says will measure consumer sentiment from data gathered on Twitter, blogs and other web services and networks.
+
+
+=begin comment :src
+{
+  "from": {
+    "name": "углы «Исимуры»",
+    "id": "zag",
+    "type": "user"
+  },
+  "via": {
+    "url": "http://friendfeed.com/share/bookmarklet",
+    "name": "Bookmarklet"
+  },
+  "comments": [
+    {
+      "body": "IBM is introducing a new social media monitoring tool, one that it says will measure consumer sentiment from data gathered on Twitter, blogs and other web services and networks.",
+      "id": "e/04e553c05657465ebf3004e4bb03b85e/c/d2f1d373d1644e6493999845d755a582",
+      "from": {
+        "name": "углы «Исимуры»",
+        "type": "user",
+        "id": "zag"
+      },
+      "date": "2010-05-11T08:59:24Z",
+      "rawBody": "IBM is introducing a new social media monitoring tool, one that it says will measure consumer sentiment from data gathered on Twitter, blogs and other web services and networks.",
+      "via": {
+        "url": "http://friendfeed.com/share/bookmarklet",
+        "name": "Bookmarklet"
+      }
+    }
+  ],
+  "id": "e/04e553c05657465ebf3004e4bb03b85e",
+  "rawBody": "IBM Debuts New Social Media Analytics Tool.",
+  "date": "2010-05-11T08:59:24Z",
+  "thumbnails": [
+    {
+      "width": 239,
+      "url": "http://m.friendfeed-media.com/8d01515c7363868bc0d26615651d919c6de512d2",
+      "height": 175,
+      "link": "http://mashable.com/2010/05/11/ibm-social-media-analytics-tool/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+Mashable+%28Mashable%29&utm_content=Google+Reader"
+    },
+    {
+      "width": 256,
+      "url": "http://m.friendfeed-media.com/2a19e0c4825f24a42b515a4128e9dd711a322a7d",
+      "link": "http://mashable.com/2010/05/11/ibm-social-media-analytics-tool/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+Mashable+%28Mashable%29&utm_content=Google+Reader",
+      "height": 175
+    },
+    {
+      "url": "http://m.friendfeed-media.com/24f9d3dd5d40dafb6dda9b2dd030d0833d0cb06a",
+      "width": 253,
+      "height": 175,
+      "link": "http://mashable.com/2010/05/11/ibm-social-media-analytics-tool/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+Mashable+%28Mashable%29&utm_content=Google+Reader"
+    }
+  ],
+  "url": "http://friendfeed.com/zag/04e553c0/ibm-debuts-new-social-media-analytics-tool",
+  "likes": [
+    {
+      "date": "2010-05-11T12:29:13Z",
+      "from": {
+        "name": "Белка",
+        "id": "elnie",
+        "type": "user"
+      }
+    },
+    {
+      "date": "2010-05-11T09:06:20Z",
+      "from": {
+        "id": "iviotor",
+        "type": "user",
+        "private": true,
+        "name": "IvIotor"
+      }
+    }
+  ],
+  "rawLink": "http://mashable.com/2010/05/11/ibm-social-media-analytics-tool/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+Mashable+%28Mashable%29&utm_content=Google+Reader",
+  "body": "IBM Debuts New Social Media Analytics Tool. - <a rel=\"nofollow\" href=\"http://mashable.com/2010/05/11/ibm-social-media-analytics-tool/?utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+Mashable+%28Mashable%29&amp;utm_content=Google+Reader\" title=\"http://mashable.com/2010/05/11/ibm-social-media-analytics-tool/?utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+Mashable+%28Mashable%29&amp;utm_content=Google+Reader\">http://mashable.com/2010...</a>"
+}
+=end comment
+
+=end pod

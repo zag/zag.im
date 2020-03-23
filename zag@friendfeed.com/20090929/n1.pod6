@@ -1,0 +1,36 @@
+=begin pod :pubdate('2009-09-29T11:49:53Z') :type<note> :tags<freebsd rakudo parrot 21 perl6 freebsd>
+=NAME Updated #freebsd ports of #rakudo and #parrot to Parrot 1.6.0 and Rakudo #21("Seattle") #perl6 #freebsd http://rakudoport.sourceforge.net/
+
+=begin DESCRIPTION
+
+Updated #freebsd ports of #rakudo and #parrot to Parrot 1.6.0 and Rakudo #21("Seattle") #perl6 #freebsd http://rakudoport.sourceforge.net/ - L<link|http://twitter.com/zagru/statuses/4468147502>
+
+
+
+=end DESCRIPTION
+
+Updated #freebsd ports of #rakudo and #parrot to Parrot 1.6.0 and Rakudo #21("Seattle") #perl6 #freebsd http://rakudoport.sourceforge.net/ - L<link|http://twitter.com/zagru/statuses/4468147502>
+
+
+
+=begin comment :src
+{
+  "via": {
+    "url": "http://twitter.com/zagru/statuses/4468147502",
+    "name": "Twitter"
+  },
+  "from": {
+    "name": "углы «Исимуры»",
+    "type": "user",
+    "id": "zag"
+  },
+  "rawLink": "http://twitter.com/zagru/statuses/4468147502",
+  "body": "Updated <a rel=\"nofollow\" href=\"http://search.twitter.com/search?q=%23freebsd\">#freebsd</a> ports of <a rel=\"nofollow\" href=\"http://search.twitter.com/search?q=%23rakudo\">#rakudo</a> and <a rel=\"nofollow\" href=\"http://search.twitter.com/search?q=%23parrot\">#parrot</a> to Parrot 1.6.0 and Rakudo <a rel=\"nofollow\" href=\"http://search.twitter.com/search?q=%2321\">#21</a>(&quot;Seattle&quot;) <a rel=\"nofollow\" href=\"http://search.twitter.com/search?q=%23perl6\">#perl6</a> <a rel=\"nofollow\" href=\"http://search.twitter.com/search?q=%23freebsd\">#freebsd</a> <a rel=\"nofollow\" href=\"http://rakudoport.sourceforge.net/\" title=\"http://rakudoport.sourceforge.net/\">http://rakudoport.sourceforge.net/</a>",
+  "id": "e/bdfd351e687ba8d295dfb7c94fdbf26a",
+  "date": "2009-09-29T11:49:53Z",
+  "url": "http://friendfeed.com/zag/bdfd351e/updated-freebsd-ports-of-rakudo-and-parrot-to",
+  "rawBody": "Updated #freebsd ports of #rakudo and #parrot to Parrot 1.6.0 and Rakudo #21(\"Seattle\") #perl6 #freebsd http://rakudoport.sourceforge.net/"
+}
+=end comment
+
+=end pod

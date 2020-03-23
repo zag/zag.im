@@ -1,0 +1,36 @@
+=begin pod :pubdate('2010-12-03T08:47:33Z') :type<note> 
+=NAME RT @perlbuzz: Perl 6 significantly nearer, and Rakudo looks very good http://www.wellho.net/archives/2010/12/perl_6_signific_1.html
+
+=begin DESCRIPTION
+
+RT @perlbuzz: Perl 6 significantly nearer, and Rakudo looks very good http://www.wellho.net/archives/2010/12/perl_6_signific_1.html - L<link|http://twitter.com/zagru/statuses/10616115604496384>
+
+
+
+=end DESCRIPTION
+
+RT @perlbuzz: Perl 6 significantly nearer, and Rakudo looks very good http://www.wellho.net/archives/2010/12/perl_6_signific_1.html - L<link|http://twitter.com/zagru/statuses/10616115604496384>
+
+
+
+=begin comment :src
+{
+  "via": {
+    "name": "Twitter",
+    "url": "http://twitter.com/zagru/statuses/10616115604496384"
+  },
+  "from": {
+    "type": "user",
+    "id": "zag",
+    "name": "углы «Исимуры»"
+  },
+  "rawLink": "http://twitter.com/zagru/statuses/10616115604496384",
+  "body": "RT @<a rel=\"nofollow\" href=\"http://twitter.com/perlbuzz\">perlbuzz</a>: Perl 6 significantly nearer, and Rakudo looks very good <a rel=\"nofollow\" href=\"http://www.wellho.net/archives/2010/12/perl_6_signific_1.html\" title=\"http://www.wellho.net/archives/2010/12/perl_6_signific_1.html\">http://www.wellho.net/archive...</a>",
+  "date": "2010-12-03T08:47:33Z",
+  "id": "e/152ebe28858e8786a9826bd8694445b4",
+  "rawBody": "RT @perlbuzz: Perl 6 significantly nearer, and Rakudo looks very good http://www.wellho.net/archives/2010/12/perl_6_signific_1.html",
+  "url": "http://friendfeed.com/zag/152ebe28/rt-perlbuzz-perl-6-significantly-nearer-and"
+}
+=end comment
+
+=end pod

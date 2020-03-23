@@ -1,0 +1,42 @@
+=begin pod :pubdate('2011-05-06T05:23:30Z') :type<note> 
+=NAME RT @dchest: Книга известного автора http://t.co/DxvgEuO
+
+=begin DESCRIPTION
+
+RT @dchest: Книга известного автора http://t.co/DxvgEuO - L<link|http://twitter.com/zagru/statuses/66372496160591872>
+
+
+
+=end DESCRIPTION
+
+RT @dchest: Книга известного автора http://t.co/DxvgEuO - L<link|http://twitter.com/zagru/statuses/66372496160591872>
+
+
+
+=begin comment :src
+{
+  "from": {
+    "name": "углы «Исимуры»",
+    "id": "zag",
+    "type": "user"
+  },
+  "via": {
+    "url": "http://twitter.com/zagru/statuses/66372496160591872",
+    "name": "Twitter"
+  },
+  "rawLink": "http://twitter.com/zagru/statuses/66372496160591872",
+  "body": "RT @<a rel=\"nofollow\" href=\"http://twitter.com/dchest\">dchest</a>: Книга известного автора <a rel=\"nofollow\" href=\"http://t.co/DxvgEuO\" title=\"http://yfrog.com/h3dlotp\">http://yfrog.com/h3dlotp</a>",
+  "rawBody": "RT @dchest: Книга известного автора http://t.co/DxvgEuO",
+  "id": "e/70b9e2592faa5ee14d0ea351035ae367",
+  "date": "2011-05-06T05:23:30Z",
+  "url": "http://friendfeed.com/zag/70b9e259/rt-dchest",
+  "thumbnails": [
+    {
+      "url": "http://yfrog.com/h3dlotp.th.jpg",
+      "link": "http://yfrog.com/h3dlotp"
+    }
+  ]
+}
+=end comment
+
+=end pod

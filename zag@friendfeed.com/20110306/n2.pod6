@@ -1,0 +1,64 @@
+=begin pod :pubdate('2011-03-06T07:24:44Z') :type<note> 
+=NAME Ninja Moped - Insert Coin
+
+=begin DESCRIPTION
+
+Ninja Moped - Insert Coin - L<link|http://www.youtube.com/watch?v=AFz_IuNTjts&feature=player_embedded>
+
+=item Сомневаюсь, что ребята действительно делали это вручную.
+
+
+=end DESCRIPTION
+
+Ninja Moped - Insert Coin - L<link|http://www.youtube.com/watch?v=AFz_IuNTjts&feature=player_embedded>
+
+=item Сомневаюсь, что ребята действительно делали это вручную.
+
+
+=begin comment :src
+{
+  "body": "Ninja Moped - Insert Coin - <a rel=\"nofollow\" href=\"http://www.youtube.com/watch?v=AFz_IuNTjts&amp;feature=player_embedded\" title=\"http://www.youtube.com/watch?v=AFz_IuNTjts&amp;feature=player_embedded\">http://www.youtube.com/watch...</a>",
+  "rawLink": "http://www.youtube.com/watch?v=AFz_IuNTjts&feature=player_embedded",
+  "id": "e/3caf3bc804d7451c857f62e392aef60f",
+  "date": "2011-03-06T07:24:44Z",
+  "url": "http://friendfeed.com/zag/3caf3bc8/ninja-moped-insert-coin",
+  "rawBody": "Ninja Moped - Insert Coin",
+  "thumbnails": [
+    {
+      "url": "http://img.youtube.com/vi/AFz_IuNTjts/2.jpg",
+      "width": 130,
+      "player": "<object width=\"425\" height=\"350\"><param name=\"movie\" value=\"http://www.youtube.com/v/AFz_IuNTjts&amp;autoplay=1&amp;showsearch=0&amp;ap=%2526fmt%3D18&amp;fs=1\"></param><param name=\"allowFullScreen\" value=\"true\"><embed src=\"http://www.youtube.com/v/AFz_IuNTjts&amp;autoplay=1&amp;showsearch=0&amp;ap=%2526fmt%3D18&amp;fs=1\" type=\"application/x-shockwave-flash\" allowfullscreen=\"true\" width=\"425\" height=\"350\"></embed></object>",
+      "height": 97,
+      "link": "http://www.youtube.com/watch?v=AFz_IuNTjts&feature=player_embedded"
+    }
+  ],
+  "comments": [
+    {
+      "via": {
+        "url": "http://friendfeed.com/share/bookmarklet",
+        "name": "Bookmarklet"
+      },
+      "rawBody": "Сомневаюсь, что ребята действительно делали это вручную.",
+      "id": "e/3caf3bc804d7451c857f62e392aef60f/c/84c71f17765c42b3bc52084487c22c58",
+      "date": "2011-03-06T07:24:44Z",
+      "from": {
+        "id": "zag",
+        "type": "user",
+        "name": "углы «Исимуры»"
+      },
+      "body": "Сомневаюсь, что ребята действительно делали это вручную."
+    }
+  ],
+  "from": {
+    "name": "углы «Исимуры»",
+    "type": "user",
+    "id": "zag"
+  },
+  "via": {
+    "name": "Bookmarklet",
+    "url": "http://friendfeed.com/share/bookmarklet"
+  }
+}
+=end comment
+
+=end pod

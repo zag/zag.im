@@ -1,0 +1,78 @@
+=begin pod :pubdate('2011-06-16T04:29:02Z') :type<note> 
+=NAME What are some interesting examples of photographs which show historical figures in unexpected places or company? - Quora
+
+=begin DESCRIPTION
+
+What are some interesting examples of photographs which show historical figures in unexpected places or company? - Quora - L<link|http://www.quora.com/What-are-some-interesting-examples-of-photographs-which-show-historical-figures-in-unexpected-places-or-company>
+=for Image :width(256) :link('http://www.quora.com/What-are-some-interesting-examples-of-photographs-which-show-historical-figures-in-unexpected-places-or-company') :height(175) :preview
+media/60ea224a568121d9fb29924b0a0428ca35e0d322.jpg
+=for Image :width(257) :link('http://www.quora.com/What-are-some-interesting-examples-of-photographs-which-show-historical-figures-in-unexpected-places-or-company') :height(175) :preview
+media/833f80da5df8ea4d85cbcbb71b2aafc97711ba55.jpg
+=for Image :width(265) :link('http://www.quora.com/What-are-some-interesting-examples-of-photographs-which-show-historical-figures-in-unexpected-places-or-company') :height(175) :preview
+media/6c20a49a4b77f52e1441ef18ba5b7c6229b9f327.jpg
+
+
+
+=end DESCRIPTION
+
+What are some interesting examples of photographs which show historical figures in unexpected places or company? - Quora - L<link|http://www.quora.com/What-are-some-interesting-examples-of-photographs-which-show-historical-figures-in-unexpected-places-or-company>
+=for Image :width(256) :link('http://www.quora.com/What-are-some-interesting-examples-of-photographs-which-show-historical-figures-in-unexpected-places-or-company') :height(175) :preview
+media/60ea224a568121d9fb29924b0a0428ca35e0d322.jpg
+=for Image :width(257) :link('http://www.quora.com/What-are-some-interesting-examples-of-photographs-which-show-historical-figures-in-unexpected-places-or-company') :height(175) :preview
+media/833f80da5df8ea4d85cbcbb71b2aafc97711ba55.jpg
+=for Image :width(265) :link('http://www.quora.com/What-are-some-interesting-examples-of-photographs-which-show-historical-figures-in-unexpected-places-or-company') :height(175) :preview
+media/6c20a49a4b77f52e1441ef18ba5b7c6229b9f327.jpg
+
+
+
+=begin comment :src
+{
+  "likes": [
+    {
+      "from": {
+        "id": "mishin",
+        "type": "user",
+        "name": "Николай"
+      },
+      "date": "2011-06-16T08:59:20Z"
+    }
+  ],
+  "rawLink": "http://www.quora.com/What-are-some-interesting-examples-of-photographs-which-show-historical-figures-in-unexpected-places-or-company",
+  "body": "What are some interesting examples of photographs which show historical figures in unexpected places or company? - Quora - <a rel=\"nofollow\" href=\"http://www.quora.com/What-are-some-interesting-examples-of-photographs-which-show-historical-figures-in-unexpected-places-or-company\" title=\"http://www.quora.com/What-are-some-interesting-examples-of-photographs-which-show-historical-figures-in-unexpected-places-or-company\">http://www.quora.com/What-ar...</a>",
+  "date": "2011-06-16T04:29:02Z",
+  "id": "e/c862b369ccf8475fb0f05f0cdda5d731",
+  "rawBody": "What are some interesting examples of photographs which show historical figures in unexpected places or company? - Quora",
+  "url": "http://friendfeed.com/zag/c862b369/what-are-some-interesting-examples-of",
+  "thumbnails": [
+    {
+      "height": 175,
+      "link": "http://www.quora.com/What-are-some-interesting-examples-of-photographs-which-show-historical-figures-in-unexpected-places-or-company",
+      "width": 256,
+      "url": "http://m.friendfeed-media.com/60ea224a568121d9fb29924b0a0428ca35e0d322"
+    },
+    {
+      "link": "http://www.quora.com/What-are-some-interesting-examples-of-photographs-which-show-historical-figures-in-unexpected-places-or-company",
+      "height": 175,
+      "url": "http://m.friendfeed-media.com/833f80da5df8ea4d85cbcbb71b2aafc97711ba55",
+      "width": 257
+    },
+    {
+      "link": "http://www.quora.com/What-are-some-interesting-examples-of-photographs-which-show-historical-figures-in-unexpected-places-or-company",
+      "height": 175,
+      "url": "http://m.friendfeed-media.com/6c20a49a4b77f52e1441ef18ba5b7c6229b9f327",
+      "width": 265
+    }
+  ],
+  "from": {
+    "id": "zag",
+    "type": "user",
+    "name": "углы «Исимуры»"
+  },
+  "via": {
+    "name": "Bookmarklet",
+    "url": "http://friendfeed.com/share/bookmarklet"
+  }
+}
+=end comment
+
+=end pod

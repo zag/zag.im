@@ -1,0 +1,36 @@
+=begin pod :pubdate('2010-02-21T06:14:17Z') :type<note> :tags<parrot perl>
+=NAME RT @chromatic_x: #parrot and Rakudo #perl 6 are now available in FreeBSD ports: http://www.freebsd.org/cgi/ports.cgi?query=parrot&stype=all
+
+=begin DESCRIPTION
+
+RT @chromatic_x: #parrot and Rakudo #perl 6 are now available in FreeBSD ports: http://www.freebsd.org/cgi/ports.cgi?query=parrot&stype=all - L<link|http://twitter.com/zagru/statuses/9418295074>
+
+
+
+=end DESCRIPTION
+
+RT @chromatic_x: #parrot and Rakudo #perl 6 are now available in FreeBSD ports: http://www.freebsd.org/cgi/ports.cgi?query=parrot&stype=all - L<link|http://twitter.com/zagru/statuses/9418295074>
+
+
+
+=begin comment :src
+{
+  "via": {
+    "name": "Twitter",
+    "url": "http://twitter.com/zagru/statuses/9418295074"
+  },
+  "from": {
+    "name": "углы «Исимуры»",
+    "type": "user",
+    "id": "zag"
+  },
+  "rawLink": "http://twitter.com/zagru/statuses/9418295074",
+  "body": "RT @<a rel=\"nofollow\" href=\"http://twitter.com/chromatic_x\">chromatic_x</a>: <a rel=\"nofollow\" href=\"http://search.twitter.com/search?q=%23parrot\">#parrot</a> and Rakudo <a rel=\"nofollow\" href=\"http://search.twitter.com/search?q=%23perl\">#perl</a> 6 are now available in FreeBSD ports: <a rel=\"nofollow\" href=\"http://www.freebsd.org/cgi/ports.cgi?query=parrot&amp;stype=all\" title=\"http://www.freebsd.org/cgi/ports.cgi?query=parrot&amp;stype=all\">http://www.freebsd.org/cgi...</a>",
+  "url": "http://friendfeed.com/zag/ad37b581/rt-chromatic_x-parrot-and-rakudo-perl-6-are-now",
+  "id": "e/ad37b581ef7ee21305a7879195bf92c6",
+  "date": "2010-02-21T06:14:17Z",
+  "rawBody": "RT @chromatic_x: #parrot and Rakudo #perl 6 are now available in FreeBSD ports: http://www.freebsd.org/cgi/ports.cgi?query=parrot&stype=all"
+}
+=end comment
+
+=end pod

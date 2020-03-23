@@ -1,0 +1,98 @@
+=begin pod :pubdate('2010-03-18T11:02:02Z') :type<note> 
+=NAME Data Mining Using Google
+
+=begin DESCRIPTION
+
+Data Mining Using Google - L<link|http://googlesystem.blogspot.com/2010/03/data-mining-using-google.html>
+=for Image :width(147) :link('http://googlesystem.blogspot.com/2010/03/data-mining-using-google.html') :height(175) :preview
+media/757e203fb1816147067912f488fe7dce758bb292.jpg
+
+=item Use importXML  and an XPath expression to find the number of Google search results: "//p[@id='resultStats']/b[3]"
+=item Не больше 50 функций importXML на лист
+
+
+=end DESCRIPTION
+
+Data Mining Using Google - L<link|http://googlesystem.blogspot.com/2010/03/data-mining-using-google.html>
+=for Image :width(147) :link('http://googlesystem.blogspot.com/2010/03/data-mining-using-google.html') :height(175) :preview
+media/757e203fb1816147067912f488fe7dce758bb292.jpg
+
+=item Use importXML  and an XPath expression to find the number of Google search results: "//p[@id='resultStats']/b[3]"
+=item Не больше 50 функций importXML на лист
+
+
+=begin comment :src
+{
+  "from": {
+    "type": "user",
+    "id": "zag",
+    "name": "углы «Исимуры»"
+  },
+  "via": {
+    "name": "Bookmarklet",
+    "url": "http://friendfeed.com/share/bookmarklet"
+  },
+  "comments": [
+    {
+      "id": "e/4effc9fc0f3c499ca0d4a3d525a357fa/c/5b4908f434454ff7a03dbf0ced896a0f",
+      "from": {
+        "type": "user",
+        "id": "zag",
+        "name": "углы «Исимуры»"
+      },
+      "date": "2010-03-18T11:02:02Z",
+      "rawBody": "Use importXML  and an XPath expression to find the number of Google search results: \"//p[@id='resultStats']/b[3]\"",
+      "via": {
+        "url": "http://friendfeed.com/share/bookmarklet",
+        "name": "Bookmarklet"
+      },
+      "body": "Use importXML  and an XPath expression to find the number of Google search results: &quot;//p[@id='resultStats']/b[3]&quot;"
+    },
+    {
+      "body": "Не больше 50 функций importXML на лист",
+      "rawBody": "Не больше 50 функций importXML на лист",
+      "id": "e/4effc9fc0f3c499ca0d4a3d525a357fa/c/7ae6103da6504a5f85b6fe70a04e0331",
+      "date": "2010-03-18T11:03:46Z",
+      "from": {
+        "name": "углы «Исимуры»",
+        "id": "zag",
+        "type": "user"
+      }
+    }
+  ],
+  "date": "2010-03-18T11:02:02Z",
+  "id": "e/4effc9fc0f3c499ca0d4a3d525a357fa",
+  "rawBody": "Data Mining Using Google",
+  "url": "http://friendfeed.com/zag/4effc9fc/data-mining-using-google",
+  "thumbnails": [
+    {
+      "width": 147,
+      "url": "http://m.friendfeed-media.com/757e203fb1816147067912f488fe7dce758bb292",
+      "height": 175,
+      "link": "http://googlesystem.blogspot.com/2010/03/data-mining-using-google.html"
+    }
+  ],
+  "likes": [
+    {
+      "date": "2010-04-01T04:50:29Z",
+      "from": {
+        "type": "user",
+        "id": "mitry",
+        "name": "✓ mitry"
+      }
+    },
+    {
+      "date": "2010-03-18T22:31:56Z",
+      "from": {
+        "name": "Nicola Codipietro",
+        "id": "nickcodipietro",
+        "type": "user"
+      }
+    }
+  ],
+  "rawLink": "http://googlesystem.blogspot.com/2010/03/data-mining-using-google.html",
+  "body": "Data Mining Using Google - <a rel=\"nofollow\" href=\"http://googlesystem.blogspot.com/2010/03/data-mining-using-google.html\" title=\"http://googlesystem.blogspot.com/2010/03/data-mining-using-google.html\">http://googlesystem.blogspot.com/2010...</a>"
+}
+=end comment
+
+=end pod

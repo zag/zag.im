@@ -1,0 +1,36 @@
+=begin pod :pubdate('2011-11-18T20:53:05Z') :type<note> 
+=NAME RT @mlane: 50 Useful and Free Web UI, Mobile UI and Wireframe Kits http://t.co/3m8mVJfy
+
+=begin DESCRIPTION
+
+RT @mlane: 50 Useful and Free Web UI, Mobile UI and Wireframe Kits http://t.co/3m8mVJfy - L<link|http://twitter.com/zagru/statuses/137634453748072448>
+
+
+
+=end DESCRIPTION
+
+RT @mlane: 50 Useful and Free Web UI, Mobile UI and Wireframe Kits http://t.co/3m8mVJfy - L<link|http://twitter.com/zagru/statuses/137634453748072448>
+
+
+
+=begin comment :src
+{
+  "id": "e/1d67c7e4ba80e529319abdeb9e90c721",
+  "date": "2011-11-18T20:53:05Z",
+  "rawBody": "RT @mlane: 50 Useful and Free Web UI, Mobile UI and Wireframe Kits http://t.co/3m8mVJfy",
+  "url": "http://friendfeed.com/zag/1d67c7e4/rt-mlane-50-useful-and-free-web-ui-mobile",
+  "rawLink": "http://twitter.com/zagru/statuses/137634453748072448",
+  "body": "RT @<a rel=\"nofollow\" href=\"http://twitter.com/mlane\">mlane</a>: 50 Useful and Free Web UI, Mobile UI and Wireframe Kits <a rel=\"nofollow\" href=\"http://t.co/3m8mVJfy\">http://t.co/3m8mVJfy</a>",
+  "via": {
+    "name": "Twitter",
+    "url": "http://twitter.com/zagru/statuses/137634453748072448"
+  },
+  "from": {
+    "id": "zag",
+    "type": "user",
+    "name": "углы «Исимуры»"
+  }
+}
+=end comment
+
+=end pod

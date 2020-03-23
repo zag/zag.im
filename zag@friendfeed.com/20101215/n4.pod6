@@ -1,0 +1,45 @@
+=begin pod :pubdate('2010-12-15T05:19:38Z') :type<note> :tags<t>
+=NAME RT @kfury: TRON the videogame came out in 1982 (28 years ago): http://www.youtube.com/watch?v=qXErtjerzYc#t=15s
+
+=begin DESCRIPTION
+
+RT @kfury: TRON the videogame came out in 1982 (28 years ago): http://www.youtube.com/watch?v=qXErtjerzYc#t=15s - L<link|http://twitter.com/zagru/statuses/14912445806026752>
+
+
+
+=end DESCRIPTION
+
+RT @kfury: TRON the videogame came out in 1982 (28 years ago): http://www.youtube.com/watch?v=qXErtjerzYc#t=15s - L<link|http://twitter.com/zagru/statuses/14912445806026752>
+
+
+
+=begin comment :src
+{
+  "from": {
+    "name": "углы «Исимуры»",
+    "type": "user",
+    "id": "zag"
+  },
+  "via": {
+    "name": "Twitter",
+    "url": "http://twitter.com/zagru/statuses/14912445806026752"
+  },
+  "body": "RT @<a rel=\"nofollow\" href=\"http://twitter.com/kfury\">kfury</a>: TRON the videogame came out in 1982 (28 years ago): <a rel=\"nofollow\" href=\"http://www.youtube.com/watch?v=qXErtjerzYc#t=15s\" title=\"http://www.youtube.com/watch?v=qXErtjerzYc\">http://www.youtube.com/watch...</a>",
+  "rawLink": "http://twitter.com/zagru/statuses/14912445806026752",
+  "date": "2010-12-15T05:19:38Z",
+  "id": "e/fa70ee9c02d35265b8de10108417b681",
+  "url": "http://friendfeed.com/zag/fa70ee9c/rt-kfury-tron-videogame-came-out-in-1982-28-years",
+  "rawBody": "RT @kfury: TRON the videogame came out in 1982 (28 years ago): http://www.youtube.com/watch?v=qXErtjerzYc#t=15s",
+  "thumbnails": [
+    {
+      "link": "http://twitter.com/zagru/statuses/14912445806026752",
+      "player": "<object width=\"425\" height=\"350\"><param name=\"movie\" value=\"http://www.youtube.com/v/qXErtjerzYc&amp;autoplay=1&amp;showsearch=0&amp;ap=%2526fmt%3D18&amp;fs=1\"></param><param name=\"allowFullScreen\" value=\"true\"><embed src=\"http://www.youtube.com/v/qXErtjerzYc&amp;autoplay=1&amp;showsearch=0&amp;ap=%2526fmt%3D18&amp;fs=1\" type=\"application/x-shockwave-flash\" allowfullscreen=\"true\" width=\"425\" height=\"350\"></embed></object>",
+      "height": 97,
+      "url": "http://img.youtube.com/vi/qXErtjerzYc/2.jpg",
+      "width": 130
+    }
+  ]
+}
+=end comment
+
+=end pod

@@ -1,0 +1,67 @@
+=begin pod :pubdate('2011-10-12T09:10:03Z') :type<note> :tags<perl6>
+=NAME Книга Perl 6 / High Quality Content by WIKIPEDIA articles! #perl6
+
+=begin DESCRIPTION
+
+Книга Perl 6 / High Quality Content by WIKIPEDIA articles! #perl6 - L<link|http://www.books.ru/books/perl-6-1090723/>
+=for Image :width(117) :link('http://www.books.ru/books/perl-6-1090723/') :height(175) :preview
+media/b8d2f074eac440966d91cc705f7b9542c3bb6abb.jpg
+
+=item ISBN: 978-6-1309-1189-8
+
+
+=end DESCRIPTION
+
+Книга Perl 6 / High Quality Content by WIKIPEDIA articles! #perl6 - L<link|http://www.books.ru/books/perl-6-1090723/>
+=for Image :width(117) :link('http://www.books.ru/books/perl-6-1090723/') :height(175) :preview
+media/b8d2f074eac440966d91cc705f7b9542c3bb6abb.jpg
+
+=item ISBN: 978-6-1309-1189-8
+
+
+=begin comment :src
+{
+  "via": {
+    "url": "http://friendfeed.com/share/bookmarklet",
+    "name": "Bookmarklet"
+  },
+  "from": {
+    "name": "углы «Исимуры»",
+    "type": "user",
+    "id": "zag"
+  },
+  "comments": [
+    {
+      "body": "ISBN: 978-6-1309-1189-8",
+      "via": {
+        "url": "http://friendfeed.com/share/bookmarklet",
+        "name": "Bookmarklet"
+      },
+      "date": "2011-10-12T09:10:03Z",
+      "id": "e/65809e49227445b5bd9909beecc6281d/c/a086427bdc574164ade4bf4a1fa2a600",
+      "from": {
+        "name": "углы «Исимуры»",
+        "type": "user",
+        "id": "zag"
+      },
+      "rawBody": "ISBN: 978-6-1309-1189-8"
+    }
+  ],
+  "id": "e/65809e49227445b5bd9909beecc6281d",
+  "date": "2011-10-12T09:10:03Z",
+  "rawBody": "Книга Perl 6 / High Quality Content by WIKIPEDIA articles! #perl6",
+  "url": "http://friendfeed.com/zag/65809e49/perl-6-high-quality-content-by-wikipedia",
+  "thumbnails": [
+    {
+      "height": 175,
+      "link": "http://www.books.ru/books/perl-6-1090723/",
+      "width": 117,
+      "url": "http://m.friendfeed-media.com/b8d2f074eac440966d91cc705f7b9542c3bb6abb"
+    }
+  ],
+  "body": "Книга Perl 6 / High Quality Content by WIKIPEDIA articles! <a href=\"http://friendfeed.com/search?q=%23perl6\">#perl6</a> - <a rel=\"nofollow\" href=\"http://www.books.ru/books/perl-6-1090723/\" title=\"http://www.books.ru/books/perl-6-1090723/\">http://www.books.ru/books...</a>",
+  "rawLink": "http://www.books.ru/books/perl-6-1090723/"
+}
+=end comment
+
+=end pod

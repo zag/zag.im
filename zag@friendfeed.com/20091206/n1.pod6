@@ -1,0 +1,32 @@
+=begin pod :pubdate('2009-12-06T08:10:49Z') :type<note> :tags<27314>
+=NAME На всех вокзалах Москвы заработает бесплатный беспроводной Интернет - http://www.mobile-review.com/fullnews/main/2009/November/26.shtml#27314
+
+=begin DESCRIPTION
+
+На всех вокзалах Москвы заработает бесплатный беспроводной Интернет - http://www.mobile-review.com/fullnews/main/2009/November/26.shtml#27314
+
+
+
+=end DESCRIPTION
+
+На всех вокзалах Москвы заработает бесплатный беспроводной Интернет - http://www.mobile-review.com/fullnews/main/2009/November/26.shtml#27314
+
+
+
+=begin comment :src
+{
+  "date": "2009-12-06T08:10:49Z",
+  "id": "e/0d977fbd23e34731bf959e719baef89b",
+  "url": "http://friendfeed.com/zag/0d977fbd",
+  "rawBody": "На всех вокзалах Москвы заработает бесплатный беспроводной Интернет - http://www.mobile-review.com/fullnews/main/2009/November/26.shtml#27314",
+  "from": {
+    "name": "углы «Исимуры»",
+    "id": "zag",
+    "type": "user"
+  },
+  "body": "На всех вокзалах Москвы заработает бесплатный беспроводной Интернет - <a rel=\"nofollow\" href=\"http://www.mobile-review.com/fullnews/main/2009/November/26.shtml#27314\" title=\"http://www.mobile-review.com/fullnews/main/2009/November/26.shtml#27314\">http://www.mobile-review.com/fullnew...</a>",
+  "rawLink": "http://friendfeed.com/e/0d977fbd-23e3-4731-bf95-9e719baef89b"
+}
+=end comment
+
+=end pod

@@ -1,0 +1,48 @@
+=begin pod :pubdate('2009-10-23T11:57:07Z') :type<note> 
+=NAME Солдатики из детства
+
+=begin DESCRIPTION
+
+Солдатики из детства - L<link|http://demotivation.ru/g45fy0wqb0phpic.html>
+=for Image :width(206) :link('http://demotivation.ru/g45fy0wqb0phpic.html') :height(175) :preview
+media/0b4e003c743682ddf2bd5cb88d5e2b08ee7026ac.jpg
+
+
+
+=end DESCRIPTION
+
+Солдатики из детства - L<link|http://demotivation.ru/g45fy0wqb0phpic.html>
+=for Image :width(206) :link('http://demotivation.ru/g45fy0wqb0phpic.html') :height(175) :preview
+media/0b4e003c743682ddf2bd5cb88d5e2b08ee7026ac.jpg
+
+
+
+=begin comment :src
+{
+  "via": {
+    "name": "Bookmarklet",
+    "url": "http://friendfeed.com/share/bookmarklet"
+  },
+  "from": {
+    "type": "user",
+    "id": "zag",
+    "name": "углы «Исимуры»"
+  },
+  "body": "Солдатики из детства - <a rel=\"nofollow\" href=\"http://demotivation.ru/g45fy0wqb0phpic.html\" title=\"http://demotivation.ru/g45fy0wqb0phpic.html\">http://demotivation.ru/g45fy0w...</a>",
+  "rawLink": "http://demotivation.ru/g45fy0wqb0phpic.html",
+  "thumbnails": [
+    {
+      "width": 206,
+      "url": "http://m.friendfeed-media.com/0b4e003c743682ddf2bd5cb88d5e2b08ee7026ac",
+      "link": "http://demotivation.ru/g45fy0wqb0phpic.html",
+      "height": 175
+    }
+  ],
+  "id": "e/47ac1a4ac0d6423eb4c790fe60c6e969",
+  "date": "2009-10-23T11:57:07Z",
+  "rawBody": "Солдатики из детства",
+  "url": "http://friendfeed.com/zag/47ac1a4a"
+}
+=end comment
+
+=end pod

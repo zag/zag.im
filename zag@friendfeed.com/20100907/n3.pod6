@@ -1,0 +1,32 @@
+=begin pod :pubdate('2010-09-07T09:30:59Z') :type<note> :tags<perl6>
+=NAME Оказывается #perl6 уже был выпущен в 1997 году : http://web.archive.org/web/20000815230706/http://www.primenet.com/~kirbyh/perl6  "Perl 6 -- continually released since 1997!" ( via @masak)
+
+=begin DESCRIPTION
+
+Оказывается #perl6 уже был выпущен в 1997 году : http://web.archive.org/web/20000815230706/http://www.primenet.com/~kirbyh/perl6  "Perl 6 -- continually released since 1997!" ( via @masak)
+
+
+
+=end DESCRIPTION
+
+Оказывается #perl6 уже был выпущен в 1997 году : http://web.archive.org/web/20000815230706/http://www.primenet.com/~kirbyh/perl6  "Perl 6 -- continually released since 1997!" ( via @masak)
+
+
+
+=begin comment :src
+{
+  "id": "e/9febe90aa48046e78f0779377d9075d2",
+  "date": "2010-09-07T09:30:59Z",
+  "rawBody": "Оказывается #perl6 уже был выпущен в 1997 году : http://web.archive.org/web/20000815230706/http://www.primenet.com/~kirbyh/perl6  \"Perl 6 -- continually released since 1997!\" ( via @masak)",
+  "from": {
+    "name": "углы «Исимуры»",
+    "type": "user",
+    "id": "zag"
+  },
+  "url": "http://friendfeed.com/zag/9febe90a/perl6-1997-perl-6-continually-released-since",
+  "rawLink": "http://friendfeed.com/e/9febe90a-a480-46e7-8f07-79377d9075d2",
+  "body": "Оказывается <a href=\"http://friendfeed.com/search?q=%23perl6\">#perl6</a> уже был выпущен в 1997 году : <a rel=\"nofollow\" href=\"http://web.archive.org/web/20000815230706/http://www.primenet.com/~kirbyh/perl6\" title=\"http://web.archive.org/web/20000815230706/http://www.primenet.com/~kirbyh/perl6\">http://web.archive.org/web...</a>  &quot;Perl 6 -- continually released since 1997!&quot; ( via @masak)"
+}
+=end comment
+
+=end pod

@@ -1,0 +1,36 @@
+=begin pod :pubdate('2010-11-12T21:26:13Z') :type<note> 
+=NAME RT @mlane: A Beginner’s Introduction to HTTP and REST http://bit.ly/cdat66
+
+=begin DESCRIPTION
+
+RT @mlane: A Beginner’s Introduction to HTTP and REST http://bit.ly/cdat66 - L<link|http://twitter.com/zagru/statuses/3196894536802304>
+
+
+
+=end DESCRIPTION
+
+RT @mlane: A Beginner’s Introduction to HTTP and REST http://bit.ly/cdat66 - L<link|http://twitter.com/zagru/statuses/3196894536802304>
+
+
+
+=begin comment :src
+{
+  "from": {
+    "id": "zag",
+    "type": "user",
+    "name": "углы «Исимуры»"
+  },
+  "via": {
+    "url": "http://twitter.com/zagru/statuses/3196894536802304",
+    "name": "Twitter"
+  },
+  "body": "RT @<a rel=\"nofollow\" href=\"http://twitter.com/mlane\">mlane</a>: A Beginner’s Introduction to HTTP and REST <a rel=\"nofollow\" href=\"http://bit.ly/cdat66\" title=\"http://net.tutsplus.com/tutorials/other/a-beginners-introduction-to-http-and-rest/?utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+nettuts+%28Nettuts%2B%29&amp;utm_content=Netvibes\">http://net.tutsplus.com/tutoria...</a>",
+  "rawLink": "http://twitter.com/zagru/statuses/3196894536802304",
+  "date": "2010-11-12T21:26:13Z",
+  "id": "e/be4f65ddc831d385a4aa794f2e88fe6f",
+  "rawBody": "RT @mlane: A Beginner’s Introduction to HTTP and REST http://bit.ly/cdat66",
+  "url": "http://friendfeed.com/zag/be4f65dd/rt-mlane-beginners-introduction-to-http-and"
+}
+=end comment
+
+=end pod

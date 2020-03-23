@@ -1,0 +1,92 @@
+=begin pod :pubdate('2010-10-12T11:14:34Z') :type<note> 
+=NAME Движочники - это такие особые программисты, определение которых отсутствует в словарях орфографии. Поэтому они ассоциируются с похожими словами. Вот какие слова  близки к ним по мнению Firefox  и Thunderbird
+
+=begin DESCRIPTION
+
+Движочники - это такие особые программисты, определение которых отсутствует в словарях орфографии. Поэтому они ассоциируются с похожими словами. Вот какие слова  близки к ним по мнению Firefox  и Thunderbird
+=for Image :width(233) :link('http://m.friendfeed-media.com/89f3ca056ad3bb8afd1f32f13aeba5fc3abe9c01') :height(175) :preview
+media/233067bce0782744ccdfb419cbb9165958d68e42.jpg
+=for Image :width(233) :link('http://m.friendfeed-media.com/bbf3f580b7f93cb7bfbca4f59afbc719c0699a3e') :height(175) :preview
+media/722c050962a4ad90f82be9939ed0a3b57c82e3b0.jpg
+=for Image :width(233) :link('http://m.friendfeed-media.com/5698e5fce15227b5365e0238712b4e1e73fb6fe0') :height(175) :preview
+media/2262e62dc00adb2e2a49d16b91c9846af3da12e9.jpg
+
+=item imho "позвоночники" - концептуально ...
+=item Упадочники повторяется... Да  бывает, но редко. А у кого не падает ...
+
+
+=end DESCRIPTION
+
+Движочники - это такие особые программисты, определение которых отсутствует в словарях орфографии. Поэтому они ассоциируются с похожими словами. Вот какие слова  близки к ним по мнению Firefox  и Thunderbird
+=for Image :width(233) :link('http://m.friendfeed-media.com/89f3ca056ad3bb8afd1f32f13aeba5fc3abe9c01') :height(175) :preview
+media/233067bce0782744ccdfb419cbb9165958d68e42.jpg
+=for Image :width(233) :link('http://m.friendfeed-media.com/bbf3f580b7f93cb7bfbca4f59afbc719c0699a3e') :height(175) :preview
+media/722c050962a4ad90f82be9939ed0a3b57c82e3b0.jpg
+=for Image :width(233) :link('http://m.friendfeed-media.com/5698e5fce15227b5365e0238712b4e1e73fb6fe0') :height(175) :preview
+media/2262e62dc00adb2e2a49d16b91c9846af3da12e9.jpg
+
+=item imho "позвоночники" - концептуально ...
+=item Упадочники повторяется... Да  бывает, но редко. А у кого не падает ...
+
+
+=begin comment :src
+{
+  "comments": [
+    {
+      "body": "imho &quot;позвоночники&quot; - концептуально ...",
+      "id": "e/3b53167d05524208a6478467f9ab34e6/c/090fd73572254284bfb04e2478ab052b",
+      "rawBody": "imho \"позвоночники\" - концептуально ...",
+      "from": {
+        "id": "zag",
+        "type": "user",
+        "name": "углы «Исимуры»"
+      },
+      "date": "2010-10-12T11:14:44Z"
+    },
+    {
+      "body": "Упадочники повторяется... Да  бывает, но редко. А у кого не падает ...",
+      "date": "2010-10-12T11:18:57Z",
+      "rawBody": "Упадочники повторяется... Да  бывает, но редко. А у кого не падает ...",
+      "id": "e/3b53167d05524208a6478467f9ab34e6/c/20198105a3e14f16aa930d18a4ddf4cd",
+      "from": {
+        "name": "углы «Исимуры»",
+        "type": "user",
+        "id": "zag"
+      }
+    }
+  ],
+  "from": {
+    "name": "углы «Исимуры»",
+    "id": "zag",
+    "type": "user"
+  },
+  "body": "Движочники - это такие особые программисты, определение которых отсутствует в словарях орфографии. Поэтому они ассоциируются с похожими словами. Вот какие слова  близки к ним по мнению Firefox  и Thunderbird",
+  "rawLink": "http://friendfeed.com/e/3b53167d-0552-4208-a647-8467f9ab34e6",
+  "rawBody": "Движочники - это такие особые программисты, определение которых отсутствует в словарях орфографии. Поэтому они ассоциируются с похожими словами. Вот какие слова  близки к ним по мнению Firefox  и Thunderbird",
+  "id": "e/3b53167d05524208a6478467f9ab34e6",
+  "date": "2010-10-12T11:14:34Z",
+  "url": "http://friendfeed.com/zag/3b53167d/firefox-thunderbird",
+  "thumbnails": [
+    {
+      "url": "http://m.friendfeed-media.com/233067bce0782744ccdfb419cbb9165958d68e42",
+      "width": 233,
+      "link": "http://m.friendfeed-media.com/89f3ca056ad3bb8afd1f32f13aeba5fc3abe9c01",
+      "height": 175
+    },
+    {
+      "url": "http://m.friendfeed-media.com/722c050962a4ad90f82be9939ed0a3b57c82e3b0",
+      "width": 233,
+      "link": "http://m.friendfeed-media.com/bbf3f580b7f93cb7bfbca4f59afbc719c0699a3e",
+      "height": 175
+    },
+    {
+      "width": 233,
+      "url": "http://m.friendfeed-media.com/2262e62dc00adb2e2a49d16b91c9846af3da12e9",
+      "link": "http://m.friendfeed-media.com/5698e5fce15227b5365e0238712b4e1e73fb6fe0",
+      "height": 175
+    }
+  ]
+}
+=end comment
+
+=end pod

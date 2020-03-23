@@ -1,0 +1,155 @@
+=begin pod :pubdate('2010-04-29T11:51:39Z') :type<note> 
+=NAME Duke Nukem 3D Atomic Edition HD :: RuTracker.org (ex torrents.ru)
+
+=begin DESCRIPTION
+
+Duke Nukem 3D Atomic Edition HD :: RuTracker.org (ex torrents.ru) - L<link|http://rutracker.org/forum/viewtopic.php?t=2878064>
+=for Image :width(230) :link('http://rutracker.org/forum/viewtopic.php?t=2878064') :height(175) :preview
+media/e74dfaa79f3902430dc6287dfb91bcf2337aa7c1.jpg
+=for Image :width(170) :link('http://rutracker.org/forum/viewtopic.php?t=2878064') :height(130) :preview
+media/c7b1cc51fecf430bdd553538312bd7adfd69d692.jpg
+=for Image :width(170) :link('http://rutracker.org/forum/viewtopic.php?t=2878064') :height(129) :preview
+media/76150630d9d59146b5d8d73f547e30ed33166215.jpg
+
+=item Графика улучшена, монстры, оружие - всё стало трехмерным, мышь работает без проблем
+=item Online gaming application for Duke Nukem 3D Ports. http://forums.dukesterx.net/portal.php
+=item new Server/Client EDuke32 support http://www.multi-players-zone.com/yang/
+
+
+=end DESCRIPTION
+
+Duke Nukem 3D Atomic Edition HD :: RuTracker.org (ex torrents.ru) - L<link|http://rutracker.org/forum/viewtopic.php?t=2878064>
+=for Image :width(230) :link('http://rutracker.org/forum/viewtopic.php?t=2878064') :height(175) :preview
+media/e74dfaa79f3902430dc6287dfb91bcf2337aa7c1.jpg
+=for Image :width(170) :link('http://rutracker.org/forum/viewtopic.php?t=2878064') :height(130) :preview
+media/c7b1cc51fecf430bdd553538312bd7adfd69d692.jpg
+=for Image :width(170) :link('http://rutracker.org/forum/viewtopic.php?t=2878064') :height(129) :preview
+media/76150630d9d59146b5d8d73f547e30ed33166215.jpg
+
+=item Графика улучшена, монстры, оружие - всё стало трехмерным, мышь работает без проблем
+=item Online gaming application for Duke Nukem 3D Ports. http://forums.dukesterx.net/portal.php
+=item new Server/Client EDuke32 support http://www.multi-players-zone.com/yang/
+
+
+=begin comment :src
+{
+  "id": "e/1e4101d68784437f8c240ed43fba125d",
+  "rawBody": "Duke Nukem 3D Atomic Edition HD :: RuTracker.org (ex torrents.ru)",
+  "date": "2010-04-29T11:51:39Z",
+  "thumbnails": [
+    {
+      "height": 175,
+      "link": "http://rutracker.org/forum/viewtopic.php?t=2878064",
+      "url": "http://m.friendfeed-media.com/e74dfaa79f3902430dc6287dfb91bcf2337aa7c1",
+      "width": 230
+    },
+    {
+      "link": "http://rutracker.org/forum/viewtopic.php?t=2878064",
+      "height": 130,
+      "url": "http://m.friendfeed-media.com/c7b1cc51fecf430bdd553538312bd7adfd69d692",
+      "width": 170
+    },
+    {
+      "width": 170,
+      "url": "http://m.friendfeed-media.com/76150630d9d59146b5d8d73f547e30ed33166215",
+      "height": 129,
+      "link": "http://rutracker.org/forum/viewtopic.php?t=2878064"
+    }
+  ],
+  "url": "http://friendfeed.com/zag/1e4101d6/duke-nukem-3d-atomic-edition-hd-rutracker-org-ex",
+  "body": "Duke Nukem 3D Atomic Edition HD :: RuTracker.org (ex torrents.ru) - <a rel=\"nofollow\" href=\"http://rutracker.org/forum/viewtopic.php?t=2878064\" title=\"http://rutracker.org/forum/viewtopic.php?t=2878064\">http://rutracker.org/forum...</a>",
+  "rawLink": "http://rutracker.org/forum/viewtopic.php?t=2878064",
+  "likes": [
+    {
+      "date": "2010-04-29T18:15:39Z",
+      "from": {
+        "name": "Spaceinvaderz!",
+        "id": "spaceinvaderz",
+        "type": "user"
+      }
+    },
+    {
+      "from": {
+        "name": "Велопрограммист Аркадий",
+        "id": "ilvar",
+        "type": "user"
+      },
+      "date": "2010-04-29T13:03:06Z"
+    },
+    {
+      "date": "2010-04-29T12:55:06Z",
+      "from": {
+        "name": "Глеб Арестов",
+        "type": "user",
+        "id": "yodapunk"
+      }
+    },
+    {
+      "from": {
+        "name": "Andrey Pitushkin",
+        "type": "user",
+        "id": "anpit"
+      },
+      "date": "2010-04-29T12:25:21Z"
+    },
+    {
+      "date": "2010-04-29T12:24:49Z",
+      "from": {
+        "id": "kkapp",
+        "type": "user",
+        "name": "alex@kapranoff.ru"
+      }
+    }
+  ],
+  "via": {
+    "url": "http://friendfeed.com/share/bookmarklet",
+    "name": "Bookmarklet"
+  },
+  "from": {
+    "id": "zag",
+    "type": "user",
+    "name": "углы «Исимуры»"
+  },
+  "comments": [
+    {
+      "body": "Графика улучшена, монстры, оружие - всё стало трехмерным, мышь работает без проблем",
+      "from": {
+        "name": "углы «Исимуры»",
+        "id": "zag",
+        "type": "user"
+      },
+      "id": "e/1e4101d68784437f8c240ed43fba125d/c/75f9210b1f3d420eb8a5594825dd8a46",
+      "date": "2010-04-29T11:51:39Z",
+      "rawBody": "Графика улучшена, монстры, оружие - всё стало трехмерным, мышь работает без проблем",
+      "via": {
+        "name": "Bookmarklet",
+        "url": "http://friendfeed.com/share/bookmarklet"
+      }
+    },
+    {
+      "id": "e/1e4101d68784437f8c240ed43fba125d/c/52eb2b52a98149da8a29e2fdcfac60e9",
+      "rawBody": "Online gaming application for Duke Nukem 3D Ports. http://forums.dukesterx.net/portal.php",
+      "from": {
+        "id": "zag",
+        "type": "user",
+        "name": "углы «Исимуры»"
+      },
+      "date": "2010-04-29T11:52:33Z",
+      "body": "Online gaming application for Duke Nukem 3D Ports. <a rel=\"nofollow\" href=\"http://forums.dukesterx.net/portal.php\" title=\"http://forums.dukesterx.net/portal.php\">http://forums.dukesterx.net/portal...</a>"
+    },
+    {
+      "rawBody": "new Server/Client EDuke32 support http://www.multi-players-zone.com/yang/",
+      "from": {
+        "type": "user",
+        "id": "zag",
+        "name": "углы «Исимуры»"
+      },
+      "id": "e/1e4101d68784437f8c240ed43fba125d/c/ddf93f62d10646d39e3a5e3dd08aa3a7",
+      "date": "2010-04-29T11:56:01Z",
+      "body": "new Server/Client EDuke32 support <a rel=\"nofollow\" href=\"http://www.multi-players-zone.com/yang/\" title=\"http://www.multi-players-zone.com/yang/\">http://www.multi-players-zone.com/yang...</a>"
+    }
+  ]
+}
+=end comment
+
+=end pod

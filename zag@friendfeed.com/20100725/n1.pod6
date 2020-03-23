@@ -1,0 +1,58 @@
+=begin pod :pubdate('2010-07-25T07:51:20Z') :type<note> 
+=NAME InfoQ: Measuring and Comparing the Performance of 5 Cloud Platforms
+
+=begin DESCRIPTION
+
+InfoQ: Measuring and Comparing the Performance of 5 Cloud Platforms - L<link|http://www.infoq.com/news/2010/07/Benchmarking-5-Cloud-Platforms>
+=for Image :width(253) :link('http://www.infoq.com/news/2010/07/Benchmarking-5-Cloud-Platforms') :height(175) :preview
+media/a5d6c4e3ad6d7517acddbd6d3b56a52b7963cc73.jpg
+=for Image :width(233) :link('http://www.infoq.com/news/2010/07/Benchmarking-5-Cloud-Platforms') :height(175) :preview
+media/89e81553d8147c89ae473d1a9e0bbe9b44a3518a.jpg
+
+
+
+=end DESCRIPTION
+
+InfoQ: Measuring and Comparing the Performance of 5 Cloud Platforms - L<link|http://www.infoq.com/news/2010/07/Benchmarking-5-Cloud-Platforms>
+=for Image :width(253) :link('http://www.infoq.com/news/2010/07/Benchmarking-5-Cloud-Platforms') :height(175) :preview
+media/a5d6c4e3ad6d7517acddbd6d3b56a52b7963cc73.jpg
+=for Image :width(233) :link('http://www.infoq.com/news/2010/07/Benchmarking-5-Cloud-Platforms') :height(175) :preview
+media/89e81553d8147c89ae473d1a9e0bbe9b44a3518a.jpg
+
+
+
+=begin comment :src
+{
+  "id": "e/48697fef435b4d93b36b6e16b2603b58",
+  "rawBody": "InfoQ: Measuring and Comparing the Performance of 5 Cloud Platforms",
+  "date": "2010-07-25T07:51:20Z",
+  "url": "http://friendfeed.com/zag/48697fef/infoq-measuring-and-comparing-performance-of-5",
+  "thumbnails": [
+    {
+      "link": "http://www.infoq.com/news/2010/07/Benchmarking-5-Cloud-Platforms",
+      "height": 175,
+      "width": 253,
+      "url": "http://m.friendfeed-media.com/a5d6c4e3ad6d7517acddbd6d3b56a52b7963cc73"
+    },
+    {
+      "url": "http://m.friendfeed-media.com/89e81553d8147c89ae473d1a9e0bbe9b44a3518a",
+      "width": 233,
+      "height": 175,
+      "link": "http://www.infoq.com/news/2010/07/Benchmarking-5-Cloud-Platforms"
+    }
+  ],
+  "body": "InfoQ: Measuring and Comparing the Performance of 5 Cloud Platforms - <a rel=\"nofollow\" href=\"http://www.infoq.com/news/2010/07/Benchmarking-5-Cloud-Platforms\" title=\"http://www.infoq.com/news/2010/07/Benchmarking-5-Cloud-Platforms\">http://www.infoq.com/news...</a>",
+  "rawLink": "http://www.infoq.com/news/2010/07/Benchmarking-5-Cloud-Platforms",
+  "from": {
+    "type": "user",
+    "id": "zag",
+    "name": "углы «Исимуры»"
+  },
+  "via": {
+    "url": "http://friendfeed.com/share/bookmarklet",
+    "name": "Bookmarklet"
+  }
+}
+=end comment
+
+=end pod

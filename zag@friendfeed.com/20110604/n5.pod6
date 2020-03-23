@@ -1,0 +1,48 @@
+=begin pod :pubdate('2011-06-04T11:22:24Z') :type<note> :tags<devconf_ru>
+=NAME взял пива - получи значок #devconf_ru
+
+=begin DESCRIPTION
+
+взял пива - получи значок #devconf_ru
+=for Image :width(292) :link('http://m.friendfeed-media.com/9ae9cb17dce424ea53bb9bbd53adeccc2e598764') :height(175) :preview
+media/228571a95938f81651e802a69005cc429f89fb6d.jpg
+
+
+
+=end DESCRIPTION
+
+взял пива - получи значок #devconf_ru
+=for Image :width(292) :link('http://m.friendfeed-media.com/9ae9cb17dce424ea53bb9bbd53adeccc2e598764') :height(175) :preview
+media/228571a95938f81651e802a69005cc429f89fb6d.jpg
+
+
+
+=begin comment :src
+{
+  "via": {
+    "url": "http://friendfeed.com/share/mail",
+    "name": "email"
+  },
+  "from": {
+    "name": "углы «Исимуры»",
+    "type": "user",
+    "id": "zag"
+  },
+  "rawLink": "http://friendfeed.com/e/bad4631f-f6ea-4f70-be46-4365f1a1ae95",
+  "body": "взял пива - получи значок <a href=\"http://friendfeed.com/search?q=%23devconf_ru\">#devconf_ru</a>",
+  "id": "e/bad4631ff6ea4f70be464365f1a1ae95",
+  "date": "2011-06-04T11:22:24Z",
+  "rawBody": "взял пива - получи значок #devconf_ru",
+  "url": "http://friendfeed.com/zag/bad4631f/devconf_ru",
+  "thumbnails": [
+    {
+      "link": "http://m.friendfeed-media.com/9ae9cb17dce424ea53bb9bbd53adeccc2e598764",
+      "height": 175,
+      "url": "http://m.friendfeed-media.com/228571a95938f81651e802a69005cc429f89fb6d",
+      "width": 292
+    }
+  ]
+}
+=end comment
+
+=end pod

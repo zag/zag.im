@@ -1,0 +1,48 @@
+=begin pod :pubdate('2011-07-28T09:44:35Z') :type<note> :tags<perl6>
+=NAME Feature comparison of Perl 6 compilers #perl6
+
+=begin DESCRIPTION
+
+Feature comparison of Perl 6 compilers #perl6 - L<link|http://perl6.org/compilers/features>
+=for Image :width(188) :link('http://perl6.org/compilers/features') :height(175) :preview
+media/d801bfc13342d2c20f24931a341c2acd5e9c1f52.jpg
+
+
+
+=end DESCRIPTION
+
+Feature comparison of Perl 6 compilers #perl6 - L<link|http://perl6.org/compilers/features>
+=for Image :width(188) :link('http://perl6.org/compilers/features') :height(175) :preview
+media/d801bfc13342d2c20f24931a341c2acd5e9c1f52.jpg
+
+
+
+=begin comment :src
+{
+  "from": {
+    "type": "user",
+    "id": "zag",
+    "name": "углы «Исимуры»"
+  },
+  "via": {
+    "name": "Bookmarklet",
+    "url": "http://friendfeed.com/share/bookmarklet"
+  },
+  "body": "Feature comparison of Perl 6 compilers <a href=\"http://friendfeed.com/search?q=%23perl6\">#perl6</a> - <a rel=\"nofollow\" href=\"http://perl6.org/compilers/features\" title=\"http://perl6.org/compilers/features\">http://perl6.org/compile...</a>",
+  "rawLink": "http://perl6.org/compilers/features",
+  "date": "2011-07-28T09:44:35Z",
+  "id": "e/f3cc773ea265466ba2c5ab74247566b5",
+  "rawBody": "Feature comparison of Perl 6 compilers #perl6",
+  "url": "http://friendfeed.com/zag/f3cc773e/feature-comparison-of-perl-6-compilers-perl6",
+  "thumbnails": [
+    {
+      "url": "http://m.friendfeed-media.com/d801bfc13342d2c20f24931a341c2acd5e9c1f52",
+      "width": 188,
+      "height": 175,
+      "link": "http://perl6.org/compilers/features"
+    }
+  ]
+}
+=end comment
+
+=end pod

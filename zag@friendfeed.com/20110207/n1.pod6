@@ -1,0 +1,77 @@
+=begin pod :pubdate('2011-02-07T10:44:40Z') :type<note> 
+=NAME Why I Write Books Even Though I’ve Lost Money on Every Book I’ve Written Altucher Confidential
+
+=begin DESCRIPTION
+
+Why I Write Books Even Though I’ve Lost Money on Every Book I’ve Written Altucher Confidential - L<link|http://www.jamesaltucher.com/2011/02/why-i-write-books-even-though-ive-lost-money-on-every-book-ive-written/>
+=for Image :width(131) :link('http://www.jamesaltucher.com/2011/02/why-i-write-books-even-though-ive-lost-money-on-every-book-ive-written/') :height(175) :preview
+media/865579a3773c34a1308aab5b50e1ab16a583ee2a.jpg
+
+=item It was the same unsold book where three months earlier I had written “I LOVE YOU” on the inside.  ... A little over a year later we got married.  And that’s why I write books.
+
+
+=end DESCRIPTION
+
+Why I Write Books Even Though I’ve Lost Money on Every Book I’ve Written Altucher Confidential - L<link|http://www.jamesaltucher.com/2011/02/why-i-write-books-even-though-ive-lost-money-on-every-book-ive-written/>
+=for Image :width(131) :link('http://www.jamesaltucher.com/2011/02/why-i-write-books-even-though-ive-lost-money-on-every-book-ive-written/') :height(175) :preview
+media/865579a3773c34a1308aab5b50e1ab16a583ee2a.jpg
+
+=item It was the same unsold book where three months earlier I had written “I LOVE YOU” on the inside.  ... A little over a year later we got married.  And that’s why I write books.
+
+
+=begin comment :src
+{
+  "date": "2011-02-07T10:44:40Z",
+  "id": "e/389cbd9648fc4fc2848c7cd6e46619f8",
+  "rawBody": "Why I Write Books Even Though I’ve Lost Money on Every Book I’ve Written Altucher Confidential",
+  "url": "http://friendfeed.com/zag/389cbd96/why-i-write-books-even-though-ive-lost-money-on",
+  "thumbnails": [
+    {
+      "url": "http://m.friendfeed-media.com/865579a3773c34a1308aab5b50e1ab16a583ee2a",
+      "width": 131,
+      "height": 175,
+      "link": "http://www.jamesaltucher.com/2011/02/why-i-write-books-even-though-ive-lost-money-on-every-book-ive-written/"
+    }
+  ],
+  "likes": [
+    {
+      "date": "2011-02-07T12:27:27Z",
+      "from": {
+        "name": "Daina Thomas",
+        "type": "user",
+        "id": "dainathomas1"
+      }
+    }
+  ],
+  "rawLink": "http://www.jamesaltucher.com/2011/02/why-i-write-books-even-though-ive-lost-money-on-every-book-ive-written/",
+  "body": "Why I Write Books Even Though I’ve Lost Money on Every Book I’ve Written Altucher Confidential - <a rel=\"nofollow\" href=\"http://www.jamesaltucher.com/2011/02/why-i-write-books-even-though-ive-lost-money-on-every-book-ive-written/\" title=\"http://www.jamesaltucher.com/2011/02/why-i-write-books-even-though-ive-lost-money-on-every-book-ive-written/\">http://www.jamesaltucher.com/2011...</a>",
+  "via": {
+    "url": "http://friendfeed.com/share/bookmarklet",
+    "name": "Bookmarklet"
+  },
+  "from": {
+    "name": "углы «Исимуры»",
+    "id": "zag",
+    "type": "user"
+  },
+  "comments": [
+    {
+      "body": "It was the same unsold book where three months earlier I had written “I LOVE YOU” on the inside.  ... A little over a year later we got married.  And that’s why I write books.",
+      "via": {
+        "url": "http://friendfeed.com/share/bookmarklet",
+        "name": "Bookmarklet"
+      },
+      "id": "e/389cbd9648fc4fc2848c7cd6e46619f8/c/b2590ad6bb484dd6a42db59b71758eda",
+      "date": "2011-02-07T10:44:40Z",
+      "from": {
+        "type": "user",
+        "id": "zag",
+        "name": "углы «Исимуры»"
+      },
+      "rawBody": "It was the same unsold book where three months earlier I had written “I LOVE YOU” on the inside.  ... A little over a year later we got married.  And that’s why I write books."
+    }
+  ]
+}
+=end comment
+
+=end pod

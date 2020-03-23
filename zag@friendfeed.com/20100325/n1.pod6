@@ -1,0 +1,111 @@
+=begin pod :pubdate('2010-03-25T11:37:05Z') :type<note> 
+=NAME Github explorer
+
+=begin DESCRIPTION
+
+Github explorer - L<link|http://lumberjaph.net/blog/index.php/2010/03/25/github-explorer/>
+=for Image :width(123) :link('http://lumberjaph.net/blog/index.php/2010/03/25/github-explorer/') :height(175) :preview
+media/548552d6ac2b89d10f63e29e8262ffcb7ded1e73.jpg
+=for Image :width(175) :link('http://lumberjaph.net/blog/index.php/2010/03/25/github-explorer/') :height(175) :preview
+media/b73f0dc4e6ae4d925c3eca9c5657e787ad45f426.jpg
+=for Image :width(200) :link('http://lumberjaph.net/blog/index.php/2010/03/25/github-explorer/') :height(175) :preview
+media/aed70687a48e0c1dd59b26af593cf0c4d75c36da.jpg
+
+
+
+=end DESCRIPTION
+
+Github explorer - L<link|http://lumberjaph.net/blog/index.php/2010/03/25/github-explorer/>
+=for Image :width(123) :link('http://lumberjaph.net/blog/index.php/2010/03/25/github-explorer/') :height(175) :preview
+media/548552d6ac2b89d10f63e29e8262ffcb7ded1e73.jpg
+=for Image :width(175) :link('http://lumberjaph.net/blog/index.php/2010/03/25/github-explorer/') :height(175) :preview
+media/b73f0dc4e6ae4d925c3eca9c5657e787ad45f426.jpg
+=for Image :width(200) :link('http://lumberjaph.net/blog/index.php/2010/03/25/github-explorer/') :height(175) :preview
+media/aed70687a48e0c1dd59b26af593cf0c4d75c36da.jpg
+
+
+
+=begin comment :src
+{
+  "date": "2010-03-25T11:37:05Z",
+  "id": "e/074309ff45e0445b82a092eab1ba397d",
+  "rawBody": "Github explorer",
+  "url": "http://friendfeed.com/zag/074309ff/github-explorer",
+  "thumbnails": [
+    {
+      "height": 175,
+      "link": "http://lumberjaph.net/blog/index.php/2010/03/25/github-explorer/",
+      "width": 123,
+      "url": "http://m.friendfeed-media.com/548552d6ac2b89d10f63e29e8262ffcb7ded1e73"
+    },
+    {
+      "url": "http://m.friendfeed-media.com/b73f0dc4e6ae4d925c3eca9c5657e787ad45f426",
+      "width": 175,
+      "height": 175,
+      "link": "http://lumberjaph.net/blog/index.php/2010/03/25/github-explorer/"
+    },
+    {
+      "width": 200,
+      "url": "http://m.friendfeed-media.com/aed70687a48e0c1dd59b26af593cf0c4d75c36da",
+      "height": 175,
+      "link": "http://lumberjaph.net/blog/index.php/2010/03/25/github-explorer/"
+    }
+  ],
+  "body": "Github explorer - <a rel=\"nofollow\" href=\"http://lumberjaph.net/blog/index.php/2010/03/25/github-explorer/\" title=\"http://lumberjaph.net/blog/index.php/2010/03/25/github-explorer/\">http://lumberjaph.net/blog...</a>",
+  "rawLink": "http://lumberjaph.net/blog/index.php/2010/03/25/github-explorer/",
+  "likes": [
+    {
+      "date": "2010-04-01T04:49:14Z",
+      "from": {
+        "name": "✓ mitry",
+        "type": "user",
+        "id": "mitry"
+      }
+    },
+    {
+      "date": "2010-03-25T14:31:26Z",
+      "from": {
+        "name": "STENDEC",
+        "type": "user",
+        "id": "fairplay"
+      }
+    },
+    {
+      "from": {
+        "id": "woof",
+        "type": "user",
+        "name": "woof"
+      },
+      "date": "2010-03-25T12:39:28Z"
+    },
+    {
+      "date": "2010-03-25T12:36:27Z",
+      "from": {
+        "name": "Alexey Melchakov",
+        "type": "user",
+        "id": "corvin",
+        "private": true
+      }
+    },
+    {
+      "date": "2010-03-25T12:20:33Z",
+      "from": {
+        "type": "user",
+        "id": "kkapp",
+        "name": "alex@kapranoff.ru"
+      }
+    }
+  ],
+  "via": {
+    "url": "http://friendfeed.com/share/bookmarklet",
+    "name": "Bookmarklet"
+  },
+  "from": {
+    "id": "zag",
+    "type": "user",
+    "name": "углы «Исимуры»"
+  }
+}
+=end comment
+
+=end pod

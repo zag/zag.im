@@ -1,0 +1,58 @@
+=begin pod :pubdate('2011-07-02T10:40:05Z') :type<note> :tags<lvee>
+=NAME Пример бизнеса с opensource кодом. #lvee
+
+=begin DESCRIPTION
+
+Пример бизнеса с opensource кодом. #lvee
+=for Image :width(292) :link('http://m.friendfeed-media.com/135a20bbf137e3f267ad7c43aa992c863dc38a39') :height(175) :preview
+media/1a86c183aa2285a345f6a8d812224da3160d63cb.jpg
+
+
+
+=end DESCRIPTION
+
+Пример бизнеса с opensource кодом. #lvee
+=for Image :width(292) :link('http://m.friendfeed-media.com/135a20bbf137e3f267ad7c43aa992c863dc38a39') :height(175) :preview
+media/1a86c183aa2285a345f6a8d812224da3160d63cb.jpg
+
+
+
+=begin comment :src
+{
+  "date": "2011-07-02T10:40:05Z",
+  "id": "e/809244b780dd4a5a9709bb2889d60d69",
+  "rawBody": "Пример бизнеса с opensource кодом. #lvee",
+  "url": "http://friendfeed.com/zag/809244b7/opensource-lvee",
+  "thumbnails": [
+    {
+      "link": "http://m.friendfeed-media.com/135a20bbf137e3f267ad7c43aa992c863dc38a39",
+      "height": 175,
+      "width": 292,
+      "url": "http://m.friendfeed-media.com/1a86c183aa2285a345f6a8d812224da3160d63cb"
+    }
+  ],
+  "body": "Пример бизнеса с opensource кодом. <a href=\"http://friendfeed.com/search?q=%23lvee\">#lvee</a>",
+  "likes": [
+    {
+      "date": "2011-07-02T13:09:29Z",
+      "from": {
+        "name": "Ivan Bessarabov",
+        "type": "user",
+        "id": "bessarabov"
+      }
+    }
+  ],
+  "rawLink": "http://friendfeed.com/e/809244b7-80dd-4a5a-9709-bb2889d60d69",
+  "from": {
+    "name": "углы «Исимуры»",
+    "id": "zag",
+    "type": "user"
+  },
+  "via": {
+    "url": "http://friendfeed.com/share/mail",
+    "name": "email"
+  }
+}
+=end comment
+
+=end pod

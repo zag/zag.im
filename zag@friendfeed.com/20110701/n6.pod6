@@ -1,0 +1,48 @@
+=begin pod :pubdate('2011-07-01T11:04:34Z') :type<note> :tags<lvee>
+=NAME Звук в linux есть. Доклад про создание музыки под linux. Особенно счастливы музыканты под последней ubuntu #lvee
+
+=begin DESCRIPTION
+
+Звук в linux есть. Доклад про создание музыки под linux. Особенно счастливы музыканты под последней ubuntu #lvee
+=for Image :width(292) :link('http://m.friendfeed-media.com/0188ddda8957133d198fd0e48cacea4197cb606a') :height(175) :preview
+media/2cd6b19fc69fc22bf78a80975b0a72d84b06262e.jpg
+
+
+
+=end DESCRIPTION
+
+Звук в linux есть. Доклад про создание музыки под linux. Особенно счастливы музыканты под последней ubuntu #lvee
+=for Image :width(292) :link('http://m.friendfeed-media.com/0188ddda8957133d198fd0e48cacea4197cb606a') :height(175) :preview
+media/2cd6b19fc69fc22bf78a80975b0a72d84b06262e.jpg
+
+
+
+=begin comment :src
+{
+  "id": "e/dfe03f3c0ee7493c8a7737449ce1fc65",
+  "url": "http://friendfeed.com/zag/dfe03f3c/linux-ubuntu-lvee",
+  "date": "2011-07-01T11:04:34Z",
+  "rawBody": "Звук в linux есть. Доклад про создание музыки под linux. Особенно счастливы музыканты под последней ubuntu #lvee",
+  "thumbnails": [
+    {
+      "url": "http://m.friendfeed-media.com/2cd6b19fc69fc22bf78a80975b0a72d84b06262e",
+      "width": 292,
+      "height": 175,
+      "link": "http://m.friendfeed-media.com/0188ddda8957133d198fd0e48cacea4197cb606a"
+    }
+  ],
+  "body": "Звук в linux есть. Доклад про создание музыки под linux. Особенно счастливы музыканты под последней ubuntu <a href=\"http://friendfeed.com/search?q=%23lvee\">#lvee</a>",
+  "rawLink": "http://friendfeed.com/e/dfe03f3c-0ee7-493c-8a77-37449ce1fc65",
+  "via": {
+    "name": "email",
+    "url": "http://friendfeed.com/share/mail"
+  },
+  "from": {
+    "name": "углы «Исимуры»",
+    "type": "user",
+    "id": "zag"
+  }
+}
+=end comment
+
+=end pod

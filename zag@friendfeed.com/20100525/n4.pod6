@@ -1,0 +1,36 @@
+=begin pod :pubdate('2010-05-25T03:45:14Z') :type<note> :tags<HTML5>
+=NAME Video JS | #HTML5 Video Player
+
+=begin DESCRIPTION
+
+Video JS | #HTML5 Video Player - L<link|http://videojs.com/>
+
+
+
+=end DESCRIPTION
+
+Video JS | #HTML5 Video Player - L<link|http://videojs.com/>
+
+
+
+=begin comment :src
+{
+  "via": {
+    "url": "http://friendfeed.com/share/bookmarklet",
+    "name": "Bookmarklet"
+  },
+  "from": {
+    "type": "user",
+    "id": "zag",
+    "name": "углы «Исимуры»"
+  },
+  "rawBody": "Video JS | #HTML5 Video Player",
+  "id": "e/619a5a86767849eda3a242842b41b872",
+  "date": "2010-05-25T03:45:14Z",
+  "url": "http://friendfeed.com/zag/619a5a86/video-js-html5-player",
+  "rawLink": "http://videojs.com/",
+  "body": "Video JS | <a href=\"http://friendfeed.com/search?q=%23HTML5\">#HTML5</a> Video Player - <a rel=\"nofollow\" href=\"http://videojs.com/\">http://videojs.com/</a>"
+}
+=end comment
+
+=end pod

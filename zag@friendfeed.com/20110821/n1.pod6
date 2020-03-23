@@ -1,0 +1,46 @@
+=begin pod :pubdate('2011-08-21T08:59:27Z') :type<note> 
+=NAME Scripting Languages: PHP, Perl, Python, Ruby - Hyperpolyglot
+
+=begin DESCRIPTION
+
+Scripting Languages: PHP, Perl, Python, Ruby - Hyperpolyglot - L<link|http://hyperpolyglot.org/scripting#>
+
+
+
+=end DESCRIPTION
+
+Scripting Languages: PHP, Perl, Python, Ruby - Hyperpolyglot - L<link|http://hyperpolyglot.org/scripting#>
+
+
+
+=begin comment :src
+{
+  "id": "e/9962caac12704d77853a359d5e8f443e",
+  "date": "2011-08-21T08:59:27Z",
+  "rawBody": "Scripting Languages: PHP, Perl, Python, Ruby - Hyperpolyglot",
+  "url": "http://friendfeed.com/zag/9962caac/scripting-languages-php-perl-python-ruby",
+  "body": "Scripting Languages: PHP, Perl, Python, Ruby - Hyperpolyglot - <a rel=\"nofollow\" href=\"http://hyperpolyglot.org/scripting#\" title=\"http://hyperpolyglot.org/scripting#\">http://hyperpolyglot.org/scripti...</a>",
+  "rawLink": "http://hyperpolyglot.org/scripting#",
+  "likes": [
+    {
+      "date": "2011-08-21T15:36:16Z",
+      "from": {
+        "name": "godegisel",
+        "type": "user",
+        "id": "godegisel"
+      }
+    }
+  ],
+  "from": {
+    "name": "углы «Исимуры»",
+    "type": "user",
+    "id": "zag"
+  },
+  "via": {
+    "url": "http://friendfeed.com/share/bookmarklet",
+    "name": "Bookmarklet"
+  }
+}
+=end comment
+
+=end pod

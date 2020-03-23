@@ -1,0 +1,67 @@
+=begin pod :pubdate('2012-05-31 12:00:00') :tags<pod6 perl6 pod perl>
+=NAME Обновление Perl6::Pod   
+
+=begin DESCRIPTION
+
+Недавно я завершил процесс упрощения некоторых вещей. Я переработал реализацию Pod6 и получил от этого процесса массу удовольствия. Главной мантрой стала следующая: "проще, еще проще". 
+
+=end DESCRIPTION
+
+Недавно я завершил процесс упрощения некоторых вещей. Я переработал реализацию Pod6 и получил от этого процесса массу удовольствия. Главной мантрой стала следующая: "проще, еще проще". 
+
+=head1 Синтаксичексий анализатор на Regexp::Grammars
+
+Эта часть работы больше всего оказала влияния на внутреннюю архитектуру
+парсера pod6. 
+
+Вместо потокового принципа обработки файла, текущий парсер
+полностью построен на грамматиках Perl5.
+
+Благодаря Regexp::Grammars получилось лаконично описать структуру Pod6 N< Грамматика Pod6. L<https://github.com/zag/p5-Perl6-Pod/blob/master/lib/Perl6/Pod/Grammars.pm>>. Это и стало основным шагом к простоте. Как следствие, большое количество
+кода и модулей оказались лишними.
+
+=head2 API для встраивания Pod6
+
+На данный момент самым простым способом использования pod6
+является следующий:
+
+        use Perl6::Pod::Test;
+        my $html = Perl6::Pod::Test::parse_to_xhtml($pod);
+
+Функция C<parse_to_xhtml> используется в большом количестве тестов,
+поэтому ее работоспособность является ключевым показателем.
+
+=head2 API для хакеров
+
+Грамматики Perl5 можно наследовать I<(есть даже множественное наследование )>. Поэтому изучить грамматики pod6 просто:
+
+=begin code :allow<B>
+
+    use Regexp::Grammars;
+    use Perl6::Pod::Grammars;
+    use Data::Dumper;
+
+    my $r =  qr{
+       <extends: Perl6::Pod::Grammar::Blocks>
+       B«<debug:step>»  
+        \A <File> \Z
+    }xms;
+    my $tree ;
+    if ( $src =~ $r  ) {
+     print Dumper( $/{File} );
+    }
+    else {
+        return undef;
+    }
+=end code
+
+=head2 Установка Perl6::Pod
+
+Установить библиотеку в системе Ubuntu можно следующим образом:
+
+        sudo add-apt-repository ppa:zahatski/ppa    
+        sudo apt-get install libperl6-pod-perl
+
+Perl6::Pod также доступна на CPAN N< Реализация Pod6. L<http://search.cpan.org/dist/Perl6-Pod/>>.
+
+=end pod

@@ -1,0 +1,82 @@
+=begin pod :pubdate('2010-10-18T08:00:17Z') :type<note> 
+=NAME Fwd: Fan-made Duke 3D Unreal Engine 3 update is now officially licensed - http://arstechnica.com/gaming/news/2010/10/fan-made-duke-3d-update-is-now-official-blessed-by-creators.ars?utm_source=rss&utm_medium=rss&utm_campaign=rss (via http://ff.im/scSEK)
+
+=begin DESCRIPTION
+
+Fwd: Fan-made Duke 3D Unreal Engine 3 update is now officially licensed - http://arstechnica.com/gaming/news/2010/10/fan-made-duke-3d-update-is-now-official-blessed-by-creators.ars?utm_source=rss&utm_medium=rss&utm_campaign=rss (via http://ff.im/scSEK)
+
+
+
+=end DESCRIPTION
+
+Fwd: Fan-made Duke 3D Unreal Engine 3 update is now officially licensed - http://arstechnica.com/gaming/news/2010/10/fan-made-duke-3d-update-is-now-official-blessed-by-creators.ars?utm_source=rss&utm_medium=rss&utm_campaign=rss (via http://ff.im/scSEK)
+
+
+
+=begin comment :src
+{
+  "from": {
+    "type": "user",
+    "id": "zag",
+    "name": "углы «Исимуры»"
+  },
+  "body": "Fwd: Fan-made Duke 3D Unreal Engine 3 update is now officially licensed - <a rel=\"nofollow\" href=\"http://arstechnica.com/gaming/news/2010/10/fan-made-duke-3d-update-is-now-official-blessed-by-creators.ars?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss\" title=\"http://arstechnica.com/gaming/news/2010/10/fan-made-duke-3d-update-is-now-official-blessed-by-creators.ars?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss\">http://arstechnica.com/gaming...</a> (via <a href=\"http://ff.im/scSEK\" title=\"http://friendfeed.com/ars-technica/8a46797b/fan-made-duke-3d-unreal-engine-3-update-is-now\">http://friendfeed.com/ars-tec...</a>)",
+  "likes": [
+    {
+      "date": "2010-10-18T17:59:01Z",
+      "from": {
+        "id": "karabatov",
+        "type": "user",
+        "name": "Victory through semantics"
+      }
+    },
+    {
+      "from": {
+        "name": "arty",
+        "type": "user",
+        "id": "arty"
+      },
+      "date": "2010-10-18T11:34:22Z"
+    },
+    {
+      "date": "2010-10-18T11:19:18Z",
+      "from": {
+        "name": "Dmitry Khrustalev",
+        "id": "dk42",
+        "type": "user"
+      }
+    },
+    {
+      "from": {
+        "name": "Велопрограммист Аркадий",
+        "type": "user",
+        "id": "ilvar"
+      },
+      "date": "2010-10-18T11:18:31Z"
+    },
+    {
+      "date": "2010-10-18T11:13:03Z",
+      "from": {
+        "type": "user",
+        "id": "kkapp",
+        "name": "alex@kapranoff.ru"
+      }
+    }
+  ],
+  "rawLink": "http://friendfeed.com/e/127efcb9-a7a1-4953-b72b-6091d3a3b38b",
+  "rawBody": "Fwd: Fan-made Duke 3D Unreal Engine 3 update is now officially licensed - http://arstechnica.com/gaming/news/2010/10/fan-made-duke-3d-update-is-now-official-blessed-by-creators.ars?utm_source=rss&utm_medium=rss&utm_campaign=rss (via http://ff.im/scSEK)",
+  "id": "e/127efcb9a7a14953b72b6091d3a3b38b",
+  "date": "2010-10-18T08:00:17Z",
+  "thumbnails": [
+    {
+      "link": "http://friendfeed.com/e/127efcb9-a7a1-4953-b72b-6091d3a3b38b",
+      "height": 169,
+      "width": 300,
+      "url": "http://static.arstechnica.net/assets/2009/05/duke-nukem-gone-thumb-300x169-4963-f.jpg"
+    }
+  ],
+  "url": "http://friendfeed.com/zag/127efcb9/fwd-fan-made-duke-3d-unreal-engine-3-update-is-now"
+}
+=end comment
+
+=end pod

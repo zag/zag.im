@@ -1,0 +1,32 @@
+=begin pod :pubdate('2010-09-30T10:46:33Z') :type<note> :tags<perl6>
+=NAME Update FreeBSD ports to Parrot 2.8.0 and lang/rakudo  to Rakudo Star 2010.09 #perl6  (send PR) http://rakudoport.sourceforge.net/
+
+=begin DESCRIPTION
+
+Update FreeBSD ports to Parrot 2.8.0 and lang/rakudo  to Rakudo Star 2010.09 #perl6  (send PR) http://rakudoport.sourceforge.net/
+
+
+
+=end DESCRIPTION
+
+Update FreeBSD ports to Parrot 2.8.0 and lang/rakudo  to Rakudo Star 2010.09 #perl6  (send PR) http://rakudoport.sourceforge.net/
+
+
+
+=begin comment :src
+{
+  "date": "2010-09-30T10:46:33Z",
+  "id": "e/4cccce99b6a04ac283e9b40a9dad0d6b",
+  "rawBody": "Update FreeBSD ports to Parrot 2.8.0 and lang/rakudo  to Rakudo Star 2010.09 #perl6  (send PR) http://rakudoport.sourceforge.net/",
+  "url": "http://friendfeed.com/zag/4cccce99/update-freebsd-ports-to-parrot-2-8-0-and-lang",
+  "from": {
+    "name": "углы «Исимуры»",
+    "type": "user",
+    "id": "zag"
+  },
+  "body": "Update FreeBSD ports to Parrot 2.8.0 and lang/rakudo  to Rakudo Star 2010.09 <a href=\"http://friendfeed.com/search?q=%23perl6\">#perl6</a>  (send PR) <a rel=\"nofollow\" href=\"http://rakudoport.sourceforge.net/\" title=\"http://rakudoport.sourceforge.net/\">http://rakudoport.sourceforge.net/</a>",
+  "rawLink": "http://friendfeed.com/e/4cccce99-b6a0-4ac2-83e9-b40a9dad0d6b"
+}
+=end comment
+
+=end pod

@@ -1,0 +1,36 @@
+=begin pod :pubdate('2010-04-06T08:03:27Z') :type<note> 
+=NAME Hа Крайнем Севере очень быстро даёт о себе знать песец (c) National Geographic
+
+=begin DESCRIPTION
+
+Hа Крайнем Севере очень быстро даёт о себе знать песец (c) National Geographic - L<link|http://twitter.com/zagru/statuses/11687769636>
+
+
+
+=end DESCRIPTION
+
+Hа Крайнем Севере очень быстро даёт о себе знать песец (c) National Geographic - L<link|http://twitter.com/zagru/statuses/11687769636>
+
+
+
+=begin comment :src
+{
+  "from": {
+    "name": "углы «Исимуры»",
+    "id": "zag",
+    "type": "user"
+  },
+  "via": {
+    "name": "Twitter",
+    "url": "http://twitter.com/zagru/statuses/11687769636"
+  },
+  "rawLink": "http://twitter.com/zagru/statuses/11687769636",
+  "body": "Hа Крайнем Севере очень быстро даёт о себе знать песец (c) National Geographic",
+  "id": "e/d1c08fe8b59ac7b0079b614f0710d2ca",
+  "date": "2010-04-06T08:03:27Z",
+  "rawBody": "Hа Крайнем Севере очень быстро даёт о себе знать песец (c) National Geographic",
+  "url": "http://friendfeed.com/zag/d1c08fe8/h-c-national-geographic"
+}
+=end comment
+
+=end pod

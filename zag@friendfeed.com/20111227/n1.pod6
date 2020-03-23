@@ -1,0 +1,73 @@
+=begin pod :pubdate('2011-12-27T11:24:01Z') :type<note> 
+=NAME 5MB Hard Disk Drive, 1956 | Retronaut
+
+=begin DESCRIPTION
+
+5MB Hard Disk Drive, 1956 | Retronaut - L<link|http://www.retronaut.co/2011/12/5mb-hard-disk-drive-1956/>
+=for Image :width(132) :link('http://www.retronaut.co/2011/12/5mb-hard-disk-drive-1956/') :height(175) :preview
+media/131eb77f0b35aa516d0c5ed97970094e01ada134.jpg
+
+=item 'In September 1956 IBM launched the 305 RAMAC, the first ‘SUPER’ computer with a hard disk drive (HDD). The HDD weighed over a ton and stored 5 MB of data.'
+
+
+=end DESCRIPTION
+
+5MB Hard Disk Drive, 1956 | Retronaut - L<link|http://www.retronaut.co/2011/12/5mb-hard-disk-drive-1956/>
+=for Image :width(132) :link('http://www.retronaut.co/2011/12/5mb-hard-disk-drive-1956/') :height(175) :preview
+media/131eb77f0b35aa516d0c5ed97970094e01ada134.jpg
+
+=item 'In September 1956 IBM launched the 305 RAMAC, the first ‘SUPER’ computer with a hard disk drive (HDD). The HDD weighed over a ton and stored 5 MB of data.'
+
+
+=begin comment :src
+{
+  "body": "5MB Hard Disk Drive, 1956 | Retronaut - <a rel=\"nofollow\" href=\"http://www.retronaut.co/2011/12/5mb-hard-disk-drive-1956/\" title=\"http://www.retronaut.co/2011/12/5mb-hard-disk-drive-1956/\">http://www.retronaut.co/2011...</a>",
+  "likes": [
+    {
+      "date": "2011-12-27T11:26:01Z",
+      "from": {
+        "name": "Ivan Bessarabov",
+        "id": "bessarabov",
+        "type": "user"
+      }
+    }
+  ],
+  "rawLink": "http://www.retronaut.co/2011/12/5mb-hard-disk-drive-1956/",
+  "rawBody": "5MB Hard Disk Drive, 1956 | Retronaut",
+  "id": "e/aceb2ed4729848ffa45fb4447bc0ecf4",
+  "date": "2011-12-27T11:24:01Z",
+  "thumbnails": [
+    {
+      "link": "http://www.retronaut.co/2011/12/5mb-hard-disk-drive-1956/",
+      "height": 175,
+      "url": "http://m.friendfeed-media.com/131eb77f0b35aa516d0c5ed97970094e01ada134",
+      "width": 132
+    }
+  ],
+  "url": "http://friendfeed.com/zag/aceb2ed4/5mb-hard-disk-drive-1956-retronaut",
+  "comments": [
+    {
+      "body": "'In September 1956 IBM launched the 305 RAMAC, the first ‘SUPER’ computer with a hard disk drive (HDD). The HDD weighed over a ton and stored 5 MB of data.'",
+      "id": "e/aceb2ed4729848ffa45fb4447bc0ecf4/c/f8a470ceaf0e4e96b8283c5b3178595f",
+      "rawBody": "'In September 1956 IBM launched the 305 RAMAC, the first ‘SUPER’ computer with a hard disk drive (HDD). The HDD weighed over a ton and stored 5 MB of data.'",
+      "date": "2011-12-27T11:24:52Z",
+      "from": {
+        "name": "углы «Исимуры»",
+        "type": "user",
+        "id": "zag"
+      }
+    }
+  ],
+  "via": {
+    "url": "http://friendfeed.com/share/bookmarklet",
+    "name": "Bookmarklet"
+  },
+  "from": {
+    "name": "углы «Исимуры»",
+    "type": "user",
+    "id": "zag"
+  }
+}
+=end comment
+
+=end pod

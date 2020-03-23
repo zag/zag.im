@@ -1,0 +1,36 @@
+=begin pod :pubdate('2009-11-15T15:16:22Z') :type<note> 
+=NAME отпуск ! Усталость профессионала обычно кончается смертью. (с) Мамонов
+
+=begin DESCRIPTION
+
+отпуск ! Усталость профессионала обычно кончается смертью. (с) Мамонов - L<link|http://twitter.com/zagru/statuses/5737975081>
+
+
+
+=end DESCRIPTION
+
+отпуск ! Усталость профессионала обычно кончается смертью. (с) Мамонов - L<link|http://twitter.com/zagru/statuses/5737975081>
+
+
+
+=begin comment :src
+{
+  "rawLink": "http://twitter.com/zagru/statuses/5737975081",
+  "body": "отпуск ! Усталость профессионала обычно кончается смертью. (с) Мамонов",
+  "id": "e/6523deb00f3f81e99944c11d3643cd31",
+  "rawBody": "отпуск ! Усталость профессионала обычно кончается смертью. (с) Мамонов",
+  "date": "2009-11-15T15:16:22Z",
+  "url": "http://friendfeed.com/zag/6523deb0",
+  "from": {
+    "type": "user",
+    "id": "zag",
+    "name": "углы «Исимуры»"
+  },
+  "via": {
+    "name": "Twitter",
+    "url": "http://twitter.com/zagru/statuses/5737975081"
+  }
+}
+=end comment
+
+=end pod

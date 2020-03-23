@@ -1,0 +1,36 @@
+=begin pod :pubdate('2009-06-16T06:55:34Z') :type<note> 
+=NAME StarCraft II is coming ... - at October 31, 2009 !!!(PC/Mac) http://tinyurl.com/mbt7pk
+
+=begin DESCRIPTION
+
+StarCraft II is coming ... - at October 31, 2009 !!!(PC/Mac) http://tinyurl.com/mbt7pk - L<link|http://twitter.com/zagru/statuses/2189393163>
+
+
+
+=end DESCRIPTION
+
+StarCraft II is coming ... - at October 31, 2009 !!!(PC/Mac) http://tinyurl.com/mbt7pk - L<link|http://twitter.com/zagru/statuses/2189393163>
+
+
+
+=begin comment :src
+{
+  "via": {
+    "name": "Twitter",
+    "url": "http://twitter.com/zagru/statuses/2189393163"
+  },
+  "from": {
+    "name": "углы «Исимуры»",
+    "id": "zag",
+    "type": "user"
+  },
+  "url": "http://friendfeed.com/zag/60ccc357/starcraft-ii-is-coming-at-october-31-2009-pc-mac",
+  "id": "e/60ccc357db87663740c57057594cb063",
+  "date": "2009-06-16T06:55:34Z",
+  "rawBody": "StarCraft II is coming ... - at October 31, 2009 !!!(PC/Mac) http://tinyurl.com/mbt7pk",
+  "rawLink": "http://twitter.com/zagru/statuses/2189393163",
+  "body": "StarCraft II is coming ... - at October 31, 2009 !!!(PC/Mac) <a rel=\"nofollow\" href=\"http://tinyurl.com/mbt7pk\" title=\"http://www.futureshop.ca/catalog/proddetail.asp?sku_id=0665000FS10090117&amp;catid=11130&amp;PCName=e3&amp;logon=&amp;langid=EN&amp;test_cookie=1\">http://www.futureshop.ca/catalog...</a>"
+}
+=end comment
+
+=end pod

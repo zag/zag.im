@@ -1,0 +1,36 @@
+=begin pod :pubdate('2009-06-03T07:55:59Z') :type<note> 
+=NAME пробую новый поисковик от Масдая : http://www.bing.com/?cc=ru
+
+=begin DESCRIPTION
+
+пробую новый поисковик от Масдая : http://www.bing.com/?cc=ru - L<link|http://twitter.com/zagru/statuses/2014253757>
+
+
+
+=end DESCRIPTION
+
+пробую новый поисковик от Масдая : http://www.bing.com/?cc=ru - L<link|http://twitter.com/zagru/statuses/2014253757>
+
+
+
+=begin comment :src
+{
+  "via": {
+    "url": "http://twitter.com/zagru/statuses/2014253757",
+    "name": "Twitter"
+  },
+  "from": {
+    "type": "user",
+    "id": "zag",
+    "name": "углы «Исимуры»"
+  },
+  "body": "пробую новый поисковик от Масдая : <a rel=\"nofollow\" href=\"http://www.bing.com/?cc=ru\">http://www.bing.com/?cc=ru</a>",
+  "rawLink": "http://twitter.com/zagru/statuses/2014253757",
+  "date": "2009-06-03T07:55:59Z",
+  "id": "e/073305b829200b9bc15c062c6227e00f",
+  "url": "http://friendfeed.com/zag/073305b8",
+  "rawBody": "пробую новый поисковик от Масдая : http://www.bing.com/?cc=ru"
+}
+=end comment
+
+=end pod

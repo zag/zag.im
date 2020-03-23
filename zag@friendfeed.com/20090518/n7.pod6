@@ -1,0 +1,36 @@
+=begin pod :pubdate('2009-05-18T08:13:02Z') :type<note> 
+=NAME Сегодня делаю много синтаксических ошибок. Причем везде: jabber, twitter. Разговаривал мало, т.к. понедельник - начало трудовой недели :-)
+
+=begin DESCRIPTION
+
+Сегодня делаю много синтаксических ошибок. Причем везде: jabber, twitter. Разговаривал мало, т.к. понедельник - начало трудовой недели :-) - L<link|http://twitter.com/zagru/statuses/1833992998>
+
+
+
+=end DESCRIPTION
+
+Сегодня делаю много синтаксических ошибок. Причем везде: jabber, twitter. Разговаривал мало, т.к. понедельник - начало трудовой недели :-) - L<link|http://twitter.com/zagru/statuses/1833992998>
+
+
+
+=begin comment :src
+{
+  "from": {
+    "name": "углы «Исимуры»",
+    "type": "user",
+    "id": "zag"
+  },
+  "via": {
+    "url": "http://twitter.com/zagru/statuses/1833992998",
+    "name": "Twitter"
+  },
+  "id": "e/554bc9348eb8b3a6deb6df66d97aeb91",
+  "date": "2009-05-18T08:13:02Z",
+  "rawBody": "Сегодня делаю много синтаксических ошибок. Причем везде: jabber, twitter. Разговаривал мало, т.к. понедельник - начало трудовой недели :-)",
+  "url": "http://friendfeed.com/zag/554bc934/jabber-twitter",
+  "body": "Сегодня делаю много синтаксических ошибок. Причем везде: jabber, twitter. Разговаривал мало, т.к. понедельник - начало трудовой недели :-)",
+  "rawLink": "http://twitter.com/zagru/statuses/1833992998"
+}
+=end comment
+
+=end pod

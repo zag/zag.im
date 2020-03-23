@@ -1,0 +1,55 @@
+=begin pod :pubdate('2010-08-18T07:42:40Z') :type<note> 
+=NAME Run PHP tests in your Perl test suite - Perlbuzz
+
+=begin DESCRIPTION
+
+Run PHP tests in your Perl test suite - Perlbuzz - L<link|http://perlbuzz.com/2010/08/run-php-tests-in-your-perl-test-suite.html>
+
+=item "Sometimes you've got a big codebase that isn't just Perl. Maybe you've got PHP mixed in with it, and you want to test the PHP along with all the Perl code, too."
+
+
+=end DESCRIPTION
+
+Run PHP tests in your Perl test suite - Perlbuzz - L<link|http://perlbuzz.com/2010/08/run-php-tests-in-your-perl-test-suite.html>
+
+=item "Sometimes you've got a big codebase that isn't just Perl. Maybe you've got PHP mixed in with it, and you want to test the PHP along with all the Perl code, too."
+
+
+=begin comment :src
+{
+  "via": {
+    "name": "Bookmarklet",
+    "url": "http://friendfeed.com/share/bookmarklet"
+  },
+  "from": {
+    "id": "zag",
+    "type": "user",
+    "name": "углы «Исимуры»"
+  },
+  "comments": [
+    {
+      "id": "e/70bae67caa744953af148de50b5b2e98/c/16d426fbbcd5430ba5bde8267d1d0e00",
+      "date": "2010-08-18T07:42:40Z",
+      "from": {
+        "name": "углы «Исимуры»",
+        "id": "zag",
+        "type": "user"
+      },
+      "rawBody": "\"Sometimes you've got a big codebase that isn't just Perl. Maybe you've got PHP mixed in with it, and you want to test the PHP along with all the Perl code, too.\"",
+      "via": {
+        "name": "Bookmarklet",
+        "url": "http://friendfeed.com/share/bookmarklet"
+      },
+      "body": "&quot;Sometimes you've got a big codebase that isn't just Perl. Maybe you've got PHP mixed in with it, and you want to test the PHP along with all the Perl code, too.&quot;"
+    }
+  ],
+  "id": "e/70bae67caa744953af148de50b5b2e98",
+  "date": "2010-08-18T07:42:40Z",
+  "rawBody": "Run PHP tests in your Perl test suite - Perlbuzz",
+  "url": "http://friendfeed.com/zag/70bae67c/run-php-tests-in-your-perl-test-suite-perlbuzz",
+  "body": "Run PHP tests in your Perl test suite - Perlbuzz - <a rel=\"nofollow\" href=\"http://perlbuzz.com/2010/08/run-php-tests-in-your-perl-test-suite.html\" title=\"http://perlbuzz.com/2010/08/run-php-tests-in-your-perl-test-suite.html\">http://perlbuzz.com/2010...</a>",
+  "rawLink": "http://perlbuzz.com/2010/08/run-php-tests-in-your-perl-test-suite.html"
+}
+=end comment
+
+=end pod

@@ -1,0 +1,36 @@
+=begin pod :pubdate('2011-03-17T21:07:42Z') :type<note> 
+=NAME "perlbuzz: Perlnews.org lauched by Leo Lapworth and Dave Cross. http://t.co/4OYRNKB"
+
+=begin DESCRIPTION
+
+"perlbuzz: Perlnews.org lauched by Leo Lapworth and Dave Cross. http://t.co/4OYRNKB" - L<link|http://twitter.com/zagru/statuses/48490715386359809>
+
+
+
+=end DESCRIPTION
+
+"perlbuzz: Perlnews.org lauched by Leo Lapworth and Dave Cross. http://t.co/4OYRNKB" - L<link|http://twitter.com/zagru/statuses/48490715386359809>
+
+
+
+=begin comment :src
+{
+  "via": {
+    "url": "http://twitter.com/zagru/statuses/48490715386359809",
+    "name": "Twitter"
+  },
+  "from": {
+    "name": "углы «Исимуры»",
+    "id": "zag",
+    "type": "user"
+  },
+  "rawLink": "http://twitter.com/zagru/statuses/48490715386359809",
+  "body": "&quot;perlbuzz: Perlnews.org lauched by Leo Lapworth and Dave Cross. <a rel=\"nofollow\" href=\"http://t.co/4OYRNKB\" title=\"http://perlnews.org/\">http://perlnews.org/</a>&quot;",
+  "id": "e/85d4b8ed119583442e87b84edbb09517",
+  "date": "2011-03-17T21:07:42Z",
+  "rawBody": "\"perlbuzz: Perlnews.org lauched by Leo Lapworth and Dave Cross. http://t.co/4OYRNKB\"",
+  "url": "http://friendfeed.com/zag/85d4b8ed/perlbuzz-perlnews-org-lauched-by-leo-lapworth"
+}
+=end comment
+
+=end pod

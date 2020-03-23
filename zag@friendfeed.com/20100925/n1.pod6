@@ -1,0 +1,38 @@
+=begin pod :pubdate('2010-09-25T06:21:21Z') :type<note> 
+=NAME github and facebook is down ! Why  ?!
+
+=begin DESCRIPTION
+
+github and facebook is down ! Why  ?!
+
+
+
+=end DESCRIPTION
+
+github and facebook is down ! Why  ?!
+
+
+
+=begin comment :src
+{
+  "id": "e/56c0d082f99840c6b0572d4fefc2160e",
+  "date": "2010-09-25T06:21:21Z",
+  "url": "http://friendfeed.com/zag/56c0d082/github-and-facebook-is-down-why",
+  "rawBody": "github and facebook is down ! Why  ?!",
+  "thumbnails": [
+    {
+      "link": "http://friendfeed.com/e/56c0d082-f998-40c6-b057-2d4fefc2160e",
+      "url": "http://d.yimg.com/gg/u/c697ef5ee936c4b5afedcc5e569420de4705128b.gifa"
+    }
+  ],
+  "rawLink": "http://friendfeed.com/e/56c0d082-f998-40c6-b057-2d4fefc2160e",
+  "body": "github and facebook is down ! Why  ?!",
+  "from": {
+    "name": "углы «Исимуры»",
+    "id": "zag",
+    "type": "user"
+  }
+}
+=end comment
+
+=end pod

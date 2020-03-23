@@ -1,0 +1,36 @@
+=begin pod :pubdate('2011-03-17T21:03:17Z') :type<note> 
+=NAME RT @davewiner: New movie risks it all by launching on BitTorrent and DVD simutaneously. http://r2.ly/8cjb
+
+=begin DESCRIPTION
+
+RT @davewiner: New movie risks it all by launching on BitTorrent and DVD simutaneously. http://r2.ly/8cjb - L<link|http://twitter.com/zagru/statuses/48489605565136896>
+
+
+
+=end DESCRIPTION
+
+RT @davewiner: New movie risks it all by launching on BitTorrent and DVD simutaneously. http://r2.ly/8cjb - L<link|http://twitter.com/zagru/statuses/48489605565136896>
+
+
+
+=begin comment :src
+{
+  "body": "RT @<a rel=\"nofollow\" href=\"http://twitter.com/davewiner\">davewiner</a>: New movie risks it all by launching on BitTorrent and DVD simutaneously. <a rel=\"nofollow\" href=\"http://r2.ly/8cjb\" title=\"http://thenextweb.com/industry/2011/03/17/new-movie-risks-it-all-by-launching-on-bittorrent-and-dvd-simutaneously/\">http://thenextweb.com/industr...</a>",
+  "rawLink": "http://twitter.com/zagru/statuses/48489605565136896",
+  "id": "e/d925a580f996e12e92b74aa6e6f169cf",
+  "date": "2011-03-17T21:03:17Z",
+  "url": "http://friendfeed.com/zag/d925a580/rt-davewiner-new-movie-risks-it-all-by-launching",
+  "rawBody": "RT @davewiner: New movie risks it all by launching on BitTorrent and DVD simutaneously. http://r2.ly/8cjb",
+  "from": {
+    "name": "углы «Исимуры»",
+    "type": "user",
+    "id": "zag"
+  },
+  "via": {
+    "name": "Twitter",
+    "url": "http://twitter.com/zagru/statuses/48489605565136896"
+  }
+}
+=end comment
+
+=end pod

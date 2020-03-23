@@ -1,0 +1,36 @@
+=begin pod :pubdate('2011-06-01T07:41:10Z') :type<note> 
+=NAME How to properly use UTF-8 in Perl http://bit.ly/igbaDG (http://bit.ly/lgZsPp)
+
+=begin DESCRIPTION
+
+How to properly use UTF-8 in Perl http://bit.ly/igbaDG (http://bit.ly/lgZsPp) - L<link|http://twitter.com/zagru/statuses/75829223486533632>
+
+
+
+=end DESCRIPTION
+
+How to properly use UTF-8 in Perl http://bit.ly/igbaDG (http://bit.ly/lgZsPp) - L<link|http://twitter.com/zagru/statuses/75829223486533632>
+
+
+
+=begin comment :src
+{
+  "date": "2011-06-01T07:41:10Z",
+  "id": "e/000317f999bc718519e0eb616b2bb6c0",
+  "rawBody": "How to properly use UTF-8 in Perl http://bit.ly/igbaDG (http://bit.ly/lgZsPp)",
+  "url": "http://friendfeed.com/zag/000317f9/how-to-properly-use-utf-8-in-perl",
+  "body": "How to properly use UTF-8 in Perl <a rel=\"nofollow\" href=\"http://bit.ly/igbaDG\" title=\"http://stackoverflow.com/questions/6162484/why-does-modern-perl-avoid-utf-8-by-default/#6163129\">http://stackoverflow.com/questio...</a> (<a rel=\"nofollow\" href=\"http://bit.ly/lgZsPp\" title=\"http://news.ycombinator.com/item?id=2602737\">http://news.ycombinator.com/item...</a>)",
+  "rawLink": "http://twitter.com/zagru/statuses/75829223486533632",
+  "via": {
+    "url": "http://twitter.com/zagru/statuses/75829223486533632",
+    "name": "Twitter"
+  },
+  "from": {
+    "name": "углы «Исимуры»",
+    "type": "user",
+    "id": "zag"
+  }
+}
+=end comment
+
+=end pod

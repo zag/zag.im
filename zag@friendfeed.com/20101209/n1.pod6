@@ -1,0 +1,55 @@
+=begin pod :pubdate('2010-12-09T21:16:40Z') :type<note> 
+=NAME CoffeeScript - CoffeeScript is a little language that compiles into JavaScript.
+
+=begin DESCRIPTION
+
+CoffeeScript - CoffeeScript is a little language that compiles into JavaScript. - L<link|http://jashkenas.github.com/coffee-script/>
+
+=item The code compiles one-to-one into the equivalent JS, and there is no interpretation at runtime.
+
+
+=end DESCRIPTION
+
+CoffeeScript - CoffeeScript is a little language that compiles into JavaScript. - L<link|http://jashkenas.github.com/coffee-script/>
+
+=item The code compiles one-to-one into the equivalent JS, and there is no interpretation at runtime.
+
+
+=begin comment :src
+{
+  "date": "2010-12-09T21:16:40Z",
+  "id": "e/63a02c61cc034a0cbfb6e649d4085dc5",
+  "rawBody": "CoffeeScript - CoffeeScript is a little language that compiles into JavaScript.",
+  "url": "http://friendfeed.com/zag/63a02c61/coffeescript-is-little-language-that-compiles",
+  "rawLink": "http://jashkenas.github.com/coffee-script/",
+  "body": "CoffeeScript - CoffeeScript is a little language that compiles into JavaScript. - <a rel=\"nofollow\" href=\"http://jashkenas.github.com/coffee-script/\" title=\"http://jashkenas.github.com/coffee-script/\">http://jashkenas.github.com/coffee-...</a>",
+  "via": {
+    "url": "http://friendfeed.com/share/bookmarklet",
+    "name": "Bookmarklet"
+  },
+  "from": {
+    "type": "user",
+    "id": "zag",
+    "name": "углы «Исимуры»"
+  },
+  "comments": [
+    {
+      "date": "2010-12-09T21:16:40Z",
+      "id": "e/63a02c61cc034a0cbfb6e649d4085dc5/c/72444b511f7145d8b41964b86809a6ce",
+      "rawBody": "The code compiles one-to-one into the equivalent JS, and there is no interpretation at runtime.",
+      "from": {
+        "type": "user",
+        "id": "zag",
+        "name": "углы «Исимуры»"
+      },
+      "via": {
+        "url": "http://friendfeed.com/share/bookmarklet",
+        "name": "Bookmarklet"
+      },
+      "body": "The code compiles one-to-one into the equivalent JS, and there is no interpretation at runtime."
+    }
+  ]
+}
+=end comment
+
+=end pod

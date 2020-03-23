@@ -1,0 +1,36 @@
+=begin pod :pubdate('2010-06-18T06:07:57Z') :type<note> :tags<30>
+=NAME Update FreeBSD ports to Parrot 2.5.0 and Rakudo #30 ("Kiev"). http://rakudoport.sourceforge.net/
+
+=begin DESCRIPTION
+
+Update FreeBSD ports to Parrot 2.5.0 and Rakudo #30 ("Kiev"). http://rakudoport.sourceforge.net/ - L<link|http://twitter.com/zagru/statuses/16450001639>
+
+
+
+=end DESCRIPTION
+
+Update FreeBSD ports to Parrot 2.5.0 and Rakudo #30 ("Kiev"). http://rakudoport.sourceforge.net/ - L<link|http://twitter.com/zagru/statuses/16450001639>
+
+
+
+=begin comment :src
+{
+  "rawLink": "http://twitter.com/zagru/statuses/16450001639",
+  "body": "Update FreeBSD ports to Parrot 2.5.0 and Rakudo <a rel=\"nofollow\" href=\"http://search.twitter.com/search?q=%2330\">#30</a> (&quot;Kiev&quot;). <a rel=\"nofollow\" href=\"http://rakudoport.sourceforge.net/\" title=\"http://rakudoport.sourceforge.net/\">http://rakudoport.sourceforge.net/</a>",
+  "date": "2010-06-18T06:07:57Z",
+  "id": "e/f41cf2846b991e3c786a3f2f9b5e1cc4",
+  "rawBody": "Update FreeBSD ports to Parrot 2.5.0 and Rakudo #30 (\"Kiev\"). http://rakudoport.sourceforge.net/",
+  "url": "http://friendfeed.com/zag/f41cf284/update-freebsd-ports-to-parrot-2-5-0-and-rakudo-30",
+  "from": {
+    "name": "углы «Исимуры»",
+    "id": "zag",
+    "type": "user"
+  },
+  "via": {
+    "name": "Twitter",
+    "url": "http://twitter.com/zagru/statuses/16450001639"
+  }
+}
+=end comment
+
+=end pod

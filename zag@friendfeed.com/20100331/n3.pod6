@@ -1,0 +1,65 @@
+=begin pod :pubdate('2010-03-31T11:00:25Z') :type<note> 
+=NAME День свободных документов
+
+=begin DESCRIPTION
+
+День свободных документов - L<link|http://www.opennet.ru/opennews/art.shtml?num=26025>
+
+=item Хранение документов в открытых форматах, основанных на открытых стандартах, позволяет избавиться от зависимости от коммерческих производителей ПО и гарантирует возможность прочитать сохраненную информацию и через 20 лет.
+
+
+=end DESCRIPTION
+
+День свободных документов - L<link|http://www.opennet.ru/opennews/art.shtml?num=26025>
+
+=item Хранение документов в открытых форматах, основанных на открытых стандартах, позволяет избавиться от зависимости от коммерческих производителей ПО и гарантирует возможность прочитать сохраненную информацию и через 20 лет.
+
+
+=begin comment :src
+{
+  "from": {
+    "type": "user",
+    "id": "zag",
+    "name": "углы «Исимуры»"
+  },
+  "via": {
+    "url": "http://friendfeed.com/share/bookmarklet",
+    "name": "Bookmarklet"
+  },
+  "comments": [
+    {
+      "body": "Хранение документов в открытых форматах, основанных на открытых стандартах, позволяет избавиться от зависимости от коммерческих производителей ПО и гарантирует возможность прочитать сохраненную информацию и через 20 лет.",
+      "id": "e/b5f74b568abb4df3bfaa2c588adcb21a/c/e99eef5c906f469fb64a697723399f2a",
+      "from": {
+        "type": "user",
+        "id": "zag",
+        "name": "углы «Исимуры»"
+      },
+      "date": "2010-03-31T11:00:25Z",
+      "rawBody": "Хранение документов в открытых форматах, основанных на открытых стандартах, позволяет избавиться от зависимости от коммерческих производителей ПО и гарантирует возможность прочитать сохраненную информацию и через 20 лет.",
+      "via": {
+        "name": "Bookmarklet",
+        "url": "http://friendfeed.com/share/bookmarklet"
+      }
+    }
+  ],
+  "rawBody": "День свободных документов",
+  "id": "e/b5f74b568abb4df3bfaa2c588adcb21a",
+  "date": "2010-03-31T11:00:25Z",
+  "url": "http://friendfeed.com/zag/b5f74b56",
+  "likes": [
+    {
+      "date": "2010-03-31T11:04:36Z",
+      "from": {
+        "name": "alex@kapranoff.ru",
+        "id": "kkapp",
+        "type": "user"
+      }
+    }
+  ],
+  "rawLink": "http://www.opennet.ru/opennews/art.shtml?num=26025",
+  "body": "День свободных документов - <a rel=\"nofollow\" href=\"http://www.opennet.ru/opennews/art.shtml?num=26025\" title=\"http://www.opennet.ru/opennews/art.shtml?num=26025\">http://www.opennet.ru/opennew...</a>"
+}
+=end comment
+
+=end pod

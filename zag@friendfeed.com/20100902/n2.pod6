@@ -1,0 +1,153 @@
+=begin pod :pubdate('2010-09-02T12:33:27Z') :type<note> 
+=NAME трафик свелячков
+
+=begin DESCRIPTION
+
+трафик свелячков - L<link|http://www.dailymail.co.uk/news/article-1308304/If-glow-woods-today--moment-fireflies-turn-woods-enchanted-forest.html#ixzz0yNCwmTi3>
+=for Image :width(264) :link('http://www.dailymail.co.uk/news/article-1308304/If-glow-woods-today--moment-fireflies-turn-woods-enchanted-forest.html#ixzz0yNCwmTi3') :height(175) :preview
+media/b4b36b07244366730e68b00a0da790b0fea84dda.jpg
+=for Image :width(412) :link('http://www.dailymail.co.uk/news/article-1308304/If-glow-woods-today--moment-fireflies-turn-woods-enchanted-forest.html#ixzz0yNCwmTi3') :height(175) :preview
+media/a054b1df2e1401f85d8bd56bf64e87a643bb2504.jpg
+=for Image :width(110) :link('http://www.dailymail.co.uk/news/article-1308304/If-glow-woods-today--moment-fireflies-turn-woods-enchanted-forest.html#ixzz0yNCwmTi3') :height(175) :preview
+media/580c2554d3f10e56f0554c4ce811146661198c76.jpg
+
+
+
+=end DESCRIPTION
+
+трафик свелячков - L<link|http://www.dailymail.co.uk/news/article-1308304/If-glow-woods-today--moment-fireflies-turn-woods-enchanted-forest.html#ixzz0yNCwmTi3>
+=for Image :width(264) :link('http://www.dailymail.co.uk/news/article-1308304/If-glow-woods-today--moment-fireflies-turn-woods-enchanted-forest.html#ixzz0yNCwmTi3') :height(175) :preview
+media/b4b36b07244366730e68b00a0da790b0fea84dda.jpg
+=for Image :width(412) :link('http://www.dailymail.co.uk/news/article-1308304/If-glow-woods-today--moment-fireflies-turn-woods-enchanted-forest.html#ixzz0yNCwmTi3') :height(175) :preview
+media/a054b1df2e1401f85d8bd56bf64e87a643bb2504.jpg
+=for Image :width(110) :link('http://www.dailymail.co.uk/news/article-1308304/If-glow-woods-today--moment-fireflies-turn-woods-enchanted-forest.html#ixzz0yNCwmTi3') :height(175) :preview
+media/580c2554d3f10e56f0554c4ce811146661198c76.jpg
+
+
+
+=begin comment :src
+{
+  "likes": [
+    {
+      "date": "2010-09-02T20:22:57Z",
+      "from": {
+        "name": "woof",
+        "type": "user",
+        "id": "woof"
+      }
+    },
+    {
+      "from": {
+        "type": "user",
+        "id": "vio1et",
+        "name": "Anna"
+      },
+      "date": "2010-09-02T13:42:03Z"
+    },
+    {
+      "from": {
+        "type": "user",
+        "id": "prool",
+        "name": "prool"
+      },
+      "date": "2010-09-02T13:25:36Z"
+    },
+    {
+      "date": "2010-09-02T12:49:22Z",
+      "from": {
+        "id": "katiao",
+        "type": "user",
+        "name": "всех сферических тёлочек"
+      }
+    },
+    {
+      "from": {
+        "name": "buger",
+        "id": "buger",
+        "type": "user"
+      },
+      "date": "2010-09-02T12:43:28Z"
+    },
+    {
+      "date": "2010-09-02T12:41:53Z",
+      "from": {
+        "name": "Sergey Zhuzhgov",
+        "private": true,
+        "type": "user",
+        "id": "sergeyzhuzhgov"
+      }
+    },
+    {
+      "from": {
+        "id": "vladimirbright",
+        "type": "user",
+        "private": true,
+        "name": "Гора Кьяльфедль"
+      },
+      "date": "2010-09-02T12:38:14Z"
+    },
+    {
+      "date": "2010-09-02T12:37:43Z",
+      "from": {
+        "type": "user",
+        "id": "annayu",
+        "name": "альдебарановна"
+      }
+    },
+    {
+      "from": {
+        "name": "устав от фидика",
+        "type": "user",
+        "id": "payalnik",
+        "private": true
+      },
+      "date": "2010-09-02T12:37:35Z"
+    },
+    {
+      "from": {
+        "id": "kkapp",
+        "type": "user",
+        "name": "alex@kapranoff.ru"
+      },
+      "date": "2010-09-02T12:36:48Z"
+    }
+  ],
+  "rawLink": "http://www.dailymail.co.uk/news/article-1308304/If-glow-woods-today--moment-fireflies-turn-woods-enchanted-forest.html#ixzz0yNCwmTi3",
+  "body": "трафик свелячков - <a rel=\"nofollow\" href=\"http://www.dailymail.co.uk/news/article-1308304/If-glow-woods-today--moment-fireflies-turn-woods-enchanted-forest.html#ixzz0yNCwmTi3\" title=\"http://www.dailymail.co.uk/news/article-1308304/If-glow-woods-today--moment-fireflies-turn-woods-enchanted-forest.html#ixzz0yNCwmTi3\">http://www.dailymail.co.uk/news...</a>",
+  "date": "2010-09-02T12:33:27Z",
+  "id": "e/9df28a4fcc984c04834e72220af0f8cb",
+  "rawBody": "трафик свелячков",
+  "url": "http://friendfeed.com/zag/9df28a4f",
+  "thumbnails": [
+    {
+      "url": "http://m.friendfeed-media.com/b4b36b07244366730e68b00a0da790b0fea84dda",
+      "width": 264,
+      "height": 175,
+      "link": "http://www.dailymail.co.uk/news/article-1308304/If-glow-woods-today--moment-fireflies-turn-woods-enchanted-forest.html#ixzz0yNCwmTi3"
+    },
+    {
+      "width": 412,
+      "url": "http://m.friendfeed-media.com/a054b1df2e1401f85d8bd56bf64e87a643bb2504",
+      "height": 175,
+      "link": "http://www.dailymail.co.uk/news/article-1308304/If-glow-woods-today--moment-fireflies-turn-woods-enchanted-forest.html#ixzz0yNCwmTi3"
+    },
+    {
+      "url": "http://m.friendfeed-media.com/580c2554d3f10e56f0554c4ce811146661198c76",
+      "width": 110,
+      "height": 175,
+      "link": "http://www.dailymail.co.uk/news/article-1308304/If-glow-woods-today--moment-fireflies-turn-woods-enchanted-forest.html#ixzz0yNCwmTi3"
+    }
+  ],
+  "from": {
+    "name": "углы «Исимуры»",
+    "type": "user",
+    "id": "zag"
+  },
+  "via": {
+    "name": "Bookmarklet",
+    "url": "http://friendfeed.com/share/bookmarklet"
+  }
+}
+=end comment
+
+=end pod

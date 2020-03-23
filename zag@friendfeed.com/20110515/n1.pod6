@@ -1,0 +1,75 @@
+=begin pod :pubdate('2011-05-15T09:49:25Z') :type<note> :tags<yapc>
+=NAME Mojolicious без перерыва на #yapc
+
+=begin DESCRIPTION
+
+Mojolicious без перерыва на #yapc
+=for Image :width(292) :link('http://m.friendfeed-media.com/29853bffde14a3cefc43e96641a02e959913480a') :height(175) :preview
+media/6ebbeff43ef932c7f1e45dd7112327ad366b6721.jpg
+
+
+
+=end DESCRIPTION
+
+Mojolicious без перерыва на #yapc
+=for Image :width(292) :link('http://m.friendfeed-media.com/29853bffde14a3cefc43e96641a02e959913480a') :height(175) :preview
+media/6ebbeff43ef932c7f1e45dd7112327ad366b6721.jpg
+
+
+
+=begin comment :src
+{
+  "id": "e/96369633c49b4617887226d8181a8acf",
+  "thumbnails": [
+    {
+      "link": "http://m.friendfeed-media.com/29853bffde14a3cefc43e96641a02e959913480a",
+      "height": 175,
+      "width": 292,
+      "url": "http://m.friendfeed-media.com/6ebbeff43ef932c7f1e45dd7112327ad366b6721"
+    }
+  ],
+  "date": "2011-05-15T09:49:25Z",
+  "rawBody": "Mojolicious без перерыва на #yapc",
+  "url": "http://friendfeed.com/zag/96369633/mojolicious-yapc",
+  "body": "Mojolicious без перерыва на <a href=\"http://friendfeed.com/search?q=%23yapc\">#yapc</a>",
+  "rawLink": "http://friendfeed.com/e/96369633-c49b-4617-8872-26d8181a8acf",
+  "likes": [
+    {
+      "from": {
+        "type": "user",
+        "id": "mishin",
+        "name": "Николай"
+      },
+      "date": "2011-05-25T14:33:23Z"
+    },
+    {
+      "from": {
+        "name": "Анатолий Шарифулин",
+        "type": "user",
+        "id": "sharifulin"
+      },
+      "date": "2011-05-15T11:31:47Z"
+    },
+    {
+      "date": "2011-05-15T09:49:40Z",
+      "from": {
+        "private": true,
+        "type": "user",
+        "id": "hoseinx6",
+        "name": "hosein.x6"
+      }
+    }
+  ],
+  "from": {
+    "name": "углы «Исимуры»",
+    "id": "zag",
+    "type": "user"
+  },
+  "via": {
+    "url": "http://friendfeed.com/share/mail",
+    "name": "email"
+  }
+}
+=end comment
+
+=end pod

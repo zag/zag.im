@@ -1,0 +1,48 @@
+=begin pod :pubdate('2010-12-08T21:06:21Z') :type<note> 
+=NAME Amazon.com: FarmVille For Dummies
+
+=begin DESCRIPTION
+
+Amazon.com: FarmVille For Dummies - L<link|http://www.amazon.com/FarmVille-Dummies-Angela-Morales/dp/1118016963>
+=for Image :width(175) :link('http://www.amazon.com/FarmVille-Dummies-Angela-Morales/dp/1118016963') :height(175) :preview
+media/0eeb974046615d8b0edad5fd6793b38a4cdaff21.jpg
+
+
+
+=end DESCRIPTION
+
+Amazon.com: FarmVille For Dummies - L<link|http://www.amazon.com/FarmVille-Dummies-Angela-Morales/dp/1118016963>
+=for Image :width(175) :link('http://www.amazon.com/FarmVille-Dummies-Angela-Morales/dp/1118016963') :height(175) :preview
+media/0eeb974046615d8b0edad5fd6793b38a4cdaff21.jpg
+
+
+
+=begin comment :src
+{
+  "rawLink": "http://www.amazon.com/FarmVille-Dummies-Angela-Morales/dp/1118016963",
+  "body": "Amazon.com: FarmVille For Dummies - <a rel=\"nofollow\" href=\"http://www.amazon.com/FarmVille-Dummies-Angela-Morales/dp/1118016963\" title=\"http://www.amazon.com/FarmVille-Dummies-Angela-Morales/dp/1118016963\">http://www.amazon.com/FarmVil...</a>",
+  "id": "e/8ea1e4b56c4f4ed9a562ec9471adfff6",
+  "rawBody": "Amazon.com: FarmVille For Dummies",
+  "date": "2010-12-08T21:06:21Z",
+  "url": "http://friendfeed.com/zag/8ea1e4b5/amazon-farmville-for-dummies",
+  "thumbnails": [
+    {
+      "url": "http://m.friendfeed-media.com/0eeb974046615d8b0edad5fd6793b38a4cdaff21",
+      "width": 175,
+      "height": 175,
+      "link": "http://www.amazon.com/FarmVille-Dummies-Angela-Morales/dp/1118016963"
+    }
+  ],
+  "from": {
+    "name": "углы «Исимуры»",
+    "id": "zag",
+    "type": "user"
+  },
+  "via": {
+    "name": "Bookmarklet",
+    "url": "http://friendfeed.com/share/bookmarklet"
+  }
+}
+=end comment
+
+=end pod

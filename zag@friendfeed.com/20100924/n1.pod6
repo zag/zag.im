@@ -1,0 +1,36 @@
+=begin pod :pubdate('2010-09-24T20:27:12Z') :type<note> 
+=NAME RT @avarab: I'm hypnotized by http://lmgtfy.com/?q=cache:lmgtfy.com
+
+=begin DESCRIPTION
+
+RT @avarab: I'm hypnotized by http://lmgtfy.com/?q=cache:lmgtfy.com - L<link|http://twitter.com/zagru/statuses/25436167224>
+
+
+
+=end DESCRIPTION
+
+RT @avarab: I'm hypnotized by http://lmgtfy.com/?q=cache:lmgtfy.com - L<link|http://twitter.com/zagru/statuses/25436167224>
+
+
+
+=begin comment :src
+{
+  "rawLink": "http://twitter.com/zagru/statuses/25436167224",
+  "body": "RT @<a rel=\"nofollow\" href=\"http://twitter.com/avarab\">avarab</a>: I'm hypnotized by <a rel=\"nofollow\" href=\"http://lmgtfy.com/?q=cache:lmgtfy.com\" title=\"http://lmgtfy.com/?q=cache:lmgtfy.com\">http://lmgtfy.com/...</a>",
+  "id": "e/fb3589213ce9d7bff30983bb7289322a",
+  "date": "2010-09-24T20:27:12Z",
+  "rawBody": "RT @avarab: I'm hypnotized by http://lmgtfy.com/?q=cache:lmgtfy.com",
+  "url": "http://friendfeed.com/zag/fb358921/rt-avarab-i-m-hypnotized-by",
+  "from": {
+    "id": "zag",
+    "type": "user",
+    "name": "углы «Исимуры»"
+  },
+  "via": {
+    "name": "Twitter",
+    "url": "http://twitter.com/zagru/statuses/25436167224"
+  }
+}
+=end comment
+
+=end pod

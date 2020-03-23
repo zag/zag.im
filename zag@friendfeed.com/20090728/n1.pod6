@@ -1,0 +1,46 @@
+=begin pod :pubdate('2009-07-28T06:56:42Z') :type<note> :tags<19 rakudo perl6 freebsd>
+=NAME Updated rakudoport to Parrot 1.4.0 and Rakudo #19("Chicago") #rakudo #perl6 #freebsd http://rakudoport.sourceforge.net/
+
+=begin DESCRIPTION
+
+Updated rakudoport to Parrot 1.4.0 and Rakudo #19("Chicago") #rakudo #perl6 #freebsd http://rakudoport.sourceforge.net/ - L<link|http://twitter.com/zagru/statuses/2886056247>
+
+
+
+=end DESCRIPTION
+
+Updated rakudoport to Parrot 1.4.0 and Rakudo #19("Chicago") #rakudo #perl6 #freebsd http://rakudoport.sourceforge.net/ - L<link|http://twitter.com/zagru/statuses/2886056247>
+
+
+
+=begin comment :src
+{
+  "via": {
+    "name": "Twitter",
+    "url": "http://twitter.com/zagru/statuses/2886056247"
+  },
+  "from": {
+    "type": "user",
+    "id": "zag",
+    "name": "углы «Исимуры»"
+  },
+  "date": "2009-07-28T06:56:42Z",
+  "id": "e/7462acbce13f3d08b3ca9da7fdacc26d",
+  "rawBody": "Updated rakudoport to Parrot 1.4.0 and Rakudo #19(\"Chicago\") #rakudo #perl6 #freebsd http://rakudoport.sourceforge.net/",
+  "url": "http://friendfeed.com/zag/7462acbc/updated-rakudoport-to-parrot-1-4-0-and-rakudo-19",
+  "body": "Updated rakudoport to Parrot 1.4.0 and Rakudo <a rel=\"nofollow\" href=\"http://search.twitter.com/search?q=%2319\">#19</a>(&quot;Chicago&quot;) <a rel=\"nofollow\" href=\"http://search.twitter.com/search?q=%23rakudo\">#rakudo</a> <a rel=\"nofollow\" href=\"http://search.twitter.com/search?q=%23perl6\">#perl6</a> <a rel=\"nofollow\" href=\"http://search.twitter.com/search?q=%23freebsd\">#freebsd</a> <a rel=\"nofollow\" href=\"http://rakudoport.sourceforge.net/\" title=\"http://rakudoport.sourceforge.net/\">http://rakudoport.sourceforge.net/</a>",
+  "likes": [
+    {
+      "from": {
+        "type": "user",
+        "id": "kkapp",
+        "name": "alex@kapranoff.ru"
+      },
+      "date": "2009-07-28T11:22:29Z"
+    }
+  ],
+  "rawLink": "http://twitter.com/zagru/statuses/2886056247"
+}
+=end comment
+
+=end pod

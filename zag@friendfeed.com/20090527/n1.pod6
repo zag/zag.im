@@ -1,0 +1,36 @@
+=begin pod :pubdate('2009-05-27T10:44:07Z') :type<note> :tags<rootconf>
+=NAME Я уже знаю чем буду заниматься на выходных : (http://clck.ru/7XV) #rootconf
+
+=begin DESCRIPTION
+
+Я уже знаю чем буду заниматься на выходных : (http://clck.ru/7XV) #rootconf - L<link|http://twitter.com/zagru/statuses/1934522484>
+
+
+
+=end DESCRIPTION
+
+Я уже знаю чем буду заниматься на выходных : (http://clck.ru/7XV) #rootconf - L<link|http://twitter.com/zagru/statuses/1934522484>
+
+
+
+=begin comment :src
+{
+  "id": "e/041d1f6094d498cdb9fe1b4839db33f6",
+  "date": "2009-05-27T10:44:07Z",
+  "rawBody": "Я уже знаю чем буду заниматься на выходных : (http://clck.ru/7XV) #rootconf",
+  "url": "http://friendfeed.com/zag/041d1f60/rootconf",
+  "body": "Я уже знаю чем буду заниматься на выходных : (<a rel=\"nofollow\" href=\"http://clck.ru/7XV\" title=\"http://smotri.com/user/rootconference/myvideo/\">http://smotri.com/user...</a>) <a rel=\"nofollow\" href=\"http://search.twitter.com/search?q=%23rootconf\">#rootconf</a>",
+  "rawLink": "http://twitter.com/zagru/statuses/1934522484",
+  "from": {
+    "name": "углы «Исимуры»",
+    "type": "user",
+    "id": "zag"
+  },
+  "via": {
+    "name": "Twitter",
+    "url": "http://twitter.com/zagru/statuses/1934522484"
+  }
+}
+=end comment
+
+=end pod

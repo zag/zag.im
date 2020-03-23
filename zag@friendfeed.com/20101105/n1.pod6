@@ -1,0 +1,67 @@
+=begin pod :pubdate('2010-11-05T05:49:43Z') :type<note> 
+=NAME modpagespeed - Page Speed (http://code.google.com/speed/page-speed/) is a tool and library that identifies improvements that can be made to web-sites to improve their latency.
+
+=begin DESCRIPTION
+
+modpagespeed - Page Speed (http://code.google.com/speed/page-speed/) is a tool and library that identifies improvements that can be made to web-sites to improve their latency. - L<link|http://code.google.com/p/modpagespeed/>
+=for Image :width(480) :link('http://code.google.com/p/modpagespeed/') :height(150) :preview
+media/541bf2306de5ad8b7f5fbe6b0a69c8a69f18f289.gif
+
+=item It works with Apache 2.2 and includes several filters that optimize JavaScript, HTML, CSS stylesheets, JPEG and PNG images.
+
+
+=end DESCRIPTION
+
+modpagespeed - Page Speed (http://code.google.com/speed/page-speed/) is a tool and library that identifies improvements that can be made to web-sites to improve their latency. - L<link|http://code.google.com/p/modpagespeed/>
+=for Image :width(480) :link('http://code.google.com/p/modpagespeed/') :height(150) :preview
+media/541bf2306de5ad8b7f5fbe6b0a69c8a69f18f289.gif
+
+=item It works with Apache 2.2 and includes several filters that optimize JavaScript, HTML, CSS stylesheets, JPEG and PNG images.
+
+
+=begin comment :src
+{
+  "rawLink": "http://code.google.com/p/modpagespeed/",
+  "body": "modpagespeed - Page Speed (<a rel=\"nofollow\" href=\"http://code.google.com/speed/page-speed/\" title=\"http://code.google.com/speed/page-speed/\">http://code.google.com/speed...</a>) is a tool and library that identifies improvements that can be made to web-sites to improve their latency. - <a rel=\"nofollow\" href=\"http://code.google.com/p/modpagespeed/\" title=\"http://code.google.com/p/modpagespeed/\">http://code.google.com/p...</a>",
+  "rawBody": "modpagespeed - Page Speed (http://code.google.com/speed/page-speed/) is a tool and library that identifies improvements that can be made to web-sites to improve their latency.",
+  "id": "e/a67f976bc01d42f4bee26e93abb656f1",
+  "date": "2010-11-05T05:49:43Z",
+  "url": "http://friendfeed.com/zag/a67f976b/modpagespeed-page-speed-is-tool-and-library",
+  "thumbnails": [
+    {
+      "link": "http://code.google.com/p/modpagespeed/",
+      "height": 150,
+      "url": "http://m.friendfeed-media.com/541bf2306de5ad8b7f5fbe6b0a69c8a69f18f289",
+      "width": 480
+    }
+  ],
+  "comments": [
+    {
+      "body": "It works with Apache 2.2 and includes several filters that optimize JavaScript, HTML, CSS stylesheets, JPEG and PNG images.",
+      "via": {
+        "url": "http://friendfeed.com/share/bookmarklet",
+        "name": "Bookmarklet"
+      },
+      "date": "2010-11-05T05:49:43Z",
+      "id": "e/a67f976bc01d42f4bee26e93abb656f1/c/68e37cb979a84f82885ebb3dd1c12361",
+      "from": {
+        "name": "углы «Исимуры»",
+        "id": "zag",
+        "type": "user"
+      },
+      "rawBody": "It works with Apache 2.2 and includes several filters that optimize JavaScript, HTML, CSS stylesheets, JPEG and PNG images."
+    }
+  ],
+  "via": {
+    "url": "http://friendfeed.com/share/bookmarklet",
+    "name": "Bookmarklet"
+  },
+  "from": {
+    "name": "углы «Исимуры»",
+    "id": "zag",
+    "type": "user"
+  }
+}
+=end comment
+
+=end pod

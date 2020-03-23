@@ -1,0 +1,44 @@
+=begin pod :pubdate('2010-07-08T07:55:22Z') :type<note> 
+=NAME Absolut hacker
+
+=begin DESCRIPTION
+
+Absolut hacker
+=for Image :width(133) :link('http://m.friendfeed-media.com/03b8eda6d6173e47988d63bdb9d9ee6f1d7770ca') :height(175) :preview
+media/f03b0020168d38e912885c890a4530a778d85acc.jpg
+
+
+
+=end DESCRIPTION
+
+Absolut hacker
+=for Image :width(133) :link('http://m.friendfeed-media.com/03b8eda6d6173e47988d63bdb9d9ee6f1d7770ca') :height(175) :preview
+media/f03b0020168d38e912885c890a4530a778d85acc.jpg
+
+
+
+=begin comment :src
+{
+  "from": {
+    "type": "user",
+    "id": "zag",
+    "name": "углы «Исимуры»"
+  },
+  "id": "e/0dc24227dc6c4516a59fd0d6240ae01d",
+  "date": "2010-07-08T07:55:22Z",
+  "rawBody": "Absolut hacker",
+  "url": "http://friendfeed.com/zag/0dc24227/absolut-hacker",
+  "thumbnails": [
+    {
+      "width": 133,
+      "url": "http://m.friendfeed-media.com/f03b0020168d38e912885c890a4530a778d85acc",
+      "link": "http://m.friendfeed-media.com/03b8eda6d6173e47988d63bdb9d9ee6f1d7770ca",
+      "height": 175
+    }
+  ],
+  "rawLink": "http://friendfeed.com/e/0dc24227-dc6c-4516-a59f-d0d6240ae01d",
+  "body": "Absolut hacker"
+}
+=end comment
+
+=end pod

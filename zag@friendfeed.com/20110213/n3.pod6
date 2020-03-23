@@ -1,0 +1,36 @@
+=begin pod :pubdate('2011-02-13T07:09:32Z') :type<note> 
+=NAME RT @strashylka: измучанный консолью линуксоид + избалованный макосью линуксоид = две половинки одного целого
+
+=begin DESCRIPTION
+
+RT @strashylka: измучанный консолью линуксоид + избалованный макосью линуксоид = две половинки одного целого - L<link|http://twitter.com/zagru/statuses/36683374991122432>
+
+
+
+=end DESCRIPTION
+
+RT @strashylka: измучанный консолью линуксоид + избалованный макосью линуксоид = две половинки одного целого - L<link|http://twitter.com/zagru/statuses/36683374991122432>
+
+
+
+=begin comment :src
+{
+  "via": {
+    "url": "http://twitter.com/zagru/statuses/36683374991122432",
+    "name": "Twitter"
+  },
+  "from": {
+    "id": "zag",
+    "type": "user",
+    "name": "углы «Исимуры»"
+  },
+  "rawLink": "http://twitter.com/zagru/statuses/36683374991122432",
+  "body": "RT @<a rel=\"nofollow\" href=\"http://twitter.com/strashylka\">strashylka</a>: измучанный консолью линуксоид + избалованный макосью линуксоид = две половинки одного целого",
+  "id": "e/1c095baf0527152334632e4c5f36dbf0",
+  "date": "2011-02-13T07:09:32Z",
+  "rawBody": "RT @strashylka: измучанный консолью линуксоид + избалованный макосью линуксоид = две половинки одного целого",
+  "url": "http://friendfeed.com/zag/1c095baf/rt-strashylka"
+}
+=end comment
+
+=end pod

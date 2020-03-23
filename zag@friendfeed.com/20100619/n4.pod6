@@ -1,0 +1,36 @@
+=begin pod :pubdate('2010-06-19T14:03:51Z') :type<note> :tags<lvee>
+=NAME RT @lveecon: Использование Linux в GPS-системах трекинга автотранспорта. Виктор Полстюк, Belarus, Minsk #lvee
+
+=begin DESCRIPTION
+
+RT @lveecon: Использование Linux в GPS-системах трекинга автотранспорта. Виктор Полстюк, Belarus, Minsk #lvee - L<link|http://twitter.com/zagru/statuses/16547911219>
+
+
+
+=end DESCRIPTION
+
+RT @lveecon: Использование Linux в GPS-системах трекинга автотранспорта. Виктор Полстюк, Belarus, Minsk #lvee - L<link|http://twitter.com/zagru/statuses/16547911219>
+
+
+
+=begin comment :src
+{
+  "date": "2010-06-19T14:03:51Z",
+  "id": "e/d7acf3c5c776ecbe6097fc1eb5e1386a",
+  "rawBody": "RT @lveecon: Использование Linux в GPS-системах трекинга автотранспорта. Виктор Полстюк, Belarus, Minsk #lvee",
+  "url": "http://friendfeed.com/zag/d7acf3c5/rt-lveecon-linux-gps-belarus-minsk-lvee",
+  "rawLink": "http://twitter.com/zagru/statuses/16547911219",
+  "body": "RT @<a rel=\"nofollow\" href=\"http://twitter.com/lveecon\">lveecon</a>: Использование Linux в GPS-системах трекинга автотранспорта. Виктор Полстюк, Belarus, Minsk <a rel=\"nofollow\" href=\"http://search.twitter.com/search?q=%23lvee\">#lvee</a>",
+  "via": {
+    "name": "Twitter",
+    "url": "http://twitter.com/zagru/statuses/16547911219"
+  },
+  "from": {
+    "id": "zag",
+    "type": "user",
+    "name": "углы «Исимуры»"
+  }
+}
+=end comment
+
+=end pod

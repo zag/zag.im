@@ -1,0 +1,36 @@
+=begin pod :pubdate('2011-08-25T07:53:18Z') :type<note> 
+=NAME На основе сетевой активности скоро и биографии будут писаться автоматом? Мое perl резюме: http://t.co/Ij181R1
+
+=begin DESCRIPTION
+
+На основе сетевой активности скоро и биографии будут писаться автоматом? Мое perl резюме: http://t.co/Ij181R1 - L<link|http://twitter.com/zagru/statuses/106635246669271040>
+
+
+
+=end DESCRIPTION
+
+На основе сетевой активности скоро и биографии будут писаться автоматом? Мое perl резюме: http://t.co/Ij181R1 - L<link|http://twitter.com/zagru/statuses/106635246669271040>
+
+
+
+=begin comment :src
+{
+  "body": "На основе сетевой активности скоро и биографии будут писаться автоматом? Мое perl резюме: <a rel=\"nofollow\" href=\"http://t.co/Ij181R1\">http://t.co/Ij181R1</a>",
+  "rawLink": "http://twitter.com/zagru/statuses/106635246669271040",
+  "date": "2011-08-25T07:53:18Z",
+  "id": "e/9371fb18ea07089c834a955332523436",
+  "rawBody": "На основе сетевой активности скоро и биографии будут писаться автоматом? Мое perl резюме: http://t.co/Ij181R1",
+  "url": "http://friendfeed.com/zag/9371fb18/perl",
+  "from": {
+    "name": "углы «Исимуры»",
+    "id": "zag",
+    "type": "user"
+  },
+  "via": {
+    "url": "http://twitter.com/zagru/statuses/106635246669271040",
+    "name": "Twitter"
+  }
+}
+=end comment
+
+=end pod

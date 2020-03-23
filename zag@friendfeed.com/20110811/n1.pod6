@@ -1,0 +1,48 @@
+=begin pod :pubdate('2011-08-11T12:10:26Z') :type<note> 
+=NAME GPS-Trace Orange: бесплатный GPS мониторинг. Для того чтобы начать использовать бесплатный спутниковый мониторинг GPS-Trace Orange, Вам понадобится GPS или ГЛОНАСС трекер, контроллер или сотовый телефон с функцией GPS.
+
+=begin DESCRIPTION
+
+GPS-Trace Orange: бесплатный GPS мониторинг. Для того чтобы начать использовать бесплатный спутниковый мониторинг GPS-Trace Orange, Вам понадобится GPS или ГЛОНАСС трекер, контроллер или сотовый телефон с функцией GPS. - L<link|http://gps-trace.com/>
+=for Image :width(175) :link('http://gps-trace.com/') :height(175) :preview
+media/bf053a508d654f47098f28bd81084432c0fd4400.jpg
+
+
+
+=end DESCRIPTION
+
+GPS-Trace Orange: бесплатный GPS мониторинг. Для того чтобы начать использовать бесплатный спутниковый мониторинг GPS-Trace Orange, Вам понадобится GPS или ГЛОНАСС трекер, контроллер или сотовый телефон с функцией GPS. - L<link|http://gps-trace.com/>
+=for Image :width(175) :link('http://gps-trace.com/') :height(175) :preview
+media/bf053a508d654f47098f28bd81084432c0fd4400.jpg
+
+
+
+=begin comment :src
+{
+  "via": {
+    "url": "http://friendfeed.com/share/bookmarklet",
+    "name": "Bookmarklet"
+  },
+  "from": {
+    "type": "user",
+    "id": "zag",
+    "name": "углы «Исимуры»"
+  },
+  "body": "GPS-Trace Orange: бесплатный GPS мониторинг. Для того чтобы начать использовать бесплатный спутниковый мониторинг GPS-Trace Orange, Вам понадобится GPS или ГЛОНАСС трекер, контроллер или сотовый телефон с функцией GPS. - <a rel=\"nofollow\" href=\"http://gps-trace.com/\">http://gps-trace.com/</a>",
+  "rawLink": "http://gps-trace.com/",
+  "date": "2011-08-11T12:10:26Z",
+  "id": "e/a1cd9a53b0bb477ab99d7dc4dc64a403",
+  "rawBody": "GPS-Trace Orange: бесплатный GPS мониторинг. Для того чтобы начать использовать бесплатный спутниковый мониторинг GPS-Trace Orange, Вам понадобится GPS или ГЛОНАСС трекер, контроллер или сотовый телефон с функцией GPS.",
+  "url": "http://friendfeed.com/zag/a1cd9a53/gps-trace-orange",
+  "thumbnails": [
+    {
+      "height": 175,
+      "link": "http://gps-trace.com/",
+      "url": "http://m.friendfeed-media.com/bf053a508d654f47098f28bd81084432c0fd4400",
+      "width": 175
+    }
+  ]
+}
+=end comment
+
+=end pod

@@ -1,0 +1,55 @@
+=begin pod :pubdate('2010-09-07T10:02:04Z') :type<note> 
+=NAME В жизни нет ничего сложного. Это мы сложны. Жизнь — простая штука, и в ней что проще, тем правильнее.Оскар Уальд(http://bit.ly/9P9OnH)
+
+=begin DESCRIPTION
+
+В жизни нет ничего сложного. Это мы сложны. Жизнь — простая штука, и в ней что проще, тем правильнее.Оскар Уальд(http://bit.ly/9P9OnH) - L<link|http://twitter.com/zagru/statuses/23224675005>
+
+
+
+=end DESCRIPTION
+
+В жизни нет ничего сложного. Это мы сложны. Жизнь — простая штука, и в ней что проще, тем правильнее.Оскар Уальд(http://bit.ly/9P9OnH) - L<link|http://twitter.com/zagru/statuses/23224675005>
+
+
+
+=begin comment :src
+{
+  "via": {
+    "url": "http://twitter.com/zagru/statuses/23224675005",
+    "name": "Twitter"
+  },
+  "from": {
+    "type": "user",
+    "id": "zag",
+    "name": "углы «Исимуры»"
+  },
+  "id": "e/2d66ac17bd4a5a568ff49bf3bf5bfc21",
+  "url": "http://friendfeed.com/zag/2d66ac17",
+  "date": "2010-09-07T10:02:04Z",
+  "rawBody": "В жизни нет ничего сложного. Это мы сложны. Жизнь — простая штука, и в ней что проще, тем правильнее.Оскар Уальд(http://bit.ly/9P9OnH)",
+  "likes": [
+    {
+      "from": {
+        "type": "user",
+        "id": "zololine",
+        "name": "Catherine Zolotukhina"
+      },
+      "date": "2010-09-07T17:43:00Z"
+    },
+    {
+      "from": {
+        "id": "iviotor",
+        "type": "user",
+        "private": true,
+        "name": "IvIotor"
+      },
+      "date": "2010-09-07T10:06:09Z"
+    }
+  ],
+  "rawLink": "http://twitter.com/zagru/statuses/23224675005",
+  "body": "В жизни нет ничего сложного. Это мы сложны. Жизнь — простая штука, и в ней что проще, тем правильнее.Оскар Уальд(<a rel=\"nofollow\" href=\"http://bit.ly/9P9OnH\">http://bit.ly/9P9OnH</a>)"
+}
+=end comment
+
+=end pod

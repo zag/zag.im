@@ -1,0 +1,32 @@
+=begin pod :pubdate('2009-02-01T14:13:29Z') :type<note> 
+=NAME test1
+
+=begin DESCRIPTION
+
+test1
+
+
+
+=end DESCRIPTION
+
+test1
+
+
+
+=begin comment :src
+{
+  "date": "2009-02-01T14:13:29Z",
+  "id": "e/b34a2bacc49f43e88c08f37479843e5a",
+  "rawBody": "test1",
+  "url": "http://friendfeed.com/zag/b34a2bac/test1",
+  "from": {
+    "id": "zag",
+    "type": "user",
+    "name": "углы «Исимуры»"
+  },
+  "body": "test1",
+  "rawLink": "http://friendfeed.com/e/b34a2bac-c49f-43e8-8c08-f37479843e5a"
+}
+=end comment
+
+=end pod

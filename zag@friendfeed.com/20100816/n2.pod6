@@ -1,0 +1,32 @@
+=begin pod :pubdate('2010-08-16T06:22:10Z') :type<note> :tags<Perl>
+=NAME Fwd: Vim 7.3 supports #Perl 6, adds Perl 5 improvements - http://feedproxy.google.com/~r/PerlBuzz/~3/Wk-XMKIvNT4/vim-73-supports-perl-6.html (via http://ff.im/piNGI)
+
+=begin DESCRIPTION
+
+Fwd: Vim 7.3 supports #Perl 6, adds Perl 5 improvements - http://feedproxy.google.com/~r/PerlBuzz/~3/Wk-XMKIvNT4/vim-73-supports-perl-6.html (via http://ff.im/piNGI)
+
+
+
+=end DESCRIPTION
+
+Fwd: Vim 7.3 supports #Perl 6, adds Perl 5 improvements - http://feedproxy.google.com/~r/PerlBuzz/~3/Wk-XMKIvNT4/vim-73-supports-perl-6.html (via http://ff.im/piNGI)
+
+
+
+=begin comment :src
+{
+  "body": "Fwd: Vim 7.3 supports <a href=\"http://friendfeed.com/search?q=%23Perl\">#Perl</a> 6, adds Perl 5 improvements - <a rel=\"nofollow\" href=\"http://feedproxy.google.com/~r/PerlBuzz/~3/Wk-XMKIvNT4/vim-73-supports-perl-6.html\" title=\"http://perlbuzz.com/2010/08/vim-73-supports-perl-6.html?utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+PerlBuzz+%28PerlBuzz%29\">http://perlbuzz.com/2010...</a> (via <a href=\"http://ff.im/piNGI\" title=\"http://friendfeed.com/perl/077b815f/vim-7-3-supports-perl-6-adds-5-improvements\">http://friendfeed.com/perl...</a>)",
+  "rawLink": "http://friendfeed.com/e/228e9f01-30df-481b-9854-d0b3f578918d",
+  "date": "2010-08-16T06:22:10Z",
+  "id": "e/228e9f0130df481b9854d0b3f578918d",
+  "rawBody": "Fwd: Vim 7.3 supports #Perl 6, adds Perl 5 improvements - http://feedproxy.google.com/~r/PerlBuzz/~3/Wk-XMKIvNT4/vim-73-supports-perl-6.html (via http://ff.im/piNGI)",
+  "url": "http://friendfeed.com/zag/228e9f01/fwd-vim-7-3-supports-perl-6-adds-5-improvements",
+  "from": {
+    "type": "user",
+    "id": "zag",
+    "name": "углы «Исимуры»"
+  }
+}
+=end comment
+
+=end pod

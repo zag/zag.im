@@ -1,0 +1,105 @@
+=begin pod :pubdate('2011-10-11T17:22:57Z') :type<note> 
+=NAME Техника в руках дикаря: 10 лет спустя
+
+=begin DESCRIPTION
+
+Техника в руках дикаря: 10 лет спустя - L<link|http://www.ixbt.com/digimage/bm2011.shtml>
+=for Image :width(228) :link('http://www.ixbt.com/digimage/bm2011.shtml') :height(175) :preview
+media/4436467e87f337f8894333e3752f93d5b90d856b.jpg
+=for Image :width(248) :link('http://www.ixbt.com/digimage/bm2011.shtml') :height(175) :preview
+media/f7879c802575c715b688e0c3739a91811fe5c963.jpg
+=for Image :width(105) :link('http://www.ixbt.com/digimage/bm2011.shtml') :height(175) :preview
+media/fbdc1ef684974235b88d92301e9b45a8ef38fe97.jpg
+
+=item "Прошло 10 лет. То, что казалось фантастикой, стало обыденностью. Дикий турист, вооруженный современной техникой, уже не ощущает себя героем романа — наоборот, цивилизация шагнула уже и в глухие места, и ощущение оторванности от нее стало куда более слабым. "
+
+
+=end DESCRIPTION
+
+Техника в руках дикаря: 10 лет спустя - L<link|http://www.ixbt.com/digimage/bm2011.shtml>
+=for Image :width(228) :link('http://www.ixbt.com/digimage/bm2011.shtml') :height(175) :preview
+media/4436467e87f337f8894333e3752f93d5b90d856b.jpg
+=for Image :width(248) :link('http://www.ixbt.com/digimage/bm2011.shtml') :height(175) :preview
+media/f7879c802575c715b688e0c3739a91811fe5c963.jpg
+=for Image :width(105) :link('http://www.ixbt.com/digimage/bm2011.shtml') :height(175) :preview
+media/fbdc1ef684974235b88d92301e9b45a8ef38fe97.jpg
+
+=item "Прошло 10 лет. То, что казалось фантастикой, стало обыденностью. Дикий турист, вооруженный современной техникой, уже не ощущает себя героем романа — наоборот, цивилизация шагнула уже и в глухие места, и ощущение оторванности от нее стало куда более слабым. "
+
+
+=begin comment :src
+{
+  "id": "e/6b978f30e01d4480b4f9b906abeb7ec6",
+  "rawBody": "Техника в руках дикаря: 10 лет спустя",
+  "date": "2011-10-11T17:22:57Z",
+  "url": "http://friendfeed.com/zag/6b978f30/10",
+  "thumbnails": [
+    {
+      "height": 175,
+      "link": "http://www.ixbt.com/digimage/bm2011.shtml",
+      "url": "http://m.friendfeed-media.com/4436467e87f337f8894333e3752f93d5b90d856b",
+      "width": 228
+    },
+    {
+      "url": "http://m.friendfeed-media.com/f7879c802575c715b688e0c3739a91811fe5c963",
+      "width": 248,
+      "link": "http://www.ixbt.com/digimage/bm2011.shtml",
+      "height": 175
+    },
+    {
+      "width": 105,
+      "url": "http://m.friendfeed-media.com/fbdc1ef684974235b88d92301e9b45a8ef38fe97",
+      "height": 175,
+      "link": "http://www.ixbt.com/digimage/bm2011.shtml"
+    }
+  ],
+  "likes": [
+    {
+      "date": "2011-10-12T04:38:43Z",
+      "from": {
+        "name": "Sergey Kapustin",
+        "type": "user",
+        "id": "sergey"
+      }
+    },
+    {
+      "date": "2011-10-11T17:55:13Z",
+      "from": {
+        "name": "alex@kapranoff.ru",
+        "id": "kkapp",
+        "type": "user"
+      }
+    }
+  ],
+  "rawLink": "http://www.ixbt.com/digimage/bm2011.shtml",
+  "body": "Техника в руках дикаря: 10 лет спустя - <a rel=\"nofollow\" href=\"http://www.ixbt.com/digimage/bm2011.shtml\" title=\"http://www.ixbt.com/digimage/bm2011.shtml\">http://www.ixbt.com/digimag...</a>",
+  "from": {
+    "name": "углы «Исимуры»",
+    "id": "zag",
+    "type": "user"
+  },
+  "via": {
+    "url": "http://friendfeed.com/share/bookmarklet",
+    "name": "Bookmarklet"
+  },
+  "comments": [
+    {
+      "body": "&quot;Прошло 10 лет. То, что казалось фантастикой, стало обыденностью. Дикий турист, вооруженный современной техникой, уже не ощущает себя героем романа — наоборот, цивилизация шагнула уже и в глухие места, и ощущение оторванности от нее стало куда более слабым. &quot;",
+      "via": {
+        "name": "Bookmarklet",
+        "url": "http://friendfeed.com/share/bookmarklet"
+      },
+      "date": "2011-10-11T17:22:57Z",
+      "id": "e/6b978f30e01d4480b4f9b906abeb7ec6/c/3d79c6c63f4f40da9fa2881270996669",
+      "rawBody": "\"Прошло 10 лет. То, что казалось фантастикой, стало обыденностью. Дикий турист, вооруженный современной техникой, уже не ощущает себя героем романа — наоборот, цивилизация шагнула уже и в глухие места, и ощущение оторванности от нее стало куда более слабым. \"",
+      "from": {
+        "name": "углы «Исимуры»",
+        "type": "user",
+        "id": "zag"
+      }
+    }
+  ]
+}
+=end comment
+
+=end pod

@@ -1,0 +1,104 @@
+=begin pod :pubdate('2010-09-09T19:08:46Z') :type<note> :tags<ps3>
+=NAME Completed: BorderLands #ps3
+
+=begin DESCRIPTION
+
+Completed: BorderLands #ps3
+=for Image :width(233) :link('http://m.friendfeed-media.com/79208dbe608691f6354850aa5d4ac936f7966ce2') :height(175) :preview
+media/72a5b44897fd32028e547346617703886808c481.jpg
+=for Image :width(233) :link('http://m.friendfeed-media.com/91ed419620563b4db384d1e78c543b4bd23d8138') :height(175) :preview
+media/d8e04072012ba26e3290a9e2bdfc51a9067495ed.jpg
+=for Image :width(152) :link('http://m.friendfeed-media.com/375a401db48b4825a77aec051ae8a5bc71dc3166') :height(175) :preview
+media/c627c10d1528e8c15c7b709ade1fe0efc564d292.jpg
+=for Image :width(233) :link('http://m.friendfeed-media.com/5d30f28a1895e0a4e45e08e5b83a6fe2e101ab5d') :height(175) :preview
+media/7dd4e2db87f2a029b3dfa74903e2aefa97073cb1.jpg
+=for Image :width(233) :link('http://m.friendfeed-media.com/860cdf53e48abfc81e9613b02731a5296d8922ee') :height(175) :preview
+media/b815805cd61f49c1c48817ae966f66eaed3f139d.jpg
+=for Image :width(233) :link('http://m.friendfeed-media.com/459c0705714134cb1f37546955b96c206dad0ef7') :height(175) :preview
+media/a90308489c292e9ca4529339446ec2e3dc19d9f1.jpg
+
+
+
+=end DESCRIPTION
+
+Completed: BorderLands #ps3
+=for Image :width(233) :link('http://m.friendfeed-media.com/79208dbe608691f6354850aa5d4ac936f7966ce2') :height(175) :preview
+media/72a5b44897fd32028e547346617703886808c481.jpg
+=for Image :width(233) :link('http://m.friendfeed-media.com/91ed419620563b4db384d1e78c543b4bd23d8138') :height(175) :preview
+media/d8e04072012ba26e3290a9e2bdfc51a9067495ed.jpg
+=for Image :width(152) :link('http://m.friendfeed-media.com/375a401db48b4825a77aec051ae8a5bc71dc3166') :height(175) :preview
+media/c627c10d1528e8c15c7b709ade1fe0efc564d292.jpg
+=for Image :width(233) :link('http://m.friendfeed-media.com/5d30f28a1895e0a4e45e08e5b83a6fe2e101ab5d') :height(175) :preview
+media/7dd4e2db87f2a029b3dfa74903e2aefa97073cb1.jpg
+=for Image :width(233) :link('http://m.friendfeed-media.com/860cdf53e48abfc81e9613b02731a5296d8922ee') :height(175) :preview
+media/b815805cd61f49c1c48817ae966f66eaed3f139d.jpg
+=for Image :width(233) :link('http://m.friendfeed-media.com/459c0705714134cb1f37546955b96c206dad0ef7') :height(175) :preview
+media/a90308489c292e9ca4529339446ec2e3dc19d9f1.jpg
+
+
+
+=begin comment :src
+{
+  "from": {
+    "name": "углы «Исимуры»",
+    "id": "zag",
+    "type": "user"
+  },
+  "body": "Completed: BorderLands <a href=\"http://friendfeed.com/search?q=%23ps3\">#ps3</a>",
+  "rawLink": "http://friendfeed.com/e/adda0860-9569-4043-b444-aced0bbd0676",
+  "likes": [
+    {
+      "from": {
+        "type": "user",
+        "id": "maitani",
+        "name": "Maitani"
+      },
+      "date": "2010-09-13T09:56:40Z"
+    }
+  ],
+  "date": "2010-09-09T19:08:46Z",
+  "id": "e/adda086095694043b444aced0bbd0676",
+  "rawBody": "Completed: BorderLands #ps3",
+  "url": "http://friendfeed.com/zag/adda0860/completed-borderlands-ps3",
+  "thumbnails": [
+    {
+      "url": "http://m.friendfeed-media.com/72a5b44897fd32028e547346617703886808c481",
+      "width": 233,
+      "link": "http://m.friendfeed-media.com/79208dbe608691f6354850aa5d4ac936f7966ce2",
+      "height": 175
+    },
+    {
+      "height": 175,
+      "link": "http://m.friendfeed-media.com/91ed419620563b4db384d1e78c543b4bd23d8138",
+      "url": "http://m.friendfeed-media.com/d8e04072012ba26e3290a9e2bdfc51a9067495ed",
+      "width": 233
+    },
+    {
+      "width": 152,
+      "url": "http://m.friendfeed-media.com/c627c10d1528e8c15c7b709ade1fe0efc564d292",
+      "link": "http://m.friendfeed-media.com/375a401db48b4825a77aec051ae8a5bc71dc3166",
+      "height": 175
+    },
+    {
+      "height": 175,
+      "link": "http://m.friendfeed-media.com/5d30f28a1895e0a4e45e08e5b83a6fe2e101ab5d",
+      "url": "http://m.friendfeed-media.com/7dd4e2db87f2a029b3dfa74903e2aefa97073cb1",
+      "width": 233
+    },
+    {
+      "url": "http://m.friendfeed-media.com/b815805cd61f49c1c48817ae966f66eaed3f139d",
+      "width": 233,
+      "link": "http://m.friendfeed-media.com/860cdf53e48abfc81e9613b02731a5296d8922ee",
+      "height": 175
+    },
+    {
+      "link": "http://m.friendfeed-media.com/459c0705714134cb1f37546955b96c206dad0ef7",
+      "height": 175,
+      "url": "http://m.friendfeed-media.com/a90308489c292e9ca4529339446ec2e3dc19d9f1",
+      "width": 233
+    }
+  ]
+}
+=end comment
+
+=end pod

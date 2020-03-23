@@ -1,0 +1,122 @@
+=begin pod :pubdate('2011-03-11T08:07:46Z') :type<note> 
+=NAME Масленица
+
+=begin DESCRIPTION
+
+Масленица
+=for Image :width(82) :link('http://m.friendfeed-media.com/0ab6f108820c46f25f0476d75166177a0ee6f790') :height(175) :preview
+media/8929a3fd736d721233becdbfe953e1838b321d6d.jpg
+
+
+
+=end DESCRIPTION
+
+Масленица
+=for Image :width(82) :link('http://m.friendfeed-media.com/0ab6f108820c46f25f0476d75166177a0ee6f790') :height(175) :preview
+media/8929a3fd736d721233becdbfe953e1838b321d6d.jpg
+
+
+
+=begin comment :src
+{
+  "id": "e/6c6be3d2373b4f5f8a7739552630d618",
+  "rawBody": "Масленица",
+  "date": "2011-03-11T08:07:46Z",
+  "url": "http://friendfeed.com/zag/6c6be3d2",
+  "thumbnails": [
+    {
+      "height": 175,
+      "link": "http://m.friendfeed-media.com/0ab6f108820c46f25f0476d75166177a0ee6f790",
+      "url": "http://m.friendfeed-media.com/8929a3fd736d721233becdbfe953e1838b321d6d",
+      "width": 82
+    }
+  ],
+  "rawLink": "http://friendfeed.com/e/6c6be3d2-373b-4f5f-8a77-39552630d618",
+  "likes": [
+    {
+      "date": "2011-03-11T15:18:41Z",
+      "from": {
+        "name": "Добрые Еноты",
+        "type": "user",
+        "id": "texniz"
+      }
+    },
+    {
+      "from": {
+        "name": "woof",
+        "id": "woof",
+        "type": "user"
+      },
+      "date": "2011-03-11T13:51:12Z"
+    },
+    {
+      "from": {
+        "type": "user",
+        "id": "naty007",
+        "name": "написано иероглифами"
+      },
+      "date": "2011-03-11T12:06:06Z"
+    },
+    {
+      "date": "2011-03-11T10:59:15Z",
+      "from": {
+        "name": "prool",
+        "type": "user",
+        "id": "prool"
+      }
+    },
+    {
+      "date": "2011-03-11T09:25:35Z",
+      "from": {
+        "name": "Andrey Pitushkin",
+        "id": "anpit",
+        "type": "user"
+      }
+    },
+    {
+      "from": {
+        "name": "mindszenty",
+        "type": "user",
+        "id": "mindszenty"
+      },
+      "date": "2011-03-11T08:50:22Z"
+    },
+    {
+      "date": "2011-03-11T08:46:43Z",
+      "from": {
+        "name": "50 оттенков кошкости",
+        "type": "user",
+        "id": "artreal"
+      }
+    },
+    {
+      "from": {
+        "name": "покупайте круглые штуки",
+        "id": "noemi",
+        "type": "user"
+      },
+      "date": "2011-03-11T08:42:24Z"
+    },
+    {
+      "from": {
+        "name": "alex@kapranoff.ru",
+        "id": "kkapp",
+        "type": "user"
+      },
+      "date": "2011-03-11T08:38:28Z"
+    }
+  ],
+  "body": "Масленица",
+  "via": {
+    "url": "http://friendfeed.com/share/mail",
+    "name": "email"
+  },
+  "from": {
+    "type": "user",
+    "id": "zag",
+    "name": "углы «Исимуры»"
+  }
+}
+=end comment
+
+=end pod

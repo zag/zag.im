@@ -1,0 +1,36 @@
+=begin pod :pubdate('2011-07-28T09:41:24Z') :type<note> :tags<oscon>
+=NAME RT @perlbuzz: "Perl 6 is solid enough now. Start thinking about porting modules. Start thinking about reinventing modules." -- Damian at #oscon
+
+=begin DESCRIPTION
+
+RT @perlbuzz: "Perl 6 is solid enough now. Start thinking about porting modules. Start thinking about reinventing modules." -- Damian at #oscon - L<link|http://twitter.com/zagru/statuses/96515588532342785>
+
+
+
+=end DESCRIPTION
+
+RT @perlbuzz: "Perl 6 is solid enough now. Start thinking about porting modules. Start thinking about reinventing modules." -- Damian at #oscon - L<link|http://twitter.com/zagru/statuses/96515588532342785>
+
+
+
+=begin comment :src
+{
+  "via": {
+    "name": "Twitter",
+    "url": "http://twitter.com/zagru/statuses/96515588532342785"
+  },
+  "from": {
+    "type": "user",
+    "id": "zag",
+    "name": "углы «Исимуры»"
+  },
+  "id": "e/e3a15e78d524d133b070aa3e552d6e27",
+  "date": "2011-07-28T09:41:24Z",
+  "rawBody": "RT @perlbuzz: \"Perl 6 is solid enough now. Start thinking about porting modules. Start thinking about reinventing modules.\" -- Damian at #oscon",
+  "url": "http://friendfeed.com/zag/e3a15e78/rt-perlbuzz-perl-6-is-solid-enough-now-start",
+  "rawLink": "http://twitter.com/zagru/statuses/96515588532342785",
+  "body": "RT @<a rel=\"nofollow\" href=\"http://twitter.com/perlbuzz\">perlbuzz</a>: &quot;Perl 6 is solid enough now. Start thinking about porting modules. Start thinking about reinventing modules.&quot; -- Damian at <a rel=\"nofollow\" href=\"http://search.twitter.com/search?q=%23oscon\">#oscon</a>"
+}
+=end comment
+
+=end pod

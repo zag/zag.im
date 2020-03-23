@@ -1,0 +1,36 @@
+=begin pod :pubdate('2010-10-01T08:45:15Z') :type<note> :tags<yac2010>
+=NAME интересно ожидается про scaling storage от yahoo #yac2010
+
+=begin DESCRIPTION
+
+интересно ожидается про scaling storage от yahoo #yac2010
+
+
+
+=end DESCRIPTION
+
+интересно ожидается про scaling storage от yahoo #yac2010
+
+
+
+=begin comment :src
+{
+  "body": "интересно ожидается про scaling storage от yahoo <a href=\"http://friendfeed.com/search?q=%23yac2010\">#yac2010</a>",
+  "rawLink": "http://friendfeed.com/e/228edac8-5c77-414c-97dc-38cbf7bcfcdd",
+  "id": "e/228edac85c77414c97dc38cbf7bcfcdd",
+  "date": "2010-10-01T08:45:15Z",
+  "rawBody": "интересно ожидается про scaling storage от yahoo #yac2010",
+  "url": "http://friendfeed.com/zag/228edac8/scaling-storage-yahoo-yac2010",
+  "via": {
+    "name": "IM",
+    "url": "http://friendfeed.com/about/im"
+  },
+  "from": {
+    "name": "углы «Исимуры»",
+    "id": "zag",
+    "type": "user"
+  }
+}
+=end comment
+
+=end pod

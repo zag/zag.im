@@ -1,0 +1,67 @@
+=begin pod :pubdate('2011-07-12T18:34:01Z') :type<note> 
+=NAME Дистрибутивы Linux - Записки дебианщика
+
+=begin DESCRIPTION
+
+Дистрибутивы Linux - Записки дебианщика - L<link|http://mydebianblog.blogspot.com/2011/07/linux.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+debianletters+%28%3F%3F%3F%3F%3F%3F%3F+%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F%29&utm_content=Google+Reader>
+=for Image :width(154) :link('http://mydebianblog.blogspot.com/2011/07/linux.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+debianletters+%28%3F%3F%3F%3F%3F%3F%3F+%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F%29&utm_content=Google+Reader') :height(175) :preview
+media/aabee35b4ec0f458c2e548fd54758c660202d650.jpg
+
+=item "Здесь каждому своё: если вы программист, компьютерный энтузиаст или просто хотите использовать последние версии программ - используйте дистрибутивы со скользящим релизом. Наоборот, если вы больше цените стабильность и надёжность, то лучше использовать проверенное, хотя и несколько устаревшее, программное обеспечение из дистрибутивов с фиксированным релизом."
+
+
+=end DESCRIPTION
+
+Дистрибутивы Linux - Записки дебианщика - L<link|http://mydebianblog.blogspot.com/2011/07/linux.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+debianletters+%28%3F%3F%3F%3F%3F%3F%3F+%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F%29&utm_content=Google+Reader>
+=for Image :width(154) :link('http://mydebianblog.blogspot.com/2011/07/linux.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+debianletters+%28%3F%3F%3F%3F%3F%3F%3F+%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F%29&utm_content=Google+Reader') :height(175) :preview
+media/aabee35b4ec0f458c2e548fd54758c660202d650.jpg
+
+=item "Здесь каждому своё: если вы программист, компьютерный энтузиаст или просто хотите использовать последние версии программ - используйте дистрибутивы со скользящим релизом. Наоборот, если вы больше цените стабильность и надёжность, то лучше использовать проверенное, хотя и несколько устаревшее, программное обеспечение из дистрибутивов с фиксированным релизом."
+
+
+=begin comment :src
+{
+  "id": "e/ffe2da7ea699454a819daee47d36c913",
+  "rawBody": "Дистрибутивы Linux - Записки дебианщика",
+  "date": "2011-07-12T18:34:01Z",
+  "url": "http://friendfeed.com/zag/ffe2da7e/linux",
+  "thumbnails": [
+    {
+      "height": 175,
+      "link": "http://mydebianblog.blogspot.com/2011/07/linux.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+debianletters+%28%3F%3F%3F%3F%3F%3F%3F+%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F%29&utm_content=Google+Reader",
+      "url": "http://m.friendfeed-media.com/aabee35b4ec0f458c2e548fd54758c660202d650",
+      "width": 154
+    }
+  ],
+  "body": "Дистрибутивы Linux - Записки дебианщика - <a rel=\"nofollow\" href=\"http://mydebianblog.blogspot.com/2011/07/linux.html?utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+debianletters+%28%3F%3F%3F%3F%3F%3F%3F+%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F%29&amp;utm_content=Google+Reader\" title=\"http://mydebianblog.blogspot.com/2011/07/linux.html?utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+debianletters+%28%3F%3F%3F%3F%3F%3F%3F+%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F%29&amp;utm_content=Google+Reader\">http://mydebianblog.blogspot.com/2011...</a>",
+  "rawLink": "http://mydebianblog.blogspot.com/2011/07/linux.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+debianletters+%28%3F%3F%3F%3F%3F%3F%3F+%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F%29&utm_content=Google+Reader",
+  "via": {
+    "url": "http://friendfeed.com/share/bookmarklet",
+    "name": "Bookmarklet"
+  },
+  "from": {
+    "id": "zag",
+    "type": "user",
+    "name": "углы «Исимуры»"
+  },
+  "comments": [
+    {
+      "rawBody": "\"Здесь каждому своё: если вы программист, компьютерный энтузиаст или просто хотите использовать последние версии программ - используйте дистрибутивы со скользящим релизом. Наоборот, если вы больше цените стабильность и надёжность, то лучше использовать проверенное, хотя и несколько устаревшее, программное обеспечение из дистрибутивов с фиксированным релизом.\"",
+      "id": "e/ffe2da7ea699454a819daee47d36c913/c/a03d924fa7c6476ba9cf08525968a733",
+      "date": "2011-07-12T18:34:01Z",
+      "from": {
+        "name": "углы «Исимуры»",
+        "type": "user",
+        "id": "zag"
+      },
+      "via": {
+        "name": "Bookmarklet",
+        "url": "http://friendfeed.com/share/bookmarklet"
+      },
+      "body": "&quot;Здесь каждому своё: если вы программист, компьютерный энтузиаст или просто хотите использовать последние версии программ - используйте дистрибутивы со скользящим релизом. Наоборот, если вы больше цените стабильность и надёжность, то лучше использовать проверенное, хотя и несколько устаревшее, программное обеспечение из дистрибутивов с фиксированным релизом.&quot;"
+    }
+  ]
+}
+=end comment
+
+=end pod

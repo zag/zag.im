@@ -1,0 +1,55 @@
+=begin pod :pubdate('2010-04-29T04:29:41Z') :type<note> :tags<html5>
+=NAME gwt quake2:Look ma, no plugin! #html5
+
+=begin DESCRIPTION
+
+gwt quake2:Look ma, no plugin! #html5 - L<link|http://googlewebtoolkit.blogspot.com/2010/04/look-ma-no-plugin.html>
+
+=item We started with the existing Jake2 Java port of the Quake II engine, then used the Google Web Toolkit (along with WebGL, WebSockets, and a lot of refactoring) to cross-compile it into Javascript. You can see the results in the video above -- we were honestly a bit surprised when we saw it pushing over 30 frames per second on our laptops (your mileage may vary)!
+
+
+=end DESCRIPTION
+
+gwt quake2:Look ma, no plugin! #html5 - L<link|http://googlewebtoolkit.blogspot.com/2010/04/look-ma-no-plugin.html>
+
+=item We started with the existing Jake2 Java port of the Quake II engine, then used the Google Web Toolkit (along with WebGL, WebSockets, and a lot of refactoring) to cross-compile it into Javascript. You can see the results in the video above -- we were honestly a bit surprised when we saw it pushing over 30 frames per second on our laptops (your mileage may vary)!
+
+
+=begin comment :src
+{
+  "id": "e/15e5eba404a34433b7f77d64103f4097",
+  "date": "2010-04-29T04:29:41Z",
+  "url": "http://friendfeed.com/zag/15e5eba4/gwt-quake2-look-ma-no-plugin-html5",
+  "rawBody": "gwt quake2:Look ma, no plugin! #html5",
+  "rawLink": "http://googlewebtoolkit.blogspot.com/2010/04/look-ma-no-plugin.html",
+  "body": "gwt quake2:Look ma, no plugin! <a href=\"http://friendfeed.com/search?q=%23html5\">#html5</a> - <a rel=\"nofollow\" href=\"http://googlewebtoolkit.blogspot.com/2010/04/look-ma-no-plugin.html\" title=\"http://googlewebtoolkit.blogspot.com/2010/04/look-ma-no-plugin.html\">http://googlewebtoolkit.blogspot.com/2010...</a>",
+  "via": {
+    "url": "http://friendfeed.com/share/bookmarklet",
+    "name": "Bookmarklet"
+  },
+  "from": {
+    "id": "zag",
+    "type": "user",
+    "name": "углы «Исимуры»"
+  },
+  "comments": [
+    {
+      "id": "e/15e5eba404a34433b7f77d64103f4097/c/178978a47418400c9dcc39fb8aa07f6e",
+      "date": "2010-04-29T04:29:41Z",
+      "rawBody": "We started with the existing Jake2 Java port of the Quake II engine, then used the Google Web Toolkit (along with WebGL, WebSockets, and a lot of refactoring) to cross-compile it into Javascript. You can see the results in the video above -- we were honestly a bit surprised when we saw it pushing over 30 frames per second on our laptops (your mileage may vary)!",
+      "from": {
+        "name": "углы «Исимуры»",
+        "type": "user",
+        "id": "zag"
+      },
+      "via": {
+        "url": "http://friendfeed.com/share/bookmarklet",
+        "name": "Bookmarklet"
+      },
+      "body": "We started with the existing Jake2 Java port of the Quake II engine, then used the Google Web Toolkit (along with WebGL, WebSockets, and a lot of refactoring) to cross-compile it into Javascript. You can see the results in the video above -- we were honestly a bit surprised when we saw it pushing over 30 frames per second on our laptops (your mileage may vary)!"
+    }
+  ]
+}
+=end comment
+
+=end pod

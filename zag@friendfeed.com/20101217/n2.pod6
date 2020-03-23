@@ -1,0 +1,35 @@
+=begin pod :pubdate('2010-12-17T10:13:28Z') :type<note> 
+=NAME A web bookmark manager built on git and designed for github. It's searchable and social!
+https://github.com/hmason/gitmarks
+
+=begin DESCRIPTION
+
+A web bookmark manager built on git and designed for github. It's searchable and social!
+https://github.com/hmason/gitmarks
+
+
+
+=end DESCRIPTION
+
+A web bookmark manager built on git and designed for github. It's searchable and social!
+https://github.com/hmason/gitmarks
+
+
+
+=begin comment :src
+{
+  "rawBody": "A web bookmark manager built on git and designed for github. It's searchable and social!\nhttps://github.com/hmason/gitmarks",
+  "id": "e/786defa21f8341da87e09a05ba3887c0",
+  "date": "2010-12-17T10:13:28Z",
+  "from": {
+    "name": "углы «Исимуры»",
+    "type": "user",
+    "id": "zag"
+  },
+  "url": "http://friendfeed.com/zag/786defa2/web-bookmark-manager-built-on-git-and-designed",
+  "body": "A web bookmark manager built on git and designed for github. It's searchable and social!\n<a rel=\"nofollow\" href=\"https://github.com/hmason/gitmarks\" title=\"https://github.com/hmason/gitmarks\">https://github.com/hmason...</a>",
+  "rawLink": "http://friendfeed.com/e/786defa2-1f83-41da-87e0-9a05ba3887c0"
+}
+=end comment
+
+=end pod

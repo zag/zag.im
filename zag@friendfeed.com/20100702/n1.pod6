@@ -1,0 +1,48 @@
+=begin pod :pubdate('2010-07-02T19:03:42Z') :type<note> :tags<lvee>
+=NAME На #lvee начался разлив пива и приготовление шашлыков.
+
+=begin DESCRIPTION
+
+На #lvee начался разлив пива и приготовление шашлыков.
+=for Image :width(233) :link('http://m.friendfeed-media.com/781cbd5385809aa4d7660228b6e0d58375032a87') :height(175) :preview
+media/790b9e1b7a58b446ad8924e035f6c35e935f12b6.jpg
+
+
+
+=end DESCRIPTION
+
+На #lvee начался разлив пива и приготовление шашлыков.
+=for Image :width(233) :link('http://m.friendfeed-media.com/781cbd5385809aa4d7660228b6e0d58375032a87') :height(175) :preview
+media/790b9e1b7a58b446ad8924e035f6c35e935f12b6.jpg
+
+
+
+=begin comment :src
+{
+  "id": "e/f6cd5d3091f4407fb894309e72e2b04a",
+  "url": "http://friendfeed.com/zag/f6cd5d30/lvee",
+  "date": "2010-07-02T19:03:42Z",
+  "rawBody": "На #lvee начался разлив пива и приготовление шашлыков.",
+  "thumbnails": [
+    {
+      "url": "http://m.friendfeed-media.com/790b9e1b7a58b446ad8924e035f6c35e935f12b6",
+      "width": 233,
+      "height": 175,
+      "link": "http://m.friendfeed-media.com/781cbd5385809aa4d7660228b6e0d58375032a87"
+    }
+  ],
+  "body": "На <a href=\"http://friendfeed.com/search?q=%23lvee\">#lvee</a> начался разлив пива и приготовление шашлыков.",
+  "rawLink": "http://friendfeed.com/e/f6cd5d30-91f4-407f-b894-309e72e2b04a",
+  "from": {
+    "id": "zag",
+    "type": "user",
+    "name": "углы «Исимуры»"
+  },
+  "via": {
+    "name": "email",
+    "url": "http://friendfeed.com/share/mail"
+  }
+}
+=end comment
+
+=end pod

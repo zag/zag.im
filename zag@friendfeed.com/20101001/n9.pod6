@@ -1,0 +1,48 @@
+=begin pod :pubdate('2010-10-01T08:38:44Z') :type<note> :tags<yac2010>
+=NAME Phantom #yac2010
+
+=begin DESCRIPTION
+
+Phantom #yac2010
+=for Image :width(233) :link('http://m.friendfeed-media.com/774fc5300104e90b2abc5700128597cf97acdbc9') :height(175) :preview
+media/77160863dea7b95a890974510edbaac198c1f29c.jpg
+
+
+
+=end DESCRIPTION
+
+Phantom #yac2010
+=for Image :width(233) :link('http://m.friendfeed-media.com/774fc5300104e90b2abc5700128597cf97acdbc9') :height(175) :preview
+media/77160863dea7b95a890974510edbaac198c1f29c.jpg
+
+
+
+=begin comment :src
+{
+  "date": "2010-10-01T08:38:44Z",
+  "id": "e/96ebd3574a8544578745f5747e944e4f",
+  "rawBody": "Phantom #yac2010",
+  "url": "http://friendfeed.com/zag/96ebd357/phantom-yac2010",
+  "thumbnails": [
+    {
+      "url": "http://m.friendfeed-media.com/77160863dea7b95a890974510edbaac198c1f29c",
+      "width": 233,
+      "height": 175,
+      "link": "http://m.friendfeed-media.com/774fc5300104e90b2abc5700128597cf97acdbc9"
+    }
+  ],
+  "body": "Phantom <a href=\"http://friendfeed.com/search?q=%23yac2010\">#yac2010</a>",
+  "rawLink": "http://friendfeed.com/e/96ebd357-4a85-4457-8745-f5747e944e4f",
+  "via": {
+    "name": "email",
+    "url": "http://friendfeed.com/share/mail"
+  },
+  "from": {
+    "type": "user",
+    "id": "zag",
+    "name": "углы «Исимуры»"
+  }
+}
+=end comment
+
+=end pod

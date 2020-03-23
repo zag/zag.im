@@ -1,0 +1,36 @@
+=begin pod :pubdate('2010-07-30T07:24:05Z') :type<note> :tags<perl6 freebsd>
+=NAME Submit new port of "Rakudo star" to FreeBSD ports tree. #perl6 #freebsd
+
+=begin DESCRIPTION
+
+Submit new port of "Rakudo star" to FreeBSD ports tree. #perl6 #freebsd - L<link|http://twitter.com/zagru/statuses/19892233752>
+
+
+
+=end DESCRIPTION
+
+Submit new port of "Rakudo star" to FreeBSD ports tree. #perl6 #freebsd - L<link|http://twitter.com/zagru/statuses/19892233752>
+
+
+
+=begin comment :src
+{
+  "body": "Submit new port of &quot;Rakudo star&quot; to FreeBSD ports tree. <a rel=\"nofollow\" href=\"http://search.twitter.com/search?q=%23perl6\">#perl6</a> <a rel=\"nofollow\" href=\"http://search.twitter.com/search?q=%23freebsd\">#freebsd</a>",
+  "rawLink": "http://twitter.com/zagru/statuses/19892233752",
+  "id": "e/9c1808e3ba7972e48c2729f05d2c18c7",
+  "date": "2010-07-30T07:24:05Z",
+  "rawBody": "Submit new port of \"Rakudo star\" to FreeBSD ports tree. #perl6 #freebsd",
+  "url": "http://friendfeed.com/zag/9c1808e3/submit-new-port-of-rakudo-star-to-freebsd-ports",
+  "from": {
+    "type": "user",
+    "id": "zag",
+    "name": "углы «Исимуры»"
+  },
+  "via": {
+    "name": "Twitter",
+    "url": "http://twitter.com/zagru/statuses/19892233752"
+  }
+}
+=end comment
+
+=end pod

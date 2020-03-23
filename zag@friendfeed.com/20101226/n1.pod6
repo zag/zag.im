@@ -1,0 +1,32 @@
+=begin pod :pubdate('2010-12-26T11:35:44Z') :type<note> :tags<TRON>
+=NAME В  процессе  просмотра фильма услышал приветствие: "Мира вам, программы !". Вдруг в оригинале:  "Hello world, the program !" ? #TRON: Legacy excellent !
+
+=begin DESCRIPTION
+
+В  процессе  просмотра фильма услышал приветствие: "Мира вам, программы !". Вдруг в оригинале:  "Hello world, the program !" ? #TRON: Legacy excellent !
+
+
+
+=end DESCRIPTION
+
+В  процессе  просмотра фильма услышал приветствие: "Мира вам, программы !". Вдруг в оригинале:  "Hello world, the program !" ? #TRON: Legacy excellent !
+
+
+
+=begin comment :src
+{
+  "rawLink": "http://friendfeed.com/e/f4163b51-ec8a-4d5b-aaab-6c56b8ae0bcc",
+  "body": "В  процессе  просмотра фильма услышал приветствие: &quot;Мира вам, программы !&quot;. Вдруг в оригинале:  &quot;Hello world, the program !&quot; ? <a href=\"http://friendfeed.com/search?q=%23TRON\">#TRON</a>: Legacy excellent !",
+  "date": "2010-12-26T11:35:44Z",
+  "id": "e/f4163b51ec8a4d5baaab6c56b8ae0bcc",
+  "rawBody": "В  процессе  просмотра фильма услышал приветствие: \"Мира вам, программы !\". Вдруг в оригинале:  \"Hello world, the program !\" ? #TRON: Legacy excellent !",
+  "from": {
+    "id": "zag",
+    "type": "user",
+    "name": "углы «Исимуры»"
+  },
+  "url": "http://friendfeed.com/zag/f4163b51/hello-world-program-tron-legacy-excellent"
+}
+=end comment
+
+=end pod

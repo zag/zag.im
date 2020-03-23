@@ -1,0 +1,48 @@
+=begin pod :pubdate('2011-01-09T13:29:45Z') :type<note> 
+=NAME Посмотрел замечательный фильм о шрифте  Helvetica (2007). Вдохновлен не столько самой историей , сколько визуальной культурой. Определенно культовый фильм.
+
+=begin DESCRIPTION
+
+Посмотрел замечательный фильм о шрифте  Helvetica (2007). Вдохновлен не столько самой историей , сколько визуальной культурой. Определенно культовый фильм. - L<link|http://www.imdb.com/title/tt0847817/>
+=for Image :width(93) :link('http://www.imdb.com/title/tt0847817/') :height(140) :preview
+media/d54f287849c8c76ddc60f80bbf94601aa3a08f94.jpg
+
+
+
+=end DESCRIPTION
+
+Посмотрел замечательный фильм о шрифте  Helvetica (2007). Вдохновлен не столько самой историей , сколько визуальной культурой. Определенно культовый фильм. - L<link|http://www.imdb.com/title/tt0847817/>
+=for Image :width(93) :link('http://www.imdb.com/title/tt0847817/') :height(140) :preview
+media/d54f287849c8c76ddc60f80bbf94601aa3a08f94.jpg
+
+
+
+=begin comment :src
+{
+  "from": {
+    "name": "углы «Исимуры»",
+    "id": "zag",
+    "type": "user"
+  },
+  "via": {
+    "url": "http://friendfeed.com/share/bookmarklet",
+    "name": "Bookmarklet"
+  },
+  "body": "Посмотрел замечательный фильм о шрифте  Helvetica (2007). Вдохновлен не столько самой историей , сколько визуальной культурой. Определенно культовый фильм. - <a rel=\"nofollow\" href=\"http://www.imdb.com/title/tt0847817/\" title=\"http://www.imdb.com/title/tt0847817/\">http://www.imdb.com/title...</a>",
+  "rawLink": "http://www.imdb.com/title/tt0847817/",
+  "id": "e/e88a6336e42148d5987173604449a573",
+  "date": "2011-01-09T13:29:45Z",
+  "rawBody": "Посмотрел замечательный фильм о шрифте  Helvetica (2007). Вдохновлен не столько самой историей , сколько визуальной культурой. Определенно культовый фильм.",
+  "thumbnails": [
+    {
+      "link": "http://www.imdb.com/title/tt0847817/",
+      "height": 140,
+      "width": 93,
+      "url": "http://m.friendfeed-media.com/d54f287849c8c76ddc60f80bbf94601aa3a08f94"
+    }
+  ],
+  "url": "http://friendfeed.com/zag/e88a6336/helvetica-2007"
+}
+=end comment
+
+=end pod

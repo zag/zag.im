@@ -1,0 +1,68 @@
+=begin pod :pubdate('2010-09-27T09:21:42Z') :type<note> 
+=NAME Don’t Be Ugly By Accident! oh, also—iPhone users have more sex.
+
+=begin DESCRIPTION
+
+Don’t Be Ugly By Accident! oh, also—iPhone users have more sex. - L<link|http://blog.okcupid.com/index.php/dont-be-ugly-by-accident/>
+=for Image :width(144) :link('http://blog.okcupid.com/index.php/dont-be-ugly-by-accident/') :height(175) :preview
+media/b2f37a32c5db9ce11c012859084be0a1a7b8ccb1.jpg
+=for Image :width(231) :link('http://blog.okcupid.com/index.php/dont-be-ugly-by-accident/') :height(175) :preview
+media/29123e32b769b51ea94207f3e50a2dee361e78ce.jpg
+=for Image :width(189) :link('http://blog.okcupid.com/index.php/dont-be-ugly-by-accident/') :height(175) :preview
+media/dcbb12d10c667b19057cb3ec3e2a9f9cdec06817.jpg
+
+
+
+=end DESCRIPTION
+
+Don’t Be Ugly By Accident! oh, also—iPhone users have more sex. - L<link|http://blog.okcupid.com/index.php/dont-be-ugly-by-accident/>
+=for Image :width(144) :link('http://blog.okcupid.com/index.php/dont-be-ugly-by-accident/') :height(175) :preview
+media/b2f37a32c5db9ce11c012859084be0a1a7b8ccb1.jpg
+=for Image :width(231) :link('http://blog.okcupid.com/index.php/dont-be-ugly-by-accident/') :height(175) :preview
+media/29123e32b769b51ea94207f3e50a2dee361e78ce.jpg
+=for Image :width(189) :link('http://blog.okcupid.com/index.php/dont-be-ugly-by-accident/') :height(175) :preview
+media/dcbb12d10c667b19057cb3ec3e2a9f9cdec06817.jpg
+
+
+
+=begin comment :src
+{
+  "body": "Don’t Be Ugly By Accident! oh, also—iPhone users have more sex. - <a rel=\"nofollow\" href=\"http://blog.okcupid.com/index.php/dont-be-ugly-by-accident/\" title=\"http://blog.okcupid.com/index.php/dont-be-ugly-by-accident/\">http://blog.okcupid.com/index...</a>",
+  "rawLink": "http://blog.okcupid.com/index.php/dont-be-ugly-by-accident/",
+  "rawBody": "Don’t Be Ugly By Accident! oh, also—iPhone users have more sex.",
+  "id": "e/55767087c15c46adb3f285a87084e08b",
+  "date": "2010-09-27T09:21:42Z",
+  "thumbnails": [
+    {
+      "url": "http://m.friendfeed-media.com/b2f37a32c5db9ce11c012859084be0a1a7b8ccb1",
+      "width": 144,
+      "link": "http://blog.okcupid.com/index.php/dont-be-ugly-by-accident/",
+      "height": 175
+    },
+    {
+      "link": "http://blog.okcupid.com/index.php/dont-be-ugly-by-accident/",
+      "height": 175,
+      "width": 231,
+      "url": "http://m.friendfeed-media.com/29123e32b769b51ea94207f3e50a2dee361e78ce"
+    },
+    {
+      "link": "http://blog.okcupid.com/index.php/dont-be-ugly-by-accident/",
+      "height": 175,
+      "width": 189,
+      "url": "http://m.friendfeed-media.com/dcbb12d10c667b19057cb3ec3e2a9f9cdec06817"
+    }
+  ],
+  "url": "http://friendfeed.com/zag/55767087/dont-be-ugly-by-accident-oh-alsoiphone-users",
+  "from": {
+    "id": "zag",
+    "type": "user",
+    "name": "углы «Исимуры»"
+  },
+  "via": {
+    "url": "http://friendfeed.com/share/bookmarklet",
+    "name": "Bookmarklet"
+  }
+}
+=end comment
+
+=end pod

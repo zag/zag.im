@@ -1,0 +1,36 @@
+=begin pod :pubdate('2011-04-28T11:35:42Z') :type<note> 
+=NAME Оказывается в google docs можно просматривать psd файлы !
+
+=begin DESCRIPTION
+
+Оказывается в google docs можно просматривать psd файлы ! - L<link|http://twitter.com/zagru/statuses/63567060214616064>
+
+
+
+=end DESCRIPTION
+
+Оказывается в google docs можно просматривать psd файлы ! - L<link|http://twitter.com/zagru/statuses/63567060214616064>
+
+
+
+=begin comment :src
+{
+  "rawLink": "http://twitter.com/zagru/statuses/63567060214616064",
+  "body": "Оказывается в google docs можно просматривать psd файлы !",
+  "id": "e/9683292c406de4c6d74820f63ec45469",
+  "date": "2011-04-28T11:35:42Z",
+  "rawBody": "Оказывается в google docs можно просматривать psd файлы !",
+  "url": "http://friendfeed.com/zag/9683292c/google-docs-psd",
+  "via": {
+    "url": "http://twitter.com/zagru/statuses/63567060214616064",
+    "name": "Twitter"
+  },
+  "from": {
+    "name": "углы «Исимуры»",
+    "type": "user",
+    "id": "zag"
+  }
+}
+=end comment
+
+=end pod

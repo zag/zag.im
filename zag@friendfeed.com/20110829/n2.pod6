@@ -1,0 +1,48 @@
+=begin pod :pubdate('2011-08-29T17:41:39Z') :type<note> 
+=NAME this isn't happiness™ (Suspicious dolphin)
+
+=begin DESCRIPTION
+
+this isn't happiness™ (Suspicious dolphin) - L<link|http://thisisnthappiness.com/post/9399076037/suspicious-dolphin>
+=for Image :width(311) :link('http://thisisnthappiness.com/post/9399076037/suspicious-dolphin') :height(175) :preview
+media/568ba844bf124c3c52f998252ac8ae42f79bdbd1.jpg
+
+
+
+=end DESCRIPTION
+
+this isn't happiness™ (Suspicious dolphin) - L<link|http://thisisnthappiness.com/post/9399076037/suspicious-dolphin>
+=for Image :width(311) :link('http://thisisnthappiness.com/post/9399076037/suspicious-dolphin') :height(175) :preview
+media/568ba844bf124c3c52f998252ac8ae42f79bdbd1.jpg
+
+
+
+=begin comment :src
+{
+  "url": "http://friendfeed.com/zag/364acbb0/this-isn-t-happinesstm-suspicious-dolphin",
+  "id": "e/364acbb0e7d24185a0acf70656cb4833",
+  "date": "2011-08-29T17:41:39Z",
+  "rawBody": "this isn't happiness™ (Suspicious dolphin)",
+  "thumbnails": [
+    {
+      "url": "http://m.friendfeed-media.com/568ba844bf124c3c52f998252ac8ae42f79bdbd1",
+      "width": 311,
+      "link": "http://thisisnthappiness.com/post/9399076037/suspicious-dolphin",
+      "height": 175
+    }
+  ],
+  "body": "this isn't happiness™ (Suspicious dolphin) - <a rel=\"nofollow\" href=\"http://thisisnthappiness.com/post/9399076037/suspicious-dolphin\" title=\"http://thisisnthappiness.com/post/9399076037/suspicious-dolphin\">http://thisisnthappiness.com/post...</a>",
+  "rawLink": "http://thisisnthappiness.com/post/9399076037/suspicious-dolphin",
+  "via": {
+    "url": "http://friendfeed.com/share/bookmarklet",
+    "name": "Bookmarklet"
+  },
+  "from": {
+    "name": "углы «Исимуры»",
+    "type": "user",
+    "id": "zag"
+  }
+}
+=end comment
+
+=end pod

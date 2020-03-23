@@ -1,0 +1,55 @@
+=begin pod :pubdate('2012-12-19T17:42:06Z') :type<note> 
+=NAME cema: о памяти и документации (рус.)
+
+=begin DESCRIPTION
+
+cema: о памяти и документации (рус.) - L<link|http://cema.livejournal.com/557698.html>
+
+=item "Я бы хотел почитать об обратном шпионаже, когда фирмы забывают свои секреты, а сотрудники тайно их восстанавливают."
+
+
+=end DESCRIPTION
+
+cema: о памяти и документации (рус.) - L<link|http://cema.livejournal.com/557698.html>
+
+=item "Я бы хотел почитать об обратном шпионаже, когда фирмы забывают свои секреты, а сотрудники тайно их восстанавливают."
+
+
+=begin comment :src
+{
+  "via": {
+    "url": "http://friendfeed.com/share/bookmarklet",
+    "name": "Bookmarklet"
+  },
+  "from": {
+    "name": "углы «Исимуры»",
+    "id": "zag",
+    "type": "user"
+  },
+  "comments": [
+    {
+      "body": "&quot;Я бы хотел почитать об обратном шпионаже, когда фирмы забывают свои секреты, а сотрудники тайно их восстанавливают.&quot;",
+      "from": {
+        "name": "углы «Исимуры»",
+        "type": "user",
+        "id": "zag"
+      },
+      "id": "e/7bec969ce3c745dcbfa8e04c46dcadcb/c/fe1b74080d1e42d59cdbabd105705663",
+      "date": "2012-12-19T17:42:06Z",
+      "rawBody": "\"Я бы хотел почитать об обратном шпионаже, когда фирмы забывают свои секреты, а сотрудники тайно их восстанавливают.\"",
+      "via": {
+        "url": "http://friendfeed.com/share/bookmarklet",
+        "name": "Bookmarklet"
+      }
+    }
+  ],
+  "id": "e/7bec969ce3c745dcbfa8e04c46dcadcb",
+  "date": "2012-12-19T17:42:06Z",
+  "rawBody": "cema: о памяти и документации (рус.)",
+  "url": "http://friendfeed.com/zag/7bec969c/cema",
+  "rawLink": "http://cema.livejournal.com/557698.html",
+  "body": "cema: о памяти и документации (рус.) - <a rel=\"nofollow\" href=\"http://cema.livejournal.com/557698.html\" title=\"http://cema.livejournal.com/557698.html\">http://cema.livejournal.com/557698...</a>"
+}
+=end comment
+
+=end pod

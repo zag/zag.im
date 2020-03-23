@@ -1,0 +1,68 @@
+=begin pod :pubdate('2011-02-08T20:21:08Z') :type<note> 
+=NAME Android Interaction Patterns . This is androidpatterns.com, a set of interaction patterns that can help you design Android apps.
+
+=begin DESCRIPTION
+
+Android Interaction Patterns . This is androidpatterns.com, a set of interaction patterns that can help you design Android apps. - L<link|http://www.androidpatterns.com/>
+=for Image :width(180) :link('http://www.androidpatterns.com/') :height(100) :preview
+media/1c201da8279d932301324a55d0b569bc0569b110.png
+=for Image :width(180) :link('http://www.androidpatterns.com/') :height(100) :preview
+media/772a4506fcff963d26d16562f170f930f9c6ab7c.png
+=for Image :width(180) :link('http://www.androidpatterns.com/') :height(100) :preview
+media/f924053650ccd35d6647814c499faf20ebe66812.png
+
+
+
+=end DESCRIPTION
+
+Android Interaction Patterns . This is androidpatterns.com, a set of interaction patterns that can help you design Android apps. - L<link|http://www.androidpatterns.com/>
+=for Image :width(180) :link('http://www.androidpatterns.com/') :height(100) :preview
+media/1c201da8279d932301324a55d0b569bc0569b110.png
+=for Image :width(180) :link('http://www.androidpatterns.com/') :height(100) :preview
+media/772a4506fcff963d26d16562f170f930f9c6ab7c.png
+=for Image :width(180) :link('http://www.androidpatterns.com/') :height(100) :preview
+media/f924053650ccd35d6647814c499faf20ebe66812.png
+
+
+
+=begin comment :src
+{
+  "id": "e/7ec70bb99f48481f82386e55b1c080de",
+  "thumbnails": [
+    {
+      "link": "http://www.androidpatterns.com/",
+      "height": 100,
+      "url": "http://m.friendfeed-media.com/1c201da8279d932301324a55d0b569bc0569b110",
+      "width": 180
+    },
+    {
+      "width": 180,
+      "url": "http://m.friendfeed-media.com/772a4506fcff963d26d16562f170f930f9c6ab7c",
+      "height": 100,
+      "link": "http://www.androidpatterns.com/"
+    },
+    {
+      "url": "http://m.friendfeed-media.com/f924053650ccd35d6647814c499faf20ebe66812",
+      "width": 180,
+      "height": 100,
+      "link": "http://www.androidpatterns.com/"
+    }
+  ],
+  "date": "2011-02-08T20:21:08Z",
+  "rawBody": "Android Interaction Patterns . This is androidpatterns.com, a set of interaction patterns that can help you design Android apps.",
+  "url": "http://friendfeed.com/zag/7ec70bb9/android-interaction-patterns-this-is",
+  "rawLink": "http://www.androidpatterns.com/",
+  "body": "Android Interaction Patterns . This is androidpatterns.com, a set of interaction patterns that can help you design Android apps. - <a rel=\"nofollow\" href=\"http://www.androidpatterns.com/\" title=\"http://www.androidpatterns.com/\">http://www.androidpatterns.com/</a>",
+  "from": {
+    "type": "user",
+    "id": "zag",
+    "name": "углы «Исимуры»"
+  },
+  "via": {
+    "name": "Bookmarklet",
+    "url": "http://friendfeed.com/share/bookmarklet"
+  }
+}
+=end comment
+
+=end pod

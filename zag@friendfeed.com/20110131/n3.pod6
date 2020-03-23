@@ -1,0 +1,38 @@
+=begin pod :pubdate('2011-01-31T13:09:58Z') :type<note> 
+=NAME Facebook login required
+
+=begin DESCRIPTION
+
+Facebook login required
+
+
+
+=end DESCRIPTION
+
+Facebook login required
+
+
+
+=begin comment :src
+{
+  "from": {
+    "name": "углы «Исимуры»",
+    "id": "zag",
+    "type": "user"
+  },
+  "rawBody": "Facebook login required",
+  "id": "e/1292abb7000147f593b49810c3e4e248",
+  "date": "2011-01-31T13:09:58Z",
+  "url": "http://friendfeed.com/zag/1292abb7/facebook-login-required",
+  "thumbnails": [
+    {
+      "url": "http://asset.soup.io/asset/1510/0018_dcff.gif",
+      "link": "http://friendfeed.com/e/1292abb7-0001-47f5-93b4-9810c3e4e248"
+    }
+  ],
+  "rawLink": "http://friendfeed.com/e/1292abb7-0001-47f5-93b4-9810c3e4e248",
+  "body": "Facebook login required"
+}
+=end comment
+
+=end pod

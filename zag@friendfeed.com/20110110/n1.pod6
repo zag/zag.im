@@ -1,0 +1,44 @@
+=begin pod :pubdate('2011-01-10T09:55:44Z') :type<note> 
+=NAME Dexter's Victims - an infographic (spoilers)
+
+=begin DESCRIPTION
+
+Dexter's Victims - an infographic (spoilers)
+=for Image :width(84) :link('http://m.friendfeed-media.com/bcdf5cbc5efddf223d70245b4ba8586e683c83da') :height(175) :preview
+media/d53f8f90199fa919b627fc4f857976be38667f64.jpg
+
+
+
+=end DESCRIPTION
+
+Dexter's Victims - an infographic (spoilers)
+=for Image :width(84) :link('http://m.friendfeed-media.com/bcdf5cbc5efddf223d70245b4ba8586e683c83da') :height(175) :preview
+media/d53f8f90199fa919b627fc4f857976be38667f64.jpg
+
+
+
+=begin comment :src
+{
+  "id": "e/bf3e03a01a7e4b3a9ae84e675ca70fdc",
+  "url": "http://friendfeed.com/zag/bf3e03a0/dexter-victims-infographic-spoilers",
+  "date": "2011-01-10T09:55:44Z",
+  "rawBody": "Dexter's Victims - an infographic (spoilers)",
+  "thumbnails": [
+    {
+      "url": "http://m.friendfeed-media.com/d53f8f90199fa919b627fc4f857976be38667f64",
+      "width": 84,
+      "link": "http://m.friendfeed-media.com/bcdf5cbc5efddf223d70245b4ba8586e683c83da",
+      "height": 175
+    }
+  ],
+  "rawLink": "http://friendfeed.com/e/bf3e03a0-1a7e-4b3a-9ae8-4e675ca70fdc",
+  "body": "Dexter's Victims - an infographic (spoilers)",
+  "from": {
+    "id": "zag",
+    "type": "user",
+    "name": "углы «Исимуры»"
+  }
+}
+=end comment
+
+=end pod

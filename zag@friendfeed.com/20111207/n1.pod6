@@ -1,0 +1,42 @@
+=begin pod :pubdate('2011-12-07T20:12:43Z') :type<note> :tags<perl6>
+=NAME Очередное "рождество" на носу. Доколе ? #perl6
+
+=begin DESCRIPTION
+
+Очередное "рождество" на носу. Доколе ? #perl6
+
+
+
+=end DESCRIPTION
+
+Очередное "рождество" на носу. Доколе ? #perl6
+
+
+
+=begin comment :src
+{
+  "from": {
+    "id": "zag",
+    "type": "user",
+    "name": "углы «Исимуры»"
+  },
+  "body": "Очередное &quot;рождество&quot; на носу. Доколе ? <a href=\"http://friendfeed.com/search?q=%23perl6\">#perl6</a>",
+  "likes": [
+    {
+      "date": "2011-12-07T20:36:27Z",
+      "from": {
+        "name": "alex@kapranoff.ru",
+        "type": "user",
+        "id": "kkapp"
+      }
+    }
+  ],
+  "rawLink": "http://friendfeed.com/e/c31280dc-6d5c-4158-a694-9d863b91638c",
+  "id": "e/c31280dc6d5c4158a6949d863b91638c",
+  "rawBody": "Очередное \"рождество\" на носу. Доколе ? #perl6",
+  "date": "2011-12-07T20:12:43Z",
+  "url": "http://friendfeed.com/zag/c31280dc/perl6"
+}
+=end comment
+
+=end pod

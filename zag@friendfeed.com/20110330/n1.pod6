@@ -1,0 +1,44 @@
+=begin pod :pubdate('2011-03-30T08:05:34Z') :type<note> 
+=NAME Will kill jedi for food
+
+=begin DESCRIPTION
+
+Will kill jedi for food
+=for Image :width(280) :link('http://m.friendfeed-media.com/f61011c3d00d7fe60f6e32f6937e97e3a13d5941') :height(175) :preview
+media/bb475658ad7bdca78677c5441dace38e90cd7bfa.jpg
+
+
+
+=end DESCRIPTION
+
+Will kill jedi for food
+=for Image :width(280) :link('http://m.friendfeed-media.com/f61011c3d00d7fe60f6e32f6937e97e3a13d5941') :height(175) :preview
+media/bb475658ad7bdca78677c5441dace38e90cd7bfa.jpg
+
+
+
+=begin comment :src
+{
+  "id": "e/3a8e988902834f19aacff0144984e439",
+  "url": "http://friendfeed.com/zag/3a8e9889/will-kill-jedi-for-food",
+  "date": "2011-03-30T08:05:34Z",
+  "rawBody": "Will kill jedi for food",
+  "thumbnails": [
+    {
+      "height": 175,
+      "link": "http://m.friendfeed-media.com/f61011c3d00d7fe60f6e32f6937e97e3a13d5941",
+      "url": "http://m.friendfeed-media.com/bb475658ad7bdca78677c5441dace38e90cd7bfa",
+      "width": 280
+    }
+  ],
+  "rawLink": "http://friendfeed.com/e/3a8e9889-0283-4f19-aacf-f0144984e439",
+  "body": "Will kill jedi for food",
+  "from": {
+    "name": "углы «Исимуры»",
+    "type": "user",
+    "id": "zag"
+  }
+}
+=end comment
+
+=end pod

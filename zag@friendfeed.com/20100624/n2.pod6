@@ -1,0 +1,48 @@
+=begin pod :pubdate('2010-06-24T04:35:01Z') :type<note> 
+=NAME фирма: народное предприятие Цейленрода, ГДР
+
+=begin DESCRIPTION
+
+фирма: народное предприятие Цейленрода, ГДР
+=for Image :width(233) :link('http://m.friendfeed-media.com/47b5e5a3c9d3351a365807a100fd7f770b897862') :height(175) :preview
+media/d9d60ec2e6c575bd012ac093d2e3123bc31b679b.jpg
+
+
+
+=end DESCRIPTION
+
+фирма: народное предприятие Цейленрода, ГДР
+=for Image :width(233) :link('http://m.friendfeed-media.com/47b5e5a3c9d3351a365807a100fd7f770b897862') :height(175) :preview
+media/d9d60ec2e6c575bd012ac093d2e3123bc31b679b.jpg
+
+
+
+=begin comment :src
+{
+  "from": {
+    "id": "zag",
+    "type": "user",
+    "name": "углы «Исимуры»"
+  },
+  "via": {
+    "name": "email",
+    "url": "http://friendfeed.com/share/mail"
+  },
+  "url": "http://friendfeed.com/zag/6850fbba",
+  "id": "e/6850fbba8f2c47859369cadfd7b1e3dc",
+  "date": "2010-06-24T04:35:01Z",
+  "rawBody": "фирма: народное предприятие Цейленрода, ГДР",
+  "thumbnails": [
+    {
+      "height": 175,
+      "link": "http://m.friendfeed-media.com/47b5e5a3c9d3351a365807a100fd7f770b897862",
+      "width": 233,
+      "url": "http://m.friendfeed-media.com/d9d60ec2e6c575bd012ac093d2e3123bc31b679b"
+    }
+  ],
+  "rawLink": "http://friendfeed.com/e/6850fbba-8f2c-4785-9369-cadfd7b1e3dc",
+  "body": "фирма: народное предприятие Цейленрода, ГДР"
+}
+=end comment
+
+=end pod

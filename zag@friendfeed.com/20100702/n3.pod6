@@ -1,0 +1,90 @@
+=begin pod :pubdate('2010-07-02T08:21:41Z') :type<note> :tags<lvee>
+=NAME Виды просто завораживют. Я на #lvee под Гродно.
+
+=begin DESCRIPTION
+
+Виды просто завораживют. Я на #lvee под Гродно.
+=for Image :width(233) :link('http://m.friendfeed-media.com/0334d459b917aee75553efdc0a1a5c5a8a64307e') :height(175) :preview
+media/ce556ca76089dcf5d9ca0afcea8b3b9705030220.jpg
+
+=item у нас на урале тоже неплохо http://picasaweb.google.com/lh/photo/ftmnLXXl5n4qpITGIDjNdw?feat=directlink
+
+
+=end DESCRIPTION
+
+Виды просто завораживют. Я на #lvee под Гродно.
+=for Image :width(233) :link('http://m.friendfeed-media.com/0334d459b917aee75553efdc0a1a5c5a8a64307e') :height(175) :preview
+media/ce556ca76089dcf5d9ca0afcea8b3b9705030220.jpg
+
+=item у нас на урале тоже неплохо http://picasaweb.google.com/lh/photo/ftmnLXXl5n4qpITGIDjNdw?feat=directlink
+
+
+=begin comment :src
+{
+  "via": {
+    "url": "http://friendfeed.com/share/mail",
+    "name": "email"
+  },
+  "from": {
+    "id": "zag",
+    "type": "user",
+    "name": "углы «Исимуры»"
+  },
+  "comments": [
+    {
+      "rawBody": "у нас на урале тоже неплохо http://picasaweb.google.com/lh/photo/ftmnLXXl5n4qpITGIDjNdw?feat=directlink",
+      "date": "2010-07-02T09:24:20Z",
+      "id": "e/4ce7a6850d134270b58de4d7bff8320f/c/a9ca7c8f32f04ff3aaf0c4b58abc58a2",
+      "from": {
+        "id": "enemo",
+        "type": "user",
+        "name": "последние пни"
+      },
+      "body": "у нас на урале тоже неплохо <a rel=\"nofollow\" href=\"http://picasaweb.google.com/lh/photo/ftmnLXXl5n4qpITGIDjNdw?feat=directlink\" title=\"http://picasaweb.google.com/lh/photo/ftmnLXXl5n4qpITGIDjNdw?feat=directlink\">http://picasaweb.google.com/lh...</a>"
+    }
+  ],
+  "rawBody": "Виды просто завораживют. Я на #lvee под Гродно.",
+  "id": "e/4ce7a6850d134270b58de4d7bff8320f",
+  "date": "2010-07-02T08:21:41Z",
+  "thumbnails": [
+    {
+      "link": "http://m.friendfeed-media.com/0334d459b917aee75553efdc0a1a5c5a8a64307e",
+      "height": 175,
+      "url": "http://m.friendfeed-media.com/ce556ca76089dcf5d9ca0afcea8b3b9705030220",
+      "width": 233
+    }
+  ],
+  "url": "http://friendfeed.com/zag/4ce7a685/lvee",
+  "likes": [
+    {
+      "date": "2010-07-02T10:04:13Z",
+      "from": {
+        "type": "user",
+        "id": "tcharge",
+        "private": true,
+        "name": "tcharge"
+      }
+    },
+    {
+      "from": {
+        "name": "prool",
+        "id": "prool",
+        "type": "user"
+      },
+      "date": "2010-07-02T08:28:38Z"
+    },
+    {
+      "date": "2010-07-02T08:28:04Z",
+      "from": {
+        "name": "alex@kapranoff.ru",
+        "id": "kkapp",
+        "type": "user"
+      }
+    }
+  ],
+  "rawLink": "http://friendfeed.com/e/4ce7a685-0d13-4270-b58d-e4d7bff8320f",
+  "body": "Виды просто завораживют. Я на <a href=\"http://friendfeed.com/search?q=%23lvee\">#lvee</a> под Гродно."
+}
+=end comment
+
+=end pod

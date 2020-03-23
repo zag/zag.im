@@ -1,0 +1,295 @@
+=begin pod :pubdate('2011-04-01T06:41:34Z') :type<note> 
+=NAME Facebook releases +2 button .. in response to Google’s +1 button.
+
+=begin DESCRIPTION
+
+Facebook releases +2 button .. in response to Google’s +1 button. - L<link|http://founderdaily.com/2011/03/31/facebook-releases-2-button/>
+=for Image :width(300) :link('http://founderdaily.com/2011/03/31/facebook-releases-2-button/') :height(143) :preview
+media/b786d39a4d7e98dd24d792892a67a750336d34eb.png
+
+=item Anonymous Group releases Goatse button
+=item +100500 button
+=item Goatse важнее, чем 100500
+
+
+=end DESCRIPTION
+
+Facebook releases +2 button .. in response to Google’s +1 button. - L<link|http://founderdaily.com/2011/03/31/facebook-releases-2-button/>
+=for Image :width(300) :link('http://founderdaily.com/2011/03/31/facebook-releases-2-button/') :height(143) :preview
+media/b786d39a4d7e98dd24d792892a67a750336d34eb.png
+
+=item Anonymous Group releases Goatse button
+=item +100500 button
+=item Goatse важнее, чем 100500
+
+
+=begin comment :src
+{
+  "date": "2011-04-01T06:41:34Z",
+  "id": "e/8b7ddd7314664bafa2de9e263130df6c",
+  "url": "http://friendfeed.com/zag/8b7ddd73/facebook-releases-2-button-in-response-to",
+  "rawBody": "Facebook releases +2 button .. in response to Google’s +1 button.",
+  "thumbnails": [
+    {
+      "url": "http://m.friendfeed-media.com/b786d39a4d7e98dd24d792892a67a750336d34eb",
+      "width": 300,
+      "link": "http://founderdaily.com/2011/03/31/facebook-releases-2-button/",
+      "height": 143
+    }
+  ],
+  "body": "Facebook releases +2 button .. in response to Google’s +1 button. - <a rel=\"nofollow\" href=\"http://founderdaily.com/2011/03/31/facebook-releases-2-button/\" title=\"http://founderdaily.com/2011/03/31/facebook-releases-2-button/\">http://founderdaily.com/2011...</a>",
+  "rawLink": "http://founderdaily.com/2011/03/31/facebook-releases-2-button/",
+  "likes": [
+    {
+      "from": {
+        "name": "Iván Abrego",
+        "type": "user",
+        "id": "ivanfilios"
+      },
+      "date": "2011-04-04T00:39:37Z"
+    },
+    {
+      "date": "2011-04-02T11:21:45Z",
+      "from": {
+        "name": "Анатолий Шарифулин",
+        "id": "sharifulin",
+        "type": "user"
+      }
+    },
+    {
+      "from": {
+        "id": "bugman",
+        "type": "user",
+        "name": "bugman"
+      },
+      "date": "2011-04-02T10:46:00Z"
+    },
+    {
+      "date": "2011-04-02T01:43:31Z",
+      "from": {
+        "name": "The Awesomeness Herself",
+        "type": "user",
+        "id": "olgasafonova"
+      }
+    },
+    {
+      "from": {
+        "id": "elenashuvalova",
+        "type": "user",
+        "private": true,
+        "name": "Elena Shuvalova"
+      },
+      "date": "2011-04-01T16:20:30Z"
+    },
+    {
+      "date": "2011-04-01T14:22:49Z",
+      "from": {
+        "name": "nonsleepr",
+        "id": "nonsleepr",
+        "type": "user"
+      }
+    },
+    {
+      "date": "2011-04-01T13:20:29Z",
+      "from": {
+        "id": "bloggum",
+        "type": "user",
+        "name": "Turkey banned Bloggum :("
+      }
+    },
+    {
+      "date": "2011-04-01T12:48:20Z",
+      "from": {
+        "id": "bbmc",
+        "type": "user",
+        "name": "bmc"
+      }
+    },
+    {
+      "date": "2011-04-01T09:32:20Z",
+      "from": {
+        "id": "karabatov",
+        "type": "user",
+        "name": "Victory through semantics"
+      }
+    },
+    {
+      "from": {
+        "name": "arty",
+        "id": "arty",
+        "type": "user"
+      },
+      "date": "2011-04-01T09:24:45Z"
+    },
+    {
+      "from": {
+        "type": "user",
+        "id": "ankheg",
+        "name": "Dmitry Sergeev"
+      },
+      "date": "2011-04-01T09:18:22Z"
+    },
+    {
+      "date": "2011-04-01T08:24:06Z",
+      "from": {
+        "name": "бык с ледорезом",
+        "type": "user",
+        "id": "burzoom"
+      }
+    },
+    {
+      "from": {
+        "name": "Igor Sereda",
+        "id": "sereda",
+        "type": "user"
+      },
+      "date": "2011-04-01T08:11:07Z"
+    },
+    {
+      "from": {
+        "id": "silpol",
+        "type": "user",
+        "name": "piikummitus"
+      },
+      "date": "2011-04-01T08:10:02Z"
+    },
+    {
+      "from": {
+        "name": "sk@",
+        "id": "quser",
+        "type": "user"
+      },
+      "date": "2011-04-01T08:09:43Z"
+    },
+    {
+      "from": {
+        "name": "woof",
+        "id": "woof",
+        "type": "user"
+      },
+      "date": "2011-04-01T08:09:22Z"
+    },
+    {
+      "date": "2011-04-01T07:54:22Z",
+      "from": {
+        "type": "user",
+        "id": "marynka",
+        "name": "святых последних дней"
+      }
+    },
+    {
+      "date": "2011-04-01T07:50:30Z",
+      "from": {
+        "name": "Документы зимы хорошие",
+        "type": "user",
+        "id": "animasola"
+      }
+    },
+    {
+      "from": {
+        "name": "Алекс",
+        "id": "axr",
+        "type": "user"
+      },
+      "date": "2011-04-01T07:49:51Z"
+    },
+    {
+      "from": {
+        "type": "user",
+        "id": "szypulka",
+        "name": "nm"
+      },
+      "date": "2011-04-01T07:46:18Z"
+    },
+    {
+      "from": {
+        "name": "Artem S.",
+        "type": "user",
+        "id": "thefamemonster"
+      },
+      "date": "2011-04-01T07:44:47Z"
+    },
+    {
+      "from": {
+        "name": "Алишер",
+        "id": "alisher",
+        "type": "user"
+      },
+      "date": "2011-04-01T07:44:21Z"
+    },
+    {
+      "date": "2011-04-01T07:43:26Z",
+      "from": {
+        "id": "enemo",
+        "type": "user",
+        "name": "последние пни"
+      }
+    },
+    {
+      "date": "2011-04-01T07:43:25Z",
+      "from": {
+        "name": "устав от фидика",
+        "private": true,
+        "type": "user",
+        "id": "payalnik"
+      }
+    },
+    {
+      "date": "2011-04-01T07:43:20Z",
+      "from": {
+        "name": "alex@kapranoff.ru",
+        "type": "user",
+        "id": "kkapp"
+      }
+    }
+  ],
+  "from": {
+    "id": "zag",
+    "type": "user",
+    "name": "углы «Исимуры»"
+  },
+  "via": {
+    "name": "Bookmarklet",
+    "url": "http://friendfeed.com/share/bookmarklet"
+  },
+  "comments": [
+    {
+      "body": "Anonymous Group releases Goatse button",
+      "from": {
+        "name": "Остались сутки!",
+        "type": "user",
+        "id": "kukutz",
+        "private": true
+      },
+      "rawBody": "Anonymous Group releases Goatse button",
+      "id": "e/8b7ddd7314664bafa2de9e263130df6c/c/602124d2d60c470780a92d3fdf230f0c",
+      "date": "2011-04-01T07:46:05Z"
+    },
+    {
+      "body": "+100500 button",
+      "id": "e/8b7ddd7314664bafa2de9e263130df6c/c/eb7d7babcddd4dd48ac83d280309e9eb",
+      "rawBody": "+100500 button",
+      "from": {
+        "id": "ruguevara",
+        "type": "user",
+        "name": "ʕ⨂˕̥⨂ʔ Т ПДМЛ?"
+      },
+      "date": "2011-04-01T08:11:13Z"
+    },
+    {
+      "body": "Goatse важнее, чем 100500",
+      "rawBody": "Goatse важнее, чем 100500",
+      "id": "e/8b7ddd7314664bafa2de9e263130df6c/c/c5d5ae7069b34335b79ceb254a51b610",
+      "date": "2011-04-01T08:29:40Z",
+      "from": {
+        "type": "user",
+        "id": "kukutz",
+        "private": true,
+        "name": "Остались сутки!"
+      }
+    }
+  ]
+}
+=end comment
+
+=end pod

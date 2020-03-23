@@ -1,0 +1,46 @@
+=begin pod :pubdate('2009-09-07T07:22:40Z') :type<note> :tags<perl>
+=NAME following @TimToady (Larry Wall) #perl
+
+=begin DESCRIPTION
+
+following @TimToady (Larry Wall) #perl - L<link|http://twitter.com/zagru/statuses/3814658449>
+
+
+
+=end DESCRIPTION
+
+following @TimToady (Larry Wall) #perl - L<link|http://twitter.com/zagru/statuses/3814658449>
+
+
+
+=begin comment :src
+{
+  "via": {
+    "url": "http://twitter.com/zagru/statuses/3814658449",
+    "name": "Twitter"
+  },
+  "from": {
+    "id": "zag",
+    "type": "user",
+    "name": "углы «Исимуры»"
+  },
+  "rawLink": "http://twitter.com/zagru/statuses/3814658449",
+  "likes": [
+    {
+      "from": {
+        "name": "alex@kapranoff.ru",
+        "type": "user",
+        "id": "kkapp"
+      },
+      "date": "2009-09-07T08:41:19Z"
+    }
+  ],
+  "body": "following @<a rel=\"nofollow\" href=\"http://twitter.com/TimToady\">TimToady</a> (Larry Wall) <a rel=\"nofollow\" href=\"http://search.twitter.com/search?q=%23perl\">#perl</a>",
+  "date": "2009-09-07T07:22:40Z",
+  "id": "e/f48c72305b5b054848317dcc2132aae1",
+  "rawBody": "following @TimToady (Larry Wall) #perl",
+  "url": "http://friendfeed.com/zag/f48c7230/following-timtoady-larry-wall-perl"
+}
+=end comment
+
+=end pod

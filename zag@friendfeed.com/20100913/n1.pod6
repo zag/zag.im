@@ -1,0 +1,36 @@
+=begin pod :pubdate('2010-09-13T18:15:47Z') :type<note> 
+=NAME RT @miyagawa: Larry Wall is on github http://bit.ly/96cn2K
+
+=begin DESCRIPTION
+
+RT @miyagawa: Larry Wall is on github http://bit.ly/96cn2K - L<link|http://twitter.com/zagru/statuses/24404489529>
+
+
+
+=end DESCRIPTION
+
+RT @miyagawa: Larry Wall is on github http://bit.ly/96cn2K - L<link|http://twitter.com/zagru/statuses/24404489529>
+
+
+
+=begin comment :src
+{
+  "body": "RT @<a rel=\"nofollow\" href=\"http://twitter.com/miyagawa\">miyagawa</a>: Larry Wall is on github <a rel=\"nofollow\" href=\"http://bit.ly/96cn2K\" title=\"http://github.com/TimToady\">http://github.com/TimToady</a>",
+  "rawLink": "http://twitter.com/zagru/statuses/24404489529",
+  "url": "http://friendfeed.com/zag/4da16690/rt-miyagawa-larry-wall-is-on-github",
+  "id": "e/4da16690b6c641503807270ac2817b27",
+  "date": "2010-09-13T18:15:47Z",
+  "rawBody": "RT @miyagawa: Larry Wall is on github http://bit.ly/96cn2K",
+  "via": {
+    "url": "http://twitter.com/zagru/statuses/24404489529",
+    "name": "Twitter"
+  },
+  "from": {
+    "id": "zag",
+    "type": "user",
+    "name": "углы «Исимуры»"
+  }
+}
+=end comment
+
+=end pod

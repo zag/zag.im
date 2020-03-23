@@ -1,0 +1,36 @@
+=begin pod :pubdate('2010-09-16T11:31:59Z') :type<note> :tags<mailru>
+=NAME Mail.Ru Partners Day - о бесплатных возможностях технологического партнерства #mailru http://partners-day.mail.ru/
+
+=begin DESCRIPTION
+
+Mail.Ru Partners Day - о бесплатных возможностях технологического партнерства #mailru http://partners-day.mail.ru/ - L<link|http://twitter.com/zagru/statuses/24655721491>
+
+
+
+=end DESCRIPTION
+
+Mail.Ru Partners Day - о бесплатных возможностях технологического партнерства #mailru http://partners-day.mail.ru/ - L<link|http://twitter.com/zagru/statuses/24655721491>
+
+
+
+=begin comment :src
+{
+  "from": {
+    "name": "углы «Исимуры»",
+    "id": "zag",
+    "type": "user"
+  },
+  "via": {
+    "name": "Twitter",
+    "url": "http://twitter.com/zagru/statuses/24655721491"
+  },
+  "date": "2010-09-16T11:31:59Z",
+  "id": "e/2d12d6764b56232207a1cac9d7d15f16",
+  "rawBody": "Mail.Ru Partners Day - о бесплатных возможностях технологического партнерства #mailru http://partners-day.mail.ru/",
+  "url": "http://friendfeed.com/zag/2d12d676/mail-ru-partners-day-mailru",
+  "rawLink": "http://twitter.com/zagru/statuses/24655721491",
+  "body": "Mail.Ru Partners Day - о бесплатных возможностях технологического партнерства <a rel=\"nofollow\" href=\"http://search.twitter.com/search?q=%23mailru\">#mailru</a> <a rel=\"nofollow\" href=\"http://partners-day.mail.ru/\">http://partners-day.mail.ru/</a>"
+}
+=end comment
+
+=end pod

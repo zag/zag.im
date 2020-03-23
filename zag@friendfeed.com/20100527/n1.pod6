@@ -1,0 +1,36 @@
+=begin pod :pubdate('2010-05-27T18:32:20Z') :type<note> :tags<perl6>
+=NAME Create project at http://github.com/zag/ru-perl6-book for russian #perl6 book . update home page http://zag.ru/perl6-book/
+
+=begin DESCRIPTION
+
+Create project at http://github.com/zag/ru-perl6-book for russian #perl6 book . update home page http://zag.ru/perl6-book/ - L<link|http://twitter.com/zagru/statuses/14851955541>
+
+
+
+=end DESCRIPTION
+
+Create project at http://github.com/zag/ru-perl6-book for russian #perl6 book . update home page http://zag.ru/perl6-book/ - L<link|http://twitter.com/zagru/statuses/14851955541>
+
+
+
+=begin comment :src
+{
+  "id": "e/6d75d26195da23233c95bf3d45c38847",
+  "date": "2010-05-27T18:32:20Z",
+  "url": "http://friendfeed.com/zag/6d75d261/create-project-at-for-russian-perl6-book-update",
+  "rawBody": "Create project at http://github.com/zag/ru-perl6-book for russian #perl6 book . update home page http://zag.ru/perl6-book/",
+  "body": "Create project at <a rel=\"nofollow\" href=\"http://github.com/zag/ru-perl6-book\" title=\"http://github.com/zag/ru-perl6-book\">http://github.com/zag...</a> for russian <a rel=\"nofollow\" href=\"http://search.twitter.com/search?q=%23perl6\">#perl6</a> book . update home page <a rel=\"nofollow\" href=\"http://zag.ru/perl6-book/\">http://zag.ru/perl6-book/</a>",
+  "rawLink": "http://twitter.com/zagru/statuses/14851955541",
+  "via": {
+    "name": "Twitter",
+    "url": "http://twitter.com/zagru/statuses/14851955541"
+  },
+  "from": {
+    "name": "углы «Исимуры»",
+    "type": "user",
+    "id": "zag"
+  }
+}
+=end comment
+
+=end pod

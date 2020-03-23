@@ -1,0 +1,45 @@
+=begin pod :pubdate('2010-12-08T22:07:21Z') :type<note> 
+=NAME RT @pogudo: Мне понравилось видео YouTube -- Спят усталые админы http://youtu.be/Hi90ToNopqw?a
+
+=begin DESCRIPTION
+
+RT @pogudo: Мне понравилось видео YouTube -- Спят усталые админы http://youtu.be/Hi90ToNopqw?a - L<link|http://twitter.com/zagru/statuses/12629328734978048>
+
+
+
+=end DESCRIPTION
+
+RT @pogudo: Мне понравилось видео YouTube -- Спят усталые админы http://youtu.be/Hi90ToNopqw?a - L<link|http://twitter.com/zagru/statuses/12629328734978048>
+
+
+
+=begin comment :src
+{
+  "via": {
+    "name": "Twitter",
+    "url": "http://twitter.com/zagru/statuses/12629328734978048"
+  },
+  "from": {
+    "id": "zag",
+    "type": "user",
+    "name": "углы «Исимуры»"
+  },
+  "body": "RT @<a rel=\"nofollow\" href=\"http://twitter.com/pogudo\">pogudo</a>: Мне понравилось видео YouTube -- Спят усталые админы <a rel=\"nofollow\" href=\"http://youtu.be/Hi90ToNopqw?a\" title=\"http://www.youtube.com/watch?v=Hi90ToNopqw&amp;feature=youtu.be&amp;a\">http://www.youtube.com/watch...</a>",
+  "rawLink": "http://twitter.com/zagru/statuses/12629328734978048",
+  "id": "e/8130e365c329632eed7832e6d079a771",
+  "rawBody": "RT @pogudo: Мне понравилось видео YouTube -- Спят усталые админы http://youtu.be/Hi90ToNopqw?a",
+  "date": "2010-12-08T22:07:21Z",
+  "url": "http://friendfeed.com/zag/8130e365/rt-pogudo-youtube",
+  "thumbnails": [
+    {
+      "url": "http://img.youtube.com/vi/Hi90ToNopqw/2.jpg",
+      "width": 130,
+      "link": "http://twitter.com/zagru/statuses/12629328734978048",
+      "player": "<object width=\"425\" height=\"350\"><param name=\"movie\" value=\"http://www.youtube.com/v/Hi90ToNopqw&amp;autoplay=1&amp;showsearch=0&amp;ap=%2526fmt%3D18&amp;fs=1\"></param><param name=\"allowFullScreen\" value=\"true\"><embed src=\"http://www.youtube.com/v/Hi90ToNopqw&amp;autoplay=1&amp;showsearch=0&amp;ap=%2526fmt%3D18&amp;fs=1\" type=\"application/x-shockwave-flash\" allowfullscreen=\"true\" width=\"425\" height=\"350\"></embed></object>",
+      "height": 97
+    }
+  ]
+}
+=end comment
+
+=end pod

@@ -1,0 +1,44 @@
+=begin pod :pubdate('2010-04-20T07:55:00Z') :type<note> 
+=NAME OpenID, OAuth,  Facebook connect, OpenSocial , OpenGraph, "Войти ВКонтакте", XAuth
+
+=begin DESCRIPTION
+
+OpenID, OAuth,  Facebook connect, OpenSocial , OpenGraph, "Войти ВКонтакте", XAuth
+=for Image :width(233) :link('http://m.friendfeed-media.com/4666e2c61349f1bb178ec406840e6e9e452940b0') :height(175) :preview
+media/65786a3e55e18b6076c1299eb23c84556d16ad4b.jpg
+
+
+
+=end DESCRIPTION
+
+OpenID, OAuth,  Facebook connect, OpenSocial , OpenGraph, "Войти ВКонтакте", XAuth
+=for Image :width(233) :link('http://m.friendfeed-media.com/4666e2c61349f1bb178ec406840e6e9e452940b0') :height(175) :preview
+media/65786a3e55e18b6076c1299eb23c84556d16ad4b.jpg
+
+
+
+=begin comment :src
+{
+  "date": "2010-04-20T07:55:00Z",
+  "id": "e/6c2920dc0e0340bcb52c1e8eeea1ce7b",
+  "rawBody": "OpenID, OAuth,  Facebook connect, OpenSocial , OpenGraph, \"Войти ВКонтакте\", XAuth",
+  "url": "http://friendfeed.com/zag/6c2920dc/openid-oauth-facebook-connect-opensocial",
+  "thumbnails": [
+    {
+      "link": "http://m.friendfeed-media.com/4666e2c61349f1bb178ec406840e6e9e452940b0",
+      "height": 175,
+      "url": "http://m.friendfeed-media.com/65786a3e55e18b6076c1299eb23c84556d16ad4b",
+      "width": 233
+    }
+  ],
+  "body": "OpenID, OAuth,  Facebook connect, OpenSocial , OpenGraph, &quot;Войти ВКонтакте&quot;, XAuth",
+  "rawLink": "http://friendfeed.com/e/6c2920dc-0e03-40bc-b52c-1e8eeea1ce7b",
+  "from": {
+    "name": "углы «Исимуры»",
+    "id": "zag",
+    "type": "user"
+  }
+}
+=end comment
+
+=end pod

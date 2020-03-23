@@ -1,0 +1,32 @@
+=begin pod :pubdate('2010-12-27T18:59:45Z') :type<note> 
+=NAME "Мне как раз рекомендации больше чем у Имхонета понравились". "Приятно, рекомендации работают лучше, чем на Имхонете."  http://Kinobaza.tv/  действительно хороший проект (via http://ff.im/vRpIL)
+
+=begin DESCRIPTION
+
+"Мне как раз рекомендации больше чем у Имхонета понравились". "Приятно, рекомендации работают лучше, чем на Имхонете."  http://Kinobaza.tv/  действительно хороший проект (via http://ff.im/vRpIL)
+
+
+
+=end DESCRIPTION
+
+"Мне как раз рекомендации больше чем у Имхонета понравились". "Приятно, рекомендации работают лучше, чем на Имхонете."  http://Kinobaza.tv/  действительно хороший проект (via http://ff.im/vRpIL)
+
+
+
+=begin comment :src
+{
+  "rawLink": "http://friendfeed.com/e/1a684415-40e8-43b1-bcf5-3f461eb46164",
+  "body": "&quot;Мне как раз рекомендации больше чем у Имхонета понравились&quot;. &quot;Приятно, рекомендации работают лучше, чем на Имхонете.&quot;  <a rel=\"nofollow\" href=\"http://Kinobaza.tv/\">http://Kinobaza.tv/</a>  действительно хороший проект (via <a href=\"http://ff.im/vRpIL\" title=\"http://friendfeed.com/alisher/d393df51/cc\">http://friendfeed.com/alisher...</a>)",
+  "from": {
+    "name": "углы «Исимуры»",
+    "id": "zag",
+    "type": "user"
+  },
+  "id": "e/1a68441540e843b1bcf53f461eb46164",
+  "date": "2010-12-27T18:59:45Z",
+  "rawBody": "\"Мне как раз рекомендации больше чем у Имхонета понравились\". \"Приятно, рекомендации работают лучше, чем на Имхонете.\"  http://Kinobaza.tv/  действительно хороший проект (via http://ff.im/vRpIL)",
+  "url": "http://friendfeed.com/zag/1a684415/via"
+}
+=end comment
+
+=end pod

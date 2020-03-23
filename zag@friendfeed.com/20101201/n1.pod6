@@ -1,0 +1,68 @@
+=begin pod :pubdate('2010-12-01T10:21:12Z') :type<note> 
+=NAME Deprecating XML
+
+=begin DESCRIPTION
+
+Deprecating XML - L<link|http://norman.walsh.name/2010/11/17/deprecatingXML>
+
+=item "XML vs the Web" http://blog.jclark.com/2010/11/xml-vs-web_24.html
+=item "JSON vs. XML"  http://www.readwriteweb.com/hack/2010/11/json-vs-xml.php
+
+
+=end DESCRIPTION
+
+Deprecating XML - L<link|http://norman.walsh.name/2010/11/17/deprecatingXML>
+
+=item "XML vs the Web" http://blog.jclark.com/2010/11/xml-vs-web_24.html
+=item "JSON vs. XML"  http://www.readwriteweb.com/hack/2010/11/json-vs-xml.php
+
+
+=begin comment :src
+{
+  "url": "http://friendfeed.com/zag/f7fc0309/deprecating-xml",
+  "id": "e/f7fc030934234a90bc28ccf46aee4141",
+  "date": "2010-12-01T10:21:12Z",
+  "rawBody": "Deprecating XML",
+  "body": "Deprecating XML - <a rel=\"nofollow\" href=\"http://norman.walsh.name/2010/11/17/deprecatingXML\" title=\"http://norman.walsh.name/2010/11/17/deprecatingXML\">http://norman.walsh.name/2010...</a>",
+  "rawLink": "http://norman.walsh.name/2010/11/17/deprecatingXML",
+  "from": {
+    "id": "zag",
+    "type": "user",
+    "name": "углы «Исимуры»"
+  },
+  "via": {
+    "url": "http://friendfeed.com/share/bookmarklet",
+    "name": "Bookmarklet"
+  },
+  "comments": [
+    {
+      "body": "&quot;XML vs the Web&quot; <a rel=\"nofollow\" href=\"http://blog.jclark.com/2010/11/xml-vs-web_24.html\" title=\"http://blog.jclark.com/2010/11/xml-vs-web_24.html\">http://blog.jclark.com/2010...</a>",
+      "date": "2010-12-01T10:21:12Z",
+      "id": "e/f7fc030934234a90bc28ccf46aee4141/c/123496e716c04196891151b170986e76",
+      "from": {
+        "id": "zag",
+        "type": "user",
+        "name": "углы «Исимуры»"
+      },
+      "rawBody": "\"XML vs the Web\" http://blog.jclark.com/2010/11/xml-vs-web_24.html",
+      "via": {
+        "url": "http://friendfeed.com/share/bookmarklet",
+        "name": "Bookmarklet"
+      }
+    },
+    {
+      "id": "e/f7fc030934234a90bc28ccf46aee4141/c/f2dc5eab83f340d192443a5381312370",
+      "rawBody": "\"JSON vs. XML\"  http://www.readwriteweb.com/hack/2010/11/json-vs-xml.php",
+      "from": {
+        "type": "user",
+        "id": "zag",
+        "name": "углы «Исимуры»"
+      },
+      "date": "2010-12-01T10:22:00Z",
+      "body": "&quot;JSON vs. XML&quot;  <a rel=\"nofollow\" href=\"http://www.readwriteweb.com/hack/2010/11/json-vs-xml.php\" title=\"http://www.readwriteweb.com/hack/2010/11/json-vs-xml.php\">http://www.readwriteweb.com/hack...</a>"
+    }
+  ]
+}
+=end comment
+
+=end pod

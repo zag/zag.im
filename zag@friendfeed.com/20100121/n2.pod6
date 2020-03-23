@@ -1,0 +1,36 @@
+=begin pod :pubdate('2010-01-21T08:53:09Z') :type<note> 
+=NAME RT: @mkrentovskiy: Правоверный календарь системотехников http://bit.ly/6nHqCS via @growler
+
+=begin DESCRIPTION
+
+RT: @mkrentovskiy: Правоверный календарь системотехников http://bit.ly/6nHqCS via @growler - L<link|http://twitter.com/zagru/statuses/8020896645>
+
+
+
+=end DESCRIPTION
+
+RT: @mkrentovskiy: Правоверный календарь системотехников http://bit.ly/6nHqCS via @growler - L<link|http://twitter.com/zagru/statuses/8020896645>
+
+
+
+=begin comment :src
+{
+  "body": "RT: @<a rel=\"nofollow\" href=\"http://twitter.com/mkrentovskiy\">mkrentovskiy</a>: Правоверный календарь системотехников <a rel=\"nofollow\" href=\"http://bit.ly/6nHqCS\" title=\"http://stillermann.com/img/misc2010/20100119-kalendar.jpg\">http://stillermann.com/img...</a> via @<a rel=\"nofollow\" href=\"http://twitter.com/growler\">growler</a>",
+  "rawLink": "http://twitter.com/zagru/statuses/8020896645",
+  "id": "e/e80c7ca422458664e7d783d4f03848cb",
+  "rawBody": "RT: @mkrentovskiy: Правоверный календарь системотехников http://bit.ly/6nHqCS via @growler",
+  "date": "2010-01-21T08:53:09Z",
+  "url": "http://friendfeed.com/zag/e80c7ca4/rt-mkrentovskiy-via-growler",
+  "from": {
+    "name": "углы «Исимуры»",
+    "id": "zag",
+    "type": "user"
+  },
+  "via": {
+    "url": "http://twitter.com/zagru/statuses/8020896645",
+    "name": "Twitter"
+  }
+}
+=end comment
+
+=end pod

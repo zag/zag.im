@@ -1,0 +1,36 @@
+=begin pod :pubdate('2009-11-10T10:48:17Z') :type<note> :tags<god09ru>
+=NAME Проблема выбора : мобильный интернет или мобильный web ? #god09ru
+
+=begin DESCRIPTION
+
+Проблема выбора : мобильный интернет или мобильный web ? #god09ru - L<link|http://twitter.com/zagru/statuses/5585779679>
+
+
+
+=end DESCRIPTION
+
+Проблема выбора : мобильный интернет или мобильный web ? #god09ru - L<link|http://twitter.com/zagru/statuses/5585779679>
+
+
+
+=begin comment :src
+{
+  "id": "e/dc738934f701ff5532bf969d8114ff80",
+  "date": "2009-11-10T10:48:17Z",
+  "rawBody": "Проблема выбора : мобильный интернет или мобильный web ? #god09ru",
+  "url": "http://friendfeed.com/zag/dc738934/web-god09ru",
+  "rawLink": "http://twitter.com/zagru/statuses/5585779679",
+  "body": "Проблема выбора : мобильный интернет или мобильный web ? <a rel=\"nofollow\" href=\"http://search.twitter.com/search?q=%23god09ru\">#god09ru</a>",
+  "via": {
+    "url": "http://twitter.com/zagru/statuses/5585779679",
+    "name": "Twitter"
+  },
+  "from": {
+    "name": "углы «Исимуры»",
+    "id": "zag",
+    "type": "user"
+  }
+}
+=end comment
+
+=end pod

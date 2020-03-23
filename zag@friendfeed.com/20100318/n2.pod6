@@ -1,0 +1,67 @@
+=begin pod :pubdate('2010-03-18T08:36:52Z') :type<note> 
+=NAME Bing - New Bing Maps Application: WorldWide Telescope
+
+=begin DESCRIPTION
+
+Bing - New Bing Maps Application: WorldWide Telescope - L<link|http://www.bing.com/community/blogs/maps/archive/2010/03/10/new-bing-maps-application-worldwide-telescope.aspx>
+=for Image :width(425) :link('http://www.bing.com/community/blogs/maps/archive/2010/03/10/new-bing-maps-application-worldwide-telescope.aspx') :height(175) :preview
+media/07d05e2980a81256352fa7d3f98cff2f4fa956e8.jpg
+
+=item If you’re in Streetside, just look up by grabbing the map and pull down the map to see the constellation
+
+
+=end DESCRIPTION
+
+Bing - New Bing Maps Application: WorldWide Telescope - L<link|http://www.bing.com/community/blogs/maps/archive/2010/03/10/new-bing-maps-application-worldwide-telescope.aspx>
+=for Image :width(425) :link('http://www.bing.com/community/blogs/maps/archive/2010/03/10/new-bing-maps-application-worldwide-telescope.aspx') :height(175) :preview
+media/07d05e2980a81256352fa7d3f98cff2f4fa956e8.jpg
+
+=item If you’re in Streetside, just look up by grabbing the map and pull down the map to see the constellation
+
+
+=begin comment :src
+{
+  "date": "2010-03-18T08:36:52Z",
+  "id": "e/b5d147373b3a4686ad1c4623b9b9cddd",
+  "url": "http://friendfeed.com/zag/b5d14737/bing-new-maps-application-worldwide-telescope",
+  "rawBody": "Bing - New Bing Maps Application: WorldWide Telescope",
+  "thumbnails": [
+    {
+      "width": 425,
+      "url": "http://m.friendfeed-media.com/07d05e2980a81256352fa7d3f98cff2f4fa956e8",
+      "link": "http://www.bing.com/community/blogs/maps/archive/2010/03/10/new-bing-maps-application-worldwide-telescope.aspx",
+      "height": 175
+    }
+  ],
+  "rawLink": "http://www.bing.com/community/blogs/maps/archive/2010/03/10/new-bing-maps-application-worldwide-telescope.aspx",
+  "body": "Bing - New Bing Maps Application: WorldWide Telescope - <a rel=\"nofollow\" href=\"http://www.bing.com/community/blogs/maps/archive/2010/03/10/new-bing-maps-application-worldwide-telescope.aspx\" title=\"http://www.bing.com/community/blogs/maps/archive/2010/03/10/new-bing-maps-application-worldwide-telescope.aspx\">http://www.bing.com/communi...</a>",
+  "via": {
+    "url": "http://friendfeed.com/share/bookmarklet",
+    "name": "Bookmarklet"
+  },
+  "from": {
+    "name": "углы «Исимуры»",
+    "type": "user",
+    "id": "zag"
+  },
+  "comments": [
+    {
+      "rawBody": "If you’re in Streetside, just look up by grabbing the map and pull down the map to see the constellation",
+      "id": "e/b5d147373b3a4686ad1c4623b9b9cddd/c/9e518a9e8c7a4202a54b50e07b3cb063",
+      "date": "2010-03-18T08:36:52Z",
+      "from": {
+        "name": "углы «Исимуры»",
+        "type": "user",
+        "id": "zag"
+      },
+      "via": {
+        "url": "http://friendfeed.com/share/bookmarklet",
+        "name": "Bookmarklet"
+      },
+      "body": "If you’re in Streetside, just look up by grabbing the map and pull down the map to see the constellation"
+    }
+  ]
+}
+=end comment
+
+=end pod

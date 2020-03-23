@@ -1,0 +1,36 @@
+=begin pod :pubdate('2010-10-01T13:08:04Z') :type<note> :tags<yac2010>
+=NAME Написал письмо в почтовый ящик яндекс #yac2010
+
+=begin DESCRIPTION
+
+Написал письмо в почтовый ящик яндекс #yac2010
+
+
+
+=end DESCRIPTION
+
+Написал письмо в почтовый ящик яндекс #yac2010
+
+
+
+=begin comment :src
+{
+  "from": {
+    "type": "user",
+    "id": "zag",
+    "name": "углы «Исимуры»"
+  },
+  "via": {
+    "name": "IM",
+    "url": "http://friendfeed.com/about/im"
+  },
+  "rawLink": "http://friendfeed.com/e/51bd3fd6-24fc-47e0-bb3b-b63982c83c62",
+  "body": "Написал письмо в почтовый ящик яндекс <a href=\"http://friendfeed.com/search?q=%23yac2010\">#yac2010</a>",
+  "rawBody": "Написал письмо в почтовый ящик яндекс #yac2010",
+  "id": "e/51bd3fd624fc47e0bb3bb63982c83c62",
+  "date": "2010-10-01T13:08:04Z",
+  "url": "http://friendfeed.com/zag/51bd3fd6/yac2010"
+}
+=end comment
+
+=end pod

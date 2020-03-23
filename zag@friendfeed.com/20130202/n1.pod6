@@ -1,0 +1,68 @@
+=begin pod :pubdate('2013-02-02T12:28:03Z') :type<note> 
+=NAME Kdenlive | Free and open source video editor for GNU/Linux, Mac OS X and FreeBSD
+
+=begin DESCRIPTION
+
+Kdenlive | Free and open source video editor for GNU/Linux, Mac OS X and FreeBSD - L<link|http://www.kdenlive.org/>
+=for Image :width(169) :link('http://www.kdenlive.org/') :height(175) :preview
+media/75dce401fbdf9aede5ea46387607e0809fada1ad.jpg
+=for Image :width(164) :link('http://www.kdenlive.org/') :height(175) :preview
+media/ce6cee438611111a5343ed357327473e7926284f.jpg
+=for Image :width(175) :link('http://www.kdenlive.org/') :height(175) :preview
+media/5a834899541a15c5ff950ab5d60a3bf09b03d342.jpg
+
+
+
+=end DESCRIPTION
+
+Kdenlive | Free and open source video editor for GNU/Linux, Mac OS X and FreeBSD - L<link|http://www.kdenlive.org/>
+=for Image :width(169) :link('http://www.kdenlive.org/') :height(175) :preview
+media/75dce401fbdf9aede5ea46387607e0809fada1ad.jpg
+=for Image :width(164) :link('http://www.kdenlive.org/') :height(175) :preview
+media/ce6cee438611111a5343ed357327473e7926284f.jpg
+=for Image :width(175) :link('http://www.kdenlive.org/') :height(175) :preview
+media/5a834899541a15c5ff950ab5d60a3bf09b03d342.jpg
+
+
+
+=begin comment :src
+{
+  "from": {
+    "name": "углы «Исимуры»",
+    "id": "zag",
+    "type": "user"
+  },
+  "via": {
+    "url": "http://friendfeed.com/share/bookmarklet",
+    "name": "Bookmarklet"
+  },
+  "id": "e/4923a94075c34441ad1f93c1a8ee4c9e",
+  "date": "2013-02-02T12:28:03Z",
+  "rawBody": "Kdenlive | Free and open source video editor for GNU/Linux, Mac OS X and FreeBSD",
+  "url": "http://friendfeed.com/zag/4923a940/kdenlive-free-and-open-source-video-editor-for",
+  "thumbnails": [
+    {
+      "link": "http://www.kdenlive.org/",
+      "height": 175,
+      "url": "http://m.friendfeed-media.com/75dce401fbdf9aede5ea46387607e0809fada1ad",
+      "width": 169
+    },
+    {
+      "url": "http://m.friendfeed-media.com/ce6cee438611111a5343ed357327473e7926284f",
+      "width": 164,
+      "link": "http://www.kdenlive.org/",
+      "height": 175
+    },
+    {
+      "height": 175,
+      "link": "http://www.kdenlive.org/",
+      "width": 175,
+      "url": "http://m.friendfeed-media.com/5a834899541a15c5ff950ab5d60a3bf09b03d342"
+    }
+  ],
+  "body": "Kdenlive | Free and open source video editor for GNU/Linux, Mac OS X and FreeBSD - <a rel=\"nofollow\" href=\"http://www.kdenlive.org/\">http://www.kdenlive.org/</a>",
+  "rawLink": "http://www.kdenlive.org/"
+}
+=end comment
+
+=end pod

@@ -1,0 +1,48 @@
+=begin pod :pubdate('2011-07-28T08:50:49Z') :type<note> 
+=NAME Periodic Table of Beer Styles
+
+=begin DESCRIPTION
+
+Periodic Table of Beer Styles - L<link|http://i.imgur.com/SgSst.png>
+=for Image :width(280) :link('http://i.imgur.com/SgSst.png') :height(175) :preview
+media/ee5a275daf47a51eb76a8f8644cc133fad4df06d.jpg
+
+
+
+=end DESCRIPTION
+
+Periodic Table of Beer Styles - L<link|http://i.imgur.com/SgSst.png>
+=for Image :width(280) :link('http://i.imgur.com/SgSst.png') :height(175) :preview
+media/ee5a275daf47a51eb76a8f8644cc133fad4df06d.jpg
+
+
+
+=begin comment :src
+{
+  "via": {
+    "name": "Bookmarklet",
+    "url": "http://friendfeed.com/share/bookmarklet"
+  },
+  "from": {
+    "name": "углы «Исимуры»",
+    "type": "user",
+    "id": "zag"
+  },
+  "rawLink": "http://i.imgur.com/SgSst.png",
+  "body": "Periodic Table of Beer Styles - <a rel=\"nofollow\" href=\"http://i.imgur.com/SgSst.png\">http://i.imgur.com/SgSst.png</a>",
+  "date": "2011-07-28T08:50:49Z",
+  "id": "e/b12288fb540c49a49d2b632afd6c89b3",
+  "rawBody": "Periodic Table of Beer Styles",
+  "url": "http://friendfeed.com/zag/b12288fb/periodic-table-of-beer-styles",
+  "thumbnails": [
+    {
+      "height": 175,
+      "link": "http://i.imgur.com/SgSst.png",
+      "url": "http://m.friendfeed-media.com/ee5a275daf47a51eb76a8f8644cc133fad4df06d",
+      "width": 280
+    }
+  ]
+}
+=end comment
+
+=end pod

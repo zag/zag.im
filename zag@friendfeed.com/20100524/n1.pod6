@@ -1,0 +1,86 @@
+=begin pod :pubdate('2010-05-24T06:56:17Z') :type<note> 
+=NAME Мышкин дом
+
+=begin DESCRIPTION
+
+Мышкин дом
+=for Image :width(270) :link('http://m.friendfeed-media.com/770a5a6df2613ae634ea6777ff30ac040cc0ed7e') :height(175) :preview
+media/92c63a55d6bf7961ad2ece1097149949d0188176.jpg
+
+=item Всё совпало  - эта картинка и случайно увиденная цитата. "все кормятся друг от друга и тихо возятся в тепле и уюте как черви в яблоке"  )
+
+
+=end DESCRIPTION
+
+Мышкин дом
+=for Image :width(270) :link('http://m.friendfeed-media.com/770a5a6df2613ae634ea6777ff30ac040cc0ed7e') :height(175) :preview
+media/92c63a55d6bf7961ad2ece1097149949d0188176.jpg
+
+=item Всё совпало  - эта картинка и случайно увиденная цитата. "все кормятся друг от друга и тихо возятся в тепле и уюте как черви в яблоке"  )
+
+
+=begin comment :src
+{
+  "rawBody": "Мышкин дом",
+  "id": "e/2af25e5f29d44486b7724b37ebb5aaa5",
+  "date": "2010-05-24T06:56:17Z",
+  "thumbnails": [
+    {
+      "width": 270,
+      "url": "http://m.friendfeed-media.com/92c63a55d6bf7961ad2ece1097149949d0188176",
+      "height": 175,
+      "link": "http://m.friendfeed-media.com/770a5a6df2613ae634ea6777ff30ac040cc0ed7e"
+    }
+  ],
+  "url": "http://friendfeed.com/zag/2af25e5f",
+  "likes": [
+    {
+      "date": "2010-05-24T15:27:52Z",
+      "from": {
+        "type": "user",
+        "id": "imelnik",
+        "name": "iMelnik"
+      }
+    },
+    {
+      "date": "2010-05-24T08:25:22Z",
+      "from": {
+        "id": "elnie",
+        "type": "user",
+        "name": "Белка"
+      }
+    },
+    {
+      "from": {
+        "name": "IvIotor",
+        "private": true,
+        "type": "user",
+        "id": "iviotor"
+      },
+      "date": "2010-05-24T06:58:57Z"
+    }
+  ],
+  "rawLink": "http://friendfeed.com/e/2af25e5f-29d4-4486-b772-4b37ebb5aaa5",
+  "body": "Мышкин дом",
+  "from": {
+    "type": "user",
+    "id": "zag",
+    "name": "углы «Исимуры»"
+  },
+  "comments": [
+    {
+      "rawBody": "Всё совпало  - эта картинка и случайно увиденная цитата. \"все кормятся друг от друга и тихо возятся в тепле и уюте как черви в яблоке\"  )",
+      "date": "2010-05-24T14:53:10Z",
+      "id": "e/2af25e5f29d44486b7724b37ebb5aaa5/c/b98e5f914d44448faf11858de6503f60",
+      "from": {
+        "id": "zololine",
+        "type": "user",
+        "name": "Catherine Zolotukhina"
+      },
+      "body": "Всё совпало  - эта картинка и случайно увиденная цитата. &quot;все кормятся друг от друга и тихо возятся в тепле и уюте как черви в яблоке&quot;  )"
+    }
+  ]
+}
+=end comment
+
+=end pod

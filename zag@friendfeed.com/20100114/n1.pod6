@@ -1,0 +1,36 @@
+=begin pod :pubdate('2010-01-14T12:55:27Z') :type<note> 
+=NAME Теперь можно стать жертвой мошенников, просто перейдя по ссылке пришедшей в SMS на мобильный телефон .http://tinyurl.com/ygmwoj4
+
+=begin DESCRIPTION
+
+Теперь можно стать жертвой мошенников, просто перейдя по ссылке пришедшей в SMS на мобильный телефон .http://tinyurl.com/ygmwoj4 - L<link|http://twitter.com/zagru/statuses/7746641949>
+
+
+
+=end DESCRIPTION
+
+Теперь можно стать жертвой мошенников, просто перейдя по ссылке пришедшей в SMS на мобильный телефон .http://tinyurl.com/ygmwoj4 - L<link|http://twitter.com/zagru/statuses/7746641949>
+
+
+
+=begin comment :src
+{
+  "via": {
+    "name": "Twitter",
+    "url": "http://twitter.com/zagru/statuses/7746641949"
+  },
+  "from": {
+    "name": "углы «Исимуры»",
+    "type": "user",
+    "id": "zag"
+  },
+  "body": "Теперь можно стать жертвой мошенников, просто перейдя по ссылке пришедшей в SMS на мобильный телефон .<a rel=\"nofollow\" href=\"http://tinyurl.com/ygmwoj4\" title=\"http://www.mobile-review.com/articles/2010/mobipage-content.shtml\">http://www.mobile-review.com/article...</a>",
+  "rawLink": "http://twitter.com/zagru/statuses/7746641949",
+  "id": "e/4a3fad7f13fe1305426f4bc665bc294e",
+  "date": "2010-01-14T12:55:27Z",
+  "rawBody": "Теперь можно стать жертвой мошенников, просто перейдя по ссылке пришедшей в SMS на мобильный телефон .http://tinyurl.com/ygmwoj4",
+  "url": "http://friendfeed.com/zag/4a3fad7f/sms"
+}
+=end comment
+
+=end pod

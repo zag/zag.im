@@ -1,0 +1,48 @@
+=begin pod :pubdate('2010-06-05T16:18:52Z') :type<note> 
+=NAME Не репродукция
+
+=begin DESCRIPTION
+
+Не репродукция
+=for Image :width(233) :link('http://m.friendfeed-media.com/f67284d818af0bc757a50e051ade289837a2810a') :height(175) :preview
+media/319204a2943242b34d8d0d5ff13a94fee5531f8d.jpg
+
+
+
+=end DESCRIPTION
+
+Не репродукция
+=for Image :width(233) :link('http://m.friendfeed-media.com/f67284d818af0bc757a50e051ade289837a2810a') :height(175) :preview
+media/319204a2943242b34d8d0d5ff13a94fee5531f8d.jpg
+
+
+
+=begin comment :src
+{
+  "via": {
+    "url": "http://friendfeed.com/share/mail",
+    "name": "email"
+  },
+  "from": {
+    "id": "zag",
+    "type": "user",
+    "name": "углы «Исимуры»"
+  },
+  "rawLink": "http://friendfeed.com/e/58194d43-d00a-4102-b7b9-610d2e22bfeb",
+  "body": "Не репродукция",
+  "id": "e/58194d43d00a4102b7b9610d2e22bfeb",
+  "date": "2010-06-05T16:18:52Z",
+  "rawBody": "Не репродукция",
+  "url": "http://friendfeed.com/zag/58194d43",
+  "thumbnails": [
+    {
+      "height": 175,
+      "link": "http://m.friendfeed-media.com/f67284d818af0bc757a50e051ade289837a2810a",
+      "width": 233,
+      "url": "http://m.friendfeed-media.com/319204a2943242b34d8d0d5ff13a94fee5531f8d"
+    }
+  ]
+}
+=end comment
+
+=end pod

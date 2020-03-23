@@ -1,0 +1,77 @@
+=begin pod :pubdate('2011-04-01T19:05:38Z') :type<note> :tags<ps3>
+=NAME Condor PlayStation 3 Supercomputer Now Online #ps3
+
+=begin DESCRIPTION
+
+Condor PlayStation 3 Supercomputer Now Online #ps3 - L<link|http://www.geeky-gadgets.com/condor-playstation-3-supercomputer-now-online-28-03-2011/>
+=for Image :width(249) :link('http://www.geeky-gadgets.com/condor-playstation-3-supercomputer-now-online-28-03-2011/') :height(175) :preview
+media/a67798cd94af03bf3ffefc22170821415f9103eb.jpg
+=for Image :width(279) :link('http://www.geeky-gadgets.com/condor-playstation-3-supercomputer-now-online-28-03-2011/') :height(175) :preview
+media/c818b1e3e9f58e87bccf1892aac64917ed327e20.jpg
+
+=item ".. now in the top 40 fastest supercomputers in the world."
+
+
+=end DESCRIPTION
+
+Condor PlayStation 3 Supercomputer Now Online #ps3 - L<link|http://www.geeky-gadgets.com/condor-playstation-3-supercomputer-now-online-28-03-2011/>
+=for Image :width(249) :link('http://www.geeky-gadgets.com/condor-playstation-3-supercomputer-now-online-28-03-2011/') :height(175) :preview
+media/a67798cd94af03bf3ffefc22170821415f9103eb.jpg
+=for Image :width(279) :link('http://www.geeky-gadgets.com/condor-playstation-3-supercomputer-now-online-28-03-2011/') :height(175) :preview
+media/c818b1e3e9f58e87bccf1892aac64917ed327e20.jpg
+
+=item ".. now in the top 40 fastest supercomputers in the world."
+
+
+=begin comment :src
+{
+  "comments": [
+    {
+      "id": "e/b1b3c17e8ba24815852fc320a65db935/c/316798e24e644474ac36675bff474b12",
+      "rawBody": "\".. now in the top 40 fastest supercomputers in the world.\"",
+      "date": "2011-04-01T19:05:38Z",
+      "from": {
+        "name": "углы «Исимуры»",
+        "type": "user",
+        "id": "zag"
+      },
+      "via": {
+        "url": "http://friendfeed.com/share/bookmarklet",
+        "name": "Bookmarklet"
+      },
+      "body": "&quot;.. now in the top 40 fastest supercomputers in the world.&quot;"
+    }
+  ],
+  "via": {
+    "name": "Bookmarklet",
+    "url": "http://friendfeed.com/share/bookmarklet"
+  },
+  "from": {
+    "type": "user",
+    "id": "zag",
+    "name": "углы «Исимуры»"
+  },
+  "rawLink": "http://www.geeky-gadgets.com/condor-playstation-3-supercomputer-now-online-28-03-2011/",
+  "body": "Condor PlayStation 3 Supercomputer Now Online <a href=\"http://friendfeed.com/search?q=%23ps3\">#ps3</a> - <a rel=\"nofollow\" href=\"http://www.geeky-gadgets.com/condor-playstation-3-supercomputer-now-online-28-03-2011/\" title=\"http://www.geeky-gadgets.com/condor-playstation-3-supercomputer-now-online-28-03-2011/\">http://www.geeky-gadgets.com/condor-...</a>",
+  "id": "e/b1b3c17e8ba24815852fc320a65db935",
+  "thumbnails": [
+    {
+      "height": 175,
+      "link": "http://www.geeky-gadgets.com/condor-playstation-3-supercomputer-now-online-28-03-2011/",
+      "width": 249,
+      "url": "http://m.friendfeed-media.com/a67798cd94af03bf3ffefc22170821415f9103eb"
+    },
+    {
+      "link": "http://www.geeky-gadgets.com/condor-playstation-3-supercomputer-now-online-28-03-2011/",
+      "height": 175,
+      "url": "http://m.friendfeed-media.com/c818b1e3e9f58e87bccf1892aac64917ed327e20",
+      "width": 279
+    }
+  ],
+  "date": "2011-04-01T19:05:38Z",
+  "rawBody": "Condor PlayStation 3 Supercomputer Now Online #ps3",
+  "url": "http://friendfeed.com/zag/b1b3c17e/condor-playstation-3-supercomputer-now-online"
+}
+=end comment
+
+=end pod

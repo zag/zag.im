@@ -1,0 +1,93 @@
+=begin pod :pubdate('2010-05-03T18:02:12Z') :type<note> :tags<28 rakudo perl6>
+=NAME #28 (moscow.pm) the version #rakudo released  in Lenin's 140 birthday
+(on April, 22nd).
+Lenin is the follower of communism. #perl6 it is connected with
+communism: means of production belong to workers. (pel6 is free,
+parrot is free VM  for all languages idealy)
+At a star of 5 beams. If to increase 5 on 28 to turn out 140 (Lenin's
+140 birthday).
+ I trust in Rakudo Star :-)
+
+=begin DESCRIPTION
+
+#28 (moscow.pm) the version #rakudo released  in Lenin's 140 birthday
+(on April, 22nd).
+Lenin is the follower of communism. #perl6 it is connected with
+communism: means of production belong to workers. (pel6 is free,
+parrot is free VM  for all languages idealy)
+At a star of 5 beams. If to increase 5 on 28 to turn out 140 (Lenin's
+140 birthday).
+ I trust in Rakudo Star :-)
+=for Image :width(233) :link('http://m.friendfeed-media.com/2b13114dcc5e004217ea3f37f48dcd5297acbc05') :height(175) :preview
+media/b0312703243ecd750644814a2ff03adc3a6d7a87.jpg
+
+=item I trust in Rakudo Star :-)
+=item http://use.perl.org/~andy.sh/journal/40342
+
+
+=end DESCRIPTION
+
+#28 (moscow.pm) the version #rakudo released  in Lenin's 140 birthday
+(on April, 22nd).
+Lenin is the follower of communism. #perl6 it is connected with
+communism: means of production belong to workers. (pel6 is free,
+parrot is free VM  for all languages idealy)
+At a star of 5 beams. If to increase 5 on 28 to turn out 140 (Lenin's
+140 birthday).
+ I trust in Rakudo Star :-)
+=for Image :width(233) :link('http://m.friendfeed-media.com/2b13114dcc5e004217ea3f37f48dcd5297acbc05') :height(175) :preview
+media/b0312703243ecd750644814a2ff03adc3a6d7a87.jpg
+
+=item I trust in Rakudo Star :-)
+=item http://use.perl.org/~andy.sh/journal/40342
+
+
+=begin comment :src
+{
+  "from": {
+    "name": "углы «Исимуры»",
+    "type": "user",
+    "id": "zag"
+  },
+  "comments": [
+    {
+      "rawBody": "I trust in Rakudo Star :-)",
+      "id": "e/61bf7cacc27d449392bdd1eb54049eff/c/c434a7ab99ab4f2fab7c785890772591",
+      "from": {
+        "name": "углы «Исимуры»",
+        "id": "zag",
+        "type": "user"
+      },
+      "date": "2010-05-03T18:02:49Z",
+      "body": "I trust in Rakudo Star :-)"
+    },
+    {
+      "body": "<a rel=\"nofollow\" href=\"http://use.perl.org/~andy.sh/journal/40342\" title=\"http://use.perl.org/~andy.sh/journal/40342\">http://use.perl.org/~andy...</a>",
+      "rawBody": "http://use.perl.org/~andy.sh/journal/40342",
+      "id": "e/61bf7cacc27d449392bdd1eb54049eff/c/46cf3a78bbc84674a1af078a17101055",
+      "date": "2010-05-03T18:07:08Z",
+      "from": {
+        "name": "углы «Исимуры»",
+        "type": "user",
+        "id": "zag"
+      }
+    }
+  ],
+  "url": "http://friendfeed.com/zag/61bf7cac/28-moscow-pm-version-rakudo-released-in-lenin",
+  "id": "e/61bf7cacc27d449392bdd1eb54049eff",
+  "date": "2010-05-03T18:02:12Z",
+  "rawBody": "#28 (moscow.pm) the version #rakudo released  in Lenin's 140 birthday\r\n(on April, 22nd).\r\nLenin is the follower of communism. #perl6 it is connected with\r\ncommunism: means of production belong to workers. (pel6 is free,\r\nparrot is free VM  for all languages idealy)\r\nAt a star of 5 beams. If to increase 5 on 28 to turn out 140 (Lenin's\r\n140 birthday).\r\n I trust in Rakudo Star :-)",
+  "thumbnails": [
+    {
+      "link": "http://m.friendfeed-media.com/2b13114dcc5e004217ea3f37f48dcd5297acbc05",
+      "height": 175,
+      "width": 233,
+      "url": "http://m.friendfeed-media.com/b0312703243ecd750644814a2ff03adc3a6d7a87"
+    }
+  ],
+  "rawLink": "http://friendfeed.com/e/61bf7cac-c27d-4493-92bd-d1eb54049eff",
+  "body": "<a href=\"http://friendfeed.com/search?q=%2328\">#28</a> (moscow.pm) the version <a href=\"http://friendfeed.com/search?q=%23rakudo\">#rakudo</a> released in Lenin's 140 birthday (on April, 22nd). Lenin is the follower of communism. <a href=\"http://friendfeed.com/search?q=%23perl6\">#perl6</a> it is connected with communism: means of production belong to workers. (pel6 is free, parrot is free VM for all languages idealy) At a star of 5 beams. If to increase 5 on 28 to turn out 140 (Lenin's 140 birthday). I..."
+}
+=end comment
+
+=end pod

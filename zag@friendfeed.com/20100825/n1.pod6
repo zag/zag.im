@@ -1,0 +1,54 @@
+=begin pod :pubdate('2010-08-25T13:36:14Z') :type<note> 
+=NAME Announcing the release of Fedora 14 Alpha [LWN.net]: "Fedora 14 comes with Rakudo Perl, an implementation of the Perl 6 specification based on the Parrot virtual machine, which enables developers to write new applications or port existing ones to Perl 6."
+
+=begin DESCRIPTION
+
+Announcing the release of Fedora 14 Alpha [LWN.net]: "Fedora 14 comes with Rakudo Perl, an implementation of the Perl 6 specification based on the Parrot virtual machine, which enables developers to write new applications or port existing ones to Perl 6." - L<link|http://lwn.net/Articles/401735/>
+
+
+
+=end DESCRIPTION
+
+Announcing the release of Fedora 14 Alpha [LWN.net]: "Fedora 14 comes with Rakudo Perl, an implementation of the Perl 6 specification based on the Parrot virtual machine, which enables developers to write new applications or port existing ones to Perl 6." - L<link|http://lwn.net/Articles/401735/>
+
+
+
+=begin comment :src
+{
+  "via": {
+    "name": "Bookmarklet",
+    "url": "http://friendfeed.com/share/bookmarklet"
+  },
+  "from": {
+    "type": "user",
+    "id": "zag",
+    "name": "углы «Исимуры»"
+  },
+  "date": "2010-08-25T13:36:14Z",
+  "id": "e/d9f218b9648d4e2f86f062903d3af04a",
+  "rawBody": "Announcing the release of Fedora 14 Alpha [LWN.net]: \"Fedora 14 comes with Rakudo Perl, an implementation of the Perl 6 specification based on the Parrot virtual machine, which enables developers to write new applications or port existing ones to Perl 6.\"",
+  "url": "http://friendfeed.com/zag/d9f218b9/announcing-release-of-fedora-14-alpha-lwn-net",
+  "likes": [
+    {
+      "date": "2010-08-25T15:50:52Z",
+      "from": {
+        "name": "alex@kapranoff.ru",
+        "type": "user",
+        "id": "kkapp"
+      }
+    },
+    {
+      "from": {
+        "name": "Vyacheslav Matyukhin",
+        "type": "user",
+        "id": "mmcleric"
+      },
+      "date": "2010-08-25T15:42:35Z"
+    }
+  ],
+  "rawLink": "http://lwn.net/Articles/401735/",
+  "body": "Announcing the release of Fedora 14 Alpha [LWN.net]: &quot;Fedora 14 comes with Rakudo Perl, an implementation of the Perl 6 specification based on the Parrot virtual machine, which enables developers to write new applications or port existing ones to Perl 6.&quot; - <a rel=\"nofollow\" href=\"http://lwn.net/Articles/401735/\" title=\"http://lwn.net/Articles/401735/\">http://lwn.net/Article...</a>"
+}
+=end comment
+
+=end pod

@@ -1,0 +1,36 @@
+=begin pod :pubdate('2011-07-28T09:41:52Z') :type<note> :tags<oscon>
+=NAME RT @petdance: "Perl isn't a programming language. It's a life-support system for CPAN." Damian at #oscon.
+
+=begin DESCRIPTION
+
+RT @petdance: "Perl isn't a programming language. It's a life-support system for CPAN." Damian at #oscon. - L<link|http://twitter.com/zagru/statuses/96515706727829504>
+
+
+
+=end DESCRIPTION
+
+RT @petdance: "Perl isn't a programming language. It's a life-support system for CPAN." Damian at #oscon. - L<link|http://twitter.com/zagru/statuses/96515706727829504>
+
+
+
+=begin comment :src
+{
+  "via": {
+    "name": "Twitter",
+    "url": "http://twitter.com/zagru/statuses/96515706727829504"
+  },
+  "from": {
+    "name": "углы «Исимуры»",
+    "id": "zag",
+    "type": "user"
+  },
+  "rawBody": "RT @petdance: \"Perl isn't a programming language. It's a life-support system for CPAN.\" Damian at #oscon.",
+  "id": "e/d06b05f7b9a1b4beebab2b149610c2fc",
+  "date": "2011-07-28T09:41:52Z",
+  "url": "http://friendfeed.com/zag/d06b05f7/rt-petdance-perl-isn-t-programming-language-it",
+  "body": "RT @<a rel=\"nofollow\" href=\"http://twitter.com/petdance\">petdance</a>: &quot;Perl isn't a programming language. It's a life-support system for CPAN.&quot; Damian at <a rel=\"nofollow\" href=\"http://search.twitter.com/search?q=%23oscon\">#oscon</a>.",
+  "rawLink": "http://twitter.com/zagru/statuses/96515706727829504"
+}
+=end comment
+
+=end pod

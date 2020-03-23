@@ -1,0 +1,36 @@
+=begin pod :pubdate('2011-07-02T10:09:05Z') :type<note> :tags<bitcoin lvee>
+=NAME Satoshi Nakamoto - выходит через tor и является экспертом в криптографии, герой киберпанков. #bitcoin #lvee
+
+=begin DESCRIPTION
+
+Satoshi Nakamoto - выходит через tor и является экспертом в криптографии, герой киберпанков. #bitcoin #lvee
+
+
+
+=end DESCRIPTION
+
+Satoshi Nakamoto - выходит через tor и является экспертом в криптографии, герой киберпанков. #bitcoin #lvee
+
+
+
+=begin comment :src
+{
+  "from": {
+    "name": "углы «Исимуры»",
+    "type": "user",
+    "id": "zag"
+  },
+  "via": {
+    "name": "email",
+    "url": "http://friendfeed.com/share/mail"
+  },
+  "rawBody": "Satoshi Nakamoto - выходит через tor и является экспертом в криптографии, герой киберпанков. #bitcoin #lvee",
+  "id": "e/9b52f84a7b264869b89c89d5d4abb2b1",
+  "date": "2011-07-02T10:09:05Z",
+  "url": "http://friendfeed.com/zag/9b52f84a/satoshi-nakamoto-tor-bitcoin-lvee",
+  "body": "Satoshi Nakamoto - выходит через tor и является экспертом в криптографии, герой киберпанков. <a href=\"http://friendfeed.com/search?q=%23bitcoin\">#bitcoin</a> <a href=\"http://friendfeed.com/search?q=%23lvee\">#lvee</a>",
+  "rawLink": "http://friendfeed.com/e/9b52f84a-7b26-4869-b89c-89d5d4abb2b1"
+}
+=end comment
+
+=end pod

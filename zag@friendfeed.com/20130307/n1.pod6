@@ -1,0 +1,82 @@
+=begin pod :pubdate('2013-03-07T20:57:33Z') :type<note> 
+=NAME Laser Eyes! Shoot lasers from your eyes.
+
+=begin DESCRIPTION
+
+Laser Eyes! Shoot lasers from your eyes. - L<link|http://laserey.es/#>
+=for Image :width(264) :link('http://laserey.es/#') :height(175) :preview
+media/90ea557081e58f5550729e86779edd3cd922c06c.jpg
+
+=item I<#>lasereyes
+
+
+=end DESCRIPTION
+
+Laser Eyes! Shoot lasers from your eyes. - L<link|http://laserey.es/#>
+=for Image :width(264) :link('http://laserey.es/#') :height(175) :preview
+media/90ea557081e58f5550729e86779edd3cd922c06c.jpg
+
+=item I<#>lasereyes
+
+
+=begin comment :src
+{
+  "via": {
+    "url": "http://friendfeed.com/share/bookmarklet",
+    "name": "Bookmarklet"
+  },
+  "from": {
+    "name": "углы «Исимуры»",
+    "id": "zag",
+    "type": "user"
+  },
+  "comments": [
+    {
+      "id": "e/c279b92ba5784e5e84de011a3ddd86aa/c/3ee86fd442ec490db6200bbc102aa20d",
+      "rawBody": "I<#>lasereyes",
+      "date": "2013-03-07T20:57:44Z",
+      "from": {
+        "type": "user",
+        "id": "zag",
+        "name": "углы «Исимуры»"
+      },
+      "body": "<a href=\"http://friendfeed.com/search?q=%23lasereyes\">#lasereyes</a>"
+    }
+  ],
+  "date": "2013-03-07T20:57:33Z",
+  "id": "e/c279b92ba5784e5e84de011a3ddd86aa",
+  "url": "http://friendfeed.com/zag/c279b92b/laser-eyes-shoot-lasers-from-your",
+  "rawBody": "Laser Eyes! Shoot lasers from your eyes.",
+  "thumbnails": [
+    {
+      "height": 175,
+      "link": "http://laserey.es/#",
+      "url": "http://m.friendfeed-media.com/90ea557081e58f5550729e86779edd3cd922c06c",
+      "width": 264
+    },
+  ],
+  "body": "Laser Eyes! Shoot lasers from your eyes. - <a rel=\"nofollow\" href=\"http://laserey.es/#\">http://laserey.es/#</a>",
+  "likes": [
+    {
+      "from": {
+        "name": "3012",
+        "type": "user",
+        "id": "sndv",
+        "private": true
+      },
+      "date": "2013-03-08T05:06:02Z"
+    },
+    {
+      "from": {
+        "name": "alex@kapranoff.ru",
+        "type": "user",
+        "id": "kkapp"
+      },
+      "date": "2013-03-08T04:16:33Z"
+    }
+  ],
+  "rawLink": "http://laserey.es/#"
+}
+=end comment
+
+=end pod

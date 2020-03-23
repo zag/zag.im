@@ -1,0 +1,36 @@
+=begin pod :pubdate('2009-10-08T11:52:42Z') :type<note> :tags<java vim>
+=NAME От #java быстро устают руки в #vim
+
+=begin DESCRIPTION
+
+От #java быстро устают руки в #vim - L<link|http://twitter.com/zagru/statuses/4707081204>
+
+
+
+=end DESCRIPTION
+
+От #java быстро устают руки в #vim - L<link|http://twitter.com/zagru/statuses/4707081204>
+
+
+
+=begin comment :src
+{
+  "via": {
+    "url": "http://twitter.com/zagru/statuses/4707081204",
+    "name": "Twitter"
+  },
+  "from": {
+    "id": "zag",
+    "type": "user",
+    "name": "углы «Исимуры»"
+  },
+  "rawBody": "От #java быстро устают руки в #vim",
+  "id": "e/4bad66f30ee2b0238a518cbb885b8efe",
+  "date": "2009-10-08T11:52:42Z",
+  "url": "http://friendfeed.com/zag/4bad66f3/java-vim",
+  "rawLink": "http://twitter.com/zagru/statuses/4707081204",
+  "body": "От <a rel=\"nofollow\" href=\"http://search.twitter.com/search?q=%23java\">#java</a> быстро устают руки в <a rel=\"nofollow\" href=\"http://search.twitter.com/search?q=%23vim\">#vim</a>"
+}
+=end comment
+
+=end pod

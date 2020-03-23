@@ -1,0 +1,36 @@
+=begin pod :pubdate('2010-04-23T04:47:11Z') :type<note> 
+=NAME 23 апреля - Всемирный день книг и авторского права.
+
+=begin DESCRIPTION
+
+23 апреля - Всемирный день книг и авторского права. - L<link|http://twitter.com/zagru/statuses/12683960604>
+
+
+
+=end DESCRIPTION
+
+23 апреля - Всемирный день книг и авторского права. - L<link|http://twitter.com/zagru/statuses/12683960604>
+
+
+
+=begin comment :src
+{
+  "from": {
+    "type": "user",
+    "id": "zag",
+    "name": "углы «Исимуры»"
+  },
+  "via": {
+    "name": "Twitter",
+    "url": "http://twitter.com/zagru/statuses/12683960604"
+  },
+  "rawLink": "http://twitter.com/zagru/statuses/12683960604",
+  "body": "23 апреля - Всемирный день книг и авторского права.",
+  "date": "2010-04-23T04:47:11Z",
+  "id": "e/0035c1ceffd1ce5571821ef852d55c0b",
+  "url": "http://friendfeed.com/zag/0035c1ce/23",
+  "rawBody": "23 апреля - Всемирный день книг и авторского права."
+}
+=end comment
+
+=end pod

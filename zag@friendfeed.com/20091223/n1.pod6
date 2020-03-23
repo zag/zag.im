@@ -1,0 +1,32 @@
+=begin pod :pubdate('2009-12-23T07:19:43Z') :type<note> :tags<gdd09ru>
+=NAME Видеоматериалы и презентации с конференции  Google Developer Day (Москва) #gdd09ru  http://code.google.com/intl/ru/events/developerday/2009/sessions.html
+
+=begin DESCRIPTION
+
+Видеоматериалы и презентации с конференции  Google Developer Day (Москва) #gdd09ru  http://code.google.com/intl/ru/events/developerday/2009/sessions.html
+
+
+
+=end DESCRIPTION
+
+Видеоматериалы и презентации с конференции  Google Developer Day (Москва) #gdd09ru  http://code.google.com/intl/ru/events/developerday/2009/sessions.html
+
+
+
+=begin comment :src
+{
+  "body": "Видеоматериалы и презентации с конференции  Google Developer Day (Москва) <a href=\"http://friendfeed.com/search?q=%23gdd09ru\">#gdd09ru</a>  <a rel=\"nofollow\" href=\"http://code.google.com/intl/ru/events/developerday/2009/sessions.html\" title=\"http://code.google.com/intl/ru/events/developerday/2009/sessions.html\">http://code.google.com/intl...</a>",
+  "rawLink": "http://friendfeed.com/e/3e3efb6d-9a1f-4b8f-9252-1897a2be25fd",
+  "date": "2009-12-23T07:19:43Z",
+  "id": "e/3e3efb6d9a1f4b8f92521897a2be25fd",
+  "rawBody": "Видеоматериалы и презентации с конференции  Google Developer Day (Москва) #gdd09ru  http://code.google.com/intl/ru/events/developerday/2009/sessions.html",
+  "from": {
+    "id": "zag",
+    "type": "user",
+    "name": "углы «Исимуры»"
+  },
+  "url": "http://friendfeed.com/zag/3e3efb6d/google-developer-day-gdd09ru"
+}
+=end comment
+
+=end pod

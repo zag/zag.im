@@ -1,0 +1,89 @@
+=begin pod :pubdate('2011-03-04 11:45:00') :tags<socialminig mining perl>
+=NAME Реализация социального робота
+
+=begin DESCRIPTION
+
+=for Image :align("left") :preview
+bot_avatar2.png
+
+Полностью код робота опубликован по адресу L<http://github.com/zag/lveeboteg|http://github.com/zag/lveeboteg>. Я пройдусь по основным моментам реализации. 
+
+=end DESCRIPTION
+
+Полностью код робота опубликован по адресу L<http://github.com/zag/lveeboteg|http://github.com/zag/lveeboteg>  N<Инструментарий для синхронизации группы в FriendFeed с twitter аккаунтом. L<http://github.com/zag/lveeboteg|http://github.com/zag/lveeboteg>>.
+На следующей схеме отмечены фактические названия модулей и подпрограмм. Это поможет ориентироваться при изучении исходных кодов. 
+
+=for Image  :caption('Реализация социального робота')
+boteg_2.png
+
+Я пройдусь по основным моментам реализации.
+
+=head2 API FriendFeed
+
+На мой взгляд у этой социальной сети одно из самых простых и доступных в использовании API N<FriendFeed API. L<http://friendfeed.com/api/|http://friendfeed.com/api/>>. 
+
+Вот пример запроса содержимого группы:
+
+    http://friendfeed-api.com/v2/feed/lvee?pretty=1&num=60
+
+Формат вывода - JSON. Его легко преобразовать в массив записей с помощью модуля C<JSON> :
+
+   use JSON; 
+
+   sub fetch_frf {
+   #...
+   my $res=[]
+   if ( $response->is_success ) {                 
+       $res = decode_json( $response->content );  
+    }                                              
+   #...
+   }
+
+Для публикации в сообщений потребуется специальный ключ и login пользователя.
+Поэтому в friendfeed заведен специальный пользователь, от имени которого сообщения из twitter публикуются в friendfeed. При отправке подобных запросов используется http заголовок авторизации:
+
+    $r->header( Authorization => 'Basic '                                
+          . encode_base64( $self->{frf_usr} . ':' . $self->{frf_key} ) );
+    my $response = $ua->request($r);                                     
+
+В FriendFeed есть свой собственный сервис сокращения ссылок. Для доступа к нему необходим запрос с идентификатором заметки:
+
+  my $res  = $self->post_frf( 
+    "http://friendfeed-api.com/v2/short", 
+    [ entry => $e->{entry}->{id} ] );                             
+  $res = $res->{shortUrl} if $res;                                  
+
+Сокращение ссылок необходимо при  отправке сообщений в twitter.
+
+Так как в twitter попадают сообщения администраторов группы, то требуется получить этот список. Для этого используется запрос: L<http://friendfeed-api.com/v2/feedinfo/lvee?pretty=1|http://friendfeed-api.com/v2/feedinfo/lvee?pretty=1>.
+
+=head2 API Twitter
+
+При работе с этим сервисом необходимо уметь получать список последних записей, а также - публиковать новые. Для подобных запросов к API потребуются зарегистрировать робота N< Страница регистрации приложений для Twitter. L<https://dev.twitter.com/apps|https://dev.twitter.com/apps>>.
+
+Для работы с API twiiter используется Perl 5 библиотека L<Net::Twitter|http://search.cpan.org/dist/Net-Twitter/>. 
+
+Подключение и использование библиотеки выглядит следующим образом:
+
+ use Net::Twitter
+ my $nt = Net::Twitter->new(
+    traits              => [qw/OAuth API::REST/],
+    consumer_key        => TWI_CONSUMER_KEY,
+    consumer_secret     => TWI_CONSUMER_SECRET,
+    access_token        => TWI_ACCESS_TOKEN,
+    access_token_secret => TWI_ACCESS_TOKEN_SECRET,
+ );
+
+Значения констант C<TWI_CONSUMER_KEY>, C<TWI_CONSUMER_SECRET>, C<TWI_ACCESS_TOKEN>, C<TWI_ACCESS_TOKEN_SECRET> доступны после регистрации приложения в twitter.
+
+Библиотека упрощает выполнение запроса на получение сообщений:
+
+   $nt->user_timeline( { count => 30 } )
+
+А также публикацию:
+
+    $nt->update( { status => $text } )
+
+При публикации сообщений в twitter требуется соблюдать ограничение в 140 символов. Если не получается опубликовать полностью, размещается сокращенное сообщение, снабженное ссылкой на оригинальное в группе friendfeed.
+
+=end pod

@@ -1,0 +1,32 @@
+=begin pod :pubdate('2010-09-15T07:46:52Z') :type<note> 
+=NAME Забыл поздравить. С днем программиста, Роботы !
+
+=begin DESCRIPTION
+
+Забыл поздравить. С днем программиста, Роботы !
+
+
+
+=end DESCRIPTION
+
+Забыл поздравить. С днем программиста, Роботы !
+
+
+
+=begin comment :src
+{
+  "date": "2010-09-15T07:46:52Z",
+  "id": "e/8124b5d2d5fb4b4b98dafec89ff07c6a",
+  "rawBody": "Забыл поздравить. С днем программиста, Роботы !",
+  "url": "http://friendfeed.com/zag/8124b5d2",
+  "from": {
+    "name": "углы «Исимуры»",
+    "type": "user",
+    "id": "zag"
+  },
+  "rawLink": "http://friendfeed.com/e/8124b5d2-d5fb-4b4b-98da-fec89ff07c6a",
+  "body": "Забыл поздравить. С днем программиста, Роботы !"
+}
+=end comment
+
+=end pod

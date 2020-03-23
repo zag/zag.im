@@ -1,0 +1,36 @@
+=begin pod :pubdate('2011-03-29T09:52:20Z') :type<note> 
+=NAME RT @ycombinatornews: Three Years of Scrum at Socialtext: One Team's Experiences http://bit.ly/hsXTpV
+
+=begin DESCRIPTION
+
+RT @ycombinatornews: Three Years of Scrum at Socialtext: One Team's Experiences http://bit.ly/hsXTpV - L<link|http://twitter.com/zagru/statuses/52669411374534656>
+
+
+
+=end DESCRIPTION
+
+RT @ycombinatornews: Three Years of Scrum at Socialtext: One Team's Experiences http://bit.ly/hsXTpV - L<link|http://twitter.com/zagru/statuses/52669411374534656>
+
+
+
+=begin comment :src
+{
+  "body": "RT @<a rel=\"nofollow\" href=\"http://twitter.com/ycombinatornews\">ycombinatornews</a>: Three Years of Scrum at Socialtext: One Team's Experiences <a rel=\"nofollow\" href=\"http://bit.ly/hsXTpV\" title=\"http://www.softwarequalityconnection.com/2011/03/three-years-of-scrum-at-socialtext/\">http://www.softwarequalityconnection.com/2011...</a>",
+  "rawLink": "http://twitter.com/zagru/statuses/52669411374534656",
+  "id": "e/61757fe7f6c30efd7cd7f0ac032efe89",
+  "date": "2011-03-29T09:52:20Z",
+  "url": "http://friendfeed.com/zag/61757fe7/rt-ycombinatornews-three-years-of-scrum-at",
+  "rawBody": "RT @ycombinatornews: Three Years of Scrum at Socialtext: One Team's Experiences http://bit.ly/hsXTpV",
+  "via": {
+    "name": "Twitter",
+    "url": "http://twitter.com/zagru/statuses/52669411374534656"
+  },
+  "from": {
+    "type": "user",
+    "id": "zag",
+    "name": "углы «Исимуры»"
+  }
+}
+=end comment
+
+=end pod

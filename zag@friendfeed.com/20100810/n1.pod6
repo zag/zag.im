@@ -1,0 +1,48 @@
+=begin pod :pubdate('2010-08-10T19:11:44Z') :type<note> 
+=NAME Прохладный вечер
+
+=begin DESCRIPTION
+
+Прохладный вечер
+=for Image :width(233) :link('http://m.friendfeed-media.com/24afe5e4e8a13fd614db76e2cd37ee323970e033') :height(175) :preview
+media/b24d6268f437e209ca559722a647ffbb09590389.jpg
+
+
+
+=end DESCRIPTION
+
+Прохладный вечер
+=for Image :width(233) :link('http://m.friendfeed-media.com/24afe5e4e8a13fd614db76e2cd37ee323970e033') :height(175) :preview
+media/b24d6268f437e209ca559722a647ffbb09590389.jpg
+
+
+
+=begin comment :src
+{
+  "via": {
+    "name": "email",
+    "url": "http://friendfeed.com/share/mail"
+  },
+  "from": {
+    "name": "углы «Исимуры»",
+    "type": "user",
+    "id": "zag"
+  },
+  "body": "Прохладный вечер",
+  "rawLink": "http://friendfeed.com/e/09c7163f-8bc7-42e8-bcd2-087757d1d8d1",
+  "id": "e/09c7163f8bc742e8bcd2087757d1d8d1",
+  "date": "2010-08-10T19:11:44Z",
+  "rawBody": "Прохладный вечер",
+  "thumbnails": [
+    {
+      "url": "http://m.friendfeed-media.com/b24d6268f437e209ca559722a647ffbb09590389",
+      "width": 233,
+      "link": "http://m.friendfeed-media.com/24afe5e4e8a13fd614db76e2cd37ee323970e033",
+      "height": 175
+    }
+  ],
+  "url": "http://friendfeed.com/zag/09c7163f"
+}
+=end comment
+
+=end pod

@@ -1,0 +1,36 @@
+=begin pod :pubdate('2009-05-18T08:01:00Z') :type<note> 
+=NAME http://twitterfox.net/
+
+=begin DESCRIPTION
+
+http://twitterfox.net/ - L<link|http://twitter.com/zagru/statuses/1833939584>
+
+
+
+=end DESCRIPTION
+
+http://twitterfox.net/ - L<link|http://twitter.com/zagru/statuses/1833939584>
+
+
+
+=begin comment :src
+{
+  "from": {
+    "type": "user",
+    "id": "zag",
+    "name": "углы «Исимуры»"
+  },
+  "via": {
+    "url": "http://twitter.com/zagru/statuses/1833939584",
+    "name": "Twitter"
+  },
+  "url": "http://friendfeed.com/zag/3b367f54",
+  "id": "e/3b367f54a834985f33fbd9e21717488b",
+  "date": "2009-05-18T08:01:00Z",
+  "rawBody": "http://twitterfox.net/",
+  "body": "<a rel=\"nofollow\" href=\"http://twitterfox.net/\">http://twitterfox.net/</a>",
+  "rawLink": "http://twitter.com/zagru/statuses/1833939584"
+}
+=end comment
+
+=end pod

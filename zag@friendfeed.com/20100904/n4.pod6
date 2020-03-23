@@ -1,0 +1,58 @@
+=begin pod :pubdate('2010-09-04T05:53:18Z') :type<note> 
+=NAME Google's TV Previewed at IFA, Suddenly Not the Smartest Kid on the Block
+
+=begin DESCRIPTION
+
+Google's TV Previewed at IFA, Suddenly Not the Smartest Kid on the Block - L<link|http://www.fastcompany.com/1686831/googles-tv-previewed-at-ifa-suddenly-not-the-smartest-kid-on-the-block?partner=rss&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+fastcompany%2Fheadlines+%28Fast+Company+Headlines%29&utm_content=FriendFeed+Bot>
+=for Image :width(121) :link('http://www.fastcompany.com/1686831/googles-tv-previewed-at-ifa-suddenly-not-the-smartest-kid-on-the-block?partner=rss&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+fastcompany%2Fheadlines+%28Fast+Company+Headlines%29&utm_content=FriendFeed+Bot') :height(175) :preview
+media/7b34da404b82de66f17aab34603995915c18a388.jpg
+=for Image :width(525) :link('http://www.fastcompany.com/1686831/googles-tv-previewed-at-ifa-suddenly-not-the-smartest-kid-on-the-block?partner=rss&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+fastcompany%2Fheadlines+%28Fast+Company+Headlines%29&utm_content=FriendFeed+Bot') :height(170) :preview
+media/dc5693ceea8e4629bfe907341603ac6df5caaa0e.jpg
+
+
+
+=end DESCRIPTION
+
+Google's TV Previewed at IFA, Suddenly Not the Smartest Kid on the Block - L<link|http://www.fastcompany.com/1686831/googles-tv-previewed-at-ifa-suddenly-not-the-smartest-kid-on-the-block?partner=rss&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+fastcompany%2Fheadlines+%28Fast+Company+Headlines%29&utm_content=FriendFeed+Bot>
+=for Image :width(121) :link('http://www.fastcompany.com/1686831/googles-tv-previewed-at-ifa-suddenly-not-the-smartest-kid-on-the-block?partner=rss&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+fastcompany%2Fheadlines+%28Fast+Company+Headlines%29&utm_content=FriendFeed+Bot') :height(175) :preview
+media/7b34da404b82de66f17aab34603995915c18a388.jpg
+=for Image :width(525) :link('http://www.fastcompany.com/1686831/googles-tv-previewed-at-ifa-suddenly-not-the-smartest-kid-on-the-block?partner=rss&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+fastcompany%2Fheadlines+%28Fast+Company+Headlines%29&utm_content=FriendFeed+Bot') :height(170) :preview
+media/dc5693ceea8e4629bfe907341603ac6df5caaa0e.jpg
+
+
+
+=begin comment :src
+{
+  "via": {
+    "name": "Bookmarklet",
+    "url": "http://friendfeed.com/share/bookmarklet"
+  },
+  "from": {
+    "id": "zag",
+    "type": "user",
+    "name": "углы «Исимуры»"
+  },
+  "body": "Google's TV Previewed at IFA, Suddenly Not the Smartest Kid on the Block - <a rel=\"nofollow\" href=\"http://www.fastcompany.com/1686831/googles-tv-previewed-at-ifa-suddenly-not-the-smartest-kid-on-the-block?partner=rss&amp;utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+fastcompany%2Fheadlines+%28Fast+Company+Headlines%29&amp;utm_content=FriendFeed+Bot\" title=\"http://www.fastcompany.com/1686831/googles-tv-previewed-at-ifa-suddenly-not-the-smartest-kid-on-the-block?partner=rss&amp;utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+fastcompany%2Fheadlines+%28Fast+Company+Headlines%29&amp;utm_content=FriendFeed+Bot\">http://www.fastcompany.com/1686831...</a>",
+  "rawLink": "http://www.fastcompany.com/1686831/googles-tv-previewed-at-ifa-suddenly-not-the-smartest-kid-on-the-block?partner=rss&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+fastcompany%2Fheadlines+%28Fast+Company+Headlines%29&utm_content=FriendFeed+Bot",
+  "date": "2010-09-04T05:53:18Z",
+  "id": "e/3f3ebf1df8a54b89803ca98e8c698811",
+  "url": "http://friendfeed.com/zag/3f3ebf1d/google-tv-previewed-at-ifa-suddenly-not",
+  "rawBody": "Google's TV Previewed at IFA, Suddenly Not the Smartest Kid on the Block",
+  "thumbnails": [
+    {
+      "width": 121,
+      "url": "http://m.friendfeed-media.com/7b34da404b82de66f17aab34603995915c18a388",
+      "link": "http://www.fastcompany.com/1686831/googles-tv-previewed-at-ifa-suddenly-not-the-smartest-kid-on-the-block?partner=rss&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+fastcompany%2Fheadlines+%28Fast+Company+Headlines%29&utm_content=FriendFeed+Bot",
+      "height": 175
+    },
+    {
+      "width": 525,
+      "url": "http://m.friendfeed-media.com/dc5693ceea8e4629bfe907341603ac6df5caaa0e",
+      "height": 170,
+      "link": "http://www.fastcompany.com/1686831/googles-tv-previewed-at-ifa-suddenly-not-the-smartest-kid-on-the-block?partner=rss&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+fastcompany%2Fheadlines+%28Fast+Company+Headlines%29&utm_content=FriendFeed+Bot"
+    }
+  ]
+}
+=end comment
+
+=end pod

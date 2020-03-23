@@ -1,0 +1,36 @@
+=begin pod :pubdate('2009-10-15T06:56:04Z') :type<note> 
+=NAME Пришло два письма от гугла: приглашение в wave и особое (!) приглашение на google developer day. Может праздник сегодня какой ?
+
+=begin DESCRIPTION
+
+Пришло два письма от гугла: приглашение в wave и особое (!) приглашение на google developer day. Может праздник сегодня какой ? - L<link|http://twitter.com/zagru/statuses/4883416030>
+
+
+
+=end DESCRIPTION
+
+Пришло два письма от гугла: приглашение в wave и особое (!) приглашение на google developer day. Может праздник сегодня какой ? - L<link|http://twitter.com/zagru/statuses/4883416030>
+
+
+
+=begin comment :src
+{
+  "via": {
+    "name": "Twitter",
+    "url": "http://twitter.com/zagru/statuses/4883416030"
+  },
+  "from": {
+    "id": "zag",
+    "type": "user",
+    "name": "углы «Исимуры»"
+  },
+  "date": "2009-10-15T06:56:04Z",
+  "id": "e/d9990bd25bb9cf2f5a9ba671bffc5d57",
+  "rawBody": "Пришло два письма от гугла: приглашение в wave и особое (!) приглашение на google developer day. Может праздник сегодня какой ?",
+  "url": "http://friendfeed.com/zag/d9990bd2/wave-google-developer-day",
+  "rawLink": "http://twitter.com/zagru/statuses/4883416030",
+  "body": "Пришло два письма от гугла: приглашение в wave и особое (!) приглашение на google developer day. Может праздник сегодня какой ?"
+}
+=end comment
+
+=end pod

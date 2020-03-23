@@ -1,0 +1,48 @@
+=begin pod :pubdate('2011-08-04T06:47:40Z') :type<note> 
+=NAME Fujitsu Announces Smartphone Dual-booting: Symbian, Windows 7
+
+=begin DESCRIPTION
+
+Fujitsu Announces Smartphone Dual-booting: Symbian, Windows 7 - L<link|http://www.osnews.com/story/24985/Fujitsu_Announces_Smartphone_Dual-booting_Symbian_Windows_7>
+=for Image :width(257) :link('http://www.osnews.com/story/24985/Fujitsu_Announces_Smartphone_Dual-booting_Symbian_Windows_7') :height(175) :preview
+media/957131ba9e2bbacdd07e159364fb9bc7eadfbec3.jpg
+
+
+
+=end DESCRIPTION
+
+Fujitsu Announces Smartphone Dual-booting: Symbian, Windows 7 - L<link|http://www.osnews.com/story/24985/Fujitsu_Announces_Smartphone_Dual-booting_Symbian_Windows_7>
+=for Image :width(257) :link('http://www.osnews.com/story/24985/Fujitsu_Announces_Smartphone_Dual-booting_Symbian_Windows_7') :height(175) :preview
+media/957131ba9e2bbacdd07e159364fb9bc7eadfbec3.jpg
+
+
+
+=begin comment :src
+{
+  "rawLink": "http://www.osnews.com/story/24985/Fujitsu_Announces_Smartphone_Dual-booting_Symbian_Windows_7",
+  "body": "Fujitsu Announces Smartphone Dual-booting: Symbian, Windows 7 - <a rel=\"nofollow\" href=\"http://www.osnews.com/story/24985/Fujitsu_Announces_Smartphone_Dual-booting_Symbian_Windows_7\" title=\"http://www.osnews.com/story/24985/Fujitsu_Announces_Smartphone_Dual-booting_Symbian_Windows_7\">http://www.osnews.com/story...</a>",
+  "url": "http://friendfeed.com/zag/96ee603a/fujitsu-announces-smartphone-dual-booting",
+  "id": "e/96ee603a318e47a0a6dc32263ab0064e",
+  "date": "2011-08-04T06:47:40Z",
+  "rawBody": "Fujitsu Announces Smartphone Dual-booting: Symbian, Windows 7",
+  "thumbnails": [
+    {
+      "height": 175,
+      "link": "http://www.osnews.com/story/24985/Fujitsu_Announces_Smartphone_Dual-booting_Symbian_Windows_7",
+      "url": "http://m.friendfeed-media.com/957131ba9e2bbacdd07e159364fb9bc7eadfbec3",
+      "width": 257
+    }
+  ],
+  "via": {
+    "name": "Bookmarklet",
+    "url": "http://friendfeed.com/share/bookmarklet"
+  },
+  "from": {
+    "id": "zag",
+    "type": "user",
+    "name": "углы «Исимуры»"
+  }
+}
+=end comment
+
+=end pod

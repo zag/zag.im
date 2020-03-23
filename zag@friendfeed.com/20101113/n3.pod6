@@ -1,0 +1,91 @@
+=begin pod :pubdate('2010-11-13T05:22:45Z') :type<note> 
+=NAME Fwd: The REAL connection speeds for Internet users across the world (charts) - http://royal.pingdom.com/2010/11/12/real-connection-speeds-for-internet-users-across-the-world/ (via http://ff.im/tEmNp)
+
+=begin DESCRIPTION
+
+Fwd: The REAL connection speeds for Internet users across the world (charts) - http://royal.pingdom.com/2010/11/12/real-connection-speeds-for-internet-users-across-the-world/ (via http://ff.im/tEmNp)
+=for Image :width(92) :link('http://royal.pingdom.com/2010/11/12/real-connection-speeds-for-internet-users-across-the-world/') :height(175) :preview
+media/ffab9db627d1a6521fd4a34063f8df6109a5b439.jpg
+=for Image :width(92) :link('http://royal.pingdom.com/2010/11/12/real-connection-speeds-for-internet-users-across-the-world/') :height(175) :preview
+media/4232a1d2dc254672c1d3d5619553988c9c25b427.jpg
+=for Image :width(525) :link('http://royal.pingdom.com/2010/11/12/real-connection-speeds-for-internet-users-across-the-world/') :height(136) :preview
+media/76f67f68eae442e843fd9547ea8af824c0739f20.jpg
+
+
+
+=end DESCRIPTION
+
+Fwd: The REAL connection speeds for Internet users across the world (charts) - http://royal.pingdom.com/2010/11/12/real-connection-speeds-for-internet-users-across-the-world/ (via http://ff.im/tEmNp)
+=for Image :width(92) :link('http://royal.pingdom.com/2010/11/12/real-connection-speeds-for-internet-users-across-the-world/') :height(175) :preview
+media/ffab9db627d1a6521fd4a34063f8df6109a5b439.jpg
+=for Image :width(92) :link('http://royal.pingdom.com/2010/11/12/real-connection-speeds-for-internet-users-across-the-world/') :height(175) :preview
+media/4232a1d2dc254672c1d3d5619553988c9c25b427.jpg
+=for Image :width(525) :link('http://royal.pingdom.com/2010/11/12/real-connection-speeds-for-internet-users-across-the-world/') :height(136) :preview
+media/76f67f68eae442e843fd9547ea8af824c0739f20.jpg
+
+
+
+=begin comment :src
+{
+  "body": "Fwd: The REAL connection speeds for Internet users across the world (charts) - <a rel=\"nofollow\" href=\"http://royal.pingdom.com/2010/11/12/real-connection-speeds-for-internet-users-across-the-world/\" title=\"http://royal.pingdom.com/2010/11/12/real-connection-speeds-for-internet-users-across-the-world/\">http://royal.pingdom.com/2010...</a> (via <a href=\"http://ff.im/tEmNp\" title=\"http://friendfeed.com/the-next-web/c0124bf3/real-connection-speeds-for-internet-users\">http://friendfeed.com/the-nex...</a>)",
+  "likes": [
+    {
+      "from": {
+        "name": "Kevin Johnson",
+        "private": true,
+        "type": "user",
+        "id": "aloofschipperke"
+      },
+      "date": "2010-11-28T17:34:45Z"
+    },
+    {
+      "date": "2010-11-13T12:28:14Z",
+      "from": {
+        "name": "citrin",
+        "id": "citrin",
+        "type": "user"
+      }
+    },
+    {
+      "from": {
+        "name": "alex@kapranoff.ru",
+        "type": "user",
+        "id": "kkapp"
+      },
+      "date": "2010-11-13T11:24:50Z"
+    }
+  ],
+  "rawLink": "http://friendfeed.com/e/266ef124-86f0-41a7-bd0d-3d87f39cbe6f",
+  "date": "2010-11-13T05:22:45Z",
+  "id": "e/266ef12486f041a7bd0d3d87f39cbe6f",
+  "url": "http://friendfeed.com/zag/266ef124/fwd-real-connection-speeds-for-internet-users",
+  "rawBody": "Fwd: The REAL connection speeds for Internet users across the world (charts) - http://royal.pingdom.com/2010/11/12/real-connection-speeds-for-internet-users-across-the-world/ (via http://ff.im/tEmNp)",
+  "thumbnails": [
+    {
+      "width": 92,
+      "url": "http://m.friendfeed-media.com/ffab9db627d1a6521fd4a34063f8df6109a5b439",
+      "link": "http://royal.pingdom.com/2010/11/12/real-connection-speeds-for-internet-users-across-the-world/",
+      "height": 175
+    },
+    {
+      "url": "http://m.friendfeed-media.com/4232a1d2dc254672c1d3d5619553988c9c25b427",
+      "width": 92,
+      "height": 175,
+      "link": "http://royal.pingdom.com/2010/11/12/real-connection-speeds-for-internet-users-across-the-world/"
+    },
+    {
+      "url": "http://m.friendfeed-media.com/76f67f68eae442e843fd9547ea8af824c0739f20",
+      "width": 525,
+      "link": "http://royal.pingdom.com/2010/11/12/real-connection-speeds-for-internet-users-across-the-world/",
+      "height": 136
+    }
+  ],
+  "from": {
+    "id": "zag",
+    "type": "user",
+    "name": "углы «Исимуры»"
+  }
+}
+=end comment
+
+=end pod

@@ -1,0 +1,137 @@
+=begin pod :pubdate('2010-03-02T18:12:07Z') :type<note> :tags<starcraft2>
+=NAME Опробовал StarСraft 2.  Графика хороша. Обновлять железо не придется.  #starcraft2
+
+=begin DESCRIPTION
+
+Опробовал StarСraft 2.  Графика хороша. Обновлять железо не придется.  #starcraft2
+=for Image :width(280) :link('http://m.friendfeed-media.com/72721543f3bc1dd9bcc83ef9dea6858761c2f8c7') :height(175) :preview
+media/086090c1971ddd64ec43c7bcc21cbdf2469fc2fc.jpg
+=for Image :width(280) :link('http://m.friendfeed-media.com/0532a0db0f7e62d2222e4d0905e5c9f080547ad5') :height(175) :preview
+media/abca3f6130b633bf608d32bbfdb1671ad818f040.jpg
+=for Image :width(280) :link('http://m.friendfeed-media.com/91b3bebb573cbecef0e93180dca64e916615d840') :height(175) :preview
+media/5dad1f31db3685be2d9e6d48540b974189683607.jpg
+=for Image :width(280) :link('http://m.friendfeed-media.com/532604540ef1cdb49ae08d6664bcb420ebc26cf8') :height(175) :preview
+media/ae9379e1d9755c92bf180a38717b5d96eaf4c1e3.jpg
+
+=item А как его можно опробовать???
+=item http://rutor.org/torrent/37565/starcraft-2-wings-of-liberty-beta-sandbox-solo-igra-2010-pc
+
+
+=end DESCRIPTION
+
+Опробовал StarСraft 2.  Графика хороша. Обновлять железо не придется.  #starcraft2
+=for Image :width(280) :link('http://m.friendfeed-media.com/72721543f3bc1dd9bcc83ef9dea6858761c2f8c7') :height(175) :preview
+media/086090c1971ddd64ec43c7bcc21cbdf2469fc2fc.jpg
+=for Image :width(280) :link('http://m.friendfeed-media.com/0532a0db0f7e62d2222e4d0905e5c9f080547ad5') :height(175) :preview
+media/abca3f6130b633bf608d32bbfdb1671ad818f040.jpg
+=for Image :width(280) :link('http://m.friendfeed-media.com/91b3bebb573cbecef0e93180dca64e916615d840') :height(175) :preview
+media/5dad1f31db3685be2d9e6d48540b974189683607.jpg
+=for Image :width(280) :link('http://m.friendfeed-media.com/532604540ef1cdb49ae08d6664bcb420ebc26cf8') :height(175) :preview
+media/ae9379e1d9755c92bf180a38717b5d96eaf4c1e3.jpg
+
+=item А как его можно опробовать???
+=item http://rutor.org/torrent/37565/starcraft-2-wings-of-liberty-beta-sandbox-solo-igra-2010-pc
+
+
+=begin comment :src
+{
+  "from": {
+    "id": "zag",
+    "type": "user",
+    "name": "углы «Исимуры»"
+  },
+  "comments": [
+    {
+      "rawBody": "А как его можно опробовать???",
+      "from": {
+        "id": "kkapp",
+        "type": "user",
+        "name": "alex@kapranoff.ru"
+      },
+      "id": "e/b90e3d6180544b23b6a3fc7406c827fc/c/ef35e3262912454ba8588626fe74c431",
+      "date": "2010-03-02T18:12:54Z",
+      "body": "А как его можно опробовать???"
+    },
+    {
+      "body": "<a rel=\"nofollow\" href=\"http://rutor.org/torrent/37565/starcraft-2-wings-of-liberty-beta-sandbox-solo-igra-2010-pc\" title=\"http://rutor.org/torrent/37565/starcraft-2-wings-of-liberty-beta-sandbox-solo-igra-2010-pc\">http://rutor.org/torrent...</a>",
+      "from": {
+        "id": "zag",
+        "type": "user",
+        "name": "углы «Исимуры»"
+      },
+      "rawBody": "http://rutor.org/torrent/37565/starcraft-2-wings-of-liberty-beta-sandbox-solo-igra-2010-pc",
+      "id": "e/b90e3d6180544b23b6a3fc7406c827fc/c/18de65b016db42fcbe41b600908958da",
+      "date": "2010-03-02T18:14:07Z"
+    }
+  ],
+  "id": "e/b90e3d6180544b23b6a3fc7406c827fc",
+  "date": "2010-03-02T18:12:07Z",
+  "rawBody": "Опробовал StarСraft 2.  Графика хороша. Обновлять железо не придется.  #starcraft2",
+  "thumbnails": [
+    {
+      "url": "http://m.friendfeed-media.com/086090c1971ddd64ec43c7bcc21cbdf2469fc2fc",
+      "width": 280,
+      "height": 175,
+      "link": "http://m.friendfeed-media.com/72721543f3bc1dd9bcc83ef9dea6858761c2f8c7"
+    },
+    {
+      "link": "http://m.friendfeed-media.com/0532a0db0f7e62d2222e4d0905e5c9f080547ad5",
+      "height": 175,
+      "url": "http://m.friendfeed-media.com/abca3f6130b633bf608d32bbfdb1671ad818f040",
+      "width": 280
+    },
+    {
+      "link": "http://m.friendfeed-media.com/91b3bebb573cbecef0e93180dca64e916615d840",
+      "height": 175,
+      "width": 280,
+      "url": "http://m.friendfeed-media.com/5dad1f31db3685be2d9e6d48540b974189683607"
+    },
+    {
+      "width": 280,
+      "url": "http://m.friendfeed-media.com/ae9379e1d9755c92bf180a38717b5d96eaf4c1e3",
+      "height": 175,
+      "link": "http://m.friendfeed-media.com/532604540ef1cdb49ae08d6664bcb420ebc26cf8"
+    }
+  ],
+  "url": "http://friendfeed.com/zag/b90e3d61/starraft-2-starcraft2",
+  "body": "Опробовал StarСraft 2.  Графика хороша. Обновлять железо не придется.  <a href=\"http://friendfeed.com/search?q=%23starcraft2\">#starcraft2</a>",
+  "likes": [
+    {
+      "date": "2010-03-03T08:24:12Z",
+      "from": {
+        "type": "user",
+        "id": "citrin",
+        "name": "citrin"
+      }
+    },
+    {
+      "from": {
+        "id": "numbata",
+        "type": "user",
+        "name": "пятница суббота"
+      },
+      "date": "2010-03-02T20:22:30Z"
+    },
+    {
+      "from": {
+        "type": "user",
+        "id": "philsmirnov",
+        "name": "Phil Smirnov"
+      },
+      "date": "2010-03-02T19:54:10Z"
+    },
+    {
+      "date": "2010-03-02T18:29:26Z",
+      "from": {
+        "private": true,
+        "id": "gluek",
+        "type": "user",
+        "name": "лайкнул напоследок"
+      }
+    }
+  ],
+  "rawLink": "http://friendfeed.com/e/b90e3d61-8054-4b23-b6a3-fc7406c827fc"
+}
+=end comment
+
+=end pod

@@ -1,0 +1,184 @@
+=begin pod :pubdate('2009-12-08T12:33:19Z') :type<note> 
+=NAME Админская комната в last.fm. (Часы с указанием времени обеда)
+
+=begin DESCRIPTION
+
+Админская комната в last.fm. (Часы с указанием времени обеда) - L<link|http://blog.last.fm/2009/12/07/launching-xbox-part-1-the-war-room>
+=for Image :width(233) :link('http://blog.last.fm/2009/12/07/launching-xbox-part-1-the-war-room') :height(175) :preview
+media/124f48775d03d68c935086f963b04a4537a01667.jpg
+=for Image :width(233) :link('http://blog.last.fm/2009/12/07/launching-xbox-part-1-the-war-room') :height(175) :preview
+media/9427bd2eb28343afff54e0c9de2ed5403ec5a1af.jpg
+=for Image :width(233) :link('http://blog.last.fm/2009/12/07/launching-xbox-part-1-the-war-room') :height(175) :preview
+media/a84d2ad365359c7032f71e65b53ab1ce4e170133.jpg
+
+=item Every spare 24” monitor in the office, two projectors, a few PCs and an awesome projector clock for a true “war room” style display (and to indicate food time).
+=item в ибее это выглядит почти так же, но умноженное примерно на семь (всего во столько раз больше)
+
+
+=end DESCRIPTION
+
+Админская комната в last.fm. (Часы с указанием времени обеда) - L<link|http://blog.last.fm/2009/12/07/launching-xbox-part-1-the-war-room>
+=for Image :width(233) :link('http://blog.last.fm/2009/12/07/launching-xbox-part-1-the-war-room') :height(175) :preview
+media/124f48775d03d68c935086f963b04a4537a01667.jpg
+=for Image :width(233) :link('http://blog.last.fm/2009/12/07/launching-xbox-part-1-the-war-room') :height(175) :preview
+media/9427bd2eb28343afff54e0c9de2ed5403ec5a1af.jpg
+=for Image :width(233) :link('http://blog.last.fm/2009/12/07/launching-xbox-part-1-the-war-room') :height(175) :preview
+media/a84d2ad365359c7032f71e65b53ab1ce4e170133.jpg
+
+=item Every spare 24” monitor in the office, two projectors, a few PCs and an awesome projector clock for a true “war room” style display (and to indicate food time).
+=item в ибее это выглядит почти так же, но умноженное примерно на семь (всего во столько раз больше)
+
+
+=begin comment :src
+{
+  "body": "Админская комната в last.fm. (Часы с указанием времени обеда) - <a rel=\"nofollow\" href=\"http://blog.last.fm/2009/12/07/launching-xbox-part-1-the-war-room\" title=\"http://blog.last.fm/2009/12/07/launching-xbox-part-1-the-war-room\">http://blog.last.fm/2009...</a>",
+  "rawLink": "http://blog.last.fm/2009/12/07/launching-xbox-part-1-the-war-room",
+  "likes": [
+    {
+      "from": {
+        "type": "user",
+        "id": "elenashuvalova",
+        "private": true,
+        "name": "Elena Shuvalova"
+      },
+      "date": "2009-12-09T06:21:35Z"
+    },
+    {
+      "date": "2009-12-08T20:51:32Z",
+      "from": {
+        "name": "Peter Fedin",
+        "id": "lothar",
+        "type": "user"
+      }
+    },
+    {
+      "from": {
+        "id": "citrin",
+        "type": "user",
+        "name": "citrin"
+      },
+      "date": "2009-12-08T20:26:13Z"
+    },
+    {
+      "date": "2009-12-08T17:38:27Z",
+      "from": {
+        "name": "Kirill A. Korinskiy",
+        "type": "user",
+        "id": "catap"
+      }
+    },
+    {
+      "date": "2009-12-08T17:33:08Z",
+      "from": {
+        "type": "user",
+        "id": "tiotiosan",
+        "name": "Тио"
+      }
+    },
+    {
+      "date": "2009-12-08T17:30:30Z",
+      "from": {
+        "private": true,
+        "id": "corvin",
+        "type": "user",
+        "name": "Alexey Melchakov"
+      }
+    },
+    {
+      "from": {
+        "id": "alterego",
+        "type": "user",
+        "name": "make some noise"
+      },
+      "date": "2009-12-08T17:28:38Z"
+    },
+    {
+      "date": "2009-12-08T17:03:39Z",
+      "from": {
+        "name": "ptzn",
+        "type": "user",
+        "id": "ptzn"
+      }
+    },
+    {
+      "from": {
+        "name": "brain",
+        "id": "jbrain",
+        "type": "user"
+      },
+      "date": "2009-12-08T16:57:40Z"
+    },
+    {
+      "from": {
+        "type": "user",
+        "id": "kkapp",
+        "name": "alex@kapranoff.ru"
+      },
+      "date": "2009-12-08T16:51:28Z"
+    }
+  ],
+  "id": "e/f41737bfbbca4976a6f134c8f2d275c8",
+  "date": "2009-12-08T12:33:19Z",
+  "rawBody": "Админская комната в last.fm. (Часы с указанием времени обеда)",
+  "thumbnails": [
+    {
+      "link": "http://blog.last.fm/2009/12/07/launching-xbox-part-1-the-war-room",
+      "height": 175,
+      "url": "http://m.friendfeed-media.com/124f48775d03d68c935086f963b04a4537a01667",
+      "width": 233
+    },
+    {
+      "url": "http://m.friendfeed-media.com/9427bd2eb28343afff54e0c9de2ed5403ec5a1af",
+      "width": 233,
+      "link": "http://blog.last.fm/2009/12/07/launching-xbox-part-1-the-war-room",
+      "height": 175
+    },
+    {
+      "height": 175,
+      "link": "http://blog.last.fm/2009/12/07/launching-xbox-part-1-the-war-room",
+      "url": "http://m.friendfeed-media.com/a84d2ad365359c7032f71e65b53ab1ce4e170133",
+      "width": 233
+    }
+  ],
+  "url": "http://friendfeed.com/zag/f41737bf/last-fm",
+  "comments": [
+    {
+      "date": "2009-12-08T12:33:19Z",
+      "id": "e/f41737bfbbca4976a6f134c8f2d275c8/c/b6303a4ff497461684d3ded742494841",
+      "rawBody": "Every spare 24” monitor in the office, two projectors, a few PCs and an awesome projector clock for a true “war room” style display (and to indicate food time).",
+      "from": {
+        "name": "углы «Исимуры»",
+        "type": "user",
+        "id": "zag"
+      },
+      "via": {
+        "url": "http://friendfeed.com/share/bookmarklet",
+        "name": "Bookmarklet"
+      },
+      "body": "Every spare 24” monitor in the office, two projectors, a few PCs and an awesome projector clock for a true “war room” style display (and to indicate food time)."
+    },
+    {
+      "rawBody": "в ибее это выглядит почти так же, но умноженное примерно на семь (всего во столько раз больше)",
+      "id": "e/f41737bfbbca4976a6f134c8f2d275c8/c/b39b0ee671214e8ba4d78ac7b4d9e2d8",
+      "from": {
+        "type": "user",
+        "id": "earlyadopter",
+        "name": "earlyadopter"
+      },
+      "date": "2009-12-08T17:27:54Z",
+      "body": "в ибее это выглядит почти так же, но умноженное примерно на семь (всего во столько раз больше)"
+    }
+  ],
+  "via": {
+    "name": "Bookmarklet",
+    "url": "http://friendfeed.com/share/bookmarklet"
+  },
+  "from": {
+    "name": "углы «Исимуры»",
+    "type": "user",
+    "id": "zag"
+  }
+}
+=end comment
+
+=end pod

@@ -1,0 +1,32 @@
+=begin pod :pubdate('2011-10-20T13:34:00Z') :type<note> :tags<perl6>
+=NAME Теперь я в тиме. В тиме #perl6.
+
+=begin DESCRIPTION
+
+Теперь я в тиме. В тиме #perl6.
+
+
+
+=end DESCRIPTION
+
+Теперь я в тиме. В тиме #perl6.
+
+
+
+=begin comment :src
+{
+  "body": "Теперь я в тиме. В тиме <a href=\"http://friendfeed.com/search?q=%23perl6\">#perl6</a>.",
+  "rawLink": "http://friendfeed.com/e/e0533db3-598f-47f5-82d6-fbca2f4d6486",
+  "date": "2011-10-20T13:34:00Z",
+  "id": "e/e0533db3598f47f582d6fbca2f4d6486",
+  "rawBody": "Теперь я в тиме. В тиме #perl6.",
+  "url": "http://friendfeed.com/zag/e0533db3/perl6",
+  "from": {
+    "type": "user",
+    "id": "zag",
+    "name": "углы «Исимуры»"
+  }
+}
+=end comment
+
+=end pod

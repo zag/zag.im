@@ -1,0 +1,54 @@
+=begin pod :pubdate('2011-10-24T07:38:04Z') :type<note> :tags<freebsd>
+=NAME Новый sysinstall в #freebsd умеет еще и сеть wifi сетапить.
+
+=begin DESCRIPTION
+
+Новый sysinstall в #freebsd умеет еще и сеть wifi сетапить.
+=for Image :width(295) :link('http://m.friendfeed-media.com/ae098eaefe66ad0aac916461359814ef67109234') :height(175) :preview
+media/ec1130ede26ed513382cd9db0a228351ef579d62.jpg
+=for Image :width(295) :link('http://m.friendfeed-media.com/9e413d69db3eadea9949e9d5bed6e3b55ffbfffb') :height(175) :preview
+media/50e31d00975fdc99254ecb927236838d2131c43c.jpg
+
+
+
+=end DESCRIPTION
+
+Новый sysinstall в #freebsd умеет еще и сеть wifi сетапить.
+=for Image :width(295) :link('http://m.friendfeed-media.com/ae098eaefe66ad0aac916461359814ef67109234') :height(175) :preview
+media/ec1130ede26ed513382cd9db0a228351ef579d62.jpg
+=for Image :width(295) :link('http://m.friendfeed-media.com/9e413d69db3eadea9949e9d5bed6e3b55ffbfffb') :height(175) :preview
+media/50e31d00975fdc99254ecb927236838d2131c43c.jpg
+
+
+
+=begin comment :src
+{
+  "rawLink": "http://friendfeed.com/e/46d1c184-0fef-43d5-a857-7850152df4a4",
+  "body": "Новый sysinstall в <a href=\"http://friendfeed.com/search?q=%23freebsd\">#freebsd</a> умеет еще и сеть wifi сетапить.",
+  "date": "2011-10-24T07:38:04Z",
+  "id": "e/46d1c1840fef43d5a8577850152df4a4",
+  "rawBody": "Новый sysinstall в #freebsd умеет еще и сеть wifi сетапить.",
+  "url": "http://friendfeed.com/zag/46d1c184/sysinstall-freebsd-wifi",
+  "thumbnails": [
+    {
+      "width": 295,
+      "url": "http://m.friendfeed-media.com/ec1130ede26ed513382cd9db0a228351ef579d62",
+      "link": "http://m.friendfeed-media.com/ae098eaefe66ad0aac916461359814ef67109234",
+      "height": 175
+    },
+    {
+      "height": 175,
+      "link": "http://m.friendfeed-media.com/9e413d69db3eadea9949e9d5bed6e3b55ffbfffb",
+      "url": "http://m.friendfeed-media.com/50e31d00975fdc99254ecb927236838d2131c43c",
+      "width": 295
+    }
+  ],
+  "from": {
+    "id": "zag",
+    "type": "user",
+    "name": "углы «Исимуры»"
+  }
+}
+=end comment
+
+=end pod

@@ -1,0 +1,126 @@
+=begin pod :pubdate('2011-07-25T12:18:44Z') :type<note> 
+=NAME Paleolithic diet - Wikipedia, the free encyclopedia
+
+=begin DESCRIPTION
+
+Paleolithic diet - Wikipedia, the free encyclopedia - L<link|http://en.wikipedia.org/wiki/Paleolithic_diet>
+=for Image :width(264) :link('http://en.wikipedia.org/wiki/Paleolithic_diet') :height(175) :preview
+media/a0835db7b576d5eac1879e82218b7d7e85d60629.jpg
+=for Image :width(220) :link('http://en.wikipedia.org/wiki/Paleolithic_diet') :height(133) :preview
+media/47b864e2c245a5e924ca3d7f957ce46ad794b026.jpg
+=for Image :width(220) :link('http://en.wikipedia.org/wiki/Paleolithic_diet') :height(165) :preview
+media/12188b177f41a9280be18b597a4612b2e5cc049f.jpg
+
+=item "Starting in 1989, Swedish medical doctor and scientist Staffan Lindeberg, now associate professor at Lund University, Sweden, led scientific surveys of the non-westernized population on Kitava, one of the Trobriand Islands of Papua New Guinea. These surveys, collectively referred to as the Kitava Study, found that this population apparently did not suffer from stroke, ischemic heart disease, diabetes, obesity or hypertension."
+=item какая вкусная диета :)
+
+
+=end DESCRIPTION
+
+Paleolithic diet - Wikipedia, the free encyclopedia - L<link|http://en.wikipedia.org/wiki/Paleolithic_diet>
+=for Image :width(264) :link('http://en.wikipedia.org/wiki/Paleolithic_diet') :height(175) :preview
+media/a0835db7b576d5eac1879e82218b7d7e85d60629.jpg
+=for Image :width(220) :link('http://en.wikipedia.org/wiki/Paleolithic_diet') :height(133) :preview
+media/47b864e2c245a5e924ca3d7f957ce46ad794b026.jpg
+=for Image :width(220) :link('http://en.wikipedia.org/wiki/Paleolithic_diet') :height(165) :preview
+media/12188b177f41a9280be18b597a4612b2e5cc049f.jpg
+
+=item "Starting in 1989, Swedish medical doctor and scientist Staffan Lindeberg, now associate professor at Lund University, Sweden, led scientific surveys of the non-westernized population on Kitava, one of the Trobriand Islands of Papua New Guinea. These surveys, collectively referred to as the Kitava Study, found that this population apparently did not suffer from stroke, ischemic heart disease, diabetes, obesity or hypertension."
+=item какая вкусная диета :)
+
+
+=begin comment :src
+{
+  "rawLink": "http://en.wikipedia.org/wiki/Paleolithic_diet",
+  "likes": [
+    {
+      "from": {
+        "id": "philsmirnov",
+        "type": "user",
+        "name": "Phil Smirnov"
+      },
+      "date": "2011-07-25T16:42:54Z"
+    },
+    {
+      "date": "2011-07-25T12:57:30Z",
+      "from": {
+        "name": "Victory through semantics",
+        "type": "user",
+        "id": "karabatov"
+      }
+    },
+    {
+      "date": "2011-07-25T12:23:18Z",
+      "from": {
+        "type": "user",
+        "id": "kkapp",
+        "name": "alex@kapranoff.ru"
+      }
+    }
+  ],
+  "body": "Paleolithic diet - Wikipedia, the free encyclopedia - <a rel=\"nofollow\" href=\"http://en.wikipedia.org/wiki/Paleolithic_diet\" title=\"http://en.wikipedia.org/wiki/Paleolithic_diet\">http://en.wikipedia.org/wiki...</a>",
+  "id": "e/1f860219ef1d4bba891a0648775a5908",
+  "date": "2011-07-25T12:18:44Z",
+  "url": "http://friendfeed.com/zag/1f860219/paleolithic-diet-wikipedia-free-encyclopedia",
+  "rawBody": "Paleolithic diet - Wikipedia, the free encyclopedia",
+  "thumbnails": [
+    {
+      "link": "http://en.wikipedia.org/wiki/Paleolithic_diet",
+      "height": 175,
+      "width": 264,
+      "url": "http://m.friendfeed-media.com/a0835db7b576d5eac1879e82218b7d7e85d60629"
+    },
+    {
+      "height": 133,
+      "link": "http://en.wikipedia.org/wiki/Paleolithic_diet",
+      "width": 220,
+      "url": "http://m.friendfeed-media.com/47b864e2c245a5e924ca3d7f957ce46ad794b026"
+    },
+    {
+      "link": "http://en.wikipedia.org/wiki/Paleolithic_diet",
+      "height": 165,
+      "width": 220,
+      "url": "http://m.friendfeed-media.com/12188b177f41a9280be18b597a4612b2e5cc049f"
+    }
+  ],
+  "comments": [
+    {
+      "from": {
+        "type": "user",
+        "id": "zag",
+        "name": "углы «Исимуры»"
+      },
+      "id": "e/1f860219ef1d4bba891a0648775a5908/c/57c75b4d4dba4aba9dbabc480fb4b659",
+      "date": "2011-07-25T12:18:44Z",
+      "rawBody": "\"Starting in 1989, Swedish medical doctor and scientist Staffan Lindeberg, now associate professor at Lund University, Sweden, led scientific surveys of the non-westernized population on Kitava, one of the Trobriand Islands of Papua New Guinea. These surveys, collectively referred to as the Kitava Study, found that this population apparently did not suffer from stroke, ischemic heart disease, diabetes, obesity or hypertension.\"",
+      "via": {
+        "url": "http://friendfeed.com/share/bookmarklet",
+        "name": "Bookmarklet"
+      },
+      "body": "&quot;Starting in 1989, Swedish medical doctor and scientist Staffan Lindeberg, now associate professor at Lund University, Sweden, led scientific surveys of the non-westernized population on Kitava, one of the Trobriand Islands of Papua New Guinea. These surveys, collectively referred to as the Kitava Study, found that this population apparently did not suffer from stroke, ischemic heart disease, diabetes, obesity or hypertension.&quot;"
+    },
+    {
+      "body": "какая вкусная диета :)",
+      "from": {
+        "name": "Phil Smirnov",
+        "type": "user",
+        "id": "philsmirnov"
+      },
+      "rawBody": "какая вкусная диета :)",
+      "id": "e/1f860219ef1d4bba891a0648775a5908/c/40fa8ba822794248ae2a9cfed1606505",
+      "date": "2011-07-25T17:32:42Z"
+    }
+  ],
+  "via": {
+    "url": "http://friendfeed.com/share/bookmarklet",
+    "name": "Bookmarklet"
+  },
+  "from": {
+    "name": "углы «Исимуры»",
+    "type": "user",
+    "id": "zag"
+  }
+}
+=end comment
+
+=end pod

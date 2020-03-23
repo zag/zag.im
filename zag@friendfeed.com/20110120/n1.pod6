@@ -1,0 +1,97 @@
+=begin pod :pubdate('2011-01-20T10:53:20Z') :type<note> :tags<Lua>
+=NAME Ого !! [13:39:07] cheusov: #Lua встроили в базовую систему NetBSD, для скриптование всяких дел, даже в ядре. Новость №1! ;-)
+
+=begin DESCRIPTION
+
+Ого !! [13:39:07] cheusov: #Lua встроили в базовую систему NetBSD, для скриптование всяких дел, даже в ядре. Новость №1! ;-)
+
+=item by Marc Balmer : http://blog.netbsd.org/tnf/entry/the_lua_scripting_language_in
+
+
+=end DESCRIPTION
+
+Ого !! [13:39:07] cheusov: #Lua встроили в базовую систему NetBSD, для скриптование всяких дел, даже в ядре. Новость №1! ;-)
+
+=item by Marc Balmer : http://blog.netbsd.org/tnf/entry/the_lua_scripting_language_in
+
+
+=begin comment :src
+{
+  "body": "Ого !! [13:39:07] cheusov: <a href=\"http://friendfeed.com/search?q=%23Lua\">#Lua</a> встроили в базовую систему NetBSD, для скриптование всяких дел, даже в ядре. Новость №1! ;-)",
+  "likes": [
+    {
+      "from": {
+        "name": "Sergey Trofimov",
+        "id": "sargo",
+        "type": "user"
+      },
+      "date": "2011-01-20T13:08:16Z"
+    },
+    {
+      "date": "2011-01-20T12:26:03Z",
+      "from": {
+        "name": "arty",
+        "id": "arty",
+        "type": "user"
+      }
+    },
+    {
+      "from": {
+        "name": "рептильный дом",
+        "type": "user",
+        "id": "blacklion"
+      },
+      "date": "2011-01-20T11:09:27Z"
+    },
+    {
+      "date": "2011-01-20T11:02:43Z",
+      "from": {
+        "name": "DehajEuj2",
+        "id": "zabdetud",
+        "type": "user"
+      }
+    },
+    {
+      "date": "2011-01-20T11:01:58Z",
+      "from": {
+        "name": "bopm",
+        "id": "bopm",
+        "type": "user"
+      }
+    },
+    {
+      "from": {
+        "name": "alex@kapranoff.ru",
+        "id": "kkapp",
+        "type": "user"
+      },
+      "date": "2011-01-20T11:01:11Z"
+    }
+  ],
+  "rawLink": "http://friendfeed.com/e/2c65edc1-54a6-4615-a6f1-64003f456cab",
+  "date": "2011-01-20T10:53:20Z",
+  "id": "e/2c65edc154a64615a6f164003f456cab",
+  "url": "http://friendfeed.com/zag/2c65edc1/13-39-07-cheusov-lua-netbsd-no1",
+  "rawBody": "Ого !! [13:39:07] cheusov: #Lua встроили в базовую систему NetBSD, для скриптование всяких дел, даже в ядре. Новость №1! ;-)",
+  "comments": [
+    {
+      "date": "2011-01-20T11:58:41Z",
+      "rawBody": "by Marc Balmer : http://blog.netbsd.org/tnf/entry/the_lua_scripting_language_in",
+      "id": "e/2c65edc154a64615a6f164003f456cab/c/d3d9cfa84d5b4ae1a7007cb7b99d6188",
+      "from": {
+        "id": "zag",
+        "type": "user",
+        "name": "углы «Исимуры»"
+      },
+      "body": "by Marc Balmer : <a rel=\"nofollow\" href=\"http://blog.netbsd.org/tnf/entry/the_lua_scripting_language_in\" title=\"http://blog.netbsd.org/tnf/entry/the_lua_scripting_language_in\">http://blog.netbsd.org/tnf...</a>"
+    }
+  ],
+  "from": {
+    "name": "углы «Исимуры»",
+    "type": "user",
+    "id": "zag"
+  }
+}
+=end comment
+
+=end pod

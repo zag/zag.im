@@ -1,0 +1,86 @@
+=begin pod :pubdate('2011-03-29T19:42:55Z') :type<note> 
+=NAME RT @romochka: храни меня, хранилище, храни
+
+=begin DESCRIPTION
+
+RT @romochka: храни меня, хранилище, храни - L<link|http://twitter.com/zagru/statuses/52818033311367168>
+
+
+
+=end DESCRIPTION
+
+RT @romochka: храни меня, хранилище, храни - L<link|http://twitter.com/zagru/statuses/52818033311367168>
+
+
+
+=begin comment :src
+{
+  "id": "e/39d770dd5aa5b44f729cac5f9d55e2d4",
+  "date": "2011-03-29T19:42:55Z",
+  "url": "http://friendfeed.com/zag/39d770dd/rt-romochka",
+  "rawBody": "RT @romochka: храни меня, хранилище, храни",
+  "rawLink": "http://twitter.com/zagru/statuses/52818033311367168",
+  "likes": [
+    {
+      "date": "2011-03-30T13:45:36Z",
+      "from": {
+        "name": "sёliv",
+        "id": "seliv",
+        "type": "user"
+      }
+    },
+    {
+      "from": {
+        "id": "kuchin",
+        "type": "user",
+        "name": "kuchin"
+      },
+      "date": "2011-03-30T08:24:39Z"
+    },
+    {
+      "from": {
+        "name": "Документы зимы хорошие",
+        "type": "user",
+        "id": "animasola"
+      },
+      "date": "2011-03-30T07:32:47Z"
+    },
+    {
+      "date": "2011-03-30T03:15:34Z",
+      "from": {
+        "id": "alisher",
+        "type": "user",
+        "name": "Алишер"
+      }
+    },
+    {
+      "from": {
+        "type": "user",
+        "id": "philsmirnov",
+        "name": "Phil Smirnov"
+      },
+      "date": "2011-03-29T22:31:46Z"
+    },
+    {
+      "from": {
+        "name": "alex@kapranoff.ru",
+        "id": "kkapp",
+        "type": "user"
+      },
+      "date": "2011-03-29T21:42:06Z"
+    }
+  ],
+  "body": "RT @<a rel=\"nofollow\" href=\"http://twitter.com/romochka\">romochka</a>: храни меня, хранилище, храни",
+  "from": {
+    "name": "углы «Исимуры»",
+    "type": "user",
+    "id": "zag"
+  },
+  "via": {
+    "name": "Twitter",
+    "url": "http://twitter.com/zagru/statuses/52818033311367168"
+  }
+}
+=end comment
+
+=end pod

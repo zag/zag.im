@@ -1,0 +1,48 @@
+=begin pod :pubdate('2010-10-05T09:57:39Z') :type<note> 
+=NAME Apache Mahout:: Scalable machine-learning and data-mining library. Mahout currently has: Collaborative Filtering, User and Item based recommenders, K-Means, Fuzzy K-Means clustering, Naive Bayes classifier ...
+
+=begin DESCRIPTION
+
+Apache Mahout:: Scalable machine-learning and data-mining library. Mahout currently has: Collaborative Filtering, User and Item based recommenders, K-Means, Fuzzy K-Means clustering, Naive Bayes classifier ... - L<link|http://mahout.apache.org/>
+=for Image :width(444) :link('http://mahout.apache.org/') :height(175) :preview
+media/c56b78848aa079f03e11b3b3d8313fceb48894ae.jpg
+
+
+
+=end DESCRIPTION
+
+Apache Mahout:: Scalable machine-learning and data-mining library. Mahout currently has: Collaborative Filtering, User and Item based recommenders, K-Means, Fuzzy K-Means clustering, Naive Bayes classifier ... - L<link|http://mahout.apache.org/>
+=for Image :width(444) :link('http://mahout.apache.org/') :height(175) :preview
+media/c56b78848aa079f03e11b3b3d8313fceb48894ae.jpg
+
+
+
+=begin comment :src
+{
+  "body": "Apache Mahout:: Scalable machine-learning and data-mining library. Mahout currently has: Collaborative Filtering, User and Item based recommenders, K-Means, Fuzzy K-Means clustering, Naive Bayes classifier ... - <a rel=\"nofollow\" href=\"http://mahout.apache.org/\">http://mahout.apache.org/</a>",
+  "rawLink": "http://mahout.apache.org/",
+  "date": "2010-10-05T09:57:39Z",
+  "id": "e/672631e98ca5454bb6d6e32d79f94481",
+  "rawBody": "Apache Mahout:: Scalable machine-learning and data-mining library. Mahout currently has: Collaborative Filtering, User and Item based recommenders, K-Means, Fuzzy K-Means clustering, Naive Bayes classifier ...",
+  "url": "http://friendfeed.com/zag/672631e9/apache-mahout-scalable-machine-learning-and",
+  "thumbnails": [
+    {
+      "url": "http://m.friendfeed-media.com/c56b78848aa079f03e11b3b3d8313fceb48894ae",
+      "width": 444,
+      "link": "http://mahout.apache.org/",
+      "height": 175
+    }
+  ],
+  "via": {
+    "name": "Bookmarklet",
+    "url": "http://friendfeed.com/share/bookmarklet"
+  },
+  "from": {
+    "name": "углы «Исимуры»",
+    "id": "zag",
+    "type": "user"
+  }
+}
+=end comment
+
+=end pod

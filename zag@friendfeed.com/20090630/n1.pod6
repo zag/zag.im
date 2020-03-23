@@ -1,0 +1,65 @@
+=begin pod :pubdate('2009-06-30T09:56:28Z') :type<note> 
+=NAME lang/rakudo  - быть в ближайшее время в FreeBSD ! Буквально в конце этой недели или начале следующей!  http://www.freebsd.org/cgi/query-pr.cgi?pr=130629
+
+=begin DESCRIPTION
+
+lang/rakudo  - быть в ближайшее время в FreeBSD ! Буквально в конце этой недели или начале следующей!  http://www.freebsd.org/cgi/query-pr.cgi?pr=130629
+
+=item zag34337> Сергей здравствуйте ! Заняты ли вы сейчас ?
+<skv> что?
+<zag34337> Я по поводу http://www.freebsd.org/cgi/query-pr.cgi?pr=130629   
+<skv> а про PR я помню. только что вернулся из отпуска - на этой неделе всё сделаю.
+<zag34337> У меня тогда все.  Спасибо.
+
+
+=end DESCRIPTION
+
+lang/rakudo  - быть в ближайшее время в FreeBSD ! Буквально в конце этой недели или начале следующей!  http://www.freebsd.org/cgi/query-pr.cgi?pr=130629
+
+=item zag34337> Сергей здравствуйте ! Заняты ли вы сейчас ?
+<skv> что?
+<zag34337> Я по поводу http://www.freebsd.org/cgi/query-pr.cgi?pr=130629   
+<skv> а про PR я помню. только что вернулся из отпуска - на этой неделе всё сделаю.
+<zag34337> У меня тогда все.  Спасибо.
+
+
+=begin comment :src
+{
+  "id": "e/0f772bb0ae504a28a70a35c732dd4bc8",
+  "rawBody": "lang/rakudo  - быть в ближайшее время в FreeBSD ! Буквально в конце этой недели или начале следующей!  http://www.freebsd.org/cgi/query-pr.cgi?pr=130629",
+  "date": "2009-06-30T09:56:28Z",
+  "url": "http://friendfeed.com/zag/0f772bb0/lang-rakudo-freebsd",
+  "body": "lang/rakudo  - быть в ближайшее время в FreeBSD ! Буквально в конце этой недели или начале следующей!  <a rel=\"nofollow\" href=\"http://www.freebsd.org/cgi/query-pr.cgi?pr=130629\" title=\"http://www.freebsd.org/cgi/query-pr.cgi?pr=130629\">http://www.freebsd.org/cgi...</a>",
+  "rawLink": "http://friendfeed.com/e/0f772bb0-ae50-4a28-a70a-35c732dd4bc8",
+  "likes": [
+    {
+      "from": {
+        "type": "user",
+        "id": "kkapp",
+        "name": "alex@kapranoff.ru"
+      },
+      "date": "2009-06-30T10:35:31Z"
+    }
+  ],
+  "from": {
+    "name": "углы «Исимуры»",
+    "type": "user",
+    "id": "zag"
+  },
+  "comments": [
+    {
+      "rawBody": "zag34337> Сергей здравствуйте ! Заняты ли вы сейчас ?\n<skv> что?\n<zag34337> Я по поводу http://www.freebsd.org/cgi/query-pr.cgi?pr=130629   \n<skv> а про PR я помню. только что вернулся из отпуска - на этой неделе всё сделаю.\n<zag34337> У меня тогда все.  Спасибо.",
+      "id": "e/0f772bb0ae504a28a70a35c732dd4bc8/c/8bbda21f7eec4bbcb060a28c220515fc",
+      "date": "2009-06-30T09:57:24Z",
+      "from": {
+        "type": "user",
+        "id": "zag",
+        "name": "углы «Исимуры»"
+      },
+      "body": "zag34337&gt; Сергей здравствуйте ! Заняты ли вы сейчас ?\n&lt;skv&gt; что?\n&lt;zag34337&gt; Я по поводу <a rel=\"nofollow\" href=\"http://www.freebsd.org/cgi/query-pr.cgi?pr=130629\" title=\"http://www.freebsd.org/cgi/query-pr.cgi?pr=130629\">http://www.freebsd.org/cgi...</a>   \n&lt;skv&gt; а про PR я помню. только что вернулся из отпуска - на этой неделе всё сделаю.\n&lt;zag34337&gt; У меня тогда все.  Спасибо."
+    }
+  ]
+}
+=end comment
+
+=end pod

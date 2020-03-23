@@ -1,0 +1,36 @@
+=begin pod :pubdate('2010-10-14T09:10:51Z') :type<note> 
+=NAME RT @bobuk: Обращение интернет-компаний об ответственности за пользовательский контент http://clck.ru/1qT4 Прочитайте!
+
+=begin DESCRIPTION
+
+RT @bobuk: Обращение интернет-компаний об ответственности за пользовательский контент http://clck.ru/1qT4 Прочитайте! - L<link|http://twitter.com/zagru/statuses/27324331262>
+
+
+
+=end DESCRIPTION
+
+RT @bobuk: Обращение интернет-компаний об ответственности за пользовательский контент http://clck.ru/1qT4 Прочитайте! - L<link|http://twitter.com/zagru/statuses/27324331262>
+
+
+
+=begin comment :src
+{
+  "id": "e/1acf6bc7df73ed530f65f7483b8da701",
+  "rawBody": "RT @bobuk: Обращение интернет-компаний об ответственности за пользовательский контент http://clck.ru/1qT4 Прочитайте!",
+  "date": "2010-10-14T09:10:51Z",
+  "url": "http://friendfeed.com/zag/1acf6bc7/rt-bobuk",
+  "rawLink": "http://twitter.com/zagru/statuses/27324331262",
+  "body": "RT @<a rel=\"nofollow\" href=\"http://twitter.com/bobuk\">bobuk</a>: Обращение интернет-компаний об ответственности за пользовательский контент <a rel=\"nofollow\" href=\"http://clck.ru/1qT4\" title=\"http://company.yandex.ru/rules/anonymous_content/appeal.xml\">http://company.yandex.ru/rules...</a> Прочитайте!",
+  "from": {
+    "type": "user",
+    "id": "zag",
+    "name": "углы «Исимуры»"
+  },
+  "via": {
+    "name": "Twitter",
+    "url": "http://twitter.com/zagru/statuses/27324331262"
+  }
+}
+=end comment
+
+=end pod

@@ -1,0 +1,36 @@
+=begin pod :pubdate('2009-11-15T15:13:42Z') :type<note> 
+=NAME отпуск ! Терпение и труд .... - причина пожаров !
+
+=begin DESCRIPTION
+
+отпуск ! Терпение и труд .... - причина пожаров ! - L<link|http://twitter.com/zagru/statuses/5737920736>
+
+
+
+=end DESCRIPTION
+
+отпуск ! Терпение и труд .... - причина пожаров ! - L<link|http://twitter.com/zagru/statuses/5737920736>
+
+
+
+=begin comment :src
+{
+  "date": "2009-11-15T15:13:42Z",
+  "id": "e/981e00ae4cc9a946cb8d4b4dd122ee74",
+  "rawBody": "отпуск ! Терпение и труд .... - причина пожаров !",
+  "url": "http://friendfeed.com/zag/981e00ae",
+  "body": "отпуск ! Терпение и труд .... - причина пожаров !",
+  "rawLink": "http://twitter.com/zagru/statuses/5737920736",
+  "from": {
+    "type": "user",
+    "id": "zag",
+    "name": "углы «Исимуры»"
+  },
+  "via": {
+    "name": "Twitter",
+    "url": "http://twitter.com/zagru/statuses/5737920736"
+  }
+}
+=end comment
+
+=end pod

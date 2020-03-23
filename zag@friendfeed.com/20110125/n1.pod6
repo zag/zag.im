@@ -1,0 +1,87 @@
+=begin pod :pubdate('2011-01-25T08:21:20Z') :type<note> 
+=NAME PubNub ★ - PubNub is a new kind of mass messaging service for Mobile Phones, TVs, Computers, Game Consoles and Tablets.
+
+=begin DESCRIPTION
+
+PubNub ★ - PubNub is a new kind of mass messaging service for Mobile Phones, TVs, Computers, Game Consoles and Tablets. - L<link|http://www.pubnub.com/>
+=for Image :width(86) :link('http://www.pubnub.com/') :height(175) :preview
+media/088a9b23286d36c4cdc741348fd8b1147c110913.jpg
+=for Image :width(525) :link('http://www.pubnub.com/') :height(159) :preview
+media/04b9fa1cea73631fbaf10f2db81aa31da6f94c12.jpg
+=for Image :width(488) :link('http://www.pubnub.com/') :height(175) :preview
+media/722a15d3632dad32527ff64d5e43aa4c75195cfb.jpg
+
+=item Written in native C code, PubNub runs within Amazon's EC2 and Rackspace's (YouTube) proven network infrastructure and data centers, with remote monitoring by Google App Engine.
+
+
+=end DESCRIPTION
+
+PubNub ★ - PubNub is a new kind of mass messaging service for Mobile Phones, TVs, Computers, Game Consoles and Tablets. - L<link|http://www.pubnub.com/>
+=for Image :width(86) :link('http://www.pubnub.com/') :height(175) :preview
+media/088a9b23286d36c4cdc741348fd8b1147c110913.jpg
+=for Image :width(525) :link('http://www.pubnub.com/') :height(159) :preview
+media/04b9fa1cea73631fbaf10f2db81aa31da6f94c12.jpg
+=for Image :width(488) :link('http://www.pubnub.com/') :height(175) :preview
+media/722a15d3632dad32527ff64d5e43aa4c75195cfb.jpg
+
+=item Written in native C code, PubNub runs within Amazon's EC2 and Rackspace's (YouTube) proven network infrastructure and data centers, with remote monitoring by Google App Engine.
+
+
+=begin comment :src
+{
+  "from": {
+    "type": "user",
+    "id": "zag",
+    "name": "углы «Исимуры»"
+  },
+  "via": {
+    "name": "Bookmarklet",
+    "url": "http://friendfeed.com/share/bookmarklet"
+  },
+  "comments": [
+    {
+      "via": {
+        "name": "Bookmarklet",
+        "url": "http://friendfeed.com/share/bookmarklet"
+      },
+      "date": "2011-01-25T08:21:20Z",
+      "id": "e/f369a8974b904053962ab8034b422daa/c/5b5143ad0f324c79acd6ceca386d5915",
+      "from": {
+        "name": "углы «Исимуры»",
+        "type": "user",
+        "id": "zag"
+      },
+      "rawBody": "Written in native C code, PubNub runs within Amazon's EC2 and Rackspace's (YouTube) proven network infrastructure and data centers, with remote monitoring by Google App Engine.",
+      "body": "Written in native C code, PubNub runs within Amazon's EC2 and Rackspace's (YouTube) proven network infrastructure and data centers, with remote monitoring by Google App Engine."
+    }
+  ],
+  "id": "e/f369a8974b904053962ab8034b422daa",
+  "url": "http://friendfeed.com/zag/f369a897/pubnub-is-new-kind-of-mass-messaging-service-for",
+  "date": "2011-01-25T08:21:20Z",
+  "rawBody": "PubNub ★ - PubNub is a new kind of mass messaging service for Mobile Phones, TVs, Computers, Game Consoles and Tablets.",
+  "thumbnails": [
+    {
+      "width": 86,
+      "url": "http://m.friendfeed-media.com/088a9b23286d36c4cdc741348fd8b1147c110913",
+      "link": "http://www.pubnub.com/",
+      "height": 175
+    },
+    {
+      "link": "http://www.pubnub.com/",
+      "height": 159,
+      "url": "http://m.friendfeed-media.com/04b9fa1cea73631fbaf10f2db81aa31da6f94c12",
+      "width": 525
+    },
+    {
+      "height": 175,
+      "link": "http://www.pubnub.com/",
+      "width": 488,
+      "url": "http://m.friendfeed-media.com/722a15d3632dad32527ff64d5e43aa4c75195cfb"
+    }
+  ],
+  "body": "PubNub ★ - PubNub is a new kind of mass messaging service for Mobile Phones, TVs, Computers, Game Consoles and Tablets. - <a rel=\"nofollow\" href=\"http://www.pubnub.com/\">http://www.pubnub.com/</a>",
+  "rawLink": "http://www.pubnub.com/"
+}
+=end comment
+
+=end pod

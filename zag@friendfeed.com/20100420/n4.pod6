@@ -1,0 +1,55 @@
+=begin pod :pubdate('2010-04-20T07:36:37Z') :type<note> 
+=NAME XAuth - XAuth is built on purely front end technology taking advantage of capabilities available only in HTML5 browsers.
+
+=begin DESCRIPTION
+
+XAuth - XAuth is built on purely front end technology taking advantage of capabilities available only in HTML5 browsers. - L<link|http://xauth.org/>
+
+=item Demo page : http://www.meebo.com/xauth/
+
+
+=end DESCRIPTION
+
+XAuth - XAuth is built on purely front end technology taking advantage of capabilities available only in HTML5 browsers. - L<link|http://xauth.org/>
+
+=item Demo page : http://www.meebo.com/xauth/
+
+
+=begin comment :src
+{
+  "via": {
+    "url": "http://friendfeed.com/share/bookmarklet",
+    "name": "Bookmarklet"
+  },
+  "from": {
+    "id": "zag",
+    "type": "user",
+    "name": "углы «Исимуры»"
+  },
+  "comments": [
+    {
+      "body": "Demo page : <a rel=\"nofollow\" href=\"http://www.meebo.com/xauth/\">http://www.meebo.com/xauth/</a>",
+      "date": "2010-04-20T07:36:37Z",
+      "id": "e/c345902e040f416ba3f031cc87e196ab/c/ae4e90160fd9462789758006aa43a912",
+      "from": {
+        "id": "zag",
+        "type": "user",
+        "name": "углы «Исимуры»"
+      },
+      "rawBody": "Demo page : http://www.meebo.com/xauth/",
+      "via": {
+        "url": "http://friendfeed.com/share/bookmarklet",
+        "name": "Bookmarklet"
+      }
+    }
+  ],
+  "id": "e/c345902e040f416ba3f031cc87e196ab",
+  "rawBody": "XAuth - XAuth is built on purely front end technology taking advantage of capabilities available only in HTML5 browsers.",
+  "date": "2010-04-20T07:36:37Z",
+  "url": "http://friendfeed.com/zag/c345902e/xauth-is-built-on-purely-front-end-technology",
+  "rawLink": "http://xauth.org/",
+  "body": "XAuth - XAuth is built on purely front end technology taking advantage of capabilities available only in HTML5 browsers. - <a rel=\"nofollow\" href=\"http://xauth.org/\">http://xauth.org/</a>"
+}
+=end comment
+
+=end pod

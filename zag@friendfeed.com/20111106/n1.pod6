@@ -1,0 +1,48 @@
+=begin pod :pubdate('2011-11-06T11:16:44Z') :type<note> 
+=NAME Brilliant graphic shows where and when you should post status updates
+
+=begin DESCRIPTION
+
+Brilliant graphic shows where and when you should post status updates - L<link|http://www.simplyzesty.com/social-media/where-should-you-post-your-social-media-status-step-by-step-guide/>
+=for Image :width(234) :link('http://www.simplyzesty.com/social-media/where-should-you-post-your-social-media-status-step-by-step-guide/') :height(175) :preview
+media/0415727f9a796f695ee683272707418045776540.jpg
+
+
+
+=end DESCRIPTION
+
+Brilliant graphic shows where and when you should post status updates - L<link|http://www.simplyzesty.com/social-media/where-should-you-post-your-social-media-status-step-by-step-guide/>
+=for Image :width(234) :link('http://www.simplyzesty.com/social-media/where-should-you-post-your-social-media-status-step-by-step-guide/') :height(175) :preview
+media/0415727f9a796f695ee683272707418045776540.jpg
+
+
+
+=begin comment :src
+{
+  "via": {
+    "url": "http://friendfeed.com/share/bookmarklet",
+    "name": "Bookmarklet"
+  },
+  "from": {
+    "id": "zag",
+    "type": "user",
+    "name": "углы «Исимуры»"
+  },
+  "id": "e/e90a9746a073481c8cd0a33012f2641e",
+  "url": "http://friendfeed.com/zag/e90a9746/brilliant-graphic-shows-where-and-when-you",
+  "date": "2011-11-06T11:16:44Z",
+  "rawBody": "Brilliant graphic shows where and when you should post status updates",
+  "thumbnails": [
+    {
+      "width": 234,
+      "url": "http://m.friendfeed-media.com/0415727f9a796f695ee683272707418045776540",
+      "link": "http://www.simplyzesty.com/social-media/where-should-you-post-your-social-media-status-step-by-step-guide/",
+      "height": 175
+    }
+  ],
+  "body": "Brilliant graphic shows where and when you should post status updates - <a rel=\"nofollow\" href=\"http://www.simplyzesty.com/social-media/where-should-you-post-your-social-media-status-step-by-step-guide/\" title=\"http://www.simplyzesty.com/social-media/where-should-you-post-your-social-media-status-step-by-step-guide/\">http://www.simplyzesty.com/social-...</a>",
+  "rawLink": "http://www.simplyzesty.com/social-media/where-should-you-post-your-social-media-status-step-by-step-guide/"
+}
+=end comment
+
+=end pod

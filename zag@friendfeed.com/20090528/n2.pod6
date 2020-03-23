@@ -1,0 +1,36 @@
+=begin pod :pubdate('2009-05-28T07:32:10Z') :type<note> :tags<ok2009>
+=NAME РИФ+КИБ еще один сериал выложен: http://ok2009.ru/video/ #ok2009
+
+=begin DESCRIPTION
+
+РИФ+КИБ еще один сериал выложен: http://ok2009.ru/video/ #ok2009 - L<link|http://twitter.com/zagru/statuses/1944987207>
+
+
+
+=end DESCRIPTION
+
+РИФ+КИБ еще один сериал выложен: http://ok2009.ru/video/ #ok2009 - L<link|http://twitter.com/zagru/statuses/1944987207>
+
+
+
+=begin comment :src
+{
+  "body": "РИФ+КИБ еще один сериал выложен: <a rel=\"nofollow\" href=\"http://ok2009.ru/video/\">http://ok2009.ru/video/</a> <a rel=\"nofollow\" href=\"http://search.twitter.com/search?q=%23ok2009\">#ok2009</a>",
+  "rawLink": "http://twitter.com/zagru/statuses/1944987207",
+  "id": "e/43398b22305e2142c3d33e9e4c29c757",
+  "rawBody": "РИФ+КИБ еще один сериал выложен: http://ok2009.ru/video/ #ok2009",
+  "date": "2009-05-28T07:32:10Z",
+  "url": "http://friendfeed.com/zag/43398b22/ok2009",
+  "via": {
+    "name": "Twitter",
+    "url": "http://twitter.com/zagru/statuses/1944987207"
+  },
+  "from": {
+    "name": "углы «Исимуры»",
+    "id": "zag",
+    "type": "user"
+  }
+}
+=end comment
+
+=end pod

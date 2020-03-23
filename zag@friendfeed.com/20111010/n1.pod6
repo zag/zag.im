@@ -1,0 +1,48 @@
+=begin pod :pubdate('2011-10-10T09:55:53Z') :type<note> 
+=NAME Google debuts Dart, a JavaScript alternative | Deep Tech - CNET News
+
+=begin DESCRIPTION
+
+Google debuts Dart, a JavaScript alternative | Deep Tech - CNET News - L<link|http://news.cnet.com/8301-30685_3-20117924-264/google-debuts-dart-a-javascript-alternative/>
+=for Image :width(290) :link('http://news.cnet.com/8301-30685_3-20117924-264/google-debuts-dart-a-javascript-alternative/') :height(138) :preview
+media/2e15060edb6b9467b8664b4fd37c6cfcac29545a.png
+
+
+
+=end DESCRIPTION
+
+Google debuts Dart, a JavaScript alternative | Deep Tech - CNET News - L<link|http://news.cnet.com/8301-30685_3-20117924-264/google-debuts-dart-a-javascript-alternative/>
+=for Image :width(290) :link('http://news.cnet.com/8301-30685_3-20117924-264/google-debuts-dart-a-javascript-alternative/') :height(138) :preview
+media/2e15060edb6b9467b8664b4fd37c6cfcac29545a.png
+
+
+
+=begin comment :src
+{
+  "from": {
+    "type": "user",
+    "id": "zag",
+    "name": "углы «Исимуры»"
+  },
+  "via": {
+    "name": "Bookmarklet",
+    "url": "http://friendfeed.com/share/bookmarklet"
+  },
+  "date": "2011-10-10T09:55:53Z",
+  "id": "e/43a4e62700ca4c4cbbd5efd208dbc0ec",
+  "rawBody": "Google debuts Dart, a JavaScript alternative | Deep Tech - CNET News",
+  "url": "http://friendfeed.com/zag/43a4e627/google-debuts-dart-javascript-alternative",
+  "thumbnails": [
+    {
+      "height": 138,
+      "link": "http://news.cnet.com/8301-30685_3-20117924-264/google-debuts-dart-a-javascript-alternative/",
+      "url": "http://m.friendfeed-media.com/2e15060edb6b9467b8664b4fd37c6cfcac29545a",
+      "width": 290
+    }
+  ],
+  "body": "Google debuts Dart, a JavaScript alternative | Deep Tech - CNET News - <a rel=\"nofollow\" href=\"http://news.cnet.com/8301-30685_3-20117924-264/google-debuts-dart-a-javascript-alternative/\" title=\"http://news.cnet.com/8301-30685_3-20117924-264/google-debuts-dart-a-javascript-alternative/\">http://news.cnet.com/8301-30...</a>",
+  "rawLink": "http://news.cnet.com/8301-30685_3-20117924-264/google-debuts-dart-a-javascript-alternative/"
+}
+=end comment
+
+=end pod

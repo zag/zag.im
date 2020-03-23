@@ -1,0 +1,36 @@
+=begin pod :pubdate('2010-01-13T08:23:46Z') :type<note> :tags<freebsd>
+=NAME pf (packet filter) появился в 2001 году в openbsd 3.0. В портах freebsd c 2003 года. В base system #freebsd с 5-STABLE (2004 год)
+
+=begin DESCRIPTION
+
+pf (packet filter) появился в 2001 году в openbsd 3.0. В портах freebsd c 2003 года. В base system #freebsd с 5-STABLE (2004 год) - L<link|http://twitter.com/zagru/statuses/7701662686>
+
+
+
+=end DESCRIPTION
+
+pf (packet filter) появился в 2001 году в openbsd 3.0. В портах freebsd c 2003 года. В base system #freebsd с 5-STABLE (2004 год) - L<link|http://twitter.com/zagru/statuses/7701662686>
+
+
+
+=begin comment :src
+{
+  "id": "e/88c4fc7219740d5500bafe34bd8ae5d1",
+  "rawBody": "pf (packet filter) появился в 2001 году в openbsd 3.0. В портах freebsd c 2003 года. В base system #freebsd с 5-STABLE (2004 год)",
+  "date": "2010-01-13T08:23:46Z",
+  "url": "http://friendfeed.com/zag/88c4fc72/pf-packet-filter-2001-openbsd-3-0-freebsd-c-2003",
+  "rawLink": "http://twitter.com/zagru/statuses/7701662686",
+  "body": "pf (packet filter) появился в 2001 году в openbsd 3.0. В портах freebsd c 2003 года. В base system <a rel=\"nofollow\" href=\"http://search.twitter.com/search?q=%23freebsd\">#freebsd</a> с 5-STABLE (2004 год)",
+  "via": {
+    "name": "Twitter",
+    "url": "http://twitter.com/zagru/statuses/7701662686"
+  },
+  "from": {
+    "id": "zag",
+    "type": "user",
+    "name": "углы «Исимуры»"
+  }
+}
+=end comment
+
+=end pod

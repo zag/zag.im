@@ -1,0 +1,44 @@
+=begin pod :pubdate('2011-10-24T07:46:50Z') :type<note> :tags<thi>
+=NAME Для western digital этот год точно не урожайный. #thi
+
+=begin DESCRIPTION
+
+Для western digital этот год точно не урожайный. #thi
+=for Image :width(295) :link('http://m.friendfeed-media.com/eb2ecf2b65284c1f58eb36dee4c613a018e2cda2') :height(175) :preview
+media/fc79662b244ce04ae4881dd22d628a6d85fd240c.jpg
+
+
+
+=end DESCRIPTION
+
+Для western digital этот год точно не урожайный. #thi
+=for Image :width(295) :link('http://m.friendfeed-media.com/eb2ecf2b65284c1f58eb36dee4c613a018e2cda2') :height(175) :preview
+media/fc79662b244ce04ae4881dd22d628a6d85fd240c.jpg
+
+
+
+=begin comment :src
+{
+  "from": {
+    "name": "углы «Исимуры»",
+    "type": "user",
+    "id": "zag"
+  },
+  "body": "Для western digital этот год точно не урожайный. <a href=\"http://friendfeed.com/search?q=%23thi\">#thi</a>",
+  "rawLink": "http://friendfeed.com/e/38c903bd-6669-4ea1-8a9f-e41a2eebf5d5",
+  "date": "2011-10-24T07:46:50Z",
+  "id": "e/38c903bd66694ea18a9fe41a2eebf5d5",
+  "url": "http://friendfeed.com/zag/38c903bd/western-digital-thi",
+  "rawBody": "Для western digital этот год точно не урожайный. #thi",
+  "thumbnails": [
+    {
+      "link": "http://m.friendfeed-media.com/eb2ecf2b65284c1f58eb36dee4c613a018e2cda2",
+      "height": 175,
+      "width": 295,
+      "url": "http://m.friendfeed-media.com/fc79662b244ce04ae4881dd22d628a6d85fd240c"
+    }
+  ]
+}
+=end comment
+
+=end pod

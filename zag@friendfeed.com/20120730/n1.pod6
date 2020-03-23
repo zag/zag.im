@@ -1,0 +1,36 @@
+=begin pod :pubdate('2012-07-30T12:08:13Z') :type<note> :tags<perl6 rakudo>
+=NAME Windows .msi available for Rakudo Star 2012.07 #perl6 #rakudo
+
+=begin DESCRIPTION
+
+Windows .msi available for Rakudo Star 2012.07 #perl6 #rakudo - L<link|http://rakudo.org/2012/07/30/windows-msi-available-for-rakudo-star-2012-07/>
+
+
+
+=end DESCRIPTION
+
+Windows .msi available for Rakudo Star 2012.07 #perl6 #rakudo - L<link|http://rakudo.org/2012/07/30/windows-msi-available-for-rakudo-star-2012-07/>
+
+
+
+=begin comment :src
+{
+  "body": "Windows .msi available for Rakudo Star 2012.07 <a href=\"http://friendfeed.com/search?q=%23perl6\">#perl6</a> <a href=\"http://friendfeed.com/search?q=%23rakudo\">#rakudo</a> - <a rel=\"nofollow\" href=\"http://rakudo.org/2012/07/30/windows-msi-available-for-rakudo-star-2012-07/\" title=\"http://rakudo.org/2012/07/30/windows-msi-available-for-rakudo-star-2012-07/\">http://rakudo.org/2012...</a>",
+  "rawLink": "http://rakudo.org/2012/07/30/windows-msi-available-for-rakudo-star-2012-07/",
+  "id": "e/ef28ec14e73f4ffa825b56ad182f2672",
+  "rawBody": "Windows .msi available for Rakudo Star 2012.07 #perl6 #rakudo",
+  "date": "2012-07-30T12:08:13Z",
+  "url": "http://friendfeed.com/zag/ef28ec14/windows-msi-available-for-rakudo-star-2012-07",
+  "via": {
+    "url": "http://friendfeed.com/share/bookmarklet",
+    "name": "Bookmarklet"
+  },
+  "from": {
+    "name": "углы «Исимуры»",
+    "type": "user",
+    "id": "zag"
+  }
+}
+=end comment
+
+=end pod

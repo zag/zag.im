@@ -1,0 +1,32 @@
+=begin pod :pubdate('2010-02-22T11:19:00Z') :type<note> :tags<parrot rakudo>
+=NAME Latest  versions of #parrot (2.1.1) and   #rakudo ("Amsterdam")  now  available in freebsd ports ! http://www.freebsd.org/cgi/ports.cgi?query=parrot&stype=all
+
+=begin DESCRIPTION
+
+Latest  versions of #parrot (2.1.1) and   #rakudo ("Amsterdam")  now  available in freebsd ports ! http://www.freebsd.org/cgi/ports.cgi?query=parrot&stype=all
+
+
+
+=end DESCRIPTION
+
+Latest  versions of #parrot (2.1.1) and   #rakudo ("Amsterdam")  now  available in freebsd ports ! http://www.freebsd.org/cgi/ports.cgi?query=parrot&stype=all
+
+
+
+=begin comment :src
+{
+  "id": "e/8cd786a093a943febfeeb5e3b15f3502",
+  "date": "2010-02-22T11:19:00Z",
+  "from": {
+    "name": "углы «Исимуры»",
+    "id": "zag",
+    "type": "user"
+  },
+  "rawBody": "Latest  versions of #parrot (2.1.1) and   #rakudo (\"Amsterdam\")  now  available in freebsd ports ! http://www.freebsd.org/cgi/ports.cgi?query=parrot&stype=all",
+  "url": "http://friendfeed.com/zag/8cd786a0/latest-versions-of-parrot-2-1-and-rakudo",
+  "rawLink": "http://friendfeed.com/e/8cd786a0-93a9-43fe-bfee-b5e3b15f3502",
+  "body": "Latest  versions of <a href=\"http://friendfeed.com/search?q=%23parrot\">#parrot</a> (2.1.1) and   <a href=\"http://friendfeed.com/search?q=%23rakudo\">#rakudo</a> (&quot;Amsterdam&quot;)  now  available in freebsd ports ! <a rel=\"nofollow\" href=\"http://www.freebsd.org/cgi/ports.cgi?query=parrot&amp;stype=all\" title=\"http://www.freebsd.org/cgi/ports.cgi?query=parrot&amp;stype=all\">http://www.freebsd.org/cgi...</a>"
+}
+=end comment
+
+=end pod

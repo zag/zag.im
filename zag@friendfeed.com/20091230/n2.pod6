@@ -1,0 +1,134 @@
+=begin pod :pubdate('2009-12-30T08:52:04Z') :type<note> 
+=NAME Белоснежной простыней  все укутано кругом !
+
+=begin DESCRIPTION
+
+Белоснежной простыней  все укутано кругом !
+=for Image :width(233) :link('http://m.friendfeed-media.com/93bf56ebc41b0018b580a9dcd73dbde6e31199e2') :height(175) :preview
+media/fc4489796f1c74c203764e862e80427a68474a3e.jpg
+=for Image :width(233) :link('http://m.friendfeed-media.com/9088a73850b0e487b9d77d74ed6602c473ec4f18') :height(175) :preview
+media/959effb34bbf4591e29c3b92c578cfbc80f9e7c6.jpg
+=for Image :width(233) :link('http://m.friendfeed-media.com/78b653f6a5978105ab98ee95da750b20ea986774') :height(175) :preview
+media/1a65c1b7cf2e64e1a48f276216e7e7bf1c3057f1.jpg
+=for Image :width(233) :link('http://m.friendfeed-media.com/8c99ec8e57f6ad45ae80ea54bf2f7a79a94ee670') :height(175) :preview
+media/cf8a8cd2111e6b89bda2514eb7ada321f3d53228.jpg
+=for Image :width(233) :link('http://m.friendfeed-media.com/2d8f9489bc40df011005ffa0042726fd3c987cfd') :height(175) :preview
+media/f1aaeef4ac75df050b7614634d8540d905b55c46.jpg
+=for Image :width(233) :link('http://m.friendfeed-media.com/903e6c7ee0b6b32b596ab69221f9f9d06b244e87') :height(175) :preview
+media/18070a6cd965e62e5aa84758de074aee60e55d88.jpg
+=for Image :width(233) :link('http://m.friendfeed-media.com/b767e370c3cb96f366e311e0d1b9a4ae030944f5') :height(175) :preview
+media/e6e9c810aadb2a6897696888784c1ca68757a2f4.jpg
+=for Image :width(233) :link('http://m.friendfeed-media.com/98fbf249c5bfef9bff6a33727c4b8d25ddd89af1') :height(175) :preview
+media/6feddd5a112869396c5483125f6cf2447fc76597.jpg
+=for Image :width(233) :link('http://m.friendfeed-media.com/ce8ee078d8c0977f9b950489ed5e04afdb7bfc2f') :height(175) :preview
+media/976c2f7c6b14dfa94dce18fe1b6098ebc96efe89.jpg
+=for Image :width(233) :link('http://m.friendfeed-media.com/f39085d10c7cb3381f7769e02729375ec6a7d71b') :height(175) :preview
+media/9eaa3bf22e990b9cc770e13348a4848c9dc84da4.jpg
+
+
+
+=end DESCRIPTION
+
+Белоснежной простыней  все укутано кругом !
+=for Image :width(233) :link('http://m.friendfeed-media.com/93bf56ebc41b0018b580a9dcd73dbde6e31199e2') :height(175) :preview
+media/fc4489796f1c74c203764e862e80427a68474a3e.jpg
+=for Image :width(233) :link('http://m.friendfeed-media.com/9088a73850b0e487b9d77d74ed6602c473ec4f18') :height(175) :preview
+media/959effb34bbf4591e29c3b92c578cfbc80f9e7c6.jpg
+=for Image :width(233) :link('http://m.friendfeed-media.com/78b653f6a5978105ab98ee95da750b20ea986774') :height(175) :preview
+media/1a65c1b7cf2e64e1a48f276216e7e7bf1c3057f1.jpg
+=for Image :width(233) :link('http://m.friendfeed-media.com/8c99ec8e57f6ad45ae80ea54bf2f7a79a94ee670') :height(175) :preview
+media/cf8a8cd2111e6b89bda2514eb7ada321f3d53228.jpg
+=for Image :width(233) :link('http://m.friendfeed-media.com/2d8f9489bc40df011005ffa0042726fd3c987cfd') :height(175) :preview
+media/f1aaeef4ac75df050b7614634d8540d905b55c46.jpg
+=for Image :width(233) :link('http://m.friendfeed-media.com/903e6c7ee0b6b32b596ab69221f9f9d06b244e87') :height(175) :preview
+media/18070a6cd965e62e5aa84758de074aee60e55d88.jpg
+=for Image :width(233) :link('http://m.friendfeed-media.com/b767e370c3cb96f366e311e0d1b9a4ae030944f5') :height(175) :preview
+media/e6e9c810aadb2a6897696888784c1ca68757a2f4.jpg
+=for Image :width(233) :link('http://m.friendfeed-media.com/98fbf249c5bfef9bff6a33727c4b8d25ddd89af1') :height(175) :preview
+media/6feddd5a112869396c5483125f6cf2447fc76597.jpg
+=for Image :width(233) :link('http://m.friendfeed-media.com/ce8ee078d8c0977f9b950489ed5e04afdb7bfc2f') :height(175) :preview
+media/976c2f7c6b14dfa94dce18fe1b6098ebc96efe89.jpg
+=for Image :width(233) :link('http://m.friendfeed-media.com/f39085d10c7cb3381f7769e02729375ec6a7d71b') :height(175) :preview
+media/9eaa3bf22e990b9cc770e13348a4848c9dc84da4.jpg
+
+
+
+=begin comment :src
+{
+  "id": "e/fdef403ea3bb481594eda6a194534f81",
+  "rawBody": "Белоснежной простыней  все укутано кругом !",
+  "date": "2009-12-30T08:52:04Z",
+  "thumbnails": [
+    {
+      "height": 175,
+      "link": "http://m.friendfeed-media.com/93bf56ebc41b0018b580a9dcd73dbde6e31199e2",
+      "url": "http://m.friendfeed-media.com/fc4489796f1c74c203764e862e80427a68474a3e",
+      "width": 233
+    },
+    {
+      "url": "http://m.friendfeed-media.com/959effb34bbf4591e29c3b92c578cfbc80f9e7c6",
+      "width": 233,
+      "link": "http://m.friendfeed-media.com/9088a73850b0e487b9d77d74ed6602c473ec4f18",
+      "height": 175
+    },
+    {
+      "width": 233,
+      "url": "http://m.friendfeed-media.com/1a65c1b7cf2e64e1a48f276216e7e7bf1c3057f1",
+      "link": "http://m.friendfeed-media.com/78b653f6a5978105ab98ee95da750b20ea986774",
+      "height": 175
+    },
+    {
+      "width": 233,
+      "url": "http://m.friendfeed-media.com/cf8a8cd2111e6b89bda2514eb7ada321f3d53228",
+      "link": "http://m.friendfeed-media.com/8c99ec8e57f6ad45ae80ea54bf2f7a79a94ee670",
+      "height": 175
+    },
+    {
+      "width": 233,
+      "url": "http://m.friendfeed-media.com/f1aaeef4ac75df050b7614634d8540d905b55c46",
+      "height": 175,
+      "link": "http://m.friendfeed-media.com/2d8f9489bc40df011005ffa0042726fd3c987cfd"
+    },
+    {
+      "height": 175,
+      "link": "http://m.friendfeed-media.com/903e6c7ee0b6b32b596ab69221f9f9d06b244e87",
+      "url": "http://m.friendfeed-media.com/18070a6cd965e62e5aa84758de074aee60e55d88",
+      "width": 233
+    },
+    {
+      "width": 233,
+      "url": "http://m.friendfeed-media.com/e6e9c810aadb2a6897696888784c1ca68757a2f4",
+      "link": "http://m.friendfeed-media.com/b767e370c3cb96f366e311e0d1b9a4ae030944f5",
+      "height": 175
+    },
+    {
+      "url": "http://m.friendfeed-media.com/6feddd5a112869396c5483125f6cf2447fc76597",
+      "width": 233,
+      "height": 175,
+      "link": "http://m.friendfeed-media.com/98fbf249c5bfef9bff6a33727c4b8d25ddd89af1"
+    },
+    {
+      "width": 233,
+      "url": "http://m.friendfeed-media.com/976c2f7c6b14dfa94dce18fe1b6098ebc96efe89",
+      "link": "http://m.friendfeed-media.com/ce8ee078d8c0977f9b950489ed5e04afdb7bfc2f",
+      "height": 175
+    },
+    {
+      "width": 233,
+      "url": "http://m.friendfeed-media.com/9eaa3bf22e990b9cc770e13348a4848c9dc84da4",
+      "height": 175,
+      "link": "http://m.friendfeed-media.com/f39085d10c7cb3381f7769e02729375ec6a7d71b"
+    }
+  ],
+  "url": "http://friendfeed.com/zag/fdef403e",
+  "body": "Белоснежной простыней  все укутано кругом !",
+  "rawLink": "http://friendfeed.com/e/fdef403e-a3bb-4815-94ed-a6a194534f81",
+  "from": {
+    "type": "user",
+    "id": "zag",
+    "name": "углы «Исимуры»"
+  }
+}
+=end comment
+
+=end pod

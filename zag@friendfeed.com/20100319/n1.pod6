@@ -1,0 +1,36 @@
+=begin pod :pubdate('2010-03-19T06:44:54Z') :type<note> 
+=NAME 9,5 правил ведения безопасного IT-бизнеса в России | Микромаркетинг
+
+=begin DESCRIPTION
+
+9,5 правил ведения безопасного IT-бизнеса в России | Микромаркетинг - L<link|http://blog.micromarketing.ru/advice/9-point-5-rules-fot-it-business-in-russia/>
+
+
+
+=end DESCRIPTION
+
+9,5 правил ведения безопасного IT-бизнеса в России | Микромаркетинг - L<link|http://blog.micromarketing.ru/advice/9-point-5-rules-fot-it-business-in-russia/>
+
+
+
+=begin comment :src
+{
+  "from": {
+    "name": "углы «Исимуры»",
+    "type": "user",
+    "id": "zag"
+  },
+  "via": {
+    "url": "http://friendfeed.com/share/bookmarklet",
+    "name": "Bookmarklet"
+  },
+  "body": "9,5 правил ведения безопасного IT-бизнеса в России | Микромаркетинг - <a rel=\"nofollow\" href=\"http://blog.micromarketing.ru/advice/9-point-5-rules-fot-it-business-in-russia/\" title=\"http://blog.micromarketing.ru/advice/9-point-5-rules-fot-it-business-in-russia/\">http://blog.micromarketing.ru/advice...</a>",
+  "rawLink": "http://blog.micromarketing.ru/advice/9-point-5-rules-fot-it-business-in-russia/",
+  "rawBody": "9,5 правил ведения безопасного IT-бизнеса в России | Микромаркетинг",
+  "id": "e/2b6aca6e94db47cba8f2a04f4bc49bbe",
+  "date": "2010-03-19T06:44:54Z",
+  "url": "http://friendfeed.com/zag/2b6aca6e/9-5-it"
+}
+=end comment
+
+=end pod

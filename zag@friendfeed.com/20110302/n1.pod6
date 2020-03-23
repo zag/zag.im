@@ -1,0 +1,53 @@
+=begin pod :pubdate('2011-03-02T08:55:11Z') :type<note> 
+=NAME Простым языком, что такое распределенная социальная сеть. / Understand distributed social networks.
+
+=begin DESCRIPTION
+
+Простым языком, что такое распределенная социальная сеть. / Understand distributed social networks.
+=for Image :width(135) :link('http://m.friendfeed-media.com/7885a36ab60a1ed2e0d387981c257324c44c009e') :height(175) :preview
+media/b630b8ec4768370549e79adb63a4d7e4d9fa67b4.jpg
+
+
+
+=end DESCRIPTION
+
+Простым языком, что такое распределенная социальная сеть. / Understand distributed social networks.
+=for Image :width(135) :link('http://m.friendfeed-media.com/7885a36ab60a1ed2e0d387981c257324c44c009e') :height(175) :preview
+media/b630b8ec4768370549e79adb63a4d7e4d9fa67b4.jpg
+
+
+
+=begin comment :src
+{
+  "rawLink": "http://friendfeed.com/e/6d145a15-f789-4ceb-a6b5-c5391a29dc66",
+  "body": "Простым языком, что такое распределенная социальная сеть. / Understand distributed social networks.",
+  "thumbnails": [
+    {
+      "link": "http://m.friendfeed-media.com/7885a36ab60a1ed2e0d387981c257324c44c009e",
+      "height": 175,
+      "width": 135,
+      "url": "http://m.friendfeed-media.com/b630b8ec4768370549e79adb63a4d7e4d9fa67b4"
+    }
+  ],
+  "id": "e/6d145a15f7894ceba6b5c5391a29dc66",
+  "date": "2011-03-02T08:55:11Z",
+  "rawBody": "Простым языком, что такое распределенная социальная сеть. / Understand distributed social networks.",
+  "url": "http://friendfeed.com/zag/6d145a15/understand-distributed-social-networks",
+  "files": [
+    {
+      "name": "dsn-comic.pdf",
+      "type": "application/pdf",
+      "url": "http://m.friendfeed-media.com/c3c13ea18a00c3b5bc73be4d18604dbb7c809a8f",
+      "icon": "http://friendfeed.com/static/images/filetypes/pdf.png?v=5ee1",
+      "size": 9434513
+    }
+  ],
+  "from": {
+    "type": "user",
+    "id": "zag",
+    "name": "углы «Исимуры»"
+  }
+}
+=end comment
+
+=end pod

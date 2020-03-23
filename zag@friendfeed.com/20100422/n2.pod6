@@ -1,0 +1,44 @@
+=begin pod :pubdate('2010-04-22T08:48:06Z') :type<note> :tags<facebook>
+=NAME #facebook подготовился основательно. Элементы интерфеса Open Graph API поддерживают русский.
+
+=begin DESCRIPTION
+
+#facebook подготовился основательно. Элементы интерфеса Open Graph API поддерживают русский.
+=for Image :width(435) :link('http://m.friendfeed-media.com/72003f0bb57fc554b4c803317dbc53ffc714d2d9') :height(175) :preview
+media/71b069217fa460dc94de1314e55b65310a80ec3f.jpg
+
+
+
+=end DESCRIPTION
+
+#facebook подготовился основательно. Элементы интерфеса Open Graph API поддерживают русский.
+=for Image :width(435) :link('http://m.friendfeed-media.com/72003f0bb57fc554b4c803317dbc53ffc714d2d9') :height(175) :preview
+media/71b069217fa460dc94de1314e55b65310a80ec3f.jpg
+
+
+
+=begin comment :src
+{
+  "from": {
+    "id": "zag",
+    "type": "user",
+    "name": "углы «Исимуры»"
+  },
+  "rawLink": "http://friendfeed.com/e/3fe1fc58-f55f-4ae3-85d6-c30e36465357",
+  "body": "<a href=\"http://friendfeed.com/search?q=%23facebook\">#facebook</a> подготовился основательно. Элементы интерфеса Open Graph API поддерживают русский.",
+  "rawBody": "#facebook подготовился основательно. Элементы интерфеса Open Graph API поддерживают русский.",
+  "id": "e/3fe1fc58f55f4ae385d6c30e36465357",
+  "date": "2010-04-22T08:48:06Z",
+  "url": "http://friendfeed.com/zag/3fe1fc58/facebook-open-graph-api",
+  "thumbnails": [
+    {
+      "height": 175,
+      "link": "http://m.friendfeed-media.com/72003f0bb57fc554b4c803317dbc53ffc714d2d9",
+      "url": "http://m.friendfeed-media.com/71b069217fa460dc94de1314e55b65310a80ec3f",
+      "width": 435
+    }
+  ]
+}
+=end comment
+
+=end pod

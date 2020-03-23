@@ -1,0 +1,58 @@
+=begin pod :pubdate('2012-10-02T09:20:42Z') :type<note> :tags<frf>
+=NAME «Жив курилка»: FriendFeed 5 лет.  #frf (via http://ff.im/15ebuC)
+
+=begin DESCRIPTION
+
+«Жив курилка»: FriendFeed 5 лет.  #frf (via http://ff.im/15ebuC)
+
+
+
+=end DESCRIPTION
+
+«Жив курилка»: FriendFeed 5 лет.  #frf (via http://ff.im/15ebuC)
+
+
+
+=begin comment :src
+{
+  "rawBody": "«Жив курилка»: FriendFeed 5 лет.  #frf (via http://ff.im/15ebuC)",
+  "id": "e/d06f7bdf8dee4bf098eb183ce177089d",
+  "date": "2012-10-02T09:20:42Z",
+  "url": "http://friendfeed.com/zag/d06f7bdf/friendfeed-5-frf-via",
+  "thumbnails": [
+    {
+      "url": "http://4.bp.blogspot.com/-mabP8CrbmCI/UGn-DFIspeI/AAAAAAAAv50/zzEPndPq5s0/s72-c/friendfeedold_500a.jpg",
+      "width": 72,
+      "link": "http://friendfeed.com/e/d06f7bdf-8dee-4bf0-98eb-183ce177089d",
+      "height": 72
+    }
+  ],
+  "body": "«Жив курилка»: FriendFeed 5 лет.  <a href=\"http://friendfeed.com/search?q=%23frf\">#frf</a> (via <a href=\"http://ff.im/15ebuC\" title=\"http://friendfeed.com/louisgray/bef34efd/friendfeed-turns-five-one-time-pioneer-is-still\">http://friendfeed.com/louisgr...</a>)",
+  "rawLink": "http://friendfeed.com/e/d06f7bdf-8dee-4bf0-98eb-183ce177089d",
+  "likes": [
+    {
+      "date": "2012-10-02T18:46:02Z",
+      "from": {
+        "type": "user",
+        "id": "naty007",
+        "name": "написано иероглифами"
+      }
+    },
+    {
+      "date": "2012-10-02T18:42:20Z",
+      "from": {
+        "name": "alex@kapranoff.ru",
+        "type": "user",
+        "id": "kkapp"
+      }
+    }
+  ],
+  "from": {
+    "name": "углы «Исимуры»",
+    "id": "zag",
+    "type": "user"
+  }
+}
+=end comment
+
+=end pod

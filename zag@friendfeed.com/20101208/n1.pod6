@@ -1,0 +1,68 @@
+=begin pod :pubdate('2010-12-08T22:15:02Z') :type<note> 
+=NAME The Star Wars Alphabet | WildAmmo.com
+
+=begin DESCRIPTION
+
+The Star Wars Alphabet | WildAmmo.com - L<link|http://wildammo.com/2010/12/07/the-star-wars-alphabet/>
+=for Image :width(175) :link('http://wildammo.com/2010/12/07/the-star-wars-alphabet/') :height(175) :preview
+media/42591bc1607f85bf1e638a8eefac915820322ef1.jpg
+=for Image :width(175) :link('http://wildammo.com/2010/12/07/the-star-wars-alphabet/') :height(175) :preview
+media/fd540eed92c7dbd2e470b2ed8430f7b578b3d2ec.jpg
+=for Image :width(175) :link('http://wildammo.com/2010/12/07/the-star-wars-alphabet/') :height(175) :preview
+media/44c127085c87d17d540de97217f88bbaa4016c1d.jpg
+
+
+
+=end DESCRIPTION
+
+The Star Wars Alphabet | WildAmmo.com - L<link|http://wildammo.com/2010/12/07/the-star-wars-alphabet/>
+=for Image :width(175) :link('http://wildammo.com/2010/12/07/the-star-wars-alphabet/') :height(175) :preview
+media/42591bc1607f85bf1e638a8eefac915820322ef1.jpg
+=for Image :width(175) :link('http://wildammo.com/2010/12/07/the-star-wars-alphabet/') :height(175) :preview
+media/fd540eed92c7dbd2e470b2ed8430f7b578b3d2ec.jpg
+=for Image :width(175) :link('http://wildammo.com/2010/12/07/the-star-wars-alphabet/') :height(175) :preview
+media/44c127085c87d17d540de97217f88bbaa4016c1d.jpg
+
+
+
+=begin comment :src
+{
+  "from": {
+    "name": "углы «Исимуры»",
+    "id": "zag",
+    "type": "user"
+  },
+  "via": {
+    "url": "http://friendfeed.com/share/bookmarklet",
+    "name": "Bookmarklet"
+  },
+  "rawLink": "http://wildammo.com/2010/12/07/the-star-wars-alphabet/",
+  "body": "The Star Wars Alphabet | WildAmmo.com - <a rel=\"nofollow\" href=\"http://wildammo.com/2010/12/07/the-star-wars-alphabet/\" title=\"http://wildammo.com/2010/12/07/the-star-wars-alphabet/\">http://wildammo.com/2010...</a>",
+  "id": "e/bbe6af9b13704d22a12270dd277166e2",
+  "date": "2010-12-08T22:15:02Z",
+  "rawBody": "The Star Wars Alphabet | WildAmmo.com",
+  "url": "http://friendfeed.com/zag/bbe6af9b/star-wars-alphabet-wildammo",
+  "thumbnails": [
+    {
+      "width": 175,
+      "url": "http://m.friendfeed-media.com/42591bc1607f85bf1e638a8eefac915820322ef1",
+      "link": "http://wildammo.com/2010/12/07/the-star-wars-alphabet/",
+      "height": 175
+    },
+    {
+      "width": 175,
+      "url": "http://m.friendfeed-media.com/fd540eed92c7dbd2e470b2ed8430f7b578b3d2ec",
+      "height": 175,
+      "link": "http://wildammo.com/2010/12/07/the-star-wars-alphabet/"
+    },
+    {
+      "link": "http://wildammo.com/2010/12/07/the-star-wars-alphabet/",
+      "height": 175,
+      "width": 175,
+      "url": "http://m.friendfeed-media.com/44c127085c87d17d540de97217f88bbaa4016c1d"
+    }
+  ]
+}
+=end comment
+
+=end pod

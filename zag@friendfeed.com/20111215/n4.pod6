@@ -1,0 +1,46 @@
+=begin pod :pubdate('2011-12-15T17:53:07Z') :type<note> 
+=NAME RT @pedromelo: Perlito http://t.co/Ou3PQIj0 a compiler for a useful subset of Perl6 - generates perl5 or Javascript - web demo: http://t.co/ooyW09yQ
+
+=begin DESCRIPTION
+
+RT @pedromelo: Perlito http://t.co/Ou3PQIj0 a compiler for a useful subset of Perl6 - generates perl5 or Javascript - web demo: http://t.co/ooyW09yQ - L<link|http://twitter.com/zagru/statuses/147373636829974528>
+
+
+
+=end DESCRIPTION
+
+RT @pedromelo: Perlito http://t.co/Ou3PQIj0 a compiler for a useful subset of Perl6 - generates perl5 or Javascript - web demo: http://t.co/ooyW09yQ - L<link|http://twitter.com/zagru/statuses/147373636829974528>
+
+
+
+=begin comment :src
+{
+  "from": {
+    "name": "углы «Исимуры»",
+    "id": "zag",
+    "type": "user"
+  },
+  "via": {
+    "name": "Twitter",
+    "url": "http://twitter.com/zagru/statuses/147373636829974528"
+  },
+  "id": "e/ce7db4246fc7a103ef254011749df92f",
+  "rawBody": "RT @pedromelo: Perlito http://t.co/Ou3PQIj0 a compiler for a useful subset of Perl6 - generates perl5 or Javascript - web demo: http://t.co/ooyW09yQ",
+  "date": "2011-12-15T17:53:07Z",
+  "url": "http://friendfeed.com/zag/ce7db424/rt-pedromelo-perlito-compiler-for-useful",
+  "body": "RT @<a rel=\"nofollow\" href=\"http://twitter.com/pedromelo\">pedromelo</a>: Perlito <a rel=\"nofollow\" href=\"http://t.co/Ou3PQIj0\">http://t.co/Ou3PQIj0</a> a compiler for a useful subset of Perl6 - generates perl5 or Javascript - web demo: <a rel=\"nofollow\" href=\"http://t.co/ooyW09yQ\">http://t.co/ooyW09yQ</a>",
+  "rawLink": "http://twitter.com/zagru/statuses/147373636829974528",
+  "likes": [
+    {
+      "from": {
+        "name": "alex@kapranoff.ru",
+        "type": "user",
+        "id": "kkapp"
+      },
+      "date": "2011-12-15T18:01:12Z"
+    }
+  ]
+}
+=end comment
+
+=end pod

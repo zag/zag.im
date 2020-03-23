@@ -1,0 +1,36 @@
+=begin pod :pubdate('2010-12-17T07:21:02Z') :type<note> 
+=NAME RT @adactio: curl https://{your username}:{your password}@api.del.icio.us/v1/posts/all to get an XML file of your Delicious bookmarks.
+
+=begin DESCRIPTION
+
+RT @adactio: curl https://{your username}:{your password}@api.del.icio.us/v1/posts/all to get an XML file of your Delicious bookmarks. - L<link|http://twitter.com/zagru/statuses/15667772948226048>
+
+
+
+=end DESCRIPTION
+
+RT @adactio: curl https://{your username}:{your password}@api.del.icio.us/v1/posts/all to get an XML file of your Delicious bookmarks. - L<link|http://twitter.com/zagru/statuses/15667772948226048>
+
+
+
+=begin comment :src
+{
+  "via": {
+    "url": "http://twitter.com/zagru/statuses/15667772948226048",
+    "name": "Twitter"
+  },
+  "from": {
+    "id": "zag",
+    "type": "user",
+    "name": "углы «Исимуры»"
+  },
+  "body": "RT @<a rel=\"nofollow\" href=\"http://twitter.com/adactio\">adactio</a>: curl <a rel=\"nofollow\" href=\"https://{your\">https://{your</a> username}:{your password}@api.del.icio.us/v1/posts/all to get an XML file of your Delicious bookmarks.",
+  "rawLink": "http://twitter.com/zagru/statuses/15667772948226048",
+  "date": "2010-12-17T07:21:02Z",
+  "id": "e/6d412f17a028b7e39bc91afa1eb533c5",
+  "url": "http://friendfeed.com/zag/6d412f17/rt-adactio-curl-username-your-password-api-del",
+  "rawBody": "RT @adactio: curl https://{your username}:{your password}@api.del.icio.us/v1/posts/all to get an XML file of your Delicious bookmarks."
+}
+=end comment
+
+=end pod

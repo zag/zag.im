@@ -1,0 +1,95 @@
+=begin pod :pubdate('2009-06-18T09:25:22Z') :type<note> 
+=NAME Famous People Painting "Discussing the Divine Comedy with Dante"
+
+=begin DESCRIPTION
+
+Famous People Painting "Discussing the Divine Comedy with Dante" - L<link|http://cliptank.com/PeopleofInfluencePainting.htm>
+
+=item круто
+=item Описание персонажей : http://cliptank.com/history-painting-famous-answers.html
+=item wow
+
+
+=end DESCRIPTION
+
+Famous People Painting "Discussing the Divine Comedy with Dante" - L<link|http://cliptank.com/PeopleofInfluencePainting.htm>
+
+=item круто
+=item Описание персонажей : http://cliptank.com/history-painting-famous-answers.html
+=item wow
+
+
+=begin comment :src
+{
+  "rawLink": "http://cliptank.com/PeopleofInfluencePainting.htm",
+  "likes": [
+    {
+      "date": "2009-06-18T09:51:14Z",
+      "from": {
+        "name": "alex@kapranoff.ru",
+        "id": "kkapp",
+        "type": "user"
+      }
+    }
+  ],
+  "body": "Famous People Painting &quot;Discussing the Divine Comedy with Dante&quot; - <a rel=\"nofollow\" href=\"http://cliptank.com/PeopleofInfluencePainting.htm\" title=\"http://cliptank.com/PeopleofInfluencePainting.htm\">http://cliptank.com/Peopleo...</a>",
+  "id": "e/f8d30f85359543b1a472f73f3a8453e7",
+  "url": "http://friendfeed.com/zag/f8d30f85/famous-people-painting-discussing-divine",
+  "date": "2009-06-18T09:25:22Z",
+  "rawBody": "Famous People Painting \"Discussing the Divine Comedy with Dante\"",
+  "thumbnails": [
+    {
+      "url": "http://i.friendfeed.com/6c6dedfeec74d2818b6818bdc1906799f8d762cf",
+      "width": 412,
+      "link": "http://cliptank.com/PeopleofInfluencePainting.htm",
+      "height": 175
+    }
+  ],
+  "comments": [
+    {
+      "id": "e/f8d30f85359543b1a472f73f3a8453e7/c/04b334d3761142f6822119161a1ef8d1",
+      "rawBody": "круто",
+      "date": "2009-06-18T09:51:19Z",
+      "from": {
+        "id": "kkapp",
+        "type": "user",
+        "name": "alex@kapranoff.ru"
+      },
+      "body": "круто"
+    },
+    {
+      "body": "Описание персонажей : <a rel=\"nofollow\" href=\"http://cliptank.com/history-painting-famous-answers.html\" title=\"http://cliptank.com/history-painting-famous-answers.html\">http://cliptank.com/history...</a>",
+      "rawBody": "Описание персонажей : http://cliptank.com/history-painting-famous-answers.html",
+      "date": "2009-06-18T09:53:46Z",
+      "id": "e/f8d30f85359543b1a472f73f3a8453e7/c/725cbd3d23d84560b56e7a129890b65b",
+      "from": {
+        "name": "углы «Исимуры»",
+        "type": "user",
+        "id": "zag"
+      }
+    },
+    {
+      "body": "wow",
+      "id": "e/f8d30f85359543b1a472f73f3a8453e7/c/1ff55c5f1aa64727a663fe909d066763",
+      "rawBody": "wow",
+      "date": "2009-06-19T22:30:51Z",
+      "from": {
+        "name": "Giornalettismo",
+        "id": "giornalettismo",
+        "type": "user"
+      }
+    }
+  ],
+  "from": {
+    "id": "zag",
+    "type": "user",
+    "name": "углы «Исимуры»"
+  },
+  "via": {
+    "name": "Bookmarklet",
+    "url": "http://friendfeed.com/share/bookmarklet"
+  }
+}
+=end comment
+
+=end pod

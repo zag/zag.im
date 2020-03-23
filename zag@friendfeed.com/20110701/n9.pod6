@@ -1,0 +1,48 @@
+=begin pod :pubdate('2011-07-01T09:06:01Z') :type<note> :tags<lvee>
+=NAME Cell.js #lvee
+
+=begin DESCRIPTION
+
+Cell.js #lvee
+=for Image :width(292) :link('http://m.friendfeed-media.com/5a2d500ea0638153fb879437730cc4c6b1770d77') :height(175) :preview
+media/adb0d2290d7c7c0558331a9e1cec0a4a14b157b1.jpg
+
+
+
+=end DESCRIPTION
+
+Cell.js #lvee
+=for Image :width(292) :link('http://m.friendfeed-media.com/5a2d500ea0638153fb879437730cc4c6b1770d77') :height(175) :preview
+media/adb0d2290d7c7c0558331a9e1cec0a4a14b157b1.jpg
+
+
+
+=begin comment :src
+{
+  "body": "Cell.js <a href=\"http://friendfeed.com/search?q=%23lvee\">#lvee</a>",
+  "rawLink": "http://friendfeed.com/e/fbe89e48-ed94-4340-9f5a-6d5a3604bf21",
+  "date": "2011-07-01T09:06:01Z",
+  "id": "e/fbe89e48ed9443409f5a6d5a3604bf21",
+  "rawBody": "Cell.js #lvee",
+  "url": "http://friendfeed.com/zag/fbe89e48/cell-js-lvee",
+  "thumbnails": [
+    {
+      "link": "http://m.friendfeed-media.com/5a2d500ea0638153fb879437730cc4c6b1770d77",
+      "height": 175,
+      "url": "http://m.friendfeed-media.com/adb0d2290d7c7c0558331a9e1cec0a4a14b157b1",
+      "width": 292
+    }
+  ],
+  "from": {
+    "name": "углы «Исимуры»",
+    "type": "user",
+    "id": "zag"
+  },
+  "via": {
+    "name": "email",
+    "url": "http://friendfeed.com/share/mail"
+  }
+}
+=end comment
+
+=end pod

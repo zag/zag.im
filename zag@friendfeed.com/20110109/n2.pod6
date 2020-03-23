@@ -1,0 +1,36 @@
+=begin pod :pubdate('2011-01-09T11:06:23Z') :type<note> :tags<stackoverflow kindle>
+=NAME RT @ghewgill: Stack Overflow top programming questions in ebook format for Kindle: http://meta.stackoverflow.com/q/74399/893 #stackoverflow #kindle
+
+=begin DESCRIPTION
+
+RT @ghewgill: Stack Overflow top programming questions in ebook format for Kindle: http://meta.stackoverflow.com/q/74399/893 #stackoverflow #kindle - L<link|http://twitter.com/zagru/statuses/24059401966977024>
+
+
+
+=end DESCRIPTION
+
+RT @ghewgill: Stack Overflow top programming questions in ebook format for Kindle: http://meta.stackoverflow.com/q/74399/893 #stackoverflow #kindle - L<link|http://twitter.com/zagru/statuses/24059401966977024>
+
+
+
+=begin comment :src
+{
+  "from": {
+    "name": "углы «Исимуры»",
+    "type": "user",
+    "id": "zag"
+  },
+  "via": {
+    "name": "Twitter",
+    "url": "http://twitter.com/zagru/statuses/24059401966977024"
+  },
+  "date": "2011-01-09T11:06:23Z",
+  "id": "e/3e4a6e43e8d2cddf4c98cb46cdc331f4",
+  "rawBody": "RT @ghewgill: Stack Overflow top programming questions in ebook format for Kindle: http://meta.stackoverflow.com/q/74399/893 #stackoverflow #kindle",
+  "url": "http://friendfeed.com/zag/3e4a6e43/rt-ghewgill-stack-overflow-top-programming",
+  "rawLink": "http://twitter.com/zagru/statuses/24059401966977024",
+  "body": "RT @<a rel=\"nofollow\" href=\"http://twitter.com/ghewgill\">ghewgill</a>: Stack Overflow top programming questions in ebook format for Kindle: <a rel=\"nofollow\" href=\"http://meta.stackoverflow.com/q/74399/893\" title=\"http://meta.stackoverflow.com/questions/74399/stack-overflow-top-20-tags-in-ebook-format\">http://meta.stackoverflow.com/questio...</a> <a rel=\"nofollow\" href=\"http://search.twitter.com/search?q=%23stackoverflow\">#stackoverflow</a> <a rel=\"nofollow\" href=\"http://search.twitter.com/search?q=%23kindle\">#kindle</a>"
+}
+=end comment
+
+=end pod

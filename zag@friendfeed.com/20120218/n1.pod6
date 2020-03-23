@@ -1,0 +1,36 @@
+=begin pod :pubdate('2012-02-18T15:01:21Z') :type<note> :tags<lvee>
+=NAME RT @antono: А вот и сладый к феерическому докладу про GObject Introspection http://t.co/sXBdpIK8 #lvee
+
+=begin DESCRIPTION
+
+RT @antono: А вот и сладый к феерическому докладу про GObject Introspection http://t.co/sXBdpIK8 #lvee - L<link|http://twitter.com/zagru/statuses/170885620774866944>
+
+
+
+=end DESCRIPTION
+
+RT @antono: А вот и сладый к феерическому докладу про GObject Introspection http://t.co/sXBdpIK8 #lvee - L<link|http://twitter.com/zagru/statuses/170885620774866944>
+
+
+
+=begin comment :src
+{
+  "rawBody": "RT @antono: А вот и сладый к феерическому докладу про GObject Introspection http://t.co/sXBdpIK8 #lvee",
+  "id": "e/61306e0d84a625ca24199f645d3b2694",
+  "date": "2012-02-18T15:01:21Z",
+  "url": "http://friendfeed.com/zag/61306e0d/rt-antono-gobject-introspection-lvee",
+  "body": "RT @<a rel=\"nofollow\" href=\"http://twitter.com/antono\">antono</a>: А вот и сладый к феерическому докладу про GObject Introspection <a rel=\"nofollow\" href=\"http://t.co/sXBdpIK8\" title=\"http://static.antono.info/lvee/2012/gobject-introspection/gobject-introspection-slides.html\">http://static.antono.info/lvee...</a> <a rel=\"nofollow\" href=\"http://search.twitter.com/search?q=%23lvee\">#lvee</a>",
+  "rawLink": "http://twitter.com/zagru/statuses/170885620774866944",
+  "via": {
+    "name": "Twitter",
+    "url": "http://twitter.com/zagru/statuses/170885620774866944"
+  },
+  "from": {
+    "name": "углы «Исимуры»",
+    "type": "user",
+    "id": "zag"
+  }
+}
+=end comment
+
+=end pod

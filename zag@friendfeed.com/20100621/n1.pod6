@@ -1,0 +1,78 @@
+=begin pod :pubdate('2010-06-21T19:59:09Z') :type<note> 
+=NAME Вечером особенно душист клевер. Гадание на картах.
+
+=begin DESCRIPTION
+
+Вечером особенно душист клевер. Гадание на картах.
+=for Image :width(233) :link('http://m.friendfeed-media.com/4048462b4454be8e7dfb9c1029aaedfbe515a333') :height(175) :preview
+media/2771aeed10f5c9a5bac486fb2ed3cdaf4e2c0660.jpg
+=for Image :width(233) :link('http://m.friendfeed-media.com/e87191c10a1afdb6706128d0e0341c7087dbb328') :height(175) :preview
+media/0eef4a3e04b07b08905562f509ca547a6704f0cc.jpg
+=for Image :width(233) :link('http://m.friendfeed-media.com/6df2860dbb6b83b71458a850d6d0c8b38143a1b1') :height(175) :preview
+media/bb44aaeab06cecf5e5ae5f31b4fda5d3dcb2f67d.jpg
+=for Image :width(233) :link('http://m.friendfeed-media.com/0e5911b136cff9ed199389e43b71aac27b3a17db') :height(175) :preview
+media/1704fdc035bee2b72e675171c5ab87f1af90086f.jpg
+
+
+
+=end DESCRIPTION
+
+Вечером особенно душист клевер. Гадание на картах.
+=for Image :width(233) :link('http://m.friendfeed-media.com/4048462b4454be8e7dfb9c1029aaedfbe515a333') :height(175) :preview
+media/2771aeed10f5c9a5bac486fb2ed3cdaf4e2c0660.jpg
+=for Image :width(233) :link('http://m.friendfeed-media.com/e87191c10a1afdb6706128d0e0341c7087dbb328') :height(175) :preview
+media/0eef4a3e04b07b08905562f509ca547a6704f0cc.jpg
+=for Image :width(233) :link('http://m.friendfeed-media.com/6df2860dbb6b83b71458a850d6d0c8b38143a1b1') :height(175) :preview
+media/bb44aaeab06cecf5e5ae5f31b4fda5d3dcb2f67d.jpg
+=for Image :width(233) :link('http://m.friendfeed-media.com/0e5911b136cff9ed199389e43b71aac27b3a17db') :height(175) :preview
+media/1704fdc035bee2b72e675171c5ab87f1af90086f.jpg
+
+
+
+=begin comment :src
+{
+  "via": {
+    "name": "email",
+    "url": "http://friendfeed.com/share/mail"
+  },
+  "from": {
+    "name": "углы «Исимуры»",
+    "type": "user",
+    "id": "zag"
+  },
+  "body": "Вечером особенно душист клевер. Гадание на картах.",
+  "rawLink": "http://friendfeed.com/e/3fafe9b0-5b83-4b37-bbf0-4dd1fcd11e1d",
+  "id": "e/3fafe9b05b834b37bbf04dd1fcd11e1d",
+  "rawBody": "Вечером особенно душист клевер. Гадание на картах.",
+  "date": "2010-06-21T19:59:09Z",
+  "url": "http://friendfeed.com/zag/3fafe9b0",
+  "thumbnails": [
+    {
+      "height": 175,
+      "link": "http://m.friendfeed-media.com/4048462b4454be8e7dfb9c1029aaedfbe515a333",
+      "url": "http://m.friendfeed-media.com/2771aeed10f5c9a5bac486fb2ed3cdaf4e2c0660",
+      "width": 233
+    },
+    {
+      "url": "http://m.friendfeed-media.com/0eef4a3e04b07b08905562f509ca547a6704f0cc",
+      "width": 233,
+      "link": "http://m.friendfeed-media.com/e87191c10a1afdb6706128d0e0341c7087dbb328",
+      "height": 175
+    },
+    {
+      "link": "http://m.friendfeed-media.com/6df2860dbb6b83b71458a850d6d0c8b38143a1b1",
+      "height": 175,
+      "url": "http://m.friendfeed-media.com/bb44aaeab06cecf5e5ae5f31b4fda5d3dcb2f67d",
+      "width": 233
+    },
+    {
+      "height": 175,
+      "link": "http://m.friendfeed-media.com/0e5911b136cff9ed199389e43b71aac27b3a17db",
+      "url": "http://m.friendfeed-media.com/1704fdc035bee2b72e675171c5ab87f1af90086f",
+      "width": 233
+    }
+  ]
+}
+=end comment
+
+=end pod

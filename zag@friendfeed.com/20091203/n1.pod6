@@ -1,0 +1,89 @@
+=begin pod :pubdate('2009-12-03T09:46:18Z') :type<note> 
+=NAME "Книга мастеров" Съемки проходили под Минском и в павильонах киноконцерна «Мосфильм».  ... Фильм стал первой работой студии Disney, снятой на территории России.
+
+=begin DESCRIPTION
+
+"Книга мастеров" Съемки проходили под Минском и в павильонах киноконцерна «Мосфильм».  ... Фильм стал первой работой студии Disney, снятой на территории России. - L<link|http://www.kinopoisk.ru/level/1/film/425019/view_info/ok/>
+=for Image :width(120) :link('http://www.kinopoisk.ru/level/1/film/425019/view_info/ok/') :height(175) :preview
+media/6375fa0ff439a7f0950a4b46db29929de1a24434.jpg
+
+=item Наконец-то
+=item Забавно "под Минском" — "на территории России" :-)
+=item Красочный.  @seliv:   именно !
+
+
+=end DESCRIPTION
+
+"Книга мастеров" Съемки проходили под Минском и в павильонах киноконцерна «Мосфильм».  ... Фильм стал первой работой студии Disney, снятой на территории России. - L<link|http://www.kinopoisk.ru/level/1/film/425019/view_info/ok/>
+=for Image :width(120) :link('http://www.kinopoisk.ru/level/1/film/425019/view_info/ok/') :height(175) :preview
+media/6375fa0ff439a7f0950a4b46db29929de1a24434.jpg
+
+=item Наконец-то
+=item Забавно "под Минском" — "на территории России" :-)
+=item Красочный.  @seliv:   именно !
+
+
+=begin comment :src
+{
+  "from": {
+    "name": "углы «Исимуры»",
+    "type": "user",
+    "id": "zag"
+  },
+  "via": {
+    "name": "Bookmarklet",
+    "url": "http://friendfeed.com/share/bookmarklet"
+  },
+  "comments": [
+    {
+      "body": "Наконец-то",
+      "date": "2009-12-03T09:46:34Z",
+      "rawBody": "Наконец-то",
+      "id": "e/02f23930f6644c48ba6b9e0584cd2e56/c/ca69edbf30d44c459e0b05562eecd64e",
+      "from": {
+        "id": "zag",
+        "type": "user",
+        "name": "углы «Исимуры»"
+      }
+    },
+    {
+      "id": "e/02f23930f6644c48ba6b9e0584cd2e56/c/984e0378a0294a1fa0c4e1cfe5a723c0",
+      "rawBody": "Забавно \"под Минском\" — \"на территории России\" :-)",
+      "date": "2009-12-08T19:39:51Z",
+      "from": {
+        "name": "sёliv",
+        "type": "user",
+        "id": "seliv"
+      },
+      "body": "Забавно &quot;под Минском&quot; — &quot;на территории России&quot; :-)"
+    },
+    {
+      "body": "Красочный.  @seliv:   именно !",
+      "date": "2009-12-09T06:05:12Z",
+      "rawBody": "Красочный.  @seliv:   именно !",
+      "id": "e/02f23930f6644c48ba6b9e0584cd2e56/c/b08d2e7a31a04eb79032bd0461ed19ce",
+      "from": {
+        "id": "zag",
+        "type": "user",
+        "name": "углы «Исимуры»"
+      }
+    }
+  ],
+  "id": "e/02f23930f6644c48ba6b9e0584cd2e56",
+  "date": "2009-12-03T09:46:18Z",
+  "rawBody": "\"Книга мастеров\" Съемки проходили под Минском и в павильонах киноконцерна «Мосфильм».  ... Фильм стал первой работой студии Disney, снятой на территории России.",
+  "url": "http://friendfeed.com/zag/02f23930/disney",
+  "thumbnails": [
+    {
+      "width": 120,
+      "url": "http://m.friendfeed-media.com/6375fa0ff439a7f0950a4b46db29929de1a24434",
+      "link": "http://www.kinopoisk.ru/level/1/film/425019/view_info/ok/",
+      "height": 175
+    }
+  ],
+  "body": "&quot;Книга мастеров&quot; Съемки проходили под Минском и в павильонах киноконцерна «Мосфильм».  ... Фильм стал первой работой студии Disney, снятой на территории России. - <a rel=\"nofollow\" href=\"http://www.kinopoisk.ru/level/1/film/425019/view_info/ok/\" title=\"http://www.kinopoisk.ru/level/1/film/425019/view_info/ok/\">http://www.kinopoisk.ru/level...</a>",
+  "rawLink": "http://www.kinopoisk.ru/level/1/film/425019/view_info/ok/"
+}
+=end comment
+
+=end pod

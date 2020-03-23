@@ -1,0 +1,58 @@
+=begin pod :pubdate('2011-09-02T06:54:33Z') :type<note> 
+=NAME BitTorrent TV teased at Euro tech show / p2p телевидение
+
+=begin DESCRIPTION
+
+BitTorrent TV teased at Euro tech show / p2p телевидение - L<link|http://news.cnet.com/8301-17938_105-20100731-1/bittorrent-tv-teased-at-euro-tech-show/>
+=for Image :width(234) :link('http://news.cnet.com/8301-17938_105-20100731-1/bittorrent-tv-teased-at-euro-tech-show/') :height(175) :preview
+media/ddf6bc73663b338f05627d2325c5e2b2f6ff85dd.jpg
+
+
+
+=end DESCRIPTION
+
+BitTorrent TV teased at Euro tech show / p2p телевидение - L<link|http://news.cnet.com/8301-17938_105-20100731-1/bittorrent-tv-teased-at-euro-tech-show/>
+=for Image :width(234) :link('http://news.cnet.com/8301-17938_105-20100731-1/bittorrent-tv-teased-at-euro-tech-show/') :height(175) :preview
+media/ddf6bc73663b338f05627d2325c5e2b2f6ff85dd.jpg
+
+
+
+=begin comment :src
+{
+  "from": {
+    "name": "углы «Исимуры»",
+    "id": "zag",
+    "type": "user"
+  },
+  "via": {
+    "name": "Bookmarklet",
+    "url": "http://friendfeed.com/share/bookmarklet"
+  },
+  "id": "e/dc3d1e7c485c4259bf7c7485e5a03636",
+  "rawBody": "BitTorrent TV teased at Euro tech show / p2p телевидение",
+  "date": "2011-09-02T06:54:33Z",
+  "url": "http://friendfeed.com/zag/dc3d1e7c/bittorrent-tv-teased-at-euro-tech-show-p2p",
+  "thumbnails": [
+    {
+      "url": "http://m.friendfeed-media.com/ddf6bc73663b338f05627d2325c5e2b2f6ff85dd",
+      "width": 234,
+      "height": 175,
+      "link": "http://news.cnet.com/8301-17938_105-20100731-1/bittorrent-tv-teased-at-euro-tech-show/"
+    }
+  ],
+  "rawLink": "http://news.cnet.com/8301-17938_105-20100731-1/bittorrent-tv-teased-at-euro-tech-show/",
+  "likes": [
+    {
+      "date": "2011-09-02T08:21:18Z",
+      "from": {
+        "name": "Николай",
+        "id": "mishin",
+        "type": "user"
+      }
+    }
+  ],
+  "body": "BitTorrent TV teased at Euro tech show / p2p телевидение - <a rel=\"nofollow\" href=\"http://news.cnet.com/8301-17938_105-20100731-1/bittorrent-tv-teased-at-euro-tech-show/\" title=\"http://news.cnet.com/8301-17938_105-20100731-1/bittorrent-tv-teased-at-euro-tech-show/\">http://news.cnet.com/8301-17...</a>"
+}
+=end comment
+
+=end pod

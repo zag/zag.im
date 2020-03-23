@@ -1,0 +1,67 @@
+=begin pod :pubdate('2010-04-01T11:14:37Z') :type<note> 
+=NAME Google Envelopes turns Gmail into snail mail, wraps it in precisely routed Maps printout
+
+=begin DESCRIPTION
+
+Google Envelopes turns Gmail into snail mail, wraps it in precisely routed Maps printout - L<link|http://www.engadget.com/2010/03/31/google-envelopes-turns-gmail-into-snail-mail-wraps-it-in-precis/#>
+=for Image :width(255) :link('http://www.engadget.com/2010/03/31/google-envelopes-turns-gmail-into-snail-mail-wraps-it-in-precis/#') :height(175) :preview
+media/02f2a6af3da23935a656708aa6e5bb9419c66193.jpg
+
+=item Использование google maps для отображения маршрута письма
+
+
+=end DESCRIPTION
+
+Google Envelopes turns Gmail into snail mail, wraps it in precisely routed Maps printout - L<link|http://www.engadget.com/2010/03/31/google-envelopes-turns-gmail-into-snail-mail-wraps-it-in-precis/#>
+=for Image :width(255) :link('http://www.engadget.com/2010/03/31/google-envelopes-turns-gmail-into-snail-mail-wraps-it-in-precis/#') :height(175) :preview
+media/02f2a6af3da23935a656708aa6e5bb9419c66193.jpg
+
+=item Использование google maps для отображения маршрута письма
+
+
+=begin comment :src
+{
+  "comments": [
+    {
+      "body": "Использование google maps для отображения маршрута письма",
+      "via": {
+        "url": "http://friendfeed.com/share/bookmarklet",
+        "name": "Bookmarklet"
+      },
+      "id": "e/081ceec779db410986cdaa4cb66396b2/c/9b6a14ba2a104636901211fab38134a2",
+      "rawBody": "Использование google maps для отображения маршрута письма",
+      "date": "2010-04-01T11:14:37Z",
+      "from": {
+        "name": "углы «Исимуры»",
+        "id": "zag",
+        "type": "user"
+      }
+    }
+  ],
+  "from": {
+    "id": "zag",
+    "type": "user",
+    "name": "углы «Исимуры»"
+  },
+  "via": {
+    "url": "http://friendfeed.com/share/bookmarklet",
+    "name": "Bookmarklet"
+  },
+  "body": "Google Envelopes turns Gmail into snail mail, wraps it in precisely routed Maps printout - <a rel=\"nofollow\" href=\"http://www.engadget.com/2010/03/31/google-envelopes-turns-gmail-into-snail-mail-wraps-it-in-precis/#\" title=\"http://www.engadget.com/2010/03/31/google-envelopes-turns-gmail-into-snail-mail-wraps-it-in-precis/#\">http://www.engadget.com/2010...</a>",
+  "rawLink": "http://www.engadget.com/2010/03/31/google-envelopes-turns-gmail-into-snail-mail-wraps-it-in-precis/#",
+  "id": "e/081ceec779db410986cdaa4cb66396b2",
+  "url": "http://friendfeed.com/zag/081ceec7/google-envelopes-turns-gmail-into-snail-mail",
+  "date": "2010-04-01T11:14:37Z",
+  "rawBody": "Google Envelopes turns Gmail into snail mail, wraps it in precisely routed Maps printout",
+  "thumbnails": [
+    {
+      "link": "http://www.engadget.com/2010/03/31/google-envelopes-turns-gmail-into-snail-mail-wraps-it-in-precis/#",
+      "height": 175,
+      "width": 255,
+      "url": "http://m.friendfeed-media.com/02f2a6af3da23935a656708aa6e5bb9419c66193"
+    }
+  ]
+}
+=end comment
+
+=end pod

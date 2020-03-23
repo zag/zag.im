@@ -1,0 +1,108 @@
+=begin pod :pubdate('2010-05-08T18:07:38Z') :type<note> 
+=NAME Это необъяснимо, но =?UTF-8?B?INGE0LDQutGCLiAi0JPQvtC70LDRjyDQv9GA0LDQstC00LA=?="
+
+=begin DESCRIPTION
+
+Это необъяснимо, но =?UTF-8?B?INGE0LDQutGCLiAi0JPQvtC70LDRjyDQv9GA0LDQstC00LA=?="
+=for Image :width(233) :link('http://m.friendfeed-media.com/581dee2b3aec984383c693db767384758cf6fc53') :height(175) :preview
+media/cab4744a28045c8b564d3ba6bf0b60366e8da62a.jpg
+
+=item напоминает концовку фильма "Голая правда".
+=item Так и есть отправлено: Это необъяснимо, но факт. "Голая правда" . Опубликовалось в таком виде, что придало "особый" смысл :-)
+=item =)
+
+
+=end DESCRIPTION
+
+Это необъяснимо, но =?UTF-8?B?INGE0LDQutGCLiAi0JPQvtC70LDRjyDQv9GA0LDQstC00LA=?="
+=for Image :width(233) :link('http://m.friendfeed-media.com/581dee2b3aec984383c693db767384758cf6fc53') :height(175) :preview
+media/cab4744a28045c8b564d3ba6bf0b60366e8da62a.jpg
+
+=item напоминает концовку фильма "Голая правда".
+=item Так и есть отправлено: Это необъяснимо, но факт. "Голая правда" . Опубликовалось в таком виде, что придало "особый" смысл :-)
+=item =)
+
+
+=begin comment :src
+{
+  "url": "http://friendfeed.com/zag/00d4e742/utf-8-b",
+  "id": "e/00d4e7429fca41b3bde575637937b070",
+  "date": "2010-05-08T18:07:38Z",
+  "rawBody": "Это необъяснимо, но =?UTF-8?B?INGE0LDQutGCLiAi0JPQvtC70LDRjyDQv9GA0LDQstC00LA=?=\"",
+  "thumbnails": [
+    {
+      "link": "http://m.friendfeed-media.com/581dee2b3aec984383c693db767384758cf6fc53",
+      "height": 175,
+      "url": "http://m.friendfeed-media.com/cab4744a28045c8b564d3ba6bf0b60366e8da62a",
+      "width": 233
+    }
+  ],
+  "body": "Это необъяснимо, но =?UTF-8?B?INGE0LDQutGCLiAi0JPQvtC70LDRjyDQv9GA0LDQstC00LA=?=&quot;",
+  "rawLink": "http://friendfeed.com/e/00d4e742-9fca-41b3-bde5-75637937b070",
+  "likes": [
+    {
+      "from": {
+        "name": "она с Хитманом пришла",
+        "type": "user",
+        "id": "mokich"
+      },
+      "date": "2010-05-10T08:55:45Z"
+    },
+    {
+      "date": "2010-05-08T18:08:15Z",
+      "from": {
+        "name": "IvIotor",
+        "private": true,
+        "id": "iviotor",
+        "type": "user"
+      }
+    }
+  ],
+  "via": {
+    "url": "http://friendfeed.com/share/mail",
+    "name": "email"
+  },
+  "from": {
+    "id": "zag",
+    "type": "user",
+    "name": "углы «Исимуры»"
+  },
+  "comments": [
+    {
+      "date": "2010-05-09T15:24:42Z",
+      "rawBody": "напоминает концовку фильма \"Голая правда\".",
+      "id": "e/00d4e7429fca41b3bde575637937b070/c/3a3e8811cd4946b8812d232aa1e3fc45",
+      "from": {
+        "id": "jollyslyness",
+        "type": "user",
+        "name": "JollySlyness"
+      },
+      "body": "напоминает концовку фильма &quot;Голая правда&quot;."
+    },
+    {
+      "body": "Так и есть отправлено: Это необъяснимо, но факт. &quot;Голая правда&quot; . Опубликовалось в таком виде, что придало &quot;особый&quot; смысл :-)",
+      "rawBody": "Так и есть отправлено: Это необъяснимо, но факт. \"Голая правда\" . Опубликовалось в таком виде, что придало \"особый\" смысл :-)",
+      "id": "e/00d4e7429fca41b3bde575637937b070/c/6cec7859c8d240e9a43bf88da9665c9c",
+      "date": "2010-05-10T04:33:04Z",
+      "from": {
+        "name": "углы «Исимуры»",
+        "id": "zag",
+        "type": "user"
+      }
+    },
+    {
+      "body": "=)",
+      "id": "e/00d4e7429fca41b3bde575637937b070/c/fca08e214bcb4796a9d311bff6d684d5",
+      "rawBody": "=)",
+      "from": {
+        "id": "jollyslyness",
+        "type": "user",
+        "name": "JollySlyness"
+      },
+      "date": "2010-05-10T07:31:20Z"
+    }
+  ]
+}
+=end comment
+
+=end pod

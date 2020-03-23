@@ -1,0 +1,84 @@
+=begin pod :pubdate('2010-02-21T13:28:56Z') :type<note> :tags<ps3>
+=NAME Completed: Ratchet & Clank Future: A Crack in Time #ps3
+
+=begin DESCRIPTION
+
+Completed: Ratchet & Clank Future: A Crack in Time #ps3
+=for Image :width(233) :link('http://m.friendfeed-media.com/56f3ad4c351bbeda6b97bbabb88ef55a0f880940') :height(175) :preview
+media/d2e8d901972d4d1a39e47024a8901c59efe09e78.jpg
+=for Image :width(233) :link('http://m.friendfeed-media.com/f4775a903b4bffeaf344f3159a715f707750b7b3') :height(175) :preview
+media/7f2a2e7f11fdfb14bdaa633b3d9b09223fddf8da.jpg
+=for Image :width(150) :link('http://m.friendfeed-media.com/f2fff93b82b461f42327fefc3b432c68e72dafa4') :height(175) :preview
+media/469e6b2dbd700df2bc334e51cc0004c0d8108e44.jpg
+=for Image :width(233) :link('http://m.friendfeed-media.com/37eb3da75ff6b30f4d98e35bc28d6347db63ef97') :height(175) :preview
+media/c913d73b41a4b0757cfd9adebb206ca15d4c685f.jpg
+=for Image :width(233) :link('http://m.friendfeed-media.com/341cf8a8ea93ab9b33a1e04bff09477792b71f38') :height(175) :preview
+media/0af740abe891be3c8b25090dcf7bc3897de6de65.jpg
+
+
+
+=end DESCRIPTION
+
+Completed: Ratchet & Clank Future: A Crack in Time #ps3
+=for Image :width(233) :link('http://m.friendfeed-media.com/56f3ad4c351bbeda6b97bbabb88ef55a0f880940') :height(175) :preview
+media/d2e8d901972d4d1a39e47024a8901c59efe09e78.jpg
+=for Image :width(233) :link('http://m.friendfeed-media.com/f4775a903b4bffeaf344f3159a715f707750b7b3') :height(175) :preview
+media/7f2a2e7f11fdfb14bdaa633b3d9b09223fddf8da.jpg
+=for Image :width(150) :link('http://m.friendfeed-media.com/f2fff93b82b461f42327fefc3b432c68e72dafa4') :height(175) :preview
+media/469e6b2dbd700df2bc334e51cc0004c0d8108e44.jpg
+=for Image :width(233) :link('http://m.friendfeed-media.com/37eb3da75ff6b30f4d98e35bc28d6347db63ef97') :height(175) :preview
+media/c913d73b41a4b0757cfd9adebb206ca15d4c685f.jpg
+=for Image :width(233) :link('http://m.friendfeed-media.com/341cf8a8ea93ab9b33a1e04bff09477792b71f38') :height(175) :preview
+media/0af740abe891be3c8b25090dcf7bc3897de6de65.jpg
+
+
+
+=begin comment :src
+{
+  "body": "Completed: Ratchet &amp; Clank Future: A Crack in Time <a href=\"http://friendfeed.com/search?q=%23ps3\">#ps3</a>",
+  "rawLink": "http://friendfeed.com/e/5df2973c-a5c3-4449-8c71-09b371ab76df",
+  "date": "2010-02-21T13:28:56Z",
+  "id": "e/5df2973ca5c344498c7109b371ab76df",
+  "thumbnails": [
+    {
+      "link": "http://m.friendfeed-media.com/56f3ad4c351bbeda6b97bbabb88ef55a0f880940",
+      "height": 175,
+      "width": 233,
+      "url": "http://m.friendfeed-media.com/d2e8d901972d4d1a39e47024a8901c59efe09e78"
+    },
+    {
+      "link": "http://m.friendfeed-media.com/f4775a903b4bffeaf344f3159a715f707750b7b3",
+      "height": 175,
+      "url": "http://m.friendfeed-media.com/7f2a2e7f11fdfb14bdaa633b3d9b09223fddf8da",
+      "width": 233
+    },
+    {
+      "height": 175,
+      "link": "http://m.friendfeed-media.com/f2fff93b82b461f42327fefc3b432c68e72dafa4",
+      "url": "http://m.friendfeed-media.com/469e6b2dbd700df2bc334e51cc0004c0d8108e44",
+      "width": 150
+    },
+    {
+      "width": 233,
+      "url": "http://m.friendfeed-media.com/c913d73b41a4b0757cfd9adebb206ca15d4c685f",
+      "link": "http://m.friendfeed-media.com/37eb3da75ff6b30f4d98e35bc28d6347db63ef97",
+      "height": 175
+    },
+    {
+      "height": 175,
+      "link": "http://m.friendfeed-media.com/341cf8a8ea93ab9b33a1e04bff09477792b71f38",
+      "url": "http://m.friendfeed-media.com/0af740abe891be3c8b25090dcf7bc3897de6de65",
+      "width": 233
+    }
+  ],
+  "rawBody": "Completed: Ratchet & Clank Future: A Crack in Time #ps3",
+  "url": "http://friendfeed.com/zag/5df2973c/completed-ratchet-clank-future-crack-in-time",
+  "from": {
+    "name": "углы «Исимуры»",
+    "id": "zag",
+    "type": "user"
+  }
+}
+=end comment
+
+=end pod

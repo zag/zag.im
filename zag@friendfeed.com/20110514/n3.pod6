@@ -1,0 +1,36 @@
+=begin pod :pubdate('2011-05-14T11:18:25Z') :type<note> :tags<yapc>
+=NAME Оказывается у PSGI есть psgi.streaming #yapc
+
+=begin DESCRIPTION
+
+Оказывается у PSGI есть psgi.streaming #yapc
+
+
+
+=end DESCRIPTION
+
+Оказывается у PSGI есть psgi.streaming #yapc
+
+
+
+=begin comment :src
+{
+  "id": "e/2f69b5b2d33141eda13c1eeb8499bf89",
+  "date": "2011-05-14T11:18:25Z",
+  "rawBody": "Оказывается у PSGI есть psgi.streaming #yapc",
+  "url": "http://friendfeed.com/zag/2f69b5b2/psgi-streaming-yapc",
+  "body": "Оказывается у PSGI есть psgi.streaming <a href=\"http://friendfeed.com/search?q=%23yapc\">#yapc</a>",
+  "rawLink": "http://friendfeed.com/e/2f69b5b2-d331-41ed-a13c-1eeb8499bf89",
+  "via": {
+    "url": "http://friendfeed.com/share/mail",
+    "name": "email"
+  },
+  "from": {
+    "type": "user",
+    "id": "zag",
+    "name": "углы «Исимуры»"
+  }
+}
+=end comment
+
+=end pod

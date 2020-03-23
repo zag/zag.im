@@ -1,0 +1,36 @@
+=begin pod :pubdate('2011-06-25T21:19:50Z') :type<note> 
+=NAME RT @davewiner: Scripting News: API designers should be writers. http://r2.ly/am4p
+
+=begin DESCRIPTION
+
+RT @davewiner: Scripting News: API designers should be writers. http://r2.ly/am4p - L<link|http://twitter.com/zagru/statuses/84732557064798208>
+
+
+
+=end DESCRIPTION
+
+RT @davewiner: Scripting News: API designers should be writers. http://r2.ly/am4p - L<link|http://twitter.com/zagru/statuses/84732557064798208>
+
+
+
+=begin comment :src
+{
+  "from": {
+    "id": "zag",
+    "type": "user",
+    "name": "углы «Исимуры»"
+  },
+  "via": {
+    "url": "http://twitter.com/zagru/statuses/84732557064798208",
+    "name": "Twitter"
+  },
+  "body": "RT @<a rel=\"nofollow\" href=\"http://twitter.com/davewiner\">davewiner</a>: Scripting News: API designers should be writers. <a rel=\"nofollow\" href=\"http://r2.ly/am4p\" title=\"http://scripting.com/stories/2011/06/21/apiDesignersShouldBeWriter.html\">http://scripting.com/stories...</a>",
+  "rawLink": "http://twitter.com/zagru/statuses/84732557064798208",
+  "date": "2011-06-25T21:19:50Z",
+  "id": "e/7879e43c27b0bfa2f4e60304cfe9122e",
+  "url": "http://friendfeed.com/zag/7879e43c/rt-davewiner-scripting-news-api-designers",
+  "rawBody": "RT @davewiner: Scripting News: API designers should be writers. http://r2.ly/am4p"
+}
+=end comment
+
+=end pod

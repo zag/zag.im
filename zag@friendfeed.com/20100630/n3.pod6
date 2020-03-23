@@ -1,0 +1,36 @@
+=begin pod :pubdate('2010-06-30T11:40:34Z') :type<note> :tags<rakudo StarCraft>
+=NAME выход #rakudo * перенесен на 29 июля.  Через 2 дня после выхода #StarCraft 2.
+
+=begin DESCRIPTION
+
+выход #rakudo * перенесен на 29 июля.  Через 2 дня после выхода #StarCraft 2.
+
+
+
+=end DESCRIPTION
+
+выход #rakudo * перенесен на 29 июля.  Через 2 дня после выхода #StarCraft 2.
+
+
+
+=begin comment :src
+{
+  "id": "e/1a0a4bf957fe4977b4329c40799cabae",
+  "url": "http://friendfeed.com/zag/1a0a4bf9/rakudo-29-2-starcraft",
+  "date": "2010-06-30T11:40:34Z",
+  "rawBody": "выход #rakudo * перенесен на 29 июля.  Через 2 дня после выхода #StarCraft 2.",
+  "body": "выход <a href=\"http://friendfeed.com/search?q=%23rakudo\">#rakudo</a> * перенесен на 29 июля.  Через 2 дня после выхода <a href=\"http://friendfeed.com/search?q=%23StarCraft\">#StarCraft</a> 2.",
+  "rawLink": "http://friendfeed.com/e/1a0a4bf9-57fe-4977-b432-9c40799cabae",
+  "via": {
+    "name": "IM",
+    "url": "http://friendfeed.com/about/im"
+  },
+  "from": {
+    "name": "углы «Исимуры»",
+    "id": "zag",
+    "type": "user"
+  }
+}
+=end comment
+
+=end pod

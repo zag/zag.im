@@ -1,0 +1,36 @@
+=begin pod :pubdate('2011-01-11T09:50:26Z') :type<note> 
+=NAME RT @perigrin: Perl Has to be cool if Apple is hiring for it http://jobs.perl.org/job/13442
+
+=begin DESCRIPTION
+
+RT @perigrin: Perl Has to be cool if Apple is hiring for it http://jobs.perl.org/job/13442 - L<link|http://twitter.com/zagru/statuses/24765065089515520>
+
+
+
+=end DESCRIPTION
+
+RT @perigrin: Perl Has to be cool if Apple is hiring for it http://jobs.perl.org/job/13442 - L<link|http://twitter.com/zagru/statuses/24765065089515520>
+
+
+
+=begin comment :src
+{
+  "via": {
+    "url": "http://twitter.com/zagru/statuses/24765065089515520",
+    "name": "Twitter"
+  },
+  "from": {
+    "name": "углы «Исимуры»",
+    "type": "user",
+    "id": "zag"
+  },
+  "id": "e/11b55adb66c9cd263cc3da916499c981",
+  "date": "2011-01-11T09:50:26Z",
+  "rawBody": "RT @perigrin: Perl Has to be cool if Apple is hiring for it http://jobs.perl.org/job/13442",
+  "url": "http://friendfeed.com/zag/11b55adb/rt-perigrin-perl-has-to-be-cool-if-apple-is-hiring",
+  "body": "RT @<a rel=\"nofollow\" href=\"http://twitter.com/perigrin\">perigrin</a>: Perl Has to be cool if Apple is hiring for it <a rel=\"nofollow\" href=\"http://jobs.perl.org/job/13442\">http://jobs.perl.org/job/13442</a>",
+  "rawLink": "http://twitter.com/zagru/statuses/24765065089515520"
+}
+=end comment
+
+=end pod

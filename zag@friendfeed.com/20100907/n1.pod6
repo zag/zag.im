@@ -1,0 +1,100 @@
+=begin pod :pubdate('2010-09-07T10:10:33Z') :type<note> 
+=NAME Ctrl-V Ctrl-X Ctrl-Z
+
+=begin DESCRIPTION
+
+Ctrl-V Ctrl-X Ctrl-Z
+=for Image :width(175) :link('http://www.likecool.com/CtrlV_CtrlX_Ctrl_Z--Pic--Gear.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+Likecool+%28Likecool%2C+coolest+gadget+magazine%29') :height(175) :preview
+media/10a9227153ed8d2a94fd576c56df766ea2a85a87.jpg
+
+
+
+=end DESCRIPTION
+
+Ctrl-V Ctrl-X Ctrl-Z
+=for Image :width(175) :link('http://www.likecool.com/CtrlV_CtrlX_Ctrl_Z--Pic--Gear.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+Likecool+%28Likecool%2C+coolest+gadget+magazine%29') :height(175) :preview
+media/10a9227153ed8d2a94fd576c56df766ea2a85a87.jpg
+
+
+
+=begin comment :src
+{
+  "from": {
+    "id": "zag",
+    "type": "user",
+    "name": "углы «Исимуры»"
+  },
+  "date": "2010-09-07T10:10:33Z",
+  "id": "e/d63e79b341934b8281cb92f40a30ef07",
+  "rawBody": "Ctrl-V Ctrl-X Ctrl-Z",
+  "thumbnails": [
+    {
+      "link": "http://www.likecool.com/CtrlV_CtrlX_Ctrl_Z--Pic--Gear.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+Likecool+%28Likecool%2C+coolest+gadget+magazine%29",
+      "height": 175,
+      "width": 175,
+      "url": "http://m.friendfeed-media.com/10a9227153ed8d2a94fd576c56df766ea2a85a87"
+    }
+  ],
+  "url": "http://friendfeed.com/funny-pics-videos/d63e79b3/ctrl-v-x-z",
+  "likes": [
+    {
+      "date": "2010-09-07T14:48:26Z",
+      "from": {
+        "name": "в джазе только телочки",
+        "id": "romanovskis",
+        "type": "user"
+      }
+    },
+    {
+      "from": {
+        "name": "Документы зимы хорошие",
+        "id": "animasola",
+        "type": "user"
+      },
+      "date": "2010-09-07T12:53:48Z"
+    },
+    {
+      "date": "2010-09-07T11:11:17Z",
+      "from": {
+        "name": "Dmitriy Olerinskiy",
+        "id": "menelvagor",
+        "type": "user"
+      }
+    },
+    {
+      "from": {
+        "name": "zeynep",
+        "private": true,
+        "id": "zepzep",
+        "type": "user"
+      },
+      "date": "2010-09-07T10:19:18Z"
+    },
+    {
+      "from": {
+        "private": true,
+        "id": "iviotor",
+        "type": "user",
+        "name": "IvIotor"
+      },
+      "date": "2010-09-07T10:11:26Z"
+    }
+  ],
+  "rawLink": "http://friendfeed.com/e/d63e79b3-4193-4b82-81cb-92f40a30ef07",
+  "to": [
+    {
+      "name": "углы's feed",
+      "type": "user",
+      "id": "zag"
+    },
+    {
+      "id": "funny-pics-videos",
+      "type": "group",
+      "name": "Funny Pics and Videos"
+    }
+  ],
+  "body": "Ctrl-V Ctrl-X Ctrl-Z"
+}
+=end comment
+
+=end pod

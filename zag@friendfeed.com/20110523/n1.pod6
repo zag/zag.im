@@ -1,0 +1,98 @@
+=begin pod :pubdate('2011-05-23T04:11:01Z') :type<note> 
+=NAME Easily create mobile web app mocks you can share,
+test on multiple platforms, and use in production.
+
+=begin DESCRIPTION
+
+Easily create mobile web app mocks you can share,
+test on multiple platforms, and use in production. - L<link|http://mokk.me/>
+=for Image :width(175) :link('http://mokk.me/') :height(175) :preview
+media/d2ea8364d2c6cbb1de438b31b4a1548e6df4c4de.jpg
+=for Image :width(175) :link('http://mokk.me/') :height(175) :preview
+media/1728b95ddec377330bbba585fa7341f7610a399a.jpg
+=for Image :width(175) :link('http://mokk.me/') :height(175) :preview
+media/95bda8e1633483c7f04751816ee4689b23ebc45b.jpg
+
+
+
+=end DESCRIPTION
+
+Easily create mobile web app mocks you can share,
+test on multiple platforms, and use in production. - L<link|http://mokk.me/>
+=for Image :width(175) :link('http://mokk.me/') :height(175) :preview
+media/d2ea8364d2c6cbb1de438b31b4a1548e6df4c4de.jpg
+=for Image :width(175) :link('http://mokk.me/') :height(175) :preview
+media/1728b95ddec377330bbba585fa7341f7610a399a.jpg
+=for Image :width(175) :link('http://mokk.me/') :height(175) :preview
+media/95bda8e1633483c7f04751816ee4689b23ebc45b.jpg
+
+
+
+=begin comment :src
+{
+  "via": {
+    "name": "Bookmarklet",
+    "url": "http://friendfeed.com/share/bookmarklet"
+  },
+  "from": {
+    "name": "углы «Исимуры»",
+    "id": "zag",
+    "type": "user"
+  },
+  "id": "e/b8672fadd8364ed48b05bfbac4a9719f",
+  "date": "2011-05-23T04:11:01Z",
+  "rawBody": "Easily create mobile web app mocks you can share,\ntest on multiple platforms, and use in production.",
+  "url": "http://friendfeed.com/zag/b8672fad/easily-create-mobile-web-app-mocks-you-can-share",
+  "thumbnails": [
+    {
+      "url": "http://m.friendfeed-media.com/d2ea8364d2c6cbb1de438b31b4a1548e6df4c4de",
+      "width": 175,
+      "link": "http://mokk.me/",
+      "height": 175
+    },
+    {
+      "width": 175,
+      "url": "http://m.friendfeed-media.com/1728b95ddec377330bbba585fa7341f7610a399a",
+      "link": "http://mokk.me/",
+      "height": 175
+    },
+    {
+      "height": 175,
+      "link": "http://mokk.me/",
+      "width": 175,
+      "url": "http://m.friendfeed-media.com/95bda8e1633483c7f04751816ee4689b23ebc45b"
+    }
+  ],
+  "rawLink": "http://mokk.me/",
+  "likes": [
+    {
+      "date": "2011-05-23T05:45:58Z",
+      "from": {
+        "id": "sharifulin",
+        "type": "user",
+        "name": "Анатолий Шарифулин"
+      }
+    },
+    {
+      "from": {
+        "name": "tcharge",
+        "private": true,
+        "id": "tcharge",
+        "type": "user"
+      },
+      "date": "2011-05-23T05:33:54Z"
+    },
+    {
+      "date": "2011-05-23T05:20:16Z",
+      "from": {
+        "id": "bessarabov",
+        "type": "user",
+        "name": "Ivan Bessarabov"
+      }
+    }
+  ],
+  "body": "Easily create mobile web app mocks you can share,\ntest on multiple platforms, and use in production. - <a rel=\"nofollow\" href=\"http://mokk.me/\">http://mokk.me/</a>"
+}
+=end comment
+
+=end pod

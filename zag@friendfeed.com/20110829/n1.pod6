@@ -1,0 +1,68 @@
+=begin pod :pubdate('2011-08-29T17:45:31Z') :type<note> 
+=NAME Reconsidering The Moon | Mighty Optical Illusions
+
+=begin DESCRIPTION
+
+Reconsidering The Moon | Mighty Optical Illusions - L<link|http://www.moillusions.com/2011/08/reconsidering-the-moon.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+OpticalIllusions+%28Optical+Illusions%29&utm_content=Google+Reader>
+=for Image :width(233) :link('http://www.moillusions.com/2011/08/reconsidering-the-moon.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+OpticalIllusions+%28Optical+Illusions%29&utm_content=Google+Reader') :height(175) :preview
+media/e888631804d266cb8b9bce81485b171f6ad818d2.jpg
+=for Image :width(131) :link('http://www.moillusions.com/2011/08/reconsidering-the-moon.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+OpticalIllusions+%28Optical+Illusions%29&utm_content=Google+Reader') :height(175) :preview
+media/232355bb0d98c99bf040207131b7b4c3cab024f6.jpg
+=for Image :width(233) :link('http://www.moillusions.com/2011/08/reconsidering-the-moon.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+OpticalIllusions+%28Optical+Illusions%29&utm_content=Google+Reader') :height(175) :preview
+media/26cb50863afea4fbae28698ac01dcf2918bd14bd.jpg
+
+
+
+=end DESCRIPTION
+
+Reconsidering The Moon | Mighty Optical Illusions - L<link|http://www.moillusions.com/2011/08/reconsidering-the-moon.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+OpticalIllusions+%28Optical+Illusions%29&utm_content=Google+Reader>
+=for Image :width(233) :link('http://www.moillusions.com/2011/08/reconsidering-the-moon.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+OpticalIllusions+%28Optical+Illusions%29&utm_content=Google+Reader') :height(175) :preview
+media/e888631804d266cb8b9bce81485b171f6ad818d2.jpg
+=for Image :width(131) :link('http://www.moillusions.com/2011/08/reconsidering-the-moon.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+OpticalIllusions+%28Optical+Illusions%29&utm_content=Google+Reader') :height(175) :preview
+media/232355bb0d98c99bf040207131b7b4c3cab024f6.jpg
+=for Image :width(233) :link('http://www.moillusions.com/2011/08/reconsidering-the-moon.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+OpticalIllusions+%28Optical+Illusions%29&utm_content=Google+Reader') :height(175) :preview
+media/26cb50863afea4fbae28698ac01dcf2918bd14bd.jpg
+
+
+
+=begin comment :src
+{
+  "via": {
+    "url": "http://friendfeed.com/share/bookmarklet",
+    "name": "Bookmarklet"
+  },
+  "from": {
+    "name": "углы «Исимуры»",
+    "type": "user",
+    "id": "zag"
+  },
+  "rawLink": "http://www.moillusions.com/2011/08/reconsidering-the-moon.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+OpticalIllusions+%28Optical+Illusions%29&utm_content=Google+Reader",
+  "body": "Reconsidering The Moon | Mighty Optical Illusions - <a rel=\"nofollow\" href=\"http://www.moillusions.com/2011/08/reconsidering-the-moon.html?utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+OpticalIllusions+%28Optical+Illusions%29&amp;utm_content=Google+Reader\" title=\"http://www.moillusions.com/2011/08/reconsidering-the-moon.html?utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+OpticalIllusions+%28Optical+Illusions%29&amp;utm_content=Google+Reader\">http://www.moillusions.com/2011...</a>",
+  "date": "2011-08-29T17:45:31Z",
+  "id": "e/49249588218241b19dd5968cb3fe135f",
+  "rawBody": "Reconsidering The Moon | Mighty Optical Illusions",
+  "url": "http://friendfeed.com/zag/49249588/reconsidering-moon-mighty-optical-illusions",
+  "thumbnails": [
+    {
+      "height": 175,
+      "link": "http://www.moillusions.com/2011/08/reconsidering-the-moon.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+OpticalIllusions+%28Optical+Illusions%29&utm_content=Google+Reader",
+      "width": 233,
+      "url": "http://m.friendfeed-media.com/e888631804d266cb8b9bce81485b171f6ad818d2"
+    },
+    {
+      "url": "http://m.friendfeed-media.com/232355bb0d98c99bf040207131b7b4c3cab024f6",
+      "width": 131,
+      "height": 175,
+      "link": "http://www.moillusions.com/2011/08/reconsidering-the-moon.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+OpticalIllusions+%28Optical+Illusions%29&utm_content=Google+Reader"
+    },
+    {
+      "url": "http://m.friendfeed-media.com/26cb50863afea4fbae28698ac01dcf2918bd14bd",
+      "width": 233,
+      "link": "http://www.moillusions.com/2011/08/reconsidering-the-moon.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+OpticalIllusions+%28Optical+Illusions%29&utm_content=Google+Reader",
+      "height": 175
+    }
+  ]
+}
+=end comment
+
+=end pod

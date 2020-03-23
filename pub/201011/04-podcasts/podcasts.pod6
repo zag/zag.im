@@ -1,0 +1,60 @@
+=begin pod :pubdate('2010-11-10 08:00:00') :tags('podcast perl')
+=NAME Технологические подкасты/видеокасты
+
+=begin DESCRIPTION
+
+Рейтинг источников информации, которые я регулярно слушаю/смотрю.
+
+=end DESCRIPTION
+
+В моем рейтинге на первом месте видеокасты и подкасты Дана Бенжамина (Dan Benjamin). Они собраны на сайте его студии L<5by5.tv|http://5by5.tv>.
+
+Отмечу лишь : L<"The Big Web Show"|http://5by5.tv/bigwebshow> и L<"The Dev Show"|http://5by5.tv/devshow>. На самом сайте студии можно найти еще с десяток подкастов, которые хостит Дан.
+
+=head2 The Big Web Show
+
+Темы, которые освещаются в выпусках, посвящены Web технологиям, дизайну, арт. Соведущий Jeffrey Zeldman !
+
+=for ImageBlock :caption('The Big Web Show') :align('right')
+bigwebshowp1.jpg The Big Web Show
+bigwebshowp2.jpg The Big Web Show
+
+
+=head2 Радио-Т
+=for Image :align("left")
+radiot.jpg
+
+Подкаст, посвященный в основном обзору технологических новостей. Благодаря последнему выпуску N<Выпуск "Радио-Т" N 212, выделяется качественным освещением технологических тем. L<Ссылка|http://radio-t.com/podcasts/radio-t-212/>>, он переместился в моем рейтинге с третьей позиции на вторую.
+
+Адрес проекта:  L<radio-t.com|http://radio-t.com/>
+
+=head2 The Dev Show
+
+Темы касаются новостей и технологий разработки. Соведущий - разработчик на Ruby.
+
+=for ImageBlock :align('right')
+devshowp1.jpg The Dev Show
+
+
+=head2 FLOSS Weekly
+
+Этот подкаст посвящен открытому ПО и в нем участвуют разработчики известных программ. Так последний выпуск N<L<FLOSS 140-ой выпуск, посвященый Rakudo - реализации Perl 6 |http://twit.tv/floss140>> был посвящен Perl 6. В качестве гостя участвовал Patrick Michaud - разработчик L<Rakudo|http://rakudo.org> I<(реализация Perl 6 на Parrot N<Краткая информация про Rakudo и виртуальную машину Parrot: L<Parrot VM|http://zag.ru/2009/275/b1/port-perl6-dlja-FreeBSD-obnovlennye-versii-rakudo-i-parrot.html> >)>.
+
+Ведет подкаст Роналд Шварц (Randal Schwartz).
+Адрес :  L<http://twit.tv/FLOSS>
+
+=head2 Точка
+=for Image :align("left")
+tochka.jpg
+
+Радиопередача "Точка" выходит на радиостанции "Эхо Москвы" и доступна по адресу L<"tochka"|http://www.echo.msk.ru/programs/tochka/">. Ведущий - журналист L<Плющев Александр|http://plushev.com/>. Интересна программа приглашаемыми гостями.
+
+=head2 Рунетология
+
+Подкаст хорош своими интервью с известными людьми: в основном менеджерами, продюсерами. В процессе программы происходит обсуждение новостей. Ведущий - актер по образованию, продюсер Максим Спиридонов. Адрес сайта : L<"Рунетология"|http://runetologia.podfm.ru/>. 
+
+=head2 Подкасты Mobile-Review.com
+
+Тематика выпусков связана в основном с мобильными технологиями. Располагается по адресу L<mobile-review.com|http://www.mobile-review.com/articles/2006/new-mr-podcasts.shtml>.
+
+=end pod

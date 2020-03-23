@@ -1,0 +1,44 @@
+=begin pod :pubdate('2011-01-18T15:05:41Z') :type<note> 
+=NAME Gmail Soap / Самое чистое мыло  - http://juliasegal.tumblr.com/post/2788927364 (via http://ff.im/wAWeH)
+
+=begin DESCRIPTION
+
+Gmail Soap / Самое чистое мыло  - http://juliasegal.tumblr.com/post/2788927364 (via http://ff.im/wAWeH)
+=for Image :width(263) :link('http://juliasegal.tumblr.com/post/2788927364') :height(175) :preview
+media/2314d13029d7d23f58c5280a67d4dd312d7a0335.jpg
+
+
+
+=end DESCRIPTION
+
+Gmail Soap / Самое чистое мыло  - http://juliasegal.tumblr.com/post/2788927364 (via http://ff.im/wAWeH)
+=for Image :width(263) :link('http://juliasegal.tumblr.com/post/2788927364') :height(175) :preview
+media/2314d13029d7d23f58c5280a67d4dd312d7a0335.jpg
+
+
+
+=begin comment :src
+{
+  "body": "Gmail Soap / Самое чистое мыло  - <a rel=\"nofollow\" href=\"http://juliasegal.tumblr.com/post/2788927364\" title=\"http://juliasegal.tumblr.com/post/2788927364\">http://juliasegal.tumblr.com/post...</a> (via <a href=\"http://ff.im/wAWeH\" title=\"http://friendfeed.com/ajkohn/38b66ef6/gmail-soap\">http://friendfeed.com/ajkohn...</a>)",
+  "rawLink": "http://friendfeed.com/e/b992904d-7841-43e2-9433-4a463ced8ef7",
+  "date": "2011-01-18T15:05:41Z",
+  "id": "e/b992904d784143e294334a463ced8ef7",
+  "thumbnails": [
+    {
+      "width": 263,
+      "url": "http://m.friendfeed-media.com/2314d13029d7d23f58c5280a67d4dd312d7a0335",
+      "link": "http://juliasegal.tumblr.com/post/2788927364",
+      "height": 175
+    }
+  ],
+  "rawBody": "Gmail Soap / Самое чистое мыло  - http://juliasegal.tumblr.com/post/2788927364 (via http://ff.im/wAWeH)",
+  "url": "http://friendfeed.com/zag/b992904d/gmail-soap-via",
+  "from": {
+    "id": "zag",
+    "type": "user",
+    "name": "углы «Исимуры»"
+  }
+}
+=end comment
+
+=end pod

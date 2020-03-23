@@ -1,0 +1,36 @@
+=begin pod :pubdate('2010-04-01T17:27:09Z') :type<note> 
+=NAME RT @novaradioru: Universal купит «Мосфильм» за $4,7 млрд: Одна из крупнейших киностудий США Universal Pictures в ближайшее время за... http://bit.ly/9WK6NO
+
+=begin DESCRIPTION
+
+RT @novaradioru: Universal купит «Мосфильм» за $4,7 млрд: Одна из крупнейших киностудий США Universal Pictures в ближайшее время за... http://bit.ly/9WK6NO - L<link|http://twitter.com/zagru/statuses/11435664692>
+
+
+
+=end DESCRIPTION
+
+RT @novaradioru: Universal купит «Мосфильм» за $4,7 млрд: Одна из крупнейших киностудий США Universal Pictures в ближайшее время за... http://bit.ly/9WK6NO - L<link|http://twitter.com/zagru/statuses/11435664692>
+
+
+
+=begin comment :src
+{
+  "body": "RT @<a rel=\"nofollow\" href=\"http://twitter.com/novaradioru\">novaradioru</a>: Universal купит «Мосфильм» за $4,7 млрд: Одна из крупнейших киностудий США Universal Pictures в ближайшее время за... <a rel=\"nofollow\" href=\"http://bit.ly/9WK6NO\">http://bit.ly/9WK6NO</a>",
+  "rawLink": "http://twitter.com/zagru/statuses/11435664692",
+  "date": "2010-04-01T17:27:09Z",
+  "id": "e/14af2b140afbdf108e5c2f7a7ab8d295",
+  "rawBody": "RT @novaradioru: Universal купит «Мосфильм» за $4,7 млрд: Одна из крупнейших киностудий США Universal Pictures в ближайшее время за... http://bit.ly/9WK6NO",
+  "url": "http://friendfeed.com/zag/14af2b14/rt-novaradioru-universal-4-7-pictures",
+  "from": {
+    "name": "углы «Исимуры»",
+    "type": "user",
+    "id": "zag"
+  },
+  "via": {
+    "url": "http://twitter.com/zagru/statuses/11435664692",
+    "name": "Twitter"
+  }
+}
+=end comment
+
+=end pod

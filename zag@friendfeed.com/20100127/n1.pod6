@@ -1,0 +1,68 @@
+=begin pod :pubdate('2010-01-27T20:02:37Z') :type<note> 
+=NAME apple book use chipset a4
+
+=begin DESCRIPTION
+
+apple book use chipset a4 - L<link|http://live.gizmodo.com/page/2/>
+=for Image :width(263) :link('http://live.gizmodo.com/page/2/') :height(175) :preview
+media/82a56a3dfafbe6d62030f00ea6d072f4852545b7.jpg
+=for Image :width(263) :link('http://live.gizmodo.com/page/2/') :height(175) :preview
+media/da5a5f9f21f946b760f06b6dd7ebaf7fe5dfef6d.jpg
+=for Image :width(263) :link('http://live.gizmodo.com/page/2/') :height(175) :preview
+media/66c80e044daa62944b694456ad48071bd87752d2.jpg
+
+
+
+=end DESCRIPTION
+
+apple book use chipset a4 - L<link|http://live.gizmodo.com/page/2/>
+=for Image :width(263) :link('http://live.gizmodo.com/page/2/') :height(175) :preview
+media/82a56a3dfafbe6d62030f00ea6d072f4852545b7.jpg
+=for Image :width(263) :link('http://live.gizmodo.com/page/2/') :height(175) :preview
+media/da5a5f9f21f946b760f06b6dd7ebaf7fe5dfef6d.jpg
+=for Image :width(263) :link('http://live.gizmodo.com/page/2/') :height(175) :preview
+media/66c80e044daa62944b694456ad48071bd87752d2.jpg
+
+
+
+=begin comment :src
+{
+  "id": "e/da01fb21f2494538a9414f2aff5f7353",
+  "date": "2010-01-27T20:02:37Z",
+  "url": "http://friendfeed.com/zag/da01fb21/apple-book-use-chipset-a4",
+  "rawBody": "apple book use chipset a4",
+  "thumbnails": [
+    {
+      "link": "http://live.gizmodo.com/page/2/",
+      "height": 175,
+      "url": "http://m.friendfeed-media.com/82a56a3dfafbe6d62030f00ea6d072f4852545b7",
+      "width": 263
+    },
+    {
+      "url": "http://m.friendfeed-media.com/da5a5f9f21f946b760f06b6dd7ebaf7fe5dfef6d",
+      "width": 263,
+      "height": 175,
+      "link": "http://live.gizmodo.com/page/2/"
+    },
+    {
+      "url": "http://m.friendfeed-media.com/66c80e044daa62944b694456ad48071bd87752d2",
+      "width": 263,
+      "link": "http://live.gizmodo.com/page/2/",
+      "height": 175
+    }
+  ],
+  "body": "apple book use chipset a4 - <a rel=\"nofollow\" href=\"http://live.gizmodo.com/page/2/\" title=\"http://live.gizmodo.com/page/2/\">http://live.gizmodo.com/page...</a>",
+  "rawLink": "http://live.gizmodo.com/page/2/",
+  "from": {
+    "name": "углы «Исимуры»",
+    "id": "zag",
+    "type": "user"
+  },
+  "via": {
+    "url": "http://friendfeed.com/share/bookmarklet",
+    "name": "Bookmarklet"
+  }
+}
+=end comment
+
+=end pod

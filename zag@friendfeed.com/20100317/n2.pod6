@@ -1,0 +1,80 @@
+=begin pod :pubdate('2010-03-17T09:23:22Z') :type<note> 
+=NAME testing vs compiling
+
+=begin DESCRIPTION
+
+testing vs compiling
+=for Image :width(201) :link('http://m.friendfeed-media.com/0cde39775d0053bd9cddf1e40e589bdf52126f16') :height(175) :preview
+media/7d220ff8a79b3d18a7a7e809e084927ae756cfb3.jpg
+=for Image :width(201) :link('http://m.friendfeed-media.com/f739db0fa01e1763bc1a4b2f28373d22d9fee89f') :height(175) :preview
+media/8db6c29dca896292da83408ab23f0f0f2665f880.jpg
+
+
+
+=end DESCRIPTION
+
+testing vs compiling
+=for Image :width(201) :link('http://m.friendfeed-media.com/0cde39775d0053bd9cddf1e40e589bdf52126f16') :height(175) :preview
+media/7d220ff8a79b3d18a7a7e809e084927ae756cfb3.jpg
+=for Image :width(201) :link('http://m.friendfeed-media.com/f739db0fa01e1763bc1a4b2f28373d22d9fee89f') :height(175) :preview
+media/8db6c29dca896292da83408ab23f0f0f2665f880.jpg
+
+
+
+=begin comment :src
+{
+  "from": {
+    "name": "углы «Исимуры»",
+    "type": "user",
+    "id": "zag"
+  },
+  "body": "testing vs compiling",
+  "likes": [
+    {
+      "date": "2010-03-17T10:45:50Z",
+      "from": {
+        "type": "user",
+        "id": "ptzn",
+        "name": "ptzn"
+      }
+    },
+    {
+      "date": "2010-03-17T10:36:36Z",
+      "from": {
+        "id": "nop",
+        "type": "user",
+        "name": "Nop"
+      }
+    },
+    {
+      "date": "2010-03-17T09:39:42Z",
+      "from": {
+        "type": "user",
+        "id": "kkapp",
+        "name": "alex@kapranoff.ru"
+      }
+    }
+  ],
+  "rawLink": "http://friendfeed.com/e/88cfcdcb-d477-4d15-add2-03252f68db1a",
+  "id": "e/88cfcdcbd4774d15add203252f68db1a",
+  "date": "2010-03-17T09:23:22Z",
+  "rawBody": "testing vs compiling",
+  "thumbnails": [
+    {
+      "height": 175,
+      "link": "http://m.friendfeed-media.com/0cde39775d0053bd9cddf1e40e589bdf52126f16",
+      "width": 201,
+      "url": "http://m.friendfeed-media.com/7d220ff8a79b3d18a7a7e809e084927ae756cfb3"
+    },
+    {
+      "width": 201,
+      "url": "http://m.friendfeed-media.com/8db6c29dca896292da83408ab23f0f0f2665f880",
+      "link": "http://m.friendfeed-media.com/f739db0fa01e1763bc1a4b2f28373d22d9fee89f",
+      "height": 175
+    }
+  ],
+  "url": "http://friendfeed.com/zag/88cfcdcb/testing-vs-compiling"
+}
+=end comment
+
+=end pod

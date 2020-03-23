@@ -1,0 +1,32 @@
+=begin pod :pubdate('2011-01-02T15:34:43Z') :type<note> 
+=NAME Начинаю новый год с технического задания.
+
+=begin DESCRIPTION
+
+Начинаю новый год с технического задания.
+
+
+
+=end DESCRIPTION
+
+Начинаю новый год с технического задания.
+
+
+
+=begin comment :src
+{
+  "rawLink": "http://friendfeed.com/e/868d942b-f767-4963-b8fd-9e5c86bcddd1",
+  "body": "Начинаю новый год с технического задания.",
+  "id": "e/868d942bf7674963b8fd9e5c86bcddd1",
+  "rawBody": "Начинаю новый год с технического задания.",
+  "date": "2011-01-02T15:34:43Z",
+  "url": "http://friendfeed.com/zag/868d942b",
+  "from": {
+    "id": "zag",
+    "type": "user",
+    "name": "углы «Исимуры»"
+  }
+}
+=end comment
+
+=end pod

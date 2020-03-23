@@ -1,0 +1,32 @@
+=begin pod :pubdate('2011-02-02T07:43:52Z') :type<note> :tags<sourceforge>
+=NAME #sourceforge попросил проверить залитые мной файлы. К письму приложил md5 для сверки.
+
+=begin DESCRIPTION
+
+#sourceforge попросил проверить залитые мной файлы. К письму приложил md5 для сверки.
+
+
+
+=end DESCRIPTION
+
+#sourceforge попросил проверить залитые мной файлы. К письму приложил md5 для сверки.
+
+
+
+=begin comment :src
+{
+  "body": "<a href=\"http://friendfeed.com/search?q=%23sourceforge\">#sourceforge</a> попросил проверить залитые мной файлы. К письму приложил md5 для сверки.",
+  "rawLink": "http://friendfeed.com/e/5529b3ba-4679-4a56-aaef-90f57512f3f9",
+  "url": "http://friendfeed.com/zag/5529b3ba/sourceforge-md5",
+  "id": "e/5529b3ba46794a56aaef90f57512f3f9",
+  "date": "2011-02-02T07:43:52Z",
+  "rawBody": "#sourceforge попросил проверить залитые мной файлы. К письму приложил md5 для сверки.",
+  "from": {
+    "name": "углы «Исимуры»",
+    "type": "user",
+    "id": "zag"
+  }
+}
+=end comment
+
+=end pod

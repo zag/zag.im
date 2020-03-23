@@ -1,0 +1,77 @@
+=begin pod :pubdate('2011-03-09T10:14:51Z') :type<note> 
+=NAME Foursquare's Google Moment: Recommendations Launch Tonight
+
+=begin DESCRIPTION
+
+Foursquare's Google Moment: Recommendations Launch Tonight - L<link|http://www.readwriteweb.com/archives/can_foursquare_deliver_on_recommendations_version.php>
+=for Image :width(151) :link('http://www.readwriteweb.com/archives/can_foursquare_deliver_on_recommendations_version.php') :height(47) :preview
+media/7bd076469915d675028272fd521f0775051b8e04.jpg
+=for Image :width(235) :link('http://www.readwriteweb.com/archives/can_foursquare_deliver_on_recommendations_version.php') :height(175) :preview
+media/d6f4f5ca586591de62b020e0a5fbd3231360e584.jpg
+
+=item tell us what you're looking for and we'll help you find something nearby.
+
+
+=end DESCRIPTION
+
+Foursquare's Google Moment: Recommendations Launch Tonight - L<link|http://www.readwriteweb.com/archives/can_foursquare_deliver_on_recommendations_version.php>
+=for Image :width(151) :link('http://www.readwriteweb.com/archives/can_foursquare_deliver_on_recommendations_version.php') :height(47) :preview
+media/7bd076469915d675028272fd521f0775051b8e04.jpg
+=for Image :width(235) :link('http://www.readwriteweb.com/archives/can_foursquare_deliver_on_recommendations_version.php') :height(175) :preview
+media/d6f4f5ca586591de62b020e0a5fbd3231360e584.jpg
+
+=item tell us what you're looking for and we'll help you find something nearby.
+
+
+=begin comment :src
+{
+  "comments": [
+    {
+      "body": "tell us what you're looking for and we'll help you find something nearby.",
+      "rawBody": "tell us what you're looking for and we'll help you find something nearby.",
+      "id": "e/1ea5dc2167d84c0b969df53f59fbc326/c/f435669ded524e4785db22b39ef04b76",
+      "date": "2011-03-09T10:14:51Z",
+      "from": {
+        "name": "углы «Исимуры»",
+        "type": "user",
+        "id": "zag"
+      },
+      "via": {
+        "name": "Bookmarklet",
+        "url": "http://friendfeed.com/share/bookmarklet"
+      }
+    }
+  ],
+  "via": {
+    "name": "Bookmarklet",
+    "url": "http://friendfeed.com/share/bookmarklet"
+  },
+  "from": {
+    "id": "zag",
+    "type": "user",
+    "name": "углы «Исимуры»"
+  },
+  "rawLink": "http://www.readwriteweb.com/archives/can_foursquare_deliver_on_recommendations_version.php",
+  "body": "Foursquare's Google Moment: Recommendations Launch Tonight - <a rel=\"nofollow\" href=\"http://www.readwriteweb.com/archives/can_foursquare_deliver_on_recommendations_version.php\" title=\"http://www.readwriteweb.com/archives/can_foursquare_deliver_on_recommendations_version.php\">http://www.readwriteweb.com/archive...</a>",
+  "id": "e/1ea5dc2167d84c0b969df53f59fbc326",
+  "date": "2011-03-09T10:14:51Z",
+  "url": "http://friendfeed.com/zag/1ea5dc21/foursquare-google-moment-recommendations",
+  "rawBody": "Foursquare's Google Moment: Recommendations Launch Tonight",
+  "thumbnails": [
+    {
+      "link": "http://www.readwriteweb.com/archives/can_foursquare_deliver_on_recommendations_version.php",
+      "height": 47,
+      "url": "http://m.friendfeed-media.com/7bd076469915d675028272fd521f0775051b8e04",
+      "width": 151
+    },
+    {
+      "link": "http://www.readwriteweb.com/archives/can_foursquare_deliver_on_recommendations_version.php",
+      "height": 175,
+      "width": 235,
+      "url": "http://m.friendfeed-media.com/d6f4f5ca586591de62b020e0a5fbd3231360e584"
+    }
+  ]
+}
+=end comment
+
+=end pod

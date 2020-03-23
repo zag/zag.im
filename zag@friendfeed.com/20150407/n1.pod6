@@ -1,0 +1,58 @@
+=begin pod :pubdate('2015-04-07T20:43:57Z') :type<note> :tags<lastselfie>
+=NAME алоха #lastselfie
+
+=begin DESCRIPTION
+
+алоха #lastselfie
+=for Image :width(175) :link('http://m.friendfeed-media.com/2af41341dd46051b21218dfd38ab93600772b5cf') :height(175) :preview
+media/3bd500c257116a011b6af7cd0d62467c47af4416.jpg
+
+
+
+=end DESCRIPTION
+
+алоха #lastselfie
+=for Image :width(175) :link('http://m.friendfeed-media.com/2af41341dd46051b21218dfd38ab93600772b5cf') :height(175) :preview
+media/3bd500c257116a011b6af7cd0d62467c47af4416.jpg
+
+
+
+=begin comment :src
+{
+  "via": {
+    "name": "Android",
+    "url": "http://friendfeed.com/about/tools"
+  },
+  "from": {
+    "id": "zag",
+    "type": "user",
+    "name": "углы «Исимуры»"
+  },
+  "rawLink": "http://friendfeed.com/e/fbccfe2a-389c-47ec-a507-958ca8f00d0c",
+  "likes": [
+    {
+      "date": "2015-04-07T22:44:11Z",
+      "from": {
+        "name": "alex@kapranoff.ru",
+        "id": "kkapp",
+        "type": "user"
+      }
+    }
+  ],
+  "body": "алоха <a href=\"http://friendfeed.com/search?q=%23lastselfie\">#lastselfie</a>",
+  "date": "2015-04-07T20:43:57Z",
+  "id": "e/fbccfe2a389c47eca507958ca8f00d0c",
+  "url": "http://friendfeed.com/zag/fbccfe2a/lastselfie",
+  "rawBody": "алоха #lastselfie",
+  "thumbnails": [
+    {
+      "width": 175,
+      "url": "http://m.friendfeed-media.com/3bd500c257116a011b6af7cd0d62467c47af4416",
+      "height": 175,
+      "link": "http://m.friendfeed-media.com/2af41341dd46051b21218dfd38ab93600772b5cf"
+    }
+  ]
+}
+=end comment
+
+=end pod

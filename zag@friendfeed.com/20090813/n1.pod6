@@ -1,0 +1,36 @@
+=begin pod :pubdate('2009-08-13T07:10:30Z') :type<note> :tags<perl6 rakudo freebsd>
+=NAME Easy install and use perl6 under FreeBSD. http://rakudoport.sourceforge.net/ #perl6 #rakudo #freebsd
+
+=begin DESCRIPTION
+
+Easy install and use perl6 under FreeBSD. http://rakudoport.sourceforge.net/ #perl6 #rakudo #freebsd - L<link|http://twitter.com/zagru/statuses/3282294583>
+
+
+
+=end DESCRIPTION
+
+Easy install and use perl6 under FreeBSD. http://rakudoport.sourceforge.net/ #perl6 #rakudo #freebsd - L<link|http://twitter.com/zagru/statuses/3282294583>
+
+
+
+=begin comment :src
+{
+  "from": {
+    "name": "углы «Исимуры»",
+    "type": "user",
+    "id": "zag"
+  },
+  "via": {
+    "name": "Twitter",
+    "url": "http://twitter.com/zagru/statuses/3282294583"
+  },
+  "rawLink": "http://twitter.com/zagru/statuses/3282294583",
+  "body": "Easy install and use perl6 under FreeBSD. <a rel=\"nofollow\" href=\"http://rakudoport.sourceforge.net/\" title=\"http://rakudoport.sourceforge.net/\">http://rakudoport.sourceforge.net/</a> <a rel=\"nofollow\" href=\"http://search.twitter.com/search?q=%23perl6\">#perl6</a> <a rel=\"nofollow\" href=\"http://search.twitter.com/search?q=%23rakudo\">#rakudo</a> <a rel=\"nofollow\" href=\"http://search.twitter.com/search?q=%23freebsd\">#freebsd</a>",
+  "id": "e/5e3f77df47155eb6b05f797beb5c6014",
+  "date": "2009-08-13T07:10:30Z",
+  "rawBody": "Easy install and use perl6 under FreeBSD. http://rakudoport.sourceforge.net/ #perl6 #rakudo #freebsd",
+  "url": "http://friendfeed.com/zag/5e3f77df/easy-install-and-use-perl6-under-freebsd-rakudo"
+}
+=end comment
+
+=end pod

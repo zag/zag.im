@@ -1,0 +1,48 @@
+=begin pod :pubdate('2010-12-16T11:15:59Z') :type<note> 
+=NAME CHART OF THE DAY: Google's Login Is More Popular Than Facebook Connect
+
+=begin DESCRIPTION
+
+CHART OF THE DAY: Google's Login Is More Popular Than Facebook Connect - L<link|http://www.businessinsider.com/chart-of-the-day-social-login-preferences-2010-12>
+=for Image :width(233) :link('http://www.businessinsider.com/chart-of-the-day-social-login-preferences-2010-12') :height(175) :preview
+media/cf52055d528c95ef0e42074e1b7c1f0eed5122a1.jpg
+
+
+
+=end DESCRIPTION
+
+CHART OF THE DAY: Google's Login Is More Popular Than Facebook Connect - L<link|http://www.businessinsider.com/chart-of-the-day-social-login-preferences-2010-12>
+=for Image :width(233) :link('http://www.businessinsider.com/chart-of-the-day-social-login-preferences-2010-12') :height(175) :preview
+media/cf52055d528c95ef0e42074e1b7c1f0eed5122a1.jpg
+
+
+
+=begin comment :src
+{
+  "from": {
+    "name": "углы «Исимуры»",
+    "id": "zag",
+    "type": "user"
+  },
+  "via": {
+    "name": "Bookmarklet",
+    "url": "http://friendfeed.com/share/bookmarklet"
+  },
+  "date": "2010-12-16T11:15:59Z",
+  "id": "e/6deb1ed56c5e4ee585bc641c646d731d",
+  "rawBody": "CHART OF THE DAY: Google's Login Is More Popular Than Facebook Connect",
+  "url": "http://friendfeed.com/zag/6deb1ed5/chart-of-day-google-login-is-more-popular-than",
+  "thumbnails": [
+    {
+      "link": "http://www.businessinsider.com/chart-of-the-day-social-login-preferences-2010-12",
+      "height": 175,
+      "url": "http://m.friendfeed-media.com/cf52055d528c95ef0e42074e1b7c1f0eed5122a1",
+      "width": 233
+    }
+  ],
+  "body": "CHART OF THE DAY: Google's Login Is More Popular Than Facebook Connect - <a rel=\"nofollow\" href=\"http://www.businessinsider.com/chart-of-the-day-social-login-preferences-2010-12\" title=\"http://www.businessinsider.com/chart-of-the-day-social-login-preferences-2010-12\">http://www.businessinsider.com/chart-o...</a>",
+  "rawLink": "http://www.businessinsider.com/chart-of-the-day-social-login-preferences-2010-12"
+}
+=end comment
+
+=end pod

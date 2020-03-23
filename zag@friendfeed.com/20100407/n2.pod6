@@ -1,0 +1,100 @@
+=begin pod :pubdate('2010-04-07T04:38:57Z') :type<note> 
+=NAME How to Declutter and Streamline Your Google Reader Inbox
+
+=begin DESCRIPTION
+
+How to Declutter and Streamline Your Google Reader Inbox - L<link|http://lifehacker.com/5509815/how-to-declutter-and-streamline-your-google-reader-inbox>
+=for Image :width(374) :link('http://lifehacker.com/5509815/how-to-declutter-and-streamline-your-google-reader-inbox') :height(175) :preview
+media/1c8ef9194f12efa37da96b41281dc8f2249dce1a.jpg
+=for Image :width(270) :link('http://lifehacker.com/5509815/how-to-declutter-and-streamline-your-google-reader-inbox') :height(175) :preview
+media/a2f596c6422c7637fd80fdd6d28277394112d63c.jpg
+=for Image :width(374) :link('http://lifehacker.com/5509815/how-to-declutter-and-streamline-your-google-reader-inbox') :height(175) :preview
+media/0192776c8c4d15fdb29aa69c4d11dd9ae21f3f53.jpg
+
+=item Keep Yourself Sane With Priority-Based Folders
+=item Reduce Unwanted Posts with RSS Filters
+
+
+=end DESCRIPTION
+
+How to Declutter and Streamline Your Google Reader Inbox - L<link|http://lifehacker.com/5509815/how-to-declutter-and-streamline-your-google-reader-inbox>
+=for Image :width(374) :link('http://lifehacker.com/5509815/how-to-declutter-and-streamline-your-google-reader-inbox') :height(175) :preview
+media/1c8ef9194f12efa37da96b41281dc8f2249dce1a.jpg
+=for Image :width(270) :link('http://lifehacker.com/5509815/how-to-declutter-and-streamline-your-google-reader-inbox') :height(175) :preview
+media/a2f596c6422c7637fd80fdd6d28277394112d63c.jpg
+=for Image :width(374) :link('http://lifehacker.com/5509815/how-to-declutter-and-streamline-your-google-reader-inbox') :height(175) :preview
+media/0192776c8c4d15fdb29aa69c4d11dd9ae21f3f53.jpg
+
+=item Keep Yourself Sane With Priority-Based Folders
+=item Reduce Unwanted Posts with RSS Filters
+
+
+=begin comment :src
+{
+  "from": {
+    "name": "углы «Исимуры»",
+    "type": "user",
+    "id": "zag"
+  },
+  "via": {
+    "url": "http://friendfeed.com/share/bookmarklet",
+    "name": "Bookmarklet"
+  },
+  "comments": [
+    {
+      "body": "Keep Yourself Sane With Priority-Based Folders",
+      "id": "e/556ae3ebb46b45eb94529678b59263b0/c/c837761793f64225957e0efc59fcb04a",
+      "date": "2010-04-07T04:38:57Z",
+      "from": {
+        "name": "углы «Исимуры»",
+        "id": "zag",
+        "type": "user"
+      },
+      "rawBody": "Keep Yourself Sane With Priority-Based Folders",
+      "via": {
+        "name": "Bookmarklet",
+        "url": "http://friendfeed.com/share/bookmarklet"
+      }
+    },
+    {
+      "rawBody": "Reduce Unwanted Posts with RSS Filters",
+      "id": "e/556ae3ebb46b45eb94529678b59263b0/c/a267bab40c744e3da740fac0df75e8f4",
+      "date": "2010-04-07T04:39:22Z",
+      "from": {
+        "name": "углы «Исимуры»",
+        "type": "user",
+        "id": "zag"
+      },
+      "body": "Reduce Unwanted Posts with RSS Filters"
+    }
+  ],
+  "id": "e/556ae3ebb46b45eb94529678b59263b0",
+  "date": "2010-04-07T04:38:57Z",
+  "url": "http://friendfeed.com/zag/556ae3eb/how-to-declutter-and-streamline-your-google",
+  "rawBody": "How to Declutter and Streamline Your Google Reader Inbox",
+  "thumbnails": [
+    {
+      "height": 175,
+      "link": "http://lifehacker.com/5509815/how-to-declutter-and-streamline-your-google-reader-inbox",
+      "url": "http://m.friendfeed-media.com/1c8ef9194f12efa37da96b41281dc8f2249dce1a",
+      "width": 374
+    },
+    {
+      "link": "http://lifehacker.com/5509815/how-to-declutter-and-streamline-your-google-reader-inbox",
+      "height": 175,
+      "width": 270,
+      "url": "http://m.friendfeed-media.com/a2f596c6422c7637fd80fdd6d28277394112d63c"
+    },
+    {
+      "url": "http://m.friendfeed-media.com/0192776c8c4d15fdb29aa69c4d11dd9ae21f3f53",
+      "width": 374,
+      "link": "http://lifehacker.com/5509815/how-to-declutter-and-streamline-your-google-reader-inbox",
+      "height": 175
+    }
+  ],
+  "rawLink": "http://lifehacker.com/5509815/how-to-declutter-and-streamline-your-google-reader-inbox",
+  "body": "How to Declutter and Streamline Your Google Reader Inbox - <a rel=\"nofollow\" href=\"http://lifehacker.com/5509815/how-to-declutter-and-streamline-your-google-reader-inbox\" title=\"http://lifehacker.com/5509815/how-to-declutter-and-streamline-your-google-reader-inbox\">http://lifehacker.com/5509815...</a>"
+}
+=end comment
+
+=end pod

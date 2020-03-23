@@ -1,0 +1,36 @@
+=begin pod :pubdate('2012-02-11T09:57:02Z') :type<note> :tags<lvee>
+=NAME RT @dvankevich: весёлый докладчик :) http://t.co/Js36BwPJ #lvee
+
+=begin DESCRIPTION
+
+RT @dvankevich: весёлый докладчик :) http://t.co/Js36BwPJ #lvee - L<link|http://twitter.com/zagru/statuses/168272323777003520>
+
+
+
+=end DESCRIPTION
+
+RT @dvankevich: весёлый докладчик :) http://t.co/Js36BwPJ #lvee - L<link|http://twitter.com/zagru/statuses/168272323777003520>
+
+
+
+=begin comment :src
+{
+  "id": "e/006a724624fb44939b7059617fdd4378",
+  "rawBody": "RT @dvankevich: весёлый докладчик :) http://t.co/Js36BwPJ #lvee",
+  "date": "2012-02-11T09:57:02Z",
+  "url": "http://friendfeed.com/zag/006a7246/rt-dvankevich-lvee",
+  "rawLink": "http://twitter.com/zagru/statuses/168272323777003520",
+  "body": "RT @<a rel=\"nofollow\" href=\"http://twitter.com/dvankevich\">dvankevich</a>: весёлый докладчик :) <a rel=\"nofollow\" href=\"http://t.co/Js36BwPJ\" title=\"http://pixelpipe.com/ticket/-QqsCuOH-Xo/fR_s_vKdW5s/d7bd336c-3533-453f-a04d-799b0c8d9a8b\">http://pixelpipe.com/ticket...</a> <a rel=\"nofollow\" href=\"http://search.twitter.com/search?q=%23lvee\">#lvee</a>",
+  "from": {
+    "type": "user",
+    "id": "zag",
+    "name": "углы «Исимуры»"
+  },
+  "via": {
+    "name": "Twitter",
+    "url": "http://twitter.com/zagru/statuses/168272323777003520"
+  }
+}
+=end comment
+
+=end pod

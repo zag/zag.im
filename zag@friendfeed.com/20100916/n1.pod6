@@ -1,0 +1,136 @@
+=begin pod :pubdate('2010-09-16T17:27:24Z') :type<note> 
+=NAME Добавление иконки вашего сервиса в Почте@Mail.Ru - Mail.Ru API.
+
+=begin DESCRIPTION
+
+Добавление иконки вашего сервиса в Почте@Mail.Ru - Mail.Ru API. - L<link|http://api.mail.ru/docs/guides/mailicon/>
+=for Image :width(439) :link('http://api.mail.ru/docs/guides/mailicon/') :height(175) :preview
+media/7b0b66c4c5a4122e2bf94bea959684afede95781.jpg
+
+=item 1.Пропишите домену SPF-запись
+=item 2.Отправьте запрос на добавление иконки по адресу mailicon@corp.mail.ru. В запросе, пожалуйста, укажите:
+
+    * ссылку на ваш ресурс
+    * описание сайта
+    * какие автоматические уведомления вы шлете (перечень)
+    * email, или несколько адресов, c которых рассылаете
+    * картинку 12px × 12px в формате png 8 с однобитной прозрачностью.
+=item 3.Пожалуйста, подождите :) В течение пяти рабочих дней мы рассмотрим вашу заявку и сообщим о результате.
+=item Почта@Mail.Ru оставляет за собой право выбирать письма от каких сервисов будут помечены иконками
+
+
+=end DESCRIPTION
+
+Добавление иконки вашего сервиса в Почте@Mail.Ru - Mail.Ru API. - L<link|http://api.mail.ru/docs/guides/mailicon/>
+=for Image :width(439) :link('http://api.mail.ru/docs/guides/mailicon/') :height(175) :preview
+media/7b0b66c4c5a4122e2bf94bea959684afede95781.jpg
+
+=item 1.Пропишите домену SPF-запись
+=item 2.Отправьте запрос на добавление иконки по адресу mailicon@corp.mail.ru. В запросе, пожалуйста, укажите:
+
+    * ссылку на ваш ресурс
+    * описание сайта
+    * какие автоматические уведомления вы шлете (перечень)
+    * email, или несколько адресов, c которых рассылаете
+    * картинку 12px × 12px в формате png 8 с однобитной прозрачностью.
+=item 3.Пожалуйста, подождите :) В течение пяти рабочих дней мы рассмотрим вашу заявку и сообщим о результате.
+=item Почта@Mail.Ru оставляет за собой право выбирать письма от каких сервисов будут помечены иконками
+
+
+=begin comment :src
+{
+  "from": {
+    "id": "zag",
+    "type": "user",
+    "name": "углы «Исимуры»"
+  },
+  "via": {
+    "name": "Bookmarklet",
+    "url": "http://friendfeed.com/share/bookmarklet"
+  },
+  "comments": [
+    {
+      "body": "1.Пропишите домену SPF-запись",
+      "via": {
+        "name": "Bookmarklet",
+        "url": "http://friendfeed.com/share/bookmarklet"
+      },
+      "date": "2010-09-16T17:27:24Z",
+      "id": "e/3adb28b07d5140a7867dc32349262666/c/9f1e1aba1c594bb2b82331df2cce0c10",
+      "rawBody": "1.Пропишите домену SPF-запись",
+      "from": {
+        "name": "углы «Исимуры»",
+        "id": "zag",
+        "type": "user"
+      }
+    },
+    {
+      "rawBody": "2.Отправьте запрос на добавление иконки по адресу mailicon@corp.mail.ru. В запросе, пожалуйста, укажите:\n\n    * ссылку на ваш ресурс\n    * описание сайта\n    * какие автоматические уведомления вы шлете (перечень)\n    * email, или несколько адресов, c которых рассылаете\n    * картинку 12px × 12px в формате png 8 с однобитной прозрачностью.",
+      "from": {
+        "name": "углы «Исимуры»",
+        "type": "user",
+        "id": "zag"
+      },
+      "id": "e/3adb28b07d5140a7867dc32349262666/c/5bc05488e860436a912ce19b12e3f34e",
+      "date": "2010-09-16T17:27:46Z",
+      "body": "2.Отправьте запрос на добавление иконки по адресу mailicon@corp.mail.ru. В запросе, пожалуйста, укажите:\n\n    * ссылку на ваш ресурс\n    * описание сайта\n    * какие автоматические уведомления вы шлете (перечень)\n    * email, или несколько адресов, c которых рассылаете\n    * картинку 12px × 12px в формате png 8 с однобитной прозрачностью."
+    },
+    {
+      "body": "3.Пожалуйста, подождите :) В течение пяти рабочих дней мы рассмотрим вашу заявку и сообщим о результате.",
+      "rawBody": "3.Пожалуйста, подождите :) В течение пяти рабочих дней мы рассмотрим вашу заявку и сообщим о результате.",
+      "id": "e/3adb28b07d5140a7867dc32349262666/c/4ddd9f5d95344bb0b425fd8f4ed93dea",
+      "date": "2010-09-16T17:27:59Z",
+      "from": {
+        "name": "углы «Исимуры»",
+        "type": "user",
+        "id": "zag"
+      }
+    },
+    {
+      "id": "e/3adb28b07d5140a7867dc32349262666/c/3575a3e46793453fafe09a0be192d29a",
+      "rawBody": "Почта@Mail.Ru оставляет за собой право выбирать письма от каких сервисов будут помечены иконками",
+      "date": "2010-09-16T17:29:35Z",
+      "from": {
+        "id": "zag",
+        "type": "user",
+        "name": "углы «Исимуры»"
+      },
+      "body": "Почта@Mail.Ru оставляет за собой право выбирать письма от каких сервисов будут помечены иконками"
+    }
+  ],
+  "id": "e/3adb28b07d5140a7867dc32349262666",
+  "date": "2010-09-16T17:27:24Z",
+  "rawBody": "Добавление иконки вашего сервиса в Почте@Mail.Ru - Mail.Ru API.",
+  "url": "http://friendfeed.com/zag/3adb28b0/mail-ru-api",
+  "thumbnails": [
+    {
+      "height": 175,
+      "link": "http://api.mail.ru/docs/guides/mailicon/",
+      "width": 439,
+      "url": "http://m.friendfeed-media.com/7b0b66c4c5a4122e2bf94bea959684afede95781"
+    }
+  ],
+  "rawLink": "http://api.mail.ru/docs/guides/mailicon/",
+  "likes": [
+    {
+      "from": {
+        "type": "user",
+        "id": "dk42",
+        "name": "Dmitry Khrustalev"
+      },
+      "date": "2010-09-16T18:10:04Z"
+    },
+    {
+      "from": {
+        "type": "user",
+        "id": "kkapp",
+        "name": "alex@kapranoff.ru"
+      },
+      "date": "2010-09-16T17:39:21Z"
+    }
+  ],
+  "body": "Добавление иконки вашего сервиса в Почте@Mail.Ru - Mail.Ru API. - <a rel=\"nofollow\" href=\"http://api.mail.ru/docs/guides/mailicon/\" title=\"http://api.mail.ru/docs/guides/mailicon/\">http://api.mail.ru/docs...</a>"
+}
+=end comment
+
+=end pod

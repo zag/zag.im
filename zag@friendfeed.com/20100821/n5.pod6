@@ -1,0 +1,48 @@
+=begin pod :pubdate('2010-08-21T10:58:14Z') :type<note> 
+=NAME Фетиш шамана для лечебного камлания
+
+=begin DESCRIPTION
+
+Фетиш шамана для лечебного камлания
+=for Image :width(233) :link('http://m.friendfeed-media.com/d802a35595354e9e0a56908d2b3ba9ae29aff09c') :height(175) :preview
+media/a667f2c9bc44cd3fd758da801701ef91c420e29f.jpg
+
+
+
+=end DESCRIPTION
+
+Фетиш шамана для лечебного камлания
+=for Image :width(233) :link('http://m.friendfeed-media.com/d802a35595354e9e0a56908d2b3ba9ae29aff09c') :height(175) :preview
+media/a667f2c9bc44cd3fd758da801701ef91c420e29f.jpg
+
+
+
+=begin comment :src
+{
+  "id": "e/45477b9d55e1429684e12d27d6e72faf",
+  "date": "2010-08-21T10:58:14Z",
+  "rawBody": "Фетиш шамана для лечебного камлания",
+  "url": "http://friendfeed.com/zag/45477b9d",
+  "thumbnails": [
+    {
+      "width": 233,
+      "url": "http://m.friendfeed-media.com/a667f2c9bc44cd3fd758da801701ef91c420e29f",
+      "link": "http://m.friendfeed-media.com/d802a35595354e9e0a56908d2b3ba9ae29aff09c",
+      "height": 175
+    }
+  ],
+  "body": "Фетиш шамана для лечебного камлания",
+  "rawLink": "http://friendfeed.com/e/45477b9d-55e1-4296-84e1-2d27d6e72faf",
+  "from": {
+    "name": "углы «Исимуры»",
+    "type": "user",
+    "id": "zag"
+  },
+  "via": {
+    "url": "http://friendfeed.com/share/mail",
+    "name": "email"
+  }
+}
+=end comment
+
+=end pod

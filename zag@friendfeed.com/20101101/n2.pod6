@@ -1,0 +1,36 @@
+=begin pod :pubdate('2010-11-01T09:00:56Z') :type<note> 
+=NAME RT @mkrentovskiy: Силиконовая или кремниевая? http://bit.ly/aKiUb2
+
+=begin DESCRIPTION
+
+RT @mkrentovskiy: Силиконовая или кремниевая? http://bit.ly/aKiUb2 - L<link|http://twitter.com/zagru/statuses/29355132711>
+
+
+
+=end DESCRIPTION
+
+RT @mkrentovskiy: Силиконовая или кремниевая? http://bit.ly/aKiUb2 - L<link|http://twitter.com/zagru/statuses/29355132711>
+
+
+
+=begin comment :src
+{
+  "via": {
+    "url": "http://twitter.com/zagru/statuses/29355132711",
+    "name": "Twitter"
+  },
+  "from": {
+    "type": "user",
+    "id": "zag",
+    "name": "углы «Исимуры»"
+  },
+  "id": "e/7d2992bbbbb42c9cdb69b57ca7554495",
+  "url": "http://friendfeed.com/zag/7d2992bb/rt-mkrentovskiy",
+  "date": "2010-11-01T09:00:56Z",
+  "rawBody": "RT @mkrentovskiy: Силиконовая или кремниевая? http://bit.ly/aKiUb2",
+  "body": "RT @<a rel=\"nofollow\" href=\"http://twitter.com/mkrentovskiy\">mkrentovskiy</a>: Силиконовая или кремниевая? <a rel=\"nofollow\" href=\"http://bit.ly/aKiUb2\" title=\"http://abcdefgh.livejournal.com/1300824.html\">http://abcdefgh.livejournal.com/1300824...</a>",
+  "rawLink": "http://twitter.com/zagru/statuses/29355132711"
+}
+=end comment
+
+=end pod

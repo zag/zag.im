@@ -1,0 +1,127 @@
+=begin pod :pubdate('2010-06-17T11:01:19Z') :type<note> 
+=NAME Заявление на отпуск
+
+=begin DESCRIPTION
+
+Заявление на отпуск
+=for Image :width(121) :link('http://m.friendfeed-media.com/dbdcad7519a42d881464042c19ac1ff2267f573a') :height(175) :preview
+media/d54f58e58005740f21644c442ca0689b0e3ab55c.jpg
+
+
+
+=end DESCRIPTION
+
+Заявление на отпуск
+=for Image :width(121) :link('http://m.friendfeed-media.com/dbdcad7519a42d881464042c19ac1ff2267f573a') :height(175) :preview
+media/d54f58e58005740f21644c442ca0689b0e3ab55c.jpg
+
+
+
+=begin comment :src
+{
+  "from": {
+    "id": "zag",
+    "type": "user",
+    "name": "углы «Исимуры»"
+  },
+  "body": "Заявление на отпуск",
+  "likes": [
+    {
+      "from": {
+        "name": "The Awesomeness Herself",
+        "type": "user",
+        "id": "olgasafonova"
+      },
+      "date": "2010-06-17T17:52:40Z"
+    },
+    {
+      "from": {
+        "id": "intmainvoid",
+        "type": "user",
+        "name": "intmainvoid"
+      },
+      "date": "2010-06-17T15:36:44Z"
+    },
+    {
+      "date": "2010-06-17T15:27:46Z",
+      "from": {
+        "name": "lotek93",
+        "type": "user",
+        "id": "lotek93"
+      }
+    },
+    {
+      "date": "2010-06-17T15:12:29Z",
+      "from": {
+        "id": "quarck",
+        "type": "user",
+        "name": "9 других пользователя/-ей"
+      }
+    },
+    {
+      "from": {
+        "private": true,
+        "type": "user",
+        "id": "patamyshta",
+        "name": "Шатать интроекты"
+      },
+      "date": "2010-06-17T12:41:36Z"
+    },
+    {
+      "from": {
+        "name": "joo",
+        "id": "tapochonok",
+        "type": "user"
+      },
+      "date": "2010-06-17T12:01:41Z"
+    },
+    {
+      "from": {
+        "name": "Алишер",
+        "id": "alisher",
+        "type": "user"
+      },
+      "date": "2010-06-17T11:58:56Z"
+    },
+    {
+      "date": "2010-06-17T11:58:26Z",
+      "from": {
+        "name": "всех сферических тёлочек",
+        "type": "user",
+        "id": "katiao"
+      }
+    },
+    {
+      "from": {
+        "name": "Dmitriy Olerinskiy",
+        "id": "menelvagor",
+        "type": "user"
+      },
+      "date": "2010-06-17T11:55:00Z"
+    },
+    {
+      "date": "2010-06-17T11:05:56Z",
+      "from": {
+        "name": "Vyacheslav Matyukhin",
+        "id": "mmcleric",
+        "type": "user"
+      }
+    }
+  ],
+  "rawLink": "http://friendfeed.com/e/6b03a098-76a1-4cf8-b713-243d42320547",
+  "date": "2010-06-17T11:01:19Z",
+  "id": "e/6b03a09876a14cf8b713243d42320547",
+  "rawBody": "Заявление на отпуск",
+  "url": "http://friendfeed.com/zag/6b03a098",
+  "thumbnails": [
+    {
+      "link": "http://m.friendfeed-media.com/dbdcad7519a42d881464042c19ac1ff2267f573a",
+      "height": 175,
+      "width": 121,
+      "url": "http://m.friendfeed-media.com/d54f58e58005740f21644c442ca0689b0e3ab55c"
+    }
+  ]
+}
+=end comment
+
+=end pod

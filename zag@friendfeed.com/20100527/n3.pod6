@@ -1,0 +1,36 @@
+=begin pod :pubdate('2010-05-27T06:29:48Z') :type<note> 
+=NAME RT @madchesterru: New post: Madchester.ru мог прекратить свое существование! http://bit.ly/ctZ561
+
+=begin DESCRIPTION
+
+RT @madchesterru: New post: Madchester.ru мог прекратить свое существование! http://bit.ly/ctZ561 - L<link|http://twitter.com/zagru/statuses/14817559440>
+
+
+
+=end DESCRIPTION
+
+RT @madchesterru: New post: Madchester.ru мог прекратить свое существование! http://bit.ly/ctZ561 - L<link|http://twitter.com/zagru/statuses/14817559440>
+
+
+
+=begin comment :src
+{
+  "via": {
+    "url": "http://twitter.com/zagru/statuses/14817559440",
+    "name": "Twitter"
+  },
+  "from": {
+    "name": "углы «Исимуры»",
+    "type": "user",
+    "id": "zag"
+  },
+  "rawBody": "RT @madchesterru: New post: Madchester.ru мог прекратить свое существование! http://bit.ly/ctZ561",
+  "id": "e/5d94b4a747fa13705897c62826a46ae7",
+  "date": "2010-05-27T06:29:48Z",
+  "url": "http://friendfeed.com/zag/5d94b4a7/rt-madchesterru-new-post-madchester-ru",
+  "body": "RT @<a rel=\"nofollow\" href=\"http://twitter.com/madchesterru\">madchesterru</a>: New post: Madchester.ru мог прекратить свое существование! <a rel=\"nofollow\" href=\"http://bit.ly/ctZ561\" title=\"http://madchester.ru/2010/05/madchester-ru-%d0%bc%d0%be%d0%b3-%d0%bf%d1%80%d0%b5%d0%ba%d1%80%d0%b0%d1%82%d0%b8%d1%82%d1%8c-%d1%81%d0%b2%d0%be%d0%b5-%d1%81%d1%83%d1%89%d0%b5%d1%81%d1%82%d0%b2%d0%be%d0%b2%d0%b0%d0%bd%d0%b8%d0%b5/\">http://madchester.ru/2010...</a>",
+  "rawLink": "http://twitter.com/zagru/statuses/14817559440"
+}
+=end comment
+
+=end pod

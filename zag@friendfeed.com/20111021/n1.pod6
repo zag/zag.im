@@ -1,0 +1,68 @@
+=begin pod :pubdate('2011-10-21T10:28:27Z') :type<note> 
+=NAME Most Expressive Pumpkin Faces Ever! - My Modern Metropolis
+
+=begin DESCRIPTION
+
+Most Expressive Pumpkin Faces Ever! - My Modern Metropolis - L<link|http://www.mymodernmet.com/profiles/blogs/most-expressive-pumpkin-faces-ever>
+=for Image :width(246) :link('http://www.mymodernmet.com/profiles/blogs/most-expressive-pumpkin-faces-ever') :height(175) :preview
+media/0957dead01a7c10dc3135d16d7a57fceb011a488.jpg
+=for Image :width(165) :link('http://www.mymodernmet.com/profiles/blogs/most-expressive-pumpkin-faces-ever') :height(175) :preview
+media/0b5bd7eeace70e7cfc1bd8142f871918ee093c0f.jpg
+=for Image :width(143) :link('http://www.mymodernmet.com/profiles/blogs/most-expressive-pumpkin-faces-ever') :height(175) :preview
+media/0999553b39295b3a72238813abfc9d77216879bf.jpg
+
+
+
+=end DESCRIPTION
+
+Most Expressive Pumpkin Faces Ever! - My Modern Metropolis - L<link|http://www.mymodernmet.com/profiles/blogs/most-expressive-pumpkin-faces-ever>
+=for Image :width(246) :link('http://www.mymodernmet.com/profiles/blogs/most-expressive-pumpkin-faces-ever') :height(175) :preview
+media/0957dead01a7c10dc3135d16d7a57fceb011a488.jpg
+=for Image :width(165) :link('http://www.mymodernmet.com/profiles/blogs/most-expressive-pumpkin-faces-ever') :height(175) :preview
+media/0b5bd7eeace70e7cfc1bd8142f871918ee093c0f.jpg
+=for Image :width(143) :link('http://www.mymodernmet.com/profiles/blogs/most-expressive-pumpkin-faces-ever') :height(175) :preview
+media/0999553b39295b3a72238813abfc9d77216879bf.jpg
+
+
+
+=begin comment :src
+{
+  "rawLink": "http://www.mymodernmet.com/profiles/blogs/most-expressive-pumpkin-faces-ever",
+  "body": "Most Expressive Pumpkin Faces Ever! - My Modern Metropolis - <a rel=\"nofollow\" href=\"http://www.mymodernmet.com/profiles/blogs/most-expressive-pumpkin-faces-ever\" title=\"http://www.mymodernmet.com/profiles/blogs/most-expressive-pumpkin-faces-ever\">http://www.mymodernmet.com/profile...</a>",
+  "id": "e/1589538fd6e6464e8a96ce4f2bbd328a",
+  "rawBody": "Most Expressive Pumpkin Faces Ever! - My Modern Metropolis",
+  "date": "2011-10-21T10:28:27Z",
+  "thumbnails": [
+    {
+      "width": 246,
+      "url": "http://m.friendfeed-media.com/0957dead01a7c10dc3135d16d7a57fceb011a488",
+      "height": 175,
+      "link": "http://www.mymodernmet.com/profiles/blogs/most-expressive-pumpkin-faces-ever"
+    },
+    {
+      "height": 175,
+      "link": "http://www.mymodernmet.com/profiles/blogs/most-expressive-pumpkin-faces-ever",
+      "width": 165,
+      "url": "http://m.friendfeed-media.com/0b5bd7eeace70e7cfc1bd8142f871918ee093c0f"
+    },
+    {
+      "link": "http://www.mymodernmet.com/profiles/blogs/most-expressive-pumpkin-faces-ever",
+      "height": 175,
+      "url": "http://m.friendfeed-media.com/0999553b39295b3a72238813abfc9d77216879bf",
+      "width": 143
+    }
+  ],
+  "url": "http://friendfeed.com/zag/1589538f/most-expressive-pumpkin-faces-ever-my-modern",
+  "from": {
+    "type": "user",
+    "id": "zag",
+    "name": "углы «Исимуры»"
+  },
+  "via": {
+    "name": "Bookmarklet",
+    "url": "http://friendfeed.com/share/bookmarklet"
+  }
+}
+=end comment
+
+=end pod

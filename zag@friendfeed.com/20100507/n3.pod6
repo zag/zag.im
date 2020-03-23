@@ -1,0 +1,87 @@
+=begin pod :pubdate('2010-05-07T13:01:12Z') :type<note> :tags<html5>
+=NAME Scribd CTO: “We Are Scrapping Flash And Betting The Company On #html5 ″ (Exclusive Screenshots)
+
+=begin DESCRIPTION
+
+Scribd CTO: “We Are Scrapping Flash And Betting The Company On #html5 ″ (Exclusive Screenshots) - L<link|http://techcrunch.com/2010/05/05/scribd-html5/>
+=for Image :width(233) :link('http://techcrunch.com/2010/05/05/scribd-html5/') :height(175) :preview
+media/f92dc8a2736eea47d94675ca67aecc5a050f012c.jpg
+=for Image :width(234) :link('http://techcrunch.com/2010/05/05/scribd-html5/') :height(175) :preview
+media/2f2e688aba6da959ec00f62b0f9695c49d11eb0c.jpg
+=for Image :width(235) :link('http://techcrunch.com/2010/05/05/scribd-html5/') :height(175) :preview
+media/57e662b2bf975f77d7312774499220aa43b36e31.jpg
+
+=item Tomorrow, online document sharing site Scribd will start to ditch Flash across its tens of millions of uploaded documents and convert them all to native HTML5 Web pages.
+
+
+=end DESCRIPTION
+
+Scribd CTO: “We Are Scrapping Flash And Betting The Company On #html5 ″ (Exclusive Screenshots) - L<link|http://techcrunch.com/2010/05/05/scribd-html5/>
+=for Image :width(233) :link('http://techcrunch.com/2010/05/05/scribd-html5/') :height(175) :preview
+media/f92dc8a2736eea47d94675ca67aecc5a050f012c.jpg
+=for Image :width(234) :link('http://techcrunch.com/2010/05/05/scribd-html5/') :height(175) :preview
+media/2f2e688aba6da959ec00f62b0f9695c49d11eb0c.jpg
+=for Image :width(235) :link('http://techcrunch.com/2010/05/05/scribd-html5/') :height(175) :preview
+media/57e662b2bf975f77d7312774499220aa43b36e31.jpg
+
+=item Tomorrow, online document sharing site Scribd will start to ditch Flash across its tens of millions of uploaded documents and convert them all to native HTML5 Web pages.
+
+
+=begin comment :src
+{
+  "comments": [
+    {
+      "body": "Tomorrow, online document sharing site Scribd will start to ditch Flash across its tens of millions of uploaded documents and convert them all to native HTML5 Web pages.",
+      "via": {
+        "name": "Bookmarklet",
+        "url": "http://friendfeed.com/share/bookmarklet"
+      },
+      "date": "2010-05-07T13:01:12Z",
+      "id": "e/6a8b51bf92384a929a8b9cc8119fbe7e/c/8bed2fbad9a34a3f97bc07762826aeae",
+      "rawBody": "Tomorrow, online document sharing site Scribd will start to ditch Flash across its tens of millions of uploaded documents and convert them all to native HTML5 Web pages.",
+      "from": {
+        "name": "углы «Исимуры»",
+        "id": "zag",
+        "type": "user"
+      }
+    }
+  ],
+  "via": {
+    "name": "Bookmarklet",
+    "url": "http://friendfeed.com/share/bookmarklet"
+  },
+  "from": {
+    "name": "углы «Исимуры»",
+    "id": "zag",
+    "type": "user"
+  },
+  "body": "Scribd CTO: “We Are Scrapping Flash And Betting The Company On <a href=\"http://friendfeed.com/search?q=%23html5\">#html5</a> ″ (Exclusive Screenshots) - <a rel=\"nofollow\" href=\"http://techcrunch.com/2010/05/05/scribd-html5/\" title=\"http://techcrunch.com/2010/05/05/scribd-html5/\">http://techcrunch.com/2010...</a>",
+  "rawLink": "http://techcrunch.com/2010/05/05/scribd-html5/",
+  "id": "e/6a8b51bf92384a929a8b9cc8119fbe7e",
+  "date": "2010-05-07T13:01:12Z",
+  "thumbnails": [
+    {
+      "height": 175,
+      "link": "http://techcrunch.com/2010/05/05/scribd-html5/",
+      "width": 233,
+      "url": "http://m.friendfeed-media.com/f92dc8a2736eea47d94675ca67aecc5a050f012c"
+    },
+    {
+      "height": 175,
+      "link": "http://techcrunch.com/2010/05/05/scribd-html5/",
+      "width": 234,
+      "url": "http://m.friendfeed-media.com/2f2e688aba6da959ec00f62b0f9695c49d11eb0c"
+    },
+    {
+      "height": 175,
+      "link": "http://techcrunch.com/2010/05/05/scribd-html5/",
+      "url": "http://m.friendfeed-media.com/57e662b2bf975f77d7312774499220aa43b36e31",
+      "width": 235
+    }
+  ],
+  "rawBody": "Scribd CTO: “We Are Scrapping Flash And Betting The Company On #html5 ″ (Exclusive Screenshots)",
+  "url": "http://friendfeed.com/zag/6a8b51bf/scribd-cto-we-are-scrapping-flash-and-betting"
+}
+=end comment
+
+=end pod

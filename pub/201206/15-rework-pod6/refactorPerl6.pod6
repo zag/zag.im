@@ -1,0 +1,55 @@
+=begin pod :pubdate('2012-06-15 10:00:00') :tags<pod6 perl6 pod perl> :lang<en>
+=NAME Perl6::Pod reworked
+
+=begin DESCRIPTION
+
+Recently i was reimplement Perl6::Pod to simplify it. First i move to new syntax parser wich build using Regexp::Grammars. And then rewrite export scripts: pod6docbook and pod6xhtml. 
+
+=end DESCRIPTION
+
+Recently i was reimplement Perl6::Pod to simplify it. First i move to new syntax parser wich build using Regexp::Grammars. And then rewrite export scripts: pod6docbook and pod6xhtml. 
+
+During the rewrite of Perl6::Pod using Regexp::Grammars, I experienced a lot of fun. Just look at the text of pod6 grammars N<Pod6 grammars.L<https://github.com/zag/p5-Perl6-Pod/blob/master/lib/Perl6/Pod/Grammars.pm>>.
+At the end i have the following simple apis for use pod6.
+
+=head2 API for use pod6 in app
+
+For convert pod6 to xhtml use:
+
+        use Perl6::Pod::Test; 
+        my $html = Perl6::Pod::Test::parse_to_xhtml($pod);
+
+=head2 API for hackers
+
+Pod6 Grammars can be inherited. You could debug it step-by-step.
+
+=begin code :allow<B>
+ use Regexp::Grammars;
+    use Perl6::Pod::Grammars;
+    use Data::Dumper;
+
+    my $r =  qr{
+       <extends: Perl6::Pod::Grammar::Blocks>
+       <debug:step>
+        \A <File> \Z
+    }xms;
+    my $tree ;
+    if ( $src =~ $r  ) {
+     print Dumper( $/{File} );
+    }
+    else {
+        return undef;
+    }
+=end code
+
+=head2 How to install Perl6::Pod ?
+
+Under Ubuntu:
+
+        sudo add-apt-repository ppa:zahatski/ppa    
+        sudo apt-get install libperl6-pod-perl
+
+or from CPAN N< Implementation of Synopsis26. L<http://search.cpan.org/dist/Perl6-Pod/>>.
+
+Perl6::Pod hosted on github.com N< Perl6::Pod on GitHub.L<https://github.com/zag/p5-Perl6-Pod>>. Reports of bugs are always welcome.
+=end pod

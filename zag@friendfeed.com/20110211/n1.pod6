@@ -1,0 +1,48 @@
+=begin pod :pubdate('2011-02-11T17:19:40Z') :type<note> 
+=NAME Nokia employees are protesting ulosmarsseilla
+
+=begin DESCRIPTION
+
+Nokia employees are protesting ulosmarsseilla - L<link|http://translate.googleusercontent.com/translate_c?hl=en&ie=UTF-8&sl=fi&tl=en&u=http://www.hs.fi/talous/artikkeli/1135263739290&prev=_t&rurl=translate.google.com&twu=1&usg=ALkJrhjUyqT9R03d92EBJJ4qWKrpMQ7AdQ>
+=for Image :width(130) :link('http://translate.googleusercontent.com/translate_c?hl=en&ie=UTF-8&sl=fi&tl=en&u=http://www.hs.fi/talous/artikkeli/1135263739290&prev=_t&rurl=translate.google.com&twu=1&usg=ALkJrhjUyqT9R03d92EBJJ4qWKrpMQ7AdQ') :height(76) :preview
+media/9548ce9ffd14b0bf3dcee924e30eacfad33b4d12.jpg
+
+
+
+=end DESCRIPTION
+
+Nokia employees are protesting ulosmarsseilla - L<link|http://translate.googleusercontent.com/translate_c?hl=en&ie=UTF-8&sl=fi&tl=en&u=http://www.hs.fi/talous/artikkeli/1135263739290&prev=_t&rurl=translate.google.com&twu=1&usg=ALkJrhjUyqT9R03d92EBJJ4qWKrpMQ7AdQ>
+=for Image :width(130) :link('http://translate.googleusercontent.com/translate_c?hl=en&ie=UTF-8&sl=fi&tl=en&u=http://www.hs.fi/talous/artikkeli/1135263739290&prev=_t&rurl=translate.google.com&twu=1&usg=ALkJrhjUyqT9R03d92EBJJ4qWKrpMQ7AdQ') :height(76) :preview
+media/9548ce9ffd14b0bf3dcee924e30eacfad33b4d12.jpg
+
+
+
+=begin comment :src
+{
+  "from": {
+    "id": "zag",
+    "type": "user",
+    "name": "углы «Исимуры»"
+  },
+  "via": {
+    "url": "http://friendfeed.com/share/bookmarklet",
+    "name": "Bookmarklet"
+  },
+  "rawLink": "http://translate.googleusercontent.com/translate_c?hl=en&ie=UTF-8&sl=fi&tl=en&u=http://www.hs.fi/talous/artikkeli/1135263739290&prev=_t&rurl=translate.google.com&twu=1&usg=ALkJrhjUyqT9R03d92EBJJ4qWKrpMQ7AdQ",
+  "body": "Nokia employees are protesting ulosmarsseilla - <a rel=\"nofollow\" href=\"http://translate.googleusercontent.com/translate_c?hl=en&amp;ie=UTF-8&amp;sl=fi&amp;tl=en&amp;u=http://www.hs.fi/talous/artikkeli/1135263739290&amp;prev=_t&amp;rurl=translate.google.com&amp;twu=1&amp;usg=ALkJrhjUyqT9R03d92EBJJ4qWKrpMQ7AdQ\" title=\"http://translate.googleusercontent.com/translate_c?hl=en&amp;ie=UTF-8&amp;sl=fi&amp;tl=en&amp;u=http://www.hs.fi/talous/artikkeli/1135263739290&amp;prev=_t&amp;rurl=translate.google.com&amp;twu=1&amp;usg=ALkJrhjUyqT9R03d92EBJJ4qWKrpMQ7AdQ\">http://translate.googleusercon...</a>",
+  "id": "e/5bea2512cb9f476d993fdd03b6a53cca",
+  "date": "2011-02-11T17:19:40Z",
+  "rawBody": "Nokia employees are protesting ulosmarsseilla",
+  "url": "http://friendfeed.com/zag/5bea2512/nokia-employees-are-protesting",
+  "thumbnails": [
+    {
+      "url": "http://m.friendfeed-media.com/9548ce9ffd14b0bf3dcee924e30eacfad33b4d12",
+      "width": 130,
+      "link": "http://translate.googleusercontent.com/translate_c?hl=en&ie=UTF-8&sl=fi&tl=en&u=http://www.hs.fi/talous/artikkeli/1135263739290&prev=_t&rurl=translate.google.com&twu=1&usg=ALkJrhjUyqT9R03d92EBJJ4qWKrpMQ7AdQ",
+      "height": 76
+    }
+  ]
+}
+=end comment
+
+=end pod

@@ -1,0 +1,32 @@
+=begin pod :pubdate('2010-12-25T12:32:19Z') :type<note> :tags<perl6>
+=NAME Обновлением parrot поломали rakudo в портах http://goo.gl/6z9h9.  Сделал, чтобы Rakudo Star собирался с идущим в комплекте parrot : http://goo.gl/I3uXV. #perl6
+
+=begin DESCRIPTION
+
+Обновлением parrot поломали rakudo в портах http://goo.gl/6z9h9.  Сделал, чтобы Rakudo Star собирался с идущим в комплекте parrot : http://goo.gl/I3uXV. #perl6
+
+
+
+=end DESCRIPTION
+
+Обновлением parrot поломали rakudo в портах http://goo.gl/6z9h9.  Сделал, чтобы Rakudo Star собирался с идущим в комплекте parrot : http://goo.gl/I3uXV. #perl6
+
+
+
+=begin comment :src
+{
+  "body": "Обновлением parrot поломали rakudo в портах <a rel=\"nofollow\" href=\"http://goo.gl/6z9h9\" title=\"http://www.freebsd.org/cgi/query-pr.cgi?pr=153412&amp;cat=ports\">http://www.freebsd.org/cgi...</a>.  Сделал, чтобы Rakudo Star собирался с идущим в комплекте parrot : <a rel=\"nofollow\" href=\"http://goo.gl/I3uXV\" title=\"http://www.freebsd.org/cgi/query-pr.cgi?pr=ports/153439\">http://www.freebsd.org/cgi...</a>. <a href=\"http://friendfeed.com/search?q=%23perl6\">#perl6</a>",
+  "rawLink": "http://friendfeed.com/e/ab12138b-cb27-4f3e-87cb-73d43b3f65e9",
+  "id": "e/ab12138bcb274f3e87cb73d43b3f65e9",
+  "url": "http://friendfeed.com/zag/ab12138b/parrot-rakudo-star-perl6",
+  "date": "2010-12-25T12:32:19Z",
+  "rawBody": "Обновлением parrot поломали rakudo в портах http://goo.gl/6z9h9.  Сделал, чтобы Rakudo Star собирался с идущим в комплекте parrot : http://goo.gl/I3uXV. #perl6",
+  "from": {
+    "type": "user",
+    "id": "zag",
+    "name": "углы «Исимуры»"
+  }
+}
+=end comment
+
+=end pod

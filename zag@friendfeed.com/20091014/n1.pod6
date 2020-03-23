@@ -1,0 +1,36 @@
+=begin pod :pubdate('2009-10-14T09:53:00Z') :type<note> :tags<rakudo perl6>
+=NAME К настойчивым просьбам внести rakudo в дерево портов FreeBSD добавился еще народ: http://tinyurl.com/ylguwkg #rakudo #perl6
+
+=begin DESCRIPTION
+
+К настойчивым просьбам внести rakudo в дерево портов FreeBSD добавился еще народ: http://tinyurl.com/ylguwkg #rakudo #perl6 - L<link|http://twitter.com/zagru/statuses/4858535878>
+
+
+
+=end DESCRIPTION
+
+К настойчивым просьбам внести rakudo в дерево портов FreeBSD добавился еще народ: http://tinyurl.com/ylguwkg #rakudo #perl6 - L<link|http://twitter.com/zagru/statuses/4858535878>
+
+
+
+=begin comment :src
+{
+  "body": "К настойчивым просьбам внести rakudo в дерево портов FreeBSD добавился еще народ: <a rel=\"nofollow\" href=\"http://tinyurl.com/ylguwkg\" title=\"http://www.freebsd.org/cgi/query-pr.cgi?pr=ports/139012\">http://www.freebsd.org/cgi...</a> <a rel=\"nofollow\" href=\"http://search.twitter.com/search?q=%23rakudo\">#rakudo</a> <a rel=\"nofollow\" href=\"http://search.twitter.com/search?q=%23perl6\">#perl6</a>",
+  "rawLink": "http://twitter.com/zagru/statuses/4858535878",
+  "id": "e/0947fb531d78be9f94473cbe46b8a9c7",
+  "date": "2009-10-14T09:53:00Z",
+  "rawBody": "К настойчивым просьбам внести rakudo в дерево портов FreeBSD добавился еще народ: http://tinyurl.com/ylguwkg #rakudo #perl6",
+  "url": "http://friendfeed.com/zag/0947fb53/rakudo-freebsd-perl6",
+  "via": {
+    "name": "Twitter",
+    "url": "http://twitter.com/zagru/statuses/4858535878"
+  },
+  "from": {
+    "name": "углы «Исимуры»",
+    "id": "zag",
+    "type": "user"
+  }
+}
+=end comment
+
+=end pod

@@ -1,0 +1,59 @@
+=begin pod :pubdate('2011-03-09T08:07:45Z') :type<note> 
+=NAME RT @bestpractical: At the Best Practical HQ, we've fully embraced XP, especially pair programming http://twitpic.com/47i4ck
+
+=begin DESCRIPTION
+
+RT @bestpractical: At the Best Practical HQ, we've fully embraced XP, especially pair programming http://twitpic.com/47i4ck - L<link|http://twitter.com/zagru/statuses/45395334767190016>
+
+=item "парное программирование"
+
+
+=end DESCRIPTION
+
+RT @bestpractical: At the Best Practical HQ, we've fully embraced XP, especially pair programming http://twitpic.com/47i4ck - L<link|http://twitter.com/zagru/statuses/45395334767190016>
+
+=item "парное программирование"
+
+
+=begin comment :src
+{
+  "comments": [
+    {
+      "rawBody": "\"парное программирование\"",
+      "date": "2011-03-09T08:09:22Z",
+      "id": "e/65b5fd32b2a62ed2d332f9a1c93ac9c5/c/7c1b67a95d324da081ed84cb5e606c5b",
+      "from": {
+        "name": "углы «Исимуры»",
+        "id": "zag",
+        "type": "user"
+      },
+      "body": "&quot;парное программирование&quot;"
+    }
+  ],
+  "via": {
+    "url": "http://twitter.com/zagru/statuses/45395334767190016",
+    "name": "Twitter"
+  },
+  "from": {
+    "name": "углы «Исимуры»",
+    "id": "zag",
+    "type": "user"
+  },
+  "rawLink": "http://twitter.com/zagru/statuses/45395334767190016",
+  "body": "RT @<a rel=\"nofollow\" href=\"http://twitter.com/bestpractical\">bestpractical</a>: At the Best Practical HQ, we've fully embraced XP, especially pair programming <a rel=\"nofollow\" href=\"http://twitpic.com/47i4ck\">http://twitpic.com/47i4ck</a>",
+  "rawBody": "RT @bestpractical: At the Best Practical HQ, we've fully embraced XP, especially pair programming http://twitpic.com/47i4ck",
+  "id": "e/65b5fd32b2a62ed2d332f9a1c93ac9c5",
+  "date": "2011-03-09T08:07:45Z",
+  "url": "http://friendfeed.com/zag/65b5fd32/rt-bestpractical-at-best-practical-hq-we-ve",
+  "thumbnails": [
+    {
+      "url": "http://twitpic.com/show/thumb/47i4ck",
+      "width": 150,
+      "link": "http://twitpic.com/47i4ck",
+      "height": 150
+    }
+  ]
+}
+=end comment
+
+=end pod

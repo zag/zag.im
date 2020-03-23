@@ -1,0 +1,38 @@
+=begin pod :pubdate('2010-06-01T08:22:05Z') :type<note> 
+=NAME Сериалы поглощают сознание. Lost Final (via http://ff.im/l0K1Z)
+
+=begin DESCRIPTION
+
+Сериалы поглощают сознание. Lost Final (via http://ff.im/l0K1Z)
+
+
+
+=end DESCRIPTION
+
+Сериалы поглощают сознание. Lost Final (via http://ff.im/l0K1Z)
+
+
+
+=begin comment :src
+{
+  "body": "Сериалы поглощают сознание. Lost Final (via <a href=\"http://ff.im/l0K1Z\" title=\"http://friendfeed.com/funny-pics-videos/173b4a44/lost-final\">http://friendfeed.com/funny-p...</a>)",
+  "rawLink": "http://friendfeed.com/e/75df5b81-cfdb-4a53-b36e-68638940d37c",
+  "date": "2010-06-01T08:22:05Z",
+  "id": "e/75df5b81cfdb4a53b36e68638940d37c",
+  "rawBody": "Сериалы поглощают сознание. Lost Final (via http://ff.im/l0K1Z)",
+  "url": "http://friendfeed.com/zag/75df5b81/lost-final-via",
+  "thumbnails": [
+    {
+      "link": "http://friendfeed.com/e/75df5b81-cfdb-4a53-b36e-68638940d37c",
+      "url": "http://meme.zenfs.com/u/047100bf3dc4f4f1777fd839abc696e06ff7dd87.gifa"
+    }
+  ],
+  "from": {
+    "type": "user",
+    "id": "zag",
+    "name": "углы «Исимуры»"
+  }
+}
+=end comment
+
+=end pod

@@ -1,0 +1,36 @@
+=begin pod :pubdate('2011-08-18T08:30:52Z') :type<note> 
+=NAME ZeroMQ bindings for Parrot ( plobsing/parrot-zeromq - GitHub ).
+
+=begin DESCRIPTION
+
+ZeroMQ bindings for Parrot ( plobsing/parrot-zeromq - GitHub ). - L<link|https://github.com/plobsing/parrot-zeromq>
+
+
+
+=end DESCRIPTION
+
+ZeroMQ bindings for Parrot ( plobsing/parrot-zeromq - GitHub ). - L<link|https://github.com/plobsing/parrot-zeromq>
+
+
+
+=begin comment :src
+{
+  "from": {
+    "name": "углы «Исимуры»",
+    "type": "user",
+    "id": "zag"
+  },
+  "via": {
+    "name": "Bookmarklet",
+    "url": "http://friendfeed.com/share/bookmarklet"
+  },
+  "body": "ZeroMQ bindings for Parrot ( plobsing/parrot-zeromq - GitHub ). - <a rel=\"nofollow\" href=\"https://github.com/plobsing/parrot-zeromq\" title=\"https://github.com/plobsing/parrot-zeromq\">https://github.com/plobsin...</a>",
+  "rawLink": "https://github.com/plobsing/parrot-zeromq",
+  "id": "e/31f97df37e084148b32c4e03722f7853",
+  "date": "2011-08-18T08:30:52Z",
+  "rawBody": "ZeroMQ bindings for Parrot ( plobsing/parrot-zeromq - GitHub ).",
+  "url": "http://friendfeed.com/zag/31f97df3/zeromq-bindings-for-parrot-plobsing-github"
+}
+=end comment
+
+=end pod

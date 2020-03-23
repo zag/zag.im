@@ -1,0 +1,68 @@
+=begin pod :pubdate('2010-01-31T05:49:44Z') :type<note> 
+=NAME The 19 most complex and dangerous roads in the world
+
+=begin DESCRIPTION
+
+The 19 most complex and dangerous roads in the world - L<link|http://www.waze.com/blog/the-19-most-complex-and-dangerous-roads-in-the-world/>
+=for Image :width(227) :link('http://www.waze.com/blog/the-19-most-complex-and-dangerous-roads-in-the-world/') :height(175) :preview
+media/8a0f00706141ea1b7661454b95acd03bcf0504f8.jpg
+=for Image :width(233) :link('http://www.waze.com/blog/the-19-most-complex-and-dangerous-roads-in-the-world/') :height(175) :preview
+media/cd4fbf18c5ca83067fc5c10f37483362142a3b03.jpg
+=for Image :width(223) :link('http://www.waze.com/blog/the-19-most-complex-and-dangerous-roads-in-the-world/') :height(175) :preview
+media/ebe61781042808a4edae62d39168a827f4b071ba.jpg
+
+
+
+=end DESCRIPTION
+
+The 19 most complex and dangerous roads in the world - L<link|http://www.waze.com/blog/the-19-most-complex-and-dangerous-roads-in-the-world/>
+=for Image :width(227) :link('http://www.waze.com/blog/the-19-most-complex-and-dangerous-roads-in-the-world/') :height(175) :preview
+media/8a0f00706141ea1b7661454b95acd03bcf0504f8.jpg
+=for Image :width(233) :link('http://www.waze.com/blog/the-19-most-complex-and-dangerous-roads-in-the-world/') :height(175) :preview
+media/cd4fbf18c5ca83067fc5c10f37483362142a3b03.jpg
+=for Image :width(223) :link('http://www.waze.com/blog/the-19-most-complex-and-dangerous-roads-in-the-world/') :height(175) :preview
+media/ebe61781042808a4edae62d39168a827f4b071ba.jpg
+
+
+
+=begin comment :src
+{
+  "id": "e/6e7b9dc1653e42e3afb1229013f60677",
+  "date": "2010-01-31T05:49:44Z",
+  "rawBody": "The 19 most complex and dangerous roads in the world",
+  "thumbnails": [
+    {
+      "height": 175,
+      "link": "http://www.waze.com/blog/the-19-most-complex-and-dangerous-roads-in-the-world/",
+      "url": "http://m.friendfeed-media.com/8a0f00706141ea1b7661454b95acd03bcf0504f8",
+      "width": 227
+    },
+    {
+      "width": 233,
+      "url": "http://m.friendfeed-media.com/cd4fbf18c5ca83067fc5c10f37483362142a3b03",
+      "link": "http://www.waze.com/blog/the-19-most-complex-and-dangerous-roads-in-the-world/",
+      "height": 175
+    },
+    {
+      "width": 223,
+      "url": "http://m.friendfeed-media.com/ebe61781042808a4edae62d39168a827f4b071ba",
+      "height": 175,
+      "link": "http://www.waze.com/blog/the-19-most-complex-and-dangerous-roads-in-the-world/"
+    }
+  ],
+  "url": "http://friendfeed.com/zag/6e7b9dc1/19-most-complex-and-dangerous-roads-in-world",
+  "rawLink": "http://www.waze.com/blog/the-19-most-complex-and-dangerous-roads-in-the-world/",
+  "body": "The 19 most complex and dangerous roads in the world - <a rel=\"nofollow\" href=\"http://www.waze.com/blog/the-19-most-complex-and-dangerous-roads-in-the-world/\" title=\"http://www.waze.com/blog/the-19-most-complex-and-dangerous-roads-in-the-world/\">http://www.waze.com/blog...</a>",
+  "via": {
+    "name": "Bookmarklet",
+    "url": "http://friendfeed.com/share/bookmarklet"
+  },
+  "from": {
+    "name": "углы «Исимуры»",
+    "id": "zag",
+    "type": "user"
+  }
+}
+=end comment
+
+=end pod

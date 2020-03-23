@@ -1,0 +1,143 @@
+=begin pod :pubdate('2010-10-12T08:39:49Z') :type<note> :tags<perl inkscape>
+=NAME Creating presentations similar to prezi.com with a #perl and #inkscape - http://github.com/masak/osdc-fr-2010-hardcore-bug-reporting
+
+=begin DESCRIPTION
+
+Creating presentations similar to prezi.com with a #perl and #inkscape - http://github.com/masak/osdc-fr-2010-hardcore-bug-reporting
+
+=item ох, Масак крутой!
+=item однозначно.. факт :-)
+=item @zag, а как ты сделал анимацию, которую приложил к посту?
+=item pdf -> png -> затем ls  image-*.png  | perl -0ne '$s= join " ",map {$_->[1]." "} sort { $a->[0] <=> $b->[0]} grep {$_->[0] > 73 } map{ /\-(\d+)/; [$1, $_]} split /\n/,$_; print "convert $s   -resize 250 ani.gif"' | sh
+
+
+=end DESCRIPTION
+
+Creating presentations similar to prezi.com with a #perl and #inkscape - http://github.com/masak/osdc-fr-2010-hardcore-bug-reporting
+
+=item ох, Масак крутой!
+=item однозначно.. факт :-)
+=item @zag, а как ты сделал анимацию, которую приложил к посту?
+=item pdf -> png -> затем ls  image-*.png  | perl -0ne '$s= join " ",map {$_->[1]." "} sort { $a->[0] <=> $b->[0]} grep {$_->[0] > 73 } map{ /\-(\d+)/; [$1, $_]} split /\n/,$_; print "convert $s   -resize 250 ani.gif"' | sh
+
+
+=begin comment :src
+{
+  "comments": [
+    {
+      "date": "2010-10-12T09:04:00Z",
+      "rawBody": "ох, Масак крутой!",
+      "id": "e/b4324d691a1a43a8844e021633eb0f73/c/b5b7485a24444316b59a354fe6430719",
+      "from": {
+        "name": "alex@kapranoff.ru",
+        "type": "user",
+        "id": "kkapp"
+      },
+      "body": "ох, Масак крутой!"
+    },
+    {
+      "body": "однозначно.. факт :-)",
+      "rawBody": "однозначно.. факт :-)",
+      "date": "2010-10-12T09:05:24Z",
+      "id": "e/b4324d691a1a43a8844e021633eb0f73/c/a557e7dbe91b419f809723c1a7702b22",
+      "from": {
+        "name": "углы «Исимуры»",
+        "id": "zag",
+        "type": "user"
+      }
+    },
+    {
+      "id": "e/b4324d691a1a43a8844e021633eb0f73/c/a9b972e521c6426fbe5827b64cebd4c2",
+      "rawBody": "@zag, а как ты сделал анимацию, которую приложил к посту?",
+      "from": {
+        "name": "alex@kapranoff.ru",
+        "id": "kkapp",
+        "type": "user"
+      },
+      "date": "2010-10-12T09:06:37Z",
+      "body": "@zag, а как ты сделал анимацию, которую приложил к посту?"
+    },
+    {
+      "body": "pdf -&gt; png -&gt; затем ls  image-*.png  | perl -0ne '$s= join &quot; &quot;,map {$_-&gt;[1].&quot; &quot;} sort { $a-&gt;[0] &lt;=&gt; $b-&gt;[0]} grep {$_-&gt;[0] &gt; 73 } map{ /\\-(\\d+)/; [$1, $_]} split /\\n/,$_; print &quot;convert $s   -resize 250 ani.gif&quot;' | sh",
+      "id": "e/b4324d691a1a43a8844e021633eb0f73/c/e05a5764bccd4645a90aa3d00f69c6ab",
+      "rawBody": "pdf -> png -> затем ls  image-*.png  | perl -0ne '$s= join \" \",map {$_->[1].\" \"} sort { $a->[0] <=> $b->[0]} grep {$_->[0] > 73 } map{ /\\-(\\d+)/; [$1, $_]} split /\\n/,$_; print \"convert $s   -resize 250 ani.gif\"' | sh",
+      "date": "2010-10-12T09:08:46Z",
+      "from": {
+        "id": "zag",
+        "type": "user",
+        "name": "углы «Исимуры»"
+      }
+    }
+  ],
+  "from": {
+    "id": "zag",
+    "type": "user",
+    "name": "углы «Исимуры»"
+  },
+  "body": "Creating presentations similar to prezi.com with a <a href=\"http://friendfeed.com/search?q=%23perl\">#perl</a> and <a href=\"http://friendfeed.com/search?q=%23inkscape\">#inkscape</a> - <a rel=\"nofollow\" href=\"http://github.com/masak/osdc-fr-2010-hardcore-bug-reporting\" title=\"http://github.com/masak/osdc-fr-2010-hardcore-bug-reporting\">http://github.com/masak...</a>",
+  "likes": [
+    {
+      "from": {
+        "type": "user",
+        "id": "glebis",
+        "name": "Gleb Kalinin"
+      },
+      "date": "2010-10-12T14:05:20Z"
+    },
+    {
+      "date": "2010-10-12T11:58:34Z",
+      "from": {
+        "private": true,
+        "type": "user",
+        "id": "zoff",
+        "name": "&nbsp;"
+      }
+    },
+    {
+      "from": {
+        "type": "user",
+        "id": "woof",
+        "name": "woof"
+      },
+      "date": "2010-10-12T11:19:37Z"
+    },
+    {
+      "date": "2010-10-12T09:18:37Z",
+      "from": {
+        "type": "user",
+        "id": "eth0",
+        "name": "сноб ужинга"
+      }
+    },
+    {
+      "from": {
+        "name": "cyberpunk soul",
+        "type": "user",
+        "id": "mykolan"
+      },
+      "date": "2010-10-12T09:09:01Z"
+    },
+    {
+      "from": {
+        "id": "kkapp",
+        "type": "user",
+        "name": "alex@kapranoff.ru"
+      },
+      "date": "2010-10-12T09:02:51Z"
+    }
+  ],
+  "rawLink": "http://friendfeed.com/e/b4324d69-1a1a-43a8-844e-021633eb0f73",
+  "url": "http://friendfeed.com/zag/b4324d69/creating-presentations-similar-to-prezi-with",
+  "id": "e/b4324d691a1a43a8844e021633eb0f73",
+  "date": "2010-10-12T08:39:49Z",
+  "rawBody": "Creating presentations similar to prezi.com with a #perl and #inkscape - http://github.com/masak/osdc-fr-2010-hardcore-bug-reporting",
+  "thumbnails": [
+    {
+      "link": "http://friendfeed.com/e/b4324d69-1a1a-43a8-844e-021633eb0f73",
+      "url": "http://asset.soup.io/asset/1145/6614_df36.gif"
+    }
+  ]
+}
+=end comment
+
+=end pod

@@ -1,0 +1,46 @@
+=begin pod :pubdate('2011-09-02T07:02:15Z') :type<note> :tags<foss>
+=NAME В этом году пропустил круглую дату: я на SourceForge - 10 лет. #foss http://t.co/TJ2Y4jn
+
+=begin DESCRIPTION
+
+В этом году пропустил круглую дату: я на SourceForge - 10 лет. #foss http://t.co/TJ2Y4jn - L<link|http://twitter.com/zagru/statuses/109521501509783553>
+
+
+
+=end DESCRIPTION
+
+В этом году пропустил круглую дату: я на SourceForge - 10 лет. #foss http://t.co/TJ2Y4jn - L<link|http://twitter.com/zagru/statuses/109521501509783553>
+
+
+
+=begin comment :src
+{
+  "via": {
+    "url": "http://twitter.com/zagru/statuses/109521501509783553",
+    "name": "Twitter"
+  },
+  "from": {
+    "id": "zag",
+    "type": "user",
+    "name": "углы «Исимуры»"
+  },
+  "id": "e/e8f76531fb72b56e67f73e9b7c89adcd",
+  "date": "2011-09-02T07:02:15Z",
+  "rawBody": "В этом году пропустил круглую дату: я на SourceForge - 10 лет. #foss http://t.co/TJ2Y4jn",
+  "url": "http://friendfeed.com/zag/e8f76531/sourceforge-10-foss",
+  "likes": [
+    {
+      "date": "2011-09-02T08:19:44Z",
+      "from": {
+        "name": "Николай",
+        "type": "user",
+        "id": "mishin"
+      }
+    }
+  ],
+  "rawLink": "http://twitter.com/zagru/statuses/109521501509783553",
+  "body": "В этом году пропустил круглую дату: я на SourceForge - 10 лет. <a rel=\"nofollow\" href=\"http://search.twitter.com/search?q=%23foss\">#foss</a> <a rel=\"nofollow\" href=\"http://t.co/TJ2Y4jn\">http://t.co/TJ2Y4jn</a>"
+}
+=end comment
+
+=end pod

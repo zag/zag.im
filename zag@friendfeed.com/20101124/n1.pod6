@@ -1,0 +1,36 @@
+=begin pod :pubdate('2010-11-24T11:56:26Z') :type<note> 
+=NAME Только что избавился от файла шаблона TT и табличной верстки в нем. Заменил на строку в ~100 байт. #бинго
+
+=begin DESCRIPTION
+
+Только что избавился от файла шаблона TT и табличной верстки в нем. Заменил на строку в ~100 байт. #бинго - L<link|http://twitter.com/zagru/statuses/7402156457992192>
+
+
+
+=end DESCRIPTION
+
+Только что избавился от файла шаблона TT и табличной верстки в нем. Заменил на строку в ~100 байт. #бинго - L<link|http://twitter.com/zagru/statuses/7402156457992192>
+
+
+
+=begin comment :src
+{
+  "from": {
+    "type": "user",
+    "id": "zag",
+    "name": "углы «Исимуры»"
+  },
+  "via": {
+    "name": "Twitter",
+    "url": "http://twitter.com/zagru/statuses/7402156457992192"
+  },
+  "body": "Только что избавился от файла шаблона TT и табличной верстки в нем. Заменил на строку в ~100 байт. <a rel=\"nofollow\" href=\"http://search.twitter.com/search?q=%23бинго\">#бинго</a>",
+  "rawLink": "http://twitter.com/zagru/statuses/7402156457992192",
+  "id": "e/96ed79275e6fba6296e71a00a38bec85",
+  "date": "2010-11-24T11:56:26Z",
+  "url": "http://friendfeed.com/zag/96ed7927/tt-100",
+  "rawBody": "Только что избавился от файла шаблона TT и табличной верстки в нем. Заменил на строку в ~100 байт. #бинго"
+}
+=end comment
+
+=end pod

@@ -1,0 +1,90 @@
+=begin pod :pubdate('2011-06-04T08:32:53Z') :type<note> :tags<devconf_ru>
+=NAME Про структуру бд при коммандной обработке. "Обновляшки" на php ... #devconf_ru
+
+=begin DESCRIPTION
+
+Про структуру бд при коммандной обработке. "Обновляшки" на php ... #devconf_ru
+=for Image :width(292) :link('http://m.friendfeed-media.com/4549a8bbcb220ba2daeff9b5ea5d35a654e9ca84') :height(175) :preview
+media/d8bed000b1595f18a9ae29ad6d00204ab255d9d8.jpg
+
+=item а irc канал где-нибудь есть, где говорят об этом..о конференции
+=item Не в курсе
+
+
+=end DESCRIPTION
+
+Про структуру бд при коммандной обработке. "Обновляшки" на php ... #devconf_ru
+=for Image :width(292) :link('http://m.friendfeed-media.com/4549a8bbcb220ba2daeff9b5ea5d35a654e9ca84') :height(175) :preview
+media/d8bed000b1595f18a9ae29ad6d00204ab255d9d8.jpg
+
+=item а irc канал где-нибудь есть, где говорят об этом..о конференции
+=item Не в курсе
+
+
+=begin comment :src
+{
+  "from": {
+    "name": "углы «Исимуры»",
+    "type": "user",
+    "id": "zag"
+  },
+  "via": {
+    "name": "email",
+    "url": "http://friendfeed.com/share/mail"
+  },
+  "comments": [
+    {
+      "id": "e/036aaf3066354f13a0449b49e56efd3d/c/a6be09f05cec44f19eaddd3730837c59",
+      "rawBody": "а irc канал где-нибудь есть, где говорят об этом..о конференции",
+      "date": "2011-06-04T09:00:18Z",
+      "from": {
+        "name": "Николай",
+        "type": "user",
+        "id": "mishin"
+      },
+      "body": "а irc канал где-нибудь есть, где говорят об этом..о конференции"
+    },
+    {
+      "id": "e/036aaf3066354f13a0449b49e56efd3d/c/5300ea73b88c4e22aac2fd33280438b8",
+      "date": "2011-06-04T09:24:26Z",
+      "from": {
+        "name": "углы «Исимуры»",
+        "id": "zag",
+        "type": "user"
+      },
+      "rawBody": "Не в курсе",
+      "via": {
+        "name": "Android",
+        "url": "http://friendfeed.com/about/tools"
+      },
+      "body": "Не в курсе"
+    }
+  ],
+  "date": "2011-06-04T08:32:53Z",
+  "id": "e/036aaf3066354f13a0449b49e56efd3d",
+  "thumbnails": [
+    {
+      "link": "http://m.friendfeed-media.com/4549a8bbcb220ba2daeff9b5ea5d35a654e9ca84",
+      "height": 175,
+      "width": 292,
+      "url": "http://m.friendfeed-media.com/d8bed000b1595f18a9ae29ad6d00204ab255d9d8"
+    }
+  ],
+  "rawBody": "Про структуру бд при коммандной обработке. \"Обновляшки\" на php ... #devconf_ru",
+  "url": "http://friendfeed.com/zag/036aaf30/php-devconf_ru",
+  "body": "Про структуру бд при коммандной обработке. &quot;Обновляшки&quot; на php ... <a href=\"http://friendfeed.com/search?q=%23devconf_ru\">#devconf_ru</a>",
+  "rawLink": "http://friendfeed.com/e/036aaf30-6635-4f13-a044-9b49e56efd3d",
+  "likes": [
+    {
+      "date": "2011-06-04T08:59:51Z",
+      "from": {
+        "name": "Николай",
+        "type": "user",
+        "id": "mishin"
+      }
+    }
+  ]
+}
+=end comment
+
+=end pod

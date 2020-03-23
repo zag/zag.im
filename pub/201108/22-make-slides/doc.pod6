@@ -1,0 +1,123 @@
+=begin pod :pubdate('2011-08-22 10:00:00') :tags<pod6 perl6 pod perl> :lang<en>
+=NAME Create presentations in Perl 6 Pod
+=config code :allow<B>
+=begin DESCRIPTION
+
+Perl 6 Pod is awesome markup language. I use the Pod as often as possible.
+For example, for creating presentations. How am I doing this?
+
+=end DESCRIPTION
+
+Perl 6 Pod is awesome markup language. I use the Pod as often as possible.
+For example, for creating presentations. How am I doing this?
+
+I open my favirite text editor and start presentation with а C<DESCRIPTION>:
+
+=begin code
+  =for DESCRIPTION :title('presentation template in Perl 6 Pod format')
+  = :author('Aliaksanr Zahatski') :pubdate('2011')
+=end code
+
+The named blocks C<=Slide> are used to describe each presentation screen:
+
+=begin code
+ B<=begin Slide :title('About me')>
+ 
+ http://search.cpan.org/$\sim$zag/
+ 
+ lang/rakudo  ( FreeBSD )
+ 
+ Russian book "Everything about Perl 6" 
+
+ B<=end Slide>
+=end code
+
+Lists are specified as a series of C<=item> blocks :
+
+=begin code
+ =begin Slide :title('Content')
+ 
+ key moments:
+ 
+ =item features
+ =item implementations
+ =item usage
+  
+ =end Slide
+=end code
+
+A C<=Image> block is used for insert pictures:
+
+=begin code
+ =for Image :width('3in')
+ i/si26.jpg
+=end code
+
+The C<=config> directive allows you to prespecify default images size:
+
+=begin code
+ =config Image :width('2in')
+=end code
+
+For specifying the code samples use standart Pod block with attribute C<lang>:
+
+=begin code
+ =for code B<:lang('Perl')>
+ my @keys = <a b c d e>;
+ my @vals = ^5;
+ my %hash = @keys Z @vals;
+=end code
+
+or
+
+=begin code
+ =begin code B<:lang('JavaScript')>
+ var keys = ['a', 'b', 'c'];
+ var values = [1, 2, 3];
+ var map = {}; //this is a comment
+ for(var i in keys) {
+  map[ keys[i] ] = values[i];
+ }
+ =end code
+=end code
+
+would be rendered:
+
+=Image code.jpg
+
+The following example demonstrates the use of pauses:
+
+=begin code
+ =begin Slide :title('Perl6::Pod::Slide: pause demo')
+ Now :
+ B<=Pause>
+ =for item :numbered
+ Lists
+ =for item :numbered B<:pause>
+ Tables
+ =for item :numbered
+ Headers
+ =end Slide
+=end code
+
+Use C<=Latex> to type Latex text;
+
+=begin code
+ =Latex
+ \[
+   \Gamma_0 S_0 (1-\alpha)^2 = k_d \alpha^2
+   \quad \Rightarrow \quad
+   \Bigl(\frac{1-\alpha}{\alpha}\Bigr)^2 = \frac{k_d}{\Gamma_0 S_0}
+ \]
+=end code
+
+=Image formula.jpg
+
+To insert a vector graphics I use coneverter C<epstopdf>, and then insert it with C<=Image> block.
+
+Fork presentation template N<Presentation template in Perl 6 Pod format.L<https://github.com/zag/template-pod6>> designed for easy start and type "C<make>" to build pdf file.
+
+You will need the following software to be installed: latex-beamer, Perl 5  and  Perl6-Pod-Slide N<Perl6::Pod::Slide - make slides easy. L<http://search.cpan.org/perldoc?Perl6::Pod::Slide>>.
+
+
+=end pod

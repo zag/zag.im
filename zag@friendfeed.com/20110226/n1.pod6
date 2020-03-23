@@ -1,0 +1,68 @@
+=begin pod :pubdate('2011-02-26T05:25:53Z') :type<note> 
+=NAME What Data-Mining Apple, Google and Microsoft's PR Reveals
+
+=begin DESCRIPTION
+
+What Data-Mining Apple, Google and Microsoft's PR Reveals - L<link|http://www.readwriteweb.com/hack/2011/02/what-data-mining-apple-google-and-microsofts-pr-reveals.php>
+=for Image :width(193) :link('http://www.readwriteweb.com/hack/2011/02/what-data-mining-apple-google-and-microsofts-pr-reveals.php') :height(175) :preview
+media/133a881a9ca97eebe38c6d38b436a4dd791680c6.jpg
+=for Image :width(196) :link('http://www.readwriteweb.com/hack/2011/02/what-data-mining-apple-google-and-microsofts-pr-reveals.php') :height(175) :preview
+media/dc424271691fbb94cb9ae3f3caaa84554696adb1.jpg
+=for Image :width(187) :link('http://www.readwriteweb.com/hack/2011/02/what-data-mining-apple-google-and-microsofts-pr-reveals.php') :height(175) :preview
+media/2fc64bd77d7a5e2f535828b725ef27621ed07190.jpg
+
+
+
+=end DESCRIPTION
+
+What Data-Mining Apple, Google and Microsoft's PR Reveals - L<link|http://www.readwriteweb.com/hack/2011/02/what-data-mining-apple-google-and-microsofts-pr-reveals.php>
+=for Image :width(193) :link('http://www.readwriteweb.com/hack/2011/02/what-data-mining-apple-google-and-microsofts-pr-reveals.php') :height(175) :preview
+media/133a881a9ca97eebe38c6d38b436a4dd791680c6.jpg
+=for Image :width(196) :link('http://www.readwriteweb.com/hack/2011/02/what-data-mining-apple-google-and-microsofts-pr-reveals.php') :height(175) :preview
+media/dc424271691fbb94cb9ae3f3caaa84554696adb1.jpg
+=for Image :width(187) :link('http://www.readwriteweb.com/hack/2011/02/what-data-mining-apple-google-and-microsofts-pr-reveals.php') :height(175) :preview
+media/2fc64bd77d7a5e2f535828b725ef27621ed07190.jpg
+
+
+
+=begin comment :src
+{
+  "body": "What Data-Mining Apple, Google and Microsoft's PR Reveals - <a rel=\"nofollow\" href=\"http://www.readwriteweb.com/hack/2011/02/what-data-mining-apple-google-and-microsofts-pr-reveals.php\" title=\"http://www.readwriteweb.com/hack/2011/02/what-data-mining-apple-google-and-microsofts-pr-reveals.php\">http://www.readwriteweb.com/hack...</a>",
+  "rawLink": "http://www.readwriteweb.com/hack/2011/02/what-data-mining-apple-google-and-microsofts-pr-reveals.php",
+  "date": "2011-02-26T05:25:53Z",
+  "id": "e/57eee237dc5944e6924921893951475b",
+  "url": "http://friendfeed.com/zag/57eee237/what-data-mining-apple-google-and-microsoft-pr",
+  "rawBody": "What Data-Mining Apple, Google and Microsoft's PR Reveals",
+  "thumbnails": [
+    {
+      "height": 175,
+      "link": "http://www.readwriteweb.com/hack/2011/02/what-data-mining-apple-google-and-microsofts-pr-reveals.php",
+      "url": "http://m.friendfeed-media.com/133a881a9ca97eebe38c6d38b436a4dd791680c6",
+      "width": 193
+    },
+    {
+      "height": 175,
+      "link": "http://www.readwriteweb.com/hack/2011/02/what-data-mining-apple-google-and-microsofts-pr-reveals.php",
+      "width": 196,
+      "url": "http://m.friendfeed-media.com/dc424271691fbb94cb9ae3f3caaa84554696adb1"
+    },
+    {
+      "url": "http://m.friendfeed-media.com/2fc64bd77d7a5e2f535828b725ef27621ed07190",
+      "width": 187,
+      "height": 175,
+      "link": "http://www.readwriteweb.com/hack/2011/02/what-data-mining-apple-google-and-microsofts-pr-reveals.php"
+    }
+  ],
+  "via": {
+    "url": "http://friendfeed.com/share/bookmarklet",
+    "name": "Bookmarklet"
+  },
+  "from": {
+    "name": "углы «Исимуры»",
+    "type": "user",
+    "id": "zag"
+  }
+}
+=end comment
+
+=end pod

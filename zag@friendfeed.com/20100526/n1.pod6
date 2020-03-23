@@ -1,0 +1,76 @@
+=begin pod :pubdate('2010-05-26T06:41:08Z') :type<note> :tags<perl6 perl>
+=NAME Damian Conway on Perl and its future. #perl6 #perl
+
+=begin DESCRIPTION
+
+Damian Conway on Perl and its future. #perl6 #perl - L<link|http://www.oreillygmt.co.uk/2010/05/damian-conway-on-perl-and-its-future.html>
+=for Image :width(231) :link('http://www.oreillygmt.co.uk/2010/05/damian-conway-on-perl-and-its-future.html') :height(175) :preview
+media/e854ac0b0d0c70585a9fab0b6acc972168d26f54.jpg
+
+=item I'm just starting work on a new book...on Perl 6
+=item As far as second editions go, I'd certainly like to revisit "Perl Best Practices"
+
+
+=end DESCRIPTION
+
+Damian Conway on Perl and its future. #perl6 #perl - L<link|http://www.oreillygmt.co.uk/2010/05/damian-conway-on-perl-and-its-future.html>
+=for Image :width(231) :link('http://www.oreillygmt.co.uk/2010/05/damian-conway-on-perl-and-its-future.html') :height(175) :preview
+media/e854ac0b0d0c70585a9fab0b6acc972168d26f54.jpg
+
+=item I'm just starting work on a new book...on Perl 6
+=item As far as second editions go, I'd certainly like to revisit "Perl Best Practices"
+
+
+=begin comment :src
+{
+  "url": "http://friendfeed.com/zag/21f98c14/damian-conway-on-perl-and-its-future-perl6",
+  "id": "e/21f98c140f2b40b890aca2e5e4a772b7",
+  "date": "2010-05-26T06:41:08Z",
+  "rawBody": "Damian Conway on Perl and its future. #perl6 #perl",
+  "thumbnails": [
+    {
+      "width": 231,
+      "url": "http://m.friendfeed-media.com/e854ac0b0d0c70585a9fab0b6acc972168d26f54",
+      "height": 175,
+      "link": "http://www.oreillygmt.co.uk/2010/05/damian-conway-on-perl-and-its-future.html"
+    }
+  ],
+  "rawLink": "http://www.oreillygmt.co.uk/2010/05/damian-conway-on-perl-and-its-future.html",
+  "body": "Damian Conway on Perl and its future. <a href=\"http://friendfeed.com/search?q=%23perl6\">#perl6</a> <a href=\"http://friendfeed.com/search?q=%23perl\">#perl</a> - <a rel=\"nofollow\" href=\"http://www.oreillygmt.co.uk/2010/05/damian-conway-on-perl-and-its-future.html\" title=\"http://www.oreillygmt.co.uk/2010/05/damian-conway-on-perl-and-its-future.html\">http://www.oreillygmt.co.uk/2010...</a>",
+  "from": {
+    "name": "углы «Исимуры»",
+    "id": "zag",
+    "type": "user"
+  },
+  "via": {
+    "name": "Bookmarklet",
+    "url": "http://friendfeed.com/share/bookmarklet"
+  },
+  "comments": [
+    {
+      "id": "e/21f98c140f2b40b890aca2e5e4a772b7/c/b7e4e163c4be41f1871862fca9769e65",
+      "rawBody": "I'm just starting work on a new book...on Perl 6",
+      "from": {
+        "name": "углы «Исимуры»",
+        "id": "zag",
+        "type": "user"
+      },
+      "date": "2010-05-26T08:19:41Z",
+      "body": "I'm just starting work on a new book...on Perl 6"
+    },
+    {
+      "date": "2010-05-26T08:20:54Z",
+      "rawBody": "As far as second editions go, I'd certainly like to revisit \"Perl Best Practices\"",
+      "id": "e/21f98c140f2b40b890aca2e5e4a772b7/c/d5fca3878dbd4755a363c6419551dd87",
+      "from": {
+        "name": "углы «Исимуры»",
+        "id": "zag",
+        "type": "user"
+      },
+      "body": "As far as second editions go, I'd certainly like to revisit &quot;Perl Best Practices&quot;"
+    }
+  ]
+}
+=end comment
+
+=end pod

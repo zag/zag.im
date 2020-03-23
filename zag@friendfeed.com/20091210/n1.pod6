@@ -1,0 +1,36 @@
+=begin pod :pubdate('2009-12-10T12:53:50Z') :type<note> 
+=NAME Official support for NVIDIA graphics cards on amd64 architecture http://bit.ly/50x3yb
+
+=begin DESCRIPTION
+
+Official support for NVIDIA graphics cards on amd64 architecture http://bit.ly/50x3yb - L<link|http://twitter.com/zagru/statuses/6530299369>
+
+
+
+=end DESCRIPTION
+
+Official support for NVIDIA graphics cards on amd64 architecture http://bit.ly/50x3yb - L<link|http://twitter.com/zagru/statuses/6530299369>
+
+
+
+=begin comment :src
+{
+  "url": "http://friendfeed.com/zag/43eb196e/official-support-for-nvidia-graphics-cards-on",
+  "id": "e/43eb196ea099d95ee90ee70c0c350bfa",
+  "date": "2009-12-10T12:53:50Z",
+  "rawBody": "Official support for NVIDIA graphics cards on amd64 architecture http://bit.ly/50x3yb",
+  "body": "Official support for NVIDIA graphics cards on amd64 architecture <a rel=\"nofollow\" href=\"http://bit.ly/50x3yb\" title=\"http://www.FreeBSD.org/news/newsflash.html#event20091203:01\">http://www.FreeBSD.org/news...</a>",
+  "rawLink": "http://twitter.com/zagru/statuses/6530299369",
+  "from": {
+    "name": "углы «Исимуры»",
+    "type": "user",
+    "id": "zag"
+  },
+  "via": {
+    "name": "Twitter",
+    "url": "http://twitter.com/zagru/statuses/6530299369"
+  }
+}
+=end comment
+
+=end pod

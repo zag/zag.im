@@ -1,0 +1,102 @@
+=begin pod :pubdate('2010-06-18T09:41:18Z') :type<note> 
+=NAME Logstalgia (aka ApachePong) is a website access log visualization tool.
+
+=begin DESCRIPTION
+
+Logstalgia (aka ApachePong) is a website access log visualization tool. - L<link|http://code.google.com/p/logstalgia/>
+=for Image :width(525) :link('http://code.google.com/p/logstalgia/') :height(153) :preview
+media/376ca41847b2a36f652d3dbcaed10b90253542ac.jpg
+
+=item "Requirements": The display is rendered using OpenGL and requires a 3D accelerated video card to run.
+
+
+=end DESCRIPTION
+
+Logstalgia (aka ApachePong) is a website access log visualization tool. - L<link|http://code.google.com/p/logstalgia/>
+=for Image :width(525) :link('http://code.google.com/p/logstalgia/') :height(153) :preview
+media/376ca41847b2a36f652d3dbcaed10b90253542ac.jpg
+
+=item "Requirements": The display is rendered using OpenGL and requires a 3D accelerated video card to run.
+
+
+=begin comment :src
+{
+  "rawLink": "http://code.google.com/p/logstalgia/",
+  "likes": [
+    {
+      "date": "2010-06-21T02:13:23Z",
+      "from": {
+        "type": "user",
+        "id": "jesperlind",
+        "name": "Jesper Lind"
+      }
+    },
+    {
+      "date": "2010-06-18T09:53:00Z",
+      "from": {
+        "id": "mmcleric",
+        "type": "user",
+        "name": "Vyacheslav Matyukhin"
+      }
+    },
+    {
+      "date": "2010-06-18T09:49:48Z",
+      "from": {
+        "type": "user",
+        "id": "dainathomas1",
+        "name": "Daina Thomas"
+      }
+    },
+    {
+      "from": {
+        "name": "IvIotor",
+        "private": true,
+        "type": "user",
+        "id": "iviotor"
+      },
+      "date": "2010-06-18T09:42:51Z"
+    }
+  ],
+  "body": "Logstalgia (aka ApachePong) is a website access log visualization tool. - <a rel=\"nofollow\" href=\"http://code.google.com/p/logstalgia/\" title=\"http://code.google.com/p/logstalgia/\">http://code.google.com/p...</a>",
+  "date": "2010-06-18T09:41:18Z",
+  "id": "e/c4c30949896f4681a74a5429e1ae7716",
+  "rawBody": "Logstalgia (aka ApachePong) is a website access log visualization tool.",
+  "url": "http://friendfeed.com/zag/c4c30949/logstalgia-aka-apachepong-is-website-access",
+  "thumbnails": [
+    {
+      "link": "http://code.google.com/p/logstalgia/",
+      "height": 153,
+      "url": "http://m.friendfeed-media.com/376ca41847b2a36f652d3dbcaed10b90253542ac",
+      "width": 525
+    }
+  ],
+  "comments": [
+    {
+      "via": {
+        "name": "Bookmarklet",
+        "url": "http://friendfeed.com/share/bookmarklet"
+      },
+      "id": "e/c4c30949896f4681a74a5429e1ae7716/c/f00716a33894415d95293a4f64f46849",
+      "from": {
+        "type": "user",
+        "id": "zag",
+        "name": "углы «Исимуры»"
+      },
+      "date": "2010-06-18T09:41:18Z",
+      "rawBody": "\"Requirements\": The display is rendered using OpenGL and requires a 3D accelerated video card to run.",
+      "body": "&quot;Requirements&quot;: The display is rendered using OpenGL and requires a 3D accelerated video card to run."
+    }
+  ],
+  "from": {
+    "type": "user",
+    "id": "zag",
+    "name": "углы «Исимуры»"
+  },
+  "via": {
+    "url": "http://friendfeed.com/share/bookmarklet",
+    "name": "Bookmarklet"
+  }
+}
+=end comment
+
+=end pod

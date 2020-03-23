@@ -1,0 +1,87 @@
+=begin pod :pubdate('2014-04-02T07:28:38Z') :type<note> 
+=NAME Computer History Museum | @CHM : Microsoft MS-DOS early source code
+
+=begin DESCRIPTION
+
+Computer History Museum | @CHM : Microsoft MS-DOS early source code - L<link|http://www.computerhistory.org/atchm/microsoft-ms-dos-early-source-code/>
+=for Image :width(234) :link('http://www.computerhistory.org/atchm/microsoft-ms-dos-early-source-code/') :height(175) :preview
+media/ac354084a7fa104b12c1c31b8f8d8f0bbf8cd47c.jpg
+=for Image :width(166) :link('http://www.computerhistory.org/atchm/microsoft-ms-dos-early-source-code/') :height(175) :preview
+media/5d991c937cd5d801f9406586a1617537652324af.jpg
+=for Image :width(127) :link('http://www.computerhistory.org/atchm/microsoft-ms-dos-early-source-code/') :height(175) :preview
+media/7edcbfa99021918f7f480fdc3835d0e9fe4d1bf5.jpg
+
+=item "Download Microsoft DOS V1.1 and V2.0 Source Code"
+
+
+=end DESCRIPTION
+
+Computer History Museum | @CHM : Microsoft MS-DOS early source code - L<link|http://www.computerhistory.org/atchm/microsoft-ms-dos-early-source-code/>
+=for Image :width(234) :link('http://www.computerhistory.org/atchm/microsoft-ms-dos-early-source-code/') :height(175) :preview
+media/ac354084a7fa104b12c1c31b8f8d8f0bbf8cd47c.jpg
+=for Image :width(166) :link('http://www.computerhistory.org/atchm/microsoft-ms-dos-early-source-code/') :height(175) :preview
+media/5d991c937cd5d801f9406586a1617537652324af.jpg
+=for Image :width(127) :link('http://www.computerhistory.org/atchm/microsoft-ms-dos-early-source-code/') :height(175) :preview
+media/7edcbfa99021918f7f480fdc3835d0e9fe4d1bf5.jpg
+
+=item "Download Microsoft DOS V1.1 and V2.0 Source Code"
+
+
+=begin comment :src
+{
+  "body": "Computer History Museum | @CHM : Microsoft MS-DOS early source code - <a rel=\"nofollow\" href=\"http://www.computerhistory.org/atchm/microsoft-ms-dos-early-source-code/\" title=\"http://www.computerhistory.org/atchm/microsoft-ms-dos-early-source-code/\">http://www.computerhistory.org/atchm...</a>",
+  "rawLink": "http://www.computerhistory.org/atchm/microsoft-ms-dos-early-source-code/",
+  "date": "2014-04-02T07:28:38Z",
+  "id": "e/7bc936bcb0f14ac38278742b7f61b2fd",
+  "rawBody": "Computer History Museum | @CHM : Microsoft MS-DOS early source code",
+  "url": "http://friendfeed.com/zag/7bc936bc/computer-history-museum-chm-microsoft-ms-dos",
+  "thumbnails": [
+    {
+      "url": "http://m.friendfeed-media.com/ac354084a7fa104b12c1c31b8f8d8f0bbf8cd47c",
+      "width": 234,
+      "height": 175,
+      "link": "http://www.computerhistory.org/atchm/microsoft-ms-dos-early-source-code/"
+    },
+    {
+      "link": "http://www.computerhistory.org/atchm/microsoft-ms-dos-early-source-code/",
+      "height": 175,
+      "width": 166,
+      "url": "http://m.friendfeed-media.com/5d991c937cd5d801f9406586a1617537652324af"
+    },
+    {
+      "height": 175,
+      "link": "http://www.computerhistory.org/atchm/microsoft-ms-dos-early-source-code/",
+      "width": 127,
+      "url": "http://m.friendfeed-media.com/7edcbfa99021918f7f480fdc3835d0e9fe4d1bf5"
+    }
+  ],
+  "comments": [
+    {
+      "id": "e/7bc936bcb0f14ac38278742b7f61b2fd/c/f9d7574c0e354e34a79ca224c787e0ac",
+      "date": "2014-04-02T07:28:38Z",
+      "from": {
+        "type": "user",
+        "id": "zag",
+        "name": "углы «Исимуры»"
+      },
+      "rawBody": "\"Download Microsoft DOS V1.1 and V2.0 Source Code\"",
+      "via": {
+        "name": "Bookmarklet",
+        "url": "http://friendfeed.com/share/bookmarklet"
+      },
+      "body": "&quot;Download Microsoft DOS V1.1 and V2.0 Source Code&quot;"
+    }
+  ],
+  "via": {
+    "url": "http://friendfeed.com/share/bookmarklet",
+    "name": "Bookmarklet"
+  },
+  "from": {
+    "name": "углы «Исимуры»",
+    "type": "user",
+    "id": "zag"
+  }
+}
+=end comment
+
+=end pod

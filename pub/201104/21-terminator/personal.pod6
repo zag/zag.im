@@ -1,0 +1,38 @@
+=begin pod :pubdate('2011-04-21 13:00:00') :tags<socialminig mining selfpublish>
+=NAME Судный день для моих персональных данных
+
+=begin DESCRIPTION
+
+=for Image :align("left") :preview
+term.jpg
+
+Сегодня, 21 Апреля 2011 года, оказался и в самом деле судным днем для облачных сервисов, а заодно и для моих данных, которые там хранились.
+=end DESCRIPTION
+
+Сегодня, 21 Апреля 2011 года, оказался и в самом деле судным днем N<"Terminator: The Sarah Connor Chronicles".Judgment Day. L<http://terminator.wikia.com/wiki/2011/04/21>>, но для облачных сервисов, а заодно и для моих данных, которые там хранились. Из-за неполадок в работе облачного хостинга Amazon, оказались неработоспособными сервисы  Friendfeed, Quora, Reddit, Hootsuite, foursquare N<Amazon EC2 troubles bring down Reddit, Foursquare, Quora, Hootsuite and more. L< http://thenextweb.com/industry/2011/04/21/amazon-ec2-troubles-bring-down-reddit-foursquare-quora-hootsuite-and-more/> >.
+
+
+У меня получилась целая подборка экранов:
+
+
+=for ImageBlock :caption('Когда из облаков идет дождь..')
+foursquare.jpg
+friendfeed.jpg
+hotsuite.jpg
+quora.jpg
+reddit.jpg
+
+
+Это все привело к тому, что пропали мои краткие заметки, которые брались с friendfeed. Сайт теперь выглядит теперь так:
+
+=for Image :caption('Сайт без заметок')
+notes.jpg
+
+Исходный вид сайта мне удалось найти только в кэше поисковой системы:
+
+=for Image :caption('Вид сайт с заметками')
+notes_cached.jpg
+
+Вот и оказалось, что часть моей информации осталась в этих неработающих сервисах. Помимо технических проблем у сервисов, могут быть и финансовые, а так же какие угодно. Посему есть повод задуматься.
+
+=end pod

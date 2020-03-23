@@ -1,0 +1,44 @@
+=begin pod :pubdate('2011-02-13T07:31:07Z') :type<note> :tags<starwars>
+=NAME #starwars rock
+
+=begin DESCRIPTION
+
+#starwars rock
+=for Image :width(280) :link('http://m.friendfeed-media.com/7a53c6f64f231eb5147ce4599db9f68574ce4f6d') :height(175) :preview
+media/a8342330bfcdae77c1c7747ae5b8a48599dd57b3.jpg
+
+
+
+=end DESCRIPTION
+
+#starwars rock
+=for Image :width(280) :link('http://m.friendfeed-media.com/7a53c6f64f231eb5147ce4599db9f68574ce4f6d') :height(175) :preview
+media/a8342330bfcdae77c1c7747ae5b8a48599dd57b3.jpg
+
+
+
+=begin comment :src
+{
+  "url": "http://friendfeed.com/zag/c919b17a/starwars-rock",
+  "id": "e/c919b17a20124a4ab4c30da4b31c2cb1",
+  "date": "2011-02-13T07:31:07Z",
+  "rawBody": "#starwars rock",
+  "thumbnails": [
+    {
+      "width": 280,
+      "url": "http://m.friendfeed-media.com/a8342330bfcdae77c1c7747ae5b8a48599dd57b3",
+      "link": "http://m.friendfeed-media.com/7a53c6f64f231eb5147ce4599db9f68574ce4f6d",
+      "height": 175
+    }
+  ],
+  "rawLink": "http://friendfeed.com/e/c919b17a-2012-4a4a-b4c3-0da4b31c2cb1",
+  "body": "<a href=\"http://friendfeed.com/search?q=%23starwars\">#starwars</a> rock",
+  "from": {
+    "name": "углы «Исимуры»",
+    "id": "zag",
+    "type": "user"
+  }
+}
+=end comment
+
+=end pod

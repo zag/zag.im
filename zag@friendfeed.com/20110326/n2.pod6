@@ -1,0 +1,36 @@
+=begin pod :pubdate('2011-03-26T14:39:28Z') :type<note> :tags<firefox4>
+=NAME Now with #firefox4: portupgrade -f -o www/firefox36 www/firefox && portupgrade -N www/firefox
+
+=begin DESCRIPTION
+
+Now with #firefox4: portupgrade -f -o www/firefox36 www/firefox && portupgrade -N www/firefox - L<link|http://twitter.com/zagru/statuses/51654504608841729>
+
+
+
+=end DESCRIPTION
+
+Now with #firefox4: portupgrade -f -o www/firefox36 www/firefox && portupgrade -N www/firefox - L<link|http://twitter.com/zagru/statuses/51654504608841729>
+
+
+
+=begin comment :src
+{
+  "via": {
+    "name": "Twitter",
+    "url": "http://twitter.com/zagru/statuses/51654504608841729"
+  },
+  "from": {
+    "name": "углы «Исимуры»",
+    "type": "user",
+    "id": "zag"
+  },
+  "body": "Now with <a rel=\"nofollow\" href=\"http://search.twitter.com/search?q=%23firefox4\">#firefox4</a>: portupgrade -f -o www/firefox36 www/firefox &amp;&amp; portupgrade -N www/firefox",
+  "rawLink": "http://twitter.com/zagru/statuses/51654504608841729",
+  "url": "http://friendfeed.com/zag/1f940a2d/now-with-firefox4-portupgrade-f-o-firefox36",
+  "id": "e/1f940a2df7cf1ba9279aff0fe6083e7a",
+  "date": "2011-03-26T14:39:28Z",
+  "rawBody": "Now with #firefox4: portupgrade -f -o www/firefox36 www/firefox && portupgrade -N www/firefox"
+}
+=end comment
+
+=end pod

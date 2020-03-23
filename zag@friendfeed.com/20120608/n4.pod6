@@ -1,0 +1,36 @@
+=begin pod :pubdate('2012-06-08T12:02:22Z') :type<note> :tags<lvee>
+=NAME http://t.co/mMQTBdI0 pdf чтобы читался #lvee
+
+=begin DESCRIPTION
+
+http://t.co/mMQTBdI0 pdf чтобы читался #lvee - L<link|http://twitter.com/zagru/statuses/211065629896228864>
+
+
+
+=end DESCRIPTION
+
+http://t.co/mMQTBdI0 pdf чтобы читался #lvee - L<link|http://twitter.com/zagru/statuses/211065629896228864>
+
+
+
+=begin comment :src
+{
+  "id": "e/07889ada73941e47338117638a5a2426",
+  "date": "2012-06-08T12:02:22Z",
+  "url": "http://friendfeed.com/zag/07889ada/pdf-lvee",
+  "rawBody": "http://t.co/mMQTBdI0 pdf чтобы читался #lvee",
+  "rawLink": "http://twitter.com/zagru/statuses/211065629896228864",
+  "body": "<a rel=\"nofollow\" href=\"http://t.co/mMQTBdI0\" title=\"http://ow.ly/i/GlX0\">http://ow.ly/i/GlX0</a> pdf чтобы читался <a rel=\"nofollow\" href=\"http://search.twitter.com/search?q=%23lvee\">#lvee</a>",
+  "via": {
+    "url": "http://twitter.com/zagru/statuses/211065629896228864",
+    "name": "Twitter"
+  },
+  "from": {
+    "name": "углы «Исимуры»",
+    "type": "user",
+    "id": "zag"
+  }
+}
+=end comment
+
+=end pod

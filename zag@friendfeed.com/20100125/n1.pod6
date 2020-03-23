@@ -1,0 +1,48 @@
+=begin pod :pubdate('2010-01-25T09:22:02Z') :type<note> 
+=NAME Astronaut sends first live tweets from space
+
+=begin DESCRIPTION
+
+Astronaut sends first live tweets from space - L<link|http://news.cnet.com/8301-13577_3-10439573-36.html?tag=digg2>
+=for Image :width(212) :link('http://news.cnet.com/8301-13577_3-10439573-36.html?tag=digg2') :height(175) :preview
+media/0736db30cd3434b34b2708fc590528b9231ea4d0.jpg
+
+
+
+=end DESCRIPTION
+
+Astronaut sends first live tweets from space - L<link|http://news.cnet.com/8301-13577_3-10439573-36.html?tag=digg2>
+=for Image :width(212) :link('http://news.cnet.com/8301-13577_3-10439573-36.html?tag=digg2') :height(175) :preview
+media/0736db30cd3434b34b2708fc590528b9231ea4d0.jpg
+
+
+
+=begin comment :src
+{
+  "id": "e/bc00f2bf01d144a4ab1a088fde2b7209",
+  "rawBody": "Astronaut sends first live tweets from space",
+  "date": "2010-01-25T09:22:02Z",
+  "url": "http://friendfeed.com/zag/bc00f2bf/astronaut-sends-first-live-tweets-from-space",
+  "thumbnails": [
+    {
+      "height": 175,
+      "link": "http://news.cnet.com/8301-13577_3-10439573-36.html?tag=digg2",
+      "url": "http://m.friendfeed-media.com/0736db30cd3434b34b2708fc590528b9231ea4d0",
+      "width": 212
+    }
+  ],
+  "body": "Astronaut sends first live tweets from space - <a rel=\"nofollow\" href=\"http://news.cnet.com/8301-13577_3-10439573-36.html?tag=digg2\" title=\"http://news.cnet.com/8301-13577_3-10439573-36.html?tag=digg2\">http://news.cnet.com/8301-13...</a>",
+  "rawLink": "http://news.cnet.com/8301-13577_3-10439573-36.html?tag=digg2",
+  "via": {
+    "url": "http://friendfeed.com/share/bookmarklet",
+    "name": "Bookmarklet"
+  },
+  "from": {
+    "name": "углы «Исимуры»",
+    "type": "user",
+    "id": "zag"
+  }
+}
+=end comment
+
+=end pod

@@ -1,0 +1,87 @@
+=begin pod :pubdate('2011-10-26T14:17:53Z') :type<note> 
+=NAME Commit a047be85247755cdbe0acce6f1dafc8beb84f2ac to MrMEEE/bumblebee - GitHub ( rm -rf /usr /lib/nvidia-current/xorg/xorg )
+
+=begin DESCRIPTION
+
+Commit a047be85247755cdbe0acce6f1dafc8beb84f2ac to MrMEEE/bumblebee - GitHub ( rm -rf /usr /lib/nvidia-current/xorg/xorg ) - L<link|https://github.com/MrMEEE/bumblebee/commit/a047be85247755cdbe0acce6#diff-1>
+=for Image :width(152) :link('https://github.com/MrMEEE/bumblebee/commit/a047be85247755cdbe0acce6#diff-1') :height(175) :preview
+media/d84750dee1485f85bbaa53e793546ea140c7cafb.jpg
+=for Image :width(126) :link('https://github.com/MrMEEE/bumblebee/commit/a047be85247755cdbe0acce6#diff-1') :height(175) :preview
+media/c494b44d619f3a11364f3bcf337b5bb893f203b1.jpg
+=for Image :width(104) :link('https://github.com/MrMEEE/bumblebee/commit/a047be85247755cdbe0acce6#diff-1') :height(175) :preview
+media/07d2331dcab04d149b232d311088fa9e444c4075.jpg
+
+=item Еще раз напомнили ...
+
+
+=end DESCRIPTION
+
+Commit a047be85247755cdbe0acce6f1dafc8beb84f2ac to MrMEEE/bumblebee - GitHub ( rm -rf /usr /lib/nvidia-current/xorg/xorg ) - L<link|https://github.com/MrMEEE/bumblebee/commit/a047be85247755cdbe0acce6#diff-1>
+=for Image :width(152) :link('https://github.com/MrMEEE/bumblebee/commit/a047be85247755cdbe0acce6#diff-1') :height(175) :preview
+media/d84750dee1485f85bbaa53e793546ea140c7cafb.jpg
+=for Image :width(126) :link('https://github.com/MrMEEE/bumblebee/commit/a047be85247755cdbe0acce6#diff-1') :height(175) :preview
+media/c494b44d619f3a11364f3bcf337b5bb893f203b1.jpg
+=for Image :width(104) :link('https://github.com/MrMEEE/bumblebee/commit/a047be85247755cdbe0acce6#diff-1') :height(175) :preview
+media/07d2331dcab04d149b232d311088fa9e444c4075.jpg
+
+=item Еще раз напомнили ...
+
+
+=begin comment :src
+{
+  "rawBody": "Commit a047be85247755cdbe0acce6f1dafc8beb84f2ac to MrMEEE/bumblebee - GitHub ( rm -rf /usr /lib/nvidia-current/xorg/xorg )",
+  "id": "e/908498592fc14ba2b3f9f1a290c9340d",
+  "date": "2011-10-26T14:17:53Z",
+  "url": "http://friendfeed.com/zag/90849859/commit",
+  "thumbnails": [
+    {
+      "url": "http://m.friendfeed-media.com/d84750dee1485f85bbaa53e793546ea140c7cafb",
+      "width": 152,
+      "height": 175,
+      "link": "https://github.com/MrMEEE/bumblebee/commit/a047be85247755cdbe0acce6#diff-1"
+    },
+    {
+      "height": 175,
+      "link": "https://github.com/MrMEEE/bumblebee/commit/a047be85247755cdbe0acce6#diff-1",
+      "url": "http://m.friendfeed-media.com/c494b44d619f3a11364f3bcf337b5bb893f203b1",
+      "width": 126
+    },
+    {
+      "width": 104,
+      "url": "http://m.friendfeed-media.com/07d2331dcab04d149b232d311088fa9e444c4075",
+      "link": "https://github.com/MrMEEE/bumblebee/commit/a047be85247755cdbe0acce6#diff-1",
+      "height": 175
+    }
+  ],
+  "rawLink": "https://github.com/MrMEEE/bumblebee/commit/a047be85247755cdbe0acce6#diff-1",
+  "body": "Commit a047be85247755cdbe0acce6f1dafc8beb84f2ac to MrMEEE/bumblebee - GitHub ( rm -rf /usr /lib/nvidia-current/xorg/xorg ) - <a rel=\"nofollow\" href=\"https://github.com/MrMEEE/bumblebee/commit/a047be85247755cdbe0acce6#diff-1\" title=\"https://github.com/MrMEEE/bumblebee/commit/a047be85247755cdbe0acce6#diff-1\">https://github.com/MrMEEE...</a>",
+  "from": {
+    "type": "user",
+    "id": "zag",
+    "name": "углы «Исимуры»"
+  },
+  "via": {
+    "url": "http://friendfeed.com/share/bookmarklet",
+    "name": "Bookmarklet"
+  },
+  "comments": [
+    {
+      "body": "Еще раз напомнили ...",
+      "date": "2011-10-26T14:17:53Z",
+      "id": "e/908498592fc14ba2b3f9f1a290c9340d/c/95a26f7e069f4f4fbf29137835fcb7c3",
+      "rawBody": "Еще раз напомнили ...",
+      "from": {
+        "name": "углы «Исимуры»",
+        "id": "zag",
+        "type": "user"
+      },
+      "via": {
+        "name": "Bookmarklet",
+        "url": "http://friendfeed.com/share/bookmarklet"
+      }
+    }
+  ]
+}
+=end comment
+
+=end pod

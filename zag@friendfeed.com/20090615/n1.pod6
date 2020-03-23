@@ -1,0 +1,75 @@
+=begin pod :pubdate('2009-06-15T11:15:27Z') :type<note> 
+=NAME Фотографии разных поездов
+
+=begin DESCRIPTION
+
+Фотографии разных поездов - L<link|http://www.flickr.com/photos/80651083@N00/sets/72157594201263709/>
+
+=item Остальные здесь: http://www.flickr.com/photos/80651083@N00/sets/72157594201263709/#
+
+
+=end DESCRIPTION
+
+Фотографии разных поездов - L<link|http://www.flickr.com/photos/80651083@N00/sets/72157594201263709/>
+
+=item Остальные здесь: http://www.flickr.com/photos/80651083@N00/sets/72157594201263709/#
+
+
+=begin comment :src
+{
+  "thumbnails": [
+    {
+      "url": "http://i.friendfeed.com/ca7cd3493bd0b6df38498bec7b97bbdfc162ca0e",
+      "width": 75,
+      "link": "http://www.flickr.com/photos/80651083@N00/sets/72157594201263709/",
+      "height": 75
+    },
+    {
+      "url": "http://i.friendfeed.com/313d8a1b7ba52480d865a7163223e668170fcd4f",
+      "width": 75,
+      "height": 75,
+      "link": "http://www.flickr.com/photos/80651083@N00/sets/72157594201263709/"
+    },
+    {
+      "url": "http://i.friendfeed.com/42ed75371e0b091ee7650f41128bae3726e00cc3",
+      "width": 240,
+      "link": "http://www.flickr.com/photos/80651083@N00/sets/72157594201263709/",
+      "height": 161
+    }
+  ],
+  "id": "e/ddf197c519cc43df9a0cfe1761278889",
+  "date": "2009-06-15T11:15:27Z",
+  "rawBody": "Фотографии разных поездов",
+  "url": "http://friendfeed.com/zag/ddf197c5",
+  "body": "Фотографии разных поездов - <a rel=\"nofollow\" href=\"http://www.flickr.com/photos/80651083@N00/sets/72157594201263709/\" title=\"http://www.flickr.com/photos/80651083@N00/sets/72157594201263709/\">http://www.flickr.com/photos...</a>",
+  "rawLink": "http://www.flickr.com/photos/80651083@N00/sets/72157594201263709/",
+  "via": {
+    "name": "Bookmarklet",
+    "url": "http://friendfeed.com/share/bookmarklet"
+  },
+  "from": {
+    "name": "углы «Исимуры»",
+    "type": "user",
+    "id": "zag"
+  },
+  "comments": [
+    {
+      "id": "e/ddf197c519cc43df9a0cfe1761278889/c/bb96c28402a5465b940a0233f386654a",
+      "date": "2009-06-15T11:15:27Z",
+      "from": {
+        "type": "user",
+        "id": "zag",
+        "name": "углы «Исимуры»"
+      },
+      "rawBody": "Остальные здесь: http://www.flickr.com/photos/80651083@N00/sets/72157594201263709/#",
+      "via": {
+        "name": "Bookmarklet",
+        "url": "http://friendfeed.com/share/bookmarklet"
+      },
+      "body": "Остальные здесь: <a rel=\"nofollow\" href=\"http://www.flickr.com/photos/80651083@N00/sets/72157594201263709/#\" title=\"http://www.flickr.com/photos/80651083@N00/sets/72157594201263709/#\">http://www.flickr.com/photos...</a>"
+    }
+  ]
+}
+=end comment
+
+=end pod

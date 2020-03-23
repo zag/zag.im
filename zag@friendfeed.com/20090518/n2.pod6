@@ -1,0 +1,36 @@
+=begin pod :pubdate('2009-05-18T11:51:12Z') :type<note> 
+=NAME @AnatolyUnix В список закрытых внешних ресурсов для корпоративных сеток к ЖЖ, vkontake, одноклассникам добаится и twitter :-)
+
+=begin DESCRIPTION
+
+@AnatolyUnix В список закрытых внешних ресурсов для корпоративных сеток к ЖЖ, vkontake, одноклассникам добаится и twitter :-) - L<link|http://twitter.com/zagru/statuses/1834999611>
+
+
+
+=end DESCRIPTION
+
+@AnatolyUnix В список закрытых внешних ресурсов для корпоративных сеток к ЖЖ, vkontake, одноклассникам добаится и twitter :-) - L<link|http://twitter.com/zagru/statuses/1834999611>
+
+
+
+=begin comment :src
+{
+  "via": {
+    "name": "Twitter",
+    "url": "http://twitter.com/zagru/statuses/1834999611"
+  },
+  "from": {
+    "name": "углы «Исимуры»",
+    "id": "zag",
+    "type": "user"
+  },
+  "body": "@<a rel=\"nofollow\" href=\"http://twitter.com/AnatolyUnix\">AnatolyUnix</a> В список закрытых внешних ресурсов для корпоративных сеток к ЖЖ, vkontake, одноклассникам добаится и twitter :-)",
+  "rawLink": "http://twitter.com/zagru/statuses/1834999611",
+  "id": "e/29cfa82a510f3597c6396444b2125b43",
+  "date": "2009-05-18T11:51:12Z",
+  "url": "http://friendfeed.com/zag/29cfa82a/anatolyunix-vkontake-twitter",
+  "rawBody": "@AnatolyUnix В список закрытых внешних ресурсов для корпоративных сеток к ЖЖ, vkontake, одноклассникам добаится и twitter :-)"
+}
+=end comment
+
+=end pod

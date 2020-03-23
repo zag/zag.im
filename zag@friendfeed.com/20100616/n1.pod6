@@ -1,0 +1,105 @@
+=begin pod :pubdate('2010-06-16T06:57:07Z') :type<note> :tags<yapcrussia>
+=NAME Perl Mova + YAPC-2010. День докладов на #yapcrussia. Отдельные комменты и фотографии особенно веселы.
+
+=begin DESCRIPTION
+
+Perl Mova + YAPC-2010. День докладов на #yapcrussia. Отдельные комменты и фотографии особенно веселы. - L<link|http://picasaweb.google.com/koorchik/PerlMovaYAPC2010#>
+=for Image :width(144) :link('http://picasaweb.google.com/koorchik/PerlMovaYAPC2010#') :height(144) :preview
+media/f09836cfa3ce494c2a3c18b2ca44bbf305c66e19.jpg
+=for Image :width(128) :link('http://picasaweb.google.com/koorchik/PerlMovaYAPC2010#') :height(86) :preview
+media/529556b24dc6e1af27c0bdce7c994afb31c959d5.jpg
+=for Image :width(128) :link('http://picasaweb.google.com/koorchik/PerlMovaYAPC2010#') :height(86) :preview
+media/64624e10a7ce8d6bacfa65d7061e3560c5b0ae9d.jpg
+
+=item ты....стой на месте!!!....ты точно знаешь Перл?...али просто пришёл сюда пиццы похавать??!!
+
+
+=end DESCRIPTION
+
+Perl Mova + YAPC-2010. День докладов на #yapcrussia. Отдельные комменты и фотографии особенно веселы. - L<link|http://picasaweb.google.com/koorchik/PerlMovaYAPC2010#>
+=for Image :width(144) :link('http://picasaweb.google.com/koorchik/PerlMovaYAPC2010#') :height(144) :preview
+media/f09836cfa3ce494c2a3c18b2ca44bbf305c66e19.jpg
+=for Image :width(128) :link('http://picasaweb.google.com/koorchik/PerlMovaYAPC2010#') :height(86) :preview
+media/529556b24dc6e1af27c0bdce7c994afb31c959d5.jpg
+=for Image :width(128) :link('http://picasaweb.google.com/koorchik/PerlMovaYAPC2010#') :height(86) :preview
+media/64624e10a7ce8d6bacfa65d7061e3560c5b0ae9d.jpg
+
+=item ты....стой на месте!!!....ты точно знаешь Перл?...али просто пришёл сюда пиццы похавать??!!
+
+
+=begin comment :src
+{
+  "rawLink": "http://picasaweb.google.com/koorchik/PerlMovaYAPC2010#",
+  "likes": [
+    {
+      "from": {
+        "id": "mmcleric",
+        "type": "user",
+        "name": "Vyacheslav Matyukhin"
+      },
+      "date": "2010-06-16T07:40:43Z"
+    },
+    {
+      "from": {
+        "id": "kkapp",
+        "type": "user",
+        "name": "alex@kapranoff.ru"
+      },
+      "date": "2010-06-16T07:03:00Z"
+    }
+  ],
+  "body": "Perl Mova + YAPC-2010. День докладов на <a href=\"http://friendfeed.com/search?q=%23yapcrussia\">#yapcrussia</a>. Отдельные комменты и фотографии особенно веселы. - <a rel=\"nofollow\" href=\"http://picasaweb.google.com/koorchik/PerlMovaYAPC2010#\" title=\"http://picasaweb.google.com/koorchik/PerlMovaYAPC2010#\">http://picasaweb.google.com/koorchi...</a>",
+  "id": "e/b4e9068668d04c6a8705adc7f3dcaeb7",
+  "rawBody": "Perl Mova + YAPC-2010. День докладов на #yapcrussia. Отдельные комменты и фотографии особенно веселы.",
+  "date": "2010-06-16T06:57:07Z",
+  "url": "http://friendfeed.com/zag/b4e90686/perl-mova-yapc-2010-yapcrussia",
+  "thumbnails": [
+    {
+      "link": "http://picasaweb.google.com/koorchik/PerlMovaYAPC2010#",
+      "height": 144,
+      "url": "http://m.friendfeed-media.com/f09836cfa3ce494c2a3c18b2ca44bbf305c66e19",
+      "width": 144
+    },
+    {
+      "link": "http://picasaweb.google.com/koorchik/PerlMovaYAPC2010#",
+      "height": 86,
+      "url": "http://m.friendfeed-media.com/529556b24dc6e1af27c0bdce7c994afb31c959d5",
+      "width": 128
+    },
+    {
+      "url": "http://m.friendfeed-media.com/64624e10a7ce8d6bacfa65d7061e3560c5b0ae9d",
+      "width": 128,
+      "link": "http://picasaweb.google.com/koorchik/PerlMovaYAPC2010#",
+      "height": 86
+    }
+  ],
+  "comments": [
+    {
+      "body": "ты....стой на месте!!!....ты точно знаешь Перл?...али просто пришёл сюда пиццы похавать??!!",
+      "date": "2010-06-16T06:57:07Z",
+      "id": "e/b4e9068668d04c6a8705adc7f3dcaeb7/c/7ff3498badb24919bfe2a9b2aa234028",
+      "rawBody": "ты....стой на месте!!!....ты точно знаешь Перл?...али просто пришёл сюда пиццы похавать??!!",
+      "from": {
+        "id": "zag",
+        "type": "user",
+        "name": "углы «Исимуры»"
+      },
+      "via": {
+        "name": "Bookmarklet",
+        "url": "http://friendfeed.com/share/bookmarklet"
+      }
+    }
+  ],
+  "via": {
+    "name": "Bookmarklet",
+    "url": "http://friendfeed.com/share/bookmarklet"
+  },
+  "from": {
+    "name": "углы «Исимуры»",
+    "id": "zag",
+    "type": "user"
+  }
+}
+=end comment
+
+=end pod

@@ -1,0 +1,73 @@
+=begin pod :pubdate('2012-06-17T06:54:39Z') :type<note> :tags<perl6>
+=NAME Rakudo Perl 6 on Android ICS 4.0.3 #perl6
+
+=begin DESCRIPTION
+
+Rakudo Perl 6 on Android ICS 4.0.3 #perl6 - L<link|http://blogs.perl.org/users/martin_berends/2012/06/rakudo-perl-6-on-android-ics-403.html>
+
+=item "Hopefully this information will encourage some people to try hacking Perl 6 on Android."
+
+
+=end DESCRIPTION
+
+Rakudo Perl 6 on Android ICS 4.0.3 #perl6 - L<link|http://blogs.perl.org/users/martin_berends/2012/06/rakudo-perl-6-on-android-ics-403.html>
+
+=item "Hopefully this information will encourage some people to try hacking Perl 6 on Android."
+
+
+=begin comment :src
+{
+  "comments": [
+    {
+      "via": {
+        "url": "http://friendfeed.com/share/bookmarklet",
+        "name": "Bookmarklet"
+      },
+      "id": "e/ae8744ad2ad546f594012544ea6e3789/c/3e1fc284f57643f2a265571dc18f3b5e",
+      "from": {
+        "type": "user",
+        "id": "zag",
+        "name": "углы «Исимуры»"
+      },
+      "date": "2012-06-17T06:54:39Z",
+      "rawBody": "\"Hopefully this information will encourage some people to try hacking Perl 6 on Android.\"",
+      "body": "&quot;Hopefully this information will encourage some people to try hacking Perl 6 on Android.&quot;"
+    }
+  ],
+  "via": {
+    "url": "http://friendfeed.com/share/bookmarklet",
+    "name": "Bookmarklet"
+  },
+  "from": {
+    "id": "zag",
+    "type": "user",
+    "name": "углы «Исимуры»"
+  },
+  "body": "Rakudo Perl 6 on Android ICS 4.0.3 <a href=\"http://friendfeed.com/search?q=%23perl6\">#perl6</a> - <a rel=\"nofollow\" href=\"http://blogs.perl.org/users/martin_berends/2012/06/rakudo-perl-6-on-android-ics-403.html\" title=\"http://blogs.perl.org/users/martin_berends/2012/06/rakudo-perl-6-on-android-ics-403.html\">http://blogs.perl.org/users...</a>",
+  "likes": [
+    {
+      "from": {
+        "type": "user",
+        "id": "blacklion",
+        "name": "рептильный дом"
+      },
+      "date": "2012-06-17T10:12:41Z"
+    },
+    {
+      "date": "2012-06-17T10:04:38Z",
+      "from": {
+        "type": "user",
+        "id": "kkapp",
+        "name": "alex@kapranoff.ru"
+      }
+    }
+  ],
+  "rawLink": "http://blogs.perl.org/users/martin_berends/2012/06/rakudo-perl-6-on-android-ics-403.html",
+  "date": "2012-06-17T06:54:39Z",
+  "id": "e/ae8744ad2ad546f594012544ea6e3789",
+  "url": "http://friendfeed.com/zag/ae8744ad/rakudo-perl-6-on-android-ics-4-0-3-perl6",
+  "rawBody": "Rakudo Perl 6 on Android ICS 4.0.3 #perl6"
+}
+=end comment
+
+=end pod

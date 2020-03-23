@@ -1,0 +1,97 @@
+=begin pod :pubdate('2011-04-21T08:44:30Z') :type<note> :tags<firefox4>
+=NAME How to Change the Default Firefox 4 Search Engine #firefox4
+
+=begin DESCRIPTION
+
+How to Change the Default Firefox 4 Search Engine #firefox4 - L<link|http://www.groovypost.com/howto/how-to/change-firefox-4-address-bar-search-engine-provider/>
+=for Image :width(191) :link('http://www.groovypost.com/howto/how-to/change-firefox-4-address-bar-search-engine-provider/') :height(175) :preview
+media/8be509c5e099b6a83c29e2afae3a507498de32d9.jpg
+=for Image :width(247) :link('http://www.groovypost.com/howto/how-to/change-firefox-4-address-bar-search-engine-provider/') :height(175) :preview
+media/7bb099f37c2aac44b0d12b1c75118cea2919097e.jpg
+=for Image :width(375) :link('http://www.groovypost.com/howto/how-to/change-firefox-4-address-bar-search-engine-provider/') :height(163) :preview
+media/9f5fcbfa750a8d2fda864f21f87a491becc1162b.png
+
+=item about:config
+
+
+=end DESCRIPTION
+
+How to Change the Default Firefox 4 Search Engine #firefox4 - L<link|http://www.groovypost.com/howto/how-to/change-firefox-4-address-bar-search-engine-provider/>
+=for Image :width(191) :link('http://www.groovypost.com/howto/how-to/change-firefox-4-address-bar-search-engine-provider/') :height(175) :preview
+media/8be509c5e099b6a83c29e2afae3a507498de32d9.jpg
+=for Image :width(247) :link('http://www.groovypost.com/howto/how-to/change-firefox-4-address-bar-search-engine-provider/') :height(175) :preview
+media/7bb099f37c2aac44b0d12b1c75118cea2919097e.jpg
+=for Image :width(375) :link('http://www.groovypost.com/howto/how-to/change-firefox-4-address-bar-search-engine-provider/') :height(163) :preview
+media/9f5fcbfa750a8d2fda864f21f87a491becc1162b.png
+
+=item about:config
+
+
+=begin comment :src
+{
+  "body": "How to Change the Default Firefox 4 Search Engine <a href=\"http://friendfeed.com/search?q=%23firefox4\">#firefox4</a> - <a rel=\"nofollow\" href=\"http://www.groovypost.com/howto/how-to/change-firefox-4-address-bar-search-engine-provider/\" title=\"http://www.groovypost.com/howto/how-to/change-firefox-4-address-bar-search-engine-provider/\">http://www.groovypost.com/howto...</a>",
+  "likes": [
+    {
+      "date": "2011-05-25T14:36:32Z",
+      "from": {
+        "id": "mishin",
+        "type": "user",
+        "name": "Николай"
+      }
+    }
+  ],
+  "rawLink": "http://www.groovypost.com/howto/how-to/change-firefox-4-address-bar-search-engine-provider/",
+  "date": "2011-04-21T08:44:30Z",
+  "id": "e/1668dca696b04a57ba6622f165ac83e7",
+  "rawBody": "How to Change the Default Firefox 4 Search Engine #firefox4",
+  "url": "http://friendfeed.com/zag/1668dca6/how-to-change-default-firefox-4-search-engine",
+  "thumbnails": [
+    {
+      "height": 175,
+      "link": "http://www.groovypost.com/howto/how-to/change-firefox-4-address-bar-search-engine-provider/",
+      "url": "http://m.friendfeed-media.com/8be509c5e099b6a83c29e2afae3a507498de32d9",
+      "width": 191
+    },
+    {
+      "link": "http://www.groovypost.com/howto/how-to/change-firefox-4-address-bar-search-engine-provider/",
+      "height": 175,
+      "url": "http://m.friendfeed-media.com/7bb099f37c2aac44b0d12b1c75118cea2919097e",
+      "width": 247
+    },
+    {
+      "width": 375,
+      "url": "http://m.friendfeed-media.com/9f5fcbfa750a8d2fda864f21f87a491becc1162b",
+      "link": "http://www.groovypost.com/howto/how-to/change-firefox-4-address-bar-search-engine-provider/",
+      "height": 163
+    }
+  ],
+  "comments": [
+    {
+      "body": "about:config",
+      "id": "e/1668dca696b04a57ba6622f165ac83e7/c/5da34f64ad964886b7d4ad38b001914e",
+      "from": {
+        "type": "user",
+        "id": "zag",
+        "name": "углы «Исимуры»"
+      },
+      "date": "2011-04-21T08:44:30Z",
+      "rawBody": "about:config",
+      "via": {
+        "name": "Bookmarklet",
+        "url": "http://friendfeed.com/share/bookmarklet"
+      }
+    }
+  ],
+  "from": {
+    "name": "углы «Исимуры»",
+    "type": "user",
+    "id": "zag"
+  },
+  "via": {
+    "name": "Bookmarklet",
+    "url": "http://friendfeed.com/share/bookmarklet"
+  }
+}
+=end comment
+
+=end pod

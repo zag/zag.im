@@ -1,0 +1,58 @@
+=begin pod :pubdate('2010-08-23T08:15:40Z') :type<note> :tags<html5>
+=NAME Periodic table of the  #html5 Elements.
+
+=begin DESCRIPTION
+
+Periodic table of the  #html5 Elements. - L<link|http://joshduck.com/periodic-table.html>
+=for Image :width(306) :link('http://joshduck.com/periodic-table.html') :height(175) :preview
+media/1a18dc9a2c207df16b0555f010101dd93d803882.jpg
+
+
+
+=end DESCRIPTION
+
+Periodic table of the  #html5 Elements. - L<link|http://joshduck.com/periodic-table.html>
+=for Image :width(306) :link('http://joshduck.com/periodic-table.html') :height(175) :preview
+media/1a18dc9a2c207df16b0555f010101dd93d803882.jpg
+
+
+
+=begin comment :src
+{
+  "via": {
+    "url": "http://friendfeed.com/share/bookmarklet",
+    "name": "Bookmarklet"
+  },
+  "from": {
+    "name": "углы «Исимуры»",
+    "type": "user",
+    "id": "zag"
+  },
+  "id": "e/8642474106304b648d4b14b2faee968b",
+  "url": "http://friendfeed.com/zag/86424741/periodic-table-of-html5-elements",
+  "date": "2010-08-23T08:15:40Z",
+  "rawBody": "Periodic table of the  #html5 Elements.",
+  "thumbnails": [
+    {
+      "width": 306,
+      "url": "http://m.friendfeed-media.com/1a18dc9a2c207df16b0555f010101dd93d803882",
+      "link": "http://joshduck.com/periodic-table.html",
+      "height": 175
+    }
+  ],
+  "body": "Periodic table of the  <a href=\"http://friendfeed.com/search?q=%23html5\">#html5</a> Elements. - <a rel=\"nofollow\" href=\"http://joshduck.com/periodic-table.html\" title=\"http://joshduck.com/periodic-table.html\">http://joshduck.com/periodi...</a>",
+  "rawLink": "http://joshduck.com/periodic-table.html",
+  "likes": [
+    {
+      "date": "2010-09-02T11:30:48Z",
+      "from": {
+        "name": "Jemm",
+        "type": "user",
+        "id": "jemm"
+      }
+    }
+  ]
+}
+=end comment
+
+=end pod

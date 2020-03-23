@@ -1,0 +1,91 @@
+=begin pod :pubdate('2010-09-03T14:40:21Z') :type<note> :tags<mibf>
+=NAME Терминалы с полками книг - электронных#mibf
+
+=begin DESCRIPTION
+
+Терминалы с полками книг - электронных#mibf
+=for Image :width(233) :link('http://m.friendfeed-media.com/d09aa8996ec9aa051091192337fadb7efc66c19a') :height(175) :preview
+media/4ef0f0830e3e551cfca6288590a0d4577cf4edbd.jpg
+
+
+
+=end DESCRIPTION
+
+Терминалы с полками книг - электронных#mibf
+=for Image :width(233) :link('http://m.friendfeed-media.com/d09aa8996ec9aa051091192337fadb7efc66c19a') :height(175) :preview
+media/4ef0f0830e3e551cfca6288590a0d4577cf4edbd.jpg
+
+
+
+=begin comment :src
+{
+  "via": {
+    "url": "http://friendfeed.com/share/mail",
+    "name": "email"
+  },
+  "from": {
+    "name": "углы «Исимуры»",
+    "id": "zag",
+    "type": "user"
+  },
+  "rawBody": "Терминалы с полками книг - электронных#mibf",
+  "id": "e/72b0c9c07cb54d3ab433e3f18d83b087",
+  "date": "2010-09-03T14:40:21Z",
+  "url": "http://friendfeed.com/zag/72b0c9c0/mibf",
+  "thumbnails": [
+    {
+      "url": "http://m.friendfeed-media.com/4ef0f0830e3e551cfca6288590a0d4577cf4edbd",
+      "width": 233,
+      "link": "http://m.friendfeed-media.com/d09aa8996ec9aa051091192337fadb7efc66c19a",
+      "height": 175
+    }
+  ],
+  "body": "Терминалы с полками книг - электронных#mibf",
+  "rawLink": "http://friendfeed.com/e/72b0c9c0-7cb5-4d3a-b433-e3f18d83b087",
+  "likes": [
+    {
+      "from": {
+        "type": "user",
+        "id": "ispy",
+        "name": "Vladimir"
+      },
+      "date": "2010-09-04T12:53:08Z"
+    },
+    {
+      "from": {
+        "private": true,
+        "type": "user",
+        "id": "lavale",
+        "name": "слуги белку стерегут"
+      },
+      "date": "2010-09-03T16:13:37Z"
+    },
+    {
+      "from": {
+        "id": "teine",
+        "type": "user",
+        "name": "teinett"
+      },
+      "date": "2010-09-03T16:05:24Z"
+    },
+    {
+      "date": "2010-09-03T15:41:44Z",
+      "from": {
+        "name": "alex@kapranoff.ru",
+        "type": "user",
+        "id": "kkapp"
+      }
+    },
+    {
+      "from": {
+        "name": "Dmitriy Olerinskiy",
+        "type": "user",
+        "id": "menelvagor"
+      },
+      "date": "2010-09-03T14:40:45Z"
+    }
+  ]
+}
+=end comment
+
+=end pod

@@ -1,0 +1,48 @@
+=begin pod :pubdate('2010-08-21T13:58:27Z') :type<note> 
+=NAME Кунскамера
+
+=begin DESCRIPTION
+
+Кунскамера
+=for Image :width(233) :link('http://m.friendfeed-media.com/fae324ff3cdc2605cab6d1d651f700614b39f27f') :height(175) :preview
+media/694245fa2c65ce6a85e43ffa1d38300662e1a2a0.jpg
+
+
+
+=end DESCRIPTION
+
+Кунскамера
+=for Image :width(233) :link('http://m.friendfeed-media.com/fae324ff3cdc2605cab6d1d651f700614b39f27f') :height(175) :preview
+media/694245fa2c65ce6a85e43ffa1d38300662e1a2a0.jpg
+
+
+
+=begin comment :src
+{
+  "from": {
+    "id": "zag",
+    "type": "user",
+    "name": "углы «Исимуры»"
+  },
+  "via": {
+    "url": "http://friendfeed.com/share/mail",
+    "name": "email"
+  },
+  "rawLink": "http://friendfeed.com/e/f03379b3-a29a-4848-bf4c-b4d95bedac4f",
+  "body": "Кунскамера",
+  "id": "e/f03379b3a29a4848bf4cb4d95bedac4f",
+  "date": "2010-08-21T13:58:27Z",
+  "rawBody": "Кунскамера",
+  "url": "http://friendfeed.com/zag/f03379b3",
+  "thumbnails": [
+    {
+      "url": "http://m.friendfeed-media.com/694245fa2c65ce6a85e43ffa1d38300662e1a2a0",
+      "width": 233,
+      "height": 175,
+      "link": "http://m.friendfeed-media.com/fae324ff3cdc2605cab6d1d651f700614b39f27f"
+    }
+  ]
+}
+=end comment
+
+=end pod

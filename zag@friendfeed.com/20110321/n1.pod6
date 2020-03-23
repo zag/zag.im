@@ -1,0 +1,36 @@
+=begin pod :pubdate('2011-03-21T05:29:25Z') :type<note> 
+=NAME RT @davewiner: "REST is a nice dream. But I'm not personally a fan." http://r2.ly/8gza
+
+=begin DESCRIPTION
+
+RT @davewiner: "REST is a nice dream. But I'm not personally a fan." http://r2.ly/8gza - L<link|http://twitter.com/zagru/statuses/49704142796619776>
+
+
+
+=end DESCRIPTION
+
+RT @davewiner: "REST is a nice dream. But I'm not personally a fan." http://r2.ly/8gza - L<link|http://twitter.com/zagru/statuses/49704142796619776>
+
+
+
+=begin comment :src
+{
+  "id": "e/1cccf3df6d397464ff5e4b9fe848bedc",
+  "rawBody": "RT @davewiner: \"REST is a nice dream. But I'm not personally a fan.\" http://r2.ly/8gza",
+  "date": "2011-03-21T05:29:25Z",
+  "url": "http://friendfeed.com/zag/1cccf3df/rt-davewiner-rest-is-nice-dream-but-i-m-not",
+  "body": "RT @<a rel=\"nofollow\" href=\"http://twitter.com/davewiner\">davewiner</a>: &quot;REST is a nice dream. But I'm not personally a fan.&quot; <a rel=\"nofollow\" href=\"http://r2.ly/8gza\" title=\"http://blog.movieos.org/post/3979010061\">http://blog.movieos.org/post...</a>",
+  "rawLink": "http://twitter.com/zagru/statuses/49704142796619776",
+  "from": {
+    "id": "zag",
+    "type": "user",
+    "name": "углы «Исимуры»"
+  },
+  "via": {
+    "url": "http://twitter.com/zagru/statuses/49704142796619776",
+    "name": "Twitter"
+  }
+}
+=end comment
+
+=end pod

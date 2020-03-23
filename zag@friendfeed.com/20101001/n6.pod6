@@ -1,0 +1,93 @@
+=begin pod :pubdate('2010-10-01T08:46:28Z') :type<note> :tags<yac2010>
+=NAME freebsd - лидирующая ос в яндекс #yac2010
+
+=begin DESCRIPTION
+
+freebsd - лидирующая ос в яндекс #yac2010
+
+=item приятно.
+
+
+=end DESCRIPTION
+
+freebsd - лидирующая ос в яндекс #yac2010
+
+=item приятно.
+
+
+=begin comment :src
+{
+  "likes": [
+    {
+      "date": "2010-10-01T16:44:09Z",
+      "from": {
+        "type": "user",
+        "id": "mitry",
+        "name": "✓ mitry"
+      }
+    },
+    {
+      "date": "2010-10-01T09:44:04Z",
+      "from": {
+        "name": "woof",
+        "type": "user",
+        "id": "woof"
+      }
+    },
+    {
+      "date": "2010-10-01T09:09:19Z",
+      "from": {
+        "name": "citrin",
+        "type": "user",
+        "id": "citrin"
+      }
+    },
+    {
+      "from": {
+        "name": "рептильный дом",
+        "id": "blacklion",
+        "type": "user"
+      },
+      "date": "2010-10-01T08:49:08Z"
+    },
+    {
+      "from": {
+        "name": "alex@kapranoff.ru",
+        "id": "kkapp",
+        "type": "user"
+      },
+      "date": "2010-10-01T08:47:43Z"
+    }
+  ],
+  "rawLink": "http://friendfeed.com/e/a634236c-fb94-4690-9e4c-6c351165d20b",
+  "body": "freebsd - лидирующая ос в яндекс <a href=\"http://friendfeed.com/search?q=%23yac2010\">#yac2010</a>",
+  "date": "2010-10-01T08:46:28Z",
+  "id": "e/a634236cfb9446909e4c6c351165d20b",
+  "rawBody": "freebsd - лидирующая ос в яндекс #yac2010",
+  "url": "http://friendfeed.com/zag/a634236c/freebsd-yac2010",
+  "comments": [
+    {
+      "body": "приятно.",
+      "id": "e/a634236cfb9446909e4c6c351165d20b/c/d7ce0030e66440a0a3da375c75c4771a",
+      "rawBody": "приятно.",
+      "date": "2010-10-01T08:47:53Z",
+      "from": {
+        "type": "user",
+        "id": "kkapp",
+        "name": "alex@kapranoff.ru"
+      }
+    }
+  ],
+  "from": {
+    "type": "user",
+    "id": "zag",
+    "name": "углы «Исимуры»"
+  },
+  "via": {
+    "url": "http://friendfeed.com/about/im",
+    "name": "IM"
+  }
+}
+=end comment
+
+=end pod

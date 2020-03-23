@@ -1,0 +1,44 @@
+=begin pod :pubdate('2010-11-10T10:25:21Z') :type<note> 
+=NAME Invader hunting season (via http://ff.im/ttNtI)
+
+=begin DESCRIPTION
+
+Invader hunting season (via http://ff.im/ttNtI)
+=for Image :width(130) :link('http://m.friendfeed-media.com/70c6d84017061cfb78ce9605d7e47df47d8db666') :height(175) :preview
+media/8c5a42fc46e674c2720a527457ff75f5672ccb7a.jpg
+
+
+
+=end DESCRIPTION
+
+Invader hunting season (via http://ff.im/ttNtI)
+=for Image :width(130) :link('http://m.friendfeed-media.com/70c6d84017061cfb78ce9605d7e47df47d8db666') :height(175) :preview
+media/8c5a42fc46e674c2720a527457ff75f5672ccb7a.jpg
+
+
+
+=begin comment :src
+{
+  "id": "e/81b09e622ed4412cb0db27397b1fb836",
+  "date": "2010-11-10T10:25:21Z",
+  "url": "http://friendfeed.com/zag/81b09e62/invader-hunting-season-via",
+  "rawBody": "Invader hunting season (via http://ff.im/ttNtI)",
+  "thumbnails": [
+    {
+      "height": 175,
+      "link": "http://m.friendfeed-media.com/70c6d84017061cfb78ce9605d7e47df47d8db666",
+      "width": 130,
+      "url": "http://m.friendfeed-media.com/8c5a42fc46e674c2720a527457ff75f5672ccb7a"
+    }
+  ],
+  "body": "Invader hunting season (via <a href=\"http://ff.im/ttNtI\" title=\"http://friendfeed.com/funny-pics-videos/b1b2c30c/invader-hunting-season\">http://friendfeed.com/funny-p...</a>)",
+  "rawLink": "http://friendfeed.com/e/81b09e62-2ed4-412c-b0db-27397b1fb836",
+  "from": {
+    "name": "углы «Исимуры»",
+    "type": "user",
+    "id": "zag"
+  }
+}
+=end comment
+
+=end pod

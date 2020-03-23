@@ -1,0 +1,32 @@
+=begin pod :pubdate('2011-06-04T16:33:34Z') :type<note> :tags<perl>
+=NAME POD - Plain Old Documentation format. Perl 6 Pod - просто Pod. #perl
+
+=begin DESCRIPTION
+
+POD - Plain Old Documentation format. Perl 6 Pod - просто Pod. #perl
+
+
+
+=end DESCRIPTION
+
+POD - Plain Old Documentation format. Perl 6 Pod - просто Pod. #perl
+
+
+
+=begin comment :src
+{
+  "body": "POD - Plain Old Documentation format. Perl 6 Pod - просто Pod. <a href=\"http://friendfeed.com/search?q=%23perl\">#perl</a>",
+  "rawLink": "http://friendfeed.com/e/f7df2d88-f01b-495c-b285-9c1210156986",
+  "url": "http://friendfeed.com/zag/f7df2d88/pod-plain-old-documentation-format-perl-6",
+  "id": "e/f7df2d88f01b495cb2859c1210156986",
+  "date": "2011-06-04T16:33:34Z",
+  "rawBody": "POD - Plain Old Documentation format. Perl 6 Pod - просто Pod. #perl",
+  "from": {
+    "name": "углы «Исимуры»",
+    "id": "zag",
+    "type": "user"
+  }
+}
+=end comment
+
+=end pod

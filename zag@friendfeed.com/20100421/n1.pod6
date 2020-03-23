@@ -1,0 +1,54 @@
+=begin pod :pubdate('2010-04-21T11:04:21Z') :type<note> :tags<html5>
+=NAME Click video to blow it up! #html5 http://craftymind.com/factory/html5video/CanvasVideo.html
+
+=begin DESCRIPTION
+
+Click video to blow it up! #html5 http://craftymind.com/factory/html5video/CanvasVideo.html
+=for Image :width(158) :link('http://m.friendfeed-media.com/bedf2a9b98392e7966213a97329d0b0f091a2bc7') :height(126) :preview
+media/2d93a69856c298f337056c5ba7d5cfdacdf94d6e.jpg
+=for Image :width(118) :link('http://m.friendfeed-media.com/42ae5c744361907b70b74a84c3b55b86d55c45b5') :height(95) :preview
+media/98a1f0525bd4b931b56d0431ea71f50766ab5c07.jpg
+
+
+
+=end DESCRIPTION
+
+Click video to blow it up! #html5 http://craftymind.com/factory/html5video/CanvasVideo.html
+=for Image :width(158) :link('http://m.friendfeed-media.com/bedf2a9b98392e7966213a97329d0b0f091a2bc7') :height(126) :preview
+media/2d93a69856c298f337056c5ba7d5cfdacdf94d6e.jpg
+=for Image :width(118) :link('http://m.friendfeed-media.com/42ae5c744361907b70b74a84c3b55b86d55c45b5') :height(95) :preview
+media/98a1f0525bd4b931b56d0431ea71f50766ab5c07.jpg
+
+
+
+=begin comment :src
+{
+  "rawBody": "Click video to blow it up! #html5 http://craftymind.com/factory/html5video/CanvasVideo.html",
+  "id": "e/8f964390d0374a428c09648455ca552e",
+  "date": "2010-04-21T11:04:21Z",
+  "url": "http://friendfeed.com/zag/8f964390/click-video-to-blow-it-up-html5",
+  "thumbnails": [
+    {
+      "height": 126,
+      "link": "http://m.friendfeed-media.com/bedf2a9b98392e7966213a97329d0b0f091a2bc7",
+      "url": "http://m.friendfeed-media.com/2d93a69856c298f337056c5ba7d5cfdacdf94d6e",
+      "width": 158
+    },
+    {
+      "url": "http://m.friendfeed-media.com/98a1f0525bd4b931b56d0431ea71f50766ab5c07",
+      "width": 118,
+      "link": "http://m.friendfeed-media.com/42ae5c744361907b70b74a84c3b55b86d55c45b5",
+      "height": 95
+    }
+  ],
+  "rawLink": "http://friendfeed.com/e/8f964390-d037-4a42-8c09-648455ca552e",
+  "body": "Click video to blow it up! <a href=\"http://friendfeed.com/search?q=%23html5\">#html5</a> <a rel=\"nofollow\" href=\"http://craftymind.com/factory/html5video/CanvasVideo.html\" title=\"http://craftymind.com/factory/html5video/CanvasVideo.html\">http://craftymind.com/factory...</a>",
+  "from": {
+    "id": "zag",
+    "type": "user",
+    "name": "углы «Исимуры»"
+  }
+}
+=end comment
+
+=end pod

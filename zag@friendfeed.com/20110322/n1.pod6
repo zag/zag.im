@@ -1,0 +1,87 @@
+=begin pod :pubdate('2011-03-22T20:08:30Z') :type<note> 
+=NAME Панама. У водителя остается щель сантиметров в 20 на лобовом стекле.
+
+=begin DESCRIPTION
+
+Панама. У водителя остается щель сантиметров в 20 на лобовом стекле. - L<link|http://www.tema.ru/travel/panama/>
+=for Image :width(262) :link('http://www.tema.ru/travel/panama/') :height(175) :preview
+media/2b18743658ae139744ce84fac83210aec41927f2.jpg
+=for Image :width(262) :link('http://www.tema.ru/travel/panama/') :height(175) :preview
+media/f6b34555de6344e39d2a4673f90e8b25e712147a.jpg
+=for Image :width(262) :link('http://www.tema.ru/travel/panama/') :height(175) :preview
+media/cc7bfd9bd265c736911155d59675e64be4d8eba0.jpg
+
+=item Кипит жизнь, строятся небоскребы, кранами в них поднимают пальмы.
+
+
+=end DESCRIPTION
+
+Панама. У водителя остается щель сантиметров в 20 на лобовом стекле. - L<link|http://www.tema.ru/travel/panama/>
+=for Image :width(262) :link('http://www.tema.ru/travel/panama/') :height(175) :preview
+media/2b18743658ae139744ce84fac83210aec41927f2.jpg
+=for Image :width(262) :link('http://www.tema.ru/travel/panama/') :height(175) :preview
+media/f6b34555de6344e39d2a4673f90e8b25e712147a.jpg
+=for Image :width(262) :link('http://www.tema.ru/travel/panama/') :height(175) :preview
+media/cc7bfd9bd265c736911155d59675e64be4d8eba0.jpg
+
+=item Кипит жизнь, строятся небоскребы, кранами в них поднимают пальмы.
+
+
+=begin comment :src
+{
+  "id": "e/4541d62e54854a77a6953b24a446920a",
+  "date": "2011-03-22T20:08:30Z",
+  "thumbnails": [
+    {
+      "link": "http://www.tema.ru/travel/panama/",
+      "height": 175,
+      "url": "http://m.friendfeed-media.com/2b18743658ae139744ce84fac83210aec41927f2",
+      "width": 262
+    },
+    {
+      "url": "http://m.friendfeed-media.com/f6b34555de6344e39d2a4673f90e8b25e712147a",
+      "width": 262,
+      "link": "http://www.tema.ru/travel/panama/",
+      "height": 175
+    },
+    {
+      "height": 175,
+      "link": "http://www.tema.ru/travel/panama/",
+      "url": "http://m.friendfeed-media.com/cc7bfd9bd265c736911155d59675e64be4d8eba0",
+      "width": 262
+    }
+  ],
+  "rawBody": "Панама. У водителя остается щель сантиметров в 20 на лобовом стекле.",
+  "url": "http://friendfeed.com/zag/4541d62e/20",
+  "body": "Панама. У водителя остается щель сантиметров в 20 на лобовом стекле. - <a rel=\"nofollow\" href=\"http://www.tema.ru/travel/panama/\" title=\"http://www.tema.ru/travel/panama/\">http://www.tema.ru/travel...</a>",
+  "rawLink": "http://www.tema.ru/travel/panama/",
+  "from": {
+    "id": "zag",
+    "type": "user",
+    "name": "углы «Исимуры»"
+  },
+  "via": {
+    "name": "Bookmarklet",
+    "url": "http://friendfeed.com/share/bookmarklet"
+  },
+  "comments": [
+    {
+      "via": {
+        "name": "Bookmarklet",
+        "url": "http://friendfeed.com/share/bookmarklet"
+      },
+      "date": "2011-03-22T20:08:30Z",
+      "id": "e/4541d62e54854a77a6953b24a446920a/c/33a0fd3d666a4bc0ada1e87aa476cbd1",
+      "rawBody": "Кипит жизнь, строятся небоскребы, кранами в них поднимают пальмы.",
+      "from": {
+        "name": "углы «Исимуры»",
+        "id": "zag",
+        "type": "user"
+      },
+      "body": "Кипит жизнь, строятся небоскребы, кранами в них поднимают пальмы."
+    }
+  ]
+}
+=end comment
+
+=end pod

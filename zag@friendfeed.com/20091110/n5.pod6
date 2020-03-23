@@ -1,0 +1,36 @@
+=begin pod :pubdate('2009-11-10T05:10:50Z') :type<note> 
+=NAME Обзавелся собственным tinyurl: http://o.zag.ru/
+
+=begin DESCRIPTION
+
+Обзавелся собственным tinyurl: http://o.zag.ru/ - L<link|http://twitter.com/zagru/statuses/5581063797>
+
+
+
+=end DESCRIPTION
+
+Обзавелся собственным tinyurl: http://o.zag.ru/ - L<link|http://twitter.com/zagru/statuses/5581063797>
+
+
+
+=begin comment :src
+{
+  "via": {
+    "name": "Twitter",
+    "url": "http://twitter.com/zagru/statuses/5581063797"
+  },
+  "from": {
+    "type": "user",
+    "id": "zag",
+    "name": "углы «Исимуры»"
+  },
+  "rawLink": "http://twitter.com/zagru/statuses/5581063797",
+  "body": "Обзавелся собственным tinyurl: <a rel=\"nofollow\" href=\"http://o.zag.ru/\" title=\"https://www.google.com/a/zag.ru/ServiceLogin?service=ah&amp;passive=true&amp;continue=http://o.zag.ru/_ah/login%3Fcontinue%3Dhttp://o.zag.ru/a/zag.ru%253Fcontinue%253Dhttp%25253A//o.zag.ru/&amp;ltmpl=ga&amp;ahname=Google+Short+Links&amp;sig=2198c5ea13eb8b11407fcf24e48aac63\">https://www.google.com/a...</a>",
+  "url": "http://friendfeed.com/zag/9b9e7fdb/tinyurl",
+  "id": "e/9b9e7fdb1b468227a5e34204bdb09fd8",
+  "date": "2009-11-10T05:10:50Z",
+  "rawBody": "Обзавелся собственным tinyurl: http://o.zag.ru/"
+}
+=end comment
+
+=end pod

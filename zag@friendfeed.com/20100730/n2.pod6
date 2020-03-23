@@ -1,0 +1,44 @@
+=begin pod :pubdate('2010-07-30T09:24:11Z') :type<note> 
+=NAME С наступающим SysAdmin day ! Ну вот и появился повод попить пива !
+
+=begin DESCRIPTION
+
+С наступающим SysAdmin day ! Ну вот и появился повод попить пива !
+=for Image :width(137) :link('http://m.friendfeed-media.com/769456521b8e01db24b1116752cb80fb1bfc1593') :height(175) :preview
+media/c2e409daeb49ece6f70f3d6cd7616d93994edce2.jpg
+
+
+
+=end DESCRIPTION
+
+С наступающим SysAdmin day ! Ну вот и появился повод попить пива !
+=for Image :width(137) :link('http://m.friendfeed-media.com/769456521b8e01db24b1116752cb80fb1bfc1593') :height(175) :preview
+media/c2e409daeb49ece6f70f3d6cd7616d93994edce2.jpg
+
+
+
+=begin comment :src
+{
+  "from": {
+    "id": "zag",
+    "type": "user",
+    "name": "углы «Исимуры»"
+  },
+  "id": "e/668f47cc15bf4b1fb5b061633167c611",
+  "date": "2010-07-30T09:24:11Z",
+  "rawBody": "С наступающим SysAdmin day ! Ну вот и появился повод попить пива !",
+  "url": "http://friendfeed.com/zag/668f47cc/sysadmin-day",
+  "thumbnails": [
+    {
+      "url": "http://m.friendfeed-media.com/c2e409daeb49ece6f70f3d6cd7616d93994edce2",
+      "width": 137,
+      "height": 175,
+      "link": "http://m.friendfeed-media.com/769456521b8e01db24b1116752cb80fb1bfc1593"
+    }
+  ],
+  "body": "С наступающим SysAdmin day ! Ну вот и появился повод попить пива !",
+  "rawLink": "http://friendfeed.com/e/668f47cc-15bf-4b1f-b5b0-61633167c611"
+}
+=end comment
+
+=end pod

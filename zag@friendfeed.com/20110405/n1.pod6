@@ -1,0 +1,32 @@
+=begin pod :pubdate('2011-04-05T17:05:11Z') :type<note> :tags<yasmn>
+=NAME Наилучшая мотивация для творческих людей: цель, автономность, мастерство #yasmn
+
+=begin DESCRIPTION
+
+Наилучшая мотивация для творческих людей: цель, автономность, мастерство #yasmn
+
+
+
+=end DESCRIPTION
+
+Наилучшая мотивация для творческих людей: цель, автономность, мастерство #yasmn
+
+
+
+=begin comment :src
+{
+  "body": "Наилучшая мотивация для творческих людей: цель, автономность, мастерство <a href=\"http://friendfeed.com/search?q=%23yasmn\">#yasmn</a>",
+  "rawLink": "http://friendfeed.com/e/a3c73fe4-c4ec-4cf4-bb91-36198ec97e4c",
+  "id": "e/a3c73fe4c4ec4cf4bb9136198ec97e4c",
+  "date": "2011-04-05T17:05:11Z",
+  "rawBody": "Наилучшая мотивация для творческих людей: цель, автономность, мастерство #yasmn",
+  "url": "http://friendfeed.com/zag/a3c73fe4/yasmn",
+  "from": {
+    "name": "углы «Исимуры»",
+    "type": "user",
+    "id": "zag"
+  }
+}
+=end comment
+
+=end pod

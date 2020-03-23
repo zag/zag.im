@@ -1,0 +1,48 @@
+=begin pod :pubdate('2011-07-01T18:26:24Z') :type<note> :tags<lvee>
+=NAME Модифициронный Scrum от алакреон #lvee От 2 месячного цикла к 2 недельным релизам
+
+=begin DESCRIPTION
+
+Модифициронный Scrum от алакреон #lvee От 2 месячного цикла к 2 недельным релизам
+=for Image :width(292) :link('http://m.friendfeed-media.com/257c81a77990ce2bda5a66556b750aa93ab090c6') :height(175) :preview
+media/fb84ca6a22a51d97288ea96d5a429470771ce31a.jpg
+
+
+
+=end DESCRIPTION
+
+Модифициронный Scrum от алакреон #lvee От 2 месячного цикла к 2 недельным релизам
+=for Image :width(292) :link('http://m.friendfeed-media.com/257c81a77990ce2bda5a66556b750aa93ab090c6') :height(175) :preview
+media/fb84ca6a22a51d97288ea96d5a429470771ce31a.jpg
+
+
+
+=begin comment :src
+{
+  "via": {
+    "url": "http://friendfeed.com/share/mail",
+    "name": "email"
+  },
+  "from": {
+    "name": "углы «Исимуры»",
+    "type": "user",
+    "id": "zag"
+  },
+  "id": "e/d31b8d94ccfc4c0ea455d2f50f8010c9",
+  "thumbnails": [
+    {
+      "url": "http://m.friendfeed-media.com/fb84ca6a22a51d97288ea96d5a429470771ce31a",
+      "width": 292,
+      "link": "http://m.friendfeed-media.com/257c81a77990ce2bda5a66556b750aa93ab090c6",
+      "height": 175
+    }
+  ],
+  "date": "2011-07-01T18:26:24Z",
+  "rawBody": "Модифициронный Scrum от алакреон #lvee От 2 месячного цикла к 2 недельным релизам",
+  "url": "http://friendfeed.com/zag/d31b8d94/scrum-lvee-2",
+  "rawLink": "http://friendfeed.com/e/d31b8d94-ccfc-4c0e-a455-d2f50f8010c9",
+  "body": "Модифициронный Scrum от алакреон <a href=\"http://friendfeed.com/search?q=%23lvee\">#lvee</a> От 2 месячного цикла к 2 недельным релизам"
+}
+=end comment
+
+=end pod

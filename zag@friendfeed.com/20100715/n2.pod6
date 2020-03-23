@@ -1,0 +1,68 @@
+=begin pod :pubdate('2010-07-15T09:38:23Z') :type<note> 
+=NAME Театральное представление в метро на тему звездных войн
+
+=begin DESCRIPTION
+
+Театральное представление в метро на тему звездных войн - L<link|http://improveverywhere.com/2010/07/14/star-wars-subway-car/>
+=for Image :width(262) :link('http://improveverywhere.com/2010/07/14/star-wars-subway-car/') :height(175) :preview
+media/808d3c1269fd8b272a575f203137e90eb7834835.jpg
+=for Image :width(260) :link('http://improveverywhere.com/2010/07/14/star-wars-subway-car/') :height(175) :preview
+media/2a3f9e8f38c1b87f83029cf6289185685d84c0f4.jpg
+=for Image :width(233) :link('http://improveverywhere.com/2010/07/14/star-wars-subway-car/') :height(175) :preview
+media/60a4f7620dcf3c505da369d6490da3ac9c0edcd7.jpg
+
+
+
+=end DESCRIPTION
+
+Театральное представление в метро на тему звездных войн - L<link|http://improveverywhere.com/2010/07/14/star-wars-subway-car/>
+=for Image :width(262) :link('http://improveverywhere.com/2010/07/14/star-wars-subway-car/') :height(175) :preview
+media/808d3c1269fd8b272a575f203137e90eb7834835.jpg
+=for Image :width(260) :link('http://improveverywhere.com/2010/07/14/star-wars-subway-car/') :height(175) :preview
+media/2a3f9e8f38c1b87f83029cf6289185685d84c0f4.jpg
+=for Image :width(233) :link('http://improveverywhere.com/2010/07/14/star-wars-subway-car/') :height(175) :preview
+media/60a4f7620dcf3c505da369d6490da3ac9c0edcd7.jpg
+
+
+
+=begin comment :src
+{
+  "via": {
+    "name": "Bookmarklet",
+    "url": "http://friendfeed.com/share/bookmarklet"
+  },
+  "from": {
+    "type": "user",
+    "id": "zag",
+    "name": "углы «Исимуры»"
+  },
+  "rawLink": "http://improveverywhere.com/2010/07/14/star-wars-subway-car/",
+  "body": "Театральное представление в метро на тему звездных войн - <a rel=\"nofollow\" href=\"http://improveverywhere.com/2010/07/14/star-wars-subway-car/\" title=\"http://improveverywhere.com/2010/07/14/star-wars-subway-car/\">http://improveverywhere.com/2010...</a>",
+  "date": "2010-07-15T09:38:23Z",
+  "id": "e/209f12f4086a456dbf1cfd47efa20206",
+  "url": "http://friendfeed.com/zag/209f12f4",
+  "rawBody": "Театральное представление в метро на тему звездных войн",
+  "thumbnails": [
+    {
+      "height": 175,
+      "link": "http://improveverywhere.com/2010/07/14/star-wars-subway-car/",
+      "url": "http://m.friendfeed-media.com/808d3c1269fd8b272a575f203137e90eb7834835",
+      "width": 262
+    },
+    {
+      "height": 175,
+      "link": "http://improveverywhere.com/2010/07/14/star-wars-subway-car/",
+      "width": 260,
+      "url": "http://m.friendfeed-media.com/2a3f9e8f38c1b87f83029cf6289185685d84c0f4"
+    },
+    {
+      "link": "http://improveverywhere.com/2010/07/14/star-wars-subway-car/",
+      "height": 175,
+      "url": "http://m.friendfeed-media.com/60a4f7620dcf3c505da369d6490da3ac9c0edcd7",
+      "width": 233
+    }
+  ]
+}
+=end comment
+
+=end pod

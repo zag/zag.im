@@ -1,0 +1,75 @@
+=begin pod :pubdate('2011-03-06T07:33:27Z') :type<note> 
+=NAME 8 bit
+
+=begin DESCRIPTION
+
+8 bit
+=for Image :width(200) :link('http://m.friendfeed-media.com/7da8c7f5ce88f5a891b49028a7218cb6f4ced9ce') :height(175) :preview
+media/b49d0a7fc4d09bf9b61dc0755b23f1b80368bff8.jpg
+
+
+
+=end DESCRIPTION
+
+8 bit
+=for Image :width(200) :link('http://m.friendfeed-media.com/7da8c7f5ce88f5a891b49028a7218cb6f4ced9ce') :height(175) :preview
+media/b49d0a7fc4d09bf9b61dc0755b23f1b80368bff8.jpg
+
+
+
+=begin comment :src
+{
+  "url": "http://friendfeed.com/funny-pics-videos/a1ae2166/8-bit",
+  "id": "e/a1ae216632ff43b6826baa04491663bf",
+  "date": "2011-03-06T07:33:27Z",
+  "rawBody": "8 bit",
+  "thumbnails": [
+    {
+      "link": "http://m.friendfeed-media.com/7da8c7f5ce88f5a891b49028a7218cb6f4ced9ce",
+      "height": 175,
+      "width": 200,
+      "url": "http://m.friendfeed-media.com/b49d0a7fc4d09bf9b61dc0755b23f1b80368bff8"
+    }
+  ],
+  "body": "8 bit",
+  "to": [
+    {
+      "name": "углы's feed",
+      "type": "user",
+      "id": "zag"
+    },
+    {
+      "name": "Funny Pics and Videos",
+      "id": "funny-pics-videos",
+      "type": "group"
+    }
+  ],
+  "rawLink": "http://friendfeed.com/e/a1ae2166-32ff-43b6-826b-aa04491663bf",
+  "likes": [
+    {
+      "date": "2011-03-06T09:47:31Z",
+      "from": {
+        "name": "Jemm",
+        "type": "user",
+        "id": "jemm"
+      }
+    },
+    {
+      "from": {
+        "type": "user",
+        "id": "bemick",
+        "private": true,
+        "name": "Brian"
+      },
+      "date": "2011-03-06T09:32:36Z"
+    }
+  ],
+  "from": {
+    "id": "zag",
+    "type": "user",
+    "name": "углы «Исимуры»"
+  }
+}
+=end comment
+
+=end pod

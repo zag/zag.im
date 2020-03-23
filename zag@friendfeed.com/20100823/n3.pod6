@@ -1,0 +1,44 @@
+=begin pod :pubdate('2010-08-23T07:48:19Z') :type<note> 
+=NAME Fwd: Architecture - MonoDroid - http://monodroid.net/Documentation/Architecture# (via http://ff.im/py8CJ)
+
+=begin DESCRIPTION
+
+Fwd: Architecture - MonoDroid - http://monodroid.net/Documentation/Architecture# (via http://ff.im/py8CJ)
+=for Image :width(382) :link('http://monodroid.net/Documentation/Architecture#') :height(175) :preview
+media/fc4ab826bbf42dadbd93cb7c3ec4a6e510df4a99.jpg
+
+
+
+=end DESCRIPTION
+
+Fwd: Architecture - MonoDroid - http://monodroid.net/Documentation/Architecture# (via http://ff.im/py8CJ)
+=for Image :width(382) :link('http://monodroid.net/Documentation/Architecture#') :height(175) :preview
+media/fc4ab826bbf42dadbd93cb7c3ec4a6e510df4a99.jpg
+
+
+
+=begin comment :src
+{
+  "date": "2010-08-23T07:48:19Z",
+  "id": "e/f336c4e93ad1453d87fda54676b69a50",
+  "rawBody": "Fwd: Architecture - MonoDroid - http://monodroid.net/Documentation/Architecture# (via http://ff.im/py8CJ)",
+  "url": "http://friendfeed.com/zag/f336c4e9/fwd-architecture-monodroid-via",
+  "thumbnails": [
+    {
+      "height": 175,
+      "link": "http://monodroid.net/Documentation/Architecture#",
+      "url": "http://m.friendfeed-media.com/fc4ab826bbf42dadbd93cb7c3ec4a6e510df4a99",
+      "width": 382
+    }
+  ],
+  "rawLink": "http://friendfeed.com/e/f336c4e9-3ad1-453d-87fd-a54676b69a50",
+  "body": "Fwd: Architecture - MonoDroid - <a rel=\"nofollow\" href=\"http://monodroid.net/Documentation/Architecture#\" title=\"http://monodroid.net/Documentation/Architecture#\">http://monodroid.net/Documen...</a> (via <a href=\"http://ff.im/py8CJ\" title=\"http://friendfeed.com/tonakai/306e8ee4/architecture-monodroid\">http://friendfeed.com/tonakai...</a>)",
+  "from": {
+    "name": "углы «Исимуры»",
+    "id": "zag",
+    "type": "user"
+  }
+}
+=end comment
+
+=end pod

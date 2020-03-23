@@ -1,0 +1,44 @@
+=begin pod :pubdate('2010-11-09T10:12:46Z') :type<note> 
+=NAME Swing to the Dark Side (via http://ff.im/tq0hV)
+
+=begin DESCRIPTION
+
+Swing to the Dark Side (via http://ff.im/tq0hV)
+=for Image :width(233) :link('http://m.friendfeed-media.com/bde9b550252cabd02c3779541a61d601f014a470') :height(175) :preview
+media/7adc7ee49cd276870e25c7fa1c0345263ed8e470.jpg
+
+
+
+=end DESCRIPTION
+
+Swing to the Dark Side (via http://ff.im/tq0hV)
+=for Image :width(233) :link('http://m.friendfeed-media.com/bde9b550252cabd02c3779541a61d601f014a470') :height(175) :preview
+media/7adc7ee49cd276870e25c7fa1c0345263ed8e470.jpg
+
+
+
+=begin comment :src
+{
+  "rawLink": "http://friendfeed.com/e/9b63b5ed-6373-4ca0-b9f9-d6efc779d11c",
+  "body": "Swing to the Dark Side (via <a href=\"http://ff.im/tq0hV\" title=\"http://friendfeed.com/funny-pics-videos/5773456e/swing-to-dark-side\">http://friendfeed.com/funny-p...</a>)",
+  "id": "e/9b63b5ed63734ca0b9f9d6efc779d11c",
+  "url": "http://friendfeed.com/zag/9b63b5ed/swing-to-dark-side-via",
+  "date": "2010-11-09T10:12:46Z",
+  "rawBody": "Swing to the Dark Side (via http://ff.im/tq0hV)",
+  "thumbnails": [
+    {
+      "link": "http://m.friendfeed-media.com/bde9b550252cabd02c3779541a61d601f014a470",
+      "height": 175,
+      "url": "http://m.friendfeed-media.com/7adc7ee49cd276870e25c7fa1c0345263ed8e470",
+      "width": 233
+    }
+  ],
+  "from": {
+    "type": "user",
+    "id": "zag",
+    "name": "углы «Исимуры»"
+  }
+}
+=end comment
+
+=end pod

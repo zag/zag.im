@@ -1,0 +1,36 @@
+=begin pod :pubdate('2012-02-10T08:46:36Z') :type<note> :tags<lvee>
+=NAME Программа #lvee http://t.co/sR2OrO5u http://t.co/e5vUDUT9
+
+=begin DESCRIPTION
+
+Программа #lvee http://t.co/sR2OrO5u http://t.co/e5vUDUT9 - L<link|http://twitter.com/zagru/statuses/167892207611805696>
+
+
+
+=end DESCRIPTION
+
+Программа #lvee http://t.co/sR2OrO5u http://t.co/e5vUDUT9 - L<link|http://twitter.com/zagru/statuses/167892207611805696>
+
+
+
+=begin comment :src
+{
+  "from": {
+    "name": "углы «Исимуры»",
+    "id": "zag",
+    "type": "user"
+  },
+  "via": {
+    "name": "Twitter",
+    "url": "http://twitter.com/zagru/statuses/167892207611805696"
+  },
+  "id": "e/a71340e013e4ef1942079ebf5d57e9e6",
+  "date": "2012-02-10T08:46:36Z",
+  "rawBody": "Программа #lvee http://t.co/sR2OrO5u http://t.co/e5vUDUT9",
+  "url": "http://friendfeed.com/zag/a71340e0/lvee",
+  "body": "Программа <a rel=\"nofollow\" href=\"http://search.twitter.com/search?q=%23lvee\">#lvee</a> <a rel=\"nofollow\" href=\"http://t.co/sR2OrO5u\" title=\"http://winter.lvee.org/ru/reports/program\">http://winter.lvee.org/ru...</a> <a rel=\"nofollow\" href=\"http://t.co/e5vUDUT9\" title=\"http://ow.ly/i/s8qS\">http://ow.ly/i/s8qS</a>",
+  "rawLink": "http://twitter.com/zagru/statuses/167892207611805696"
+}
+=end comment
+
+=end pod

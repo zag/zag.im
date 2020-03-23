@@ -1,0 +1,48 @@
+=begin pod :pubdate('2014-02-19T10:07:41Z') :type<note> 
+=NAME FreeBSDJournal
+
+=begin DESCRIPTION
+
+FreeBSDJournal - L<link|http://freebsdjournal.com/#>
+=for Image :width(135) :link('http://freebsdjournal.com/#') :height(175) :preview
+media/2db84f9ab29270b26066dd3cb6988fd26ef79e7b.jpg
+
+
+
+=end DESCRIPTION
+
+FreeBSDJournal - L<link|http://freebsdjournal.com/#>
+=for Image :width(135) :link('http://freebsdjournal.com/#') :height(175) :preview
+media/2db84f9ab29270b26066dd3cb6988fd26ef79e7b.jpg
+
+
+
+=begin comment :src
+{
+  "rawLink": "http://freebsdjournal.com/#",
+  "body": "FreeBSDJournal - <a rel=\"nofollow\" href=\"http://freebsdjournal.com/#\">http://freebsdjournal.com/#</a>",
+  "thumbnails": [
+    {
+      "width": 135,
+      "url": "http://m.friendfeed-media.com/2db84f9ab29270b26066dd3cb6988fd26ef79e7b",
+      "link": "http://freebsdjournal.com/#",
+      "height": 175
+    }
+  ],
+  "id": "e/0797a91c7604498d80db9a8e048f9b29",
+  "date": "2014-02-19T10:07:41Z",
+  "rawBody": "FreeBSDJournal",
+  "url": "http://friendfeed.com/zag/0797a91c/freebsdjournal",
+  "via": {
+    "name": "Bookmarklet",
+    "url": "http://friendfeed.com/share/bookmarklet"
+  },
+  "from": {
+    "name": "углы «Исимуры»",
+    "id": "zag",
+    "type": "user"
+  }
+}
+=end comment
+
+=end pod

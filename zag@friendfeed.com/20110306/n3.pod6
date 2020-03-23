@@ -1,0 +1,67 @@
+=begin pod :pubdate('2011-03-06T06:56:52Z') :type<note> 
+=NAME Exclusive: NASA Scientist Claims Evidence of Alien Life on Meteorite - FoxNews.com
+
+=begin DESCRIPTION
+
+Exclusive: NASA Scientist Claims Evidence of Alien Life on Meteorite - FoxNews.com - L<link|http://www.foxnews.com/scitech/2011/03/05/exclusive-nasa-scientists-claims-evidence-alien-life-meteorite/>
+=for Image :width(60) :link('http://www.foxnews.com/scitech/2011/03/05/exclusive-nasa-scientists-claims-evidence-alien-life-meteorite/') :height(60) :preview
+media/82d7df845e9afd68778606c7dfb92879ef8c4b78.jpg
+
+=item A photograph taken through a scanning electron microscope of a CI1 meteorite (right) is similar in size and overall structure to the giant bacterium Titanospirillum velox (left), an organism found here on planet Earth, a NASA scientist said.
+
+
+=end DESCRIPTION
+
+Exclusive: NASA Scientist Claims Evidence of Alien Life on Meteorite - FoxNews.com - L<link|http://www.foxnews.com/scitech/2011/03/05/exclusive-nasa-scientists-claims-evidence-alien-life-meteorite/>
+=for Image :width(60) :link('http://www.foxnews.com/scitech/2011/03/05/exclusive-nasa-scientists-claims-evidence-alien-life-meteorite/') :height(60) :preview
+media/82d7df845e9afd68778606c7dfb92879ef8c4b78.jpg
+
+=item A photograph taken through a scanning electron microscope of a CI1 meteorite (right) is similar in size and overall structure to the giant bacterium Titanospirillum velox (left), an organism found here on planet Earth, a NASA scientist said.
+
+
+=begin comment :src
+{
+  "via": {
+    "url": "http://friendfeed.com/share/bookmarklet",
+    "name": "Bookmarklet"
+  },
+  "from": {
+    "id": "zag",
+    "type": "user",
+    "name": "углы «Исимуры»"
+  },
+  "comments": [
+    {
+      "via": {
+        "name": "Bookmarklet",
+        "url": "http://friendfeed.com/share/bookmarklet"
+      },
+      "id": "e/f0c3c05676e3429a8bfc9f64287f3522/c/42ce2c69867d4f76ac39e96b2b0efdec",
+      "from": {
+        "name": "углы «Исимуры»",
+        "id": "zag",
+        "type": "user"
+      },
+      "date": "2011-03-06T06:56:52Z",
+      "rawBody": "A photograph taken through a scanning electron microscope of a CI1 meteorite (right) is similar in size and overall structure to the giant bacterium Titanospirillum velox (left), an organism found here on planet Earth, a NASA scientist said.",
+      "body": "A photograph taken through a scanning electron microscope of a CI1 meteorite (right) is similar in size and overall structure to the giant bacterium Titanospirillum velox (left), an organism found here on planet Earth, a NASA scientist said."
+    }
+  ],
+  "id": "e/f0c3c05676e3429a8bfc9f64287f3522",
+  "date": "2011-03-06T06:56:52Z",
+  "url": "http://friendfeed.com/zag/f0c3c056/exclusive-nasa-scientist-claims-evidence-of",
+  "rawBody": "Exclusive: NASA Scientist Claims Evidence of Alien Life on Meteorite - FoxNews.com",
+  "thumbnails": [
+    {
+      "url": "http://m.friendfeed-media.com/82d7df845e9afd68778606c7dfb92879ef8c4b78",
+      "width": 60,
+      "height": 60,
+      "link": "http://www.foxnews.com/scitech/2011/03/05/exclusive-nasa-scientists-claims-evidence-alien-life-meteorite/"
+    }
+  ],
+  "body": "Exclusive: NASA Scientist Claims Evidence of Alien Life on Meteorite - FoxNews.com - <a rel=\"nofollow\" href=\"http://www.foxnews.com/scitech/2011/03/05/exclusive-nasa-scientists-claims-evidence-alien-life-meteorite/\" title=\"http://www.foxnews.com/scitech/2011/03/05/exclusive-nasa-scientists-claims-evidence-alien-life-meteorite/\">http://www.foxnews.com/scitech...</a>",
+  "rawLink": "http://www.foxnews.com/scitech/2011/03/05/exclusive-nasa-scientists-claims-evidence-alien-life-meteorite/"
+}
+=end comment
+
+=end pod

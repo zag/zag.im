@@ -1,0 +1,92 @@
+=begin pod :pubdate('2011-10-19T11:58:53Z') :type<note> 
+=NAME glamour term
+
+=begin DESCRIPTION
+
+glamour term
+=for Image :width(115) :link('http://m.friendfeed-media.com/846e477c6bb5e3d12971328df5ff119304d53803') :height(175) :preview
+media/fe365e847f0edbf05fa7d6ff612b949b6ba226ef.jpg
+
+
+
+=end DESCRIPTION
+
+glamour term
+=for Image :width(115) :link('http://m.friendfeed-media.com/846e477c6bb5e3d12971328df5ff119304d53803') :height(175) :preview
+media/fe365e847f0edbf05fa7d6ff612b949b6ba226ef.jpg
+
+
+
+=begin comment :src
+{
+  "body": "glamour term",
+  "likes": [
+    {
+      "from": {
+        "name": "nm",
+        "id": "szypulka",
+        "type": "user"
+      },
+      "date": "2011-10-19T12:48:42Z"
+    },
+    {
+      "date": "2011-10-19T12:15:57Z",
+      "from": {
+        "name": "tcharge",
+        "id": "tcharge",
+        "type": "user",
+        "private": true
+      }
+    },
+    {
+      "from": {
+        "private": true,
+        "id": "dyachkoff",
+        "type": "user",
+        "name": "Ivan"
+      },
+      "date": "2011-10-19T12:15:34Z"
+    },
+    {
+      "from": {
+        "name": "Ivan Bessarabov",
+        "id": "bessarabov",
+        "type": "user"
+      },
+      "date": "2011-10-19T12:14:37Z"
+    }
+  ],
+  "rawLink": "http://friendfeed.com/e/4ff1d1e1-8ccd-4fa1-a959-c494e093e9c7",
+  "to": [
+    {
+      "name": "углы's feed",
+      "id": "zag",
+      "type": "user"
+    },
+    {
+      "name": "Funny Pics and Videos",
+      "type": "group",
+      "id": "funny-pics-videos"
+    }
+  ],
+  "id": "e/4ff1d1e18ccd4fa1a959c494e093e9c7",
+  "rawBody": "glamour term",
+  "date": "2011-10-19T11:58:53Z",
+  "url": "http://friendfeed.com/funny-pics-videos/4ff1d1e1/glamour-term",
+  "thumbnails": [
+    {
+      "width": 115,
+      "url": "http://m.friendfeed-media.com/fe365e847f0edbf05fa7d6ff612b949b6ba226ef",
+      "height": 175,
+      "link": "http://m.friendfeed-media.com/846e477c6bb5e3d12971328df5ff119304d53803"
+    }
+  ],
+  "from": {
+    "name": "углы «Исимуры»",
+    "type": "user",
+    "id": "zag"
+  }
+}
+=end comment
+
+=end pod

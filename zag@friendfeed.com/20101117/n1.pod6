@@ -1,0 +1,261 @@
+=begin pod :pubdate('2010-11-17T18:39:11Z') :type<note> 
+=NAME No bloggers allowed
+
+=begin DESCRIPTION
+
+No bloggers allowed
+=for Image :width(285) :link('http://m.friendfeed-media.com/4e244d53938b5b19226241aa4c7b43be36a9fff3') :height(175) :preview
+media/da1ee284e2131736af14a1cfb21ea35c2a670c21.jpg
+
+
+
+=end DESCRIPTION
+
+No bloggers allowed
+=for Image :width(285) :link('http://m.friendfeed-media.com/4e244d53938b5b19226241aa4c7b43be36a9fff3') :height(175) :preview
+media/da1ee284e2131736af14a1cfb21ea35c2a670c21.jpg
+
+
+
+=begin comment :src
+{
+  "from": {
+    "id": "zag",
+    "type": "user",
+    "name": "углы «Исимуры»"
+  },
+  "body": "No bloggers allowed",
+  "likes": [
+    {
+      "date": "2010-11-19T05:31:40Z",
+      "from": {
+        "type": "user",
+        "id": "cibron",
+        "name": "Cibron Nethis"
+      }
+    },
+    {
+      "from": {
+        "private": true,
+        "type": "user",
+        "id": "lavale",
+        "name": "слуги белку стерегут"
+      },
+      "date": "2010-11-18T18:34:35Z"
+    },
+    {
+      "from": {
+        "id": "blacklion",
+        "type": "user",
+        "name": "рептильный дом"
+      },
+      "date": "2010-11-18T15:22:00Z"
+    },
+    {
+      "date": "2010-11-18T12:18:04Z",
+      "from": {
+        "private": true,
+        "id": "inque",
+        "type": "user",
+        "name": "чуть-чуть потерпеть"
+      }
+    },
+    {
+      "date": "2010-11-18T08:48:25Z",
+      "from": {
+        "name": "AK",
+        "id": "kovel",
+        "type": "user",
+        "private": true
+      }
+    },
+    {
+      "from": {
+        "name": "Elena Shuvalova",
+        "type": "user",
+        "id": "elenashuvalova",
+        "private": true
+      },
+      "date": "2010-11-18T07:51:40Z"
+    },
+    {
+      "date": "2010-11-18T04:32:12Z",
+      "from": {
+        "id": "burzoom",
+        "type": "user",
+        "name": "бык с ледорезом"
+      }
+    },
+    {
+      "date": "2010-11-17T20:37:46Z",
+      "from": {
+        "name": "woof",
+        "id": "woof",
+        "type": "user"
+      }
+    },
+    {
+      "from": {
+        "name": "святых последних дней",
+        "id": "marynka",
+        "type": "user"
+      },
+      "date": "2010-11-17T20:32:04Z"
+    },
+    {
+      "from": {
+        "id": "glebis",
+        "type": "user",
+        "name": "Gleb Kalinin"
+      },
+      "date": "2010-11-17T20:23:45Z"
+    },
+    {
+      "from": {
+        "name": "nm",
+        "id": "szypulka",
+        "type": "user"
+      },
+      "date": "2010-11-17T20:23:20Z"
+    },
+    {
+      "date": "2010-11-17T20:07:41Z",
+      "from": {
+        "id": "atarka",
+        "type": "user",
+        "name": "центр персей для детей"
+      }
+    },
+    {
+      "date": "2010-11-17T19:50:18Z",
+      "from": {
+        "type": "user",
+        "id": "earlyadopter",
+        "name": "earlyadopter"
+      }
+    },
+    {
+      "from": {
+        "name": "Танаев!",
+        "type": "user",
+        "id": "deetan"
+      },
+      "date": "2010-11-17T19:44:36Z"
+    },
+    {
+      "date": "2010-11-17T19:36:44Z",
+      "from": {
+        "type": "user",
+        "id": "4shir",
+        "name": "4sh.ir"
+      }
+    },
+    {
+      "from": {
+        "name": "DS",
+        "type": "user",
+        "id": "dsumin"
+      },
+      "date": "2010-11-17T19:30:32Z"
+    },
+    {
+      "from": {
+        "type": "user",
+        "id": "eugenekostylev",
+        "name": "penguin"
+      },
+      "date": "2010-11-17T19:18:09Z"
+    },
+    {
+      "date": "2010-11-17T19:17:50Z",
+      "from": {
+        "id": "arty",
+        "type": "user",
+        "name": "arty"
+      }
+    },
+    {
+      "from": {
+        "name": "50 оттенков кошкости",
+        "type": "user",
+        "id": "artreal"
+      },
+      "date": "2010-11-17T18:56:22Z"
+    },
+    {
+      "date": "2010-11-17T18:52:37Z",
+      "from": {
+        "name": "Гора Кьяльфедль",
+        "type": "user",
+        "id": "vladimirbright",
+        "private": true
+      }
+    },
+    {
+      "from": {
+        "private": true,
+        "id": "smallkaa",
+        "type": "user",
+        "name": "половая жизнь и зомби"
+      },
+      "date": "2010-11-17T18:52:14Z"
+    },
+    {
+      "from": {
+        "name": "Fima Fractal",
+        "id": "fima1fractal",
+        "type": "user"
+      },
+      "date": "2010-11-17T18:50:10Z"
+    },
+    {
+      "from": {
+        "name": "prool",
+        "type": "user",
+        "id": "prool"
+      },
+      "date": "2010-11-17T18:50:09Z"
+    },
+    {
+      "date": "2010-11-17T18:49:46Z",
+      "from": {
+        "id": "enemo",
+        "type": "user",
+        "name": "последние пни"
+      }
+    },
+    {
+      "from": {
+        "name": "Alexey Melchakov",
+        "type": "user",
+        "id": "corvin",
+        "private": true
+      },
+      "date": "2010-11-17T18:49:44Z"
+    },
+    {
+      "from": {
+        "name": "alex@kapranoff.ru",
+        "id": "kkapp",
+        "type": "user"
+      },
+      "date": "2010-11-17T18:49:32Z"
+    }
+  ],
+  "rawLink": "http://friendfeed.com/e/49554dca-e2a0-4580-8077-38b01b33c3aa",
+  "id": "e/49554dcae2a04580807738b01b33c3aa",
+  "date": "2010-11-17T18:39:11Z",
+  "rawBody": "No bloggers allowed",
+  "url": "http://friendfeed.com/zag/49554dca/no-bloggers-allowed",
+  "thumbnails": [
+    {
+      "width": 285,
+      "url": "http://m.friendfeed-media.com/da1ee284e2131736af14a1cfb21ea35c2a670c21",
+      "link": "http://m.friendfeed-media.com/4e244d53938b5b19226241aa4c7b43be36a9fff3",
+      "height": 175
+    }
+  ]
+}
+=end comment
+
+=end pod

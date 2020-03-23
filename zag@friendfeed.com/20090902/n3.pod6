@@ -1,0 +1,36 @@
+=begin pod :pubdate('2009-09-02T08:21:18Z') :type<note> 
+=NAME I started posting to FriendFeed on May 10th, 2008 (479 days ago)
+
+=begin DESCRIPTION
+
+I started posting to FriendFeed on May 10th, 2008 (479 days ago) - L<link|http://whendidyoujoinfriendfeed.com>
+
+
+
+=end DESCRIPTION
+
+I started posting to FriendFeed on May 10th, 2008 (479 days ago) - L<link|http://whendidyoujoinfriendfeed.com>
+
+
+
+=begin comment :src
+{
+  "via": {
+    "name": "When Did You Join FriendFeed?",
+    "url": "http://whendidyoujoinfriendfeed.com"
+  },
+  "from": {
+    "type": "user",
+    "id": "zag",
+    "name": "углы «Исимуры»"
+  },
+  "rawLink": "http://whendidyoujoinfriendfeed.com",
+  "body": "I started posting to FriendFeed on May 10th, 2008 (479 days ago) - <a rel=\"nofollow\" href=\"http://whendidyoujoinfriendfeed.com\" title=\"http://whendidyoujoinfriendfeed.com\">http://whendidyoujoinfriendfeed.com</a>",
+  "id": "e/450ebefb7b11424a95668fd81bb6fcda",
+  "date": "2009-09-02T08:21:18Z",
+  "rawBody": "I started posting to FriendFeed on May 10th, 2008 (479 days ago)",
+  "url": "http://friendfeed.com/zag/450ebefb/i-started-posting-to-friendfeed-on-may-10th-2008"
+}
+=end comment
+
+=end pod

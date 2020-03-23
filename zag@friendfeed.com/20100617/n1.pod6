@@ -1,0 +1,36 @@
+=begin pod :pubdate('2010-06-17T19:39:42Z') :type<note> :tags<ps3>
+=NAME В PlayStationStore появилась гора игровых видео с E3 #ps3.
+
+=begin DESCRIPTION
+
+В PlayStationStore появилась гора игровых видео с E3 #ps3. - L<link|http://twitter.com/zagru/statuses/16412241812>
+
+
+
+=end DESCRIPTION
+
+В PlayStationStore появилась гора игровых видео с E3 #ps3. - L<link|http://twitter.com/zagru/statuses/16412241812>
+
+
+
+=begin comment :src
+{
+  "via": {
+    "url": "http://twitter.com/zagru/statuses/16412241812",
+    "name": "Twitter"
+  },
+  "from": {
+    "name": "углы «Исимуры»",
+    "type": "user",
+    "id": "zag"
+  },
+  "body": "В PlayStationStore появилась гора игровых видео с E3 <a rel=\"nofollow\" href=\"http://search.twitter.com/search?q=%23ps3\">#ps3</a>.",
+  "rawLink": "http://twitter.com/zagru/statuses/16412241812",
+  "date": "2010-06-17T19:39:42Z",
+  "id": "e/67687b667f1524241ff27eb55901056d",
+  "url": "http://friendfeed.com/zag/67687b66/playstationstore-e3-ps3",
+  "rawBody": "В PlayStationStore появилась гора игровых видео с E3 #ps3."
+}
+=end comment
+
+=end pod

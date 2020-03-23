@@ -1,0 +1,100 @@
+=begin pod :pubdate('2010-09-05T14:18:43Z') :type<note> 
+=NAME Kylo Browser -  Kylo's wide-open interface is designed specifically to fit your TV screen.
+
+=begin DESCRIPTION
+
+Kylo Browser -  Kylo's wide-open interface is designed specifically to fit your TV screen. - L<link|http://kylo.tv/#>
+=for Image :width(329) :link('http://kylo.tv/#') :height(175) :preview
+media/64f045628f9a1c0ddac33b07bf8d289e8cc83672.jpg
+=for Image :width(311) :link('http://kylo.tv/#') :height(175) :preview
+media/6c20d9d6a0bcf72bd4a9c1e1a69cfecb47d921d3.jpg
+=for Image :width(311) :link('http://kylo.tv/#') :height(175) :preview
+media/4e880f121a04153ce2aba4dd9f5d02dcc22961a9.jpg
+
+=item Big fonts and big buttons for easy navigation from across the room
+=item powered by mozilla
+
+
+=end DESCRIPTION
+
+Kylo Browser -  Kylo's wide-open interface is designed specifically to fit your TV screen. - L<link|http://kylo.tv/#>
+=for Image :width(329) :link('http://kylo.tv/#') :height(175) :preview
+media/64f045628f9a1c0ddac33b07bf8d289e8cc83672.jpg
+=for Image :width(311) :link('http://kylo.tv/#') :height(175) :preview
+media/6c20d9d6a0bcf72bd4a9c1e1a69cfecb47d921d3.jpg
+=for Image :width(311) :link('http://kylo.tv/#') :height(175) :preview
+media/4e880f121a04153ce2aba4dd9f5d02dcc22961a9.jpg
+
+=item Big fonts and big buttons for easy navigation from across the room
+=item powered by mozilla
+
+
+=begin comment :src
+{
+  "comments": [
+    {
+      "id": "e/6a6bc8168daa4d10a87d0a8f5843cf35/c/9e324c95318340ffbf0102ab5c3bd629",
+      "date": "2010-09-05T14:18:43Z",
+      "rawBody": "Big fonts and big buttons for easy navigation from across the room",
+      "from": {
+        "id": "zag",
+        "type": "user",
+        "name": "углы «Исимуры»"
+      },
+      "via": {
+        "url": "http://friendfeed.com/share/bookmarklet",
+        "name": "Bookmarklet"
+      },
+      "body": "Big fonts and big buttons for easy navigation from across the room"
+    },
+    {
+      "body": "powered by mozilla",
+      "id": "e/6a6bc8168daa4d10a87d0a8f5843cf35/c/9eef737e9b5948669464fac2037979be",
+      "rawBody": "powered by mozilla",
+      "date": "2010-09-05T14:19:12Z",
+      "from": {
+        "name": "углы «Исимуры»",
+        "id": "zag",
+        "type": "user"
+      }
+    }
+  ],
+  "via": {
+    "url": "http://friendfeed.com/share/bookmarklet",
+    "name": "Bookmarklet"
+  },
+  "from": {
+    "type": "user",
+    "id": "zag",
+    "name": "углы «Исимуры»"
+  },
+  "body": "Kylo Browser -  Kylo's wide-open interface is designed specifically to fit your TV screen. - <a rel=\"nofollow\" href=\"http://kylo.tv/#\">http://kylo.tv/#</a>",
+  "rawLink": "http://kylo.tv/#",
+  "id": "e/6a6bc8168daa4d10a87d0a8f5843cf35",
+  "url": "http://friendfeed.com/zag/6a6bc816/kylo-browser-wide-open-interface-is-designed",
+  "date": "2010-09-05T14:18:43Z",
+  "rawBody": "Kylo Browser -  Kylo's wide-open interface is designed specifically to fit your TV screen.",
+  "thumbnails": [
+    {
+      "url": "http://m.friendfeed-media.com/64f045628f9a1c0ddac33b07bf8d289e8cc83672",
+      "width": 329,
+      "link": "http://kylo.tv/#",
+      "height": 175
+    },
+    {
+      "width": 311,
+      "url": "http://m.friendfeed-media.com/6c20d9d6a0bcf72bd4a9c1e1a69cfecb47d921d3",
+      "height": 175,
+      "link": "http://kylo.tv/#"
+    },
+    {
+      "link": "http://kylo.tv/#",
+      "height": 175,
+      "width": 311,
+      "url": "http://m.friendfeed-media.com/4e880f121a04153ce2aba4dd9f5d02dcc22961a9"
+    }
+  ]
+}
+=end comment
+
+=end pod

@@ -1,0 +1,36 @@
+=begin pod :pubdate('2011-02-08T20:03:07Z') :type<note> 
+=NAME Using Git to manage a web site
+
+=begin DESCRIPTION
+
+Using Git to manage a web site - L<link|http://toroid.org/ams/git-website-howto>
+
+
+
+=end DESCRIPTION
+
+Using Git to manage a web site - L<link|http://toroid.org/ams/git-website-howto>
+
+
+
+=begin comment :src
+{
+  "rawBody": "Using Git to manage a web site",
+  "id": "e/3267918a6b394f3591e374dfa2a5458d",
+  "date": "2011-02-08T20:03:07Z",
+  "url": "http://friendfeed.com/zag/3267918a/using-git-to-manage-web-site",
+  "rawLink": "http://toroid.org/ams/git-website-howto",
+  "body": "Using Git to manage a web site - <a rel=\"nofollow\" href=\"http://toroid.org/ams/git-website-howto\" title=\"http://toroid.org/ams/git-website-howto\">http://toroid.org/ams...</a>",
+  "from": {
+    "type": "user",
+    "id": "zag",
+    "name": "углы «Исимуры»"
+  },
+  "via": {
+    "name": "Bookmarklet",
+    "url": "http://friendfeed.com/share/bookmarklet"
+  }
+}
+=end comment
+
+=end pod

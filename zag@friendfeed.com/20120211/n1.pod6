@@ -1,0 +1,36 @@
+=begin pod :pubdate('2012-02-11T20:28:20Z') :type<note> :tags<lvee>
+=NAME http://t.co/35dHoRXU кулуары #lvee
+
+=begin DESCRIPTION
+
+http://t.co/35dHoRXU кулуары #lvee - L<link|http://twitter.com/zagru/statuses/168431193623236609>
+
+
+
+=end DESCRIPTION
+
+http://t.co/35dHoRXU кулуары #lvee - L<link|http://twitter.com/zagru/statuses/168431193623236609>
+
+
+
+=begin comment :src
+{
+  "from": {
+    "name": "углы «Исимуры»",
+    "id": "zag",
+    "type": "user"
+  },
+  "via": {
+    "name": "Twitter",
+    "url": "http://twitter.com/zagru/statuses/168431193623236609"
+  },
+  "rawLink": "http://twitter.com/zagru/statuses/168431193623236609",
+  "body": "<a rel=\"nofollow\" href=\"http://t.co/35dHoRXU\" title=\"http://ow.ly/i/sinP\">http://ow.ly/i/sinP</a> кулуары <a rel=\"nofollow\" href=\"http://search.twitter.com/search?q=%23lvee\">#lvee</a>",
+  "rawBody": "http://t.co/35dHoRXU кулуары #lvee",
+  "id": "e/8dea0d592fcc1b648472363b74f6ba4a",
+  "date": "2012-02-11T20:28:20Z",
+  "url": "http://friendfeed.com/zag/8dea0d59/lvee"
+}
+=end comment
+
+=end pod

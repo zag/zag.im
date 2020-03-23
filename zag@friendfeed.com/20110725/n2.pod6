@@ -1,0 +1,80 @@
+=begin pod :pubdate('2011-07-25T11:50:26Z') :type<note> 
+=NAME Впервые попался вот такой uname: Debian GNU/kFreeBSD. Был уверен, что это случится еще не скоро.
+
+=begin DESCRIPTION
+
+Впервые попался вот такой uname: Debian GNU/kFreeBSD. Был уверен, что это случится еще не скоро. - L<link|http://twitter.com/zagru/statuses/95460897119678465>
+
+
+
+=end DESCRIPTION
+
+Впервые попался вот такой uname: Debian GNU/kFreeBSD. Был уверен, что это случится еще не скоро. - L<link|http://twitter.com/zagru/statuses/95460897119678465>
+
+
+
+=begin comment :src
+{
+  "from": {
+    "id": "zag",
+    "type": "user",
+    "name": "углы «Исимуры»"
+  },
+  "via": {
+    "url": "http://twitter.com/zagru/statuses/95460897119678465",
+    "name": "Twitter"
+  },
+  "rawLink": "http://twitter.com/zagru/statuses/95460897119678465",
+  "likes": [
+    {
+      "date": "2011-07-25T18:25:09Z",
+      "from": {
+        "private": true,
+        "type": "user",
+        "id": "vladimirbright",
+        "name": "Гора Кьяльфедль"
+      }
+    },
+    {
+      "from": {
+        "name": "последние пни",
+        "id": "enemo",
+        "type": "user"
+      },
+      "date": "2011-07-25T17:31:07Z"
+    },
+    {
+      "date": "2011-07-25T17:23:14Z",
+      "from": {
+        "name": "alex@kapranoff.ru",
+        "id": "kkapp",
+        "type": "user"
+      }
+    },
+    {
+      "from": {
+        "private": true,
+        "id": "konstantinsolomatov",
+        "type": "user",
+        "name": "Konstantin Solomatov"
+      },
+      "date": "2011-07-25T15:06:03Z"
+    },
+    {
+      "from": {
+        "type": "user",
+        "id": "zabdetud",
+        "name": "DehajEuj2"
+      },
+      "date": "2011-07-25T14:26:38Z"
+    }
+  ],
+  "body": "Впервые попался вот такой uname: Debian GNU/kFreeBSD. Был уверен, что это случится еще не скоро.",
+  "id": "e/92562f3f0a90771126f6b95e0d03775d",
+  "date": "2011-07-25T11:50:26Z",
+  "rawBody": "Впервые попался вот такой uname: Debian GNU/kFreeBSD. Был уверен, что это случится еще не скоро.",
+  "url": "http://friendfeed.com/zag/92562f3f/uname-debian-gnu-kfreebsd"
+}
+=end comment
+
+=end pod

@@ -1,0 +1,67 @@
+=begin pod :pubdate('2010-08-07T07:23:46Z') :type<note> 
+=NAME Игра года по версии издания "Юный техник" за 1984 г.  Игры Веселый повар и Волк ловит яйца доступны в iTunes Store бесплатно.
+
+=begin DESCRIPTION
+
+Игра года по версии издания "Юный техник" за 1984 г.  Игры Веселый повар и Волк ловит яйца доступны в iTunes Store бесплатно. - L<link|http://moskalyuk.name/2914>
+=for Image :width(263) :link('http://moskalyuk.name/2914') :height(175) :preview
+media/1a23e67940eec3424d6bc31951c8e17d505e3241.jpg
+
+=item Разработка Дмитрия Коростелева, Zombizz Software.
+
+
+=end DESCRIPTION
+
+Игра года по версии издания "Юный техник" за 1984 г.  Игры Веселый повар и Волк ловит яйца доступны в iTunes Store бесплатно. - L<link|http://moskalyuk.name/2914>
+=for Image :width(263) :link('http://moskalyuk.name/2914') :height(175) :preview
+media/1a23e67940eec3424d6bc31951c8e17d505e3241.jpg
+
+=item Разработка Дмитрия Коростелева, Zombizz Software.
+
+
+=begin comment :src
+{
+  "comments": [
+    {
+      "body": "Разработка Дмитрия Коростелева, Zombizz Software.",
+      "via": {
+        "url": "http://friendfeed.com/share/bookmarklet",
+        "name": "Bookmarklet"
+      },
+      "date": "2010-08-07T07:23:46Z",
+      "id": "e/7d55f2e5dce0481189299665e69e2a31/c/b67de17e5f044d578569ce5f4a15075e",
+      "from": {
+        "name": "углы «Исимуры»",
+        "type": "user",
+        "id": "zag"
+      },
+      "rawBody": "Разработка Дмитрия Коростелева, Zombizz Software."
+    }
+  ],
+  "from": {
+    "type": "user",
+    "id": "zag",
+    "name": "углы «Исимуры»"
+  },
+  "via": {
+    "name": "Bookmarklet",
+    "url": "http://friendfeed.com/share/bookmarklet"
+  },
+  "rawLink": "http://moskalyuk.name/2914",
+  "body": "Игра года по версии издания &quot;Юный техник&quot; за 1984 г.  Игры Веселый повар и Волк ловит яйца доступны в iTunes Store бесплатно. - <a rel=\"nofollow\" href=\"http://moskalyuk.name/2914\">http://moskalyuk.name/2914</a>",
+  "id": "e/7d55f2e5dce0481189299665e69e2a31",
+  "rawBody": "Игра года по версии издания \"Юный техник\" за 1984 г.  Игры Веселый повар и Волк ловит яйца доступны в iTunes Store бесплатно.",
+  "date": "2010-08-07T07:23:46Z",
+  "thumbnails": [
+    {
+      "height": 175,
+      "link": "http://moskalyuk.name/2914",
+      "width": 263,
+      "url": "http://m.friendfeed-media.com/1a23e67940eec3424d6bc31951c8e17d505e3241"
+    }
+  ],
+  "url": "http://friendfeed.com/zag/7d55f2e5/1984-itunes-store"
+}
+=end comment
+
+=end pod

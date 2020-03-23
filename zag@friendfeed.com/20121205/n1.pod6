@@ -1,0 +1,78 @@
+=begin pod :pubdate('2012-12-05T12:01:29Z') :type<note> 
+=NAME Новый взгляд на школьную библиотеку. Украшение школьного двора в Тюмени | Живопись | Арт
+
+=begin DESCRIPTION
+
+Новый взгляд на школьную библиотеку. Украшение школьного двора в Тюмени | Живопись | Арт - L<link|http://www.kulturologia.ru/blogs/161012/17252/>
+=for Image :width(263) :link('http://www.kulturologia.ru/blogs/161012/17252/') :height(175) :preview
+media/8a8b46291ee8f1cb0e0bc11a05497222b7926c1c.jpg
+=for Image :width(117) :link('http://www.kulturologia.ru/blogs/161012/17252/') :height(175) :preview
+media/aa8edfc17b93f1d761a524af34b081bc41c9d233.jpg
+=for Image :width(248) :link('http://www.kulturologia.ru/blogs/161012/17252/') :height(175) :preview
+media/c67511894b73b32d05fc8f0dd2166e721ba789af.jpg
+
+
+
+=end DESCRIPTION
+
+Новый взгляд на школьную библиотеку. Украшение школьного двора в Тюмени | Живопись | Арт - L<link|http://www.kulturologia.ru/blogs/161012/17252/>
+=for Image :width(263) :link('http://www.kulturologia.ru/blogs/161012/17252/') :height(175) :preview
+media/8a8b46291ee8f1cb0e0bc11a05497222b7926c1c.jpg
+=for Image :width(117) :link('http://www.kulturologia.ru/blogs/161012/17252/') :height(175) :preview
+media/aa8edfc17b93f1d761a524af34b081bc41c9d233.jpg
+=for Image :width(248) :link('http://www.kulturologia.ru/blogs/161012/17252/') :height(175) :preview
+media/c67511894b73b32d05fc8f0dd2166e721ba789af.jpg
+
+
+
+=begin comment :src
+{
+  "body": "Новый взгляд на школьную библиотеку. Украшение школьного двора в Тюмени | Живопись | Арт - <a rel=\"nofollow\" href=\"http://www.kulturologia.ru/blogs/161012/17252/\" title=\"http://www.kulturologia.ru/blogs/161012/17252/\">http://www.kulturologia.ru/blogs...</a>",
+  "likes": [
+    {
+      "date": "2012-12-05T12:21:39Z",
+      "from": {
+        "name": "afds",
+        "id": "afds",
+        "type": "user"
+      }
+    }
+  ],
+  "rawLink": "http://www.kulturologia.ru/blogs/161012/17252/",
+  "date": "2012-12-05T12:01:29Z",
+  "id": "e/ff3feea3bf02408490f64288e56a0510",
+  "rawBody": "Новый взгляд на школьную библиотеку. Украшение школьного двора в Тюмени | Живопись | Арт",
+  "url": "http://friendfeed.com/zag/ff3feea3",
+  "thumbnails": [
+    {
+      "width": 263,
+      "url": "http://m.friendfeed-media.com/8a8b46291ee8f1cb0e0bc11a05497222b7926c1c",
+      "link": "http://www.kulturologia.ru/blogs/161012/17252/",
+      "height": 175
+    },
+    {
+      "width": 117,
+      "url": "http://m.friendfeed-media.com/aa8edfc17b93f1d761a524af34b081bc41c9d233",
+      "link": "http://www.kulturologia.ru/blogs/161012/17252/",
+      "height": 175
+    },
+    {
+      "url": "http://m.friendfeed-media.com/c67511894b73b32d05fc8f0dd2166e721ba789af",
+      "width": 248,
+      "height": 175,
+      "link": "http://www.kulturologia.ru/blogs/161012/17252/"
+    }
+  ],
+  "from": {
+    "type": "user",
+    "id": "zag",
+    "name": "углы «Исимуры»"
+  },
+  "via": {
+    "url": "http://friendfeed.com/share/bookmarklet",
+    "name": "Bookmarklet"
+  }
+}
+=end comment
+
+=end pod

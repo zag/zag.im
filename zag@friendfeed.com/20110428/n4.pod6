@@ -1,0 +1,228 @@
+=begin pod :pubdate('2011-04-28T10:27:59Z') :type<note> 
+=NAME Лапшеедка
+
+=begin DESCRIPTION
+
+Лапшеедка
+
+
+
+=end DESCRIPTION
+
+Лапшеедка
+
+
+
+=begin comment :src
+{
+  "from": {
+    "name": "углы «Исимуры»",
+    "type": "user",
+    "id": "zag"
+  },
+  "rawLink": "http://friendfeed.com/e/4cea7d83-08d6-459c-b787-c3f7f1daacb5",
+  "likes": [
+    {
+      "from": {
+        "name": "Николай",
+        "type": "user",
+        "id": "mishin"
+      },
+      "date": "2011-05-25T14:35:09Z"
+    },
+    {
+      "date": "2011-05-03T08:45:46Z",
+      "from": {
+        "name": "afds",
+        "id": "afds",
+        "type": "user"
+      }
+    },
+    {
+      "date": "2011-05-01T09:52:14Z",
+      "from": {
+        "name": "псы в рапиде",
+        "type": "user",
+        "id": "squadette"
+      }
+    },
+    {
+      "date": "2011-04-30T19:44:11Z",
+      "from": {
+        "name": "The Awesomeness Herself",
+        "type": "user",
+        "id": "olgasafonova"
+      }
+    },
+    {
+      "from": {
+        "name": "\\/\\/\\/ Срамотато",
+        "id": "nahrihra",
+        "type": "user"
+      },
+      "date": "2011-04-30T18:42:18Z"
+    },
+    {
+      "from": {
+        "name": "бык с ледорезом",
+        "id": "burzoom",
+        "type": "user"
+      },
+      "date": "2011-04-29T06:01:57Z"
+    },
+    {
+      "date": "2011-04-29T05:56:23Z",
+      "from": {
+        "name": "последние пни",
+        "id": "enemo",
+        "type": "user"
+      }
+    },
+    {
+      "date": "2011-04-29T05:55:57Z",
+      "from": {
+        "id": "philsmirnov",
+        "type": "user",
+        "name": "Phil Smirnov"
+      }
+    },
+    {
+      "date": "2011-04-29T05:42:13Z",
+      "from": {
+        "id": "sergey",
+        "type": "user",
+        "name": "Sergey Kapustin"
+      }
+    },
+    {
+      "date": "2011-04-29T05:12:57Z",
+      "from": {
+        "type": "user",
+        "id": "yaa",
+        "name": "yaa"
+      }
+    },
+    {
+      "date": "2011-04-29T05:03:17Z",
+      "from": {
+        "name": "bugman",
+        "type": "user",
+        "id": "bugman"
+      }
+    },
+    {
+      "date": "2011-04-29T04:29:09Z",
+      "from": {
+        "id": "silpol",
+        "type": "user",
+        "name": "piikummitus"
+      }
+    },
+    {
+      "date": "2011-04-29T04:09:57Z",
+      "from": {
+        "id": "artreal",
+        "type": "user",
+        "name": "50 оттенков кошкости"
+      }
+    },
+    {
+      "date": "2011-04-29T03:51:32Z",
+      "from": {
+        "name": "woof",
+        "type": "user",
+        "id": "woof"
+      }
+    },
+    {
+      "date": "2011-04-29T01:04:38Z",
+      "from": {
+        "name": "DehajEuj2",
+        "id": "zabdetud",
+        "type": "user"
+      }
+    },
+    {
+      "from": {
+        "name": "reflexing",
+        "id": "reflexing",
+        "type": "user"
+      },
+      "date": "2011-04-28T23:21:22Z"
+    },
+    {
+      "from": {
+        "name": "не, ну а че",
+        "private": true,
+        "id": "aaoi",
+        "type": "user"
+      },
+      "date": "2011-04-28T22:58:37Z"
+    },
+    {
+      "date": "2011-04-28T22:14:29Z",
+      "from": {
+        "name": "ptzn",
+        "id": "ptzn",
+        "type": "user"
+      }
+    },
+    {
+      "date": "2011-04-28T21:36:38Z",
+      "from": {
+        "type": "user",
+        "id": "earlyadopter",
+        "name": "earlyadopter"
+      }
+    },
+    {
+      "date": "2011-04-28T21:24:18Z",
+      "from": {
+        "name": "jenys",
+        "private": true,
+        "type": "user",
+        "id": "jenys"
+      }
+    },
+    {
+      "from": {
+        "private": true,
+        "type": "user",
+        "id": "payalnik",
+        "name": "устав от фидика"
+      },
+      "date": "2011-04-28T21:22:42Z"
+    },
+    {
+      "from": {
+        "type": "user",
+        "id": "nickzayarny",
+        "private": true,
+        "name": "New Zealand"
+      },
+      "date": "2011-04-28T21:20:53Z"
+    },
+    {
+      "from": {
+        "type": "user",
+        "id": "kkapp",
+        "name": "alex@kapranoff.ru"
+      },
+      "date": "2011-04-28T21:20:02Z"
+    }
+  ],
+  "body": "Лапшеедка",
+  "date": "2011-04-28T10:27:59Z",
+  "id": "e/4cea7d8308d6459cb787c3f7f1daacb5",
+  "url": "http://friendfeed.com/zag/4cea7d83",
+  "rawBody": "Лапшеедка",
+  "thumbnails": [
+    {
+      "url": "http://d.yimg.com/gg/u/380e77e7b917d118ca85778c2750720258013181.gifa",
+      "link": "http://friendfeed.com/e/4cea7d83-08d6-459c-b787-c3f7f1daacb5"
+    }
+  ]
+}
+=end comment
+
+=end pod

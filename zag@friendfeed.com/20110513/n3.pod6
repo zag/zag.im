@@ -1,0 +1,74 @@
+=begin pod :pubdate('2011-05-13T12:59:13Z') :type<note> :tags<hackathon perl6 yapc>
+=NAME Твигил это второй из двух сигилов #hackathon #perl6 #yapc
+
+=begin DESCRIPTION
+
+Твигил это второй из двух сигилов #hackathon #perl6 #yapc
+=for Image :width(292) :link('http://m.friendfeed-media.com/f08df0506867aa2d5dc2696a121374cc18ff1bb1') :height(175) :preview
+media/e28a9dcdcf8b683589c8d777bab948f72c85fbb6.jpg
+
+
+
+=end DESCRIPTION
+
+Твигил это второй из двух сигилов #hackathon #perl6 #yapc
+=for Image :width(292) :link('http://m.friendfeed-media.com/f08df0506867aa2d5dc2696a121374cc18ff1bb1') :height(175) :preview
+media/e28a9dcdcf8b683589c8d777bab948f72c85fbb6.jpg
+
+
+
+=begin comment :src
+{
+  "via": {
+    "url": "http://friendfeed.com/share/mail",
+    "name": "email"
+  },
+  "from": {
+    "type": "user",
+    "id": "zag",
+    "name": "углы «Исимуры»"
+  },
+  "url": "http://friendfeed.com/zag/0f4dd6e1/hackathon-perl6-yapc",
+  "id": "e/0f4dd6e1981843399316d7817b41aedd",
+  "date": "2011-05-13T12:59:13Z",
+  "rawBody": "Твигил это второй из двух сигилов #hackathon #perl6 #yapc",
+  "thumbnails": [
+    {
+      "link": "http://m.friendfeed-media.com/f08df0506867aa2d5dc2696a121374cc18ff1bb1",
+      "height": 175,
+      "url": "http://m.friendfeed-media.com/e28a9dcdcf8b683589c8d777bab948f72c85fbb6",
+      "width": 292
+    }
+  ],
+  "rawLink": "http://friendfeed.com/e/0f4dd6e1-9818-4339-9316-d7817b41aedd",
+  "likes": [
+    {
+      "from": {
+        "type": "user",
+        "id": "woof",
+        "name": "woof"
+      },
+      "date": "2011-05-14T18:18:42Z"
+    },
+    {
+      "date": "2011-05-13T13:06:52Z",
+      "from": {
+        "name": "Ivan Bessarabov",
+        "id": "bessarabov",
+        "type": "user"
+      }
+    },
+    {
+      "from": {
+        "type": "user",
+        "id": "kkapp",
+        "name": "alex@kapranoff.ru"
+      },
+      "date": "2011-05-13T13:01:35Z"
+    }
+  ],
+  "body": "Твигил это второй из двух сигилов <a href=\"http://friendfeed.com/search?q=%23hackathon\">#hackathon</a> <a href=\"http://friendfeed.com/search?q=%23perl6\">#perl6</a> <a href=\"http://friendfeed.com/search?q=%23yapc\">#yapc</a>"
+}
+=end comment
+
+=end pod

@@ -1,0 +1,48 @@
+=begin pod :pubdate('2011-08-23T11:23:21Z') :type<note> 
+=NAME FullContact | The API that Keeps Contact Information Current
+
+=begin DESCRIPTION
+
+FullContact | The API that Keeps Contact Information Current - L<link|http://fullcontact.com/>
+=for Image :width(191) :link('http://fullcontact.com/') :height(175) :preview
+media/234fbf41ab88951140786334ea44a62026d2fd51.jpg
+
+
+
+=end DESCRIPTION
+
+FullContact | The API that Keeps Contact Information Current - L<link|http://fullcontact.com/>
+=for Image :width(191) :link('http://fullcontact.com/') :height(175) :preview
+media/234fbf41ab88951140786334ea44a62026d2fd51.jpg
+
+
+
+=begin comment :src
+{
+  "via": {
+    "url": "http://friendfeed.com/share/bookmarklet",
+    "name": "Bookmarklet"
+  },
+  "from": {
+    "name": "углы «Исимуры»",
+    "id": "zag",
+    "type": "user"
+  },
+  "id": "e/0f550d3655754d0baf8b0822ece8f140",
+  "rawBody": "FullContact | The API that Keeps Contact Information Current",
+  "date": "2011-08-23T11:23:21Z",
+  "url": "http://friendfeed.com/zag/0f550d36/fullcontact-api-that-keeps-contact",
+  "thumbnails": [
+    {
+      "width": 191,
+      "url": "http://m.friendfeed-media.com/234fbf41ab88951140786334ea44a62026d2fd51",
+      "height": 175,
+      "link": "http://fullcontact.com/"
+    }
+  ],
+  "rawLink": "http://fullcontact.com/",
+  "body": "FullContact | The API that Keeps Contact Information Current - <a rel=\"nofollow\" href=\"http://fullcontact.com/\">http://fullcontact.com/</a>"
+}
+=end comment
+
+=end pod

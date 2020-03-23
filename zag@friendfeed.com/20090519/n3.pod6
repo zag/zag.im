@@ -1,0 +1,36 @@
+=begin pod :pubdate('2009-05-19T07:04:37Z') :type<note> :tags<perl>
+=NAME Photos source from YAPC::Russia. #perl http://2009.yapcrussia.org/mayperl2/wiki
+
+=begin DESCRIPTION
+
+Photos source from YAPC::Russia. #perl http://2009.yapcrussia.org/mayperl2/wiki - L<link|http://twitter.com/zagru/statuses/1844996341>
+
+
+
+=end DESCRIPTION
+
+Photos source from YAPC::Russia. #perl http://2009.yapcrussia.org/mayperl2/wiki - L<link|http://twitter.com/zagru/statuses/1844996341>
+
+
+
+=begin comment :src
+{
+  "from": {
+    "name": "углы «Исимуры»",
+    "type": "user",
+    "id": "zag"
+  },
+  "via": {
+    "url": "http://twitter.com/zagru/statuses/1844996341",
+    "name": "Twitter"
+  },
+  "body": "Photos source from YAPC::Russia. <a rel=\"nofollow\" href=\"http://search.twitter.com/search?q=%23perl\">#perl</a> <a rel=\"nofollow\" href=\"http://2009.yapcrussia.org/mayperl2/wiki\" title=\"http://2009.yapcrussia.org/mayperl2/wiki\">http://2009.yapcrussia.org/mayperl...</a>",
+  "rawLink": "http://twitter.com/zagru/statuses/1844996341",
+  "date": "2009-05-19T07:04:37Z",
+  "id": "e/2c4b64945315e52f47c3e8540198f137",
+  "rawBody": "Photos source from YAPC::Russia. #perl http://2009.yapcrussia.org/mayperl2/wiki",
+  "url": "http://friendfeed.com/zag/2c4b6494/photos-source-from-yapc-russia-perl"
+}
+=end comment
+
+=end pod

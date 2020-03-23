@@ -1,0 +1,32 @@
+=begin pod :pubdate('2009-11-04T07:17:47Z') :type<note> 
+=NAME Дажe у часов есть свой twitter  http://twitter.com/big_ben_clock
+
+=begin DESCRIPTION
+
+Дажe у часов есть свой twitter  http://twitter.com/big_ben_clock
+
+
+
+=end DESCRIPTION
+
+Дажe у часов есть свой twitter  http://twitter.com/big_ben_clock
+
+
+
+=begin comment :src
+{
+  "date": "2009-11-04T07:17:47Z",
+  "id": "e/fefbc55cf6c3432aa11e4a09d65b1f58",
+  "rawBody": "Дажe у часов есть свой twitter  http://twitter.com/big_ben_clock",
+  "from": {
+    "name": "углы «Исимуры»",
+    "id": "zag",
+    "type": "user"
+  },
+  "url": "http://friendfeed.com/zag/fefbc55c/e-twitter",
+  "body": "Дажe у часов есть свой twitter  <a rel=\"nofollow\" href=\"http://twitter.com/big_ben_clock\" title=\"http://twitter.com/big_ben_clock\">http://twitter.com/big_ben...</a>",
+  "rawLink": "http://friendfeed.com/e/fefbc55c-f6c3-432a-a11e-4a09d65b1f58"
+}
+=end comment
+
+=end pod

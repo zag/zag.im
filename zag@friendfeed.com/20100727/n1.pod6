@@ -1,0 +1,154 @@
+=begin pod :pubdate('2010-07-27T15:58:30Z') :type<note> :tags<ps3>
+=NAME Completed: Resistance 2  #ps3
+
+=begin DESCRIPTION
+
+Completed: Resistance 2  #ps3
+=for Image :width(233) :link('http://m.friendfeed-media.com/4fbb6563dbd9476d9f3c2078ca9ef52ad2e0eee1') :height(175) :preview
+media/7f93132c9b2ccec189fd9d867a435379cec24e93.jpg
+=for Image :width(233) :link('http://m.friendfeed-media.com/4a3be7c452d99c79375bf5502b0a70f8df0907fd') :height(175) :preview
+media/7fa37f9531e7e9289b9546bb641f1eaad30d8669.jpg
+=for Image :width(233) :link('http://m.friendfeed-media.com/3778c1833d28e0098627fa29139bf23979119588') :height(175) :preview
+media/e7bd33044976a5a916d928b6bf6733b059888ce9.jpg
+=for Image :width(233) :link('http://m.friendfeed-media.com/960c4c5fdf875e7380084a2fe5b80a64b73b6887') :height(175) :preview
+media/3092fa3266b877156619215eb232232fe22b2844.jpg
+=for Image :width(151) :link('http://m.friendfeed-media.com/1967c46302881a163b68be8565f4e6d2c0caaa00') :height(175) :preview
+media/992a42a8e301ec082a6799b1c52afa1be088dda3.jpg
+=for Image :width(233) :link('http://m.friendfeed-media.com/a42139e562bea5b7a0a1b1477ca061fe6c1f4638') :height(175) :preview
+media/4bacda878aab8c931a58b36265fca5dedf25f474.jpg
+=for Image :width(233) :link('http://m.friendfeed-media.com/306d41313b815d341f65ae8253f1132a9a1f7786') :height(175) :preview
+media/a5a7e65dc37909d3934669011b2f82355d953fc7.jpg
+=for Image :width(233) :link('http://m.friendfeed-media.com/af73592253d246848d295dc0af66fff9dc7bcd91') :height(175) :preview
+media/6a8e1656aca3f94cf0cb4351a2b7f6676ae829fb.jpg
+=for Image :width(233) :link('http://m.friendfeed-media.com/78bd6bdcbcee4d2ead055e82bac5268e1664cddc') :height(175) :preview
+media/dfc4248aaabaf1c79c74bb04f2e859d36fdb93fe.jpg
+=for Image :width(233) :link('http://m.friendfeed-media.com/281dca15a4c9d4e3a66382aa36e4928b11e5e745') :height(175) :preview
+media/57fc0c6b1b8b6c6b77d2db53281b130bd9b97384.jpg
+=for Image :width(233) :link('http://m.friendfeed-media.com/910a8ea55bca82c74b94619b846deda6f07604f7') :height(175) :preview
+media/f782043fc3c26208f33ce3cb3ba6317412e93f30.jpg
+=for Image :width(233) :link('http://m.friendfeed-media.com/69bb65f9d2db330a18a32973802bc55e687d8dcb') :height(175) :preview
+media/d986649d9f5bd7db22d5b691a7f784825b5a5f9b.jpg
+
+
+
+=end DESCRIPTION
+
+Completed: Resistance 2  #ps3
+=for Image :width(233) :link('http://m.friendfeed-media.com/4fbb6563dbd9476d9f3c2078ca9ef52ad2e0eee1') :height(175) :preview
+media/7f93132c9b2ccec189fd9d867a435379cec24e93.jpg
+=for Image :width(233) :link('http://m.friendfeed-media.com/4a3be7c452d99c79375bf5502b0a70f8df0907fd') :height(175) :preview
+media/7fa37f9531e7e9289b9546bb641f1eaad30d8669.jpg
+=for Image :width(233) :link('http://m.friendfeed-media.com/3778c1833d28e0098627fa29139bf23979119588') :height(175) :preview
+media/e7bd33044976a5a916d928b6bf6733b059888ce9.jpg
+=for Image :width(233) :link('http://m.friendfeed-media.com/960c4c5fdf875e7380084a2fe5b80a64b73b6887') :height(175) :preview
+media/3092fa3266b877156619215eb232232fe22b2844.jpg
+=for Image :width(151) :link('http://m.friendfeed-media.com/1967c46302881a163b68be8565f4e6d2c0caaa00') :height(175) :preview
+media/992a42a8e301ec082a6799b1c52afa1be088dda3.jpg
+=for Image :width(233) :link('http://m.friendfeed-media.com/a42139e562bea5b7a0a1b1477ca061fe6c1f4638') :height(175) :preview
+media/4bacda878aab8c931a58b36265fca5dedf25f474.jpg
+=for Image :width(233) :link('http://m.friendfeed-media.com/306d41313b815d341f65ae8253f1132a9a1f7786') :height(175) :preview
+media/a5a7e65dc37909d3934669011b2f82355d953fc7.jpg
+=for Image :width(233) :link('http://m.friendfeed-media.com/af73592253d246848d295dc0af66fff9dc7bcd91') :height(175) :preview
+media/6a8e1656aca3f94cf0cb4351a2b7f6676ae829fb.jpg
+=for Image :width(233) :link('http://m.friendfeed-media.com/78bd6bdcbcee4d2ead055e82bac5268e1664cddc') :height(175) :preview
+media/dfc4248aaabaf1c79c74bb04f2e859d36fdb93fe.jpg
+=for Image :width(233) :link('http://m.friendfeed-media.com/281dca15a4c9d4e3a66382aa36e4928b11e5e745') :height(175) :preview
+media/57fc0c6b1b8b6c6b77d2db53281b130bd9b97384.jpg
+=for Image :width(233) :link('http://m.friendfeed-media.com/910a8ea55bca82c74b94619b846deda6f07604f7') :height(175) :preview
+media/f782043fc3c26208f33ce3cb3ba6317412e93f30.jpg
+=for Image :width(233) :link('http://m.friendfeed-media.com/69bb65f9d2db330a18a32973802bc55e687d8dcb') :height(175) :preview
+media/d986649d9f5bd7db22d5b691a7f784825b5a5f9b.jpg
+
+
+
+=begin comment :src
+{
+  "from": {
+    "name": "углы «Исимуры»",
+    "type": "user",
+    "id": "zag"
+  },
+  "date": "2010-07-27T15:58:30Z",
+  "id": "e/8234e541c3d44240911f34ab998943a9",
+  "rawBody": "Completed: Resistance 2  #ps3",
+  "url": "http://friendfeed.com/zag/8234e541/completed-resistance-2-ps3",
+  "thumbnails": [
+    {
+      "height": 175,
+      "link": "http://m.friendfeed-media.com/4fbb6563dbd9476d9f3c2078ca9ef52ad2e0eee1",
+      "url": "http://m.friendfeed-media.com/7f93132c9b2ccec189fd9d867a435379cec24e93",
+      "width": 233
+    },
+    {
+      "url": "http://m.friendfeed-media.com/7fa37f9531e7e9289b9546bb641f1eaad30d8669",
+      "width": 233,
+      "height": 175,
+      "link": "http://m.friendfeed-media.com/4a3be7c452d99c79375bf5502b0a70f8df0907fd"
+    },
+    {
+      "height": 175,
+      "link": "http://m.friendfeed-media.com/3778c1833d28e0098627fa29139bf23979119588",
+      "width": 233,
+      "url": "http://m.friendfeed-media.com/e7bd33044976a5a916d928b6bf6733b059888ce9"
+    },
+    {
+      "link": "http://m.friendfeed-media.com/960c4c5fdf875e7380084a2fe5b80a64b73b6887",
+      "height": 175,
+      "url": "http://m.friendfeed-media.com/3092fa3266b877156619215eb232232fe22b2844",
+      "width": 233
+    },
+    {
+      "height": 175,
+      "link": "http://m.friendfeed-media.com/1967c46302881a163b68be8565f4e6d2c0caaa00",
+      "width": 151,
+      "url": "http://m.friendfeed-media.com/992a42a8e301ec082a6799b1c52afa1be088dda3"
+    },
+    {
+      "url": "http://m.friendfeed-media.com/4bacda878aab8c931a58b36265fca5dedf25f474",
+      "width": 233,
+      "height": 175,
+      "link": "http://m.friendfeed-media.com/a42139e562bea5b7a0a1b1477ca061fe6c1f4638"
+    },
+    {
+      "height": 175,
+      "link": "http://m.friendfeed-media.com/306d41313b815d341f65ae8253f1132a9a1f7786",
+      "url": "http://m.friendfeed-media.com/a5a7e65dc37909d3934669011b2f82355d953fc7",
+      "width": 233
+    },
+    {
+      "width": 233,
+      "url": "http://m.friendfeed-media.com/6a8e1656aca3f94cf0cb4351a2b7f6676ae829fb",
+      "link": "http://m.friendfeed-media.com/af73592253d246848d295dc0af66fff9dc7bcd91",
+      "height": 175
+    },
+    {
+      "width": 233,
+      "url": "http://m.friendfeed-media.com/dfc4248aaabaf1c79c74bb04f2e859d36fdb93fe",
+      "link": "http://m.friendfeed-media.com/78bd6bdcbcee4d2ead055e82bac5268e1664cddc",
+      "height": 175
+    },
+    {
+      "link": "http://m.friendfeed-media.com/281dca15a4c9d4e3a66382aa36e4928b11e5e745",
+      "height": 175,
+      "width": 233,
+      "url": "http://m.friendfeed-media.com/57fc0c6b1b8b6c6b77d2db53281b130bd9b97384"
+    },
+    {
+      "width": 233,
+      "url": "http://m.friendfeed-media.com/f782043fc3c26208f33ce3cb3ba6317412e93f30",
+      "height": 175,
+      "link": "http://m.friendfeed-media.com/910a8ea55bca82c74b94619b846deda6f07604f7"
+    },
+    {
+      "width": 233,
+      "url": "http://m.friendfeed-media.com/d986649d9f5bd7db22d5b691a7f784825b5a5f9b",
+      "link": "http://m.friendfeed-media.com/69bb65f9d2db330a18a32973802bc55e687d8dcb",
+      "height": 175
+    }
+  ],
+  "body": "Completed: Resistance 2  <a href=\"http://friendfeed.com/search?q=%23ps3\">#ps3</a>",
+  "rawLink": "http://friendfeed.com/e/8234e541-c3d4-4240-911f-34ab998943a9"
+}
+=end comment
+
+=end pod

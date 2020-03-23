@@ -1,0 +1,36 @@
+=begin pod :pubdate('2009-09-07T09:57:24Z') :type<note> 
+=NAME @AnatolyUnix И опыт сын ошибок трудных и гений парадоксов друг (С) А.С. ПУШКИН
+
+=begin DESCRIPTION
+
+@AnatolyUnix И опыт сын ошибок трудных и гений парадоксов друг (С) А.С. ПУШКИН - L<link|http://twitter.com/zagru/statuses/3816147584>
+
+
+
+=end DESCRIPTION
+
+@AnatolyUnix И опыт сын ошибок трудных и гений парадоксов друг (С) А.С. ПУШКИН - L<link|http://twitter.com/zagru/statuses/3816147584>
+
+
+
+=begin comment :src
+{
+  "id": "e/2624d2b8a990e61e29376aa7d572a68b",
+  "date": "2009-09-07T09:57:24Z",
+  "rawBody": "@AnatolyUnix И опыт сын ошибок трудных и гений парадоксов друг (С) А.С. ПУШКИН",
+  "url": "http://friendfeed.com/zag/2624d2b8/anatolyunix",
+  "body": "@<a rel=\"nofollow\" href=\"http://twitter.com/AnatolyUnix\">AnatolyUnix</a> И опыт сын ошибок трудных и гений парадоксов друг (С) А.С. ПУШКИН",
+  "rawLink": "http://twitter.com/zagru/statuses/3816147584",
+  "via": {
+    "url": "http://twitter.com/zagru/statuses/3816147584",
+    "name": "Twitter"
+  },
+  "from": {
+    "type": "user",
+    "id": "zag",
+    "name": "углы «Исимуры»"
+  }
+}
+=end comment
+
+=end pod

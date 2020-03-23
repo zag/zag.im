@@ -1,0 +1,68 @@
+=begin pod :pubdate('2010-08-07T09:33:07Z') :type<note> 
+=NAME Старица - старое русло реки
+
+=begin DESCRIPTION
+
+Старица - старое русло реки
+=for Image :width(233) :link('http://m.friendfeed-media.com/0e8b7e9ab9ce65254de94ceb9143b726a90ffe80') :height(175) :preview
+media/8392c7d4f71a51774b059a252bf8dc198c2d5ae3.jpg
+=for Image :width(233) :link('http://m.friendfeed-media.com/0ec2f547295ef293eca99d7e56c05f405aaa6da3') :height(175) :preview
+media/6532b68be27d9834a80d4d6856b51c10d5f7c6ce.jpg
+=for Image :width(233) :link('http://m.friendfeed-media.com/f4c9bd2159d61ba43983f9bd78e6558372cdac4a') :height(175) :preview
+media/6b1004e7a693e6a761c4a1a99cbce65b4cd012fc.jpg
+
+
+
+=end DESCRIPTION
+
+Старица - старое русло реки
+=for Image :width(233) :link('http://m.friendfeed-media.com/0e8b7e9ab9ce65254de94ceb9143b726a90ffe80') :height(175) :preview
+media/8392c7d4f71a51774b059a252bf8dc198c2d5ae3.jpg
+=for Image :width(233) :link('http://m.friendfeed-media.com/0ec2f547295ef293eca99d7e56c05f405aaa6da3') :height(175) :preview
+media/6532b68be27d9834a80d4d6856b51c10d5f7c6ce.jpg
+=for Image :width(233) :link('http://m.friendfeed-media.com/f4c9bd2159d61ba43983f9bd78e6558372cdac4a') :height(175) :preview
+media/6b1004e7a693e6a761c4a1a99cbce65b4cd012fc.jpg
+
+
+
+=begin comment :src
+{
+  "rawLink": "http://friendfeed.com/e/cf441dbd-3a24-4cf7-8b50-79dedf272f7f",
+  "body": "Старица - старое русло реки",
+  "url": "http://friendfeed.com/zag/cf441dbd",
+  "id": "e/cf441dbd3a244cf78b5079dedf272f7f",
+  "date": "2010-08-07T09:33:07Z",
+  "rawBody": "Старица - старое русло реки",
+  "thumbnails": [
+    {
+      "height": 175,
+      "link": "http://m.friendfeed-media.com/0e8b7e9ab9ce65254de94ceb9143b726a90ffe80",
+      "width": 233,
+      "url": "http://m.friendfeed-media.com/8392c7d4f71a51774b059a252bf8dc198c2d5ae3"
+    },
+    {
+      "width": 233,
+      "url": "http://m.friendfeed-media.com/6532b68be27d9834a80d4d6856b51c10d5f7c6ce",
+      "height": 175,
+      "link": "http://m.friendfeed-media.com/0ec2f547295ef293eca99d7e56c05f405aaa6da3"
+    },
+    {
+      "height": 175,
+      "link": "http://m.friendfeed-media.com/f4c9bd2159d61ba43983f9bd78e6558372cdac4a",
+      "url": "http://m.friendfeed-media.com/6b1004e7a693e6a761c4a1a99cbce65b4cd012fc",
+      "width": 233
+    }
+  ],
+  "from": {
+    "name": "углы «Исимуры»",
+    "type": "user",
+    "id": "zag"
+  },
+  "via": {
+    "url": "http://friendfeed.com/share/mail",
+    "name": "email"
+  }
+}
+=end comment
+
+=end pod

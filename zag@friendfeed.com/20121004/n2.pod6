@@ -1,0 +1,90 @@
+=begin pod :pubdate('2012-10-04T07:38:14Z') :type<note> 
+=NAME Буккроссинг — Википедия
+
+=begin DESCRIPTION
+
+Буккроссинг — Википедия - L<link|http://ru.wikipedia.org/wiki/%D0%91%D1%83%D0%BA%D0%BA%D1%80%D0%BE%D1%81%D1%81%D0%B8%D0%BD%D0%B3#>
+=for Image :width(220) :link('http://ru.wikipedia.org/wiki/%D0%91%D1%83%D0%BA%D0%BA%D1%80%D0%BE%D1%81%D1%81%D0%B8%D0%BD%D0%B3#') :height(165) :preview
+media/52216153c5bbc682f7791f23a561a63197f3c8f6.jpg
+=for Image :width(138) :link('http://ru.wikipedia.org/wiki/%D0%91%D1%83%D0%BA%D0%BA%D1%80%D0%BE%D1%81%D1%81%D0%B8%D0%BD%D0%B3#') :height(175) :preview
+media/00b95a07a1ba0f87c8a45e2cd38d9e88498b6508.jpg
+
+=item "Буккроссинг — это процесс освобождения книг. Человек, прочитав книгу, оставляет («освобождает») её в общественном месте (парк, кафе, поезд, станция метро), для того, чтобы другой, случайный человек мог эту книгу найти и прочитать; тот в свою очередь должен повторить процесс. Слежение за «путешествием» книги осуществляется через специальные сайты в интернете."
+=item I<#>bookcrossing
+
+
+=end DESCRIPTION
+
+Буккроссинг — Википедия - L<link|http://ru.wikipedia.org/wiki/%D0%91%D1%83%D0%BA%D0%BA%D1%80%D0%BE%D1%81%D1%81%D0%B8%D0%BD%D0%B3#>
+=for Image :width(220) :link('http://ru.wikipedia.org/wiki/%D0%91%D1%83%D0%BA%D0%BA%D1%80%D0%BE%D1%81%D1%81%D0%B8%D0%BD%D0%B3#') :height(165) :preview
+media/52216153c5bbc682f7791f23a561a63197f3c8f6.jpg
+=for Image :width(138) :link('http://ru.wikipedia.org/wiki/%D0%91%D1%83%D0%BA%D0%BA%D1%80%D0%BE%D1%81%D1%81%D0%B8%D0%BD%D0%B3#') :height(175) :preview
+media/00b95a07a1ba0f87c8a45e2cd38d9e88498b6508.jpg
+
+=item "Буккроссинг — это процесс освобождения книг. Человек, прочитав книгу, оставляет («освобождает») её в общественном месте (парк, кафе, поезд, станция метро), для того, чтобы другой, случайный человек мог эту книгу найти и прочитать; тот в свою очередь должен повторить процесс. Слежение за «путешествием» книги осуществляется через специальные сайты в интернете."
+=item I<#>bookcrossing
+
+
+=begin comment :src
+{
+  "comments": [
+    {
+      "via": {
+        "url": "http://friendfeed.com/share/bookmarklet",
+        "name": "Bookmarklet"
+      },
+      "date": "2012-10-04T07:38:14Z",
+      "id": "e/d82fdd781c0f4f59a8cd68517d2fee25/c/32e22885f3274270b363b3410f9cf57f",
+      "rawBody": "\"Буккроссинг — это процесс освобождения книг. Человек, прочитав книгу, оставляет («освобождает») её в общественном месте (парк, кафе, поезд, станция метро), для того, чтобы другой, случайный человек мог эту книгу найти и прочитать; тот в свою очередь должен повторить процесс. Слежение за «путешествием» книги осуществляется через специальные сайты в интернете.\"",
+      "from": {
+        "type": "user",
+        "id": "zag",
+        "name": "углы «Исимуры»"
+      },
+      "body": "&quot;Буккроссинг — это процесс освобождения книг. Человек, прочитав книгу, оставляет («освобождает») её в общественном месте (парк, кафе, поезд, станция метро), для того, чтобы другой, случайный человек мог эту книгу найти и прочитать; тот в свою очередь должен повторить процесс. Слежение за «путешествием» книги осуществляется через специальные сайты в интернете.&quot;"
+    },
+    {
+      "rawBody": "I<#>bookcrossing",
+      "date": "2012-10-04T07:40:42Z",
+      "id": "e/d82fdd781c0f4f59a8cd68517d2fee25/c/e05035c5f1fd413eb2ad932d04210459",
+      "from": {
+        "id": "zag",
+        "type": "user",
+        "name": "углы «Исимуры»"
+      },
+      "body": "<a href=\"http://friendfeed.com/search?q=%23bookcrossing\">#bookcrossing</a>"
+    }
+  ],
+  "from": {
+    "id": "zag",
+    "type": "user",
+    "name": "углы «Исимуры»"
+  },
+  "via": {
+    "name": "Bookmarklet",
+    "url": "http://friendfeed.com/share/bookmarklet"
+  },
+  "rawLink": "http://ru.wikipedia.org/wiki/%D0%91%D1%83%D0%BA%D0%BA%D1%80%D0%BE%D1%81%D1%81%D0%B8%D0%BD%D0%B3#",
+  "body": "Буккроссинг — Википедия - <a rel=\"nofollow\" href=\"http://ru.wikipedia.org/wiki/%D0%91%D1%83%D0%BA%D0%BA%D1%80%D0%BE%D1%81%D1%81%D0%B8%D0%BD%D0%B3#\" title=\"http://ru.wikipedia.org/wiki/%D0%91%D1%83%D0%BA%D0%BA%D1%80%D0%BE%D1%81%D1%81%D0%B8%D0%BD%D0%B3#\">http://ru.wikipedia.org/wiki...</a>",
+  "id": "e/d82fdd781c0f4f59a8cd68517d2fee25",
+  "rawBody": "Буккроссинг — Википедия",
+  "date": "2012-10-04T07:38:14Z",
+  "url": "http://friendfeed.com/zag/d82fdd78",
+  "thumbnails": [
+    {
+      "link": "http://ru.wikipedia.org/wiki/%D0%91%D1%83%D0%BA%D0%BA%D1%80%D0%BE%D1%81%D1%81%D0%B8%D0%BD%D0%B3#",
+      "height": 165,
+      "url": "http://m.friendfeed-media.com/52216153c5bbc682f7791f23a561a63197f3c8f6",
+      "width": 220
+    },
+    {
+      "height": 175,
+      "link": "http://ru.wikipedia.org/wiki/%D0%91%D1%83%D0%BA%D0%BA%D1%80%D0%BE%D1%81%D1%81%D0%B8%D0%BD%D0%B3#",
+      "width": 138,
+      "url": "http://m.friendfeed-media.com/00b95a07a1ba0f87c8a45e2cd38d9e88498b6508"
+    }
+  ]
+}
+=end comment
+
+=end pod

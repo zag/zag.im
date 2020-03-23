@@ -1,0 +1,74 @@
+=begin pod :pubdate('2010-12-23T10:20:52Z') :type<note> :tags<qwerty>
+=NAME Nokia N900. Вместо #qwerty проще вводить текст в этот телефон  через ssh .
+
+=begin DESCRIPTION
+
+Nokia N900. Вместо #qwerty проще вводить текст в этот телефон  через ssh .
+=for Image :width(233) :link('http://m.friendfeed-media.com/f6322ee240f51826492a6514caea9c32ce5c3f8a') :height(175) :preview
+media/66191a7979cd18493db496fb132821d717cbe877.jpg
+=for Image :width(233) :link('http://m.friendfeed-media.com/aefaf3c0ed685f93a60523971f817e247f5e96d1') :height(175) :preview
+media/20f9a3e4e48a0bac417c71388d3f1034f2fe3f5c.jpg
+=for Image :width(233) :link('http://m.friendfeed-media.com/d023f2c978eb484e4549a5bed2c4ad8c20415d00') :height(175) :preview
+media/2ac8065f02d1889676aea1d9529ce7f137f1fb65.jpg
+=for Image :width(233) :link('http://m.friendfeed-media.com/7719c41a3a9079bc450dd0220b0b26168c7e81bb') :height(175) :preview
+media/ed93ef2e7a2b837721257d133962e221903fa12a.jpg
+
+
+
+=end DESCRIPTION
+
+Nokia N900. Вместо #qwerty проще вводить текст в этот телефон  через ssh .
+=for Image :width(233) :link('http://m.friendfeed-media.com/f6322ee240f51826492a6514caea9c32ce5c3f8a') :height(175) :preview
+media/66191a7979cd18493db496fb132821d717cbe877.jpg
+=for Image :width(233) :link('http://m.friendfeed-media.com/aefaf3c0ed685f93a60523971f817e247f5e96d1') :height(175) :preview
+media/20f9a3e4e48a0bac417c71388d3f1034f2fe3f5c.jpg
+=for Image :width(233) :link('http://m.friendfeed-media.com/d023f2c978eb484e4549a5bed2c4ad8c20415d00') :height(175) :preview
+media/2ac8065f02d1889676aea1d9529ce7f137f1fb65.jpg
+=for Image :width(233) :link('http://m.friendfeed-media.com/7719c41a3a9079bc450dd0220b0b26168c7e81bb') :height(175) :preview
+media/ed93ef2e7a2b837721257d133962e221903fa12a.jpg
+
+
+
+=begin comment :src
+{
+  "from": {
+    "name": "углы «Исимуры»",
+    "id": "zag",
+    "type": "user"
+  },
+  "id": "e/0e7a149839f842c6bd9f96efdc45ee9e",
+  "url": "http://friendfeed.com/zag/0e7a1498/nokia-n900-qwerty-ssh",
+  "date": "2010-12-23T10:20:52Z",
+  "rawBody": "Nokia N900. Вместо #qwerty проще вводить текст в этот телефон  через ssh .",
+  "thumbnails": [
+    {
+      "height": 175,
+      "link": "http://m.friendfeed-media.com/f6322ee240f51826492a6514caea9c32ce5c3f8a",
+      "width": 233,
+      "url": "http://m.friendfeed-media.com/66191a7979cd18493db496fb132821d717cbe877"
+    },
+    {
+      "url": "http://m.friendfeed-media.com/20f9a3e4e48a0bac417c71388d3f1034f2fe3f5c",
+      "width": 233,
+      "height": 175,
+      "link": "http://m.friendfeed-media.com/aefaf3c0ed685f93a60523971f817e247f5e96d1"
+    },
+    {
+      "link": "http://m.friendfeed-media.com/d023f2c978eb484e4549a5bed2c4ad8c20415d00",
+      "height": 175,
+      "url": "http://m.friendfeed-media.com/2ac8065f02d1889676aea1d9529ce7f137f1fb65",
+      "width": 233
+    },
+    {
+      "link": "http://m.friendfeed-media.com/7719c41a3a9079bc450dd0220b0b26168c7e81bb",
+      "height": 175,
+      "url": "http://m.friendfeed-media.com/ed93ef2e7a2b837721257d133962e221903fa12a",
+      "width": 233
+    }
+  ],
+  "body": "Nokia N900. Вместо <a href=\"http://friendfeed.com/search?q=%23qwerty\">#qwerty</a> проще вводить текст в этот телефон  через ssh .",
+  "rawLink": "http://friendfeed.com/e/0e7a1498-39f8-42c6-bd9f-96efdc45ee9e"
+}
+=end comment
+
+=end pod

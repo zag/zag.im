@@ -1,0 +1,36 @@
+=begin pod :pubdate('2011-03-22T10:23:18Z') :type<note> :tags<perl6>
+=NAME Rakudo * now in OpenBSD ports. #perl6 http://openports.se/lang/rakudo
+
+=begin DESCRIPTION
+
+Rakudo * now in OpenBSD ports. #perl6 http://openports.se/lang/rakudo - L<link|http://twitter.com/zagru/statuses/50140487037890561>
+
+
+
+=end DESCRIPTION
+
+Rakudo * now in OpenBSD ports. #perl6 http://openports.se/lang/rakudo - L<link|http://twitter.com/zagru/statuses/50140487037890561>
+
+
+
+=begin comment :src
+{
+  "from": {
+    "name": "углы «Исимуры»",
+    "type": "user",
+    "id": "zag"
+  },
+  "via": {
+    "url": "http://twitter.com/zagru/statuses/50140487037890561",
+    "name": "Twitter"
+  },
+  "date": "2011-03-22T10:23:18Z",
+  "id": "e/d1f95e9a23a80378c17dd4ae24ef12c4",
+  "rawBody": "Rakudo * now in OpenBSD ports. #perl6 http://openports.se/lang/rakudo",
+  "url": "http://friendfeed.com/zag/d1f95e9a/rakudo-now-in-openbsd-ports-perl6",
+  "rawLink": "http://twitter.com/zagru/statuses/50140487037890561",
+  "body": "Rakudo * now in OpenBSD ports. <a rel=\"nofollow\" href=\"http://search.twitter.com/search?q=%23perl6\">#perl6</a> <a rel=\"nofollow\" href=\"http://openports.se/lang/rakudo\" title=\"http://openports.se/lang/rakudo\">http://openports.se/lang...</a>"
+}
+=end comment
+
+=end pod

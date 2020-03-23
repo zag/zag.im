@@ -1,0 +1,77 @@
+=begin pod :pubdate('2010-08-02T13:55:23Z') :type<note> 
+=NAME Anybot – эксклюзивные фотографии ваших будущих сотрудников | александр.moskalyuk.name
+
+=begin DESCRIPTION
+
+Anybot – эксклюзивные фотографии ваших будущих сотрудников | александр.moskalyuk.name - L<link|http://moskalyuk.name/2900>
+=for Image :width(53) :link('http://moskalyuk.name/2900') :height(175) :preview
+media/a4a44d01e38dac1fd94f0f99ad2c5bf5be9f6b0a.jpg
+=for Image :width(311) :link('http://moskalyuk.name/2900') :height(175) :preview
+media/3e6afae436bb235ba0656d4159065347a9ae0073.jpg
+
+=item сотрудник, работающий удаленно, всего за $15,000 может разместить в офисе компании-работодателя такого вот робота со встроенными видеокамерами, микрофонами и громкоговорителями.
+
+
+=end DESCRIPTION
+
+Anybot – эксклюзивные фотографии ваших будущих сотрудников | александр.moskalyuk.name - L<link|http://moskalyuk.name/2900>
+=for Image :width(53) :link('http://moskalyuk.name/2900') :height(175) :preview
+media/a4a44d01e38dac1fd94f0f99ad2c5bf5be9f6b0a.jpg
+=for Image :width(311) :link('http://moskalyuk.name/2900') :height(175) :preview
+media/3e6afae436bb235ba0656d4159065347a9ae0073.jpg
+
+=item сотрудник, работающий удаленно, всего за $15,000 может разместить в офисе компании-работодателя такого вот робота со встроенными видеокамерами, микрофонами и громкоговорителями.
+
+
+=begin comment :src
+{
+  "comments": [
+    {
+      "date": "2010-08-02T13:55:23Z",
+      "id": "e/6a7803edda5349a1ba3aba973d04ac41/c/e1563727c9fa4d51bc6cc6cf61a95266",
+      "from": {
+        "name": "углы «Исимуры»",
+        "id": "zag",
+        "type": "user"
+      },
+      "rawBody": "сотрудник, работающий удаленно, всего за $15,000 может разместить в офисе компании-работодателя такого вот робота со встроенными видеокамерами, микрофонами и громкоговорителями.",
+      "via": {
+        "url": "http://friendfeed.com/share/bookmarklet",
+        "name": "Bookmarklet"
+      },
+      "body": "сотрудник, работающий удаленно, всего за $15,000 может разместить в офисе компании-работодателя такого вот робота со встроенными видеокамерами, микрофонами и громкоговорителями."
+    }
+  ],
+  "from": {
+    "id": "zag",
+    "type": "user",
+    "name": "углы «Исимуры»"
+  },
+  "via": {
+    "url": "http://friendfeed.com/share/bookmarklet",
+    "name": "Bookmarklet"
+  },
+  "body": "Anybot – эксклюзивные фотографии ваших будущих сотрудников | александр.moskalyuk.name - <a rel=\"nofollow\" href=\"http://moskalyuk.name/2900\">http://moskalyuk.name/2900</a>",
+  "rawLink": "http://moskalyuk.name/2900",
+  "id": "e/6a7803edda5349a1ba3aba973d04ac41",
+  "rawBody": "Anybot – эксклюзивные фотографии ваших будущих сотрудников | александр.moskalyuk.name",
+  "date": "2010-08-02T13:55:23Z",
+  "url": "http://friendfeed.com/zag/6a7803ed/anybot-moskalyuk-name",
+  "thumbnails": [
+    {
+      "height": 175,
+      "link": "http://moskalyuk.name/2900",
+      "url": "http://m.friendfeed-media.com/a4a44d01e38dac1fd94f0f99ad2c5bf5be9f6b0a",
+      "width": 53
+    },
+    {
+      "height": 175,
+      "link": "http://moskalyuk.name/2900",
+      "width": 311,
+      "url": "http://m.friendfeed-media.com/3e6afae436bb235ba0656d4159065347a9ae0073"
+    }
+  ]
+}
+=end comment
+
+=end pod

@@ -1,0 +1,36 @@
+=begin pod :pubdate('2010-12-04T07:21:42Z') :type<note> 
+=NAME RT @perlbuzz: Quickie overview of cool new Perl 6 file operations http://perl6advent.wordpress.com/2010/12/03/day-3-file-operations/
+
+=begin DESCRIPTION
+
+RT @perlbuzz: Quickie overview of cool new Perl 6 file operations http://perl6advent.wordpress.com/2010/12/03/day-3-file-operations/ - L<link|http://twitter.com/zagru/statuses/10956895502209024>
+
+
+
+=end DESCRIPTION
+
+RT @perlbuzz: Quickie overview of cool new Perl 6 file operations http://perl6advent.wordpress.com/2010/12/03/day-3-file-operations/ - L<link|http://twitter.com/zagru/statuses/10956895502209024>
+
+
+
+=begin comment :src
+{
+  "from": {
+    "name": "углы «Исимуры»",
+    "id": "zag",
+    "type": "user"
+  },
+  "via": {
+    "name": "Twitter",
+    "url": "http://twitter.com/zagru/statuses/10956895502209024"
+  },
+  "id": "e/2dbfca6d61cc90a47d4a38482919ea23",
+  "date": "2010-12-04T07:21:42Z",
+  "url": "http://friendfeed.com/zag/2dbfca6d/rt-perlbuzz-quickie-overview-of-cool-new-perl-6",
+  "rawBody": "RT @perlbuzz: Quickie overview of cool new Perl 6 file operations http://perl6advent.wordpress.com/2010/12/03/day-3-file-operations/",
+  "rawLink": "http://twitter.com/zagru/statuses/10956895502209024",
+  "body": "RT @<a rel=\"nofollow\" href=\"http://twitter.com/perlbuzz\">perlbuzz</a>: Quickie overview of cool new Perl 6 file operations <a rel=\"nofollow\" href=\"http://perl6advent.wordpress.com/2010/12/03/day-3-file-operations/\" title=\"http://perl6advent.wordpress.com/2010/12/03/day-3-file-operations/\">http://perl6advent.wordpress.com/2010...</a>"
+}
+=end comment
+
+=end pod

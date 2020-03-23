@@ -1,0 +1,36 @@
+=begin pod :pubdate('2010-09-02T06:57:49Z') :type<note> :tags<lvee>
+=NAME RT @strashylka: #lvee давайте дружно поздравим @nekotwi с Днём Варенья и пожелаем сладостей :))
+
+=begin DESCRIPTION
+
+RT @strashylka: #lvee давайте дружно поздравим @nekotwi с Днём Варенья и пожелаем сладостей :)) - L<link|http://twitter.com/zagru/statuses/22778182679>
+
+
+
+=end DESCRIPTION
+
+RT @strashylka: #lvee давайте дружно поздравим @nekotwi с Днём Варенья и пожелаем сладостей :)) - L<link|http://twitter.com/zagru/statuses/22778182679>
+
+
+
+=begin comment :src
+{
+  "from": {
+    "id": "zag",
+    "type": "user",
+    "name": "углы «Исимуры»"
+  },
+  "via": {
+    "name": "Twitter",
+    "url": "http://twitter.com/zagru/statuses/22778182679"
+  },
+  "id": "e/a9c70eb5e8f0c10b4a2e2dbf5747f85c",
+  "rawBody": "RT @strashylka: #lvee давайте дружно поздравим @nekotwi с Днём Варенья и пожелаем сладостей :))",
+  "date": "2010-09-02T06:57:49Z",
+  "url": "http://friendfeed.com/zag/a9c70eb5/rt-strashylka-lvee-nekotwi",
+  "rawLink": "http://twitter.com/zagru/statuses/22778182679",
+  "body": "RT @<a rel=\"nofollow\" href=\"http://twitter.com/strashylka\">strashylka</a>: <a rel=\"nofollow\" href=\"http://search.twitter.com/search?q=%23lvee\">#lvee</a> давайте дружно поздравим @<a rel=\"nofollow\" href=\"http://twitter.com/nekotwi\">nekotwi</a> с Днём Варенья и пожелаем сладостей :))"
+}
+=end comment
+
+=end pod

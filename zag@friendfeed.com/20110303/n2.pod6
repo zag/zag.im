@@ -1,0 +1,54 @@
+=begin pod :pubdate('2011-03-03T06:23:35Z') :type<note> :tags<tron>
+=NAME The Tron Lebowski /sketch/ #tron :  http://www.collegehumor.com/video:1948233
+
+=begin DESCRIPTION
+
+The Tron Lebowski /sketch/ #tron :  http://www.collegehumor.com/video:1948233
+=for Image :width(215) :link('http://m.friendfeed-media.com/88dde39790acec82238400c7613aa121826a9582') :height(175) :preview
+media/176d6148d28ae783a78b4a3abbfcf1b411364e69.jpg
+
+
+
+=end DESCRIPTION
+
+The Tron Lebowski /sketch/ #tron :  http://www.collegehumor.com/video:1948233
+=for Image :width(215) :link('http://m.friendfeed-media.com/88dde39790acec82238400c7613aa121826a9582') :height(175) :preview
+media/176d6148d28ae783a78b4a3abbfcf1b411364e69.jpg
+
+
+
+=begin comment :src
+{
+  "body": "The Tron Lebowski /sketch/ <a href=\"http://friendfeed.com/search?q=%23tron\">#tron</a> :  <a rel=\"nofollow\" href=\"http://www.collegehumor.com/video:1948233\" title=\"http://www.collegehumor.com/video:1948233\">http://www.collegehumor.com/video:1...</a>",
+  "rawLink": "http://friendfeed.com/e/b4b9e82a-9206-43e4-894f-cba64b627ccb",
+  "likes": [
+    {
+      "date": "2011-03-03T12:04:09Z",
+      "from": {
+        "name": "alex@kapranoff.ru",
+        "type": "user",
+        "id": "kkapp"
+      }
+    }
+  ],
+  "date": "2011-03-03T06:23:35Z",
+  "id": "e/b4b9e82a920643e4894fcba64b627ccb",
+  "thumbnails": [
+    {
+      "url": "http://m.friendfeed-media.com/176d6148d28ae783a78b4a3abbfcf1b411364e69",
+      "width": 215,
+      "height": 175,
+      "link": "http://m.friendfeed-media.com/88dde39790acec82238400c7613aa121826a9582"
+    }
+  ],
+  "rawBody": "The Tron Lebowski /sketch/ #tron :  http://www.collegehumor.com/video:1948233",
+  "url": "http://friendfeed.com/zag/b4b9e82a/tron-lebowski-sketch",
+  "from": {
+    "type": "user",
+    "id": "zag",
+    "name": "углы «Исимуры»"
+  }
+}
+=end comment
+
+=end pod

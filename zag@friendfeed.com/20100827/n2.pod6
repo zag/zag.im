@@ -1,0 +1,36 @@
+=begin pod :pubdate('2010-08-27T07:33:38Z') :type<note> :tags<perl6>
+=NAME Update FreeBSD ports to Parrot 2.7.0 and lang/rakudo to Rakudo Star 2010.08 #perl6 (send PR) http://rakudoport.sourceforge.net/
+
+=begin DESCRIPTION
+
+Update FreeBSD ports to Parrot 2.7.0 and lang/rakudo to Rakudo Star 2010.08 #perl6 (send PR) http://rakudoport.sourceforge.net/ - L<link|http://twitter.com/zagru/statuses/22248104082>
+
+
+
+=end DESCRIPTION
+
+Update FreeBSD ports to Parrot 2.7.0 and lang/rakudo to Rakudo Star 2010.08 #perl6 (send PR) http://rakudoport.sourceforge.net/ - L<link|http://twitter.com/zagru/statuses/22248104082>
+
+
+
+=begin comment :src
+{
+  "date": "2010-08-27T07:33:38Z",
+  "id": "e/a76d5447f0f31ef5da2f81de3d6c9775",
+  "rawBody": "Update FreeBSD ports to Parrot 2.7.0 and lang/rakudo to Rakudo Star 2010.08 #perl6 (send PR) http://rakudoport.sourceforge.net/",
+  "url": "http://friendfeed.com/zag/a76d5447/update-freebsd-ports-to-parrot-2-7-0-and-lang",
+  "rawLink": "http://twitter.com/zagru/statuses/22248104082",
+  "body": "Update FreeBSD ports to Parrot 2.7.0 and lang/rakudo to Rakudo Star 2010.08 <a rel=\"nofollow\" href=\"http://search.twitter.com/search?q=%23perl6\">#perl6</a> (send PR) <a rel=\"nofollow\" href=\"http://rakudoport.sourceforge.net/\" title=\"http://rakudoport.sourceforge.net/\">http://rakudoport.sourceforge.net/</a>",
+  "via": {
+    "url": "http://twitter.com/zagru/statuses/22248104082",
+    "name": "Twitter"
+  },
+  "from": {
+    "type": "user",
+    "id": "zag",
+    "name": "углы «Исимуры»"
+  }
+}
+=end comment
+
+=end pod

@@ -1,0 +1,222 @@
+=begin pod :pubdate('2011-12-15T18:00:35Z') :type<note> :tags<trend 3d>
+=NAME "Если вы не имеете 3D-очки, это не слишком поздно" ! Однозначно  #trend :-)
+
+=begin DESCRIPTION
+
+"Если вы не имеете 3D-очки, это не слишком поздно" ! Однозначно  #trend :-)
+=for Image :width(269) :link('http://m.friendfeed-media.com/ad8aadcfc6bd20842760e22caacc8923cdb3304f') :height(175) :preview
+media/8ac66431698c4a45118990e59290916860cb4243.jpg
+
+=item В современном Web, к обязательному javascript,  добавляется  3D. Как скоро для просмотра сайтов понадобятся очки? #3d мониторы?
+=item Яндекс ответил, что через год - два или "Скоро для просмотра 3D не понадобятся очки" http://yandex.ru/yandsearch?text=%D0%9A%D0%B0%D0%BA+%D1%81%D0%BA%D0%BE%D1%80%D0%BE+%D0%B4%D0%BB%D1%8F+%D0%BF%D1%80%D0%BE%D1%81%D0%BC%D0%BE%D1%82%D1%80%D0%B0+%D1%81%D0%B0%D0%B9%D1%82%D0%BE%D0%B2+%D0%BF%D0%BE%D0%BD%D0%B0%D0%B4%D0%BE%D0%B1%D1%8F%D1%82%D1%81%D1%8F+3d-%D0%BE%D1%87%D0%BA%D0%B8%3F&lr=213
+=item Первый в мире 3D-сайт уже есть. http://3dmir.info/3d_tehnologii/pervyj-v-mire-3d-sajt/
+=item Без  javascript тяжеловато: http://friendfeed.com/zag/ec3c06ab/links-web-javascript-flash , https://twitter.com/#!/dchest/status/147253889404641281
+=item Теперь еще и очки ... #переносица
+=item кинотеатры, затем - TV,  теперь - adult ... Небо... небо не видело такого  ... (К-ф 'Кин-дза-дза')
+=item GDD 2011 — поставщик замечательных 3D очков! :D
+
+
+=end DESCRIPTION
+
+"Если вы не имеете 3D-очки, это не слишком поздно" ! Однозначно  #trend :-)
+=for Image :width(269) :link('http://m.friendfeed-media.com/ad8aadcfc6bd20842760e22caacc8923cdb3304f') :height(175) :preview
+media/8ac66431698c4a45118990e59290916860cb4243.jpg
+
+=item В современном Web, к обязательному javascript,  добавляется  3D. Как скоро для просмотра сайтов понадобятся очки? #3d мониторы?
+=item Яндекс ответил, что через год - два или "Скоро для просмотра 3D не понадобятся очки" http://yandex.ru/yandsearch?text=%D0%9A%D0%B0%D0%BA+%D1%81%D0%BA%D0%BE%D1%80%D0%BE+%D0%B4%D0%BB%D1%8F+%D0%BF%D1%80%D0%BE%D1%81%D0%BC%D0%BE%D1%82%D1%80%D0%B0+%D1%81%D0%B0%D0%B9%D1%82%D0%BE%D0%B2+%D0%BF%D0%BE%D0%BD%D0%B0%D0%B4%D0%BE%D0%B1%D1%8F%D1%82%D1%81%D1%8F+3d-%D0%BE%D1%87%D0%BA%D0%B8%3F&lr=213
+=item Первый в мире 3D-сайт уже есть. http://3dmir.info/3d_tehnologii/pervyj-v-mire-3d-sajt/
+=item Без  javascript тяжеловато: http://friendfeed.com/zag/ec3c06ab/links-web-javascript-flash , https://twitter.com/#!/dchest/status/147253889404641281
+=item Теперь еще и очки ... #переносица
+=item кинотеатры, затем - TV,  теперь - adult ... Небо... небо не видело такого  ... (К-ф 'Кин-дза-дза')
+=item GDD 2011 — поставщик замечательных 3D очков! :D
+
+
+=begin comment :src
+{
+  "comments": [
+    {
+      "rawBody": "В современном Web, к обязательному javascript,  добавляется  3D. Как скоро для просмотра сайтов понадобятся очки? #3d мониторы?",
+      "id": "e/0d55db71f10642438af4e473501d8eb5/c/2edfe09cd6b249ed8eb2cbdb60df2721",
+      "date": "2011-12-15T18:07:41Z",
+      "from": {
+        "type": "user",
+        "id": "zag",
+        "name": "углы «Исимуры»"
+      },
+      "body": "В современном Web, к обязательному javascript,  добавляется  3D. Как скоро для просмотра сайтов понадобятся очки? <a href=\"http://friendfeed.com/search?q=%233d\">#3d</a> мониторы?"
+    },
+    {
+      "body": "Яндекс ответил, что через год - два или &quot;Скоро для просмотра 3D не понадобятся очки&quot; <a rel=\"nofollow\" href=\"http://yandex.ru/yandsearch?text=%D0%9A%D0%B0%D0%BA+%D1%81%D0%BA%D0%BE%D1%80%D0%BE+%D0%B4%D0%BB%D1%8F+%D0%BF%D1%80%D0%BE%D1%81%D0%BC%D0%BE%D1%82%D1%80%D0%B0+%D1%81%D0%B0%D0%B9%D1%82%D0%BE%D0%B2+%D0%BF%D0%BE%D0%BD%D0%B0%D0%B4%D0%BE%D0%B1%D1%8F%D1%82%D1%81%D1%8F+3d-%D0%BE%D1%87%D0%BA%D0%B8%3F&amp;lr=213\" title=\"http://yandex.ru/yandsearch?text=%D0%9A%D0%B0%D0%BA+%D1%81%D0%BA%D0%BE%D1%80%D0%BE+%D0%B4%D0%BB%D1%8F+%D0%BF%D1%80%D0%BE%D1%81%D0%BC%D0%BE%D1%82%D1%80%D0%B0+%D1%81%D0%B0%D0%B9%D1%82%D0%BE%D0%B2+%D0%BF%D0%BE%D0%BD%D0%B0%D0%B4%D0%BE%D0%B1%D1%8F%D1%82%D1%81%D1%8F+3d-%D0%BE%D1%87%D0%BA%D0%B8%3F&amp;lr=213\">http://yandex.ru/yandsea...</a>",
+      "rawBody": "Яндекс ответил, что через год - два или \"Скоро для просмотра 3D не понадобятся очки\" http://yandex.ru/yandsearch?text=%D0%9A%D0%B0%D0%BA+%D1%81%D0%BA%D0%BE%D1%80%D0%BE+%D0%B4%D0%BB%D1%8F+%D0%BF%D1%80%D0%BE%D1%81%D0%BC%D0%BE%D1%82%D1%80%D0%B0+%D1%81%D0%B0%D0%B9%D1%82%D0%BE%D0%B2+%D0%BF%D0%BE%D0%BD%D0%B0%D0%B4%D0%BE%D0%B1%D1%8F%D1%82%D1%81%D1%8F+3d-%D0%BE%D1%87%D0%BA%D0%B8%3F&lr=213",
+      "date": "2011-12-15T19:04:35Z",
+      "id": "e/0d55db71f10642438af4e473501d8eb5/c/ad67dec46c4d438eae2502cfbe831d55",
+      "from": {
+        "type": "user",
+        "id": "zag",
+        "name": "углы «Исимуры»"
+      }
+    },
+    {
+      "body": "Первый в мире 3D-сайт уже есть. <a rel=\"nofollow\" href=\"http://3dmir.info/3d_tehnologii/pervyj-v-mire-3d-sajt/\" title=\"http://3dmir.info/3d_tehnologii/pervyj-v-mire-3d-sajt/\">http://3dmir.info/3d_tehn...</a>",
+      "rawBody": "Первый в мире 3D-сайт уже есть. http://3dmir.info/3d_tehnologii/pervyj-v-mire-3d-sajt/",
+      "from": {
+        "type": "user",
+        "id": "zag",
+        "name": "углы «Исимуры»"
+      },
+      "id": "e/0d55db71f10642438af4e473501d8eb5/c/5db6eddfc77945d8a905497a30a962ec",
+      "date": "2011-12-15T19:05:28Z"
+    },
+    {
+      "from": {
+        "id": "zag",
+        "type": "user",
+        "name": "углы «Исимуры»"
+      },
+      "rawBody": "Без  javascript тяжеловато: http://friendfeed.com/zag/ec3c06ab/links-web-javascript-flash , https://twitter.com/#!/dchest/status/147253889404641281",
+      "id": "e/0d55db71f10642438af4e473501d8eb5/c/1b8aae5ee59040e3a594ce3bb5abc5b1",
+      "date": "2011-12-15T19:17:06Z",
+      "body": "Без  javascript тяжеловато: <a href=\"http://friendfeed.com/zag/ec3c06ab/links-web-javascript-flash\" title=\"http://friendfeed.com/zag/ec3c06ab/links-web-javascript-flash\">http://friendfeed.com/zag...</a> , <a rel=\"nofollow\" href=\"https://twitter.com/#!/dchest/status/147253889404641281\" title=\"https://twitter.com/#!/dchest/status/147253889404641281\">https://twitter.com/#!...</a>"
+    },
+    {
+      "from": {
+        "name": "углы «Исимуры»",
+        "id": "zag",
+        "type": "user"
+      },
+      "rawBody": "Теперь еще и очки ... #переносица",
+      "id": "e/0d55db71f10642438af4e473501d8eb5/c/e2b4ef502a26430a942f71c5c2e1ac33",
+      "date": "2011-12-15T19:18:05Z",
+      "body": "Теперь еще и очки ... <a href=\"http://friendfeed.com/search?q=%23%D0%BF%D0%B5%D1%80%D0%B5%D0%BD%D0%BE%D1%81%D0%B8%D1%86%D0%B0\">#переносица</a>"
+    },
+    {
+      "body": "кинотеатры, затем - TV,  теперь - adult ... Небо... небо не видело такого  ... (К-ф 'Кин-дза-дза')",
+      "id": "e/0d55db71f10642438af4e473501d8eb5/c/471291c87bfc4563bac2d0316c4791d0",
+      "rawBody": "кинотеатры, затем - TV,  теперь - adult ... Небо... небо не видело такого  ... (К-ф 'Кин-дза-дза')",
+      "from": {
+        "id": "zag",
+        "type": "user",
+        "name": "углы «Исимуры»"
+      },
+      "date": "2011-12-15T20:14:54Z"
+    },
+    {
+      "rawBody": "GDD 2011 — поставщик замечательных 3D очков! :D",
+      "from": {
+        "name": "glukki.ru",
+        "type": "user",
+        "id": "glukki"
+      },
+      "id": "e/0d55db71f10642438af4e473501d8eb5/c/2dbbb6ac20884f218719353989a5b0e8",
+      "date": "2011-12-16T09:08:33Z",
+      "body": "GDD 2011 — поставщик замечательных 3D очков! :D"
+    }
+  ],
+  "from": {
+    "id": "zag",
+    "type": "user",
+    "name": "углы «Исимуры»"
+  },
+  "likes": [
+    {
+      "from": {
+        "id": "glukki",
+        "type": "user",
+        "name": "glukki.ru"
+      },
+      "date": "2011-12-16T09:08:06Z"
+    },
+    {
+      "date": "2011-12-16T05:08:57Z",
+      "from": {
+        "type": "user",
+        "id": "rastorguev",
+        "name": "кружевной патруль"
+      }
+    },
+    {
+      "date": "2011-12-16T04:57:54Z",
+      "from": {
+        "name": "Алекс",
+        "id": "axr",
+        "type": "user"
+      }
+    },
+    {
+      "date": "2011-12-16T03:55:33Z",
+      "from": {
+        "id": "bifurcafe",
+        "type": "user",
+        "name": "bifurcafe"
+      }
+    },
+    {
+      "from": {
+        "name": "מאקסים עדות",
+        "type": "user",
+        "id": "maksimka",
+        "private": true
+      },
+      "date": "2011-12-15T23:58:49Z"
+    },
+    {
+      "date": "2011-12-15T23:12:45Z",
+      "from": {
+        "id": "alisher",
+        "type": "user",
+        "name": "Алишер"
+      }
+    },
+    {
+      "from": {
+        "name": "чуть-чуть потерпеть",
+        "id": "inque",
+        "type": "user",
+        "private": true
+      },
+      "date": "2011-12-15T23:02:51Z"
+    },
+    {
+      "from": {
+        "private": true,
+        "type": "user",
+        "id": "sitnin",
+        "name": "Хитрожёлтый индеец"
+      },
+      "date": "2011-12-15T19:26:10Z"
+    },
+    {
+      "date": "2011-12-15T19:20:44Z",
+      "from": {
+        "name": "alex@kapranoff.ru",
+        "id": "kkapp",
+        "type": "user"
+      }
+    },
+    {
+      "from": {
+        "id": "afds",
+        "type": "user",
+        "name": "afds"
+      },
+      "date": "2011-12-15T18:57:12Z"
+    }
+  ],
+  "rawLink": "http://friendfeed.com/e/0d55db71-f106-4243-8af4-e473501d8eb5",
+  "body": "&quot;Если вы не имеете 3D-очки, это не слишком поздно&quot; ! Однозначно  <a href=\"http://friendfeed.com/search?q=%23trend\">#trend</a> :-)",
+  "date": "2011-12-15T18:00:35Z",
+  "id": "e/0d55db71f10642438af4e473501d8eb5",
+  "url": "http://friendfeed.com/zag/0d55db71/3d-trend",
+  "rawBody": "\"Если вы не имеете 3D-очки, это не слишком поздно\" ! Однозначно  #trend :-)",
+  "thumbnails": [
+    {
+      "width": 269,
+      "url": "http://m.friendfeed-media.com/8ac66431698c4a45118990e59290916860cb4243",
+      "height": 175,
+      "link": "http://m.friendfeed-media.com/ad8aadcfc6bd20842760e22caacc8923cdb3304f"
+    }
+  ]
+}
+=end comment
+
+=end pod

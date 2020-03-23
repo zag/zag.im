@@ -1,0 +1,77 @@
+=begin pod :pubdate('2012-07-26 10:00:00') :tags<pod6 perl6 pod perl> :lang<en>
+=NAME «WriteAt»: my opensource startup on Perl 6 Pod
+
+=begin DESCRIPTION
+
+The «WriteAt» is a free and opensource suite for book writers.
+It helps making and preparing books for publishing and printing.
+«WriteAt» uses pod6 as  markup language..
+
+=end DESCRIPTION
+
+=for Image :align("left")
+wa_Logo.png
+
+The «WriteAt» is a free and opensource suite for book writers.
+It helps making and preparing books for publishing and printing.
+«WriteAt» uses pod6 as  markup language.
+
+"Compared to POD, Perl 6's Pod is much more
+uniform, somewhat more compact, and considerably more expressive." (S26)
+
+The typical «WriteAt» book template looks like this:
+
+=begin code
+  =TITLE MyBook
+  =SUBTITLE My first free book
+  =AUTHOR Alex Green
+  =DESCRIPTION  Short description of the book
+  =begin CHANGES
+  Aug 18th 2010(v0.2)[zag]   preface
+  
+  May 27th 2010(v0.1)[zag]   Initial version
+  =end CHANGES
+  =CHAPTER Intro
+  
+  D<Pod> is an easy-to-use markup language with a simple, consistent
+  object model underlying the document. Pod can be used for writing language
+  documentation, documenting programs and modules, as well as for
+  other types of document composition.
+=end code
+
+As you see it is simple. Because pod6 is extensible, it is possible to 
+split big files into parts:
+
+=begin code
+ =Include src/preface.pod6
+ =Include src/basics.pod6
+=end code
+
+or insert images:
+
+=begin code
+    =Image berries.png
+=end code
+
+A real  book sample, a free book "Everything about Perl 6", can be downloaded from L<https://github.com/zag/ru-perl6-book>.
+
+The current version of «WriteAt» is 0.02. It supports exporting pod6 books
+to HTML. «WriteAt» is located at L<https://github.com/zag/writeat> and
+the CPAN distribution is available from here: L<http://search.cpan.org/perldoc?WriteAt>, also available at launchpad.net : L<https://launchpad.net/~zahatski/+archive/ppa>.
+
+=head2 How to install «WriteAt» ?
+
+Under Ubuntu:
+
+        sudo add-apt-repository ppa:zahatski/ppa
+        sudo apt-get install writeat
+
+=head2 Make book
+
+         git clone https://github.com/zag/writeat-tmpl-firstbook.git
+         cd writeat-tmpl-firstbook
+         make
+
+Reports of bugs, including inaccuracies in the documentation are always welcome. 
+
+=end pod

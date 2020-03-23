@@ -1,0 +1,77 @@
+=begin pod :pubdate('2010-04-28T11:17:44Z') :type<note> :tags<html5>
+=NAME The State of Web Development 2010 – Web Directions #html5
+
+=begin DESCRIPTION
+
+The State of Web Development 2010 – Web Directions #html5 - L<link|http://ajaxian.com/archives/the-state-of-web-development-2010-web-directions?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+ajaxian+%28Ajaxian+Blog%29>
+=for Image :width(124) :link('http://ajaxian.com/archives/the-state-of-web-development-2010-web-directions?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+ajaxian+%28Ajaxian+Blog%29') :height(175) :preview
+media/1a40b4e20f2191c4d6ab1b41dfdbb75e2607616e.jpg
+
+=item HTML5 is now used to some extent by around 30% of respondents, up from under 10% last survey
+
+
+=end DESCRIPTION
+
+The State of Web Development 2010 – Web Directions #html5 - L<link|http://ajaxian.com/archives/the-state-of-web-development-2010-web-directions?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+ajaxian+%28Ajaxian+Blog%29>
+=for Image :width(124) :link('http://ajaxian.com/archives/the-state-of-web-development-2010-web-directions?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+ajaxian+%28Ajaxian+Blog%29') :height(175) :preview
+media/1a40b4e20f2191c4d6ab1b41dfdbb75e2607616e.jpg
+
+=item HTML5 is now used to some extent by around 30% of respondents, up from under 10% last survey
+
+
+=begin comment :src
+{
+  "id": "e/af8093bcba7f4b33a46246eff5a79136",
+  "date": "2010-04-28T11:17:44Z",
+  "rawBody": "The State of Web Development 2010 – Web Directions #html5",
+  "url": "http://friendfeed.com/zag/af8093bc/state-of-web-development-2010-directions-html5",
+  "thumbnails": [
+    {
+      "url": "http://m.friendfeed-media.com/1a40b4e20f2191c4d6ab1b41dfdbb75e2607616e",
+      "width": 124,
+      "height": 175,
+      "link": "http://ajaxian.com/archives/the-state-of-web-development-2010-web-directions?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+ajaxian+%28Ajaxian+Blog%29"
+    }
+  ],
+  "body": "The State of Web Development 2010 – Web Directions <a href=\"http://friendfeed.com/search?q=%23html5\">#html5</a> - <a rel=\"nofollow\" href=\"http://ajaxian.com/archives/the-state-of-web-development-2010-web-directions?utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+ajaxian+%28Ajaxian+Blog%29\" title=\"http://ajaxian.com/archives/the-state-of-web-development-2010-web-directions?utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+ajaxian+%28Ajaxian+Blog%29\">http://ajaxian.com/archive...</a>",
+  "rawLink": "http://ajaxian.com/archives/the-state-of-web-development-2010-web-directions?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+ajaxian+%28Ajaxian+Blog%29",
+  "likes": [
+    {
+      "date": "2010-04-28T11:49:22Z",
+      "from": {
+        "type": "user",
+        "id": "kkapp",
+        "name": "alex@kapranoff.ru"
+      }
+    }
+  ],
+  "via": {
+    "url": "http://friendfeed.com/share/bookmarklet",
+    "name": "Bookmarklet"
+  },
+  "from": {
+    "type": "user",
+    "id": "zag",
+    "name": "углы «Исимуры»"
+  },
+  "comments": [
+    {
+      "from": {
+        "name": "углы «Исимуры»",
+        "id": "zag",
+        "type": "user"
+      },
+      "id": "e/af8093bcba7f4b33a46246eff5a79136/c/e6a93b6534fc409297a2287ae39d3533",
+      "date": "2010-04-28T11:17:44Z",
+      "rawBody": "HTML5 is now used to some extent by around 30% of respondents, up from under 10% last survey",
+      "via": {
+        "name": "Bookmarklet",
+        "url": "http://friendfeed.com/share/bookmarklet"
+      },
+      "body": "HTML5 is now used to some extent by around 30% of respondents, up from under 10% last survey"
+    }
+  ]
+}
+=end comment
+
+=end pod

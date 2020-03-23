@@ -1,0 +1,36 @@
+=begin pod :pubdate('2011-06-04T08:28:44Z') :type<note> 
+=NAME Про структуру бд при коммандной обработке. "Обновляшки" на php ...
+
+=begin DESCRIPTION
+
+Про структуру бд при коммандной обработке. "Обновляшки" на php ... - L<link|http://twitter.com/zagru/statuses/76928359078182912>
+
+
+
+=end DESCRIPTION
+
+Про структуру бд при коммандной обработке. "Обновляшки" на php ... - L<link|http://twitter.com/zagru/statuses/76928359078182912>
+
+
+
+=begin comment :src
+{
+  "from": {
+    "type": "user",
+    "id": "zag",
+    "name": "углы «Исимуры»"
+  },
+  "via": {
+    "name": "Twitter",
+    "url": "http://twitter.com/zagru/statuses/76928359078182912"
+  },
+  "id": "e/b63296358d0191eb4145592f4bf7e2d3",
+  "date": "2011-06-04T08:28:44Z",
+  "rawBody": "Про структуру бд при коммандной обработке. \"Обновляшки\" на php ...",
+  "url": "http://friendfeed.com/zag/b6329635/php",
+  "rawLink": "http://twitter.com/zagru/statuses/76928359078182912",
+  "body": "Про структуру бд при коммандной обработке. &quot;Обновляшки&quot; на php ..."
+}
+=end comment
+
+=end pod

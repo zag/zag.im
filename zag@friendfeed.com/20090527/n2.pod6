@@ -1,0 +1,36 @@
+=begin pod :pubdate('2009-05-27T07:45:40Z') :type<note> 
+=NAME writing project documentation in Pod . Its easy and fine ...
+
+=begin DESCRIPTION
+
+writing project documentation in Pod . Its easy and fine ... - L<link|http://twitter.com/zagru/statuses/1933708786>
+
+
+
+=end DESCRIPTION
+
+writing project documentation in Pod . Its easy and fine ... - L<link|http://twitter.com/zagru/statuses/1933708786>
+
+
+
+=begin comment :src
+{
+  "body": "writing project documentation in Pod . Its easy and fine ...",
+  "rawLink": "http://twitter.com/zagru/statuses/1933708786",
+  "rawBody": "writing project documentation in Pod . Its easy and fine ...",
+  "id": "e/a37c7a50a05fc85cbfa886b452fb2d48",
+  "date": "2009-05-27T07:45:40Z",
+  "url": "http://friendfeed.com/zag/a37c7a50/writing-project-documentation-in-pod-its-easy",
+  "via": {
+    "url": "http://twitter.com/zagru/statuses/1933708786",
+    "name": "Twitter"
+  },
+  "from": {
+    "type": "user",
+    "id": "zag",
+    "name": "углы «Исимуры»"
+  }
+}
+=end comment
+
+=end pod

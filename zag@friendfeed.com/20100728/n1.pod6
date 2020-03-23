@@ -1,0 +1,77 @@
+=begin pod :pubdate('2010-07-28T11:15:01Z') :type<note> 
+=NAME Best Book Recommendation Service: GoodReads
+
+=begin DESCRIPTION
+
+Best Book Recommendation Service: GoodReads - L<link|http://lifehacker.com/5597945/best-book-recommendation-service-goodreads>
+=for Image :width(236) :link('http://lifehacker.com/5597945/best-book-recommendation-service-goodreads') :height(175) :preview
+media/40db5751559cdb5cb82298295688030b667d61f5.jpg
+=for Image :width(500) :link('http://lifehacker.com/5597945/best-book-recommendation-service-goodreads') :height(126) :preview
+media/eca011bde840d728cdc2d53a7e0087377af6e45a.jpg
+
+=item по мнению lifehacker.com
+
+
+=end DESCRIPTION
+
+Best Book Recommendation Service: GoodReads - L<link|http://lifehacker.com/5597945/best-book-recommendation-service-goodreads>
+=for Image :width(236) :link('http://lifehacker.com/5597945/best-book-recommendation-service-goodreads') :height(175) :preview
+media/40db5751559cdb5cb82298295688030b667d61f5.jpg
+=for Image :width(500) :link('http://lifehacker.com/5597945/best-book-recommendation-service-goodreads') :height(126) :preview
+media/eca011bde840d728cdc2d53a7e0087377af6e45a.jpg
+
+=item по мнению lifehacker.com
+
+
+=begin comment :src
+{
+  "via": {
+    "url": "http://friendfeed.com/share/bookmarklet",
+    "name": "Bookmarklet"
+  },
+  "from": {
+    "name": "углы «Исимуры»",
+    "id": "zag",
+    "type": "user"
+  },
+  "comments": [
+    {
+      "via": {
+        "name": "Bookmarklet",
+        "url": "http://friendfeed.com/share/bookmarklet"
+      },
+      "id": "e/c750c6b4582f4333a542d1aaad700331/c/32c044dc5d8549c287e6f4478841e5f0",
+      "from": {
+        "type": "user",
+        "id": "zag",
+        "name": "углы «Исимуры»"
+      },
+      "date": "2010-07-28T11:15:01Z",
+      "rawBody": "по мнению lifehacker.com",
+      "body": "по мнению lifehacker.com"
+    }
+  ],
+  "rawBody": "Best Book Recommendation Service: GoodReads",
+  "id": "e/c750c6b4582f4333a542d1aaad700331",
+  "date": "2010-07-28T11:15:01Z",
+  "url": "http://friendfeed.com/zag/c750c6b4/best-book-recommendation-service-goodreads",
+  "thumbnails": [
+    {
+      "url": "http://m.friendfeed-media.com/40db5751559cdb5cb82298295688030b667d61f5",
+      "width": 236,
+      "link": "http://lifehacker.com/5597945/best-book-recommendation-service-goodreads",
+      "height": 175
+    },
+    {
+      "link": "http://lifehacker.com/5597945/best-book-recommendation-service-goodreads",
+      "height": 126,
+      "width": 500,
+      "url": "http://m.friendfeed-media.com/eca011bde840d728cdc2d53a7e0087377af6e45a"
+    }
+  ],
+  "body": "Best Book Recommendation Service: GoodReads - <a rel=\"nofollow\" href=\"http://lifehacker.com/5597945/best-book-recommendation-service-goodreads\" title=\"http://lifehacker.com/5597945/best-book-recommendation-service-goodreads\">http://lifehacker.com/5597945...</a>",
+  "rawLink": "http://lifehacker.com/5597945/best-book-recommendation-service-goodreads"
+}
+=end comment
+
+=end pod

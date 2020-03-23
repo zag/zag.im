@@ -1,0 +1,50 @@
+=begin pod :pubdate('2010-07-08T15:39:07Z') :type<note> :tags<perl6>
+=NAME New #perl6 cheatsheet available! http://www.wall.org/~larry/cheatsheet
+
+=begin DESCRIPTION
+
+New #perl6 cheatsheet available! http://www.wall.org/~larry/cheatsheet
+
+
+
+=end DESCRIPTION
+
+New #perl6 cheatsheet available! http://www.wall.org/~larry/cheatsheet
+
+
+
+=begin comment :src
+{
+  "from": {
+    "name": "углы «Исимуры»",
+    "id": "zag",
+    "type": "user"
+  },
+  "body": "New <a href=\"http://friendfeed.com/search?q=%23perl6\">#perl6</a> cheatsheet available! <a rel=\"nofollow\" href=\"http://www.wall.org/~larry/cheatsheet\" title=\"http://www.wall.org/~larry/cheatsheet\">http://www.wall.org/~larry...</a>",
+  "likes": [
+    {
+      "from": {
+        "id": "mmcleric",
+        "type": "user",
+        "name": "Vyacheslav Matyukhin"
+      },
+      "date": "2010-07-08T18:22:53Z"
+    },
+    {
+      "from": {
+        "type": "user",
+        "id": "kkapp",
+        "name": "alex@kapranoff.ru"
+      },
+      "date": "2010-07-08T15:52:49Z"
+    }
+  ],
+  "rawLink": "http://friendfeed.com/e/1127685f-8b21-4352-8856-587452fdb398",
+  "id": "e/1127685f8b2143528856587452fdb398",
+  "url": "http://friendfeed.com/zag/1127685f/new-perl6-cheatsheet-available",
+  "date": "2010-07-08T15:39:07Z",
+  "rawBody": "New #perl6 cheatsheet available! http://www.wall.org/~larry/cheatsheet"
+}
+=end comment
+
+=end pod

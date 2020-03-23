@@ -1,0 +1,76 @@
+=begin pod :pubdate('2011-02-13T07:15:28Z') :type<note> 
+=NAME Nokia to cut thousands of jobs, Google reminds it is hiring - TechSpot
+
+=begin DESCRIPTION
+
+Nokia to cut thousands of jobs, Google reminds it is hiring - TechSpot - L<link|http://www.techspot.com/news/42379-nokia-to-cut-thousands-of-jobs-google-reminds-it-is-hiring.html>
+=for Image :width(95) :link('http://www.techspot.com/news/42379-nokia-to-cut-thousands-of-jobs-google-reminds-it-is-hiring.html') :height(32) :preview
+media/91100fce975e5982a8bb5e044e8d578b1fc73184.gif
+
+=item In Finland, the numbers may be quite significant. "You're talking about 20,000 people, it's a big number," Mauri Pekkarinen, Minister for Economic Affairs, said in a statement.
+=item "Any Nokia software engineers need a job? We're hiring: www.google.com/jobs."
+
+
+=end DESCRIPTION
+
+Nokia to cut thousands of jobs, Google reminds it is hiring - TechSpot - L<link|http://www.techspot.com/news/42379-nokia-to-cut-thousands-of-jobs-google-reminds-it-is-hiring.html>
+=for Image :width(95) :link('http://www.techspot.com/news/42379-nokia-to-cut-thousands-of-jobs-google-reminds-it-is-hiring.html') :height(32) :preview
+media/91100fce975e5982a8bb5e044e8d578b1fc73184.gif
+
+=item In Finland, the numbers may be quite significant. "You're talking about 20,000 people, it's a big number," Mauri Pekkarinen, Minister for Economic Affairs, said in a statement.
+=item "Any Nokia software engineers need a job? We're hiring: www.google.com/jobs."
+
+
+=begin comment :src
+{
+  "from": {
+    "id": "zag",
+    "type": "user",
+    "name": "углы «Исимуры»"
+  },
+  "via": {
+    "url": "http://friendfeed.com/share/bookmarklet",
+    "name": "Bookmarklet"
+  },
+  "comments": [
+    {
+      "body": "In Finland, the numbers may be quite significant. &quot;You're talking about 20,000 people, it's a big number,&quot; Mauri Pekkarinen, Minister for Economic Affairs, said in a statement.",
+      "rawBody": "In Finland, the numbers may be quite significant. \"You're talking about 20,000 people, it's a big number,\" Mauri Pekkarinen, Minister for Economic Affairs, said in a statement.",
+      "from": {
+        "name": "углы «Исимуры»",
+        "id": "zag",
+        "type": "user"
+      },
+      "id": "e/1b818246bbdc41d9a50dfa9b47c9a779/c/cac4093d086a4880946b2a36d859fd20",
+      "date": "2011-02-13T07:17:10Z"
+    },
+    {
+      "rawBody": "\"Any Nokia software engineers need a job? We're hiring: www.google.com/jobs.\"",
+      "id": "e/1b818246bbdc41d9a50dfa9b47c9a779/c/3f5b1808eaeb44ffb336b7ce4ee851dc",
+      "date": "2011-02-13T07:19:22Z",
+      "from": {
+        "id": "zag",
+        "type": "user",
+        "name": "углы «Исимуры»"
+      },
+      "body": "&quot;Any Nokia software engineers need a job? We're hiring: www.google.com/jobs.&quot;"
+    }
+  ],
+  "id": "e/1b818246bbdc41d9a50dfa9b47c9a779",
+  "rawBody": "Nokia to cut thousands of jobs, Google reminds it is hiring - TechSpot",
+  "date": "2011-02-13T07:15:28Z",
+  "url": "http://friendfeed.com/zag/1b818246/nokia-to-cut-thousands-of-jobs-google-reminds-it",
+  "thumbnails": [
+    {
+      "height": 32,
+      "link": "http://www.techspot.com/news/42379-nokia-to-cut-thousands-of-jobs-google-reminds-it-is-hiring.html",
+      "url": "http://m.friendfeed-media.com/91100fce975e5982a8bb5e044e8d578b1fc73184",
+      "width": 95
+    }
+  ],
+  "rawLink": "http://www.techspot.com/news/42379-nokia-to-cut-thousands-of-jobs-google-reminds-it-is-hiring.html",
+  "body": "Nokia to cut thousands of jobs, Google reminds it is hiring - TechSpot - <a rel=\"nofollow\" href=\"http://www.techspot.com/news/42379-nokia-to-cut-thousands-of-jobs-google-reminds-it-is-hiring.html\" title=\"http://www.techspot.com/news/42379-nokia-to-cut-thousands-of-jobs-google-reminds-it-is-hiring.html\">http://www.techspot.com/news...</a>"
+}
+=end comment
+
+=end pod

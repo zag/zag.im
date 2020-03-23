@@ -1,0 +1,67 @@
+=begin pod :pubdate('2011-09-14T17:45:32Z') :type<note> 
+=NAME OpenNews: Ford создает платформу для разработки открытых дополнений к автомобильной информационной системе
+
+=begin DESCRIPTION
+
+OpenNews: Ford создает платформу для разработки открытых дополнений к автомобильной информационной системе - L<link|http://www.opennet.ru/opennews/art.shtml?num=31742>
+=for Image :width(221) :link('http://www.opennet.ru/opennews/art.shtml?num=31742') :height(175) :preview
+media/dcb8715db598d6fbbe93d7e64b1bcd4b22aad86e.jpg
+
+=item "Ford собирается представить свой новый концепт-кар Evos, машину будущего, подключённую к социальным сетям"
+
+
+=end DESCRIPTION
+
+OpenNews: Ford создает платформу для разработки открытых дополнений к автомобильной информационной системе - L<link|http://www.opennet.ru/opennews/art.shtml?num=31742>
+=for Image :width(221) :link('http://www.opennet.ru/opennews/art.shtml?num=31742') :height(175) :preview
+media/dcb8715db598d6fbbe93d7e64b1bcd4b22aad86e.jpg
+
+=item "Ford собирается представить свой новый концепт-кар Evos, машину будущего, подключённую к социальным сетям"
+
+
+=begin comment :src
+{
+  "via": {
+    "name": "Bookmarklet",
+    "url": "http://friendfeed.com/share/bookmarklet"
+  },
+  "from": {
+    "id": "zag",
+    "type": "user",
+    "name": "углы «Исимуры»"
+  },
+  "comments": [
+    {
+      "from": {
+        "id": "zag",
+        "type": "user",
+        "name": "углы «Исимуры»"
+      },
+      "id": "e/f9487d227a684600a172e2934ee4f4c4/c/bc558677c7154f0b8b94ad17025c3cf4",
+      "date": "2011-09-14T17:45:32Z",
+      "rawBody": "\"Ford собирается представить свой новый концепт-кар Evos, машину будущего, подключённую к социальным сетям\"",
+      "via": {
+        "url": "http://friendfeed.com/share/bookmarklet",
+        "name": "Bookmarklet"
+      },
+      "body": "&quot;Ford собирается представить свой новый концепт-кар Evos, машину будущего, подключённую к социальным сетям&quot;"
+    }
+  ],
+  "id": "e/f9487d227a684600a172e2934ee4f4c4",
+  "rawBody": "OpenNews: Ford создает платформу для разработки открытых дополнений к автомобильной информационной системе",
+  "date": "2011-09-14T17:45:32Z",
+  "url": "http://friendfeed.com/zag/f9487d22/opennews-ford",
+  "thumbnails": [
+    {
+      "link": "http://www.opennet.ru/opennews/art.shtml?num=31742",
+      "height": 175,
+      "url": "http://m.friendfeed-media.com/dcb8715db598d6fbbe93d7e64b1bcd4b22aad86e",
+      "width": 221
+    }
+  ],
+  "rawLink": "http://www.opennet.ru/opennews/art.shtml?num=31742",
+  "body": "OpenNews: Ford создает платформу для разработки открытых дополнений к автомобильной информационной системе - <a rel=\"nofollow\" href=\"http://www.opennet.ru/opennews/art.shtml?num=31742\" title=\"http://www.opennet.ru/opennews/art.shtml?num=31742\">http://www.opennet.ru/opennew...</a>"
+}
+=end comment
+
+=end pod

@@ -1,0 +1,63 @@
+=begin pod :pubdate('2010-09-02T13:52:01Z') :type<note> :tags<mibf>
+=NAME 23 Московская международная книжная выставка-ярмарка #mibf
+
+=begin DESCRIPTION
+
+23 Московская международная книжная выставка-ярмарка #mibf - L<link|http://www.mibf.ru/>
+=for Image :width(353) :link('http://www.mibf.ru/') :height(175) :preview
+media/d208800f66a19453ea53d61f12d9378945bd3a11.jpg
+
+=item 1 сентября 2010 года торжественно открылась 23 Московская международная книжная выставка-ярмарка, которая собрала в столице России книжников из 56 стран мира.
+
+
+=end DESCRIPTION
+
+23 Московская международная книжная выставка-ярмарка #mibf - L<link|http://www.mibf.ru/>
+=for Image :width(353) :link('http://www.mibf.ru/') :height(175) :preview
+media/d208800f66a19453ea53d61f12d9378945bd3a11.jpg
+
+=item 1 сентября 2010 года торжественно открылась 23 Московская международная книжная выставка-ярмарка, которая собрала в столице России книжников из 56 стран мира.
+
+
+=begin comment :src
+{
+  "comments": [
+    {
+      "rawBody": "1 сентября 2010 года торжественно открылась 23 Московская международная книжная выставка-ярмарка, которая собрала в столице России книжников из 56 стран мира.",
+      "id": "e/fed2c3cfdb2946b98c1c7cfaddd0fcc4/c/26d97e10734f4fba9ddfafa4020bb773",
+      "date": "2010-09-02T13:52:35Z",
+      "from": {
+        "name": "углы «Исимуры»",
+        "type": "user",
+        "id": "zag"
+      },
+      "body": "1 сентября 2010 года торжественно открылась 23 Московская международная книжная выставка-ярмарка, которая собрала в столице России книжников из 56 стран мира."
+    }
+  ],
+  "from": {
+    "id": "zag",
+    "type": "user",
+    "name": "углы «Исимуры»"
+  },
+  "via": {
+    "url": "http://friendfeed.com/share/bookmarklet",
+    "name": "Bookmarklet"
+  },
+  "rawLink": "http://www.mibf.ru/",
+  "body": "23 Московская международная книжная выставка-ярмарка <a href=\"http://friendfeed.com/search?q=%23mibf\">#mibf</a> - <a rel=\"nofollow\" href=\"http://www.mibf.ru/\">http://www.mibf.ru/</a>",
+  "id": "e/fed2c3cfdb2946b98c1c7cfaddd0fcc4",
+  "rawBody": "23 Московская международная книжная выставка-ярмарка #mibf",
+  "date": "2010-09-02T13:52:01Z",
+  "thumbnails": [
+    {
+      "height": 175,
+      "link": "http://www.mibf.ru/",
+      "url": "http://m.friendfeed-media.com/d208800f66a19453ea53d61f12d9378945bd3a11",
+      "width": 353
+    }
+  ],
+  "url": "http://friendfeed.com/zag/fed2c3cf/23-mibf"
+}
+=end comment
+
+=end pod

@@ -1,0 +1,32 @@
+=begin pod :pubdate('2010-10-26T07:12:59Z') :type<note> :tags<perl cpan>
+=NAME CPAN is officially 15 years old today dating from the original announcement ( http://goo.gl/Ysl1 ). Happy Birthday CPAN! :) #perl #cpan
+
+=begin DESCRIPTION
+
+CPAN is officially 15 years old today dating from the original announcement ( http://goo.gl/Ysl1 ). Happy Birthday CPAN! :) #perl #cpan
+
+
+
+=end DESCRIPTION
+
+CPAN is officially 15 years old today dating from the original announcement ( http://goo.gl/Ysl1 ). Happy Birthday CPAN! :) #perl #cpan
+
+
+
+=begin comment :src
+{
+  "from": {
+    "type": "user",
+    "id": "zag",
+    "name": "углы «Исимуры»"
+  },
+  "id": "e/7434662236c542b09006e2ff3549d3bf",
+  "date": "2010-10-26T07:12:59Z",
+  "rawBody": "CPAN is officially 15 years old today dating from the original announcement ( http://goo.gl/Ysl1 ). Happy Birthday CPAN! :) #perl #cpan",
+  "url": "http://friendfeed.com/zag/74346622/cpan-is-officially-15-years-old-today-dating",
+  "rawLink": "http://friendfeed.com/e/74346622-36c5-42b0-9006-e2ff3549d3bf",
+  "body": "CPAN is officially 15 years old today dating from the original announcement ( <a rel=\"nofollow\" href=\"http://goo.gl/Ysl1\" title=\"http://groups.google.com/groups?q=CPAN++group:comp.lang.perl.announce&amp;hl=en&amp;lr=&amp;ie=UTF-8&amp;as_drrb=b&amp;as_mind=12&amp;as_minm=5&amp;as_miny=1995&amp;as_maxd=31&amp;as_maxm=10&amp;as_maxy=1995&amp;selm=46o5va%2433f%40maureen.teleport.com&amp;rnum=1\">http://groups.google.com/groups...</a> ). Happy Birthday CPAN! :) <a href=\"http://friendfeed.com/search?q=%23perl\">#perl</a> <a href=\"http://friendfeed.com/search?q=%23cpan\">#cpan</a>"
+}
+=end comment
+
+=end pod

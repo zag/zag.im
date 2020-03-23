@@ -1,0 +1,36 @@
+=begin pod :pubdate('2009-05-27T06:58:39Z') :type<note> 
+=NAME RT: @linux_org_ru: lor nginx-0.7.59: http://tinyurl.com/ocnn5d
+
+=begin DESCRIPTION
+
+RT: @linux_org_ru: lor nginx-0.7.59: http://tinyurl.com/ocnn5d - L<link|http://twitter.com/zagru/statuses/1933451336>
+
+
+
+=end DESCRIPTION
+
+RT: @linux_org_ru: lor nginx-0.7.59: http://tinyurl.com/ocnn5d - L<link|http://twitter.com/zagru/statuses/1933451336>
+
+
+
+=begin comment :src
+{
+  "from": {
+    "name": "углы «Исимуры»",
+    "id": "zag",
+    "type": "user"
+  },
+  "via": {
+    "name": "Twitter",
+    "url": "http://twitter.com/zagru/statuses/1933451336"
+  },
+  "id": "e/70a3ad921b557342477d1d26b9404211",
+  "date": "2009-05-27T06:58:39Z",
+  "rawBody": "RT: @linux_org_ru: lor nginx-0.7.59: http://tinyurl.com/ocnn5d",
+  "url": "http://friendfeed.com/zag/70a3ad92/rt-linux_org_ru-lor-nginx-0-7-59",
+  "rawLink": "http://twitter.com/zagru/statuses/1933451336",
+  "body": "RT: @<a rel=\"nofollow\" href=\"http://twitter.com/linux_org_ru\">linux_org_ru</a>: lor nginx-0.7.59: <a rel=\"nofollow\" href=\"http://tinyurl.com/ocnn5d\" title=\"http://www.linux.org.ru/view-message.jsp?msgid=3736000\">http://www.linux.org.ru/view-me...</a>"
+}
+=end comment
+
+=end pod

@@ -1,0 +1,55 @@
+=begin pod :pubdate('2010-05-23T08:48:23Z') :type<note> :tags<perl6>
+=NAME Пишу о perl6's pod в формате #perl6's pod !
+
+=begin DESCRIPTION
+
+Пишу о perl6's pod в формате #perl6's pod ! - L<link|http://twitter.com/zagru/statuses/14546322350>
+
+
+
+=end DESCRIPTION
+
+Пишу о perl6's pod в формате #perl6's pod ! - L<link|http://twitter.com/zagru/statuses/14546322350>
+
+
+
+=begin comment :src
+{
+  "rawBody": "Пишу о perl6's pod в формате #perl6's pod !",
+  "id": "e/940b1aeb93d8f45bb5453be53112710c",
+  "date": "2010-05-23T08:48:23Z",
+  "url": "http://friendfeed.com/zag/940b1aeb/perl6-pod",
+  "body": "Пишу о perl6's pod в формате <a rel=\"nofollow\" href=\"http://search.twitter.com/search?q=%23perl6\">#perl6</a>'s pod !",
+  "rawLink": "http://twitter.com/zagru/statuses/14546322350",
+  "likes": [
+    {
+      "from": {
+        "name": "alex@kapranoff.ru",
+        "id": "kkapp",
+        "type": "user"
+      },
+      "date": "2010-05-23T11:46:28Z"
+    },
+    {
+      "from": {
+        "name": "IvIotor",
+        "private": true,
+        "type": "user",
+        "id": "iviotor"
+      },
+      "date": "2010-05-23T09:45:32Z"
+    }
+  ],
+  "from": {
+    "name": "углы «Исимуры»",
+    "type": "user",
+    "id": "zag"
+  },
+  "via": {
+    "name": "Twitter",
+    "url": "http://twitter.com/zagru/statuses/14546322350"
+  }
+}
+=end comment
+
+=end pod

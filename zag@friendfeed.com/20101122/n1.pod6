@@ -1,0 +1,95 @@
+=begin pod :pubdate('2010-11-22T08:16:01Z') :type<note> 
+=NAME 5 Best Smartphones With Physical Keyboards
+
+=begin DESCRIPTION
+
+5 Best Smartphones With Physical Keyboards - L<link|http://thenextweb.com/gadgets/2010/11/22/5-best-smartphones-with-physical-keyboards/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+TheNextWeb+%28The+Next+Web+All+Stories%29&utm_content=FriendFeed+Bot>
+=for Image :width(251) :link('http://thenextweb.com/gadgets/2010/11/22/5-best-smartphones-with-physical-keyboards/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+TheNextWeb+%28The+Next+Web+All+Stories%29&utm_content=FriendFeed+Bot') :height(175) :preview
+media/c2b006f28c02fe8213f713ac24cc260e53f6c017.jpg
+=for Image :width(239) :link('http://thenextweb.com/gadgets/2010/11/22/5-best-smartphones-with-physical-keyboards/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+TheNextWeb+%28The+Next+Web+All+Stories%29&utm_content=FriendFeed+Bot') :height(175) :preview
+media/8598009477cfb3cdf16583681ee73190ab5a7ac8.jpg
+=for Image :width(233) :link('http://thenextweb.com/gadgets/2010/11/22/5-best-smartphones-with-physical-keyboards/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+TheNextWeb+%28The+Next+Web+All+Stories%29&utm_content=FriendFeed+Bot') :height(175) :preview
+media/0e5aa971c64da07cbd437a205087af97bfc3aa7a.jpg
+
+
+
+=end DESCRIPTION
+
+5 Best Smartphones With Physical Keyboards - L<link|http://thenextweb.com/gadgets/2010/11/22/5-best-smartphones-with-physical-keyboards/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+TheNextWeb+%28The+Next+Web+All+Stories%29&utm_content=FriendFeed+Bot>
+=for Image :width(251) :link('http://thenextweb.com/gadgets/2010/11/22/5-best-smartphones-with-physical-keyboards/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+TheNextWeb+%28The+Next+Web+All+Stories%29&utm_content=FriendFeed+Bot') :height(175) :preview
+media/c2b006f28c02fe8213f713ac24cc260e53f6c017.jpg
+=for Image :width(239) :link('http://thenextweb.com/gadgets/2010/11/22/5-best-smartphones-with-physical-keyboards/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+TheNextWeb+%28The+Next+Web+All+Stories%29&utm_content=FriendFeed+Bot') :height(175) :preview
+media/8598009477cfb3cdf16583681ee73190ab5a7ac8.jpg
+=for Image :width(233) :link('http://thenextweb.com/gadgets/2010/11/22/5-best-smartphones-with-physical-keyboards/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+TheNextWeb+%28The+Next+Web+All+Stories%29&utm_content=FriendFeed+Bot') :height(175) :preview
+media/0e5aa971c64da07cbd437a205087af97bfc3aa7a.jpg
+
+
+
+=begin comment :src
+{
+  "rawLink": "http://thenextweb.com/gadgets/2010/11/22/5-best-smartphones-with-physical-keyboards/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+TheNextWeb+%28The+Next+Web+All+Stories%29&utm_content=FriendFeed+Bot",
+  "likes": [
+    {
+      "date": "2010-11-22T12:58:47Z",
+      "from": {
+        "private": true,
+        "id": "sseeaann",
+        "type": "user",
+        "name": "sseeaann"
+      }
+    },
+    {
+      "date": "2010-11-22T10:45:17Z",
+      "from": {
+        "name": "Victory through semantics",
+        "type": "user",
+        "id": "karabatov"
+      }
+    },
+    {
+      "from": {
+        "name": "alex@kapranoff.ru",
+        "id": "kkapp",
+        "type": "user"
+      },
+      "date": "2010-11-22T09:42:37Z"
+    }
+  ],
+  "body": "5 Best Smartphones With Physical Keyboards - <a rel=\"nofollow\" href=\"http://thenextweb.com/gadgets/2010/11/22/5-best-smartphones-with-physical-keyboards/?utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+TheNextWeb+%28The+Next+Web+All+Stories%29&amp;utm_content=FriendFeed+Bot\" title=\"http://thenextweb.com/gadgets/2010/11/22/5-best-smartphones-with-physical-keyboards/?utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+TheNextWeb+%28The+Next+Web+All+Stories%29&amp;utm_content=FriendFeed+Bot\">http://thenextweb.com/gadgets...</a>",
+  "date": "2010-11-22T08:16:01Z",
+  "id": "e/1363765a4e7140b88893baf429d6a603",
+  "rawBody": "5 Best Smartphones With Physical Keyboards",
+  "url": "http://friendfeed.com/zag/1363765a/5-best-smartphones-with-physical-keyboards",
+  "thumbnails": [
+    {
+      "width": 251,
+      "url": "http://m.friendfeed-media.com/c2b006f28c02fe8213f713ac24cc260e53f6c017",
+      "height": 175,
+      "link": "http://thenextweb.com/gadgets/2010/11/22/5-best-smartphones-with-physical-keyboards/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+TheNextWeb+%28The+Next+Web+All+Stories%29&utm_content=FriendFeed+Bot"
+    },
+    {
+      "link": "http://thenextweb.com/gadgets/2010/11/22/5-best-smartphones-with-physical-keyboards/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+TheNextWeb+%28The+Next+Web+All+Stories%29&utm_content=FriendFeed+Bot",
+      "height": 175,
+      "width": 239,
+      "url": "http://m.friendfeed-media.com/8598009477cfb3cdf16583681ee73190ab5a7ac8"
+    },
+    {
+      "width": 233,
+      "url": "http://m.friendfeed-media.com/0e5aa971c64da07cbd437a205087af97bfc3aa7a",
+      "height": 175,
+      "link": "http://thenextweb.com/gadgets/2010/11/22/5-best-smartphones-with-physical-keyboards/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+TheNextWeb+%28The+Next+Web+All+Stories%29&utm_content=FriendFeed+Bot"
+    }
+  ],
+  "from": {
+    "name": "углы «Исимуры»",
+    "id": "zag",
+    "type": "user"
+  },
+  "via": {
+    "url": "http://friendfeed.com/share/bookmarklet",
+    "name": "Bookmarklet"
+  }
+}
+=end comment
+
+=end pod

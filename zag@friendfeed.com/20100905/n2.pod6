@@ -1,0 +1,51 @@
+=begin pod :pubdate('2010-09-05T09:57:49Z') :type<note> 
+=NAME acronym DWIM stands of  "Do What I Mean" !  - Wikipedia, the free encyclopedia
+
+=begin DESCRIPTION
+
+acronym DWIM stands of  "Do What I Mean" !  - Wikipedia, the free encyclopedia - L<link|http://en.wikipedia.org/wiki/DWIM>
+
+=item It is a humorous way of describing a user's feeling that a computer function should work the way the user wants — instead of the actual result that they told it to do, but did not want
+
+
+=end DESCRIPTION
+
+acronym DWIM stands of  "Do What I Mean" !  - Wikipedia, the free encyclopedia - L<link|http://en.wikipedia.org/wiki/DWIM>
+
+=item It is a humorous way of describing a user's feeling that a computer function should work the way the user wants — instead of the actual result that they told it to do, but did not want
+
+
+=begin comment :src
+{
+  "rawLink": "http://en.wikipedia.org/wiki/DWIM",
+  "body": "acronym DWIM stands of  &quot;Do What I Mean&quot; !  - Wikipedia, the free encyclopedia - <a rel=\"nofollow\" href=\"http://en.wikipedia.org/wiki/DWIM\" title=\"http://en.wikipedia.org/wiki/DWIM\">http://en.wikipedia.org/wiki...</a>",
+  "date": "2010-09-05T09:57:49Z",
+  "id": "e/8261aaa742854b059246bf4cbdd0203e",
+  "rawBody": "acronym DWIM stands of  \"Do What I Mean\" !  - Wikipedia, the free encyclopedia",
+  "url": "http://friendfeed.com/zag/8261aaa7/acronym-dwim-stands-of-do-what-i-mean-wikipedia",
+  "comments": [
+    {
+      "from": {
+        "name": "углы «Исимуры»",
+        "type": "user",
+        "id": "zag"
+      },
+      "rawBody": "It is a humorous way of describing a user's feeling that a computer function should work the way the user wants — instead of the actual result that they told it to do, but did not want",
+      "id": "e/8261aaa742854b059246bf4cbdd0203e/c/e76609e9ca584cb9880f3601a73c9b6b",
+      "date": "2010-09-05T09:58:32Z",
+      "body": "It is a humorous way of describing a user's feeling that a computer function should work the way the user wants — instead of the actual result that they told it to do, but did not want"
+    }
+  ],
+  "via": {
+    "name": "Bookmarklet",
+    "url": "http://friendfeed.com/share/bookmarklet"
+  },
+  "from": {
+    "name": "углы «Исимуры»",
+    "id": "zag",
+    "type": "user"
+  }
+}
+=end comment
+
+=end pod

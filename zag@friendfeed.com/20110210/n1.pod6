@@ -1,0 +1,36 @@
+=begin pod :pubdate('2011-02-10T15:02:21Z') :type<note> 
+=NAME RT @AnatolyUnix: "Начните заниматься тем, что вам нравится, и вам не придется работать ни одного дня в жизни". Конфуций
+
+=begin DESCRIPTION
+
+RT @AnatolyUnix: "Начните заниматься тем, что вам нравится, и вам не придется работать ни одного дня в жизни". Конфуций - L<link|http://twitter.com/zagru/statuses/35715199193464832>
+
+
+
+=end DESCRIPTION
+
+RT @AnatolyUnix: "Начните заниматься тем, что вам нравится, и вам не придется работать ни одного дня в жизни". Конфуций - L<link|http://twitter.com/zagru/statuses/35715199193464832>
+
+
+
+=begin comment :src
+{
+  "rawLink": "http://twitter.com/zagru/statuses/35715199193464832",
+  "body": "RT @<a rel=\"nofollow\" href=\"http://twitter.com/AnatolyUnix\">AnatolyUnix</a>: &quot;Начните заниматься тем, что вам нравится, и вам не придется работать ни одного дня в жизни&quot;. Конфуций",
+  "id": "e/c7411edf4705daa86d1942d167cca06c",
+  "date": "2011-02-10T15:02:21Z",
+  "url": "http://friendfeed.com/zag/c7411edf/rt-anatolyunix",
+  "rawBody": "RT @AnatolyUnix: \"Начните заниматься тем, что вам нравится, и вам не придется работать ни одного дня в жизни\". Конфуций",
+  "from": {
+    "name": "углы «Исимуры»",
+    "type": "user",
+    "id": "zag"
+  },
+  "via": {
+    "url": "http://twitter.com/zagru/statuses/35715199193464832",
+    "name": "Twitter"
+  }
+}
+=end comment
+
+=end pod

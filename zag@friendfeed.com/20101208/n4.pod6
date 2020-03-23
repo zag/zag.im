@@ -1,0 +1,76 @@
+=begin pod :pubdate('2010-12-08T09:55:19Z') :type<note> 
+=NAME 01101!!
+
+=begin DESCRIPTION
+
+01101!!
+
+
+
+=end DESCRIPTION
+
+01101!!
+
+
+
+=begin comment :src
+{
+  "date": "2010-12-08T09:55:19Z",
+  "id": "e/f7bc833d79a44f5f8ec35989999d1597",
+  "rawBody": "01101!!",
+  "url": "http://friendfeed.com/funny-pics-videos/f7bc833d/01101",
+  "thumbnails": [
+    {
+      "link": "http://friendfeed.com/e/f7bc833d-79a4-4f5f-8ec3-5989999d1597",
+      "url": "http://asset.soup.io/asset/1305/8299_51a6.gif"
+    }
+  ],
+  "likes": [
+    {
+      "date": "2010-12-08T19:36:22Z",
+      "from": {
+        "type": "user",
+        "id": "timoakes",
+        "name": "Tim Oakes"
+      }
+    },
+    {
+      "date": "2010-12-08T10:01:33Z",
+      "from": {
+        "type": "user",
+        "id": "hderinoz",
+        "name": "hido"
+      }
+    },
+    {
+      "date": "2010-12-08T09:56:01Z",
+      "from": {
+        "name": "Burçak Çubukçu",
+        "id": "burcakcubukcu",
+        "type": "user"
+      }
+    }
+  ],
+  "rawLink": "http://friendfeed.com/e/f7bc833d-79a4-4f5f-8ec3-5989999d1597",
+  "to": [
+    {
+      "name": "углы's feed",
+      "type": "user",
+      "id": "zag"
+    },
+    {
+      "id": "funny-pics-videos",
+      "type": "group",
+      "name": "Funny Pics and Videos"
+    }
+  ],
+  "body": "01101!!",
+  "from": {
+    "name": "углы «Исимуры»",
+    "id": "zag",
+    "type": "user"
+  }
+}
+=end comment
+
+=end pod

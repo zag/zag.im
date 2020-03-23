@@ -1,0 +1,124 @@
+=begin pod :pubdate('2010-03-04T08:05:14Z') :type<note> :tags<ps3>
+=NAME В PlayStation®Store  стартовал  марафон по случаю чемпионата мира по футболу  FIFA World Cup #ps3
+
+=begin DESCRIPTION
+
+В PlayStation®Store  стартовал  марафон по случаю чемпионата мира по футболу  FIFA World Cup #ps3
+=for Image :width(233) :link('http://m.friendfeed-media.com/ce3f0e80915409534fdcf18d37e3b1a2edc69c9f') :height(175) :preview
+media/4a2b8135bfe2cfa3e04fa3e457cb9b1578230c4a.jpg
+=for Image :width(233) :link('http://m.friendfeed-media.com/c6508131b5d57f1e8590a16ce3515490d0f6ac01') :height(175) :preview
+media/e32951e55a909a3552535d1f9211084e1de94d87.jpg
+=for Image :width(233) :link('http://m.friendfeed-media.com/5d1c6dda4493067ce549b1f90f3d98208041de26') :height(175) :preview
+media/3fd4b8771525a82998e6652c098a2604bcef5a2e.jpg
+=for Image :width(233) :link('http://m.friendfeed-media.com/785293790abe450620d3a71bccdb665e1c859613') :height(175) :preview
+media/6ba7a2f5f7c5d4b0e0263211f281f89a0ffcf21e.jpg
+=for Image :width(233) :link('http://m.friendfeed-media.com/b45b365e6a2a62500186b6665e546373aa325b75') :height(175) :preview
+media/205d52f825157b8f6d24f0d06bc7e7a86438d173.jpg
+=for Image :width(233) :link('http://m.friendfeed-media.com/b892da875459f418f53479d9a6fd6551bfbbc556') :height(175) :preview
+media/b9c7e8f0e9380339fc238195f878a00f7c2f0c57.jpg
+=for Image :width(233) :link('http://m.friendfeed-media.com/7cead02a971b7013b1bc5689f0e6c7a9691c373e') :height(175) :preview
+media/445f2d2e91cfaa01299f2022bee9423b089cd1b5.jpg
+=for Image :width(233) :link('http://m.friendfeed-media.com/de3117f45c64a310467d2c64886bbfd413ae3e36') :height(175) :preview
+media/87cbc0acafa8af7491bbf20ef60b9dec392fc219.jpg
+=for Image :width(233) :link('http://m.friendfeed-media.com/32fd5a0995b377b5dbf5258f70dcd2d5e5ad2000') :height(175) :preview
+media/796e01ca88407ed3b34321ca71836af0ba743d01.jpg
+
+
+
+=end DESCRIPTION
+
+В PlayStation®Store  стартовал  марафон по случаю чемпионата мира по футболу  FIFA World Cup #ps3
+=for Image :width(233) :link('http://m.friendfeed-media.com/ce3f0e80915409534fdcf18d37e3b1a2edc69c9f') :height(175) :preview
+media/4a2b8135bfe2cfa3e04fa3e457cb9b1578230c4a.jpg
+=for Image :width(233) :link('http://m.friendfeed-media.com/c6508131b5d57f1e8590a16ce3515490d0f6ac01') :height(175) :preview
+media/e32951e55a909a3552535d1f9211084e1de94d87.jpg
+=for Image :width(233) :link('http://m.friendfeed-media.com/5d1c6dda4493067ce549b1f90f3d98208041de26') :height(175) :preview
+media/3fd4b8771525a82998e6652c098a2604bcef5a2e.jpg
+=for Image :width(233) :link('http://m.friendfeed-media.com/785293790abe450620d3a71bccdb665e1c859613') :height(175) :preview
+media/6ba7a2f5f7c5d4b0e0263211f281f89a0ffcf21e.jpg
+=for Image :width(233) :link('http://m.friendfeed-media.com/b45b365e6a2a62500186b6665e546373aa325b75') :height(175) :preview
+media/205d52f825157b8f6d24f0d06bc7e7a86438d173.jpg
+=for Image :width(233) :link('http://m.friendfeed-media.com/b892da875459f418f53479d9a6fd6551bfbbc556') :height(175) :preview
+media/b9c7e8f0e9380339fc238195f878a00f7c2f0c57.jpg
+=for Image :width(233) :link('http://m.friendfeed-media.com/7cead02a971b7013b1bc5689f0e6c7a9691c373e') :height(175) :preview
+media/445f2d2e91cfaa01299f2022bee9423b089cd1b5.jpg
+=for Image :width(233) :link('http://m.friendfeed-media.com/de3117f45c64a310467d2c64886bbfd413ae3e36') :height(175) :preview
+media/87cbc0acafa8af7491bbf20ef60b9dec392fc219.jpg
+=for Image :width(233) :link('http://m.friendfeed-media.com/32fd5a0995b377b5dbf5258f70dcd2d5e5ad2000') :height(175) :preview
+media/796e01ca88407ed3b34321ca71836af0ba743d01.jpg
+
+
+
+=begin comment :src
+{
+  "body": "В PlayStation®Store  стартовал  марафон по случаю чемпионата мира по футболу  FIFA World Cup <a href=\"http://friendfeed.com/search?q=%23ps3\">#ps3</a>",
+  "rawLink": "http://friendfeed.com/e/4c83e172-1a41-4475-bfe6-9a1369180a9c",
+  "id": "e/4c83e1721a414475bfe69a1369180a9c",
+  "date": "2010-03-04T08:05:14Z",
+  "rawBody": "В PlayStation®Store  стартовал  марафон по случаю чемпионата мира по футболу  FIFA World Cup #ps3",
+  "url": "http://friendfeed.com/zag/4c83e172/playstationstore-fifa-world-cup-ps3",
+  "thumbnails": [
+    {
+      "link": "http://m.friendfeed-media.com/ce3f0e80915409534fdcf18d37e3b1a2edc69c9f",
+      "height": 175,
+      "width": 233,
+      "url": "http://m.friendfeed-media.com/4a2b8135bfe2cfa3e04fa3e457cb9b1578230c4a"
+    },
+    {
+      "height": 175,
+      "link": "http://m.friendfeed-media.com/c6508131b5d57f1e8590a16ce3515490d0f6ac01",
+      "url": "http://m.friendfeed-media.com/e32951e55a909a3552535d1f9211084e1de94d87",
+      "width": 233
+    },
+    {
+      "url": "http://m.friendfeed-media.com/3fd4b8771525a82998e6652c098a2604bcef5a2e",
+      "width": 233,
+      "link": "http://m.friendfeed-media.com/5d1c6dda4493067ce549b1f90f3d98208041de26",
+      "height": 175
+    },
+    {
+      "width": 233,
+      "url": "http://m.friendfeed-media.com/6ba7a2f5f7c5d4b0e0263211f281f89a0ffcf21e",
+      "link": "http://m.friendfeed-media.com/785293790abe450620d3a71bccdb665e1c859613",
+      "height": 175
+    },
+    {
+      "link": "http://m.friendfeed-media.com/b45b365e6a2a62500186b6665e546373aa325b75",
+      "height": 175,
+      "width": 233,
+      "url": "http://m.friendfeed-media.com/205d52f825157b8f6d24f0d06bc7e7a86438d173"
+    },
+    {
+      "width": 233,
+      "url": "http://m.friendfeed-media.com/b9c7e8f0e9380339fc238195f878a00f7c2f0c57",
+      "height": 175,
+      "link": "http://m.friendfeed-media.com/b892da875459f418f53479d9a6fd6551bfbbc556"
+    },
+    {
+      "link": "http://m.friendfeed-media.com/7cead02a971b7013b1bc5689f0e6c7a9691c373e",
+      "height": 175,
+      "url": "http://m.friendfeed-media.com/445f2d2e91cfaa01299f2022bee9423b089cd1b5",
+      "width": 233
+    },
+    {
+      "width": 233,
+      "url": "http://m.friendfeed-media.com/87cbc0acafa8af7491bbf20ef60b9dec392fc219",
+      "height": 175,
+      "link": "http://m.friendfeed-media.com/de3117f45c64a310467d2c64886bbfd413ae3e36"
+    },
+    {
+      "height": 175,
+      "link": "http://m.friendfeed-media.com/32fd5a0995b377b5dbf5258f70dcd2d5e5ad2000",
+      "url": "http://m.friendfeed-media.com/796e01ca88407ed3b34321ca71836af0ba743d01",
+      "width": 233
+    }
+  ],
+  "from": {
+    "type": "user",
+    "id": "zag",
+    "name": "углы «Исимуры»"
+  }
+}
+=end comment
+
+=end pod

@@ -1,0 +1,99 @@
+=begin pod :pubdate('2011-08-09T04:43:42Z') :type<note> :tags<lvee>
+=NAME По итогам LVEE-2011: фото: http://lvee.org/ru/wiki_pages/44  доклады: http://lvee.org/ru/reports/materials_lvee_2011 #lvee
+
+=begin DESCRIPTION
+
+По итогам LVEE-2011: фото: http://lvee.org/ru/wiki_pages/44  доклады: http://lvee.org/ru/reports/materials_lvee_2011 #lvee - L<link|http://lvee.org/ru/main>
+=for Image :width(261) :link('http://lvee.org/ru/main') :height(175) :preview
+media/c54af3ec33c1838c15bd360560ce8b1d61c7c86f.jpg
+=for Image :width(261) :link('http://lvee.org/ru/main') :height(175) :preview
+media/9237edde3e45638e38ddb58327cd0fa6b7ab6bbd.jpg
+=for Image :width(261) :link('http://lvee.org/ru/main') :height(175) :preview
+media/1f569c713f31f895457a078362205733f7c717b9.jpg
+
+=item "По решению публики лучшим был признан доклад Олега Бойцева «Организация программной защиты от DDoS-атак». Автору доклада-победителя вручены памятный знак от оргкомитета и спонсорский приз (планшет под управлением Android) от компании Promwad. Кроме того памятный знак от компании SaM Solutions в качестве приза симпатий аудитории получил Иван Кутень за доклад о разработке и применении plug-компьютеров."
+
+
+=end DESCRIPTION
+
+По итогам LVEE-2011: фото: http://lvee.org/ru/wiki_pages/44  доклады: http://lvee.org/ru/reports/materials_lvee_2011 #lvee - L<link|http://lvee.org/ru/main>
+=for Image :width(261) :link('http://lvee.org/ru/main') :height(175) :preview
+media/c54af3ec33c1838c15bd360560ce8b1d61c7c86f.jpg
+=for Image :width(261) :link('http://lvee.org/ru/main') :height(175) :preview
+media/9237edde3e45638e38ddb58327cd0fa6b7ab6bbd.jpg
+=for Image :width(261) :link('http://lvee.org/ru/main') :height(175) :preview
+media/1f569c713f31f895457a078362205733f7c717b9.jpg
+
+=item "По решению публики лучшим был признан доклад Олега Бойцева «Организация программной защиты от DDoS-атак». Автору доклада-победителя вручены памятный знак от оргкомитета и спонсорский приз (планшет под управлением Android) от компании Promwad. Кроме того памятный знак от компании SaM Solutions в качестве приза симпатий аудитории получил Иван Кутень за доклад о разработке и применении plug-компьютеров."
+
+
+=begin comment :src
+{
+  "rawLink": "http://lvee.org/ru/main",
+  "to": [
+    {
+      "id": "zag",
+      "type": "user",
+      "name": "углы's feed"
+    },
+    {
+      "type": "group",
+      "id": "lvee",
+      "name": "Lvee"
+    }
+  ],
+  "body": "По итогам LVEE-2011: фото: <a rel=\"nofollow\" href=\"http://lvee.org/ru/wiki_pages/44\" title=\"http://lvee.org/ru/wiki_pages/44\">http://lvee.org/ru...</a>  доклады: <a rel=\"nofollow\" href=\"http://lvee.org/ru/reports/materials_lvee_2011\" title=\"http://lvee.org/ru/reports/materials_lvee_2011\">http://lvee.org/ru...</a> <a href=\"http://friendfeed.com/search?q=%23lvee\">#lvee</a> - <a rel=\"nofollow\" href=\"http://lvee.org/ru/main\">http://lvee.org/ru/main</a>",
+  "rawBody": "По итогам LVEE-2011: фото: http://lvee.org/ru/wiki_pages/44  доклады: http://lvee.org/ru/reports/materials_lvee_2011 #lvee",
+  "id": "e/bec6ce3652454a70bfce2e54d8786263",
+  "date": "2011-08-09T04:43:42Z",
+  "url": "http://friendfeed.com/lvee/bec6ce36/lvee-2011",
+  "thumbnails": [
+    {
+      "url": "http://m.friendfeed-media.com/c54af3ec33c1838c15bd360560ce8b1d61c7c86f",
+      "width": 261,
+      "height": 175,
+      "link": "http://lvee.org/ru/main"
+    },
+    {
+      "height": 175,
+      "link": "http://lvee.org/ru/main",
+      "url": "http://m.friendfeed-media.com/9237edde3e45638e38ddb58327cd0fa6b7ab6bbd",
+      "width": 261
+    },
+    {
+      "width": 261,
+      "url": "http://m.friendfeed-media.com/1f569c713f31f895457a078362205733f7c717b9",
+      "link": "http://lvee.org/ru/main",
+      "height": 175
+    }
+  ],
+  "comments": [
+    {
+      "body": "&quot;По решению публики лучшим был признан доклад Олега Бойцева «Организация программной защиты от DDoS-атак». Автору доклада-победителя вручены памятный знак от оргкомитета и спонсорский приз (планшет под управлением Android) от компании Promwad. Кроме того памятный знак от компании SaM Solutions в качестве приза симпатий аудитории получил Иван Кутень за доклад о разработке и применении plug-компьютеров.&quot;",
+      "via": {
+        "url": "http://friendfeed.com/share/bookmarklet",
+        "name": "Bookmarklet"
+      },
+      "date": "2011-08-09T04:43:42Z",
+      "id": "e/bec6ce3652454a70bfce2e54d8786263/c/95d5dbdb43c342888d17560c525f00ce",
+      "rawBody": "\"По решению публики лучшим был признан доклад Олега Бойцева «Организация программной защиты от DDoS-атак». Автору доклада-победителя вручены памятный знак от оргкомитета и спонсорский приз (планшет под управлением Android) от компании Promwad. Кроме того памятный знак от компании SaM Solutions в качестве приза симпатий аудитории получил Иван Кутень за доклад о разработке и применении plug-компьютеров.\"",
+      "from": {
+        "name": "углы «Исимуры»",
+        "type": "user",
+        "id": "zag"
+      }
+    }
+  ],
+  "via": {
+    "name": "Bookmarklet",
+    "url": "http://friendfeed.com/share/bookmarklet"
+  },
+  "from": {
+    "name": "углы «Исимуры»",
+    "id": "zag",
+    "type": "user"
+  }
+}
+=end comment
+
+=end pod

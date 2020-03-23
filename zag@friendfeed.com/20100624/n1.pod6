@@ -1,0 +1,46 @@
+=begin pod :pubdate('2010-06-24T18:38:55Z') :type<note> 
+=NAME Fwd: "How to Access the Internet (A Guide from 2025)" via (http://ff.im/mE1Km)
+
+=begin DESCRIPTION
+
+Fwd: "How to Access the Internet (A Guide from 2025)" via (http://ff.im/mE1Km) - L<link|http://blogoscoped.com/archive/2010-06-24-n15.html>
+
+
+
+=end DESCRIPTION
+
+Fwd: "How to Access the Internet (A Guide from 2025)" via (http://ff.im/mE1Km) - L<link|http://blogoscoped.com/archive/2010-06-24-n15.html>
+
+
+
+=begin comment :src
+{
+  "from": {
+    "type": "user",
+    "id": "zag",
+    "name": "углы «Исимуры»"
+  },
+  "via": {
+    "url": "http://m.ctor.org/f2p/",
+    "name": "m.ctor.org"
+  },
+  "url": "http://friendfeed.com/zag/87b5d6a5/fwd-how-to-access-internet-guide-from-2025-via",
+  "id": "e/87b5d6a5ab194e3db5b291cec737ca04",
+  "date": "2010-06-24T18:38:55Z",
+  "rawBody": "Fwd: \"How to Access the Internet (A Guide from 2025)\" via (http://ff.im/mE1Km)",
+  "likes": [
+    {
+      "from": {
+        "type": "user",
+        "id": "kkapp",
+        "name": "alex@kapranoff.ru"
+      },
+      "date": "2010-06-24T19:10:26Z"
+    }
+  ],
+  "rawLink": "http://blogoscoped.com/archive/2010-06-24-n15.html",
+  "body": "Fwd: &quot;How to Access the Internet (A Guide from 2025)&quot; via (<a rel=\"nofollow\" href=\"http://ff.im/mE1Km\">http://ff.im/mE1Km</a>) - <a rel=\"nofollow\" href=\"http://blogoscoped.com/archive/2010-06-24-n15.html\" title=\"http://blogoscoped.com/archive/2010-06-24-n15.html\">http://blogoscoped.com/archive...</a>"
+}
+=end comment
+
+=end pod

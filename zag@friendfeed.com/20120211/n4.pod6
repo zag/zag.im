@@ -1,0 +1,36 @@
+=begin pod :pubdate('2012-02-11T09:57:46Z') :type<note> :tags<lvee>
+=NAME RT @pogudo: вечером еду на #lvee
+
+=begin DESCRIPTION
+
+RT @pogudo: вечером еду на #lvee - L<link|http://twitter.com/zagru/statuses/168272508175396864>
+
+
+
+=end DESCRIPTION
+
+RT @pogudo: вечером еду на #lvee - L<link|http://twitter.com/zagru/statuses/168272508175396864>
+
+
+
+=begin comment :src
+{
+  "via": {
+    "name": "Twitter",
+    "url": "http://twitter.com/zagru/statuses/168272508175396864"
+  },
+  "from": {
+    "type": "user",
+    "id": "zag",
+    "name": "углы «Исимуры»"
+  },
+  "rawLink": "http://twitter.com/zagru/statuses/168272508175396864",
+  "body": "RT @<a rel=\"nofollow\" href=\"http://twitter.com/pogudo\">pogudo</a>: вечером еду на <a rel=\"nofollow\" href=\"http://search.twitter.com/search?q=%23lvee\">#lvee</a>",
+  "id": "e/ccd863e16eabffc0fbceee3072987ed4",
+  "date": "2012-02-11T09:57:46Z",
+  "rawBody": "RT @pogudo: вечером еду на #lvee",
+  "url": "http://friendfeed.com/zag/ccd863e1/rt-pogudo-lvee"
+}
+=end comment
+
+=end pod

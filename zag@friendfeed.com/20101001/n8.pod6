@@ -1,0 +1,108 @@
+=begin pod :pubdate('2010-10-01T08:38:52Z') :type<note> :tags<yac2010>
+=NAME Игры на #yac2010
+
+=begin DESCRIPTION
+
+Игры на #yac2010
+=for Image :width(233) :link('http://m.friendfeed-media.com/c71077b46790ac99d8206cf0cba9810942e21898') :height(175) :preview
+media/b8634c8c653b6999be4a7d9f9f0489b5630e54a9.jpg
+=for Image :width(233) :link('http://m.friendfeed-media.com/367eac7bdfd8b39508033b5da600a2032e9d6833') :height(175) :preview
+media/6509e861cb392ba2045086760f20bb771f3b9754.jpg
+=for Image :width(233) :link('http://m.friendfeed-media.com/a982c32eb432b7c02850c00dde20a2efd26942a1') :height(175) :preview
+media/b8b9b8ff12d79f08a66c7433c7dc52483e151a10.jpg
+=for Image :width(233) :link('http://m.friendfeed-media.com/349c9dfe6d7ae9bc9faa6a12a7bb82aa16aad986') :height(175) :preview
+media/8aa9670f7a4191b8bfdd01c8962860909753cadc.jpg
+=for Image :width(233) :link('http://m.friendfeed-media.com/90f8b856519e1b6711c3927246da9f1199b306f6') :height(175) :preview
+media/fd501af4bf7e69187094e62ecf53f51abcd6d784.jpg
+=for Image :width(233) :link('http://m.friendfeed-media.com/a6495fe754ac5a1702345d504404a0c34f1ce4a8') :height(175) :preview
+media/23ae76e6ce10d0efefa728b5b6ecc9f89b8d4fec.jpg
+=for Image :width(233) :link('http://m.friendfeed-media.com/1a7c6b629785960f5a2d0b054b9e56bc4623766b') :height(175) :preview
+media/adc575e6326c3f6241d5884a92bfcf448ca92ec6.jpg
+
+
+
+=end DESCRIPTION
+
+Игры на #yac2010
+=for Image :width(233) :link('http://m.friendfeed-media.com/c71077b46790ac99d8206cf0cba9810942e21898') :height(175) :preview
+media/b8634c8c653b6999be4a7d9f9f0489b5630e54a9.jpg
+=for Image :width(233) :link('http://m.friendfeed-media.com/367eac7bdfd8b39508033b5da600a2032e9d6833') :height(175) :preview
+media/6509e861cb392ba2045086760f20bb771f3b9754.jpg
+=for Image :width(233) :link('http://m.friendfeed-media.com/a982c32eb432b7c02850c00dde20a2efd26942a1') :height(175) :preview
+media/b8b9b8ff12d79f08a66c7433c7dc52483e151a10.jpg
+=for Image :width(233) :link('http://m.friendfeed-media.com/349c9dfe6d7ae9bc9faa6a12a7bb82aa16aad986') :height(175) :preview
+media/8aa9670f7a4191b8bfdd01c8962860909753cadc.jpg
+=for Image :width(233) :link('http://m.friendfeed-media.com/90f8b856519e1b6711c3927246da9f1199b306f6') :height(175) :preview
+media/fd501af4bf7e69187094e62ecf53f51abcd6d784.jpg
+=for Image :width(233) :link('http://m.friendfeed-media.com/a6495fe754ac5a1702345d504404a0c34f1ce4a8') :height(175) :preview
+media/23ae76e6ce10d0efefa728b5b6ecc9f89b8d4fec.jpg
+=for Image :width(233) :link('http://m.friendfeed-media.com/1a7c6b629785960f5a2d0b054b9e56bc4623766b') :height(175) :preview
+media/adc575e6326c3f6241d5884a92bfcf448ca92ec6.jpg
+
+
+
+=begin comment :src
+{
+  "from": {
+    "type": "user",
+    "id": "zag",
+    "name": "углы «Исимуры»"
+  },
+  "via": {
+    "url": "http://friendfeed.com/share/mail",
+    "name": "email"
+  },
+  "body": "Игры на <a href=\"http://friendfeed.com/search?q=%23yac2010\">#yac2010</a>",
+  "rawLink": "http://friendfeed.com/e/aa1cf225-e47b-4d38-bb0f-c95496e2b368",
+  "id": "e/aa1cf225e47b4d38bb0fc95496e2b368",
+  "date": "2010-10-01T08:38:52Z",
+  "url": "http://friendfeed.com/zag/aa1cf225/yac2010",
+  "rawBody": "Игры на #yac2010",
+  "thumbnails": [
+    {
+      "link": "http://m.friendfeed-media.com/c71077b46790ac99d8206cf0cba9810942e21898",
+      "height": 175,
+      "url": "http://m.friendfeed-media.com/b8634c8c653b6999be4a7d9f9f0489b5630e54a9",
+      "width": 233
+    },
+    {
+      "url": "http://m.friendfeed-media.com/6509e861cb392ba2045086760f20bb771f3b9754",
+      "width": 233,
+      "height": 175,
+      "link": "http://m.friendfeed-media.com/367eac7bdfd8b39508033b5da600a2032e9d6833"
+    },
+    {
+      "link": "http://m.friendfeed-media.com/a982c32eb432b7c02850c00dde20a2efd26942a1",
+      "height": 175,
+      "url": "http://m.friendfeed-media.com/b8b9b8ff12d79f08a66c7433c7dc52483e151a10",
+      "width": 233
+    },
+    {
+      "height": 175,
+      "link": "http://m.friendfeed-media.com/349c9dfe6d7ae9bc9faa6a12a7bb82aa16aad986",
+      "url": "http://m.friendfeed-media.com/8aa9670f7a4191b8bfdd01c8962860909753cadc",
+      "width": 233
+    },
+    {
+      "link": "http://m.friendfeed-media.com/90f8b856519e1b6711c3927246da9f1199b306f6",
+      "height": 175,
+      "url": "http://m.friendfeed-media.com/fd501af4bf7e69187094e62ecf53f51abcd6d784",
+      "width": 233
+    },
+    {
+      "url": "http://m.friendfeed-media.com/23ae76e6ce10d0efefa728b5b6ecc9f89b8d4fec",
+      "width": 233,
+      "height": 175,
+      "link": "http://m.friendfeed-media.com/a6495fe754ac5a1702345d504404a0c34f1ce4a8"
+    },
+    {
+      "url": "http://m.friendfeed-media.com/adc575e6326c3f6241d5884a92bfcf448ca92ec6",
+      "width": 233,
+      "height": 175,
+      "link": "http://m.friendfeed-media.com/1a7c6b629785960f5a2d0b054b9e56bc4623766b"
+    }
+  ]
+}
+=end comment
+
+=end pod

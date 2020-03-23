@@ -1,0 +1,80 @@
+=begin pod :pubdate('2010-06-30T18:24:49Z') :type<note> :tags<lvee>
+=NAME Железная дорога до #lvee
+
+=begin DESCRIPTION
+
+Железная дорога до #lvee
+=for Image :width(233) :link('http://m.friendfeed-media.com/ad7540da1a4325db20aa1308cbece3aba8cb23af') :height(175) :preview
+media/0c9650c885c29d914a971bd5ea65193b4fa6fdd0.jpg
+=for Image :width(233) :link('http://m.friendfeed-media.com/90b9f68875432aa18ee68a9243a87b0bffa6cf87') :height(175) :preview
+media/60d19fe59534535f1e0ea70caf7df23ffa8c06b8.jpg
+=for Image :width(233) :link('http://m.friendfeed-media.com/d312852690dbfea9034d10cf52239d32a8108cb2') :height(175) :preview
+media/4a348e3058999f6ca68c9edc182e9aaa8708975a.jpg
+
+
+
+=end DESCRIPTION
+
+Железная дорога до #lvee
+=for Image :width(233) :link('http://m.friendfeed-media.com/ad7540da1a4325db20aa1308cbece3aba8cb23af') :height(175) :preview
+media/0c9650c885c29d914a971bd5ea65193b4fa6fdd0.jpg
+=for Image :width(233) :link('http://m.friendfeed-media.com/90b9f68875432aa18ee68a9243a87b0bffa6cf87') :height(175) :preview
+media/60d19fe59534535f1e0ea70caf7df23ffa8c06b8.jpg
+=for Image :width(233) :link('http://m.friendfeed-media.com/d312852690dbfea9034d10cf52239d32a8108cb2') :height(175) :preview
+media/4a348e3058999f6ca68c9edc182e9aaa8708975a.jpg
+
+
+
+=begin comment :src
+{
+  "from": {
+    "id": "zag",
+    "type": "user",
+    "name": "углы «Исимуры»"
+  },
+  "via": {
+    "url": "http://friendfeed.com/share/mail",
+    "name": "email"
+  },
+  "body": "Железная дорога до <a href=\"http://friendfeed.com/search?q=%23lvee\">#lvee</a>",
+  "to": [
+    {
+      "name": "углы's feed",
+      "id": "zag",
+      "type": "user"
+    },
+    {
+      "id": "lvee",
+      "type": "group",
+      "name": "Lvee"
+    }
+  ],
+  "rawLink": "http://friendfeed.com/e/03f6eb67-ff16-4084-a0ed-1406eadb3aa1",
+  "id": "e/03f6eb67ff164084a0ed1406eadb3aa1",
+  "url": "http://friendfeed.com/lvee/03f6eb67/lvee",
+  "date": "2010-06-30T18:24:49Z",
+  "rawBody": "Железная дорога до #lvee",
+  "thumbnails": [
+    {
+      "link": "http://m.friendfeed-media.com/ad7540da1a4325db20aa1308cbece3aba8cb23af",
+      "height": 175,
+      "width": 233,
+      "url": "http://m.friendfeed-media.com/0c9650c885c29d914a971bd5ea65193b4fa6fdd0"
+    },
+    {
+      "height": 175,
+      "link": "http://m.friendfeed-media.com/90b9f68875432aa18ee68a9243a87b0bffa6cf87",
+      "url": "http://m.friendfeed-media.com/60d19fe59534535f1e0ea70caf7df23ffa8c06b8",
+      "width": 233
+    },
+    {
+      "link": "http://m.friendfeed-media.com/d312852690dbfea9034d10cf52239d32a8108cb2",
+      "height": 175,
+      "width": 233,
+      "url": "http://m.friendfeed-media.com/4a348e3058999f6ca68c9edc182e9aaa8708975a"
+    }
+  ]
+}
+=end comment
+
+=end pod

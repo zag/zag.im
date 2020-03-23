@@ -1,0 +1,55 @@
+=begin pod :pubdate('2010-07-19T07:45:43Z') :type<note> 
+=NAME jsdoc-toolkit - Project Hosting on Google Code
+
+=begin DESCRIPTION
+
+jsdoc-toolkit - Project Hosting on Google Code - L<link|http://code.google.com/p/jsdoc-toolkit/>
+
+=item Еще один формат встроенной документации. Используется при разработке на  JavaScript.
+
+
+=end DESCRIPTION
+
+jsdoc-toolkit - Project Hosting on Google Code - L<link|http://code.google.com/p/jsdoc-toolkit/>
+
+=item Еще один формат встроенной документации. Используется при разработке на  JavaScript.
+
+
+=begin comment :src
+{
+  "comments": [
+    {
+      "body": "Еще один формат встроенной документации. Используется при разработке на  JavaScript.",
+      "via": {
+        "url": "http://friendfeed.com/share/bookmarklet",
+        "name": "Bookmarklet"
+      },
+      "id": "e/05c078725ca1443eada79ad9a9c4aa6a/c/098095a1b0dc48b4a26d71d8e726b8d3",
+      "from": {
+        "name": "углы «Исимуры»",
+        "id": "zag",
+        "type": "user"
+      },
+      "date": "2010-07-19T07:45:43Z",
+      "rawBody": "Еще один формат встроенной документации. Используется при разработке на  JavaScript."
+    }
+  ],
+  "from": {
+    "id": "zag",
+    "type": "user",
+    "name": "углы «Исимуры»"
+  },
+  "via": {
+    "name": "Bookmarklet",
+    "url": "http://friendfeed.com/share/bookmarklet"
+  },
+  "rawLink": "http://code.google.com/p/jsdoc-toolkit/",
+  "body": "jsdoc-toolkit - Project Hosting on Google Code - <a rel=\"nofollow\" href=\"http://code.google.com/p/jsdoc-toolkit/\" title=\"http://code.google.com/p/jsdoc-toolkit/\">http://code.google.com/p...</a>",
+  "id": "e/05c078725ca1443eada79ad9a9c4aa6a",
+  "date": "2010-07-19T07:45:43Z",
+  "rawBody": "jsdoc-toolkit - Project Hosting on Google Code",
+  "url": "http://friendfeed.com/zag/05c07872/jsdoc-toolkit-project-hosting-on-google-code"
+}
+=end comment
+
+=end pod

@@ -1,0 +1,48 @@
+=begin pod :pubdate('2011-07-01T00:35:55Z') :type<note> :tags<lvee>
+=NAME Зондер команда готовит лук #lvee
+
+=begin DESCRIPTION
+
+Зондер команда готовит лук #lvee
+=for Image :width(292) :link('http://m.friendfeed-media.com/0d3c9325cf77f13f4560c8a2c6ef66362a50c2b3') :height(175) :preview
+media/94ea2c893f54ec950b7df161e59de10ca4687f1d.jpg
+
+
+
+=end DESCRIPTION
+
+Зондер команда готовит лук #lvee
+=for Image :width(292) :link('http://m.friendfeed-media.com/0d3c9325cf77f13f4560c8a2c6ef66362a50c2b3') :height(175) :preview
+media/94ea2c893f54ec950b7df161e59de10ca4687f1d.jpg
+
+
+
+=begin comment :src
+{
+  "via": {
+    "name": "email",
+    "url": "http://friendfeed.com/share/mail"
+  },
+  "from": {
+    "name": "углы «Исимуры»",
+    "id": "zag",
+    "type": "user"
+  },
+  "date": "2011-07-01T00:35:55Z",
+  "id": "e/42a7072994ee48439325d65d84fa9bcf",
+  "rawBody": "Зондер команда готовит лук #lvee",
+  "url": "http://friendfeed.com/zag/42a70729/lvee",
+  "thumbnails": [
+    {
+      "height": 175,
+      "link": "http://m.friendfeed-media.com/0d3c9325cf77f13f4560c8a2c6ef66362a50c2b3",
+      "width": 292,
+      "url": "http://m.friendfeed-media.com/94ea2c893f54ec950b7df161e59de10ca4687f1d"
+    }
+  ],
+  "rawLink": "http://friendfeed.com/e/42a70729-94ee-4843-9325-d65d84fa9bcf",
+  "body": "Зондер команда готовит лук <a href=\"http://friendfeed.com/search?q=%23lvee\">#lvee</a>"
+}
+=end comment
+
+=end pod

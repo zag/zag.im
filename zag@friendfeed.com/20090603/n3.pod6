@@ -1,0 +1,36 @@
+=begin pod :pubdate('2009-06-03T08:24:54Z') :type<note> 
+=NAME Install search addon for bing.com http://bit.ly/FaxAf
+
+=begin DESCRIPTION
+
+Install search addon for bing.com http://bit.ly/FaxAf - L<link|http://twitter.com/zagru/statuses/2014403119>
+
+
+
+=end DESCRIPTION
+
+Install search addon for bing.com http://bit.ly/FaxAf - L<link|http://twitter.com/zagru/statuses/2014403119>
+
+
+
+=begin comment :src
+{
+  "body": "Install search addon for bing.com <a rel=\"nofollow\" href=\"http://bit.ly/FaxAf\" title=\"https://addons.mozilla.org/en-US/firefox/addons/policy/0/\">https://addons.mozilla.org/en-US...</a>",
+  "rawLink": "http://twitter.com/zagru/statuses/2014403119",
+  "rawBody": "Install search addon for bing.com http://bit.ly/FaxAf",
+  "id": "e/0fa70c618843efa114b9b9f0767a3509",
+  "date": "2009-06-03T08:24:54Z",
+  "url": "http://friendfeed.com/zag/0fa70c61/install-search-addon-for-bing",
+  "from": {
+    "type": "user",
+    "id": "zag",
+    "name": "углы «Исимуры»"
+  },
+  "via": {
+    "name": "Twitter",
+    "url": "http://twitter.com/zagru/statuses/2014403119"
+  }
+}
+=end comment
+
+=end pod

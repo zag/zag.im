@@ -1,0 +1,85 @@
+=begin pod :pubdate('2011-04-16T05:30:03Z') :type<note> :tags<perl>
+=NAME Modern JavaScript (Is JavaScript the New Perl?)- rmurphey #perl
+
+=begin DESCRIPTION
+
+Modern JavaScript (Is JavaScript the New Perl?)- rmurphey #perl - L<link|http://blog.rebeccamurphey.com/modern-javascript>
+=for Image :width(75) :link('http://blog.rebeccamurphey.com/modern-javascript') :height(75) :preview
+media/d395608e388e2baed3fc456a3fb705b232a1100d.jpg
+
+=item "Is JavaScript the New Perl?"
+
+
+=end DESCRIPTION
+
+Modern JavaScript (Is JavaScript the New Perl?)- rmurphey #perl - L<link|http://blog.rebeccamurphey.com/modern-javascript>
+=for Image :width(75) :link('http://blog.rebeccamurphey.com/modern-javascript') :height(75) :preview
+media/d395608e388e2baed3fc456a3fb705b232a1100d.jpg
+
+=item "Is JavaScript the New Perl?"
+
+
+=begin comment :src
+{
+  "comments": [
+    {
+      "via": {
+        "url": "http://friendfeed.com/share/bookmarklet",
+        "name": "Bookmarklet"
+      },
+      "from": {
+        "name": "углы «Исимуры»",
+        "id": "zag",
+        "type": "user"
+      },
+      "id": "e/81a01ebdee6c40baab56158bb8cb8266/c/af0c710a44114f5290c7fe54654efd3d",
+      "date": "2011-04-16T05:30:03Z",
+      "rawBody": "\"Is JavaScript the New Perl?\"",
+      "body": "&quot;Is JavaScript the New Perl?&quot;"
+    }
+  ],
+  "from": {
+    "name": "углы «Исимуры»",
+    "id": "zag",
+    "type": "user"
+  },
+  "via": {
+    "url": "http://friendfeed.com/share/bookmarklet",
+    "name": "Bookmarklet"
+  },
+  "rawLink": "http://blog.rebeccamurphey.com/modern-javascript",
+  "likes": [
+    {
+      "date": "2011-04-16T12:16:54Z",
+      "from": {
+        "type": "user",
+        "id": "bessarabov",
+        "name": "Ivan Bessarabov"
+      }
+    },
+    {
+      "from": {
+        "name": "alex@kapranoff.ru",
+        "id": "kkapp",
+        "type": "user"
+      },
+      "date": "2011-04-16T10:02:12Z"
+    }
+  ],
+  "body": "Modern JavaScript (Is JavaScript the New Perl?)- rmurphey <a href=\"http://friendfeed.com/search?q=%23perl\">#perl</a> - <a rel=\"nofollow\" href=\"http://blog.rebeccamurphey.com/modern-javascript\" title=\"http://blog.rebeccamurphey.com/modern-javascript\">http://blog.rebeccamurphey.com/modern-...</a>",
+  "id": "e/81a01ebdee6c40baab56158bb8cb8266",
+  "date": "2011-04-16T05:30:03Z",
+  "url": "http://friendfeed.com/zag/81a01ebd/modern-javascript-is-new-perl-rmurphey",
+  "rawBody": "Modern JavaScript (Is JavaScript the New Perl?)- rmurphey #perl",
+  "thumbnails": [
+    {
+      "url": "http://m.friendfeed-media.com/d395608e388e2baed3fc456a3fb705b232a1100d",
+      "width": 75,
+      "height": 75,
+      "link": "http://blog.rebeccamurphey.com/modern-javascript"
+    }
+  ]
+}
+=end comment
+
+=end pod

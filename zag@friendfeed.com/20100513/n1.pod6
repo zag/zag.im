@@ -1,0 +1,67 @@
+=begin pod :pubdate('2010-05-13T07:06:16Z') :type<note> 
+=NAME Introducing the Google Internet Stats site...
+
+=begin DESCRIPTION
+
+Introducing the Google Internet Stats site... - L<link|http://googlebarometer.blogspot.com/2010/05/introducing-google-internet-stats-site.html>
+=for Image :width(72) :link('http://googlebarometer.blogspot.com/2010/05/introducing-google-internet-stats-site.html') :height(72) :preview
+media/e89cbe0574df8eba2e65ac76af85e47e1f52ad0b.png
+
+=item "This Google resource brings together the latest industry facts and insights"
+
+
+=end DESCRIPTION
+
+Introducing the Google Internet Stats site... - L<link|http://googlebarometer.blogspot.com/2010/05/introducing-google-internet-stats-site.html>
+=for Image :width(72) :link('http://googlebarometer.blogspot.com/2010/05/introducing-google-internet-stats-site.html') :height(72) :preview
+media/e89cbe0574df8eba2e65ac76af85e47e1f52ad0b.png
+
+=item "This Google resource brings together the latest industry facts and insights"
+
+
+=begin comment :src
+{
+  "comments": [
+    {
+      "body": "&quot;This Google resource brings together the latest industry facts and insights&quot;",
+      "date": "2010-05-13T07:06:16Z",
+      "id": "e/de5e016720fd4d18b3d63bf1eb4a06fc/c/8917c421223f4a779a0d741ded158eae",
+      "rawBody": "\"This Google resource brings together the latest industry facts and insights\"",
+      "from": {
+        "name": "углы «Исимуры»",
+        "type": "user",
+        "id": "zag"
+      },
+      "via": {
+        "name": "Bookmarklet",
+        "url": "http://friendfeed.com/share/bookmarklet"
+      }
+    }
+  ],
+  "from": {
+    "name": "углы «Исимуры»",
+    "type": "user",
+    "id": "zag"
+  },
+  "via": {
+    "url": "http://friendfeed.com/share/bookmarklet",
+    "name": "Bookmarklet"
+  },
+  "rawLink": "http://googlebarometer.blogspot.com/2010/05/introducing-google-internet-stats-site.html",
+  "body": "Introducing the Google Internet Stats site... - <a rel=\"nofollow\" href=\"http://googlebarometer.blogspot.com/2010/05/introducing-google-internet-stats-site.html\" title=\"http://googlebarometer.blogspot.com/2010/05/introducing-google-internet-stats-site.html\">http://googlebarometer.blogspot.com/2010...</a>",
+  "id": "e/de5e016720fd4d18b3d63bf1eb4a06fc",
+  "date": "2010-05-13T07:06:16Z",
+  "rawBody": "Introducing the Google Internet Stats site...",
+  "url": "http://friendfeed.com/zag/de5e0167/introducing-google-internet-stats-site",
+  "thumbnails": [
+    {
+      "width": 72,
+      "url": "http://m.friendfeed-media.com/e89cbe0574df8eba2e65ac76af85e47e1f52ad0b",
+      "link": "http://googlebarometer.blogspot.com/2010/05/introducing-google-internet-stats-site.html",
+      "height": 72
+    }
+  ]
+}
+=end comment
+
+=end pod

@@ -1,0 +1,36 @@
+=begin pod :pubdate('2010-03-31T13:52:29Z') :type<note> 
+=NAME Эти люди - просто программисты. Кем бы они себя не считали...
+
+=begin DESCRIPTION
+
+Эти люди - просто программисты. Кем бы они себя не считали... - L<link|http://twitter.com/zagru/statuses/11367275062>
+
+
+
+=end DESCRIPTION
+
+Эти люди - просто программисты. Кем бы они себя не считали... - L<link|http://twitter.com/zagru/statuses/11367275062>
+
+
+
+=begin comment :src
+{
+  "from": {
+    "id": "zag",
+    "type": "user",
+    "name": "углы «Исимуры»"
+  },
+  "via": {
+    "name": "Twitter",
+    "url": "http://twitter.com/zagru/statuses/11367275062"
+  },
+  "date": "2010-03-31T13:52:29Z",
+  "id": "e/6a7e653b1e05e1cedb370a04e6b13574",
+  "url": "http://friendfeed.com/zag/6a7e653b",
+  "rawBody": "Эти люди - просто программисты. Кем бы они себя не считали...",
+  "rawLink": "http://twitter.com/zagru/statuses/11367275062",
+  "body": "Эти люди - просто программисты. Кем бы они себя не считали..."
+}
+=end comment
+
+=end pod

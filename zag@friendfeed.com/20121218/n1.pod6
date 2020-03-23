@@ -1,0 +1,55 @@
+=begin pod :pubdate('2012-12-18T19:49:53Z') :type<note> 
+=NAME Timeline of programming languages - Wikipedia, the free encyclopedia
+
+=begin DESCRIPTION
+
+Timeline of programming languages - Wikipedia, the free encyclopedia - L<link|http://en.wikipedia.org/wiki/Timeline_of_programming_languages>
+
+=item языки программирования по времени создания
+
+
+=end DESCRIPTION
+
+Timeline of programming languages - Wikipedia, the free encyclopedia - L<link|http://en.wikipedia.org/wiki/Timeline_of_programming_languages>
+
+=item языки программирования по времени создания
+
+
+=begin comment :src
+{
+  "comments": [
+    {
+      "body": "языки программирования по времени создания",
+      "via": {
+        "url": "http://friendfeed.com/share/bookmarklet",
+        "name": "Bookmarklet"
+      },
+      "id": "e/0b124fa1fd84468396a10b591c6c3930/c/063e9b2494b148d58697e2742737f6b5",
+      "date": "2012-12-18T19:49:53Z",
+      "from": {
+        "name": "углы «Исимуры»",
+        "id": "zag",
+        "type": "user"
+      },
+      "rawBody": "языки программирования по времени создания"
+    }
+  ],
+  "via": {
+    "url": "http://friendfeed.com/share/bookmarklet",
+    "name": "Bookmarklet"
+  },
+  "from": {
+    "type": "user",
+    "id": "zag",
+    "name": "углы «Исимуры»"
+  },
+  "body": "Timeline of programming languages - Wikipedia, the free encyclopedia - <a rel=\"nofollow\" href=\"http://en.wikipedia.org/wiki/Timeline_of_programming_languages\" title=\"http://en.wikipedia.org/wiki/Timeline_of_programming_languages\">http://en.wikipedia.org/wiki...</a>",
+  "rawLink": "http://en.wikipedia.org/wiki/Timeline_of_programming_languages",
+  "id": "e/0b124fa1fd84468396a10b591c6c3930",
+  "url": "http://friendfeed.com/zag/0b124fa1/timeline-of-programming-languages-wikipedia",
+  "date": "2012-12-18T19:49:53Z",
+  "rawBody": "Timeline of programming languages - Wikipedia, the free encyclopedia"
+}
+=end comment
+
+=end pod

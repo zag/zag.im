@@ -1,0 +1,32 @@
+=begin pod :pubdate('2010-02-27T07:51:25Z') :type<note> :tags<ir search>
+=NAME Yahoo!'s Learning to Rank Challenge - benchmark your ranking algorithm against the best in industry - http://goo.gl/EWib #ir #search
+
+=begin DESCRIPTION
+
+Yahoo!'s Learning to Rank Challenge - benchmark your ranking algorithm against the best in industry - http://goo.gl/EWib #ir #search
+
+
+
+=end DESCRIPTION
+
+Yahoo!'s Learning to Rank Challenge - benchmark your ranking algorithm against the best in industry - http://goo.gl/EWib #ir #search
+
+
+
+=begin comment :src
+{
+  "rawLink": "http://friendfeed.com/e/18610354-01e2-4a79-a84d-72dd61c283c1",
+  "body": "Yahoo!'s Learning to Rank Challenge - benchmark your ranking algorithm against the best in industry - <a rel=\"nofollow\" href=\"http://goo.gl/EWib\" title=\"http://learningtorankchallenge.yahoo.com/index.php\">http://learningtorankchallenge...</a> <a href=\"http://friendfeed.com/search?q=%23ir\">#ir</a> <a href=\"http://friendfeed.com/search?q=%23search\">#search</a>",
+  "date": "2010-02-27T07:51:25Z",
+  "id": "e/1861035401e24a79a84d72dd61c283c1",
+  "from": {
+    "id": "zag",
+    "type": "user",
+    "name": "углы «Исимуры»"
+  },
+  "rawBody": "Yahoo!'s Learning to Rank Challenge - benchmark your ranking algorithm against the best in industry - http://goo.gl/EWib #ir #search",
+  "url": "http://friendfeed.com/zag/18610354/yahoo-learning-to-rank-challenge-benchmark"
+}
+=end comment
+
+=end pod

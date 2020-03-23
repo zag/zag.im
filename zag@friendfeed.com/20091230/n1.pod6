@@ -1,0 +1,36 @@
+=begin pod :pubdate('2009-12-30T20:26:57Z') :type<note> 
+=NAME ps aux
+
+=begin DESCRIPTION
+
+ps aux - L<link|http://twitter.com/zagru/statuses/7207648095>
+
+
+
+=end DESCRIPTION
+
+ps aux - L<link|http://twitter.com/zagru/statuses/7207648095>
+
+
+
+=begin comment :src
+{
+  "id": "e/70022d8dd087b714eb38b0f9c19b7545",
+  "date": "2009-12-30T20:26:57Z",
+  "url": "http://friendfeed.com/zag/70022d8d/ps-aux",
+  "rawBody": "ps aux",
+  "body": "ps aux",
+  "rawLink": "http://twitter.com/zagru/statuses/7207648095",
+  "via": {
+    "name": "Twitter",
+    "url": "http://twitter.com/zagru/statuses/7207648095"
+  },
+  "from": {
+    "name": "углы «Исимуры»",
+    "type": "user",
+    "id": "zag"
+  }
+}
+=end comment
+
+=end pod

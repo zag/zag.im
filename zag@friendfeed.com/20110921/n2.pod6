@@ -1,0 +1,74 @@
+=begin pod :pubdate('2011-09-21T07:07:14Z') :type<note> 
+=NAME Update
+
+=begin DESCRIPTION
+
+Update - L<link|http://www.reddit.com/r/pics/comments/kkcc6/update/>
+=for Image :width(525) :link('http://www.reddit.com/r/pics/comments/kkcc6/update/') :height(172) :preview
+media/3e0a39bcaa4590e2ed0802f2cab4c1b1a37f6e23.jpg
+
+
+
+=end DESCRIPTION
+
+Update - L<link|http://www.reddit.com/r/pics/comments/kkcc6/update/>
+=for Image :width(525) :link('http://www.reddit.com/r/pics/comments/kkcc6/update/') :height(172) :preview
+media/3e0a39bcaa4590e2ed0802f2cab4c1b1a37f6e23.jpg
+
+
+
+=begin comment :src
+{
+  "via": {
+    "name": "Bookmarklet",
+    "url": "http://friendfeed.com/share/bookmarklet"
+  },
+  "from": {
+    "type": "user",
+    "id": "zag",
+    "name": "углы «Исимуры»"
+  },
+  "body": "Update - <a rel=\"nofollow\" href=\"http://www.reddit.com/r/pics/comments/kkcc6/update/\" title=\"http://www.reddit.com/r/pics/comments/kkcc6/update/\">http://www.reddit.com/r...</a>",
+  "rawLink": "http://www.reddit.com/r/pics/comments/kkcc6/update/",
+  "likes": [
+    {
+      "date": "2011-09-21T07:54:21Z",
+      "from": {
+        "name": "Николай",
+        "type": "user",
+        "id": "mishin"
+      }
+    },
+    {
+      "from": {
+        "name": "ptzn",
+        "id": "ptzn",
+        "type": "user"
+      },
+      "date": "2011-09-21T07:10:11Z"
+    },
+    {
+      "from": {
+        "name": "DehajEuj2",
+        "type": "user",
+        "id": "zabdetud"
+      },
+      "date": "2011-09-21T07:09:06Z"
+    }
+  ],
+  "id": "e/7093a0ba214f4103ab547d68f640d142",
+  "date": "2011-09-21T07:07:14Z",
+  "rawBody": "Update",
+  "url": "http://friendfeed.com/zag/7093a0ba/update",
+  "thumbnails": [
+    {
+      "height": 172,
+      "link": "http://www.reddit.com/r/pics/comments/kkcc6/update/",
+      "url": "http://m.friendfeed-media.com/3e0a39bcaa4590e2ed0802f2cab4c1b1a37f6e23",
+      "width": 525
+    }
+  ]
+}
+=end comment
+
+=end pod

@@ -1,0 +1,55 @@
+=begin pod :pubdate('2011-06-06T10:58:50Z') :type<note> 
+=NAME Lorem Ipsum - All the facts - Lipsum generator
+
+=begin DESCRIPTION
+
+Lorem Ipsum - All the facts - Lipsum generator - L<link|http://www.lipsum.com/>
+
+=item Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+
+
+=end DESCRIPTION
+
+Lorem Ipsum - All the facts - Lipsum generator - L<link|http://www.lipsum.com/>
+
+=item Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+
+
+=begin comment :src
+{
+  "from": {
+    "id": "zag",
+    "type": "user",
+    "name": "углы «Исимуры»"
+  },
+  "via": {
+    "url": "http://friendfeed.com/share/bookmarklet",
+    "name": "Bookmarklet"
+  },
+  "comments": [
+    {
+      "body": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+      "id": "e/de577578394a441cbf76e9995937feed/c/0c4b71ab8ca6427296bdd9574cd3552f",
+      "date": "2011-06-06T10:58:50Z",
+      "rawBody": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+      "from": {
+        "name": "углы «Исимуры»",
+        "type": "user",
+        "id": "zag"
+      },
+      "via": {
+        "name": "Bookmarklet",
+        "url": "http://friendfeed.com/share/bookmarklet"
+      }
+    }
+  ],
+  "id": "e/de577578394a441cbf76e9995937feed",
+  "date": "2011-06-06T10:58:50Z",
+  "rawBody": "Lorem Ipsum - All the facts - Lipsum generator",
+  "url": "http://friendfeed.com/zag/de577578/lorem-ipsum-all-facts-lipsum-generator",
+  "rawLink": "http://www.lipsum.com/",
+  "body": "Lorem Ipsum - All the facts - Lipsum generator - <a rel=\"nofollow\" href=\"http://www.lipsum.com/\">http://www.lipsum.com/</a>"
+}
+=end comment
+
+=end pod

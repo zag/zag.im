@@ -1,0 +1,36 @@
+=begin pod :pubdate('2009-11-02T12:40:36Z') :type<note> 
+=NAME Подготовка договора оферты для проекта - поиск первоисточника среди Рунета.
+
+=begin DESCRIPTION
+
+Подготовка договора оферты для проекта - поиск первоисточника среди Рунета. - L<link|http://twitter.com/zagru/statuses/5361996952>
+
+
+
+=end DESCRIPTION
+
+Подготовка договора оферты для проекта - поиск первоисточника среди Рунета. - L<link|http://twitter.com/zagru/statuses/5361996952>
+
+
+
+=begin comment :src
+{
+  "id": "e/1c9dd55854a4e14b7331aa1bcf96c4b0",
+  "rawBody": "Подготовка договора оферты для проекта - поиск первоисточника среди Рунета.",
+  "date": "2009-11-02T12:40:36Z",
+  "url": "http://friendfeed.com/zag/1c9dd558",
+  "body": "Подготовка договора оферты для проекта - поиск первоисточника среди Рунета.",
+  "rawLink": "http://twitter.com/zagru/statuses/5361996952",
+  "via": {
+    "name": "Twitter",
+    "url": "http://twitter.com/zagru/statuses/5361996952"
+  },
+  "from": {
+    "name": "углы «Исимуры»",
+    "type": "user",
+    "id": "zag"
+  }
+}
+=end comment
+
+=end pod

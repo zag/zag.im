@@ -1,0 +1,32 @@
+=begin pod :pubdate('2010-11-22T08:10:09Z') :type<note> 
+=NAME Начал приходить спам с кириллическими доменами.
+
+=begin DESCRIPTION
+
+Начал приходить спам с кириллическими доменами.
+
+
+
+=end DESCRIPTION
+
+Начал приходить спам с кириллическими доменами.
+
+
+
+=begin comment :src
+{
+  "body": "Начал приходить спам с кириллическими доменами.",
+  "rawLink": "http://friendfeed.com/e/a0e6f82f-3428-4c27-a07a-7b6451098c81",
+  "id": "e/a0e6f82f34284c27a07a7b6451098c81",
+  "from": {
+    "name": "углы «Исимуры»",
+    "id": "zag",
+    "type": "user"
+  },
+  "date": "2010-11-22T08:10:09Z",
+  "rawBody": "Начал приходить спам с кириллическими доменами.",
+  "url": "http://friendfeed.com/zag/a0e6f82f"
+}
+=end comment
+
+=end pod

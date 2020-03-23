@@ -1,0 +1,68 @@
+=begin pod :pubdate('2010-07-28T10:20:39Z') :type<note> 
+=NAME Five Best Book Recommendation Services
+
+=begin DESCRIPTION
+
+Five Best Book Recommendation Services - L<link|http://lifehacker.com/5595842/five-best-book-recommendation-services>
+=for Image :width(227) :link('http://lifehacker.com/5595842/five-best-book-recommendation-services') :height(175) :preview
+media/66e2f23a6d08476ff1d343f8bd5160388f456164.jpg
+=for Image :width(220) :link('http://lifehacker.com/5595842/five-best-book-recommendation-services') :height(175) :preview
+media/5db8056857411e0d606a5c332043411ced902420.jpg
+=for Image :width(240) :link('http://lifehacker.com/5595842/five-best-book-recommendation-services') :height(175) :preview
+media/d6ff90a8f05fd1a7cc2961bbeb8598c98c09fb95.jpg
+
+
+
+=end DESCRIPTION
+
+Five Best Book Recommendation Services - L<link|http://lifehacker.com/5595842/five-best-book-recommendation-services>
+=for Image :width(227) :link('http://lifehacker.com/5595842/five-best-book-recommendation-services') :height(175) :preview
+media/66e2f23a6d08476ff1d343f8bd5160388f456164.jpg
+=for Image :width(220) :link('http://lifehacker.com/5595842/five-best-book-recommendation-services') :height(175) :preview
+media/5db8056857411e0d606a5c332043411ced902420.jpg
+=for Image :width(240) :link('http://lifehacker.com/5595842/five-best-book-recommendation-services') :height(175) :preview
+media/d6ff90a8f05fd1a7cc2961bbeb8598c98c09fb95.jpg
+
+
+
+=begin comment :src
+{
+  "rawLink": "http://lifehacker.com/5595842/five-best-book-recommendation-services",
+  "body": "Five Best Book Recommendation Services - <a rel=\"nofollow\" href=\"http://lifehacker.com/5595842/five-best-book-recommendation-services\" title=\"http://lifehacker.com/5595842/five-best-book-recommendation-services\">http://lifehacker.com/5595842...</a>",
+  "date": "2010-07-28T10:20:39Z",
+  "id": "e/7add3951a0b54fe59266808890379091",
+  "url": "http://friendfeed.com/zag/7add3951/five-best-book-recommendation-services",
+  "rawBody": "Five Best Book Recommendation Services",
+  "thumbnails": [
+    {
+      "height": 175,
+      "link": "http://lifehacker.com/5595842/five-best-book-recommendation-services",
+      "width": 227,
+      "url": "http://m.friendfeed-media.com/66e2f23a6d08476ff1d343f8bd5160388f456164"
+    },
+    {
+      "width": 220,
+      "url": "http://m.friendfeed-media.com/5db8056857411e0d606a5c332043411ced902420",
+      "height": 175,
+      "link": "http://lifehacker.com/5595842/five-best-book-recommendation-services"
+    },
+    {
+      "url": "http://m.friendfeed-media.com/d6ff90a8f05fd1a7cc2961bbeb8598c98c09fb95",
+      "width": 240,
+      "link": "http://lifehacker.com/5595842/five-best-book-recommendation-services",
+      "height": 175
+    }
+  ],
+  "via": {
+    "name": "Bookmarklet",
+    "url": "http://friendfeed.com/share/bookmarklet"
+  },
+  "from": {
+    "id": "zag",
+    "type": "user",
+    "name": "углы «Исимуры»"
+  }
+}
+=end comment
+
+=end pod

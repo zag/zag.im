@@ -1,0 +1,60 @@
+=begin pod :pubdate('2011-06-06 10:00:00') :tags<pod6 perl6 pod perl>
+=NAME По итогам DevConf 2011
+
+=begin DESCRIPTION
+
+=for Image :align("left") :preview
+IMAG0314.jpg
+
+Отдельные моменты по итогам DevConf.
+
+=end DESCRIPTION
+
+=Image IMAG0314.jpg
+
+По итогам доклада N< Доклад "Perl 6 Pod - современный формат ведения документации".L<http://devconf.ru/offers/34|http://devconf.ru/offers/34>, презентация "L<Perl 6 Pod - современный формат ведения документации|http://www.slideshare.net/zagru/perl6pod-devconf>" > на DevConf отмечу отдельные моменты:
+
+=begin defn
+POD  - Plain Old Documentation. 
+
+Perl 6 B<Pod> - просто Pod. Отличительным признаком является расширение C<.pod6> у файлов нового формата.
+
+Не знаю в какой момент я стал использовать Perl вместо Plain при расшифровке POD, но где смог исправил эту опечатку.
+
+=end defn
+
+=begin defn 
+Определение блоков кода
+
+Блоки кода в Perl 6 Pod, как и в POD, могут быть отмечены с помощью отступов. Однако спецификация ограничивает подобный способ блоками C<=pod>, C<=nested>, C<=item>, C<=code> и семантическими блоками. Для остальных стандартных блоков текст может быть отформатирован с помощью отступов без преобразования в блоки кода.
+
+Демонстрация расположена на странице "L<Определение блоков кода|http://zag.ru/perl6-pod/#PWJlZ2luIHBvZAo9cGFyYQogICAgIExvcmVtIElwc3VtIGlzIHNpbXBseSBkdW1teQogICAgIHRleHQgb2YgdGhlIHByaW50aW5nIGFuZCB0eXBlc2V0dGluZyBpbmR1c3RyeQoKICMgY29kZSBibG9jawogIyBjb252ZXJ0ZWQgdG8gY29kZQoKRGVmYXVsdCBwYXJhLgo9ZW5kIHBvZAo=>".
+
+=end defn
+
+=config code :allow<E>
+
+=begin defn
+Абзацы в списках
+
+Блоки C<=item> могут быть представлены в разграниченном стиле, а именно с использованием специальных маркеров C<=begin> и C<=end>. Благодаря этой форме представления стало возможным использовать несколько абзацев в определении списка.
+
+Например:
+
+    =begin item 
+    I<Элемент списка>
+    E<nbsp>
+    Этот текст является также частью списка перечисления. 
+    =end item
+
+Это позволяет реализовать более наглядное представление текста, так как все абзацы имеют одинаковый отступ. Пример можно посмотреть на странице "L<Использование абзацев в элементах списков|http://zag.ru/perl6-pod/#PWJlZ2luIHBvZApWZWdldGFibGVzOgo9YmVnaW4gaXRlbSAKSTxjdWN1bWJlcj4KCmdyZWVuCj1lbmQgaXRlbQo9YmVnaW4gaXRlbSAKSTx0b21hdG8+CgpyZWQKPWVuZCBpdGVtCj1lbmQgcG9kCg==>" на странице конвертера "L<Perl6 Pod to HTML|<http://zag.ru/perl6-pod/>".
+
+=end defn
+
+=Image IMAG0322.jpg
+
+На конференции были представлены в виде потоков некоторое количество языков. Наиболее интересные материалы почерпнул из докладов про Ruby. На PHP секции узнал про I<"обновляшки" на php>.
+
+=Image IMAG0313.jpg
+
+=end pod

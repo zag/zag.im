@@ -1,0 +1,36 @@
+=begin pod :pubdate('2010-03-23T08:19:16Z') :type<note> 
+=NAME Обнаружился файл в проекте для шаблонизатора с одиноким div внутри. Никакого функционала Template Toolkit , просто кусок текста.
+
+=begin DESCRIPTION
+
+Обнаружился файл в проекте для шаблонизатора с одиноким div внутри. Никакого функционала Template Toolkit , просто кусок текста. - L<link|http://twitter.com/zagru/statuses/10915988202>
+
+
+
+=end DESCRIPTION
+
+Обнаружился файл в проекте для шаблонизатора с одиноким div внутри. Никакого функционала Template Toolkit , просто кусок текста. - L<link|http://twitter.com/zagru/statuses/10915988202>
+
+
+
+=begin comment :src
+{
+  "from": {
+    "name": "углы «Исимуры»",
+    "type": "user",
+    "id": "zag"
+  },
+  "via": {
+    "url": "http://twitter.com/zagru/statuses/10915988202",
+    "name": "Twitter"
+  },
+  "body": "Обнаружился файл в проекте для шаблонизатора с одиноким div внутри. Никакого функционала Template Toolkit , просто кусок текста.",
+  "rawLink": "http://twitter.com/zagru/statuses/10915988202",
+  "date": "2010-03-23T08:19:16Z",
+  "id": "e/0f9f3dbecdebcab2151ed0c1bb9c9264",
+  "rawBody": "Обнаружился файл в проекте для шаблонизатора с одиноким div внутри. Никакого функционала Template Toolkit , просто кусок текста.",
+  "url": "http://friendfeed.com/zag/0f9f3dbe/div-template-toolkit"
+}
+=end comment
+
+=end pod

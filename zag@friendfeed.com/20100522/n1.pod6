@@ -1,0 +1,119 @@
+=begin pod :pubdate('2010-05-22T15:00:51Z') :type<note> 
+=NAME What You Need to Know About Google TV
+
+=begin DESCRIPTION
+
+What You Need to Know About Google TV - L<link|http://mashable.com/2010/05/20/google-tv-facts/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+Mashable+%28Mashable%29>
+=for Image :width(239) :link('http://mashable.com/2010/05/20/google-tv-facts/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+Mashable+%28Mashable%29') :height(175) :preview
+media/e9ed5a5c5da70c80e6808d43d8796b9ec4687f60.jpg
+
+=item Google TV will eventually integrate with Sony Playstation.
+=item In summer 2011, Google TV will be open sourced.
+=item Google TV will be available to consumers by fall 2010 in the U.S.
+=item Required bandwidth will depend on the kind of content you consume, but good performance can be expected from 3MB/s connections.
+=item Google TV will be available to consumers by fall 2010 in the U.S.
+
+
+=end DESCRIPTION
+
+What You Need to Know About Google TV - L<link|http://mashable.com/2010/05/20/google-tv-facts/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+Mashable+%28Mashable%29>
+=for Image :width(239) :link('http://mashable.com/2010/05/20/google-tv-facts/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+Mashable+%28Mashable%29') :height(175) :preview
+media/e9ed5a5c5da70c80e6808d43d8796b9ec4687f60.jpg
+
+=item Google TV will eventually integrate with Sony Playstation.
+=item In summer 2011, Google TV will be open sourced.
+=item Google TV will be available to consumers by fall 2010 in the U.S.
+=item Required bandwidth will depend on the kind of content you consume, but good performance can be expected from 3MB/s connections.
+=item Google TV will be available to consumers by fall 2010 in the U.S.
+
+
+=begin comment :src
+{
+  "body": "What You Need to Know About Google TV - <a rel=\"nofollow\" href=\"http://mashable.com/2010/05/20/google-tv-facts/?utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+Mashable+%28Mashable%29\" title=\"http://mashable.com/2010/05/20/google-tv-facts/?utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+Mashable+%28Mashable%29\">http://mashable.com/2010...</a>",
+  "rawLink": "http://mashable.com/2010/05/20/google-tv-facts/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+Mashable+%28Mashable%29",
+  "id": "e/e45c1edd3e4e4429a6c24a69ad275382",
+  "rawBody": "What You Need to Know About Google TV",
+  "date": "2010-05-22T15:00:51Z",
+  "url": "http://friendfeed.com/zag/e45c1edd/what-you-need-to-know-about-google-tv",
+  "thumbnails": [
+    {
+      "url": "http://m.friendfeed-media.com/e9ed5a5c5da70c80e6808d43d8796b9ec4687f60",
+      "width": 239,
+      "link": "http://mashable.com/2010/05/20/google-tv-facts/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+Mashable+%28Mashable%29",
+      "height": 175
+    }
+  ],
+  "comments": [
+    {
+      "body": "Google TV will eventually integrate with Sony Playstation.",
+      "via": {
+        "url": "http://friendfeed.com/share/bookmarklet",
+        "name": "Bookmarklet"
+      },
+      "from": {
+        "id": "zag",
+        "type": "user",
+        "name": "углы «Исимуры»"
+      },
+      "id": "e/e45c1edd3e4e4429a6c24a69ad275382/c/525e85abdc944a348105cada7403b8fe",
+      "date": "2010-05-22T15:00:51Z",
+      "rawBody": "Google TV will eventually integrate with Sony Playstation."
+    },
+    {
+      "rawBody": "In summer 2011, Google TV will be open sourced.",
+      "id": "e/e45c1edd3e4e4429a6c24a69ad275382/c/184f8b95d65841bab479e929c124801f",
+      "date": "2010-05-22T15:01:24Z",
+      "from": {
+        "type": "user",
+        "id": "zag",
+        "name": "углы «Исимуры»"
+      },
+      "body": "In summer 2011, Google TV will be open sourced."
+    },
+    {
+      "body": "Google TV will be available to consumers by fall 2010 in the U.S.",
+      "rawBody": "Google TV will be available to consumers by fall 2010 in the U.S.",
+      "date": "2010-05-22T15:02:13Z",
+      "id": "e/e45c1edd3e4e4429a6c24a69ad275382/c/b55c1563f89d4fd4b8e1ed9b7b71ea41",
+      "from": {
+        "name": "углы «Исимуры»",
+        "type": "user",
+        "id": "zag"
+      }
+    },
+    {
+      "id": "e/e45c1edd3e4e4429a6c24a69ad275382/c/45582d33deaf47959c7b812569a4b635",
+      "rawBody": "Required bandwidth will depend on the kind of content you consume, but good performance can be expected from 3MB/s connections.",
+      "date": "2010-05-22T15:02:29Z",
+      "from": {
+        "id": "zag",
+        "type": "user",
+        "name": "углы «Исимуры»"
+      },
+      "body": "Required bandwidth will depend on the kind of content you consume, but good performance can be expected from 3MB/s connections."
+    },
+    {
+      "body": "Google TV will be available to consumers by fall 2010 in the U.S.",
+      "date": "2010-05-22T15:03:19Z",
+      "rawBody": "Google TV will be available to consumers by fall 2010 in the U.S.",
+      "id": "e/e45c1edd3e4e4429a6c24a69ad275382/c/16d46c5eda1847dba6b8c7b62cecb166",
+      "from": {
+        "id": "zag",
+        "type": "user",
+        "name": "углы «Исимуры»"
+      }
+    }
+  ],
+  "from": {
+    "type": "user",
+    "id": "zag",
+    "name": "углы «Исимуры»"
+  },
+  "via": {
+    "url": "http://friendfeed.com/share/bookmarklet",
+    "name": "Bookmarklet"
+  }
+}
+=end comment
+
+=end pod

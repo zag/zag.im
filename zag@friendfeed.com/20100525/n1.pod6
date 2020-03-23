@@ -1,0 +1,44 @@
+=begin pod :pubdate('2010-05-25T07:21:06Z') :type<note> :tags<googleTV>
+=NAME Крылатые фразы  #googleTV
+
+=begin DESCRIPTION
+
+Крылатые фразы  #googleTV
+=for Image :width(233) :link('http://m.friendfeed-media.com/dc9db76662a66250420bba3dd48c9911166430a2') :height(175) :preview
+media/ff97d35ea9b3c7d052cceaf4aa8db4aca8e492fd.jpg
+
+
+
+=end DESCRIPTION
+
+Крылатые фразы  #googleTV
+=for Image :width(233) :link('http://m.friendfeed-media.com/dc9db76662a66250420bba3dd48c9911166430a2') :height(175) :preview
+media/ff97d35ea9b3c7d052cceaf4aa8db4aca8e492fd.jpg
+
+
+
+=begin comment :src
+{
+  "from": {
+    "type": "user",
+    "id": "zag",
+    "name": "углы «Исимуры»"
+  },
+  "date": "2010-05-25T07:21:06Z",
+  "id": "e/c90d96d602464a0a98fea17130655c4f",
+  "thumbnails": [
+    {
+      "height": 175,
+      "link": "http://m.friendfeed-media.com/dc9db76662a66250420bba3dd48c9911166430a2",
+      "url": "http://m.friendfeed-media.com/ff97d35ea9b3c7d052cceaf4aa8db4aca8e492fd",
+      "width": 233
+    }
+  ],
+  "rawBody": "Крылатые фразы  #googleTV",
+  "url": "http://friendfeed.com/zag/c90d96d6/googletv",
+  "rawLink": "http://friendfeed.com/e/c90d96d6-0246-4a0a-98fe-a17130655c4f",
+  "body": "Крылатые фразы  <a href=\"http://friendfeed.com/search?q=%23googleTV\">#googleTV</a>"
+}
+=end comment
+
+=end pod

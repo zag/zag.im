@@ -1,0 +1,46 @@
+=begin pod :pubdate('2009-11-10T10:49:55Z') :type<note> :tags<gdd09ru>
+=NAME Эти умные набор текста в телефонах против gdd09ru #gdd09ru
+
+=begin DESCRIPTION
+
+Эти умные набор текста в телефонах против gdd09ru #gdd09ru - L<link|http://twitter.com/zagru/statuses/5585798988>
+
+
+
+=end DESCRIPTION
+
+Эти умные набор текста в телефонах против gdd09ru #gdd09ru - L<link|http://twitter.com/zagru/statuses/5585798988>
+
+
+
+=begin comment :src
+{
+  "from": {
+    "id": "zag",
+    "type": "user",
+    "name": "углы «Исимуры»"
+  },
+  "via": {
+    "url": "http://twitter.com/zagru/statuses/5585798988",
+    "name": "Twitter"
+  },
+  "date": "2009-11-10T10:49:55Z",
+  "id": "e/cc66323dc67e3ee927f0fe085f89958d",
+  "rawBody": "Эти умные набор текста в телефонах против gdd09ru #gdd09ru",
+  "url": "http://friendfeed.com/zag/cc66323d/gdd09ru",
+  "body": "Эти умные набор текста в телефонах против gdd09ru <a rel=\"nofollow\" href=\"http://search.twitter.com/search?q=%23gdd09ru\">#gdd09ru</a>",
+  "likes": [
+    {
+      "from": {
+        "name": "piikummitus",
+        "id": "silpol",
+        "type": "user"
+      },
+      "date": "2009-11-10T11:19:54Z"
+    }
+  ],
+  "rawLink": "http://twitter.com/zagru/statuses/5585798988"
+}
+=end comment
+
+=end pod

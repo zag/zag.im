@@ -1,0 +1,48 @@
+=begin pod :pubdate('2011-02-11T06:23:46Z') :type<note> 
+=NAME Yearbook 2011
+
+=begin DESCRIPTION
+
+Yearbook 2011 - L<link|http://pics.blameitonthevoices.com/s.php?f=022011&p=social_media_yearbook.jpg>
+=for Image :width(56) :link('http://pics.blameitonthevoices.com/s.php?f=022011&p=social_media_yearbook.jpg') :height(175) :preview
+media/6de8e10bc7f80d72a2098f3f47c81449de6bc4ba.jpg
+
+
+
+=end DESCRIPTION
+
+Yearbook 2011 - L<link|http://pics.blameitonthevoices.com/s.php?f=022011&p=social_media_yearbook.jpg>
+=for Image :width(56) :link('http://pics.blameitonthevoices.com/s.php?f=022011&p=social_media_yearbook.jpg') :height(175) :preview
+media/6de8e10bc7f80d72a2098f3f47c81449de6bc4ba.jpg
+
+
+
+=begin comment :src
+{
+  "from": {
+    "name": "углы «Исимуры»",
+    "type": "user",
+    "id": "zag"
+  },
+  "via": {
+    "url": "http://friendfeed.com/share/bookmarklet",
+    "name": "Bookmarklet"
+  },
+  "body": "Yearbook 2011 - <a rel=\"nofollow\" href=\"http://pics.blameitonthevoices.com/s.php?f=022011&amp;p=social_media_yearbook.jpg\" title=\"http://pics.blameitonthevoices.com/s.php?f=022011&amp;p=social_media_yearbook.jpg\">http://pics.blameitonthevoices.com/s...</a>",
+  "rawLink": "http://pics.blameitonthevoices.com/s.php?f=022011&p=social_media_yearbook.jpg",
+  "id": "e/afaabb6751014cf687aa467ed475aab6",
+  "date": "2011-02-11T06:23:46Z",
+  "rawBody": "Yearbook 2011",
+  "url": "http://friendfeed.com/zag/afaabb67/yearbook-2011",
+  "thumbnails": [
+    {
+      "url": "http://m.friendfeed-media.com/6de8e10bc7f80d72a2098f3f47c81449de6bc4ba",
+      "width": 56,
+      "height": 175,
+      "link": "http://pics.blameitonthevoices.com/s.php?f=022011&p=social_media_yearbook.jpg"
+    }
+  ]
+}
+=end comment
+
+=end pod

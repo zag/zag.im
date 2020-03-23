@@ -1,0 +1,36 @@
+=begin pod :pubdate('2010-01-15T14:08:28Z') :type<note> :tags<freebsd>
+=NAME Попробовал 8-STABLE #freebsd : паникует при загрузке с USB. Диагноз Саахова подтверждатся: http://tinyurl.com/y8k4f7v
+
+=begin DESCRIPTION
+
+Попробовал 8-STABLE #freebsd : паникует при загрузке с USB. Диагноз Саахова подтверждатся: http://tinyurl.com/y8k4f7v - L<link|http://twitter.com/zagru/statuses/7788452896>
+
+
+
+=end DESCRIPTION
+
+Попробовал 8-STABLE #freebsd : паникует при загрузке с USB. Диагноз Саахова подтверждатся: http://tinyurl.com/y8k4f7v - L<link|http://twitter.com/zagru/statuses/7788452896>
+
+
+
+=begin comment :src
+{
+  "from": {
+    "name": "углы «Исимуры»",
+    "id": "zag",
+    "type": "user"
+  },
+  "via": {
+    "url": "http://twitter.com/zagru/statuses/7788452896",
+    "name": "Twitter"
+  },
+  "body": "Попробовал 8-STABLE <a rel=\"nofollow\" href=\"http://search.twitter.com/search?q=%23freebsd\">#freebsd</a> : паникует при загрузке с USB. Диагноз Саахова подтверждатся: <a rel=\"nofollow\" href=\"http://tinyurl.com/y8k4f7v\" title=\"http://groups.google.ru/group/fido7.ru.unix.bsd/browse_thread/thread/5a65ded430c340db?pli=1\">http://groups.google.ru/group...</a>",
+  "rawLink": "http://twitter.com/zagru/statuses/7788452896",
+  "id": "e/a910a68a529d67f34126c2871f5c3aae",
+  "rawBody": "Попробовал 8-STABLE #freebsd : паникует при загрузке с USB. Диагноз Саахова подтверждатся: http://tinyurl.com/y8k4f7v",
+  "date": "2010-01-15T14:08:28Z",
+  "url": "http://friendfeed.com/zag/a910a68a/8-stable-freebsd-usb"
+}
+=end comment
+
+=end pod

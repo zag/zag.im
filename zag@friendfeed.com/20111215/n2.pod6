@@ -1,0 +1,44 @@
+=begin pod :pubdate('2011-12-15T21:29:19Z') :type<note> 
+=NAME Batman: Arkham City - PS3 - собираюсь на след. неделе. Просто поиграть ...
+
+=begin DESCRIPTION
+
+Batman: Arkham City - PS3 - собираюсь на след. неделе. Просто поиграть ...
+=for Image :width(185) :link('http://m.friendfeed-media.com/5133b1d8cc9e1e9e232c32df70f9c216ca415ce0') :height(175) :preview
+media/98db59925f8ac94bc1ff39dbda9a40ea901a53c3.jpg
+
+
+
+=end DESCRIPTION
+
+Batman: Arkham City - PS3 - собираюсь на след. неделе. Просто поиграть ...
+=for Image :width(185) :link('http://m.friendfeed-media.com/5133b1d8cc9e1e9e232c32df70f9c216ca415ce0') :height(175) :preview
+media/98db59925f8ac94bc1ff39dbda9a40ea901a53c3.jpg
+
+
+
+=begin comment :src
+{
+  "rawLink": "http://friendfeed.com/e/19deb55d-fca8-4dc3-8bef-3628c159de0f",
+  "body": "Batman: Arkham City - PS3 - собираюсь на след. неделе. Просто поиграть ...",
+  "rawBody": "Batman: Arkham City - PS3 - собираюсь на след. неделе. Просто поиграть ...",
+  "id": "e/19deb55dfca84dc38bef3628c159de0f",
+  "date": "2011-12-15T21:29:19Z",
+  "url": "http://friendfeed.com/zag/19deb55d/batman-arkham-city-ps3",
+  "thumbnails": [
+    {
+      "height": 175,
+      "link": "http://m.friendfeed-media.com/5133b1d8cc9e1e9e232c32df70f9c216ca415ce0",
+      "width": 185,
+      "url": "http://m.friendfeed-media.com/98db59925f8ac94bc1ff39dbda9a40ea901a53c3"
+    }
+  ],
+  "from": {
+    "name": "углы «Исимуры»",
+    "id": "zag",
+    "type": "user"
+  }
+}
+=end comment
+
+=end pod

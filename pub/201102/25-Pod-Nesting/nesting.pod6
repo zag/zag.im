@@ -1,0 +1,55 @@
+=begin pod :pubdate('2011-02-25 10:00:00') :tags<pod6 perl6 pod perl>
+=NAME Perl 6 Pod: Вложенность блоков
+
+=begin DESCRIPTION
+
+=for Image :align("left") :preview
+matroshki.jpg
+
+Уровень вложенности в Pod - одна из составляющих его объектной модели документа. Вложенность блоков зачастую отмечается дополнительными отступами, но возможны и другие способы отображения: рамками, элементами сворачивания. 
+
+=end DESCRIPTION
+
+Уровень вложенности в Pod - одна из составляющих его объектной модели документа. Вложенность блоков зачастую отмечается дополнительными отступами, но возможны и другие способы отображения: рамками, элементами сворачивания. 
+
+Любой блок может быть вложенным I<(nested)>.  Для этого достаточно указать атрибут блока C<:nested>:
+
+    =begin para :nested
+        We are all of us in the gutter,
+        but some of us are looking at the stars!
+    =end para
+
+Однако, указание атрибута вложенности для каждого блока быстро становится утомительным занятием, если таких блоков несколько или требуется несколько уровней вложенности:
+
+    =begin para :nested
+        We are all of us in the gutter,
+        but some of us are looking at the stars!
+    =end para
+    =begin para :nested(2)
+            -- Oscar Wilde
+    =end para
+
+Формат Pod предоставляет блок C<=nested>, который означает, что все его содержимое должно быть вложенным:
+
+    =begin nested
+    We are all of us in the gutter,
+    but some of us are looking at the stars!
+        =begin nested
+        -- Oscar Wilde
+        =end nested
+    =end nested
+
+Блоки вложенности C<=nested> могут содержать любое количество блоков, включая неявные параграфы и блоки кода. Следует отметить, что физические отступы блоков не играют роли при определении их уровня вложенности. Предидущий пример может быть переписан с учетом этого следующим образом:
+
+    =begin nested
+    We are all of us in the gutter,
+    but some of us are looking at the stars!
+    =begin nested
+    -- Oscar Wilde
+    =end nested
+    =end nested
+
+=for para
+Примеры вложенности блоков доступны по адресам "L<Атрибут вложенности :nested| http://zag.ru/perl6-pod/#PWJlZ2luIHBvZAo9Zm9yIHBhcmEgOm5lc3RlZApFPGJ1bGw+IEFuaW1hbAo9Zm9yIHBhcmEgOm5lc3RlZCgyKQpFPG5kYXNoPiBWZXJ0ZWJyYXRlCj1mb3IgcGFyYSA6bmVzdGVkKDIpCkU8bmRhc2g+IEludmVydGVicmF0ZQo9ZW5kIHBvZAo=>" и  "L<Блок вложенности =nested| http://zag.ru/perl6-pod/#PWJlZ2luIHBvZAo9YmVnaW4gbmVzdGVkCldlIGFyZSBhbGwgb2YgdXMgaW4gdGhlIGd1dHRlcixidXQgc29tZSBvZiB1cyBhcmUgbG9va2luZyBhdCB0aGUgc3RhcnMhCj1iZWdpbiBuZXN0ZWQKICAgICAtLSBPc2NhciBXaWxkZQo9ZW5kIG5lc3RlZAo9ZW5kIG5lc3RlZAo9ZW5kIHBvZAo=>" на странице конвертера "L<Perl6 Pod to HTML|<http://zag.ru/perl6-pod/>".
+
+=end pod

@@ -1,0 +1,97 @@
+=begin pod :pubdate('2010-09-09T14:26:01Z') :type<note> 
+=NAME Скоро начнется очередной сериальный сезон ! /The season of serials will soon begin !
+
+=begin DESCRIPTION
+
+Скоро начнется очередной сериальный сезон ! /The season of serials will soon begin !
+
+
+
+=end DESCRIPTION
+
+Скоро начнется очередной сериальный сезон ! /The season of serials will soon begin !
+
+
+
+=begin comment :src
+{
+  "from": {
+    "name": "углы «Исимуры»",
+    "type": "user",
+    "id": "zag"
+  },
+  "id": "e/f947afd1636d48e4aad5720adb293ce3",
+  "thumbnails": [
+    {
+      "link": "http://friendfeed.com/e/f947afd1-636d-48e4-aad5-720adb293ce3",
+      "url": "http://asset.soup.io/asset/1066/1600_af50.gif"
+    }
+  ],
+  "date": "2010-09-09T14:26:01Z",
+  "rawBody": "Скоро начнется очередной сериальный сезон ! /The season of serials will soon begin !",
+  "url": "http://friendfeed.com/zag/f947afd1/season-of-serials-will-soon-begin",
+  "body": "Скоро начнется очередной сериальный сезон ! /The season of serials will soon begin !",
+  "rawLink": "http://friendfeed.com/e/f947afd1-636d-48e4-aad5-720adb293ce3",
+  "likes": [
+    {
+      "date": "2010-09-13T17:22:50Z",
+      "from": {
+        "name": "Sergey Zhuzhgov",
+        "id": "sergeyzhuzhgov",
+        "type": "user",
+        "private": true
+      }
+    },
+    {
+      "from": {
+        "name": "arty",
+        "type": "user",
+        "id": "arty"
+      },
+      "date": "2010-09-13T13:30:14Z"
+    },
+    {
+      "from": {
+        "name": "woof",
+        "id": "woof",
+        "type": "user"
+      },
+      "date": "2010-09-13T12:30:46Z"
+    },
+    {
+      "from": {
+        "name": "reflexing",
+        "id": "reflexing",
+        "type": "user"
+      },
+      "date": "2010-09-13T10:35:18Z"
+    },
+    {
+      "date": "2010-09-13T10:29:16Z",
+      "from": {
+        "name": "ХИМЕРЫ НЕ СДАЮТСЯ",
+        "id": "derzelle",
+        "type": "user"
+      }
+    },
+    {
+      "from": {
+        "name": "alex@kapranoff.ru",
+        "id": "kkapp",
+        "type": "user"
+      },
+      "date": "2010-09-13T10:18:34Z"
+    },
+    {
+      "from": {
+        "type": "user",
+        "id": "oguzserdar",
+        "name": "Oguz Serdar"
+      },
+      "date": "2010-09-13T09:59:43Z"
+    }
+  ]
+}
+=end comment
+
+=end pod

@@ -1,0 +1,101 @@
+=begin pod :pubdate('2010-11-09 10:00:00') :tags<perl publishing>
+=NAME REST интерфейс и публикация с помощью Git
+
+=begin DESCRIPTION
+=for Image :align("left") :preview
+publish.jpg
+
+Интересно экспериментировать с использованием различных технологий. Основная причина - изменение обычного хода вещей, приобретение новых навыков и опыта. Иногда это позволяет открыть для себя новые пути решения некоторых задач, но всегда расширяет кругозор. 
+
+=end DESCRIPTION
+
+Интересно экспериментировать с использованием различных технологий. Основная причина - изменение обычного хода вещей, приобретение новых навыков и опыта. Иногда это позволяет открыть для себя новые пути решения некоторых задач, но всегда расширяет кругозор. 
+
+=head2 Вызовы посредством REST
+
+С недавнего времени, в качестве инструмента публикации, я использую I<curl> I<(консольный WEB клиент)>. Смена обычного способа I<(с помощью браузера)> стала возможной благодаря технологии L<REST|http://en.wikipedia.org/wiki/Representational_State_Transfer>. Теперь моя шпаргалка для работы с сайтом выглядит следующим образом:
+
+=for item :term("Создать запись")
+
+ curl -X POST -D - -u xxxxxx:XXXXXXX -T File.pod http://zag.ru/New/b
+
+=for item :term("Получить исходный текст записи")
+
+ curl -X GET -D - -o File.pod http://zag.ru/2010/309/b1/Perl6-Pod-kod-formatirovanija-E-opredelenie-sushhnostej.pod
+
+=for item :term("Обновить запись")
+
+ curl -X PUT -D - -u xxxxxx:XXXXXXX -T File.pod http://zag.ru/2010/309/b1/Perl6-Pod-kod-formatirovanija-E-opredelenie-sushhnostej.pod
+
+=for item :term("Удалить запись")
+
+ curl -X DELETE -D - -u xxxxxx:XXXXXXX http://zag.ru/2010/309/b1/Perl6-Pod-kod-formatirovanija-E-opredelenie-sushhnostej.pod
+
+Во время реализации REST доступа я встретил следующие интересные ссылки:
+=item 
+L<Router::Resource - Build REST-inspired routing tables| http://search.cpan.org/perldoc?Router::Resource>
+
+Следующий пример весьма нагляден:
+
+=begin code
+  use Router::Resource;
+  use Plack::Builder;
+  use namespace::autoclean;
+  sub app {
+      # Create a routing table.
+      my $router = router {
+          resource '/' => sub {
+              GET  { $template->render('home') };
+          };
+          resource '/blog/{year}/{month}' => sub {
+              GET  { [200, [], [ $template->render({ posts => \@posts }) ] };
+              POST { push @posts, new_post(shift); [200, [], ['ok']] };
+          };
+      };
+      # Build the Plack app to use it.
+      builder {
+          sub { $router->dispatch(shift) };
+      };
+  }
+=end code
+
+=item 
+L<Developing RESTful Web Services in Perl|http://tim.oreilly.com/pub/a/onlamp/2008/02/19/developing-restful-web-services-in-perl.html>
+
+=head2 Публикация с помощью Git
+
+Моим основным редактором является I<Vim>. А для написания статей я использую формат L<Perl 6 Pod | http://zag.ru/perl6-pod/ >. Хранятся статьи и сопутствующие им материалы в Git. Структура  каталогов выглядит следующим образом:
+
+=code
+ 4 drwxr-xr-x 6 zag  zag  4096 Nov  6 08:54 .      
+ 4 drwxrwxrwx 4 root root 4096 Nov  6 07:26 ..     
+ 4 drwxr-xr-x 8 zag  zag  4096 Oct 31 15:45 .git   
+ 4 -rw-r--r-- 1 zag  zag   349 Oct 31 15:43 README 
+ 4 drwxr-xr-x 2 zag  zag  4096 Oct 31 15:45 bin    
+ 4 drwxr-xr-x 2 zag  zag  4096 Nov  6 08:54 draft  
+ 4 drwxr-xr-x 2 zag  zag  4096 Nov  6 08:54 pub    
+ 
+В файле B<README> - шпаргалка по командам I<curl>, B<bin> - каталог с скриптами, B<draft> - каталог с черновиками, а в каталоге B<pub> располагаются готовые материалы.
+
+После "механизации" блога посредством REST, стало возможным просто автоматизировать и сам процесс публикации. Для этого был поднят сервер Git - gitosis ( согласно L<инструкции по настройке Gitosis| http://scie.nti.st/2007/11/14/hosting-git-repositories-the-easy-and-secure-way> ). На сервере Git уставлен L<post-receive Hook|http://progit.org/book/ch7-3.html>, который игнорирует изменения в файлах, расположенных B<вне> каталога B<pub>. А для файлов расположенных в B<pub> создает или обновляет записи на zag.ru.
+
+После готовности материалов к публикации, выполняется команда B<mv>:
+
+   git mv draft/rest_git pub/201011
+   git commit 
+   git push
+
+Материалы из каталога I<draft> оказываются в I<pub>, и поэтому все изменения в этих файлах публикуются на сайте.
+
+
+В качестве Git сервера можно использовать сервис L<GitHub|http://github.com>. Он предоставляет уведомления L<Post-Receive Hooks |http://help.github.com/post-receive-hooks/>, которые можно использовать для выполнения каких-либо действий.
+
+=for Image
+github-hooks.jpg
+
+
+Таким образом в результате получилось окружение, которое включает в себя распределенное хранилище материалов, совмещенное с их публикацией.
+
+I<( Теперь можно иногда проводить время в темной текстовой консоли, а то и совсем отказаться от X сервера  B< :-) > )>.
+
+=end pod

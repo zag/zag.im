@@ -1,0 +1,86 @@
+=begin pod :pubdate('2010-09-30T07:57:23Z') :type<note> :tags<perl>
+=NAME A Book Review of Effective Perl Programming Ways to Write Better; More Idiomatic Perl | Book Zone #perl
+
+=begin DESCRIPTION
+
+A Book Review of Effective Perl Programming Ways to Write Better; More Idiomatic Perl | Book Zone #perl - L<link|http://books.dzone.com/reviews/book-review-effective-perl>
+=for Image :width(119) :link('http://books.dzone.com/reviews/book-review-effective-perl') :height(175) :preview
+media/91232400890680ad131ad1a21dfdce519fa08651.jpg
+
+=item "This is a not a book for Perl beginners; it will not teach you Perl. However, if you already know Perl and implement the books examples, it can and will make you a better more proficient Perler."
+
+
+=end DESCRIPTION
+
+A Book Review of Effective Perl Programming Ways to Write Better; More Idiomatic Perl | Book Zone #perl - L<link|http://books.dzone.com/reviews/book-review-effective-perl>
+=for Image :width(119) :link('http://books.dzone.com/reviews/book-review-effective-perl') :height(175) :preview
+media/91232400890680ad131ad1a21dfdce519fa08651.jpg
+
+=item "This is a not a book for Perl beginners; it will not teach you Perl. However, if you already know Perl and implement the books examples, it can and will make you a better more proficient Perler."
+
+
+=begin comment :src
+{
+  "body": "A Book Review of Effective Perl Programming Ways to Write Better; More Idiomatic Perl | Book Zone <a href=\"http://friendfeed.com/search?q=%23perl\">#perl</a> - <a rel=\"nofollow\" href=\"http://books.dzone.com/reviews/book-review-effective-perl\" title=\"http://books.dzone.com/reviews/book-review-effective-perl\">http://books.dzone.com/reviews...</a>",
+  "rawLink": "http://books.dzone.com/reviews/book-review-effective-perl",
+  "likes": [
+    {
+      "date": "2010-09-30T09:00:05Z",
+      "from": {
+        "name": "MK",
+        "id": "innin",
+        "type": "user",
+        "private": true
+      }
+    },
+    {
+      "date": "2010-09-30T08:51:05Z",
+      "from": {
+        "name": "alex@kapranoff.ru",
+        "id": "kkapp",
+        "type": "user"
+      }
+    }
+  ],
+  "id": "e/fdb2720472e54129aab3ebf59cfbc487",
+  "date": "2010-09-30T07:57:23Z",
+  "url": "http://friendfeed.com/zag/fdb27204/book-review-of-effective-perl-programming-ways",
+  "rawBody": "A Book Review of Effective Perl Programming Ways to Write Better; More Idiomatic Perl | Book Zone #perl",
+  "thumbnails": [
+    {
+      "height": 175,
+      "link": "http://books.dzone.com/reviews/book-review-effective-perl",
+      "width": 119,
+      "url": "http://m.friendfeed-media.com/91232400890680ad131ad1a21dfdce519fa08651"
+    }
+  ],
+  "comments": [
+    {
+      "via": {
+        "url": "http://friendfeed.com/share/bookmarklet",
+        "name": "Bookmarklet"
+      },
+      "id": "e/fdb2720472e54129aab3ebf59cfbc487/c/5f48d939636342059f960a8e756a292f",
+      "date": "2010-09-30T07:57:23Z",
+      "from": {
+        "id": "zag",
+        "type": "user",
+        "name": "углы «Исимуры»"
+      },
+      "rawBody": "\"This is a not a book for Perl beginners; it will not teach you Perl. However, if you already know Perl and implement the books examples, it can and will make you a better more proficient Perler.\"",
+      "body": "&quot;This is a not a book for Perl beginners; it will not teach you Perl. However, if you already know Perl and implement the books examples, it can and will make you a better more proficient Perler.&quot;"
+    }
+  ],
+  "from": {
+    "type": "user",
+    "id": "zag",
+    "name": "углы «Исимуры»"
+  },
+  "via": {
+    "url": "http://friendfeed.com/share/bookmarklet",
+    "name": "Bookmarklet"
+  }
+}
+=end comment
+
+=end pod

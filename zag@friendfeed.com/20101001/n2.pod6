@@ -1,0 +1,58 @@
+=begin pod :pubdate('2010-10-01T10:08:48Z') :type<note> :tags<yac2010>
+=NAME Наглядно про map reduce #yac2010
+
+=begin DESCRIPTION
+
+Наглядно про map reduce #yac2010
+=for Image :width(233) :link('http://m.friendfeed-media.com/26dba1ee1fd45fb958244134da8f9410a393ed4c') :height(175) :preview
+media/2bad650d379e0e25a657ea4d80a476f215e7310b.jpg
+
+
+
+=end DESCRIPTION
+
+Наглядно про map reduce #yac2010
+=for Image :width(233) :link('http://m.friendfeed-media.com/26dba1ee1fd45fb958244134da8f9410a393ed4c') :height(175) :preview
+media/2bad650d379e0e25a657ea4d80a476f215e7310b.jpg
+
+
+
+=begin comment :src
+{
+  "via": {
+    "url": "http://friendfeed.com/share/mail",
+    "name": "email"
+  },
+  "from": {
+    "id": "zag",
+    "type": "user",
+    "name": "углы «Исимуры»"
+  },
+  "body": "Наглядно про map reduce <a href=\"http://friendfeed.com/search?q=%23yac2010\">#yac2010</a>",
+  "rawLink": "http://friendfeed.com/e/1aaa236d-6428-4cfd-b6a8-37b534be9a4d",
+  "likes": [
+    {
+      "from": {
+        "id": "antonme",
+        "type": "user",
+        "name": "Anton Volnuhin"
+      },
+      "date": "2010-10-02T15:15:22Z"
+    }
+  ],
+  "rawBody": "Наглядно про map reduce #yac2010",
+  "id": "e/1aaa236d64284cfdb6a837b534be9a4d",
+  "date": "2010-10-01T10:08:48Z",
+  "url": "http://friendfeed.com/zag/1aaa236d/map-reduce-yac2010",
+  "thumbnails": [
+    {
+      "height": 175,
+      "link": "http://m.friendfeed-media.com/26dba1ee1fd45fb958244134da8f9410a393ed4c",
+      "url": "http://m.friendfeed-media.com/2bad650d379e0e25a657ea4d80a476f215e7310b",
+      "width": 233
+    }
+  ]
+}
+=end comment
+
+=end pod

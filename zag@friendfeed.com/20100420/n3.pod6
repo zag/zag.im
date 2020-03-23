@@ -1,0 +1,55 @@
+=begin pod :pubdate('2010-04-20T07:40:48Z') :type<note> 
+=NAME Using XAuth to simplify the social web.
+
+=begin DESCRIPTION
+
+Using XAuth to simplify the social web. - L<link|http://googlecode.blogspot.com/2010/04/using-xauth-to-simplify-social-web.html#>
+
+=item In practice, the list of services provided at any given time by xauth.org should not be considered exhaustive, but instead a suggestion for how to prioritize complex service selection dialogs and interfaces, like those known as "NASCAR" interfaces.
+
+
+=end DESCRIPTION
+
+Using XAuth to simplify the social web. - L<link|http://googlecode.blogspot.com/2010/04/using-xauth-to-simplify-social-web.html#>
+
+=item In practice, the list of services provided at any given time by xauth.org should not be considered exhaustive, but instead a suggestion for how to prioritize complex service selection dialogs and interfaces, like those known as "NASCAR" interfaces.
+
+
+=begin comment :src
+{
+  "id": "e/4e5e2b336c3e4d17b32bf76713fcc8fb",
+  "rawBody": "Using XAuth to simplify the social web.",
+  "date": "2010-04-20T07:40:48Z",
+  "url": "http://friendfeed.com/zag/4e5e2b33/using-xauth-to-simplify-social-web",
+  "rawLink": "http://googlecode.blogspot.com/2010/04/using-xauth-to-simplify-social-web.html#",
+  "body": "Using XAuth to simplify the social web. - <a rel=\"nofollow\" href=\"http://googlecode.blogspot.com/2010/04/using-xauth-to-simplify-social-web.html#\" title=\"http://googlecode.blogspot.com/2010/04/using-xauth-to-simplify-social-web.html#\">http://googlecode.blogspot.com/2010...</a>",
+  "via": {
+    "name": "Bookmarklet",
+    "url": "http://friendfeed.com/share/bookmarklet"
+  },
+  "from": {
+    "id": "zag",
+    "type": "user",
+    "name": "углы «Исимуры»"
+  },
+  "comments": [
+    {
+      "body": "In practice, the list of services provided at any given time by xauth.org should not be considered exhaustive, but instead a suggestion for how to prioritize complex service selection dialogs and interfaces, like those known as &quot;NASCAR&quot; interfaces.",
+      "id": "e/4e5e2b336c3e4d17b32bf76713fcc8fb/c/e5fc0b2ba0e040a39d8f59d29700834a",
+      "rawBody": "In practice, the list of services provided at any given time by xauth.org should not be considered exhaustive, but instead a suggestion for how to prioritize complex service selection dialogs and interfaces, like those known as \"NASCAR\" interfaces.",
+      "date": "2010-04-20T07:40:48Z",
+      "from": {
+        "name": "углы «Исимуры»",
+        "id": "zag",
+        "type": "user"
+      },
+      "via": {
+        "name": "Bookmarklet",
+        "url": "http://friendfeed.com/share/bookmarklet"
+      }
+    }
+  ]
+}
+=end comment
+
+=end pod

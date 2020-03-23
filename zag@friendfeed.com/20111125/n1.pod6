@@ -1,0 +1,55 @@
+=begin pod :pubdate('2011-11-25T08:16:00Z') :type<note> 
+=NAME Fido7 - ddt.demos.ru:   "Пока полёт нормальный. Для топика можно заметить, что теперь это  jail в 8-ке, которая запущена в линуксовом KVM-е :-)) Да, и всё  это лежит на NetApp-е. [Bazinga!] " - http://groups.google.com/group/fido7.ru.unix.bsd/browse_thread/thread/d3dcb2a7db817360?hl=ru
+
+=begin DESCRIPTION
+
+Fido7 - ddt.demos.ru:   "Пока полёт нормальный. Для топика можно заметить, что теперь это  jail в 8-ке, которая запущена в линуксовом KVM-е :-)) Да, и всё  это лежит на NetApp-е. [Bazinga!] " - http://groups.google.com/group/fido7.ru.unix.bsd/browse_thread/thread/d3dcb2a7db817360?hl=ru - L<link|http://ddt.demos.su/#>
+
+=item "Иногда Они возвращаются!"
+
+
+=end DESCRIPTION
+
+Fido7 - ddt.demos.ru:   "Пока полёт нормальный. Для топика можно заметить, что теперь это  jail в 8-ке, которая запущена в линуксовом KVM-е :-)) Да, и всё  это лежит на NetApp-е. [Bazinga!] " - http://groups.google.com/group/fido7.ru.unix.bsd/browse_thread/thread/d3dcb2a7db817360?hl=ru - L<link|http://ddt.demos.su/#>
+
+=item "Иногда Они возвращаются!"
+
+
+=begin comment :src
+{
+  "id": "e/26a5036914ad4d37bcccbe6dede0386a",
+  "date": "2011-11-25T08:16:00Z",
+  "rawBody": "Fido7 - ddt.demos.ru:   \"Пока полёт нормальный. Для топика можно заметить, что теперь это  jail в 8-ке, которая запущена в линуксовом KVM-е :-)) Да, и всё  это лежит на NetApp-е. [Bazinga!] \" - http://groups.google.com/group/fido7.ru.unix.bsd/browse_thread/thread/d3dcb2a7db817360?hl=ru",
+  "url": "http://friendfeed.com/zag/26a50369/fido7-ddt-demos-ru-jail-8-kvm-netapp-bazinga",
+  "rawLink": "http://ddt.demos.su/#",
+  "body": "Fido7 - ddt.demos.ru:   &quot;Пока полёт нормальный. Для топика можно заметить, что теперь это  jail в 8-ке, которая запущена в линуксовом KVM-е :-)) Да, и всё  это лежит на NetApp-е. [Bazinga!] &quot; - <a rel=\"nofollow\" href=\"http://groups.google.com/group/fido7.ru.unix.bsd/browse_thread/thread/d3dcb2a7db817360?hl=ru\" title=\"http://groups.google.com/group/fido7.ru.unix.bsd/browse_thread/thread/d3dcb2a7db817360?hl=ru\">http://groups.google.com/group...</a> - <a rel=\"nofollow\" href=\"http://ddt.demos.su/#\">http://ddt.demos.su/#</a>",
+  "via": {
+    "name": "Bookmarklet",
+    "url": "http://friendfeed.com/share/bookmarklet"
+  },
+  "from": {
+    "type": "user",
+    "id": "zag",
+    "name": "углы «Исимуры»"
+  },
+  "comments": [
+    {
+      "body": "&quot;Иногда Они возвращаются!&quot;",
+      "via": {
+        "url": "http://friendfeed.com/share/bookmarklet",
+        "name": "Bookmarklet"
+      },
+      "id": "e/26a5036914ad4d37bcccbe6dede0386a/c/ba57a075c9d34588960cb185b0a0a81c",
+      "date": "2011-11-25T08:16:00Z",
+      "rawBody": "\"Иногда Они возвращаются!\"",
+      "from": {
+        "type": "user",
+        "id": "zag",
+        "name": "углы «Исимуры»"
+      }
+    }
+  ]
+}
+=end comment
+
+=end pod

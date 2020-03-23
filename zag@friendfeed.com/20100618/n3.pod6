@@ -1,0 +1,32 @@
+=begin pod :pubdate('2010-06-18T08:02:58Z') :type<note> :tags<rakudo perl6>
+=NAME Rakudo Star - отдельная серия релизов, выпускаемых параллельно версиям компилятора #rakudo.  Каждый релиз Rakudo Star  представляет собой полноценное окружение для разработки на #perl6 и включает в себя: определенную версию Rakudo, версию виртуальной машины Parrot, библиотеки perl6 и документацию. http://bit.ly/9uLEi4
+
+=begin DESCRIPTION
+
+Rakudo Star - отдельная серия релизов, выпускаемых параллельно версиям компилятора #rakudo.  Каждый релиз Rakudo Star  представляет собой полноценное окружение для разработки на #perl6 и включает в себя: определенную версию Rakudo, версию виртуальной машины Parrot, библиотеки perl6 и документацию. http://bit.ly/9uLEi4
+
+
+
+=end DESCRIPTION
+
+Rakudo Star - отдельная серия релизов, выпускаемых параллельно версиям компилятора #rakudo.  Каждый релиз Rakudo Star  представляет собой полноценное окружение для разработки на #perl6 и включает в себя: определенную версию Rakudo, версию виртуальной машины Parrot, библиотеки perl6 и документацию. http://bit.ly/9uLEi4
+
+
+
+=begin comment :src
+{
+  "id": "e/22863e66971a487aa7e41be536658b93",
+  "date": "2010-06-18T08:02:58Z",
+  "rawBody": "Rakudo Star - отдельная серия релизов, выпускаемых параллельно версиям компилятора #rakudo.  Каждый релиз Rakudo Star  представляет собой полноценное окружение для разработки на #perl6 и включает в себя: определенную версию Rakudo, версию виртуальной машины Parrot, библиотеки perl6 и документацию. http://bit.ly/9uLEi4",
+  "url": "http://friendfeed.com/zag/22863e66/rakudo-star-perl6-parrot",
+  "from": {
+    "type": "user",
+    "id": "zag",
+    "name": "углы «Исимуры»"
+  },
+  "body": "Rakudo Star - отдельная серия релизов, выпускаемых параллельно версиям компилятора <a href=\"http://friendfeed.com/search?q=%23rakudo\">#rakudo</a>.  Каждый релиз Rakudo Star  представляет собой полноценное окружение для разработки на <a href=\"http://friendfeed.com/search?q=%23perl6\">#perl6</a> и включает в себя: определенную версию Rakudo, версию виртуальной машины Parrot, библиотеки perl6 и документацию. <a rel=\"nofollow\" href=\"http://bit.ly/9uLEi4\" title=\"http://www.nntp.perl.org/group/perl.perl6.language/2010/06/msg33784.html\">http://www.nntp.perl.org/group...</a>",
+  "rawLink": "http://friendfeed.com/e/22863e66-971a-487a-a7e4-1be536658b93"
+}
+=end comment
+
+=end pod

@@ -1,0 +1,94 @@
+=begin pod :pubdate('2010-07-19T18:43:02Z') :type<note> :tags<ps3>
+=NAME Completed: Bioshock 2  #ps3
+
+=begin DESCRIPTION
+
+Completed: Bioshock 2  #ps3
+=for Image :width(151) :link('http://m.friendfeed-media.com/ecafd688a72facfeb87e373baea4cd97c6f7233d') :height(175) :preview
+media/66a58cba12ea8d2ad724ae30d75ce53cfcf49987.jpg
+=for Image :width(233) :link('http://m.friendfeed-media.com/f6b639ff9f575123915f92695f0c822ede95e81d') :height(175) :preview
+media/e88be1eac1ee90e80ec961cf84aae5ca29de333f.jpg
+=for Image :width(233) :link('http://m.friendfeed-media.com/76d0868ee7786036edd35c3a8d6a1098c7231c08') :height(175) :preview
+media/c27dc0dfe013890912cb8954548f453bbecb28f4.jpg
+=for Image :width(233) :link('http://m.friendfeed-media.com/03e148315da665794dc17642350384b2df34d516') :height(175) :preview
+media/5b3011df7deb7fd068bebaaea28331cbc994cc65.jpg
+=for Image :width(233) :link('http://m.friendfeed-media.com/400585a89ecf6b8083035fde4ced09caa2bd7bfd') :height(175) :preview
+media/df529b4e2581eef80d76e4b9a2a9ea130dcfab98.jpg
+=for Image :width(233) :link('http://m.friendfeed-media.com/bee39ef95dd2efb8d1db9f1b59bc86ce56c0a9c7') :height(175) :preview
+media/17286bf6ee2818f90cb284df4ac14bb49ea8137b.jpg
+
+
+
+=end DESCRIPTION
+
+Completed: Bioshock 2  #ps3
+=for Image :width(151) :link('http://m.friendfeed-media.com/ecafd688a72facfeb87e373baea4cd97c6f7233d') :height(175) :preview
+media/66a58cba12ea8d2ad724ae30d75ce53cfcf49987.jpg
+=for Image :width(233) :link('http://m.friendfeed-media.com/f6b639ff9f575123915f92695f0c822ede95e81d') :height(175) :preview
+media/e88be1eac1ee90e80ec961cf84aae5ca29de333f.jpg
+=for Image :width(233) :link('http://m.friendfeed-media.com/76d0868ee7786036edd35c3a8d6a1098c7231c08') :height(175) :preview
+media/c27dc0dfe013890912cb8954548f453bbecb28f4.jpg
+=for Image :width(233) :link('http://m.friendfeed-media.com/03e148315da665794dc17642350384b2df34d516') :height(175) :preview
+media/5b3011df7deb7fd068bebaaea28331cbc994cc65.jpg
+=for Image :width(233) :link('http://m.friendfeed-media.com/400585a89ecf6b8083035fde4ced09caa2bd7bfd') :height(175) :preview
+media/df529b4e2581eef80d76e4b9a2a9ea130dcfab98.jpg
+=for Image :width(233) :link('http://m.friendfeed-media.com/bee39ef95dd2efb8d1db9f1b59bc86ce56c0a9c7') :height(175) :preview
+media/17286bf6ee2818f90cb284df4ac14bb49ea8137b.jpg
+
+
+
+=begin comment :src
+{
+  "date": "2010-07-19T18:43:02Z",
+  "id": "e/c3d2874c01bb4d338c9d7679301ced3d",
+  "url": "http://friendfeed.com/zag/c3d2874c/completed-bioshock-2-ps3",
+  "rawBody": "Completed: Bioshock 2  #ps3",
+  "thumbnails": [
+    {
+      "link": "http://m.friendfeed-media.com/ecafd688a72facfeb87e373baea4cd97c6f7233d",
+      "height": 175,
+      "width": 151,
+      "url": "http://m.friendfeed-media.com/66a58cba12ea8d2ad724ae30d75ce53cfcf49987"
+    },
+    {
+      "height": 175,
+      "link": "http://m.friendfeed-media.com/f6b639ff9f575123915f92695f0c822ede95e81d",
+      "width": 233,
+      "url": "http://m.friendfeed-media.com/e88be1eac1ee90e80ec961cf84aae5ca29de333f"
+    },
+    {
+      "height": 175,
+      "link": "http://m.friendfeed-media.com/76d0868ee7786036edd35c3a8d6a1098c7231c08",
+      "url": "http://m.friendfeed-media.com/c27dc0dfe013890912cb8954548f453bbecb28f4",
+      "width": 233
+    },
+    {
+      "height": 175,
+      "link": "http://m.friendfeed-media.com/03e148315da665794dc17642350384b2df34d516",
+      "width": 233,
+      "url": "http://m.friendfeed-media.com/5b3011df7deb7fd068bebaaea28331cbc994cc65"
+    },
+    {
+      "link": "http://m.friendfeed-media.com/400585a89ecf6b8083035fde4ced09caa2bd7bfd",
+      "height": 175,
+      "url": "http://m.friendfeed-media.com/df529b4e2581eef80d76e4b9a2a9ea130dcfab98",
+      "width": 233
+    },
+    {
+      "url": "http://m.friendfeed-media.com/17286bf6ee2818f90cb284df4ac14bb49ea8137b",
+      "width": 233,
+      "link": "http://m.friendfeed-media.com/bee39ef95dd2efb8d1db9f1b59bc86ce56c0a9c7",
+      "height": 175
+    }
+  ],
+  "rawLink": "http://friendfeed.com/e/c3d2874c-01bb-4d33-8c9d-7679301ced3d",
+  "body": "Completed: Bioshock 2  <a href=\"http://friendfeed.com/search?q=%23ps3\">#ps3</a>",
+  "from": {
+    "name": "углы «Исимуры»",
+    "id": "zag",
+    "type": "user"
+  }
+}
+=end comment
+
+=end pod

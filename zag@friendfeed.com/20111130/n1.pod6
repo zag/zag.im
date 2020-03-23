@@ -1,0 +1,36 @@
+=begin pod :pubdate('2011-11-30T05:51:15Z') :type<note> 
+=NAME Browse the rankings · Programming Languages
+
+=begin DESCRIPTION
+
+Browse the rankings · Programming Languages - L<link|http://therighttool.hammerprinciple.com/browse>
+
+
+
+=end DESCRIPTION
+
+Browse the rankings · Programming Languages - L<link|http://therighttool.hammerprinciple.com/browse>
+
+
+
+=begin comment :src
+{
+  "from": {
+    "id": "zag",
+    "type": "user",
+    "name": "углы «Исимуры»"
+  },
+  "via": {
+    "name": "Bookmarklet",
+    "url": "http://friendfeed.com/share/bookmarklet"
+  },
+  "date": "2011-11-30T05:51:15Z",
+  "id": "e/b54d34963f9f48b99aabb2245c971f98",
+  "rawBody": "Browse the rankings · Programming Languages",
+  "url": "http://friendfeed.com/zag/b54d3496/browse-rankings-programming-languages",
+  "body": "Browse the rankings · Programming Languages - <a rel=\"nofollow\" href=\"http://therighttool.hammerprinciple.com/browse\" title=\"http://therighttool.hammerprinciple.com/browse\">http://therighttool.hammerprin...</a>",
+  "rawLink": "http://therighttool.hammerprinciple.com/browse"
+}
+=end comment
+
+=end pod

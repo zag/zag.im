@@ -1,0 +1,36 @@
+=begin pod :pubdate('2010-05-08T05:07:16Z') :type<note> 
+=NAME RT @atomweaver: Software documentation is like sex. When it's good, it's very good. When it's bad, it's better than nothing.
+
+=begin DESCRIPTION
+
+RT @atomweaver: Software documentation is like sex. When it's good, it's very good. When it's bad, it's better than nothing. - L<link|http://twitter.com/zagru/statuses/13591592468>
+
+
+
+=end DESCRIPTION
+
+RT @atomweaver: Software documentation is like sex. When it's good, it's very good. When it's bad, it's better than nothing. - L<link|http://twitter.com/zagru/statuses/13591592468>
+
+
+
+=begin comment :src
+{
+  "id": "e/e328b013e5132c463110fd3b6de50c30",
+  "date": "2010-05-08T05:07:16Z",
+  "rawBody": "RT @atomweaver: Software documentation is like sex. When it's good, it's very good. When it's bad, it's better than nothing.",
+  "url": "http://friendfeed.com/zag/e328b013/rt-atomweaver-software-documentation-is-like",
+  "body": "RT @<a rel=\"nofollow\" href=\"http://twitter.com/atomweaver\">atomweaver</a>: Software documentation is like sex. When it's good, it's very good. When it's bad, it's better than nothing.",
+  "rawLink": "http://twitter.com/zagru/statuses/13591592468",
+  "from": {
+    "id": "zag",
+    "type": "user",
+    "name": "углы «Исимуры»"
+  },
+  "via": {
+    "name": "Twitter",
+    "url": "http://twitter.com/zagru/statuses/13591592468"
+  }
+}
+=end comment
+
+=end pod

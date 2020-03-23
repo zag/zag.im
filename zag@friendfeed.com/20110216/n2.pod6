@@ -1,0 +1,54 @@
+=begin pod :pubdate('2011-02-16T10:00:33Z') :type<note> :tags<Parrot>
+=NAME #Parrot 3.1.0 "Budgerigar" Released! | Ruby on Parrot, Javascript on Parrot, IPv6 is now supported and tested.
+
+=begin DESCRIPTION
+
+#Parrot 3.1.0 "Budgerigar" Released! | Ruby on Parrot, Javascript on Parrot, IPv6 is now supported and tested. - L<link|http://parrot.org/news/2011/Parrot-3.1.0>
+
+
+
+=end DESCRIPTION
+
+#Parrot 3.1.0 "Budgerigar" Released! | Ruby on Parrot, Javascript on Parrot, IPv6 is now supported and tested. - L<link|http://parrot.org/news/2011/Parrot-3.1.0>
+
+
+
+=begin comment :src
+{
+  "from": {
+    "id": "zag",
+    "type": "user",
+    "name": "углы «Исимуры»"
+  },
+  "via": {
+    "url": "http://friendfeed.com/share/bookmarklet",
+    "name": "Bookmarklet"
+  },
+  "id": "e/20febce8449e4a929b72a66569700943",
+  "url": "http://friendfeed.com/zag/20febce8/parrot-3-1-0-budgerigar-released-ruby-on",
+  "date": "2011-02-16T10:00:33Z",
+  "rawBody": "#Parrot 3.1.0 \"Budgerigar\" Released! | Ruby on Parrot, Javascript on Parrot, IPv6 is now supported and tested.",
+  "body": "<a href=\"http://friendfeed.com/search?q=%23Parrot\">#Parrot</a> 3.1.0 &quot;Budgerigar&quot; Released! | Ruby on Parrot, Javascript on Parrot, IPv6 is now supported and tested. - <a rel=\"nofollow\" href=\"http://parrot.org/news/2011/Parrot-3.1.0\" title=\"http://parrot.org/news/2011/Parrot-3.1.0\">http://parrot.org/news...</a>",
+  "rawLink": "http://parrot.org/news/2011/Parrot-3.1.0",
+  "likes": [
+    {
+      "from": {
+        "name": "Анатолий Шарифулин",
+        "id": "sharifulin",
+        "type": "user"
+      },
+      "date": "2011-02-16T19:21:10Z"
+    },
+    {
+      "from": {
+        "type": "user",
+        "id": "kkapp",
+        "name": "alex@kapranoff.ru"
+      },
+      "date": "2011-02-16T14:58:08Z"
+    }
+  ]
+}
+=end comment
+
+=end pod

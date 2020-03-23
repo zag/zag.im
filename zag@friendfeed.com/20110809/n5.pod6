@@ -1,0 +1,48 @@
+=begin pod :pubdate('2011-08-09T05:13:32Z') :type<note> :tags<perl>
+=NAME The Blog for  YAPC::NA #perl
+
+=begin DESCRIPTION
+
+The Blog for  YAPC::NA #perl - L<link|http://blog.yapcna.org/>
+=for Image :width(165) :link('http://blog.yapcna.org/') :height(175) :preview
+media/07c3548d0d73afbbdf9452b9f1dbbe6c9d24c8e5.jpg
+
+
+
+=end DESCRIPTION
+
+The Blog for  YAPC::NA #perl - L<link|http://blog.yapcna.org/>
+=for Image :width(165) :link('http://blog.yapcna.org/') :height(175) :preview
+media/07c3548d0d73afbbdf9452b9f1dbbe6c9d24c8e5.jpg
+
+
+
+=begin comment :src
+{
+  "id": "e/0454ac1e8e55421abb4cee664a2a998e",
+  "date": "2011-08-09T05:13:32Z",
+  "rawBody": "The Blog for  YAPC::NA #perl",
+  "thumbnails": [
+    {
+      "height": 175,
+      "link": "http://blog.yapcna.org/",
+      "width": 165,
+      "url": "http://m.friendfeed-media.com/07c3548d0d73afbbdf9452b9f1dbbe6c9d24c8e5"
+    }
+  ],
+  "url": "http://friendfeed.com/zag/0454ac1e/blog-for-yapc-na-perl",
+  "body": "The Blog for  YAPC::NA <a href=\"http://friendfeed.com/search?q=%23perl\">#perl</a> - <a rel=\"nofollow\" href=\"http://blog.yapcna.org/\">http://blog.yapcna.org/</a>",
+  "rawLink": "http://blog.yapcna.org/",
+  "via": {
+    "url": "http://friendfeed.com/share/bookmarklet",
+    "name": "Bookmarklet"
+  },
+  "from": {
+    "name": "углы «Исимуры»",
+    "type": "user",
+    "id": "zag"
+  }
+}
+=end comment
+
+=end pod

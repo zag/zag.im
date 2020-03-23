@@ -1,0 +1,67 @@
+=begin pod :pubdate('2010-04-06T09:13:13Z') :type<note> 
+=NAME "Kumar" goes from White House back to Hollywood
+
+=begin DESCRIPTION
+
+"Kumar" goes from White House back to Hollywood - L<link|http://ca.news.yahoo.com/s/reuters/100403/entertainment/centertainment_us_penn>
+=for Image :width(179) :link('http://ca.news.yahoo.com/s/reuters/100403/entertainment/centertainment_us_penn') :height(119) :preview
+media/eb9ef1a91ee926700366f381015e1f12dc8e4c4e.jpg
+
+=item Penn was leaving to make a new Harold and Kumar movie, this one with a Christmas theme, which might be shot in 3-D.
+
+
+=end DESCRIPTION
+
+"Kumar" goes from White House back to Hollywood - L<link|http://ca.news.yahoo.com/s/reuters/100403/entertainment/centertainment_us_penn>
+=for Image :width(179) :link('http://ca.news.yahoo.com/s/reuters/100403/entertainment/centertainment_us_penn') :height(119) :preview
+media/eb9ef1a91ee926700366f381015e1f12dc8e4c4e.jpg
+
+=item Penn was leaving to make a new Harold and Kumar movie, this one with a Christmas theme, which might be shot in 3-D.
+
+
+=begin comment :src
+{
+  "comments": [
+    {
+      "rawBody": "Penn was leaving to make a new Harold and Kumar movie, this one with a Christmas theme, which might be shot in 3-D.",
+      "id": "e/a8fd6ea72ccb4cfab88deb0414d7398a/c/f04c768c0b7c47ef9dc95103f03ebe4e",
+      "date": "2010-04-06T09:13:13Z",
+      "from": {
+        "name": "углы «Исимуры»",
+        "type": "user",
+        "id": "zag"
+      },
+      "via": {
+        "url": "http://friendfeed.com/share/bookmarklet",
+        "name": "Bookmarklet"
+      },
+      "body": "Penn was leaving to make a new Harold and Kumar movie, this one with a Christmas theme, which might be shot in 3-D."
+    }
+  ],
+  "from": {
+    "type": "user",
+    "id": "zag",
+    "name": "углы «Исимуры»"
+  },
+  "via": {
+    "url": "http://friendfeed.com/share/bookmarklet",
+    "name": "Bookmarklet"
+  },
+  "rawLink": "http://ca.news.yahoo.com/s/reuters/100403/entertainment/centertainment_us_penn",
+  "body": "&quot;Kumar&quot; goes from White House back to Hollywood - <a rel=\"nofollow\" href=\"http://ca.news.yahoo.com/s/reuters/100403/entertainment/centertainment_us_penn\" title=\"http://ca.news.yahoo.com/s/reuters/100403/entertainment/centertainment_us_penn\">http://ca.news.yahoo.com/s...</a>",
+  "date": "2010-04-06T09:13:13Z",
+  "id": "e/a8fd6ea72ccb4cfab88deb0414d7398a",
+  "url": "http://friendfeed.com/zag/a8fd6ea7/kumar-goes-from-white-house-back-to-hollywood",
+  "rawBody": "\"Kumar\" goes from White House back to Hollywood",
+  "thumbnails": [
+    {
+      "url": "http://m.friendfeed-media.com/eb9ef1a91ee926700366f381015e1f12dc8e4c4e",
+      "width": 179,
+      "link": "http://ca.news.yahoo.com/s/reuters/100403/entertainment/centertainment_us_penn",
+      "height": 119
+    }
+  ]
+}
+=end comment
+
+=end pod

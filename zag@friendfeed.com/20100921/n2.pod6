@@ -1,0 +1,67 @@
+=begin pod :pubdate('2010-09-21T04:25:41Z') :type<note> 
+=NAME Your computer as an earthquake sensor
+
+=begin DESCRIPTION
+
+Your computer as an earthquake sensor - L<link|http://edition.cnn.com/2010/TECH/innovation/09/17/ibm.earthquakes/index.html?iref=allsearch>
+=for Image :width(120) :link('http://edition.cnn.com/2010/TECH/innovation/09/17/ibm.earthquakes/index.html?iref=allsearch') :height(68) :preview
+media/a85b742e03db96d2e5c59e36e2669bc582e53316.jpg
+
+=item "seismic data collected by computer hard drives"
+
+
+=end DESCRIPTION
+
+Your computer as an earthquake sensor - L<link|http://edition.cnn.com/2010/TECH/innovation/09/17/ibm.earthquakes/index.html?iref=allsearch>
+=for Image :width(120) :link('http://edition.cnn.com/2010/TECH/innovation/09/17/ibm.earthquakes/index.html?iref=allsearch') :height(68) :preview
+media/a85b742e03db96d2e5c59e36e2669bc582e53316.jpg
+
+=item "seismic data collected by computer hard drives"
+
+
+=begin comment :src
+{
+  "comments": [
+    {
+      "date": "2010-09-21T04:25:41Z",
+      "id": "e/15f4f66067464fc4bcc5efe00bfa9295/c/cb972e27530e431586adf2b71824ba52",
+      "from": {
+        "name": "углы «Исимуры»",
+        "id": "zag",
+        "type": "user"
+      },
+      "rawBody": "\"seismic data collected by computer hard drives\"",
+      "via": {
+        "url": "http://friendfeed.com/share/bookmarklet",
+        "name": "Bookmarklet"
+      },
+      "body": "&quot;seismic data collected by computer hard drives&quot;"
+    }
+  ],
+  "via": {
+    "url": "http://friendfeed.com/share/bookmarklet",
+    "name": "Bookmarklet"
+  },
+  "from": {
+    "name": "углы «Исимуры»",
+    "id": "zag",
+    "type": "user"
+  },
+  "body": "Your computer as an earthquake sensor - <a rel=\"nofollow\" href=\"http://edition.cnn.com/2010/TECH/innovation/09/17/ibm.earthquakes/index.html?iref=allsearch\" title=\"http://edition.cnn.com/2010/TECH/innovation/09/17/ibm.earthquakes/index.html?iref=allsearch\">http://edition.cnn.com/2010...</a>",
+  "rawLink": "http://edition.cnn.com/2010/TECH/innovation/09/17/ibm.earthquakes/index.html?iref=allsearch",
+  "date": "2010-09-21T04:25:41Z",
+  "id": "e/15f4f66067464fc4bcc5efe00bfa9295",
+  "rawBody": "Your computer as an earthquake sensor",
+  "thumbnails": [
+    {
+      "url": "http://m.friendfeed-media.com/a85b742e03db96d2e5c59e36e2669bc582e53316",
+      "width": 120,
+      "link": "http://edition.cnn.com/2010/TECH/innovation/09/17/ibm.earthquakes/index.html?iref=allsearch",
+      "height": 68
+    }
+  ],
+  "url": "http://friendfeed.com/zag/15f4f660/your-computer-as-earthquake-sensor"
+}
+=end comment
+
+=end pod

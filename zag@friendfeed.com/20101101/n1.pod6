@@ -1,0 +1,36 @@
+=begin pod :pubdate('2010-11-01T10:46:34Z') :type<note> :tags<ps3>
+=NAME Если #ps3 виснет при загрузке, возможно закончились 250Gb.Hint: выкл из розетки,вкл,надпись на черном фоне, загрузка - "большая стирка". ok
+
+=begin DESCRIPTION
+
+Если #ps3 виснет при загрузке, возможно закончились 250Gb.Hint: выкл из розетки,вкл,надпись на черном фоне, загрузка - "большая стирка". ok - L<link|http://twitter.com/zagru/statuses/29360380629>
+
+
+
+=end DESCRIPTION
+
+Если #ps3 виснет при загрузке, возможно закончились 250Gb.Hint: выкл из розетки,вкл,надпись на черном фоне, загрузка - "большая стирка". ok - L<link|http://twitter.com/zagru/statuses/29360380629>
+
+
+
+=begin comment :src
+{
+  "id": "e/9cbb1ecc5979a9749436e57fa33aec32",
+  "date": "2010-11-01T10:46:34Z",
+  "rawBody": "Если #ps3 виснет при загрузке, возможно закончились 250Gb.Hint: выкл из розетки,вкл,надпись на черном фоне, загрузка - \"большая стирка\". ok",
+  "url": "http://friendfeed.com/zag/9cbb1ecc/ps3-250gb-hint-ok",
+  "body": "Если <a rel=\"nofollow\" href=\"http://search.twitter.com/search?q=%23ps3\">#ps3</a> виснет при загрузке, возможно закончились 250Gb.Hint: выкл из розетки,вкл,надпись на черном фоне, загрузка - &quot;большая стирка&quot;. ok",
+  "rawLink": "http://twitter.com/zagru/statuses/29360380629",
+  "via": {
+    "name": "Twitter",
+    "url": "http://twitter.com/zagru/statuses/29360380629"
+  },
+  "from": {
+    "name": "углы «Исимуры»",
+    "type": "user",
+    "id": "zag"
+  }
+}
+=end comment
+
+=end pod

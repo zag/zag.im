@@ -1,0 +1,67 @@
+=begin pod :pubdate('2010-09-14T07:28:26Z') :type<note> 
+=NAME Opera and MMH to Provide Web-based TV Content Solutions
+
+=begin DESCRIPTION
+
+Opera and MMH to Provide Web-based TV Content Solutions - L<link|http://www.tvover.net/2010/09/10/Opera+And+MMH+To+Provide+Webbased+TV+Content+Solutions.aspx>
+=for Image :width(128) :link('http://www.tvover.net/2010/09/10/Opera+And+MMH+To+Provide+Webbased+TV+Content+Solutions.aspx') :height(70) :preview
+media/b205e75b03d8c60b2d5ba8f864f1d651d9499b71.gif
+
+=item Opera and NetRange MMH have announced a partnership to deliver the Opera Devices SDK and a pre-qualified suite of web-based TV content to be deployed on TV platforms supporting HbbTV and other pan-European initiatives.
+
+
+=end DESCRIPTION
+
+Opera and MMH to Provide Web-based TV Content Solutions - L<link|http://www.tvover.net/2010/09/10/Opera+And+MMH+To+Provide+Webbased+TV+Content+Solutions.aspx>
+=for Image :width(128) :link('http://www.tvover.net/2010/09/10/Opera+And+MMH+To+Provide+Webbased+TV+Content+Solutions.aspx') :height(70) :preview
+media/b205e75b03d8c60b2d5ba8f864f1d651d9499b71.gif
+
+=item Opera and NetRange MMH have announced a partnership to deliver the Opera Devices SDK and a pre-qualified suite of web-based TV content to be deployed on TV platforms supporting HbbTV and other pan-European initiatives.
+
+
+=begin comment :src
+{
+  "body": "Opera and MMH to Provide Web-based TV Content Solutions - <a rel=\"nofollow\" href=\"http://www.tvover.net/2010/09/10/Opera+And+MMH+To+Provide+Webbased+TV+Content+Solutions.aspx\" title=\"http://www.tvover.net/2010/09/10/Opera+And+MMH+To+Provide+Webbased+TV+Content+Solutions.aspx\">http://www.tvover.net/2010...</a>",
+  "rawLink": "http://www.tvover.net/2010/09/10/Opera+And+MMH+To+Provide+Webbased+TV+Content+Solutions.aspx",
+  "id": "e/b38a12ed99514e5a907d433fac1e9296",
+  "date": "2010-09-14T07:28:26Z",
+  "thumbnails": [
+    {
+      "width": 128,
+      "url": "http://m.friendfeed-media.com/b205e75b03d8c60b2d5ba8f864f1d651d9499b71",
+      "link": "http://www.tvover.net/2010/09/10/Opera+And+MMH+To+Provide+Webbased+TV+Content+Solutions.aspx",
+      "height": 70
+    }
+  ],
+  "rawBody": "Opera and MMH to Provide Web-based TV Content Solutions",
+  "url": "http://friendfeed.com/zag/b38a12ed/opera-and-mmh-to-provide-web-based-tv-content",
+  "comments": [
+    {
+      "date": "2010-09-14T07:28:26Z",
+      "id": "e/b38a12ed99514e5a907d433fac1e9296/c/6e16c916f8144c78b5e95aef83ce49eb",
+      "from": {
+        "id": "zag",
+        "type": "user",
+        "name": "углы «Исимуры»"
+      },
+      "rawBody": "Opera and NetRange MMH have announced a partnership to deliver the Opera Devices SDK and a pre-qualified suite of web-based TV content to be deployed on TV platforms supporting HbbTV and other pan-European initiatives.",
+      "via": {
+        "name": "Bookmarklet",
+        "url": "http://friendfeed.com/share/bookmarklet"
+      },
+      "body": "Opera and NetRange MMH have announced a partnership to deliver the Opera Devices SDK and a pre-qualified suite of web-based TV content to be deployed on TV platforms supporting HbbTV and other pan-European initiatives."
+    }
+  ],
+  "via": {
+    "name": "Bookmarklet",
+    "url": "http://friendfeed.com/share/bookmarklet"
+  },
+  "from": {
+    "name": "углы «Исимуры»",
+    "id": "zag",
+    "type": "user"
+  }
+}
+=end comment
+
+=end pod

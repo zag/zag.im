@@ -1,0 +1,36 @@
+=begin pod :pubdate('2010-08-15T07:25:40Z') :type<note> 
+=NAME получил сообщение от @lesoslav 23.07.2010 via mbpidgin: @zagru а где python я нипонял Поэтому и спросил.
+
+=begin DESCRIPTION
+
+получил сообщение от @lesoslav 23.07.2010 via mbpidgin: @zagru а где python я нипонял Поэтому и спросил. - L<link|http://twitter.com/zagru/statuses/21214156380>
+
+
+
+=end DESCRIPTION
+
+получил сообщение от @lesoslav 23.07.2010 via mbpidgin: @zagru а где python я нипонял Поэтому и спросил. - L<link|http://twitter.com/zagru/statuses/21214156380>
+
+
+
+=begin comment :src
+{
+  "id": "e/99971431d2361e8756e5004d56b5c483",
+  "date": "2010-08-15T07:25:40Z",
+  "rawBody": "получил сообщение от @lesoslav 23.07.2010 via mbpidgin: @zagru а где python я нипонял Поэтому и спросил.",
+  "url": "http://friendfeed.com/zag/99971431/lesoslav-23-07-2010-via-mbpidgin-zagru-python",
+  "body": "получил сообщение от @<a rel=\"nofollow\" href=\"http://twitter.com/lesoslav\">lesoslav</a> 23.07.2010 via mbpidgin: @<a rel=\"nofollow\" href=\"http://twitter.com/zagru\">zagru</a> а где python я нипонял Поэтому и спросил.",
+  "rawLink": "http://twitter.com/zagru/statuses/21214156380",
+  "from": {
+    "type": "user",
+    "id": "zag",
+    "name": "углы «Исимуры»"
+  },
+  "via": {
+    "url": "http://twitter.com/zagru/statuses/21214156380",
+    "name": "Twitter"
+  }
+}
+=end comment
+
+=end pod

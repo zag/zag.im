@@ -1,0 +1,36 @@
+=begin pod :pubdate('2009-12-23T07:17:12Z') :type<note> :tags<gdd09ru>
+=NAME RT: @gddru: #gdd09ru Друзья, извините за задержку - видеозаписи и PDF презентаций выложены на сайте конференции: http://bit.ly/3L4MD
+
+=begin DESCRIPTION
+
+RT: @gddru: #gdd09ru Друзья, извините за задержку - видеозаписи и PDF презентаций выложены на сайте конференции: http://bit.ly/3L4MD - L<link|http://twitter.com/zagru/statuses/6957548862>
+
+
+
+=end DESCRIPTION
+
+RT: @gddru: #gdd09ru Друзья, извините за задержку - видеозаписи и PDF презентаций выложены на сайте конференции: http://bit.ly/3L4MD - L<link|http://twitter.com/zagru/statuses/6957548862>
+
+
+
+=begin comment :src
+{
+  "from": {
+    "name": "углы «Исимуры»",
+    "type": "user",
+    "id": "zag"
+  },
+  "via": {
+    "url": "http://twitter.com/zagru/statuses/6957548862",
+    "name": "Twitter"
+  },
+  "body": "RT: @<a rel=\"nofollow\" href=\"http://twitter.com/gddru\">gddru</a>: <a rel=\"nofollow\" href=\"http://search.twitter.com/search?q=%23gdd09ru\">#gdd09ru</a> Друзья, извините за задержку - видеозаписи и PDF презентаций выложены на сайте конференции: <a rel=\"nofollow\" href=\"http://bit.ly/3L4MD\" title=\"http://code.google.com/intl/ru/events/developerday/2009/sessions.html\">http://code.google.com/intl...</a>",
+  "rawLink": "http://twitter.com/zagru/statuses/6957548862",
+  "id": "e/eb0d618a772bdd22a1a560e06fa7af30",
+  "date": "2009-12-23T07:17:12Z",
+  "rawBody": "RT: @gddru: #gdd09ru Друзья, извините за задержку - видеозаписи и PDF презентаций выложены на сайте конференции: http://bit.ly/3L4MD",
+  "url": "http://friendfeed.com/zag/eb0d618a/rt-gddru-gdd09ru-pdf"
+}
+=end comment
+
+=end pod

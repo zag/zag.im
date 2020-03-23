@@ -1,0 +1,36 @@
+=begin pod :pubdate('2011-04-20T04:42:54Z') :type<note> 
+=NAME RT @ImTracyMorgan: Facebook asks what I’m thinking. Twitter asks what I’m doing. Foursquare asks where I am. The internet has turned into a crazy girlfriend.
+
+=begin DESCRIPTION
+
+RT @ImTracyMorgan: Facebook asks what I’m thinking. Twitter asks what I’m doing. Foursquare asks where I am. The internet has turned into a crazy girlfriend. - L<link|http://twitter.com/zagru/statuses/60564069446459392>
+
+
+
+=end DESCRIPTION
+
+RT @ImTracyMorgan: Facebook asks what I’m thinking. Twitter asks what I’m doing. Foursquare asks where I am. The internet has turned into a crazy girlfriend. - L<link|http://twitter.com/zagru/statuses/60564069446459392>
+
+
+
+=begin comment :src
+{
+  "rawLink": "http://twitter.com/zagru/statuses/60564069446459392",
+  "body": "RT @<a rel=\"nofollow\" href=\"http://twitter.com/ImTracyMorgan\">ImTracyMorgan</a>: Facebook asks what I’m thinking. Twitter asks what I’m doing. Foursquare asks where I am. The internet has turned into a crazy girlfriend.",
+  "id": "e/811018a4d7e9ea6cb39b6fd79db4a3de",
+  "date": "2011-04-20T04:42:54Z",
+  "rawBody": "RT @ImTracyMorgan: Facebook asks what I’m thinking. Twitter asks what I’m doing. Foursquare asks where I am. The internet has turned into a crazy girlfriend.",
+  "url": "http://friendfeed.com/zag/811018a4/rt-imtracymorgan-facebook-asks-what-im",
+  "via": {
+    "url": "http://twitter.com/zagru/statuses/60564069446459392",
+    "name": "Twitter"
+  },
+  "from": {
+    "type": "user",
+    "id": "zag",
+    "name": "углы «Исимуры»"
+  }
+}
+=end comment
+
+=end pod

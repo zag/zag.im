@@ -1,0 +1,48 @@
+=begin pod :pubdate('2011-08-04T07:00:43Z') :type<note> 
+=NAME Open Source Textbooks
+
+=begin DESCRIPTION
+
+Open Source Textbooks - L<link|http://www.onlineschools.org/blog/open-source/>
+=for Image :width(29) :link('http://www.onlineschools.org/blog/open-source/') :height(175) :preview
+media/5b3a58a4ab4eddfa94f31539b438b16b796e3375.jpg
+
+
+
+=end DESCRIPTION
+
+Open Source Textbooks - L<link|http://www.onlineschools.org/blog/open-source/>
+=for Image :width(29) :link('http://www.onlineschools.org/blog/open-source/') :height(175) :preview
+media/5b3a58a4ab4eddfa94f31539b438b16b796e3375.jpg
+
+
+
+=begin comment :src
+{
+  "rawBody": "Open Source Textbooks",
+  "id": "e/59e01333661b4a3e9f642ae92739ab32",
+  "date": "2011-08-04T07:00:43Z",
+  "url": "http://friendfeed.com/zag/59e01333/open-source-textbooks",
+  "thumbnails": [
+    {
+      "width": 29,
+      "url": "http://m.friendfeed-media.com/5b3a58a4ab4eddfa94f31539b438b16b796e3375",
+      "link": "http://www.onlineschools.org/blog/open-source/",
+      "height": 175
+    }
+  ],
+  "rawLink": "http://www.onlineschools.org/blog/open-source/",
+  "body": "Open Source Textbooks - <a rel=\"nofollow\" href=\"http://www.onlineschools.org/blog/open-source/\" title=\"http://www.onlineschools.org/blog/open-source/\">http://www.onlineschools.org/blog...</a>",
+  "from": {
+    "name": "углы «Исимуры»",
+    "id": "zag",
+    "type": "user"
+  },
+  "via": {
+    "url": "http://friendfeed.com/share/bookmarklet",
+    "name": "Bookmarklet"
+  }
+}
+=end comment
+
+=end pod

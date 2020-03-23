@@ -1,0 +1,43 @@
+=begin pod :pubdate('2011-04-26 10:00:00') :tags<pod6 perl6 pod perl>
+=NAME Проекты одобренные для Google Summer of Code 2011 
+
+=begin DESCRIPTION
+
+Пара проектов, среди одобренных Google Summer of Code 2011.
+
+=end DESCRIPTION
+
+Среди проектов, одобренных для GSofc 2011 N<Проекты, одобренные для участия в Google Summer of Code 2011. L<http://www.google-melange.com/gsoc/projects/list/google/gsoc2011>>, хотел бы отметить пару.
+
+=begin item
+B<Standardization of core documentation parsing tools> N<Standardization of core documentation parsing tools. L<http://www.google-melange.com/gsoc/project/google/gsoc2011/mg/22001>>
+
+Задача, предусматривает замену устаревшего C<Pod::Parser> на C<Pod::Simple> в утилитах из базовой поставки Perl 5. Данный проект касается Perl 5 POD.
+
+=end item
+
+=begin item 
+B<Pod parser for Rakudo> N<Pod parser for Rakudo. L<http://www.google-melange.com/gsoc/project/google/gsoc2011/tadzik/18001>>.
+
+По данному проекту ожидается создание встроенного в Rakudo парсера Perl 6 Pod. Благодаря этому часть документации будет доступна из программного кода, как и предполагает Synopsis 26 N<Спецификация формата Pod (Synopsis 26 ).L<https://github.com/zag/specs/raw/master/S26-documentation.pod>> в разделе описания блоков-деклараторов I<(Declarator blocks)>.
+
+Пример такого блока:
+
+    my $chainsaw;        #= This text stored in C<$chainsaw.WHY>
+    sub fu (             #= This text stored in C<&fu.WHY>
+        Any     $bar,    #= This text stored in C<$bar.WHY>
+        Mode    :$baz,   #= This text stored in C<$baz.WHY>
+        Context :$the_context_in_which_we_fu?
+                         #= This stored in C<$the_context_in_which_we_fu.WHY>
+    ) { ... }
+
+Программа сможет менять свое поведение в зависимости от того, что написано в документации по ней :-) I<( почему бы и нет ? )>.
+
+=end item
+
+Благодаря наводке от L<@bacek|http://twitter.com/bacek>, прочитал переписку-обсуждение N< parrot.dev: "POD parser". L<http://groups.google.com/group/parrot-dev/browse_thread/thread/c4027eb1dccb11a6/8d4279a0fbf7a01f?lnk=gst&q=pod&pli=1>>, посвященную реализации Pod на уровне Parrot VM.
+
+От себя добавлю, что в ранних редакциях Synopsis 26, формат Pod преподносился как диалект более общего языка разметки - Perldoc. И здесь был намек, что для каждого языка, работающего поверх Parrot, будет свой диалект I<(сугубо мое предположение)>. Возможно принцип "все простое должно оставаться простым" победил и в спецификации оставили определение Pod, как языка разметки для Perl 6.
+
+
+=end pod

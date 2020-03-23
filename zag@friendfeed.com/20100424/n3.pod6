@@ -1,0 +1,36 @@
+=begin pod :pubdate('2010-04-24T08:36:03Z') :type<note> :tags<parrot rakudo Freebsd>
+=NAME Latest versions of #parrot "Samoan Lory" and #rakudo "Moscow" now available in #Freebsd ports tree
+
+=begin DESCRIPTION
+
+Latest versions of #parrot "Samoan Lory" and #rakudo "Moscow" now available in #Freebsd ports tree - L<link|http://twitter.com/zagru/statuses/12753198419>
+
+
+
+=end DESCRIPTION
+
+Latest versions of #parrot "Samoan Lory" and #rakudo "Moscow" now available in #Freebsd ports tree - L<link|http://twitter.com/zagru/statuses/12753198419>
+
+
+
+=begin comment :src
+{
+  "via": {
+    "name": "Twitter",
+    "url": "http://twitter.com/zagru/statuses/12753198419"
+  },
+  "from": {
+    "id": "zag",
+    "type": "user",
+    "name": "углы «Исимуры»"
+  },
+  "id": "e/2c48f2266d51920f03dd32ebb02ad291",
+  "date": "2010-04-24T08:36:03Z",
+  "rawBody": "Latest versions of #parrot \"Samoan Lory\" and #rakudo \"Moscow\" now available in #Freebsd ports tree",
+  "url": "http://friendfeed.com/zag/2c48f226/latest-versions-of-parrot-samoan-lory-and",
+  "body": "Latest versions of <a rel=\"nofollow\" href=\"http://search.twitter.com/search?q=%23parrot\">#parrot</a> &quot;Samoan Lory&quot; and <a rel=\"nofollow\" href=\"http://search.twitter.com/search?q=%23rakudo\">#rakudo</a> &quot;Moscow&quot; now available in <a rel=\"nofollow\" href=\"http://search.twitter.com/search?q=%23Freebsd\">#Freebsd</a> ports tree",
+  "rawLink": "http://twitter.com/zagru/statuses/12753198419"
+}
+=end comment
+
+=end pod

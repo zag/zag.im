@@ -1,0 +1,36 @@
+=begin pod :pubdate('2012-05-10T13:16:15Z') :type<note> 
+=NAME RT @lveecon: незабываем, что в этом году конференция будет проходить с 7 по 10 июня. регистрируйтесь!нестесняйтесь!
+
+=begin DESCRIPTION
+
+RT @lveecon: незабываем, что в этом году конференция будет проходить с 7 по 10 июня. регистрируйтесь!нестесняйтесь! - L<link|http://twitter.com/zagru/statuses/200574975239921665>
+
+
+
+=end DESCRIPTION
+
+RT @lveecon: незабываем, что в этом году конференция будет проходить с 7 по 10 июня. регистрируйтесь!нестесняйтесь! - L<link|http://twitter.com/zagru/statuses/200574975239921665>
+
+
+
+=begin comment :src
+{
+  "body": "RT @<a rel=\"nofollow\" href=\"http://twitter.com/lveecon\">lveecon</a>: незабываем, что в этом году конференция будет проходить с 7 по 10 июня. регистрируйтесь!нестесняйтесь!",
+  "rawLink": "http://twitter.com/zagru/statuses/200574975239921665",
+  "id": "e/806af6328b5f84292077f880eedaab04",
+  "rawBody": "RT @lveecon: незабываем, что в этом году конференция будет проходить с 7 по 10 июня. регистрируйтесь!нестесняйтесь!",
+  "date": "2012-05-10T13:16:15Z",
+  "url": "http://friendfeed.com/zag/806af632/rt-lveecon-7-10",
+  "via": {
+    "url": "http://twitter.com/zagru/statuses/200574975239921665",
+    "name": "Twitter"
+  },
+  "from": {
+    "name": "углы «Исимуры»",
+    "type": "user",
+    "id": "zag"
+  }
+}
+=end comment
+
+=end pod

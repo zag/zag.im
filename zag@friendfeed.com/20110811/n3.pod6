@@ -1,0 +1,36 @@
+=begin pod :pubdate('2011-08-11T09:38:22Z') :type<note> 
+=NAME RT @V_Dembovskij: Живу с девушкой. Раньше всё валялось на своих местах, а теперь аккуратно сложено неизвестно где.
+
+=begin DESCRIPTION
+
+RT @V_Dembovskij: Живу с девушкой. Раньше всё валялось на своих местах, а теперь аккуратно сложено неизвестно где. - L<link|http://twitter.com/zagru/statuses/101588257376182273>
+
+
+
+=end DESCRIPTION
+
+RT @V_Dembovskij: Живу с девушкой. Раньше всё валялось на своих местах, а теперь аккуратно сложено неизвестно где. - L<link|http://twitter.com/zagru/statuses/101588257376182273>
+
+
+
+=begin comment :src
+{
+  "via": {
+    "url": "http://twitter.com/zagru/statuses/101588257376182273",
+    "name": "Twitter"
+  },
+  "from": {
+    "id": "zag",
+    "type": "user",
+    "name": "углы «Исимуры»"
+  },
+  "id": "e/ae264155913cfa146aca91394eb0d5f6",
+  "rawBody": "RT @V_Dembovskij: Живу с девушкой. Раньше всё валялось на своих местах, а теперь аккуратно сложено неизвестно где.",
+  "date": "2011-08-11T09:38:22Z",
+  "url": "http://friendfeed.com/zag/ae264155/rt-v_dembovskij",
+  "rawLink": "http://twitter.com/zagru/statuses/101588257376182273",
+  "body": "RT @<a rel=\"nofollow\" href=\"http://twitter.com/V_Dembovskij\">V_Dembovskij</a>: Живу с девушкой. Раньше всё валялось на своих местах, а теперь аккуратно сложено неизвестно где."
+}
+=end comment
+
+=end pod

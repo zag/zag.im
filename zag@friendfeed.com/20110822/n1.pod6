@@ -1,0 +1,46 @@
+=begin pod :pubdate('2011-08-22T12:16:00Z') :type<note> :tags<pod6 perl>
+=NAME Create presentations in Perl 6 Pod. #pod6 #perl http://t.co/M5vetJJ
+
+=begin DESCRIPTION
+
+Create presentations in Perl 6 Pod. #pod6 #perl http://t.co/M5vetJJ - L<link|http://twitter.com/zagru/statuses/105614192991682560>
+
+
+
+=end DESCRIPTION
+
+Create presentations in Perl 6 Pod. #pod6 #perl http://t.co/M5vetJJ - L<link|http://twitter.com/zagru/statuses/105614192991682560>
+
+
+
+=begin comment :src
+{
+  "from": {
+    "id": "zag",
+    "type": "user",
+    "name": "углы «Исимуры»"
+  },
+  "via": {
+    "name": "Twitter",
+    "url": "http://twitter.com/zagru/statuses/105614192991682560"
+  },
+  "id": "e/08f79b21cf93d29e97a6f93137750f39",
+  "date": "2011-08-22T12:16:00Z",
+  "url": "http://friendfeed.com/zag/08f79b21/create-presentations-in-perl-6-pod-pod6",
+  "rawBody": "Create presentations in Perl 6 Pod. #pod6 #perl http://t.co/M5vetJJ",
+  "likes": [
+    {
+      "date": "2011-08-22T12:32:11Z",
+      "from": {
+        "id": "mishin",
+        "type": "user",
+        "name": "Николай"
+      }
+    }
+  ],
+  "rawLink": "http://twitter.com/zagru/statuses/105614192991682560",
+  "body": "Create presentations in Perl 6 Pod. <a rel=\"nofollow\" href=\"http://search.twitter.com/search?q=%23pod6\">#pod6</a> <a rel=\"nofollow\" href=\"http://search.twitter.com/search?q=%23perl\">#perl</a> <a rel=\"nofollow\" href=\"http://t.co/M5vetJJ\">http://t.co/M5vetJJ</a>"
+}
+=end comment
+
+=end pod

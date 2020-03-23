@@ -1,0 +1,36 @@
+=begin pod :pubdate('2011-07-02T18:48:31Z') :type<note> :tags<lvee>
+=NAME Plug computer - переходник из 220 в ethernet. Promwad спонсор #lvee
+
+=begin DESCRIPTION
+
+Plug computer - переходник из 220 в ethernet. Promwad спонсор #lvee
+
+
+
+=end DESCRIPTION
+
+Plug computer - переходник из 220 в ethernet. Promwad спонсор #lvee
+
+
+
+=begin comment :src
+{
+  "via": {
+    "url": "http://friendfeed.com/share/mail",
+    "name": "email"
+  },
+  "from": {
+    "name": "углы «Исимуры»",
+    "type": "user",
+    "id": "zag"
+  },
+  "rawLink": "http://friendfeed.com/e/68019d23-ec76-4333-81c8-8d6c8dc4521e",
+  "body": "Plug computer - переходник из 220 в ethernet. Promwad спонсор <a href=\"http://friendfeed.com/search?q=%23lvee\">#lvee</a>",
+  "id": "e/68019d23ec76433381c88d6c8dc4521e",
+  "date": "2011-07-02T18:48:31Z",
+  "url": "http://friendfeed.com/zag/68019d23/plug-computer-220-ethernet-promwad-lvee",
+  "rawBody": "Plug computer - переходник из 220 в ethernet. Promwad спонсор #lvee"
+}
+=end comment
+
+=end pod

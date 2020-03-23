@@ -1,0 +1,42 @@
+=begin pod :pubdate('2010-10-18T07:36:41Z') :type<note> :tags<REST perl>
+=NAME Полностью переехал на #REST. Теперь клиентом управления публикациями на http://zag.ru является curl . Модуль по теме : Build REST-inspired routing tables http://search.cpan.org/perldoc?Router::Resource  #perl
+
+=begin DESCRIPTION
+
+Полностью переехал на #REST. Теперь клиентом управления публикациями на http://zag.ru является curl . Модуль по теме : Build REST-inspired routing tables http://search.cpan.org/perldoc?Router::Resource  #perl
+
+
+
+=end DESCRIPTION
+
+Полностью переехал на #REST. Теперь клиентом управления публикациями на http://zag.ru является curl . Модуль по теме : Build REST-inspired routing tables http://search.cpan.org/perldoc?Router::Resource  #perl
+
+
+
+=begin comment :src
+{
+  "from": {
+    "id": "zag",
+    "type": "user",
+    "name": "углы «Исимуры»"
+  },
+  "likes": [
+    {
+      "date": "2010-10-18T11:13:14Z",
+      "from": {
+        "name": "alex@kapranoff.ru",
+        "type": "user",
+        "id": "kkapp"
+      }
+    }
+  ],
+  "rawLink": "http://friendfeed.com/e/e3ea45b2-b43c-4524-9f70-6b301d0bb67a",
+  "body": "Полностью переехал на <a href=\"http://friendfeed.com/search?q=%23REST\">#REST</a>. Теперь клиентом управления публикациями на <a rel=\"nofollow\" href=\"http://zag.ru\">http://zag.ru</a> является curl . Модуль по теме : Build REST-inspired routing tables <a rel=\"nofollow\" href=\"http://search.cpan.org/perldoc?Router::Resource\" title=\"http://search.cpan.org/~dwheeler/Router-Resource-0.10/lib/Router/Resource.pm\">http://search.cpan.org/~dwheel...</a>  <a href=\"http://friendfeed.com/search?q=%23perl\">#perl</a>",
+  "id": "e/e3ea45b2b43c45249f706b301d0bb67a",
+  "date": "2010-10-18T07:36:41Z",
+  "rawBody": "Полностью переехал на #REST. Теперь клиентом управления публикациями на http://zag.ru является curl . Модуль по теме : Build REST-inspired routing tables http://search.cpan.org/perldoc?Router::Resource  #perl",
+  "url": "http://friendfeed.com/zag/e3ea45b2/rest-curl-build-inspired-routing-tables-perl"
+}
+=end comment
+
+=end pod

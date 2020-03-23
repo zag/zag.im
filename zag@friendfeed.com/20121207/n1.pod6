@@ -1,0 +1,87 @@
+=begin pod :pubdate('2012-12-07T06:28:42Z') :type<note> 
+=NAME Деревянная мышь. История проекта / Хабрахабр
+
+=begin DESCRIPTION
+
+Деревянная мышь. История проекта / Хабрахабр - L<link|http://habrahabr.ru/post/161539/>
+=for Image :width(233) :link('http://habrahabr.ru/post/161539/') :height(175) :preview
+media/09bc8ffcfd9ecb1032e2bdea74e43425ca4d4c98.jpg
+=for Image :width(233) :link('http://habrahabr.ru/post/161539/') :height(175) :preview
+media/fb7420a77ced78d454382bc83e32320b92a9222b.jpg
+=for Image :width(233) :link('http://habrahabr.ru/post/161539/') :height(175) :preview
+media/7e44f2b1cb1d6ac9fba0fa4961ccceb81f0d25c0.jpg
+
+=item "Вначале это было хобби. Затем хобби превратилось в весьма затратную статью бюджета, но останавливаться смысла не было, сделано было очень много, нужно было идти вперед. В конце концов я сделал промышленно-тиражируемый авторский продукт."
+
+
+=end DESCRIPTION
+
+Деревянная мышь. История проекта / Хабрахабр - L<link|http://habrahabr.ru/post/161539/>
+=for Image :width(233) :link('http://habrahabr.ru/post/161539/') :height(175) :preview
+media/09bc8ffcfd9ecb1032e2bdea74e43425ca4d4c98.jpg
+=for Image :width(233) :link('http://habrahabr.ru/post/161539/') :height(175) :preview
+media/fb7420a77ced78d454382bc83e32320b92a9222b.jpg
+=for Image :width(233) :link('http://habrahabr.ru/post/161539/') :height(175) :preview
+media/7e44f2b1cb1d6ac9fba0fa4961ccceb81f0d25c0.jpg
+
+=item "Вначале это было хобби. Затем хобби превратилось в весьма затратную статью бюджета, но останавливаться смысла не было, сделано было очень много, нужно было идти вперед. В конце концов я сделал промышленно-тиражируемый авторский продукт."
+
+
+=begin comment :src
+{
+  "from": {
+    "name": "углы «Исимуры»",
+    "id": "zag",
+    "type": "user"
+  },
+  "via": {
+    "name": "Bookmarklet",
+    "url": "http://friendfeed.com/share/bookmarklet"
+  },
+  "comments": [
+    {
+      "date": "2012-12-07T06:28:42Z",
+      "id": "e/526481e0b1bc4fceb5d3edaa5ddff4f1/c/2c4eebf3e44048a7950b5425c97a6afb",
+      "from": {
+        "id": "zag",
+        "type": "user",
+        "name": "углы «Исимуры»"
+      },
+      "rawBody": "\"Вначале это было хобби. Затем хобби превратилось в весьма затратную статью бюджета, но останавливаться смысла не было, сделано было очень много, нужно было идти вперед. В конце концов я сделал промышленно-тиражируемый авторский продукт.\"",
+      "via": {
+        "url": "http://friendfeed.com/share/bookmarklet",
+        "name": "Bookmarklet"
+      },
+      "body": "&quot;Вначале это было хобби. Затем хобби превратилось в весьма затратную статью бюджета, но останавливаться смысла не было, сделано было очень много, нужно было идти вперед. В конце концов я сделал промышленно-тиражируемый авторский продукт.&quot;"
+    }
+  ],
+  "id": "e/526481e0b1bc4fceb5d3edaa5ddff4f1",
+  "url": "http://friendfeed.com/zag/526481e0",
+  "date": "2012-12-07T06:28:42Z",
+  "rawBody": "Деревянная мышь. История проекта / Хабрахабр",
+  "thumbnails": [
+    {
+      "url": "http://m.friendfeed-media.com/09bc8ffcfd9ecb1032e2bdea74e43425ca4d4c98",
+      "width": 233,
+      "height": 175,
+      "link": "http://habrahabr.ru/post/161539/"
+    },
+    {
+      "link": "http://habrahabr.ru/post/161539/",
+      "height": 175,
+      "width": 233,
+      "url": "http://m.friendfeed-media.com/fb7420a77ced78d454382bc83e32320b92a9222b"
+    },
+    {
+      "width": 233,
+      "url": "http://m.friendfeed-media.com/7e44f2b1cb1d6ac9fba0fa4961ccceb81f0d25c0",
+      "link": "http://habrahabr.ru/post/161539/",
+      "height": 175
+    }
+  ],
+  "body": "Деревянная мышь. История проекта / Хабрахабр - <a rel=\"nofollow\" href=\"http://habrahabr.ru/post/161539/\" title=\"http://habrahabr.ru/post/161539/\">http://habrahabr.ru/post...</a>",
+  "rawLink": "http://habrahabr.ru/post/161539/"
+}
+=end comment
+
+=end pod

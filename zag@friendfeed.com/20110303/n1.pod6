@@ -1,0 +1,50 @@
+=begin pod :pubdate('2011-03-03T09:46:11Z') :type<note> 
+=NAME При упоминании Lebowski в твитере прибегает фанатичный бот и 'откалывает' шутку.
+
+=begin DESCRIPTION
+
+При упоминании Lebowski в твитере прибегает фанатичный бот и 'откалывает' шутку.
+
+
+
+=end DESCRIPTION
+
+При упоминании Lebowski в твитере прибегает фанатичный бот и 'откалывает' шутку.
+
+
+
+=begin comment :src
+{
+  "from": {
+    "type": "user",
+    "id": "zag",
+    "name": "углы «Исимуры»"
+  },
+  "id": "e/87011e5fb52a4ecb8f6410734dde9592",
+  "date": "2011-03-03T09:46:11Z",
+  "rawBody": "При упоминании Lebowski в твитере прибегает фанатичный бот и 'откалывает' шутку.",
+  "url": "http://friendfeed.com/zag/87011e5f/lebowski",
+  "rawLink": "http://friendfeed.com/e/87011e5f-b52a-4ecb-8f64-10734dde9592",
+  "likes": [
+    {
+      "date": "2011-03-03T12:12:07Z",
+      "from": {
+        "id": "woof",
+        "type": "user",
+        "name": "woof"
+      }
+    },
+    {
+      "date": "2011-03-03T10:51:15Z",
+      "from": {
+        "name": "alex@kapranoff.ru",
+        "type": "user",
+        "id": "kkapp"
+      }
+    }
+  ],
+  "body": "При упоминании Lebowski в твитере прибегает фанатичный бот и 'откалывает' шутку."
+}
+=end comment
+
+=end pod

@@ -1,0 +1,104 @@
+=begin pod :pubdate('2010-10-18T07:11:38Z') :type<note> 
+=NAME Google's First Personalized Doodle
+
+=begin DESCRIPTION
+
+Google's First Personalized Doodle - L<link|http://googlesystem.blogspot.com/2010/10/googles-first-personalized-doodle.html>
+=for Image :width(367) :link('http://googlesystem.blogspot.com/2010/10/googles-first-personalized-doodle.html') :height(175) :preview
+media/5a692c55479e4c54b8d7745e7750a853c99cab9f.jpg
+=for Image :width(191) :link('http://googlesystem.blogspot.com/2010/10/googles-first-personalized-doodle.html') :height(175) :preview
+media/ef9fa51ac7e2f8a991778c7007a0078895997294.jpg
+
+=item If you visit Google's homepage when you are signed in and it's your birthday, you'll see a special doodle that links to your Google profile.
+
+
+=end DESCRIPTION
+
+Google's First Personalized Doodle - L<link|http://googlesystem.blogspot.com/2010/10/googles-first-personalized-doodle.html>
+=for Image :width(367) :link('http://googlesystem.blogspot.com/2010/10/googles-first-personalized-doodle.html') :height(175) :preview
+media/5a692c55479e4c54b8d7745e7750a853c99cab9f.jpg
+=for Image :width(191) :link('http://googlesystem.blogspot.com/2010/10/googles-first-personalized-doodle.html') :height(175) :preview
+media/ef9fa51ac7e2f8a991778c7007a0078895997294.jpg
+
+=item If you visit Google's homepage when you are signed in and it's your birthday, you'll see a special doodle that links to your Google profile.
+
+
+=begin comment :src
+{
+  "id": "e/7fe1f5cb0dd24500a24392253306e6ff",
+  "date": "2010-10-18T07:11:38Z",
+  "rawBody": "Google's First Personalized Doodle",
+  "url": "http://friendfeed.com/zag/7fe1f5cb/google-first-personalized-doodle",
+  "thumbnails": [
+    {
+      "width": 367,
+      "url": "http://m.friendfeed-media.com/5a692c55479e4c54b8d7745e7750a853c99cab9f",
+      "link": "http://googlesystem.blogspot.com/2010/10/googles-first-personalized-doodle.html",
+      "height": 175
+    },
+    {
+      "link": "http://googlesystem.blogspot.com/2010/10/googles-first-personalized-doodle.html",
+      "height": 175,
+      "width": 191,
+      "url": "http://m.friendfeed-media.com/ef9fa51ac7e2f8a991778c7007a0078895997294"
+    }
+  ],
+  "body": "Google's First Personalized Doodle - <a rel=\"nofollow\" href=\"http://googlesystem.blogspot.com/2010/10/googles-first-personalized-doodle.html\" title=\"http://googlesystem.blogspot.com/2010/10/googles-first-personalized-doodle.html\">http://googlesystem.blogspot.com/2010...</a>",
+  "rawLink": "http://googlesystem.blogspot.com/2010/10/googles-first-personalized-doodle.html",
+  "likes": [
+    {
+      "date": "2010-10-18T11:43:28Z",
+      "from": {
+        "name": "не, ну а че",
+        "id": "aaoi",
+        "type": "user",
+        "private": true
+      }
+    },
+    {
+      "from": {
+        "type": "user",
+        "id": "bopm",
+        "name": "bopm"
+      },
+      "date": "2010-10-18T11:27:23Z"
+    },
+    {
+      "from": {
+        "id": "kkapp",
+        "type": "user",
+        "name": "alex@kapranoff.ru"
+      },
+      "date": "2010-10-18T11:13:49Z"
+    }
+  ],
+  "via": {
+    "name": "Bookmarklet",
+    "url": "http://friendfeed.com/share/bookmarklet"
+  },
+  "from": {
+    "name": "углы «Исимуры»",
+    "id": "zag",
+    "type": "user"
+  },
+  "comments": [
+    {
+      "via": {
+        "url": "http://friendfeed.com/share/bookmarklet",
+        "name": "Bookmarklet"
+      },
+      "id": "e/7fe1f5cb0dd24500a24392253306e6ff/c/90c975f2758848bb9c609686235e0735",
+      "from": {
+        "name": "углы «Исимуры»",
+        "id": "zag",
+        "type": "user"
+      },
+      "date": "2010-10-18T07:11:38Z",
+      "rawBody": "If you visit Google's homepage when you are signed in and it's your birthday, you'll see a special doodle that links to your Google profile.",
+      "body": "If you visit Google's homepage when you are signed in and it's your birthday, you'll see a special doodle that links to your Google profile."
+    }
+  ]
+}
+=end comment
+
+=end pod

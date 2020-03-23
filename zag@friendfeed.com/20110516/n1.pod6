@@ -1,0 +1,42 @@
+=begin pod :pubdate('2011-05-16T04:48:43Z') :type<note> :tags<yapc pod perl>
+=NAME Слайды выступления "Использование Perl 6 Pod " #yapc #pod #perl  http://www.slideshare.net/zagru/using-perl6pod
+
+=begin DESCRIPTION
+
+Слайды выступления "Использование Perl 6 Pod " #yapc #pod #perl  http://www.slideshare.net/zagru/using-perl6pod
+
+
+
+=end DESCRIPTION
+
+Слайды выступления "Использование Perl 6 Pod " #yapc #pod #perl  http://www.slideshare.net/zagru/using-perl6pod
+
+
+
+=begin comment :src
+{
+  "body": "Слайды выступления &quot;Использование Perl 6 Pod &quot; <a href=\"http://friendfeed.com/search?q=%23yapc\">#yapc</a> <a href=\"http://friendfeed.com/search?q=%23pod\">#pod</a> <a href=\"http://friendfeed.com/search?q=%23perl\">#perl</a>  <a rel=\"nofollow\" href=\"http://www.slideshare.net/zagru/using-perl6pod\" title=\"http://www.slideshare.net/zagru/using-perl6pod\">http://www.slideshare.net/zagru...</a>",
+  "rawLink": "http://friendfeed.com/e/1c8199a0-1b4e-4502-90df-a67e44f21717",
+  "likes": [
+    {
+      "from": {
+        "name": "Николай",
+        "type": "user",
+        "id": "mishin"
+      },
+      "date": "2011-05-16T07:23:14Z"
+    }
+  ],
+  "id": "e/1c8199a01b4e450290dfa67e44f21717",
+  "rawBody": "Слайды выступления \"Использование Perl 6 Pod \" #yapc #pod #perl  http://www.slideshare.net/zagru/using-perl6pod",
+  "date": "2011-05-16T04:48:43Z",
+  "url": "http://friendfeed.com/zag/1c8199a0/perl-6-pod-yapc",
+  "from": {
+    "name": "углы «Исимуры»",
+    "type": "user",
+    "id": "zag"
+  }
+}
+=end comment
+
+=end pod

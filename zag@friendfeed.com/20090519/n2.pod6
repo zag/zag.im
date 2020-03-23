@@ -1,0 +1,36 @@
+=begin pod :pubdate('2009-05-19T07:10:33Z') :type<note> 
+=NAME @AnatolyUnix В чем неправильность ?
+
+=begin DESCRIPTION
+
+@AnatolyUnix В чем неправильность ? - L<link|http://twitter.com/zagru/statuses/1845026685>
+
+
+
+=end DESCRIPTION
+
+@AnatolyUnix В чем неправильность ? - L<link|http://twitter.com/zagru/statuses/1845026685>
+
+
+
+=begin comment :src
+{
+  "body": "@<a rel=\"nofollow\" href=\"http://twitter.com/AnatolyUnix\">AnatolyUnix</a> В чем неправильность ?",
+  "rawLink": "http://twitter.com/zagru/statuses/1845026685",
+  "id": "e/a4702ba6c463d738d6917d861340bd51",
+  "date": "2009-05-19T07:10:33Z",
+  "rawBody": "@AnatolyUnix В чем неправильность ?",
+  "url": "http://friendfeed.com/zag/a4702ba6/anatolyunix",
+  "via": {
+    "url": "http://twitter.com/zagru/statuses/1845026685",
+    "name": "Twitter"
+  },
+  "from": {
+    "type": "user",
+    "id": "zag",
+    "name": "углы «Исимуры»"
+  }
+}
+=end comment
+
+=end pod

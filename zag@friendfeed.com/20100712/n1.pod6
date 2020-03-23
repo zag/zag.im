@@ -1,0 +1,67 @@
+=begin pod :pubdate('2010-07-12T09:46:32Z') :type<note> 
+=NAME Web Apps - Stack Exchange
+
+=begin DESCRIPTION
+
+Web Apps - Stack Exchange - L<link|http://webapps.stackexchange.com/>
+=for Image :width(367) :link('http://webapps.stackexchange.com/') :height(63) :preview
+media/0dfba26af8d804a218e7ce84cb693b9f36e09ec7.png
+
+=item Want to know how to export mail from Gmail? Or delete your Facebook account? Or send giant files via email?
+
+
+=end DESCRIPTION
+
+Web Apps - Stack Exchange - L<link|http://webapps.stackexchange.com/>
+=for Image :width(367) :link('http://webapps.stackexchange.com/') :height(63) :preview
+media/0dfba26af8d804a218e7ce84cb693b9f36e09ec7.png
+
+=item Want to know how to export mail from Gmail? Or delete your Facebook account? Or send giant files via email?
+
+
+=begin comment :src
+{
+  "comments": [
+    {
+      "id": "e/80b8dabcbe1a4bc9b8914be0f41dc3b6/c/91b73f6bb1a54ac7ab8d8c9acbdd7de2",
+      "date": "2010-07-12T09:46:32Z",
+      "rawBody": "Want to know how to export mail from Gmail? Or delete your Facebook account? Or send giant files via email?",
+      "from": {
+        "name": "углы «Исимуры»",
+        "id": "zag",
+        "type": "user"
+      },
+      "via": {
+        "name": "Bookmarklet",
+        "url": "http://friendfeed.com/share/bookmarklet"
+      },
+      "body": "Want to know how to export mail from Gmail? Or delete your Facebook account? Or send giant files via email?"
+    }
+  ],
+  "from": {
+    "name": "углы «Исимуры»",
+    "id": "zag",
+    "type": "user"
+  },
+  "via": {
+    "name": "Bookmarklet",
+    "url": "http://friendfeed.com/share/bookmarklet"
+  },
+  "body": "Web Apps - Stack Exchange - <a rel=\"nofollow\" href=\"http://webapps.stackexchange.com/\" title=\"http://webapps.stackexchange.com/users/login\">http://webapps.stackexchange.com/users...</a>",
+  "rawLink": "http://webapps.stackexchange.com/",
+  "id": "e/80b8dabcbe1a4bc9b8914be0f41dc3b6",
+  "rawBody": "Web Apps - Stack Exchange",
+  "date": "2010-07-12T09:46:32Z",
+  "url": "http://friendfeed.com/zag/80b8dabc/web-apps-stack-exchange",
+  "thumbnails": [
+    {
+      "height": 63,
+      "link": "http://webapps.stackexchange.com/",
+      "url": "http://m.friendfeed-media.com/0dfba26af8d804a218e7ce84cb693b9f36e09ec7",
+      "width": 367
+    }
+  ]
+}
+=end comment
+
+=end pod

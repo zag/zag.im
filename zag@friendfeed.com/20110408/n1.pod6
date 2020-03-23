@@ -1,0 +1,36 @@
+=begin pod :pubdate('2011-04-08T05:41:35Z') :type<note> 
+=NAME OMG FREE HOSTING: How to use GAE to host static sites for free
+
+=begin DESCRIPTION
+
+OMG FREE HOSTING: How to use GAE to host static sites for free - L<link|http://www.nata2.org/2011/01/26/how-to-use-app-engine-to-host-static-sites-for-free/#>
+
+
+
+=end DESCRIPTION
+
+OMG FREE HOSTING: How to use GAE to host static sites for free - L<link|http://www.nata2.org/2011/01/26/how-to-use-app-engine-to-host-static-sites-for-free/#>
+
+
+
+=begin comment :src
+{
+  "via": {
+    "url": "http://friendfeed.com/share/bookmarklet",
+    "name": "Bookmarklet"
+  },
+  "from": {
+    "name": "углы «Исимуры»",
+    "type": "user",
+    "id": "zag"
+  },
+  "id": "e/ade7a15fc6ea47f38eac76cf3769c032",
+  "date": "2011-04-08T05:41:35Z",
+  "url": "http://friendfeed.com/zag/ade7a15f/omg-free-hosting-how-to-use-gae-host-static-sites",
+  "rawBody": "OMG FREE HOSTING: How to use GAE to host static sites for free",
+  "body": "OMG FREE HOSTING: How to use GAE to host static sites for free - <a rel=\"nofollow\" href=\"http://www.nata2.org/2011/01/26/how-to-use-app-engine-to-host-static-sites-for-free/#\" title=\"http://www.nata2.org/2011/01/26/how-to-use-app-engine-to-host-static-sites-for-free/#\">http://www.nata2.org/2011...</a>",
+  "rawLink": "http://www.nata2.org/2011/01/26/how-to-use-app-engine-to-host-static-sites-for-free/#"
+}
+=end comment
+
+=end pod

@@ -1,0 +1,48 @@
+=begin pod :pubdate('2009-11-09T08:13:45Z') :type<note> 
+=NAME Теперь каждый может создать свой сервис укорачивания ссылок ! Use Your Google Apps Domain To Make Short URL’s
+
+=begin DESCRIPTION
+
+Теперь каждый может создать свой сервис укорачивания ссылок ! Use Your Google Apps Domain To Make Short URL’s - L<link|http://www.makeuseof.com/tag/use-your-google-apps-domain-to-make-short-urls/>
+=for Image :width(468) :link('http://www.makeuseof.com/tag/use-your-google-apps-domain-to-make-short-urls/') :height(175) :preview
+media/a5e9023a25067081fc12d58e8b0bd02ec0b2d892.jpg
+
+
+
+=end DESCRIPTION
+
+Теперь каждый может создать свой сервис укорачивания ссылок ! Use Your Google Apps Domain To Make Short URL’s - L<link|http://www.makeuseof.com/tag/use-your-google-apps-domain-to-make-short-urls/>
+=for Image :width(468) :link('http://www.makeuseof.com/tag/use-your-google-apps-domain-to-make-short-urls/') :height(175) :preview
+media/a5e9023a25067081fc12d58e8b0bd02ec0b2d892.jpg
+
+
+
+=begin comment :src
+{
+  "id": "e/495236d5df6a4d14a984658c27bf5335",
+  "date": "2009-11-09T08:13:45Z",
+  "rawBody": "Теперь каждый может создать свой сервис укорачивания ссылок ! Use Your Google Apps Domain To Make Short URL’s",
+  "url": "http://friendfeed.com/zag/495236d5/use-your-google-apps-domain-to-make-short-urls",
+  "thumbnails": [
+    {
+      "width": 468,
+      "url": "http://m.friendfeed-media.com/a5e9023a25067081fc12d58e8b0bd02ec0b2d892",
+      "height": 175,
+      "link": "http://www.makeuseof.com/tag/use-your-google-apps-domain-to-make-short-urls/"
+    }
+  ],
+  "body": "Теперь каждый может создать свой сервис укорачивания ссылок ! Use Your Google Apps Domain To Make Short URL’s - <a rel=\"nofollow\" href=\"http://www.makeuseof.com/tag/use-your-google-apps-domain-to-make-short-urls/\" title=\"http://www.makeuseof.com/tag/use-your-google-apps-domain-to-make-short-urls/\">http://www.makeuseof.com/tag...</a>",
+  "rawLink": "http://www.makeuseof.com/tag/use-your-google-apps-domain-to-make-short-urls/",
+  "via": {
+    "url": "http://friendfeed.com/share/bookmarklet",
+    "name": "Bookmarklet"
+  },
+  "from": {
+    "name": "углы «Исимуры»",
+    "id": "zag",
+    "type": "user"
+  }
+}
+=end comment
+
+=end pod

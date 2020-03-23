@@ -1,0 +1,38 @@
+=begin pod :pubdate('2011-07-27T09:04:52Z') :type<note> 
+=NAME Fwd: Mascot vs. girl - http://meme.yahoo.com/sonergonul/p/oThvJso/ (via http://ff.im/IvTko)
+
+=begin DESCRIPTION
+
+Fwd: Mascot vs. girl - http://meme.yahoo.com/sonergonul/p/oThvJso/ (via http://ff.im/IvTko)
+
+
+
+=end DESCRIPTION
+
+Fwd: Mascot vs. girl - http://meme.yahoo.com/sonergonul/p/oThvJso/ (via http://ff.im/IvTko)
+
+
+
+=begin comment :src
+{
+  "url": "http://friendfeed.com/zag/f29f7439/fwd-mascot-vs-girl-via",
+  "id": "e/f29f74395e3249308f58d8e1ff34002d",
+  "date": "2011-07-27T09:04:52Z",
+  "rawBody": "Fwd: Mascot vs. girl - http://meme.yahoo.com/sonergonul/p/oThvJso/ (via http://ff.im/IvTko)",
+  "thumbnails": [
+    {
+      "url": "http://meme.zenfs.com/u/cd0352aac101cb4713b2ba2f5b4e893547b73e46.gifa",
+      "link": "http://friendfeed.com/e/f29f7439-5e32-4930-8f58-d8e1ff34002d"
+    }
+  ],
+  "body": "Fwd: Mascot vs. girl - <a rel=\"nofollow\" href=\"http://meme.yahoo.com/sonergonul/p/oThvJso/\" title=\"http://meme.yahoo.com/sonergonul/p/oThvJso/\">http://meme.yahoo.com/sonergo...</a> (via <a href=\"http://ff.im/IvTko\" title=\"http://friendfeed.com/funny-pics-videos/fa09f70c/mascot-vs-girl\">http://friendfeed.com/funny-p...</a>)",
+  "rawLink": "http://friendfeed.com/e/f29f7439-5e32-4930-8f58-d8e1ff34002d",
+  "from": {
+    "name": "углы «Исимуры»",
+    "type": "user",
+    "id": "zag"
+  }
+}
+=end comment
+
+=end pod

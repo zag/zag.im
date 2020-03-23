@@ -1,0 +1,140 @@
+=begin pod :pubdate('2010-04-21T08:16:12Z') :type<note> :tags<html5>
+=NAME Akihabara - a set of libraries, tools and presets to create pixelated indie-style 8/16-bit era games in Javascript #html5
+
+=begin DESCRIPTION
+
+Akihabara - a set of libraries, tools and presets to create pixelated indie-style 8/16-bit era games in Javascript #html5 - L<link|http://www.kesiev.com/akihabara/>
+=for Image :width(233) :link('http://www.kesiev.com/akihabara/') :height(175) :preview
+media/49b4a8af8468edbf5f09891210f6d3c52e3ca20d.jpg
+=for Image :width(233) :link('http://www.kesiev.com/akihabara/') :height(175) :preview
+media/d4209f7ed83172dd3c8754f9294d64d0588878a1.jpg
+=for Image :width(233) :link('http://www.kesiev.com/akihabara/') :height(175) :preview
+media/2ecfd3a40e6c5e55f371ce845e631647be322fd8.jpg
+
+=item It is a set of libraries, tools and presets to create pixelated indie-style 8/16-bit era games in Javascript that runs in your browser without any Flash plugin, making use of a small small small  subset of the HTML5 features, that are actually available on many modern browsers.
+=item офигенно
+=item Да ! Там еще интересно взглянуть на саму библиотеку  http://www.kesiev.com/akihabara/demo/akihabara-1.1.zip
+
+
+=end DESCRIPTION
+
+Akihabara - a set of libraries, tools and presets to create pixelated indie-style 8/16-bit era games in Javascript #html5 - L<link|http://www.kesiev.com/akihabara/>
+=for Image :width(233) :link('http://www.kesiev.com/akihabara/') :height(175) :preview
+media/49b4a8af8468edbf5f09891210f6d3c52e3ca20d.jpg
+=for Image :width(233) :link('http://www.kesiev.com/akihabara/') :height(175) :preview
+media/d4209f7ed83172dd3c8754f9294d64d0588878a1.jpg
+=for Image :width(233) :link('http://www.kesiev.com/akihabara/') :height(175) :preview
+media/2ecfd3a40e6c5e55f371ce845e631647be322fd8.jpg
+
+=item It is a set of libraries, tools and presets to create pixelated indie-style 8/16-bit era games in Javascript that runs in your browser without any Flash plugin, making use of a small small small  subset of the HTML5 features, that are actually available on many modern browsers.
+=item офигенно
+=item Да ! Там еще интересно взглянуть на саму библиотеку  http://www.kesiev.com/akihabara/demo/akihabara-1.1.zip
+
+
+=begin comment :src
+{
+  "from": {
+    "type": "user",
+    "id": "zag",
+    "name": "углы «Исимуры»"
+  },
+  "via": {
+    "url": "http://friendfeed.com/share/bookmarklet",
+    "name": "Bookmarklet"
+  },
+  "comments": [
+    {
+      "via": {
+        "name": "Bookmarklet",
+        "url": "http://friendfeed.com/share/bookmarklet"
+      },
+      "rawBody": "It is a set of libraries, tools and presets to create pixelated indie-style 8/16-bit era games in Javascript that runs in your browser without any Flash plugin, making use of a small small small  subset of the HTML5 features, that are actually available on many modern browsers.",
+      "id": "e/72522755f2c942a6820c67aada1dddd6/c/f7bb206076f5410eb9086a0b59ad0906",
+      "date": "2010-04-21T08:16:12Z",
+      "from": {
+        "id": "zag",
+        "type": "user",
+        "name": "углы «Исимуры»"
+      },
+      "body": "It is a set of libraries, tools and presets to create pixelated indie-style 8/16-bit era games in Javascript that runs in your browser without any Flash plugin, making use of a small small small  subset of the HTML5 features, that are actually available on many modern browsers."
+    },
+    {
+      "from": {
+        "id": "kkapp",
+        "type": "user",
+        "name": "alex@kapranoff.ru"
+      },
+      "rawBody": "офигенно",
+      "id": "e/72522755f2c942a6820c67aada1dddd6/c/b218b352b32a4620aa6fa7e7571733f2",
+      "date": "2010-04-21T10:40:41Z",
+      "body": "офигенно"
+    },
+    {
+      "rawBody": "Да ! Там еще интересно взглянуть на саму библиотеку  http://www.kesiev.com/akihabara/demo/akihabara-1.1.zip",
+      "id": "e/72522755f2c942a6820c67aada1dddd6/c/54cb7823d46a40baac67ce00f2c4ee6b",
+      "from": {
+        "name": "углы «Исимуры»",
+        "type": "user",
+        "id": "zag"
+      },
+      "date": "2010-04-21T10:49:37Z",
+      "body": "Да ! Там еще интересно взглянуть на саму библиотеку  <a rel=\"nofollow\" href=\"http://www.kesiev.com/akihabara/demo/akihabara-1.1.zip\" title=\"http://www.kesiev.com/akihabara/demo/akihabara-1.1.zip\">http://www.kesiev.com/akihaba...</a>"
+    }
+  ],
+  "rawBody": "Akihabara - a set of libraries, tools and presets to create pixelated indie-style 8/16-bit era games in Javascript #html5",
+  "id": "e/72522755f2c942a6820c67aada1dddd6",
+  "date": "2010-04-21T08:16:12Z",
+  "thumbnails": [
+    {
+      "width": 233,
+      "url": "http://m.friendfeed-media.com/49b4a8af8468edbf5f09891210f6d3c52e3ca20d",
+      "height": 175,
+      "link": "http://www.kesiev.com/akihabara/"
+    },
+    {
+      "url": "http://m.friendfeed-media.com/d4209f7ed83172dd3c8754f9294d64d0588878a1",
+      "width": 233,
+      "link": "http://www.kesiev.com/akihabara/",
+      "height": 175
+    },
+    {
+      "link": "http://www.kesiev.com/akihabara/",
+      "height": 175,
+      "url": "http://m.friendfeed-media.com/2ecfd3a40e6c5e55f371ce845e631647be322fd8",
+      "width": 233
+    }
+  ],
+  "url": "http://friendfeed.com/zag/72522755/akihabara-set-of-libraries-tools-and-presets-to",
+  "rawLink": "http://www.kesiev.com/akihabara/",
+  "likes": [
+    {
+      "from": {
+        "name": "Тринадцатый",
+        "private": true,
+        "type": "user",
+        "id": "n1313"
+      },
+      "date": "2010-04-21T10:43:31Z"
+    },
+    {
+      "date": "2010-04-21T09:27:11Z",
+      "from": {
+        "id": "shirokoff",
+        "type": "user",
+        "name": "b-mail-developer"
+      }
+    },
+    {
+      "from": {
+        "name": "alex@kapranoff.ru",
+        "type": "user",
+        "id": "kkapp"
+      },
+      "date": "2010-04-21T08:20:46Z"
+    }
+  ],
+  "body": "Akihabara - a set of libraries, tools and presets to create pixelated indie-style 8/16-bit era games in Javascript <a href=\"http://friendfeed.com/search?q=%23html5\">#html5</a> - <a rel=\"nofollow\" href=\"http://www.kesiev.com/akihabara/\" title=\"http://www.kesiev.com/akihabara/\">http://www.kesiev.com/akihaba...</a>"
+}
+=end comment
+
+=end pod

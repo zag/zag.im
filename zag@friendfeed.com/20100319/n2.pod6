@@ -1,0 +1,51 @@
+=begin pod :pubdate('2010-03-19T05:17:18Z') :type<note> 
+=NAME Mozilla Labs: Contacts in the Browser. A Javascript API that websites can use to access the Contacts database, with explicit user permission and filtering
+
+=begin DESCRIPTION
+
+Mozilla Labs: Contacts in the Browser. A Javascript API that websites can use to access the Contacts database, with explicit user permission and filtering - L<link|http://mozillalabs.com/blog/2010/03/contacts-in-the-browser/>
+
+=item A browser-based Contacts database that stays in sync with your address books (so far, it supports GMail, Twitter and Mac OS Address book)
+
+
+=end DESCRIPTION
+
+Mozilla Labs: Contacts in the Browser. A Javascript API that websites can use to access the Contacts database, with explicit user permission and filtering - L<link|http://mozillalabs.com/blog/2010/03/contacts-in-the-browser/>
+
+=item A browser-based Contacts database that stays in sync with your address books (so far, it supports GMail, Twitter and Mac OS Address book)
+
+
+=begin comment :src
+{
+  "via": {
+    "name": "Bookmarklet",
+    "url": "http://friendfeed.com/share/bookmarklet"
+  },
+  "from": {
+    "id": "zag",
+    "type": "user",
+    "name": "углы «Исимуры»"
+  },
+  "comments": [
+    {
+      "body": "A browser-based Contacts database that stays in sync with your address books (so far, it supports GMail, Twitter and Mac OS Address book)",
+      "id": "e/ca477e1b301449509294e605451659b1/c/ae0cb634d00f42368d91bda3d03b8a3d",
+      "rawBody": "A browser-based Contacts database that stays in sync with your address books (so far, it supports GMail, Twitter and Mac OS Address book)",
+      "from": {
+        "type": "user",
+        "id": "zag",
+        "name": "углы «Исимуры»"
+      },
+      "date": "2010-03-19T05:18:04Z"
+    }
+  ],
+  "id": "e/ca477e1b301449509294e605451659b1",
+  "date": "2010-03-19T05:17:18Z",
+  "rawBody": "Mozilla Labs: Contacts in the Browser. A Javascript API that websites can use to access the Contacts database, with explicit user permission and filtering",
+  "url": "http://friendfeed.com/zag/ca477e1b/mozilla-labs-contacts-in-browser-javascript",
+  "body": "Mozilla Labs: Contacts in the Browser. A Javascript API that websites can use to access the Contacts database, with explicit user permission and filtering - <a rel=\"nofollow\" href=\"http://mozillalabs.com/blog/2010/03/contacts-in-the-browser/\" title=\"http://mozillalabs.com/blog/2010/03/contacts-in-the-browser/\">http://mozillalabs.com/blog...</a>",
+  "rawLink": "http://mozillalabs.com/blog/2010/03/contacts-in-the-browser/"
+}
+=end comment
+
+=end pod

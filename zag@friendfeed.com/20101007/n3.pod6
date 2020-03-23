@@ -1,0 +1,32 @@
+=begin pod :pubdate('2010-10-07T07:49:17Z') :type<note> 
+=NAME Reputation Systems  for Open Collaboration (google) / Репутационные системы http://research.google.com/pubs/archive/36757.pdf
+
+=begin DESCRIPTION
+
+Reputation Systems  for Open Collaboration (google) / Репутационные системы http://research.google.com/pubs/archive/36757.pdf
+
+
+
+=end DESCRIPTION
+
+Reputation Systems  for Open Collaboration (google) / Репутационные системы http://research.google.com/pubs/archive/36757.pdf
+
+
+
+=begin comment :src
+{
+  "rawBody": "Reputation Systems  for Open Collaboration (google) / Репутационные системы http://research.google.com/pubs/archive/36757.pdf",
+  "id": "e/03ade9d1f3c04387a71e3945c10a4762",
+  "date": "2010-10-07T07:49:17Z",
+  "url": "http://friendfeed.com/zag/03ade9d1/reputation-systems-for-open-collaboration",
+  "from": {
+    "name": "углы «Исимуры»",
+    "type": "user",
+    "id": "zag"
+  },
+  "body": "Reputation Systems  for Open Collaboration (google) / Репутационные системы <a rel=\"nofollow\" href=\"http://research.google.com/pubs/archive/36757.pdf\" title=\"http://static.googleusercontent.com/external_content/untrusted_dlcp/research.google.com/en/us/pubs/archive/36757.pdf\">http://static.googleusercontent.com/externa...</a>",
+  "rawLink": "http://friendfeed.com/e/03ade9d1-f3c0-4387-a71e-3945c10a4762"
+}
+=end comment
+
+=end pod

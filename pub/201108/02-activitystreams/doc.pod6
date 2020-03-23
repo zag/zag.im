@@ -1,0 +1,94 @@
+=begin pod :pubdate('2011-08-02 10:00:00') :tags<socialminig>
+=NAME ActivityStreams - формат представления социальной активности пользователя
+
+=begin DESCRIPTION
+
+=for Image :align("left") :preview
+as-icon.jpg
+
+Помимо материалов, публикуемых пользователем в сети, еще одним ресурсом является его сетевая активность. Она включает в себя следующие действия: изменение статуса, создание заметки, публикация фотографии или альбома, отметка понравившихся материалов других пользователей и т. д.
+
+=end DESCRIPTION
+
+=for Image :align("left") :preview
+as-icon.jpg
+
+Помимо материалов, публикуемых пользователем в сети, еще одним ресурсом является его сетевая активность. Она включает в себя следующие действия: изменение статуса, создание заметки, публикация фотографии или альбома, отметка понравившихся материалов других пользователей и т. д. Данная активность собранная с различных аккаунтов позволяет быть в курсе действий пользователя. Чтобы формализовать эту активность был создан формат ActivityStreams N<Формат представления сетевой активности ActivityStreams. L<http://activitystrea.ms/|http://activitystrea.ms/>>. 
+
+Участие в разработке спецификации ActivityStreams принимали участие представители известных компаний. На следующем снимке представлена одна из рабочих встреч, посвященная обсуждению этого формата N<Встреча в офисе Six Apart, посвященная формату ActivityStreams. L<http://www.readwriteweb.com/archives/google_facebook_myspace_activitystreams.php>>:
+
+=Image ActivityStreams.jpg
+
+
+Данный формат основывается на следующих составных частях: автор I<(actor)>, действие I<(verb)>, объект I<(object)> и цель I<(target)>.
+
+Примеры активности, представлены ниже:
+
+=for table :caption('Сетевая активность')
+  actor          | verb          | object    | target
+  ===============+===============+===========+==========
+  Person            I<shared>       link            target
+  Person            I<started following>  Person    target
+  Иван Васильевич   I<меняет>       профессию       царские палаты
+  Вася              I<разместил>    фотографию      picasaweb
+
+Форматы представления сетевой активности могут быть следующие: C<JSON> и C<Atom>. В случае C<Atom> возможна интеграция в уже существующий feed. 
+
+Вот простой пример записи в формате JSON, взятый из спецификации N< Спецификация  JSON Activity Streams 1.0. L<http://activitystrea.ms/specs/json/1.0/>> :
+
+ {
+    "published": "2011-02-10T15:04:55Z",
+    "actor": {
+      "url": "http://example.org/martin",
+      "objectType" : "person",
+      "id": "tag:example.org,2011:martin",
+      "image": {
+        "url": "http://example.org/martin/image",
+        "width": 250,
+        "height": 250
+      },
+      "displayName": "Martin Smith"
+    },
+    "verb": "post",
+    "object" : {
+      "url": "http://example.org/blog/2011/02/entry",
+      "id": "tag:example.org,2011:abc123/xyz"
+    },
+    "target" : {
+      "url": "http://example.org/blog/",
+      "objectType": "blog",
+      "id": "tag:example.org,2011:abc123",
+      "displayName": "Martin's Blog"
+    }
+  }
+
+
+В следующем примере демонстрируется интеграция в формат C<Atom>:
+
+ <entry xmlns="http://www.w3.org/2005/Atom" xmlns:activity="http://activitystrea.ms/spec/1.0/">
+  <id>tag:photopanic.example.com,2009:activity/4859/4352</id>
+  <title>Geraldine posted a Photo on PhotoPanic</title>
+  <published>2009-11-02T15:29:00Z</published>
+  <link rel="alternate" type="text/html" href="http://example.com/geraldine/activities/4352" />
+  <activity:verb>post</activity:verb>
+  <activity:object>
+    <id>tag:photopanic.example.com,2009:photo/4352</id>
+    <title>My Cat</title>
+    <published>2009-11-02T15:29:00Z</published>
+    <link rel="alternate" type="text/html" href="http://example.com/geraldine/photos/4352" />
+    <activity:object-type>photo</activity:object-type>
+  </activity:object>
+  <content type="html">
+    &lt;p&gt;Geraldine posted a Photo on PhotoPanic&lt;/p&gt;
+    &lt;img src="/geraldine/photos/4352.jpg"&gt;
+  </content>
+ </entry>
+
+Определение пространства имен для формата ActivityStreams производится следующей строкой:
+
+ <entry xmlns:activity="http://activitystrea.ms/spec/1.0/" >
+
+
+Формат AcvtivityStreams используется в распределенных социальных сетях, как формат передачи пользовательских событий. Так в протоколе Salmon, при создании пользователем комментария к статье на каком-либо ресурсе, производится идентификация автора и последующий импорт текста комментария или сообщения. Таким образом формат ActivityStreams вполне можно сопоставить с  системой событий в операционной системе. Только вместо операционной системы - глобальная сеть Internet.
+
+=end pod

@@ -1,0 +1,100 @@
+=begin pod :pubdate('2011-09-21T10:24:04Z') :type<note> 
+=NAME Google+: 92, 93, 94, 95, 96, 97, 98, 99... 100.
+
+=begin DESCRIPTION
+
+Google+: 92, 93, 94, 95, 96, 97, 98, 99... 100. - L<link|http://gplusproject.appspot.com/static/ru-92011.html>
+=for Image :width(329) :link('http://gplusproject.appspot.com/static/ru-92011.html') :height(175) :preview
+media/46f2dc2879a27b609dfcd2ea392c791a9526309a.jpg
+=for Image :width(431) :link('http://gplusproject.appspot.com/static/ru-92011.html') :height(175) :preview
+media/252cb8c5c9408944238eac5675d713c75f0743e8.jpg
+=for Image :width(525) :link('http://gplusproject.appspot.com/static/ru-92011.html') :height(161) :preview
+media/5a2414df717244d153dbc46342b7dd1863f18719.jpg
+
+=item +ВидеоВстречи: мобильнее, неожиданнее, интереснее
+=item +Поиск: находите людей и записи, которые вас интересуют
+
+
+=end DESCRIPTION
+
+Google+: 92, 93, 94, 95, 96, 97, 98, 99... 100. - L<link|http://gplusproject.appspot.com/static/ru-92011.html>
+=for Image :width(329) :link('http://gplusproject.appspot.com/static/ru-92011.html') :height(175) :preview
+media/46f2dc2879a27b609dfcd2ea392c791a9526309a.jpg
+=for Image :width(431) :link('http://gplusproject.appspot.com/static/ru-92011.html') :height(175) :preview
+media/252cb8c5c9408944238eac5675d713c75f0743e8.jpg
+=for Image :width(525) :link('http://gplusproject.appspot.com/static/ru-92011.html') :height(161) :preview
+media/5a2414df717244d153dbc46342b7dd1863f18719.jpg
+
+=item +ВидеоВстречи: мобильнее, неожиданнее, интереснее
+=item +Поиск: находите людей и записи, которые вас интересуют
+
+
+=begin comment :src
+{
+  "via": {
+    "name": "Bookmarklet",
+    "url": "http://friendfeed.com/share/bookmarklet"
+  },
+  "from": {
+    "name": "углы «Исимуры»",
+    "type": "user",
+    "id": "zag"
+  },
+  "comments": [
+    {
+      "via": {
+        "name": "Bookmarklet",
+        "url": "http://friendfeed.com/share/bookmarklet"
+      },
+      "id": "e/e08da2dd3bc94f20a00df5d3ca40322a/c/6b5377c7a83f4871a97a19e1627b6f5b",
+      "date": "2011-09-21T10:24:04Z",
+      "from": {
+        "name": "углы «Исимуры»",
+        "type": "user",
+        "id": "zag"
+      },
+      "rawBody": "+ВидеоВстречи: мобильнее, неожиданнее, интереснее",
+      "body": "+ВидеоВстречи: мобильнее, неожиданнее, интереснее"
+    },
+    {
+      "body": "+Поиск: находите людей и записи, которые вас интересуют",
+      "from": {
+        "name": "углы «Исимуры»",
+        "id": "zag",
+        "type": "user"
+      },
+      "rawBody": "+Поиск: находите людей и записи, которые вас интересуют",
+      "id": "e/e08da2dd3bc94f20a00df5d3ca40322a/c/ddbd6a88e68f45af8c559afb8c474a64",
+      "date": "2011-09-21T10:26:19Z"
+    }
+  ],
+  "id": "e/e08da2dd3bc94f20a00df5d3ca40322a",
+  "date": "2011-09-21T10:24:04Z",
+  "rawBody": "Google+: 92, 93, 94, 95, 96, 97, 98, 99... 100.",
+  "thumbnails": [
+    {
+      "width": 329,
+      "url": "http://m.friendfeed-media.com/46f2dc2879a27b609dfcd2ea392c791a9526309a",
+      "link": "http://gplusproject.appspot.com/static/ru-92011.html",
+      "height": 175
+    },
+    {
+      "height": 175,
+      "link": "http://gplusproject.appspot.com/static/ru-92011.html",
+      "url": "http://m.friendfeed-media.com/252cb8c5c9408944238eac5675d713c75f0743e8",
+      "width": 431
+    },
+    {
+      "width": 525,
+      "url": "http://m.friendfeed-media.com/5a2414df717244d153dbc46342b7dd1863f18719",
+      "height": 161,
+      "link": "http://gplusproject.appspot.com/static/ru-92011.html"
+    }
+  ],
+  "url": "http://friendfeed.com/zag/e08da2dd/google-92-93-94-95-96-97-98-99-100",
+  "body": "Google+: 92, 93, 94, 95, 96, 97, 98, 99... 100. - <a rel=\"nofollow\" href=\"http://gplusproject.appspot.com/static/ru-92011.html\" title=\"http://gplusproject.appspot.com/static/ru-92011.html\">http://gplusproject.appspot.com/static...</a>",
+  "rawLink": "http://gplusproject.appspot.com/static/ru-92011.html"
+}
+=end comment
+
+=end pod

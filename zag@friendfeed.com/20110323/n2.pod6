@@ -1,0 +1,48 @@
+=begin pod :pubdate('2011-03-23T08:19:04Z') :type<note> :tags<Firefox4>
+=NAME #Firefox4 after party
+
+=begin DESCRIPTION
+
+#Firefox4 after party - L<link|http://www.flickr.com/photos/20404647@N07/5551026601/>
+=for Image :width(240) :link('http://www.flickr.com/photos/20404647@N07/5551026601/') :height(160) :preview
+media/7af2a8bbb55a0c64c0a32ef4c7f820386400f7ad.jpg
+
+
+
+=end DESCRIPTION
+
+#Firefox4 after party - L<link|http://www.flickr.com/photos/20404647@N07/5551026601/>
+=for Image :width(240) :link('http://www.flickr.com/photos/20404647@N07/5551026601/') :height(160) :preview
+media/7af2a8bbb55a0c64c0a32ef4c7f820386400f7ad.jpg
+
+
+
+=begin comment :src
+{
+  "from": {
+    "name": "углы «Исимуры»",
+    "id": "zag",
+    "type": "user"
+  },
+  "via": {
+    "name": "Bookmarklet",
+    "url": "http://friendfeed.com/share/bookmarklet"
+  },
+  "rawLink": "http://www.flickr.com/photos/20404647@N07/5551026601/",
+  "body": "<a href=\"http://friendfeed.com/search?q=%23Firefox4\">#Firefox4</a> after party - <a rel=\"nofollow\" href=\"http://www.flickr.com/photos/20404647@N07/5551026601/\" title=\"http://www.flickr.com/photos/20404647@N07/5551026601/\">http://www.flickr.com/photos...</a>",
+  "id": "e/5d36f17a76e243eb883d8aabbd879ce7",
+  "rawBody": "#Firefox4 after party",
+  "date": "2011-03-23T08:19:04Z",
+  "url": "http://friendfeed.com/zag/5d36f17a/firefox4-after-party",
+  "thumbnails": [
+    {
+      "link": "http://www.flickr.com/photos/20404647@N07/5551026601/",
+      "height": 160,
+      "width": 240,
+      "url": "http://m.friendfeed-media.com/7af2a8bbb55a0c64c0a32ef4c7f820386400f7ad"
+    }
+  ]
+}
+=end comment
+
+=end pod

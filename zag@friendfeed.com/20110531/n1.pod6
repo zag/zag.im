@@ -1,0 +1,139 @@
+=begin pod :pubdate('2011-05-31T18:47:13Z') :type<note> :tags<ps3>
+=NAME Completed: killzone3 #ps3
+
+=begin DESCRIPTION
+
+Completed: killzone3 #ps3
+=for Image :width(292) :link('http://m.friendfeed-media.com/69ce21f24ab44447ef14d522dcb0c6ee316da096') :height(175) :preview
+media/493dbead6ddbe094d5a9d052f77b53cd1837c270.jpg
+=for Image :width(292) :link('http://m.friendfeed-media.com/753e7be4dfde6994a21f5bef595ad63aae335036') :height(175) :preview
+media/3767d855000768d11e1bee4d6bddf2196c956095.jpg
+=for Image :width(263) :link('http://m.friendfeed-media.com/5c296e9dc90ecff377add08f612615cfde6a73a2') :height(175) :preview
+media/152a006c3d2ef9f0454b68f3f27c3f02a1846051.jpg
+=for Image :width(263) :link('http://m.friendfeed-media.com/c8f3e5da4031aba6daa79fb40a5fd1e9cc83d1b9') :height(175) :preview
+media/5a40f07043063c4396765cf5ea4d4216f38b9319.jpg
+=for Image :width(292) :link('http://m.friendfeed-media.com/781f29e7f1b955da6e5afe88c758246c9bb70df5') :height(175) :preview
+media/f806f5e4f4ff86b59f7fb105579defd462f23b08.jpg
+=for Image :width(292) :link('http://m.friendfeed-media.com/3f56f1a56392e20e0c7169a09579b37f9783d959') :height(175) :preview
+media/826aaae7e3ecaf1569708d8d510b381c2935e9b6.jpg
+=for Image :width(292) :link('http://m.friendfeed-media.com/fe9584f6d47e6a3d8f1d7029576bec4ce791da1c') :height(175) :preview
+media/d79e84ddb3f5906245c7408f12f71f4f2da935cd.jpg
+=for Image :width(292) :link('http://m.friendfeed-media.com/34a52a6df50cae64424180871f482ef6786eb4e8') :height(175) :preview
+media/a6bb12eb7d7e0dca6a2ba1dd5deea9713285b549.jpg
+=for Image :width(142) :link('http://m.friendfeed-media.com/8d2c0f20592185aed674bc0e7762e1b6fe0c310f') :height(175) :preview
+media/1f5ca8b84105f2d51d7b2e144a4182329a611910.jpg
+
+=item "Глупые приказы не выполняю"
+
+
+=end DESCRIPTION
+
+Completed: killzone3 #ps3
+=for Image :width(292) :link('http://m.friendfeed-media.com/69ce21f24ab44447ef14d522dcb0c6ee316da096') :height(175) :preview
+media/493dbead6ddbe094d5a9d052f77b53cd1837c270.jpg
+=for Image :width(292) :link('http://m.friendfeed-media.com/753e7be4dfde6994a21f5bef595ad63aae335036') :height(175) :preview
+media/3767d855000768d11e1bee4d6bddf2196c956095.jpg
+=for Image :width(263) :link('http://m.friendfeed-media.com/5c296e9dc90ecff377add08f612615cfde6a73a2') :height(175) :preview
+media/152a006c3d2ef9f0454b68f3f27c3f02a1846051.jpg
+=for Image :width(263) :link('http://m.friendfeed-media.com/c8f3e5da4031aba6daa79fb40a5fd1e9cc83d1b9') :height(175) :preview
+media/5a40f07043063c4396765cf5ea4d4216f38b9319.jpg
+=for Image :width(292) :link('http://m.friendfeed-media.com/781f29e7f1b955da6e5afe88c758246c9bb70df5') :height(175) :preview
+media/f806f5e4f4ff86b59f7fb105579defd462f23b08.jpg
+=for Image :width(292) :link('http://m.friendfeed-media.com/3f56f1a56392e20e0c7169a09579b37f9783d959') :height(175) :preview
+media/826aaae7e3ecaf1569708d8d510b381c2935e9b6.jpg
+=for Image :width(292) :link('http://m.friendfeed-media.com/fe9584f6d47e6a3d8f1d7029576bec4ce791da1c') :height(175) :preview
+media/d79e84ddb3f5906245c7408f12f71f4f2da935cd.jpg
+=for Image :width(292) :link('http://m.friendfeed-media.com/34a52a6df50cae64424180871f482ef6786eb4e8') :height(175) :preview
+media/a6bb12eb7d7e0dca6a2ba1dd5deea9713285b549.jpg
+=for Image :width(142) :link('http://m.friendfeed-media.com/8d2c0f20592185aed674bc0e7762e1b6fe0c310f') :height(175) :preview
+media/1f5ca8b84105f2d51d7b2e144a4182329a611910.jpg
+
+=item "Глупые приказы не выполняю"
+
+
+=begin comment :src
+{
+  "id": "e/068a95208a324937bf19dad8a3e8d02f",
+  "date": "2011-05-31T18:47:13Z",
+  "rawBody": "Completed: killzone3 #ps3",
+  "url": "http://friendfeed.com/zag/068a9520/completed-killzone3-ps3",
+  "thumbnails": [
+    {
+      "width": 292,
+      "url": "http://m.friendfeed-media.com/493dbead6ddbe094d5a9d052f77b53cd1837c270",
+      "height": 175,
+      "link": "http://m.friendfeed-media.com/69ce21f24ab44447ef14d522dcb0c6ee316da096"
+    },
+    {
+      "height": 175,
+      "link": "http://m.friendfeed-media.com/753e7be4dfde6994a21f5bef595ad63aae335036",
+      "url": "http://m.friendfeed-media.com/3767d855000768d11e1bee4d6bddf2196c956095",
+      "width": 292
+    },
+    {
+      "link": "http://m.friendfeed-media.com/5c296e9dc90ecff377add08f612615cfde6a73a2",
+      "height": 175,
+      "width": 263,
+      "url": "http://m.friendfeed-media.com/152a006c3d2ef9f0454b68f3f27c3f02a1846051"
+    },
+    {
+      "url": "http://m.friendfeed-media.com/5a40f07043063c4396765cf5ea4d4216f38b9319",
+      "width": 263,
+      "link": "http://m.friendfeed-media.com/c8f3e5da4031aba6daa79fb40a5fd1e9cc83d1b9",
+      "height": 175
+    },
+    {
+      "link": "http://m.friendfeed-media.com/781f29e7f1b955da6e5afe88c758246c9bb70df5",
+      "height": 175,
+      "url": "http://m.friendfeed-media.com/f806f5e4f4ff86b59f7fb105579defd462f23b08",
+      "width": 292
+    },
+    {
+      "height": 175,
+      "link": "http://m.friendfeed-media.com/3f56f1a56392e20e0c7169a09579b37f9783d959",
+      "width": 292,
+      "url": "http://m.friendfeed-media.com/826aaae7e3ecaf1569708d8d510b381c2935e9b6"
+    },
+    {
+      "link": "http://m.friendfeed-media.com/fe9584f6d47e6a3d8f1d7029576bec4ce791da1c",
+      "height": 175,
+      "url": "http://m.friendfeed-media.com/d79e84ddb3f5906245c7408f12f71f4f2da935cd",
+      "width": 292
+    },
+    {
+      "url": "http://m.friendfeed-media.com/a6bb12eb7d7e0dca6a2ba1dd5deea9713285b549",
+      "width": 292,
+      "height": 175,
+      "link": "http://m.friendfeed-media.com/34a52a6df50cae64424180871f482ef6786eb4e8"
+    },
+    {
+      "height": 175,
+      "link": "http://m.friendfeed-media.com/8d2c0f20592185aed674bc0e7762e1b6fe0c310f",
+      "width": 142,
+      "url": "http://m.friendfeed-media.com/1f5ca8b84105f2d51d7b2e144a4182329a611910"
+    }
+  ],
+  "body": "Completed: killzone3 <a href=\"http://friendfeed.com/search?q=%23ps3\">#ps3</a>",
+  "rawLink": "http://friendfeed.com/e/068a9520-8a32-4937-bf19-dad8a3e8d02f",
+  "from": {
+    "id": "zag",
+    "type": "user",
+    "name": "углы «Исимуры»"
+  },
+  "comments": [
+    {
+      "body": "&quot;Глупые приказы не выполняю&quot;",
+      "rawBody": "\"Глупые приказы не выполняю\"",
+      "date": "2011-05-31T18:47:46Z",
+      "id": "e/068a95208a324937bf19dad8a3e8d02f/c/dbb65fc754094f1e832bfa76ad0aa4c7",
+      "from": {
+        "name": "углы «Исимуры»",
+        "id": "zag",
+        "type": "user"
+      }
+    }
+  ]
+}
+=end comment
+
+=end pod

@@ -1,0 +1,68 @@
+=begin pod :pubdate('2010-03-21T04:58:16Z') :type<note> 
+=NAME The Beauty of India: 50 Amazing Photos - Smashing Magazine
+
+=begin DESCRIPTION
+
+The Beauty of India: 50 Amazing Photos - Smashing Magazine - L<link|http://www.smashingmagazine.com/2010/03/20/the-beauty-of-india-50-amazing-photos/#>
+=for Image :width(237) :link('http://www.smashingmagazine.com/2010/03/20/the-beauty-of-india-50-amazing-photos/#') :height(175) :preview
+media/3ddd05e30819869650c77ab3d5ef9dc1c8d5d6a2.jpg
+=for Image :width(263) :link('http://www.smashingmagazine.com/2010/03/20/the-beauty-of-india-50-amazing-photos/#') :height(175) :preview
+media/89c60460f3cdcf5c8deff086d67be36e59e41ade.jpg
+=for Image :width(263) :link('http://www.smashingmagazine.com/2010/03/20/the-beauty-of-india-50-amazing-photos/#') :height(175) :preview
+media/a75ec58eda8b9e26819275ee82665b2bc245fcc6.jpg
+
+
+
+=end DESCRIPTION
+
+The Beauty of India: 50 Amazing Photos - Smashing Magazine - L<link|http://www.smashingmagazine.com/2010/03/20/the-beauty-of-india-50-amazing-photos/#>
+=for Image :width(237) :link('http://www.smashingmagazine.com/2010/03/20/the-beauty-of-india-50-amazing-photos/#') :height(175) :preview
+media/3ddd05e30819869650c77ab3d5ef9dc1c8d5d6a2.jpg
+=for Image :width(263) :link('http://www.smashingmagazine.com/2010/03/20/the-beauty-of-india-50-amazing-photos/#') :height(175) :preview
+media/89c60460f3cdcf5c8deff086d67be36e59e41ade.jpg
+=for Image :width(263) :link('http://www.smashingmagazine.com/2010/03/20/the-beauty-of-india-50-amazing-photos/#') :height(175) :preview
+media/a75ec58eda8b9e26819275ee82665b2bc245fcc6.jpg
+
+
+
+=begin comment :src
+{
+  "rawBody": "The Beauty of India: 50 Amazing Photos - Smashing Magazine",
+  "id": "e/4218ed7321ca4ac4a8695074950fdf2b",
+  "date": "2010-03-21T04:58:16Z",
+  "url": "http://friendfeed.com/zag/4218ed73/beauty-of-india-50-amazing-photos-smashing",
+  "thumbnails": [
+    {
+      "height": 175,
+      "link": "http://www.smashingmagazine.com/2010/03/20/the-beauty-of-india-50-amazing-photos/#",
+      "width": 237,
+      "url": "http://m.friendfeed-media.com/3ddd05e30819869650c77ab3d5ef9dc1c8d5d6a2"
+    },
+    {
+      "width": 263,
+      "url": "http://m.friendfeed-media.com/89c60460f3cdcf5c8deff086d67be36e59e41ade",
+      "link": "http://www.smashingmagazine.com/2010/03/20/the-beauty-of-india-50-amazing-photos/#",
+      "height": 175
+    },
+    {
+      "url": "http://m.friendfeed-media.com/a75ec58eda8b9e26819275ee82665b2bc245fcc6",
+      "width": 263,
+      "height": 175,
+      "link": "http://www.smashingmagazine.com/2010/03/20/the-beauty-of-india-50-amazing-photos/#"
+    }
+  ],
+  "body": "The Beauty of India: 50 Amazing Photos - Smashing Magazine - <a rel=\"nofollow\" href=\"http://www.smashingmagazine.com/2010/03/20/the-beauty-of-india-50-amazing-photos/#\" title=\"http://www.smashingmagazine.com/2010/03/20/the-beauty-of-india-50-amazing-photos/#\">http://www.smashingmagazine.com/2010...</a>",
+  "rawLink": "http://www.smashingmagazine.com/2010/03/20/the-beauty-of-india-50-amazing-photos/#",
+  "from": {
+    "type": "user",
+    "id": "zag",
+    "name": "углы «Исимуры»"
+  },
+  "via": {
+    "url": "http://friendfeed.com/share/bookmarklet",
+    "name": "Bookmarklet"
+  }
+}
+=end comment
+
+=end pod

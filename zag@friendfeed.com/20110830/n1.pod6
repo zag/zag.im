@@ -1,0 +1,46 @@
+=begin pod :pubdate('2011-08-30T07:00:52Z') :type<note> 
+=NAME FreeBSD bash: "и если не дай бог поставлено нечто более свежее чем есть у него в репозитории, то все, apt-get встает колом а на форумх предлагают отформатировать весь датацентр"
+
+=begin DESCRIPTION
+
+FreeBSD bash: "и если не дай бог поставлено нечто более свежее чем есть у него в репозитории, то все, apt-get встает колом а на форумх предлагают отформатировать весь датацентр" - L<link|http://ipfw.ru/quotes/7667>
+
+
+
+=end DESCRIPTION
+
+FreeBSD bash: "и если не дай бог поставлено нечто более свежее чем есть у него в репозитории, то все, apt-get встает колом а на форумх предлагают отформатировать весь датацентр" - L<link|http://ipfw.ru/quotes/7667>
+
+
+
+=begin comment :src
+{
+  "id": "e/ec4ae9763a354ac694574d018b453efe",
+  "date": "2011-08-30T07:00:52Z",
+  "rawBody": "FreeBSD bash: \"и если не дай бог поставлено нечто более свежее чем есть у него в репозитории, то все, apt-get встает колом а на форумх предлагают отформатировать весь датацентр\"",
+  "url": "http://friendfeed.com/zag/ec4ae976/freebsd-bash-apt-get",
+  "body": "FreeBSD bash: &quot;и если не дай бог поставлено нечто более свежее чем есть у него в репозитории, то все, apt-get встает колом а на форумх предлагают отформатировать весь датацентр&quot; - <a rel=\"nofollow\" href=\"http://ipfw.ru/quotes/7667\">http://ipfw.ru/quotes/7667</a>",
+  "likes": [
+    {
+      "date": "2011-08-30T08:12:45Z",
+      "from": {
+        "id": "mishin",
+        "type": "user",
+        "name": "Николай"
+      }
+    }
+  ],
+  "rawLink": "http://ipfw.ru/quotes/7667",
+  "via": {
+    "url": "http://friendfeed.com/share/bookmarklet",
+    "name": "Bookmarklet"
+  },
+  "from": {
+    "name": "углы «Исимуры»",
+    "id": "zag",
+    "type": "user"
+  }
+}
+=end comment
+
+=end pod

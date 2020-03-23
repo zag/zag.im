@@ -1,0 +1,41 @@
+=begin pod :pubdate('2010-12-17T13:54:35Z') :type<note> :tags<FreeBSD>
+=NAME For others, like me, with older disks created by the broken sysinstall dangerously dedicated mode, here is a link into the #FreeBSD mail archives describing how to recover the partitions.
+http://www.pubbs.net/freebsd/200912/39499/
+Basically,
+dd if=/dev/zero of=/dev/ad# count=1 oseek=1  http://bit.ly/eXAhHb
+
+=begin DESCRIPTION
+
+For others, like me, with older disks created by the broken sysinstall dangerously dedicated mode, here is a link into the #FreeBSD mail archives describing how to recover the partitions.
+http://www.pubbs.net/freebsd/200912/39499/
+Basically,
+dd if=/dev/zero of=/dev/ad# count=1 oseek=1  http://bit.ly/eXAhHb
+
+
+
+=end DESCRIPTION
+
+For others, like me, with older disks created by the broken sysinstall dangerously dedicated mode, here is a link into the #FreeBSD mail archives describing how to recover the partitions.
+http://www.pubbs.net/freebsd/200912/39499/
+Basically,
+dd if=/dev/zero of=/dev/ad# count=1 oseek=1  http://bit.ly/eXAhHb
+
+
+
+=begin comment :src
+{
+  "body": "For others, like me, with older disks created by the broken sysinstall dangerously dedicated mode, here is a link into the <a href=\"http://friendfeed.com/search?q=%23FreeBSD\">#FreeBSD</a> mail archives describing how to recover the partitions.\n<a rel=\"nofollow\" href=\"http://www.pubbs.net/freebsd/200912/39499/\" title=\"http://www.pubbs.net/freebsd/200912/39499/\">http://www.pubbs.net/freebsd...</a>\nBasically,\ndd if=/dev/zero of=/dev/ad# count=1 oseek=1  <a rel=\"nofollow\" href=\"http://bit.ly/eXAhHb\">http://bit.ly/eXAhHb</a>",
+  "rawLink": "http://friendfeed.com/e/4ba75e27-8590-494e-863b-43bb3fa48975",
+  "id": "e/4ba75e278590494e863b43bb3fa48975",
+  "date": "2010-12-17T13:54:35Z",
+  "from": {
+    "id": "zag",
+    "type": "user",
+    "name": "углы «Исимуры»"
+  },
+  "rawBody": "For others, like me, with older disks created by the broken sysinstall dangerously dedicated mode, here is a link into the #FreeBSD mail archives describing how to recover the partitions.\nhttp://www.pubbs.net/freebsd/200912/39499/\nBasically,\ndd if=/dev/zero of=/dev/ad# count=1 oseek=1  http://bit.ly/eXAhHb",
+  "url": "http://friendfeed.com/zag/4ba75e27/for-others-like-me-with-older-disks-created-by"
+}
+=end comment
+
+=end pod

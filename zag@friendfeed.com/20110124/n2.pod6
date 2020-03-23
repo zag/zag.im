@@ -1,0 +1,68 @@
+=begin pod :pubdate('2011-01-24T10:44:40Z') :type<note> 
+=NAME Что можно сделать из зажигалок?
+
+=begin DESCRIPTION
+
+Что можно сделать из зажигалок? - L<link|http://ibigdan.livejournal.com/7873502.html>
+=for Image :width(131) :link('http://ibigdan.livejournal.com/7873502.html') :height(175) :preview
+media/e7538f8901dcc6a75dba136c166417a0ad78f550.jpg
+=for Image :width(131) :link('http://ibigdan.livejournal.com/7873502.html') :height(175) :preview
+media/cc9e05b9ea2f0b62d88470ecac259d5e09c5ab8f.jpg
+=for Image :width(229) :link('http://ibigdan.livejournal.com/7873502.html') :height(175) :preview
+media/a411e140321e8557c0aecb383e77480d3592a49d.jpg
+
+
+
+=end DESCRIPTION
+
+Что можно сделать из зажигалок? - L<link|http://ibigdan.livejournal.com/7873502.html>
+=for Image :width(131) :link('http://ibigdan.livejournal.com/7873502.html') :height(175) :preview
+media/e7538f8901dcc6a75dba136c166417a0ad78f550.jpg
+=for Image :width(131) :link('http://ibigdan.livejournal.com/7873502.html') :height(175) :preview
+media/cc9e05b9ea2f0b62d88470ecac259d5e09c5ab8f.jpg
+=for Image :width(229) :link('http://ibigdan.livejournal.com/7873502.html') :height(175) :preview
+media/a411e140321e8557c0aecb383e77480d3592a49d.jpg
+
+
+
+=begin comment :src
+{
+  "body": "Что можно сделать из зажигалок? - <a rel=\"nofollow\" href=\"http://ibigdan.livejournal.com/7873502.html\" title=\"http://ibigdan.livejournal.com/7873502.html\">http://ibigdan.livejournal.com/7873502...</a>",
+  "rawLink": "http://ibigdan.livejournal.com/7873502.html",
+  "id": "e/fb30fac140d74d11bf5c317c2796a1ce",
+  "date": "2011-01-24T10:44:40Z",
+  "rawBody": "Что можно сделать из зажигалок?",
+  "url": "http://friendfeed.com/zag/fb30fac1",
+  "thumbnails": [
+    {
+      "url": "http://m.friendfeed-media.com/e7538f8901dcc6a75dba136c166417a0ad78f550",
+      "width": 131,
+      "link": "http://ibigdan.livejournal.com/7873502.html",
+      "height": 175
+    },
+    {
+      "height": 175,
+      "link": "http://ibigdan.livejournal.com/7873502.html",
+      "width": 131,
+      "url": "http://m.friendfeed-media.com/cc9e05b9ea2f0b62d88470ecac259d5e09c5ab8f"
+    },
+    {
+      "url": "http://m.friendfeed-media.com/a411e140321e8557c0aecb383e77480d3592a49d",
+      "width": 229,
+      "link": "http://ibigdan.livejournal.com/7873502.html",
+      "height": 175
+    }
+  ],
+  "from": {
+    "name": "углы «Исимуры»",
+    "id": "zag",
+    "type": "user"
+  },
+  "via": {
+    "url": "http://friendfeed.com/share/bookmarklet",
+    "name": "Bookmarklet"
+  }
+}
+=end comment
+
+=end pod

@@ -1,0 +1,36 @@
+=begin pod :pubdate('2009-05-18T08:10:35Z') :type<note> 
+=NAME @AnatolyUnix да причем таких, которые могут быть некем не прочитаны :-)
+
+=begin DESCRIPTION
+
+@AnatolyUnix да причем таких, которые могут быть некем не прочитаны :-) - L<link|http://twitter.com/zagru/statuses/1833982095>
+
+
+
+=end DESCRIPTION
+
+@AnatolyUnix да причем таких, которые могут быть некем не прочитаны :-) - L<link|http://twitter.com/zagru/statuses/1833982095>
+
+
+
+=begin comment :src
+{
+  "body": "@<a rel=\"nofollow\" href=\"http://twitter.com/AnatolyUnix\">AnatolyUnix</a> да причем таких, которые могут быть некем не прочитаны :-)",
+  "rawLink": "http://twitter.com/zagru/statuses/1833982095",
+  "id": "e/c9413ceda40fed3b60f70a941dc3201d",
+  "rawBody": "@AnatolyUnix да причем таких, которые могут быть некем не прочитаны :-)",
+  "date": "2009-05-18T08:10:35Z",
+  "url": "http://friendfeed.com/zag/c9413ced/anatolyunix",
+  "via": {
+    "url": "http://twitter.com/zagru/statuses/1833982095",
+    "name": "Twitter"
+  },
+  "from": {
+    "id": "zag",
+    "type": "user",
+    "name": "углы «Исимуры»"
+  }
+}
+=end comment
+
+=end pod

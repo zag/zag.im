@@ -1,0 +1,55 @@
+=begin pod :pubdate('2010-04-22T08:59:51Z') :type<note> 
+=NAME Government requests directed to Google and YouTube
+
+=begin DESCRIPTION
+
+Government requests directed to Google and YouTube - L<link|http://www.google.com/governmentrequests/#>
+
+=item Brazil on top
+
+
+=end DESCRIPTION
+
+Government requests directed to Google and YouTube - L<link|http://www.google.com/governmentrequests/#>
+
+=item Brazil on top
+
+
+=begin comment :src
+{
+  "body": "Government requests directed to Google and YouTube - <a rel=\"nofollow\" href=\"http://www.google.com/governmentrequests/#\" title=\"http://www.google.com/governmentrequests/#\">http://www.google.com/governm...</a>",
+  "rawLink": "http://www.google.com/governmentrequests/#",
+  "date": "2010-04-22T08:59:51Z",
+  "id": "e/95113db3507d449eb56bac4e4d2d9fc3",
+  "rawBody": "Government requests directed to Google and YouTube",
+  "url": "http://friendfeed.com/zag/95113db3/government-requests-directed-to-google-and",
+  "comments": [
+    {
+      "body": "Brazil on top",
+      "via": {
+        "url": "http://friendfeed.com/share/bookmarklet",
+        "name": "Bookmarklet"
+      },
+      "id": "e/95113db3507d449eb56bac4e4d2d9fc3/c/7f1747e56ac14b5b822a5c8f7d817459",
+      "date": "2010-04-22T08:59:51Z",
+      "rawBody": "Brazil on top",
+      "from": {
+        "name": "углы «Исимуры»",
+        "type": "user",
+        "id": "zag"
+      }
+    }
+  ],
+  "from": {
+    "name": "углы «Исимуры»",
+    "id": "zag",
+    "type": "user"
+  },
+  "via": {
+    "url": "http://friendfeed.com/share/bookmarklet",
+    "name": "Bookmarklet"
+  }
+}
+=end comment
+
+=end pod

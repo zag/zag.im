@@ -1,0 +1,76 @@
+=begin pod :pubdate('2010-12-09T05:51:26Z') :type<note> 
+=NAME Batman owned
+
+=begin DESCRIPTION
+
+Batman owned
+=for Image :width(248) :link('http://www.blameitonthevoices.com/2010/12/batman-owned.html') :height(175) :preview
+media/e5d1c85fc5214f2a3b1f1d314f03013a3cd74867.jpg
+
+
+
+=end DESCRIPTION
+
+Batman owned
+=for Image :width(248) :link('http://www.blameitonthevoices.com/2010/12/batman-owned.html') :height(175) :preview
+media/e5d1c85fc5214f2a3b1f1d314f03013a3cd74867.jpg
+
+
+
+=begin comment :src
+{
+  "from": {
+    "type": "user",
+    "id": "zag",
+    "name": "углы «Исимуры»"
+  },
+  "thumbnails": [
+    {
+      "url": "http://m.friendfeed-media.com/e5d1c85fc5214f2a3b1f1d314f03013a3cd74867",
+      "width": 248,
+      "height": 175,
+      "link": "http://www.blameitonthevoices.com/2010/12/batman-owned.html"
+    }
+  ],
+  "id": "e/a1bada8431b144b7a3317a916dd470dc",
+  "date": "2010-12-09T05:51:26Z",
+  "rawBody": "Batman owned",
+  "url": "http://friendfeed.com/funny-pics-videos/a1bada84/batman-owned",
+  "body": "Batman owned",
+  "likes": [
+    {
+      "from": {
+        "name": "nganguem victor",
+        "private": true,
+        "id": "nganguemvictor",
+        "type": "user"
+      },
+      "date": "2010-12-09T09:20:21Z"
+    },
+    {
+      "date": "2010-12-09T06:09:57Z",
+      "from": {
+        "id": "195cm",
+        "type": "user",
+        "private": true,
+        "name": "MAJID195CM"
+      }
+    }
+  ],
+  "rawLink": "http://friendfeed.com/e/a1bada84-31b1-44b7-a331-7a916dd470dc",
+  "to": [
+    {
+      "name": "углы's feed",
+      "id": "zag",
+      "type": "user"
+    },
+    {
+      "id": "funny-pics-videos",
+      "type": "group",
+      "name": "Funny Pics and Videos"
+    }
+  ]
+}
+=end comment
+
+=end pod

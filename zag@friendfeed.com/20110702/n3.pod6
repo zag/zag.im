@@ -1,0 +1,48 @@
+=begin pod :pubdate('2011-07-02T18:43:12Z') :type<note> :tags<lvee>
+=NAME круглый стол по gui. kde, e16, e17, unity, gnome2, gnome3, xfce #lvee
+
+=begin DESCRIPTION
+
+круглый стол по gui. kde, e16, e17, unity, gnome2, gnome3, xfce #lvee
+=for Image :width(292) :link('http://m.friendfeed-media.com/420efa444f20d58c8a52e5368fcef6d4d2faf90c') :height(175) :preview
+media/14812fcfcc29de0487dc2abf5bcf6c2a973c4530.jpg
+
+
+
+=end DESCRIPTION
+
+круглый стол по gui. kde, e16, e17, unity, gnome2, gnome3, xfce #lvee
+=for Image :width(292) :link('http://m.friendfeed-media.com/420efa444f20d58c8a52e5368fcef6d4d2faf90c') :height(175) :preview
+media/14812fcfcc29de0487dc2abf5bcf6c2a973c4530.jpg
+
+
+
+=begin comment :src
+{
+  "rawLink": "http://friendfeed.com/e/f0a9a8f2-b45c-43e5-86f4-3d4749093e90",
+  "body": "круглый стол по gui. kde, e16, e17, unity, gnome2, gnome3, xfce <a href=\"http://friendfeed.com/search?q=%23lvee\">#lvee</a>",
+  "id": "e/f0a9a8f2b45c43e586f43d4749093e90",
+  "rawBody": "круглый стол по gui. kde, e16, e17, unity, gnome2, gnome3, xfce #lvee",
+  "date": "2011-07-02T18:43:12Z",
+  "url": "http://friendfeed.com/zag/f0a9a8f2/gui-kde-e16-e17-unity-gnome2-gnome3-xfce-lvee",
+  "thumbnails": [
+    {
+      "link": "http://m.friendfeed-media.com/420efa444f20d58c8a52e5368fcef6d4d2faf90c",
+      "height": 175,
+      "url": "http://m.friendfeed-media.com/14812fcfcc29de0487dc2abf5bcf6c2a973c4530",
+      "width": 292
+    }
+  ],
+  "from": {
+    "name": "углы «Исимуры»",
+    "type": "user",
+    "id": "zag"
+  },
+  "via": {
+    "name": "email",
+    "url": "http://friendfeed.com/share/mail"
+  }
+}
+=end comment
+
+=end pod

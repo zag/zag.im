@@ -1,0 +1,36 @@
+=begin pod :pubdate('2011-11-25T06:32:02Z') :type<note> 
+=NAME dom.js: an implementation of the browser DOM in JavaScript. http://t.co/PcYs1mnv
+
+=begin DESCRIPTION
+
+dom.js: an implementation of the browser DOM in JavaScript. http://t.co/PcYs1mnv - L<link|http://twitter.com/zagru/statuses/139954477636653057>
+
+
+
+=end DESCRIPTION
+
+dom.js: an implementation of the browser DOM in JavaScript. http://t.co/PcYs1mnv - L<link|http://twitter.com/zagru/statuses/139954477636653057>
+
+
+
+=begin comment :src
+{
+  "id": "e/330c289960027620c11765e48b44458a",
+  "date": "2011-11-25T06:32:02Z",
+  "rawBody": "dom.js: an implementation of the browser DOM in JavaScript. http://t.co/PcYs1mnv",
+  "url": "http://friendfeed.com/zag/330c2899/dom-js-implementation-of-browser-in-javascript",
+  "rawLink": "http://twitter.com/zagru/statuses/139954477636653057",
+  "body": "dom.js: an implementation of the browser DOM in JavaScript. <a rel=\"nofollow\" href=\"http://t.co/PcYs1mnv\">http://t.co/PcYs1mnv</a>",
+  "via": {
+    "url": "http://twitter.com/zagru/statuses/139954477636653057",
+    "name": "Twitter"
+  },
+  "from": {
+    "name": "углы «Исимуры»",
+    "type": "user",
+    "id": "zag"
+  }
+}
+=end comment
+
+=end pod

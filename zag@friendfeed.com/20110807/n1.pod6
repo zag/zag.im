@@ -1,0 +1,55 @@
+=begin pod :pubdate('2011-08-07T19:47:27Z') :type<note> 
+=NAME "Can I run Debian GNU/kFreeBSD in a chroot under FreeBSD?"
+
+=begin DESCRIPTION
+
+"Can I run Debian GNU/kFreeBSD in a chroot under FreeBSD?" - L<link|http://wiki.debian.org/Debian_GNU/kFreeBSD_FAQ#Q._Can_I_run_Debian_GNU.2BAC8-kFreeBSD_in_a_chroot_under_FreeBSD.3F>
+
+=item A. Yes, you will need:
+
+
+=end DESCRIPTION
+
+"Can I run Debian GNU/kFreeBSD in a chroot under FreeBSD?" - L<link|http://wiki.debian.org/Debian_GNU/kFreeBSD_FAQ#Q._Can_I_run_Debian_GNU.2BAC8-kFreeBSD_in_a_chroot_under_FreeBSD.3F>
+
+=item A. Yes, you will need:
+
+
+=begin comment :src
+{
+  "id": "e/5937b31359e04e0abb4a5175cd64b529",
+  "rawBody": "\"Can I run Debian GNU/kFreeBSD in a chroot under FreeBSD?\"",
+  "date": "2011-08-07T19:47:27Z",
+  "url": "http://friendfeed.com/zag/5937b313/can-i-run-debian-gnu-kfreebsd-in-chroot-under",
+  "body": "&quot;Can I run Debian GNU/kFreeBSD in a chroot under FreeBSD?&quot; - <a rel=\"nofollow\" href=\"http://wiki.debian.org/Debian_GNU/kFreeBSD_FAQ#Q._Can_I_run_Debian_GNU.2BAC8-kFreeBSD_in_a_chroot_under_FreeBSD.3F\" title=\"http://wiki.debian.org/Debian_GNU/kFreeBSD_FAQ#Q._Can_I_run_Debian_GNU.2BAC8-kFreeBSD_in_a_chroot_under_FreeBSD.3F\">http://wiki.debian.org/Debian_...</a>",
+  "rawLink": "http://wiki.debian.org/Debian_GNU/kFreeBSD_FAQ#Q._Can_I_run_Debian_GNU.2BAC8-kFreeBSD_in_a_chroot_under_FreeBSD.3F",
+  "from": {
+    "type": "user",
+    "id": "zag",
+    "name": "углы «Исимуры»"
+  },
+  "via": {
+    "name": "Bookmarklet",
+    "url": "http://friendfeed.com/share/bookmarklet"
+  },
+  "comments": [
+    {
+      "body": "A. Yes, you will need:",
+      "via": {
+        "name": "Bookmarklet",
+        "url": "http://friendfeed.com/share/bookmarklet"
+      },
+      "from": {
+        "name": "углы «Исимуры»",
+        "type": "user",
+        "id": "zag"
+      },
+      "id": "e/5937b31359e04e0abb4a5175cd64b529/c/ba05c937b0f54b4b8c5edb735801cf8c",
+      "date": "2011-08-07T19:47:27Z",
+      "rawBody": "A. Yes, you will need:"
+    }
+  ]
+}
+=end comment
+
+=end pod

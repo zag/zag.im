@@ -1,0 +1,36 @@
+=begin pod :pubdate('2009-12-21T09:30:34Z') :type<note> :tags<parrot rakudo perl6 freebsd>
+=NAME New FreeBSD ports of perl6 ( #parrot 1.9.0 and #rakudo "Seoul" ) available at http://rakudoport.sourceforge.net/ #perl6 #freebsd
+
+=begin DESCRIPTION
+
+New FreeBSD ports of perl6 ( #parrot 1.9.0 and #rakudo "Seoul" ) available at http://rakudoport.sourceforge.net/ #perl6 #freebsd - L<link|http://twitter.com/zagru/statuses/6888935400>
+
+
+
+=end DESCRIPTION
+
+New FreeBSD ports of perl6 ( #parrot 1.9.0 and #rakudo "Seoul" ) available at http://rakudoport.sourceforge.net/ #perl6 #freebsd - L<link|http://twitter.com/zagru/statuses/6888935400>
+
+
+
+=begin comment :src
+{
+  "body": "New FreeBSD ports of perl6 ( <a rel=\"nofollow\" href=\"http://search.twitter.com/search?q=%23parrot\">#parrot</a> 1.9.0 and <a rel=\"nofollow\" href=\"http://search.twitter.com/search?q=%23rakudo\">#rakudo</a> &quot;Seoul&quot; ) available at <a rel=\"nofollow\" href=\"http://rakudoport.sourceforge.net/\" title=\"http://rakudoport.sourceforge.net/\">http://rakudoport.sourceforge.net/</a> <a rel=\"nofollow\" href=\"http://search.twitter.com/search?q=%23perl6\">#perl6</a> <a rel=\"nofollow\" href=\"http://search.twitter.com/search?q=%23freebsd\">#freebsd</a>",
+  "rawLink": "http://twitter.com/zagru/statuses/6888935400",
+  "id": "e/7f2c6524602dc363fb5a66251dd10b0f",
+  "date": "2009-12-21T09:30:34Z",
+  "rawBody": "New FreeBSD ports of perl6 ( #parrot 1.9.0 and #rakudo \"Seoul\" ) available at http://rakudoport.sourceforge.net/ #perl6 #freebsd",
+  "url": "http://friendfeed.com/zag/7f2c6524/new-freebsd-ports-of-perl6-parrot-1-9-0-and-rakudo",
+  "from": {
+    "type": "user",
+    "id": "zag",
+    "name": "углы «Исимуры»"
+  },
+  "via": {
+    "name": "Twitter",
+    "url": "http://twitter.com/zagru/statuses/6888935400"
+  }
+}
+=end comment
+
+=end pod

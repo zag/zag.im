@@ -1,0 +1,36 @@
+=begin pod :pubdate('2010-12-10T17:56:02Z') :type<note> 
+=NAME Ввод цифры в Desire Z производится, как выяснилось, из любого языка через fn.Чехол спасает от возможного раскрытия слайдера.
+
+=begin DESCRIPTION
+
+Ввод цифры в Desire Z производится, как выяснилось, из любого языка через fn.Чехол спасает от возможного раскрытия слайдера. - L<link|http://twitter.com/zagru/statuses/13290859663462400>
+
+
+
+=end DESCRIPTION
+
+Ввод цифры в Desire Z производится, как выяснилось, из любого языка через fn.Чехол спасает от возможного раскрытия слайдера. - L<link|http://twitter.com/zagru/statuses/13290859663462400>
+
+
+
+=begin comment :src
+{
+  "body": "Ввод цифры в Desire Z производится, как выяснилось, из любого языка через fn.Чехол спасает от возможного раскрытия слайдера.",
+  "rawLink": "http://twitter.com/zagru/statuses/13290859663462400",
+  "id": "e/7141a8fd6d9540b7eb9b4093ec4e39bf",
+  "url": "http://friendfeed.com/zag/7141a8fd/desire-z-fn",
+  "date": "2010-12-10T17:56:02Z",
+  "rawBody": "Ввод цифры в Desire Z производится, как выяснилось, из любого языка через fn.Чехол спасает от возможного раскрытия слайдера.",
+  "from": {
+    "name": "углы «Исимуры»",
+    "id": "zag",
+    "type": "user"
+  },
+  "via": {
+    "url": "http://twitter.com/zagru/statuses/13290859663462400",
+    "name": "Twitter"
+  }
+}
+=end comment
+
+=end pod

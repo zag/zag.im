@@ -1,0 +1,74 @@
+=begin pod :pubdate('2011-02-08T20:18:09Z') :type<note> 
+=NAME RT @newsycombinator: Clojure on Google App Engine http://j.mp/gomazE
+
+=begin DESCRIPTION
+
+RT @newsycombinator: Clojure on Google App Engine http://j.mp/gomazE - L<link|http://twitter.com/zagru/statuses/35069894525591552>
+
+=item я кстати попробовал Clojure на appengine. очень всё просто, понравилось.
+=item спасибо за отзыв ! Я внезапно только сейчас, открыл для себя обходной путь к appengine: мимо java и python :-)
+
+
+=end DESCRIPTION
+
+RT @newsycombinator: Clojure on Google App Engine http://j.mp/gomazE - L<link|http://twitter.com/zagru/statuses/35069894525591552>
+
+=item я кстати попробовал Clojure на appengine. очень всё просто, понравилось.
+=item спасибо за отзыв ! Я внезапно только сейчас, открыл для себя обходной путь к appengine: мимо java и python :-)
+
+
+=begin comment :src
+{
+  "body": "RT @<a rel=\"nofollow\" href=\"http://twitter.com/newsycombinator\">newsycombinator</a>: Clojure on Google App Engine <a rel=\"nofollow\" href=\"http://j.mp/gomazE\" title=\"https://github.com/gcv/appengine-magic\">https://github.com/gcv...</a>",
+  "likes": [
+    {
+      "from": {
+        "type": "user",
+        "id": "armiol",
+        "name": "Alexei Tymchenko"
+      },
+      "date": "2011-02-08T21:07:01Z"
+    }
+  ],
+  "rawLink": "http://twitter.com/zagru/statuses/35069894525591552",
+  "date": "2011-02-08T20:18:09Z",
+  "id": "e/931a43fee4619cb395bfc8f2ad85f8fd",
+  "url": "http://friendfeed.com/zag/931a43fe/rt-newsycombinator-clojure-on-google-app",
+  "rawBody": "RT @newsycombinator: Clojure on Google App Engine http://j.mp/gomazE",
+  "comments": [
+    {
+      "body": "я кстати попробовал Clojure на appengine. очень всё просто, понравилось.",
+      "from": {
+        "type": "user",
+        "id": "kkapp",
+        "name": "alex@kapranoff.ru"
+      },
+      "rawBody": "я кстати попробовал Clojure на appengine. очень всё просто, понравилось.",
+      "id": "e/931a43fee4619cb395bfc8f2ad85f8fd/c/a14514ad6604422a8321d053e30b1683",
+      "date": "2011-02-08T20:43:28Z"
+    },
+    {
+      "rawBody": "спасибо за отзыв ! Я внезапно только сейчас, открыл для себя обходной путь к appengine: мимо java и python :-)",
+      "from": {
+        "name": "углы «Исимуры»",
+        "type": "user",
+        "id": "zag"
+      },
+      "id": "e/931a43fee4619cb395bfc8f2ad85f8fd/c/0d6e803af7484941a3f9c0e254b5d3cd",
+      "date": "2011-02-08T20:52:43Z",
+      "body": "спасибо за отзыв ! Я внезапно только сейчас, открыл для себя обходной путь к appengine: мимо java и python :-)"
+    }
+  ],
+  "via": {
+    "url": "http://twitter.com/zagru/statuses/35069894525591552",
+    "name": "Twitter"
+  },
+  "from": {
+    "name": "углы «Исимуры»",
+    "id": "zag",
+    "type": "user"
+  }
+}
+=end comment
+
+=end pod

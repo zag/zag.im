@@ -1,0 +1,36 @@
+=begin pod :pubdate('2009-05-18T11:52:11Z') :type<note> 
+=NAME twiiter - best office killer ... some time
+
+=begin DESCRIPTION
+
+twiiter - best office killer ... some time - L<link|http://twitter.com/zagru/statuses/1835005106>
+
+
+
+=end DESCRIPTION
+
+twiiter - best office killer ... some time - L<link|http://twitter.com/zagru/statuses/1835005106>
+
+
+
+=begin comment :src
+{
+  "url": "http://friendfeed.com/zag/ee05cf8b/twiiter-best-office-killer-some-time",
+  "id": "e/ee05cf8b724c2812a784c8a533918748",
+  "date": "2009-05-18T11:52:11Z",
+  "rawBody": "twiiter - best office killer ... some time",
+  "rawLink": "http://twitter.com/zagru/statuses/1835005106",
+  "body": "twiiter - best office killer ... some time",
+  "from": {
+    "type": "user",
+    "id": "zag",
+    "name": "углы «Исимуры»"
+  },
+  "via": {
+    "name": "Twitter",
+    "url": "http://twitter.com/zagru/statuses/1835005106"
+  }
+}
+=end comment
+
+=end pod

@@ -1,0 +1,131 @@
+=begin pod :pubdate('2010-06-02T13:39:01Z') :type<note> 
+=NAME Новая Газета | № 58 от 2 июня 2010 г. | Кому давать деньги на кино. Статистика социальной сети Имхонет (www.imhonet.ru) по кино
+
+=begin DESCRIPTION
+
+Новая Газета | № 58 от 2 июня 2010 г. | Кому давать деньги на кино. Статистика социальной сети Имхонет (www.imhonet.ru) по кино - L<link|http://www.novayagazeta.ru/data/2010/058/22.html>
+=for Image :width(357) :link('http://www.novayagazeta.ru/data/2010/058/22.html') :height(175) :preview
+media/77bbbc1677b030424a368925a2ca26f262e91278.jpg
+=for Image :width(263) :link('http://www.novayagazeta.ru/data/2010/058/22.html') :height(175) :preview
+media/a5b48caad82c0a15f190bbc730bddb3345edec51.jpg
+=for Image :width(240) :link('http://www.novayagazeta.ru/data/2010/058/22.html') :height(175) :preview
+media/830a4cb2604f58ce3159eadf607a827914002712.jpg
+
+=item 1."Соотношение низких, средних, высоких и очень высоких оценок отечественного кино за последние шесть десятилетий"
+=item 2."Изменение средней оценки российских фильмов по годам"
+=item 3."Распределение оценок российских и западных фильмов за 2009 г."
+
+
+=end DESCRIPTION
+
+Новая Газета | № 58 от 2 июня 2010 г. | Кому давать деньги на кино. Статистика социальной сети Имхонет (www.imhonet.ru) по кино - L<link|http://www.novayagazeta.ru/data/2010/058/22.html>
+=for Image :width(357) :link('http://www.novayagazeta.ru/data/2010/058/22.html') :height(175) :preview
+media/77bbbc1677b030424a368925a2ca26f262e91278.jpg
+=for Image :width(263) :link('http://www.novayagazeta.ru/data/2010/058/22.html') :height(175) :preview
+media/a5b48caad82c0a15f190bbc730bddb3345edec51.jpg
+=for Image :width(240) :link('http://www.novayagazeta.ru/data/2010/058/22.html') :height(175) :preview
+media/830a4cb2604f58ce3159eadf607a827914002712.jpg
+
+=item 1."Соотношение низких, средних, высоких и очень высоких оценок отечественного кино за последние шесть десятилетий"
+=item 2."Изменение средней оценки российских фильмов по годам"
+=item 3."Распределение оценок российских и западных фильмов за 2009 г."
+
+
+=begin comment :src
+{
+  "id": "e/c2aadde364e84d28862f0b2271febe5a",
+  "rawBody": "Новая Газета | № 58 от 2 июня 2010 г. | Кому давать деньги на кино. Статистика социальной сети Имхонет (www.imhonet.ru) по кино",
+  "date": "2010-06-02T13:39:01Z",
+  "thumbnails": [
+    {
+      "link": "http://www.novayagazeta.ru/data/2010/058/22.html",
+      "height": 175,
+      "url": "http://m.friendfeed-media.com/77bbbc1677b030424a368925a2ca26f262e91278",
+      "width": 357
+    },
+    {
+      "height": 175,
+      "link": "http://www.novayagazeta.ru/data/2010/058/22.html",
+      "width": 263,
+      "url": "http://m.friendfeed-media.com/a5b48caad82c0a15f190bbc730bddb3345edec51"
+    },
+    {
+      "link": "http://www.novayagazeta.ru/data/2010/058/22.html",
+      "height": 175,
+      "url": "http://m.friendfeed-media.com/830a4cb2604f58ce3159eadf607a827914002712",
+      "width": 240
+    }
+  ],
+  "url": "http://friendfeed.com/zag/c2aadde3/no-58-2-2010-imhonet-ru",
+  "rawLink": "http://www.novayagazeta.ru/data/2010/058/22.html",
+  "likes": [
+    {
+      "from": {
+        "name": "Dmitry Sergeev",
+        "type": "user",
+        "id": "ankheg"
+      },
+      "date": "2010-06-17T16:26:12Z"
+    },
+    {
+      "date": "2010-06-02T13:55:28Z",
+      "from": {
+        "name": "make some noise",
+        "id": "alterego",
+        "type": "user"
+      }
+    }
+  ],
+  "body": "Новая Газета | № 58 от 2 июня 2010 г. | Кому давать деньги на кино. Статистика социальной сети Имхонет (www.imhonet.ru) по кино - <a rel=\"nofollow\" href=\"http://www.novayagazeta.ru/data/2010/058/22.html\" title=\"http://www.novayagazeta.ru/data/2010/058/22.html\">http://www.novayagazeta.ru/data...</a>",
+  "from": {
+    "name": "углы «Исимуры»",
+    "id": "zag",
+    "type": "user"
+  },
+  "via": {
+    "name": "Bookmarklet",
+    "url": "http://friendfeed.com/share/bookmarklet"
+  },
+  "comments": [
+    {
+      "body": "1.&quot;Соотношение низких, средних, высоких и очень высоких оценок отечественного кино за последние шесть десятилетий&quot;",
+      "via": {
+        "url": "http://friendfeed.com/share/bookmarklet",
+        "name": "Bookmarklet"
+      },
+      "from": {
+        "type": "user",
+        "id": "zag",
+        "name": "углы «Исимуры»"
+      },
+      "id": "e/c2aadde364e84d28862f0b2271febe5a/c/8e307dddda2e44b09b62e77c6b160776",
+      "date": "2010-06-02T13:39:01Z",
+      "rawBody": "1.\"Соотношение низких, средних, высоких и очень высоких оценок отечественного кино за последние шесть десятилетий\""
+    },
+    {
+      "body": "2.&quot;Изменение средней оценки российских фильмов по годам&quot;",
+      "rawBody": "2.\"Изменение средней оценки российских фильмов по годам\"",
+      "from": {
+        "id": "zag",
+        "type": "user",
+        "name": "углы «Исимуры»"
+      },
+      "id": "e/c2aadde364e84d28862f0b2271febe5a/c/d6567a93f771486c8b872c4bee8adf2b",
+      "date": "2010-06-02T13:39:33Z"
+    },
+    {
+      "body": "3.&quot;Распределение оценок российских и западных фильмов за 2009 г.&quot;",
+      "rawBody": "3.\"Распределение оценок российских и западных фильмов за 2009 г.\"",
+      "id": "e/c2aadde364e84d28862f0b2271febe5a/c/d39001342acf45d6878030437796ed48",
+      "from": {
+        "id": "zag",
+        "type": "user",
+        "name": "углы «Исимуры»"
+      },
+      "date": "2010-06-02T13:39:54Z"
+    }
+  ]
+}
+=end comment
+
+=end pod

@@ -1,0 +1,119 @@
+=begin pod :pubdate('2010-05-12T08:20:35Z') :type<note> 
+=NAME 8 Websites You Need to Stop Building
+
+=begin DESCRIPTION
+
+8 Websites You Need to Stop Building - L<link|http://theoatmeal.com/comics/websites_stop>
+=for Image :width(219) :link('http://theoatmeal.com/comics/websites_stop') :height(175) :preview
+media/b873dd6d94d877485c940d9529e8d3e4f8ee0343.jpg
+=for Image :width(258) :link('http://theoatmeal.com/comics/websites_stop') :height(175) :preview
+media/dcfa82af297442bb93bc1d8a37b3333154f56b7a.jpg
+=for Image :width(100) :link('http://theoatmeal.com/comics/websites_stop') :height(175) :preview
+media/9c50cc3f6c4c4d19bccccbea36e1604cadca3575.jpg
+
+
+
+=end DESCRIPTION
+
+8 Websites You Need to Stop Building - L<link|http://theoatmeal.com/comics/websites_stop>
+=for Image :width(219) :link('http://theoatmeal.com/comics/websites_stop') :height(175) :preview
+media/b873dd6d94d877485c940d9529e8d3e4f8ee0343.jpg
+=for Image :width(258) :link('http://theoatmeal.com/comics/websites_stop') :height(175) :preview
+media/dcfa82af297442bb93bc1d8a37b3333154f56b7a.jpg
+=for Image :width(100) :link('http://theoatmeal.com/comics/websites_stop') :height(175) :preview
+media/9c50cc3f6c4c4d19bccccbea36e1604cadca3575.jpg
+
+
+
+=begin comment :src
+{
+  "via": {
+    "url": "http://friendfeed.com/share/bookmarklet",
+    "name": "Bookmarklet"
+  },
+  "from": {
+    "name": "углы «Исимуры»",
+    "id": "zag",
+    "type": "user"
+  },
+  "id": "e/ca15de88af054bd7958344f533d56436",
+  "date": "2010-05-12T08:20:35Z",
+  "rawBody": "8 Websites You Need to Stop Building",
+  "url": "http://friendfeed.com/zag/ca15de88/8-websites-you-need-to-stop-building",
+  "thumbnails": [
+    {
+      "link": "http://theoatmeal.com/comics/websites_stop",
+      "height": 175,
+      "url": "http://m.friendfeed-media.com/b873dd6d94d877485c940d9529e8d3e4f8ee0343",
+      "width": 219
+    },
+    {
+      "url": "http://m.friendfeed-media.com/dcfa82af297442bb93bc1d8a37b3333154f56b7a",
+      "width": 258,
+      "height": 175,
+      "link": "http://theoatmeal.com/comics/websites_stop"
+    },
+    {
+      "url": "http://m.friendfeed-media.com/9c50cc3f6c4c4d19bccccbea36e1604cadca3575",
+      "width": 100,
+      "height": 175,
+      "link": "http://theoatmeal.com/comics/websites_stop"
+    }
+  ],
+  "body": "8 Websites You Need to Stop Building - <a rel=\"nofollow\" href=\"http://theoatmeal.com/comics/websites_stop\" title=\"http://theoatmeal.com/comics/websites_stop\">http://theoatmeal.com/comics...</a>",
+  "rawLink": "http://theoatmeal.com/comics/websites_stop",
+  "likes": [
+    {
+      "from": {
+        "id": "kuchin",
+        "type": "user",
+        "name": "kuchin"
+      },
+      "date": "2010-05-13T07:20:57Z"
+    },
+    {
+      "date": "2010-05-12T10:02:36Z",
+      "from": {
+        "type": "user",
+        "id": "shigin",
+        "name": "жЫшЫ"
+      }
+    },
+    {
+      "from": {
+        "name": "самый большой взрыв",
+        "type": "user",
+        "id": "evgenyq"
+      },
+      "date": "2010-05-12T08:39:00Z"
+    },
+    {
+      "date": "2010-05-12T08:35:19Z",
+      "from": {
+        "name": "IvIotor",
+        "id": "iviotor",
+        "type": "user",
+        "private": true
+      }
+    },
+    {
+      "date": "2010-05-12T08:33:30Z",
+      "from": {
+        "name": "citrin",
+        "id": "citrin",
+        "type": "user"
+      }
+    },
+    {
+      "date": "2010-05-12T08:33:21Z",
+      "from": {
+        "name": "alex@kapranoff.ru",
+        "id": "kkapp",
+        "type": "user"
+      }
+    }
+  ]
+}
+=end comment
+
+=end pod

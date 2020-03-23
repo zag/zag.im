@@ -1,0 +1,48 @@
+=begin pod :pubdate('2010-02-01T05:05:32Z') :type<note> 
+=NAME 75 лет монополии - юбилей "великой депрессии" - мирового экономического кризиса, в начале прошлого века.
+
+=begin DESCRIPTION
+
+75 лет монополии - юбилей "великой депрессии" - мирового экономического кризиса, в начале прошлого века. - L<link|http://gizmodo.com/5459690/monopoly-boards-are-circular-now-circular>
+=for Image :width(256) :link('http://gizmodo.com/5459690/monopoly-boards-are-circular-now-circular') :height(175) :preview
+media/b4c775300b4203c0c5720ae72f834af8e31586b8.jpg
+
+
+
+=end DESCRIPTION
+
+75 лет монополии - юбилей "великой депрессии" - мирового экономического кризиса, в начале прошлого века. - L<link|http://gizmodo.com/5459690/monopoly-boards-are-circular-now-circular>
+=for Image :width(256) :link('http://gizmodo.com/5459690/monopoly-boards-are-circular-now-circular') :height(175) :preview
+media/b4c775300b4203c0c5720ae72f834af8e31586b8.jpg
+
+
+
+=begin comment :src
+{
+  "from": {
+    "name": "углы «Исимуры»",
+    "id": "zag",
+    "type": "user"
+  },
+  "via": {
+    "name": "Bookmarklet",
+    "url": "http://friendfeed.com/share/bookmarklet"
+  },
+  "body": "75 лет монополии - юбилей &quot;великой депрессии&quot; - мирового экономического кризиса, в начале прошлого века. - <a rel=\"nofollow\" href=\"http://gizmodo.com/5459690/monopoly-boards-are-circular-now-circular\" title=\"http://gizmodo.com/5459690/monopoly-boards-are-circular-now-circular\">http://gizmodo.com/5459690...</a>",
+  "rawLink": "http://gizmodo.com/5459690/monopoly-boards-are-circular-now-circular",
+  "id": "e/ef4b94b9d9ae4f1fbb2623c7c05db584",
+  "date": "2010-02-01T05:05:32Z",
+  "rawBody": "75 лет монополии - юбилей \"великой депрессии\" - мирового экономического кризиса, в начале прошлого века.",
+  "url": "http://friendfeed.com/zag/ef4b94b9/75",
+  "thumbnails": [
+    {
+      "width": 256,
+      "url": "http://m.friendfeed-media.com/b4c775300b4203c0c5720ae72f834af8e31586b8",
+      "height": 175,
+      "link": "http://gizmodo.com/5459690/monopoly-boards-are-circular-now-circular"
+    }
+  ]
+}
+=end comment
+
+=end pod

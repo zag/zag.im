@@ -1,0 +1,36 @@
+=begin pod :pubdate('2010-01-15T08:35:18Z') :type<note> :tags<freebsd>
+=NAME Updating my desktop OS #freebsd from 7.2-STABLE to 8-STABLE
+
+=begin DESCRIPTION
+
+Updating my desktop OS #freebsd from 7.2-STABLE to 8-STABLE - L<link|http://twitter.com/zagru/statuses/7781253343>
+
+
+
+=end DESCRIPTION
+
+Updating my desktop OS #freebsd from 7.2-STABLE to 8-STABLE - L<link|http://twitter.com/zagru/statuses/7781253343>
+
+
+
+=begin comment :src
+{
+  "via": {
+    "name": "Twitter",
+    "url": "http://twitter.com/zagru/statuses/7781253343"
+  },
+  "from": {
+    "type": "user",
+    "id": "zag",
+    "name": "углы «Исимуры»"
+  },
+  "id": "e/c5844079c70eaf3ca352ed4929489a8a",
+  "rawBody": "Updating my desktop OS #freebsd from 7.2-STABLE to 8-STABLE",
+  "date": "2010-01-15T08:35:18Z",
+  "url": "http://friendfeed.com/zag/c5844079/updating-my-desktop-os-freebsd-from-7-2-stable-to",
+  "rawLink": "http://twitter.com/zagru/statuses/7781253343",
+  "body": "Updating my desktop OS <a rel=\"nofollow\" href=\"http://search.twitter.com/search?q=%23freebsd\">#freebsd</a> from 7.2-STABLE to 8-STABLE"
+}
+=end comment
+
+=end pod

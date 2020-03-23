@@ -1,0 +1,77 @@
+=begin pod :pubdate('2011-04-09T07:03:57Z') :type<note> 
+=NAME Блог santyaho91 - Чудеса инженерной мысли, До чего дошел прогресс!
+
+=begin DESCRIPTION
+
+Блог santyaho91 - Чудеса инженерной мысли, До чего дошел прогресс! - L<link|http://santyaho91.livejournal.com/1367679.html#>
+=for Image :width(254) :link('http://santyaho91.livejournal.com/1367679.html#') :height(175) :preview
+media/775bd0bbd22539235d023dcea9c42c596f3806b6.jpg
+=for Image :width(254) :link('http://santyaho91.livejournal.com/1367679.html#') :height(175) :preview
+media/7d315311720daf7e569d9bcee9f9890ee6bef0dc.jpg
+
+=item "Суть сабжа: флешка на 128 Мб, инфа пишется на нее по кругу. Как это сделанно, не понятно. Но при записи большого файла, весь он "влезает" на нее, а при чтении файла, видны только последнии 128 Мб информации, хотя объем файла отображется правильно, как у оригинала."
+
+
+=end DESCRIPTION
+
+Блог santyaho91 - Чудеса инженерной мысли, До чего дошел прогресс! - L<link|http://santyaho91.livejournal.com/1367679.html#>
+=for Image :width(254) :link('http://santyaho91.livejournal.com/1367679.html#') :height(175) :preview
+media/775bd0bbd22539235d023dcea9c42c596f3806b6.jpg
+=for Image :width(254) :link('http://santyaho91.livejournal.com/1367679.html#') :height(175) :preview
+media/7d315311720daf7e569d9bcee9f9890ee6bef0dc.jpg
+
+=item "Суть сабжа: флешка на 128 Мб, инфа пишется на нее по кругу. Как это сделанно, не понятно. Но при записи большого файла, весь он "влезает" на нее, а при чтении файла, видны только последнии 128 Мб информации, хотя объем файла отображется правильно, как у оригинала."
+
+
+=begin comment :src
+{
+  "comments": [
+    {
+      "body": "&quot;Суть сабжа: флешка на 128 Мб, инфа пишется на нее по кругу. Как это сделанно, не понятно. Но при записи большого файла, весь он &quot;влезает&quot; на нее, а при чтении файла, видны только последнии 128 Мб информации, хотя объем файла отображется правильно, как у оригинала.&quot;",
+      "via": {
+        "name": "Bookmarklet",
+        "url": "http://friendfeed.com/share/bookmarklet"
+      },
+      "rawBody": "\"Суть сабжа: флешка на 128 Мб, инфа пишется на нее по кругу. Как это сделанно, не понятно. Но при записи большого файла, весь он \"влезает\" на нее, а при чтении файла, видны только последнии 128 Мб информации, хотя объем файла отображется правильно, как у оригинала.\"",
+      "id": "e/81e753cc5cd64f42b56feacc2b6af0e1/c/12be9f1574054a75982295ee275906b7",
+      "date": "2011-04-09T07:03:57Z",
+      "from": {
+        "id": "zag",
+        "type": "user",
+        "name": "углы «Исимуры»"
+      }
+    }
+  ],
+  "from": {
+    "name": "углы «Исимуры»",
+    "type": "user",
+    "id": "zag"
+  },
+  "via": {
+    "name": "Bookmarklet",
+    "url": "http://friendfeed.com/share/bookmarklet"
+  },
+  "rawLink": "http://santyaho91.livejournal.com/1367679.html#",
+  "body": "Блог santyaho91 - Чудеса инженерной мысли, До чего дошел прогресс! - <a rel=\"nofollow\" href=\"http://santyaho91.livejournal.com/1367679.html#\" title=\"http://santyaho91.livejournal.com/1367679.html#\">http://santyaho91.livejournal.com/1367679...</a>",
+  "id": "e/81e753cc5cd64f42b56feacc2b6af0e1",
+  "date": "2011-04-09T07:03:57Z",
+  "rawBody": "Блог santyaho91 - Чудеса инженерной мысли, До чего дошел прогресс!",
+  "url": "http://friendfeed.com/zag/81e753cc/santyaho91",
+  "thumbnails": [
+    {
+      "height": 175,
+      "link": "http://santyaho91.livejournal.com/1367679.html#",
+      "url": "http://m.friendfeed-media.com/775bd0bbd22539235d023dcea9c42c596f3806b6",
+      "width": 254
+    },
+    {
+      "width": 254,
+      "url": "http://m.friendfeed-media.com/7d315311720daf7e569d9bcee9f9890ee6bef0dc",
+      "link": "http://santyaho91.livejournal.com/1367679.html#",
+      "height": 175
+    }
+  ]
+}
+=end comment
+
+=end pod

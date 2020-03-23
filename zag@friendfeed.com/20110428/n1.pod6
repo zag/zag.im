@@ -1,0 +1,32 @@
+=begin pod :pubdate('2011-04-28T19:12:05Z') :type<note> :tags<perl6 FreeBSD>
+=NAME Update lang/rakudo to 2011.04 release of Rakudo * #perl6 #FreeBSD (PR:http://www.freebsd.org/cgi/query-pr.cgi?pr=156698)
+
+=begin DESCRIPTION
+
+Update lang/rakudo to 2011.04 release of Rakudo * #perl6 #FreeBSD (PR:http://www.freebsd.org/cgi/query-pr.cgi?pr=156698)
+
+
+
+=end DESCRIPTION
+
+Update lang/rakudo to 2011.04 release of Rakudo * #perl6 #FreeBSD (PR:http://www.freebsd.org/cgi/query-pr.cgi?pr=156698)
+
+
+
+=begin comment :src
+{
+  "id": "e/f9a0af8a77a04a22a483d7e449dcaee8",
+  "date": "2011-04-28T19:12:05Z",
+  "url": "http://friendfeed.com/zag/f9a0af8a/update-lang-rakudo-to-2011-04-release-of-perl6",
+  "rawBody": "Update lang/rakudo to 2011.04 release of Rakudo * #perl6 #FreeBSD (PR:http://www.freebsd.org/cgi/query-pr.cgi?pr=156698)",
+  "from": {
+    "id": "zag",
+    "type": "user",
+    "name": "углы «Исимуры»"
+  },
+  "body": "Update lang/rakudo to 2011.04 release of Rakudo * <a href=\"http://friendfeed.com/search?q=%23perl6\">#perl6</a> <a href=\"http://friendfeed.com/search?q=%23FreeBSD\">#FreeBSD</a> (PR:<a rel=\"nofollow\" href=\"http://www.freebsd.org/cgi/query-pr.cgi?pr=156698\" title=\"http://www.freebsd.org/cgi/query-pr.cgi?pr=156698\">http://www.freebsd.org/cgi...</a>)",
+  "rawLink": "http://friendfeed.com/e/f9a0af8a-77a0-4a22-a483-d7e449dcaee8"
+}
+=end comment
+
+=end pod

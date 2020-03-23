@@ -1,0 +1,36 @@
+=begin pod :pubdate('2009-05-27T06:59:42Z') :type<note> 
+=NAME RT: @linux_org_ru: lor nginx-0.7.59: nginx now have support for Windows ?!http://tinyurl.com/ocnn5d
+
+=begin DESCRIPTION
+
+RT: @linux_org_ru: lor nginx-0.7.59: nginx now have support for Windows ?!http://tinyurl.com/ocnn5d - L<link|http://twitter.com/zagru/statuses/1933457221>
+
+
+
+=end DESCRIPTION
+
+RT: @linux_org_ru: lor nginx-0.7.59: nginx now have support for Windows ?!http://tinyurl.com/ocnn5d - L<link|http://twitter.com/zagru/statuses/1933457221>
+
+
+
+=begin comment :src
+{
+  "rawLink": "http://twitter.com/zagru/statuses/1933457221",
+  "body": "RT: @<a rel=\"nofollow\" href=\"http://twitter.com/linux_org_ru\">linux_org_ru</a>: lor nginx-0.7.59: nginx now have support for Windows ?!<a rel=\"nofollow\" href=\"http://tinyurl.com/ocnn5d\" title=\"http://www.linux.org.ru/view-message.jsp?msgid=3736000\">http://www.linux.org.ru/view-me...</a>",
+  "url": "http://friendfeed.com/zag/cf17d0a6/rt-linux_org_ru-lor-nginx-0-7-59-now-have-support",
+  "id": "e/cf17d0a62f3910b4c6848dfb29a668f6",
+  "date": "2009-05-27T06:59:42Z",
+  "rawBody": "RT: @linux_org_ru: lor nginx-0.7.59: nginx now have support for Windows ?!http://tinyurl.com/ocnn5d",
+  "via": {
+    "name": "Twitter",
+    "url": "http://twitter.com/zagru/statuses/1933457221"
+  },
+  "from": {
+    "name": "углы «Исимуры»",
+    "id": "zag",
+    "type": "user"
+  }
+}
+=end comment
+
+=end pod

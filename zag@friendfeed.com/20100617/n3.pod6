@@ -1,0 +1,56 @@
+=begin pod :pubdate('2010-06-17T07:48:33Z') :type<note> :tags<lvee>
+=NAME Прошелся по списку докладов конференции #lvee. С точки зрения расширения кругозора, некоторые просто "бриллиантовые".  Мне, например, очень интересно узнать про  разработку приставок цифрового телевидения.  http://lvee.org/ru/reports/program
+
+=begin DESCRIPTION
+
+Прошелся по списку докладов конференции #lvee. С точки зрения расширения кругозора, некоторые просто "бриллиантовые".  Мне, например, очень интересно узнать про  разработку приставок цифрового телевидения.  http://lvee.org/ru/reports/program
+=for Image :width(242) :link('http://m.friendfeed-media.com/12c7e504ce992a07f8ad5e1b46c2d0f5056f998f') :height(175) :preview
+media/7ce73002c5c6a13a81c8fc4445ee4f4ba2fb3629.jpg
+
+
+
+=end DESCRIPTION
+
+Прошелся по списку докладов конференции #lvee. С точки зрения расширения кругозора, некоторые просто "бриллиантовые".  Мне, например, очень интересно узнать про  разработку приставок цифрового телевидения.  http://lvee.org/ru/reports/program
+=for Image :width(242) :link('http://m.friendfeed-media.com/12c7e504ce992a07f8ad5e1b46c2d0f5056f998f') :height(175) :preview
+media/7ce73002c5c6a13a81c8fc4445ee4f4ba2fb3629.jpg
+
+
+
+=begin comment :src
+{
+  "id": "e/d0fc561cf41048d3bd065cadba296fa3",
+  "date": "2010-06-17T07:48:33Z",
+  "rawBody": "Прошелся по списку докладов конференции #lvee. С точки зрения расширения кругозора, некоторые просто \"бриллиантовые\".  Мне, например, очень интересно узнать про  разработку приставок цифрового телевидения.  http://lvee.org/ru/reports/program",
+  "url": "http://friendfeed.com/lvee/d0fc561c/lvee",
+  "thumbnails": [
+    {
+      "link": "http://m.friendfeed-media.com/12c7e504ce992a07f8ad5e1b46c2d0f5056f998f",
+      "height": 175,
+      "url": "http://m.friendfeed-media.com/7ce73002c5c6a13a81c8fc4445ee4f4ba2fb3629",
+      "width": 242
+    }
+  ],
+  "body": "Прошелся по списку докладов конференции <a href=\"http://friendfeed.com/search?q=%23lvee\">#lvee</a>. С точки зрения расширения кругозора, некоторые просто &quot;бриллиантовые&quot;.  Мне, например, очень интересно узнать про  разработку приставок цифрового телевидения.  <a rel=\"nofollow\" href=\"http://lvee.org/ru/reports/program\" title=\"http://lvee.org/ru/reports/program\">http://lvee.org/ru...</a>",
+  "rawLink": "http://friendfeed.com/e/d0fc561c-f410-48d3-bd06-5cadba296fa3",
+  "to": [
+    {
+      "name": "углы's feed",
+      "id": "zag",
+      "type": "user"
+    },
+    {
+      "type": "group",
+      "id": "lvee",
+      "name": "Lvee"
+    }
+  ],
+  "from": {
+    "name": "углы «Исимуры»",
+    "id": "zag",
+    "type": "user"
+  }
+}
+=end comment
+
+=end pod

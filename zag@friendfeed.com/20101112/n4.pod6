@@ -1,0 +1,48 @@
+=begin pod :pubdate('2010-11-12T05:07:56Z') :type<note> 
+=NAME An interview with James Gosling : The Setup
+
+=begin DESCRIPTION
+
+An interview with James Gosling : The Setup - L<link|http://james.gosling.usesthis.com/>
+=for Image :width(261) :link('http://james.gosling.usesthis.com/') :height(175) :preview
+media/c819880b21117de0f2fbae33257899c82dcae8c5.jpg
+
+
+
+=end DESCRIPTION
+
+An interview with James Gosling : The Setup - L<link|http://james.gosling.usesthis.com/>
+=for Image :width(261) :link('http://james.gosling.usesthis.com/') :height(175) :preview
+media/c819880b21117de0f2fbae33257899c82dcae8c5.jpg
+
+
+
+=begin comment :src
+{
+  "via": {
+    "name": "Bookmarklet",
+    "url": "http://friendfeed.com/share/bookmarklet"
+  },
+  "from": {
+    "type": "user",
+    "id": "zag",
+    "name": "углы «Исимуры»"
+  },
+  "id": "e/78aa01df70854057875bfd9b17a8e37e",
+  "rawBody": "An interview with James Gosling : The Setup",
+  "date": "2010-11-12T05:07:56Z",
+  "thumbnails": [
+    {
+      "link": "http://james.gosling.usesthis.com/",
+      "height": 175,
+      "url": "http://m.friendfeed-media.com/c819880b21117de0f2fbae33257899c82dcae8c5",
+      "width": 261
+    }
+  ],
+  "url": "http://friendfeed.com/zag/78aa01df/interview-with-james-gosling-setup",
+  "body": "An interview with James Gosling : The Setup - <a rel=\"nofollow\" href=\"http://james.gosling.usesthis.com/\" title=\"http://james.gosling.usesthis.com/\">http://james.gosling.usesthis.com/</a>",
+  "rawLink": "http://james.gosling.usesthis.com/"
+}
+=end comment
+
+=end pod

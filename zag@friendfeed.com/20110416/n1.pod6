@@ -1,0 +1,54 @@
+=begin pod :pubdate('2011-04-16T08:57:28Z') :type<note> 
+=NAME Balance
+
+=begin DESCRIPTION
+
+Balance
+=for Image :width(131) :link('http://m.friendfeed-media.com/77ba39eeacd75254793aa1b3efc2c32171f9aafc') :height(175) :preview
+media/e49600131d5b30081818a5154d35b4e5259195bc.jpg
+
+
+
+=end DESCRIPTION
+
+Balance
+=for Image :width(131) :link('http://m.friendfeed-media.com/77ba39eeacd75254793aa1b3efc2c32171f9aafc') :height(175) :preview
+media/e49600131d5b30081818a5154d35b4e5259195bc.jpg
+
+
+
+=begin comment :src
+{
+  "body": "Balance",
+  "rawLink": "http://friendfeed.com/e/1546fec9-4aea-4560-8cd4-ee97d72f8a64",
+  "likes": [
+    {
+      "date": "2011-04-16T10:09:04Z",
+      "from": {
+        "type": "user",
+        "id": "artreal",
+        "name": "50 оттенков кошкости"
+      }
+    }
+  ],
+  "id": "e/1546fec94aea45608cd4ee97d72f8a64",
+  "date": "2011-04-16T08:57:28Z",
+  "url": "http://friendfeed.com/zag/1546fec9/balance",
+  "rawBody": "Balance",
+  "thumbnails": [
+    {
+      "link": "http://m.friendfeed-media.com/77ba39eeacd75254793aa1b3efc2c32171f9aafc",
+      "height": 175,
+      "width": 131,
+      "url": "http://m.friendfeed-media.com/e49600131d5b30081818a5154d35b4e5259195bc"
+    }
+  ],
+  "from": {
+    "id": "zag",
+    "type": "user",
+    "name": "углы «Исимуры»"
+  }
+}
+=end comment
+
+=end pod

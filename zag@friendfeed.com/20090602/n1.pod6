@@ -1,0 +1,36 @@
+=begin pod :pubdate('2009-06-02T12:27:08Z') :type<note> 
+=NAME My current spam speed: 14400 per day: 14,400 bit/sec - good leased line in 1997..
+
+=begin DESCRIPTION
+
+My current spam speed: 14400 per day: 14,400 bit/sec - good leased line in 1997.. - L<link|http://twitter.com/zagru/statuses/2002908174>
+
+
+
+=end DESCRIPTION
+
+My current spam speed: 14400 per day: 14,400 bit/sec - good leased line in 1997.. - L<link|http://twitter.com/zagru/statuses/2002908174>
+
+
+
+=begin comment :src
+{
+  "body": "My current spam speed: 14400 per day: 14,400 bit/sec - good leased line in 1997..",
+  "rawLink": "http://twitter.com/zagru/statuses/2002908174",
+  "id": "e/a7d4eb44e6ad33cf4dfa4f9395605c57",
+  "rawBody": "My current spam speed: 14400 per day: 14,400 bit/sec - good leased line in 1997..",
+  "date": "2009-06-02T12:27:08Z",
+  "url": "http://friendfeed.com/zag/a7d4eb44/my-current-spam-speed-14400-per-day-14-400-bit-sec",
+  "via": {
+    "url": "http://twitter.com/zagru/statuses/2002908174",
+    "name": "Twitter"
+  },
+  "from": {
+    "name": "углы «Исимуры»",
+    "type": "user",
+    "id": "zag"
+  }
+}
+=end comment
+
+=end pod

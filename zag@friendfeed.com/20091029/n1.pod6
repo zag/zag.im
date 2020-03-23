@@ -1,0 +1,44 @@
+=begin pod :pubdate('2009-10-29T08:21:30Z') :type<note> 
+=NAME Why are long compile times a problem? ( perl vs java )
+
+=begin DESCRIPTION
+
+Why are long compile times a problem? ( perl vs java )
+=for Image :width(201) :link('http://m.friendfeed-media.com/58a00734465e16700ce10ed3cca35d8d267e75a5') :height(175) :preview
+media/a62f88ea812368eaaba90b6a32c9a1dbbd3bb936.jpg
+
+
+
+=end DESCRIPTION
+
+Why are long compile times a problem? ( perl vs java )
+=for Image :width(201) :link('http://m.friendfeed-media.com/58a00734465e16700ce10ed3cca35d8d267e75a5') :height(175) :preview
+media/a62f88ea812368eaaba90b6a32c9a1dbbd3bb936.jpg
+
+
+
+=begin comment :src
+{
+  "from": {
+    "type": "user",
+    "id": "zag",
+    "name": "углы «Исимуры»"
+  },
+  "rawLink": "http://friendfeed.com/e/dcc03243-fc24-41a6-a6fa-0068f5d74c21",
+  "body": "Why are long compile times a problem? ( perl vs java )",
+  "date": "2009-10-29T08:21:30Z",
+  "id": "e/dcc03243fc2441a6a6fa0068f5d74c21",
+  "rawBody": "Why are long compile times a problem? ( perl vs java )",
+  "url": "http://friendfeed.com/zag/dcc03243/why-are-long-compile-times-problem-perl-vs-java",
+  "thumbnails": [
+    {
+      "width": 201,
+      "url": "http://m.friendfeed-media.com/a62f88ea812368eaaba90b6a32c9a1dbbd3bb936",
+      "link": "http://m.friendfeed-media.com/58a00734465e16700ce10ed3cca35d8d267e75a5",
+      "height": 175
+    }
+  ]
+}
+=end comment
+
+=end pod

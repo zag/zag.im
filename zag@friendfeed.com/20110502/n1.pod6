@@ -1,0 +1,58 @@
+=begin pod :pubdate('2011-05-02T05:12:15Z') :type<note> 
+=NAME Why You Should Think Twice About Opting-In to the Delicious-AVOS Transfer | ZDNet
+
+=begin DESCRIPTION
+
+Why You Should Think Twice About Opting-In to the Delicious-AVOS Transfer | ZDNet - L<link|http://www.zdnet.com/blog/violetblue/why-you-should-think-twice-about-opting-in-to-the-delicious-avos-transfer/331>
+=for Image :width(130) :link('http://www.zdnet.com/blog/violetblue/why-you-should-think-twice-about-opting-in-to-the-delicious-avos-transfer/331') :height(92) :preview
+media/392b96ba395cbcc540fb185291ed25d7be65f746.jpg
+=for Image :width(311) :link('http://www.zdnet.com/blog/violetblue/why-you-should-think-twice-about-opting-in-to-the-delicious-avos-transfer/331') :height(175) :preview
+media/1df7ff928319b68aa9fe44102e9fbdf04b6c8b99.jpg
+
+
+
+=end DESCRIPTION
+
+Why You Should Think Twice About Opting-In to the Delicious-AVOS Transfer | ZDNet - L<link|http://www.zdnet.com/blog/violetblue/why-you-should-think-twice-about-opting-in-to-the-delicious-avos-transfer/331>
+=for Image :width(130) :link('http://www.zdnet.com/blog/violetblue/why-you-should-think-twice-about-opting-in-to-the-delicious-avos-transfer/331') :height(92) :preview
+media/392b96ba395cbcc540fb185291ed25d7be65f746.jpg
+=for Image :width(311) :link('http://www.zdnet.com/blog/violetblue/why-you-should-think-twice-about-opting-in-to-the-delicious-avos-transfer/331') :height(175) :preview
+media/1df7ff928319b68aa9fe44102e9fbdf04b6c8b99.jpg
+
+
+
+=begin comment :src
+{
+  "rawBody": "Why You Should Think Twice About Opting-In to the Delicious-AVOS Transfer | ZDNet",
+  "id": "e/2a576d832bdc4729a7a35a3a82367ccd",
+  "date": "2011-05-02T05:12:15Z",
+  "url": "http://friendfeed.com/zag/2a576d83/why-you-should-think-twice-about-opting-in-to",
+  "thumbnails": [
+    {
+      "height": 92,
+      "link": "http://www.zdnet.com/blog/violetblue/why-you-should-think-twice-about-opting-in-to-the-delicious-avos-transfer/331",
+      "url": "http://m.friendfeed-media.com/392b96ba395cbcc540fb185291ed25d7be65f746",
+      "width": 130
+    },
+    {
+      "height": 175,
+      "link": "http://www.zdnet.com/blog/violetblue/why-you-should-think-twice-about-opting-in-to-the-delicious-avos-transfer/331",
+      "url": "http://m.friendfeed-media.com/1df7ff928319b68aa9fe44102e9fbdf04b6c8b99",
+      "width": 311
+    }
+  ],
+  "body": "Why You Should Think Twice About Opting-In to the Delicious-AVOS Transfer | ZDNet - <a rel=\"nofollow\" href=\"http://www.zdnet.com/blog/violetblue/why-you-should-think-twice-about-opting-in-to-the-delicious-avos-transfer/331\" title=\"http://www.zdnet.com/blog/violetblue/why-you-should-think-twice-about-opting-in-to-the-delicious-avos-transfer/331\">http://www.zdnet.com/blog...</a>",
+  "rawLink": "http://www.zdnet.com/blog/violetblue/why-you-should-think-twice-about-opting-in-to-the-delicious-avos-transfer/331",
+  "via": {
+    "name": "Bookmarklet",
+    "url": "http://friendfeed.com/share/bookmarklet"
+  },
+  "from": {
+    "id": "zag",
+    "type": "user",
+    "name": "углы «Исимуры»"
+  }
+}
+=end comment
+
+=end pod

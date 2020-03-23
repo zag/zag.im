@@ -1,0 +1,77 @@
+=begin pod :pubdate('2011-02-08T19:52:57Z') :type<note> 
+=NAME Softbank Invests $250 MM In China’s PPLive: Online Video News
+
+=begin DESCRIPTION
+
+Softbank Invests $250 MM In China’s PPLive: Online Video News - L<link|http://gigaom.com/video/softbank-pplive-investment/>
+=for Image :width(268) :link('http://gigaom.com/video/softbank-pplive-investment/') :height(175) :preview
+media/1130c47b122cb51a46357e443aa6f5019a3f4024.jpg
+
+=item "The company uses a mix of P2P and edge content delivery to stream to end users, utilizing 60 data centers across China."
+
+
+=end DESCRIPTION
+
+Softbank Invests $250 MM In China’s PPLive: Online Video News - L<link|http://gigaom.com/video/softbank-pplive-investment/>
+=for Image :width(268) :link('http://gigaom.com/video/softbank-pplive-investment/') :height(175) :preview
+media/1130c47b122cb51a46357e443aa6f5019a3f4024.jpg
+
+=item "The company uses a mix of P2P and edge content delivery to stream to end users, utilizing 60 data centers across China."
+
+
+=begin comment :src
+{
+  "rawLink": "http://gigaom.com/video/softbank-pplive-investment/",
+  "likes": [
+    {
+      "from": {
+        "type": "user",
+        "id": "alterego",
+        "name": "make some noise"
+      },
+      "date": "2011-02-08T19:59:26Z"
+    }
+  ],
+  "body": "Softbank Invests $250 MM In China’s PPLive: Online Video News - <a rel=\"nofollow\" href=\"http://gigaom.com/video/softbank-pplive-investment/\" title=\"http://gigaom.com/video/softbank-pplive-investment/\">http://gigaom.com/video...</a>",
+  "date": "2011-02-08T19:52:57Z",
+  "id": "e/61511246858a449c8ca4152a72469bdd",
+  "url": "http://friendfeed.com/zag/61511246/softbank-invests-250-mm-in-chinas-pplive-online",
+  "rawBody": "Softbank Invests $250 MM In China’s PPLive: Online Video News",
+  "thumbnails": [
+    {
+      "url": "http://m.friendfeed-media.com/1130c47b122cb51a46357e443aa6f5019a3f4024",
+      "width": 268,
+      "link": "http://gigaom.com/video/softbank-pplive-investment/",
+      "height": 175
+    }
+  ],
+  "comments": [
+    {
+      "via": {
+        "url": "http://friendfeed.com/share/bookmarklet",
+        "name": "Bookmarklet"
+      },
+      "date": "2011-02-08T19:52:57Z",
+      "id": "e/61511246858a449c8ca4152a72469bdd/c/7442e973f364441a8edbb1288edfa820",
+      "rawBody": "\"The company uses a mix of P2P and edge content delivery to stream to end users, utilizing 60 data centers across China.\"",
+      "from": {
+        "name": "углы «Исимуры»",
+        "type": "user",
+        "id": "zag"
+      },
+      "body": "&quot;The company uses a mix of P2P and edge content delivery to stream to end users, utilizing 60 data centers across China.&quot;"
+    }
+  ],
+  "via": {
+    "name": "Bookmarklet",
+    "url": "http://friendfeed.com/share/bookmarklet"
+  },
+  "from": {
+    "name": "углы «Исимуры»",
+    "id": "zag",
+    "type": "user"
+  }
+}
+=end comment
+
+=end pod

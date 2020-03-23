@@ -1,0 +1,48 @@
+=begin pod :pubdate('2009-09-02T08:37:32Z') :type<note> 
+=NAME The 2009 GitHub Contest: Recommendation engine contest.
+
+=begin DESCRIPTION
+
+The 2009 GitHub Contest: Recommendation engine contest. - L<link|http://contest.github.com/>
+=for Image :width(131) :link('http://contest.github.com/') :height(175) :preview
+media/fba5dba9d6f6810262167f325dd229a0d2211015.jpg
+
+
+
+=end DESCRIPTION
+
+The 2009 GitHub Contest: Recommendation engine contest. - L<link|http://contest.github.com/>
+=for Image :width(131) :link('http://contest.github.com/') :height(175) :preview
+media/fba5dba9d6f6810262167f325dd229a0d2211015.jpg
+
+
+
+=begin comment :src
+{
+  "rawLink": "http://contest.github.com/",
+  "body": "The 2009 GitHub Contest: Recommendation engine contest. - <a rel=\"nofollow\" href=\"http://contest.github.com/\">http://contest.github.com/</a>",
+  "date": "2009-09-02T08:37:32Z",
+  "id": "e/416f8c7f12c44b19b7fe8674c8a22e0d",
+  "rawBody": "The 2009 GitHub Contest: Recommendation engine contest.",
+  "thumbnails": [
+    {
+      "url": "http://m.friendfeed-media.com/fba5dba9d6f6810262167f325dd229a0d2211015",
+      "width": 131,
+      "height": 175,
+      "link": "http://contest.github.com/"
+    }
+  ],
+  "url": "http://friendfeed.com/zag/416f8c7f/2009-github-contest-recommendation-engine",
+  "from": {
+    "name": "углы «Исимуры»",
+    "id": "zag",
+    "type": "user"
+  },
+  "via": {
+    "name": "Bookmarklet",
+    "url": "http://friendfeed.com/share/bookmarklet"
+  }
+}
+=end comment
+
+=end pod

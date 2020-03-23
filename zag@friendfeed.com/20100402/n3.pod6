@@ -1,0 +1,68 @@
+=begin pod :pubdate('2010-04-02T15:44:08Z') :type<note> 
+=NAME piggymouse: QotD / Это завело меня в тупик
+
+=begin DESCRIPTION
+
+piggymouse: QotD / Это завело меня в тупик - L<link|http://piggymouse.livejournal.com/1638872.html#>
+
+=item "Это завело меня в тупик, и я начал пить."
+=item "Я рекомендовал Ваш курс всем пацанам на раёне, они уже пошли добывать на него деньги, что резко подняло уровень преступности, но это ненадолго, и я уверен, что того стоит."  http://zabivator.livejournal.com/394316.html?thread=9293132#
+
+
+=end DESCRIPTION
+
+piggymouse: QotD / Это завело меня в тупик - L<link|http://piggymouse.livejournal.com/1638872.html#>
+
+=item "Это завело меня в тупик, и я начал пить."
+=item "Я рекомендовал Ваш курс всем пацанам на раёне, они уже пошли добывать на него деньги, что резко подняло уровень преступности, но это ненадолго, и я уверен, что того стоит."  http://zabivator.livejournal.com/394316.html?thread=9293132#
+
+
+=begin comment :src
+{
+  "via": {
+    "name": "Bookmarklet",
+    "url": "http://friendfeed.com/share/bookmarklet"
+  },
+  "from": {
+    "name": "углы «Исимуры»",
+    "id": "zag",
+    "type": "user"
+  },
+  "comments": [
+    {
+      "via": {
+        "url": "http://friendfeed.com/share/bookmarklet",
+        "name": "Bookmarklet"
+      },
+      "rawBody": "\"Это завело меня в тупик, и я начал пить.\"",
+      "id": "e/9fcc97f21dba42e6bf73555ece6b5d1a/c/d3a9b51e96ad48168ee7b591821af4bc",
+      "date": "2010-04-02T15:44:08Z",
+      "from": {
+        "name": "углы «Исимуры»",
+        "type": "user",
+        "id": "zag"
+      },
+      "body": "&quot;Это завело меня в тупик, и я начал пить.&quot;"
+    },
+    {
+      "body": "&quot;Я рекомендовал Ваш курс всем пацанам на раёне, они уже пошли добывать на него деньги, что резко подняло уровень преступности, но это ненадолго, и я уверен, что того стоит.&quot;  <a rel=\"nofollow\" href=\"http://zabivator.livejournal.com/394316.html?thread=9293132#\" title=\"http://zabivator.livejournal.com/394316.html?thread=9293132#\">http://zabivator.livejournal.com/394316...</a>",
+      "rawBody": "\"Я рекомендовал Ваш курс всем пацанам на раёне, они уже пошли добывать на него деньги, что резко подняло уровень преступности, но это ненадолго, и я уверен, что того стоит.\"  http://zabivator.livejournal.com/394316.html?thread=9293132#",
+      "id": "e/9fcc97f21dba42e6bf73555ece6b5d1a/c/33a792fc5bea488da730c3e0d3194fb1",
+      "from": {
+        "name": "углы «Исимуры»",
+        "type": "user",
+        "id": "zag"
+      },
+      "date": "2010-04-02T15:48:20Z"
+    }
+  ],
+  "id": "e/9fcc97f21dba42e6bf73555ece6b5d1a",
+  "date": "2010-04-02T15:44:08Z",
+  "rawBody": "piggymouse: QotD / Это завело меня в тупик",
+  "url": "http://friendfeed.com/zag/9fcc97f2/piggymouse-qotd",
+  "rawLink": "http://piggymouse.livejournal.com/1638872.html#",
+  "body": "piggymouse: QotD / Это завело меня в тупик - <a rel=\"nofollow\" href=\"http://piggymouse.livejournal.com/1638872.html#\" title=\"http://piggymouse.livejournal.com/1638872.html#\">http://piggymouse.livejournal.com/1638872...</a>"
+}
+=end comment
+
+=end pod

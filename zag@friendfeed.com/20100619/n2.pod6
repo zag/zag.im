@@ -1,0 +1,36 @@
+=begin pod :pubdate('2010-06-19T14:04:21Z') :type<note> :tags<lvee>
+=NAME RT @lveecon: Разработка приставок цифрового телевидения на базе платформы STLinux. Антон Тонкович,Юрий Казакевич, Belarus, Minsk #lvee
+
+=begin DESCRIPTION
+
+RT @lveecon: Разработка приставок цифрового телевидения на базе платформы STLinux. Антон Тонкович,Юрий Казакевич, Belarus, Minsk #lvee - L<link|http://twitter.com/zagru/statuses/16547942049>
+
+
+
+=end DESCRIPTION
+
+RT @lveecon: Разработка приставок цифрового телевидения на базе платформы STLinux. Антон Тонкович,Юрий Казакевич, Belarus, Minsk #lvee - L<link|http://twitter.com/zagru/statuses/16547942049>
+
+
+
+=begin comment :src
+{
+  "from": {
+    "name": "углы «Исимуры»",
+    "type": "user",
+    "id": "zag"
+  },
+  "via": {
+    "name": "Twitter",
+    "url": "http://twitter.com/zagru/statuses/16547942049"
+  },
+  "id": "e/ecb619d0b256d01fbb78a24793fcdadc",
+  "date": "2010-06-19T14:04:21Z",
+  "url": "http://friendfeed.com/zag/ecb619d0/rt-lveecon-stlinux-belarus-minsk-lvee",
+  "rawBody": "RT @lveecon: Разработка приставок цифрового телевидения на базе платформы STLinux. Антон Тонкович,Юрий Казакевич, Belarus, Minsk #lvee",
+  "body": "RT @<a rel=\"nofollow\" href=\"http://twitter.com/lveecon\">lveecon</a>: Разработка приставок цифрового телевидения на базе платформы STLinux. Антон Тонкович,Юрий Казакевич, Belarus, Minsk <a rel=\"nofollow\" href=\"http://search.twitter.com/search?q=%23lvee\">#lvee</a>",
+  "rawLink": "http://twitter.com/zagru/statuses/16547942049"
+}
+=end comment
+
+=end pod

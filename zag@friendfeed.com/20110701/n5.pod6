@@ -1,0 +1,112 @@
+=begin pod :pubdate('2011-07-01T11:49:42Z') :type<note> :tags<lvee>
+=NAME коллекционирую надписи на майках участников #lvee
+
+=begin DESCRIPTION
+
+коллекционирую надписи на майках участников #lvee
+=for Image :width(292) :link('http://m.friendfeed-media.com/6144955dd013e5eb749fc727244f34394066bb7c') :height(175) :preview
+media/0804c6dd0185920419a682336a61011ba7fc9eaf.jpg
+
+=item что у тебя за конференция? майка - клевая
+=item http://lvee.org
+=item классная конфа, это вы там про redis разговариваете?
+=item презентации там клевые, особенно на украинском;))
+
+
+=end DESCRIPTION
+
+коллекционирую надписи на майках участников #lvee
+=for Image :width(292) :link('http://m.friendfeed-media.com/6144955dd013e5eb749fc727244f34394066bb7c') :height(175) :preview
+media/0804c6dd0185920419a682336a61011ba7fc9eaf.jpg
+
+=item что у тебя за конференция? майка - клевая
+=item http://lvee.org
+=item классная конфа, это вы там про redis разговариваете?
+=item презентации там клевые, особенно на украинском;))
+
+
+=begin comment :src
+{
+  "comments": [
+    {
+      "rawBody": "что у тебя за конференция? майка - клевая",
+      "date": "2011-07-01T13:48:25Z",
+      "id": "e/f2c16ec681cb49bda7a8f5a56f19b55d/c/7632be2d760a497fa98eca5e502126a4",
+      "from": {
+        "type": "user",
+        "id": "mishin",
+        "name": "Николай"
+      },
+      "body": "что у тебя за конференция? майка - клевая"
+    },
+    {
+      "id": "e/f2c16ec681cb49bda7a8f5a56f19b55d/c/e6069024396b4a03a52e9d08b450b4d6",
+      "rawBody": "http://lvee.org",
+      "from": {
+        "name": "углы «Исимуры»",
+        "type": "user",
+        "id": "zag"
+      },
+      "date": "2011-07-01T15:12:24Z",
+      "body": "<a rel=\"nofollow\" href=\"http://lvee.org\">http://lvee.org</a>"
+    },
+    {
+      "rawBody": "классная конфа, это вы там про redis разговариваете?",
+      "date": "2011-07-01T16:33:54Z",
+      "id": "e/f2c16ec681cb49bda7a8f5a56f19b55d/c/6fa5f68ede624f039a85c20e34fc9d2d",
+      "from": {
+        "id": "mishin",
+        "type": "user",
+        "name": "Николай"
+      },
+      "body": "классная конфа, это вы там про redis разговариваете?"
+    },
+    {
+      "body": "презентации там клевые, особенно на украинском;))",
+      "id": "e/f2c16ec681cb49bda7a8f5a56f19b55d/c/a0d3f5ad2a0f48359a1510aa2ce65a16",
+      "rawBody": "презентации там клевые, особенно на украинском;))",
+      "date": "2011-07-01T16:39:08Z",
+      "from": {
+        "name": "Николай",
+        "id": "mishin",
+        "type": "user"
+      }
+    }
+  ],
+  "via": {
+    "name": "email",
+    "url": "http://friendfeed.com/share/mail"
+  },
+  "from": {
+    "name": "углы «Исимуры»",
+    "id": "zag",
+    "type": "user"
+  },
+  "body": "коллекционирую надписи на майках участников <a href=\"http://friendfeed.com/search?q=%23lvee\">#lvee</a>",
+  "likes": [
+    {
+      "date": "2011-07-01T13:24:20Z",
+      "from": {
+        "type": "user",
+        "id": "mishin",
+        "name": "Николай"
+      }
+    }
+  ],
+  "rawLink": "http://friendfeed.com/e/f2c16ec6-81cb-49bd-a7a8-f5a56f19b55d",
+  "id": "e/f2c16ec681cb49bda7a8f5a56f19b55d",
+  "date": "2011-07-01T11:49:42Z",
+  "url": "http://friendfeed.com/zag/f2c16ec6/lvee",
+  "rawBody": "коллекционирую надписи на майках участников #lvee",
+  "thumbnails": [
+    {
+      "height": 175,
+      "link": "http://m.friendfeed-media.com/6144955dd013e5eb749fc727244f34394066bb7c",
+      "url": "http://m.friendfeed-media.com/0804c6dd0185920419a682336a61011ba7fc9eaf",
+      "width": 292
+    }
+  ]
+}
+=end comment
+
+=end pod

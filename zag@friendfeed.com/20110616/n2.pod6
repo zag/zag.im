@@ -1,0 +1,103 @@
+=begin pod :pubdate('2011-06-16T04:16:32Z') :type<note> 
+=NAME RT @miyagawa: HTTP::Server::Simple::PSGI ported to Perl6 http://bit.ly/k6ZkVX
+
+=begin DESCRIPTION
+
+RT @miyagawa: HTTP::Server::Simple::PSGI ported to Perl6 http://bit.ly/k6ZkVX - L<link|http://twitter.com/zagru/statuses/81213542426083328>
+
+=item когда уже SAOP портируют? а то так и хочется питоновский suds (который был в свою очередь слизан с джавовского axis) ..но там в библиотеке 55 файлов - долго переписывать
+=item нужен герой, который возьмется за это
+=item а кстати по скорости как racudo улучшает свои показатели? и что делает конструкция   $!connection.send( "\x0D\x0A" ); ? (имеется ввиду начало вызова метода  $!   ? https://github.com/mberends/http-server-simple/blob/master/lib/HTTP/Server/Simple/PSGI.pm6)
+=item еще нужны pertidy и perlcritic ..
+=item можно попытаться с питона перевести с помощью perthon http://perthon.sourceforge.net/ Дамиан Конвей конечно крут python2perl
+
+
+=end DESCRIPTION
+
+RT @miyagawa: HTTP::Server::Simple::PSGI ported to Perl6 http://bit.ly/k6ZkVX - L<link|http://twitter.com/zagru/statuses/81213542426083328>
+
+=item когда уже SAOP портируют? а то так и хочется питоновский suds (который был в свою очередь слизан с джавовского axis) ..но там в библиотеке 55 файлов - долго переписывать
+=item нужен герой, который возьмется за это
+=item а кстати по скорости как racudo улучшает свои показатели? и что делает конструкция   $!connection.send( "\x0D\x0A" ); ? (имеется ввиду начало вызова метода  $!   ? https://github.com/mberends/http-server-simple/blob/master/lib/HTTP/Server/Simple/PSGI.pm6)
+=item еще нужны pertidy и perlcritic ..
+=item можно попытаться с питона перевести с помощью perthon http://perthon.sourceforge.net/ Дамиан Конвей конечно крут python2perl
+
+
+=begin comment :src
+{
+  "comments": [
+    {
+      "rawBody": "когда уже SAOP портируют? а то так и хочется питоновский suds (который был в свою очередь слизан с джавовского axis) ..но там в библиотеке 55 файлов - долго переписывать",
+      "id": "e/2a5d179a5da168f9c9eb8abd25fa2cef/c/4800c3657cda483fba6663fc9f82150b",
+      "date": "2011-06-16T08:59:52Z",
+      "from": {
+        "id": "mishin",
+        "type": "user",
+        "name": "Николай"
+      },
+      "body": "когда уже SAOP портируют? а то так и хочется питоновский suds (который был в свою очередь слизан с джавовского axis) ..но там в библиотеке 55 файлов - долго переписывать"
+    },
+    {
+      "body": "нужен герой, который возьмется за это",
+      "rawBody": "нужен герой, который возьмется за это",
+      "from": {
+        "id": "zag",
+        "type": "user",
+        "name": "углы «Исимуры»"
+      },
+      "id": "e/2a5d179a5da168f9c9eb8abd25fa2cef/c/778f91f9b43849e38f259254902999b4",
+      "date": "2011-06-16T09:17:45Z"
+    },
+    {
+      "body": "а кстати по скорости как racudo улучшает свои показатели? и что делает конструкция   $!connection.send( &quot;\\x0D\\x0A&quot; ); ? (имеется ввиду начало вызова метода  $!   ? <a rel=\"nofollow\" href=\"https://github.com/mberends/http-server-simple/blob/master/lib/HTTP/Server/Simple/PSGI.pm6\" title=\"https://github.com/mberends/http-server-simple/blob/master/lib/HTTP/Server/Simple/PSGI.pm6\">https://github.com/mberend...</a>)",
+      "rawBody": "а кстати по скорости как racudo улучшает свои показатели? и что делает конструкция   $!connection.send( \"\\x0D\\x0A\" ); ? (имеется ввиду начало вызова метода  $!   ? https://github.com/mberends/http-server-simple/blob/master/lib/HTTP/Server/Simple/PSGI.pm6)",
+      "id": "e/2a5d179a5da168f9c9eb8abd25fa2cef/c/7dd38854b26543ed82959fb390f105bc",
+      "from": {
+        "name": "Николай",
+        "type": "user",
+        "id": "mishin"
+      },
+      "date": "2011-06-16T15:43:21Z"
+    },
+    {
+      "body": "еще нужны pertidy и perlcritic ..",
+      "date": "2011-06-16T16:02:17Z",
+      "rawBody": "еще нужны pertidy и perlcritic ..",
+      "id": "e/2a5d179a5da168f9c9eb8abd25fa2cef/c/21a4e4da7fe0456e8826b095ef7b8009",
+      "from": {
+        "name": "Николай",
+        "id": "mishin",
+        "type": "user"
+      }
+    },
+    {
+      "rawBody": "можно попытаться с питона перевести с помощью perthon http://perthon.sourceforge.net/ Дамиан Конвей конечно крут python2perl",
+      "date": "2011-06-16T20:33:43Z",
+      "id": "e/2a5d179a5da168f9c9eb8abd25fa2cef/c/59f271890d90451da262ec74cca30202",
+      "from": {
+        "name": "Николай",
+        "id": "mishin",
+        "type": "user"
+      },
+      "body": "можно попытаться с питона перевести с помощью perthon <a rel=\"nofollow\" href=\"http://perthon.sourceforge.net/\" title=\"http://perthon.sourceforge.net/\">http://perthon.sourceforge.net/</a> Дамиан Конвей конечно крут python2perl"
+    }
+  ],
+  "from": {
+    "id": "zag",
+    "type": "user",
+    "name": "углы «Исимуры»"
+  },
+  "via": {
+    "name": "Twitter",
+    "url": "http://twitter.com/zagru/statuses/81213542426083328"
+  },
+  "body": "RT @<a rel=\"nofollow\" href=\"http://twitter.com/miyagawa\">miyagawa</a>: HTTP::Server::Simple::PSGI ported to Perl6 <a rel=\"nofollow\" href=\"http://bit.ly/k6ZkVX\" title=\"https://github.com/mberends/http-server-simple/\">https://github.com/mberend...</a>",
+  "rawLink": "http://twitter.com/zagru/statuses/81213542426083328",
+  "id": "e/2a5d179a5da168f9c9eb8abd25fa2cef",
+  "date": "2011-06-16T04:16:32Z",
+  "rawBody": "RT @miyagawa: HTTP::Server::Simple::PSGI ported to Perl6 http://bit.ly/k6ZkVX",
+  "url": "http://friendfeed.com/zag/2a5d179a/rt-miyagawa-http-server-simple-psgi-ported-to"
+}
+=end comment
+
+=end pod

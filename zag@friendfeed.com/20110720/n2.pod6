@@ -1,0 +1,68 @@
+=begin pod :pubdate('2011-07-20T08:04:28Z') :type<note> :tags<perl6>
+=NAME Upcoming Rakudo releases. #perl6
+
+=begin DESCRIPTION
+
+Upcoming Rakudo releases. #perl6 - L<link|http://rakudo.org/2011/07/19/upcoming-rakudo-releases/>
+
+=item "If you’re looking to learn Perl 6 or start a new project, we recommend starting with the new releases that will be coming out in August."
+=item "Over the past 6+ months the Rakudo developers have been working on a new version of the Rakudo compiler (code named “nom”) that uses a new object model implementation"
+
+
+=end DESCRIPTION
+
+Upcoming Rakudo releases. #perl6 - L<link|http://rakudo.org/2011/07/19/upcoming-rakudo-releases/>
+
+=item "If you’re looking to learn Perl 6 or start a new project, we recommend starting with the new releases that will be coming out in August."
+=item "Over the past 6+ months the Rakudo developers have been working on a new version of the Rakudo compiler (code named “nom”) that uses a new object model implementation"
+
+
+=begin comment :src
+{
+  "body": "Upcoming Rakudo releases. <a href=\"http://friendfeed.com/search?q=%23perl6\">#perl6</a> - <a rel=\"nofollow\" href=\"http://rakudo.org/2011/07/19/upcoming-rakudo-releases/\" title=\"http://rakudo.org/2011/07/19/upcoming-rakudo-releases/\">http://rakudo.org/2011...</a>",
+  "rawLink": "http://rakudo.org/2011/07/19/upcoming-rakudo-releases/",
+  "date": "2011-07-20T08:04:28Z",
+  "id": "e/053e283e0e014111849e2dd9f0b2c808",
+  "rawBody": "Upcoming Rakudo releases. #perl6",
+  "url": "http://friendfeed.com/zag/053e283e/upcoming-rakudo-releases-perl6",
+  "comments": [
+    {
+      "body": "&quot;If you’re looking to learn Perl 6 or start a new project, we recommend starting with the new releases that will be coming out in August.&quot;",
+      "date": "2011-07-20T08:04:28Z",
+      "id": "e/053e283e0e014111849e2dd9f0b2c808/c/9ce13eace6b34403afa8b414567608aa",
+      "rawBody": "\"If you’re looking to learn Perl 6 or start a new project, we recommend starting with the new releases that will be coming out in August.\"",
+      "from": {
+        "type": "user",
+        "id": "zag",
+        "name": "углы «Исимуры»"
+      },
+      "via": {
+        "url": "http://friendfeed.com/share/bookmarklet",
+        "name": "Bookmarklet"
+      }
+    },
+    {
+      "body": "&quot;Over the past 6+ months the Rakudo developers have been working on a new version of the Rakudo compiler (code named “nom”) that uses a new object model implementation&quot;",
+      "date": "2011-07-20T08:04:43Z",
+      "rawBody": "\"Over the past 6+ months the Rakudo developers have been working on a new version of the Rakudo compiler (code named “nom”) that uses a new object model implementation\"",
+      "id": "e/053e283e0e014111849e2dd9f0b2c808/c/cea7900ff01c468ab69581ee6ff31fdc",
+      "from": {
+        "name": "углы «Исимуры»",
+        "id": "zag",
+        "type": "user"
+      }
+    }
+  ],
+  "via": {
+    "url": "http://friendfeed.com/share/bookmarklet",
+    "name": "Bookmarklet"
+  },
+  "from": {
+    "id": "zag",
+    "type": "user",
+    "name": "углы «Исимуры»"
+  }
+}
+=end comment
+
+=end pod

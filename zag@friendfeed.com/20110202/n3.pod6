@@ -1,0 +1,67 @@
+=begin pod :pubdate('2011-02-02T05:26:00Z') :type<note> 
+=NAME Dead Space 2 Hardcore Unlockable Revealed | Just Push Start
+
+=begin DESCRIPTION
+
+Dead Space 2 Hardcore Unlockable Revealed | Just Push Start - L<link|http://www.justpushstart.com/2011/01/28/dead-space-2-hardcore-unlockable-revealed/>
+=for Image :width(100) :link('http://www.justpushstart.com/2011/01/28/dead-space-2-hardcore-unlockable-revealed/') :height(100) :preview
+media/8a078d1dbfb9df307e10d9ba2c1d208ac8816fd8.jpg
+
+=item bang, bang, bang !!!
+
+
+=end DESCRIPTION
+
+Dead Space 2 Hardcore Unlockable Revealed | Just Push Start - L<link|http://www.justpushstart.com/2011/01/28/dead-space-2-hardcore-unlockable-revealed/>
+=for Image :width(100) :link('http://www.justpushstart.com/2011/01/28/dead-space-2-hardcore-unlockable-revealed/') :height(100) :preview
+media/8a078d1dbfb9df307e10d9ba2c1d208ac8816fd8.jpg
+
+=item bang, bang, bang !!!
+
+
+=begin comment :src
+{
+  "date": "2011-02-02T05:26:00Z",
+  "id": "e/1cb175b0a0244e7c94874ccd7755561b",
+  "url": "http://friendfeed.com/zag/1cb175b0/dead-space-2-hardcore-unlockable-revealed-just",
+  "rawBody": "Dead Space 2 Hardcore Unlockable Revealed | Just Push Start",
+  "thumbnails": [
+    {
+      "link": "http://www.justpushstart.com/2011/01/28/dead-space-2-hardcore-unlockable-revealed/",
+      "height": 100,
+      "url": "http://m.friendfeed-media.com/8a078d1dbfb9df307e10d9ba2c1d208ac8816fd8",
+      "width": 100
+    }
+  ],
+  "rawLink": "http://www.justpushstart.com/2011/01/28/dead-space-2-hardcore-unlockable-revealed/",
+  "body": "Dead Space 2 Hardcore Unlockable Revealed | Just Push Start - <a rel=\"nofollow\" href=\"http://www.justpushstart.com/2011/01/28/dead-space-2-hardcore-unlockable-revealed/\" title=\"http://www.justpushstart.com/2011/01/28/dead-space-2-hardcore-unlockable-revealed/\">http://www.justpushstart.com/2011...</a>",
+  "via": {
+    "url": "http://friendfeed.com/share/bookmarklet",
+    "name": "Bookmarklet"
+  },
+  "from": {
+    "type": "user",
+    "id": "zag",
+    "name": "углы «Исимуры»"
+  },
+  "comments": [
+    {
+      "via": {
+        "url": "http://friendfeed.com/share/bookmarklet",
+        "name": "Bookmarklet"
+      },
+      "id": "e/1cb175b0a0244e7c94874ccd7755561b/c/b2adf21081bd41dc9bccd478868e07b6",
+      "from": {
+        "type": "user",
+        "id": "zag",
+        "name": "углы «Исимуры»"
+      },
+      "date": "2011-02-02T05:26:00Z",
+      "rawBody": "bang, bang, bang !!!",
+      "body": "bang, bang, bang !!!"
+    }
+  ]
+}
+=end comment
+
+=end pod

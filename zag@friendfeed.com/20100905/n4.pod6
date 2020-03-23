@@ -1,0 +1,60 @@
+=begin pod :pubdate('2010-09-05T09:25:00Z') :type<note> 
+=NAME E-books
+
+=begin DESCRIPTION
+
+E-books - L<link|http://sanin.livejournal.com/745838.html>
+=for Image :width(255) :link('http://sanin.livejournal.com/745838.html') :height(175) :preview
+media/adc55e67f5bafb5340d0476f605e90efd6c4d654.jpg
+
+
+
+=end DESCRIPTION
+
+E-books - L<link|http://sanin.livejournal.com/745838.html>
+=for Image :width(255) :link('http://sanin.livejournal.com/745838.html') :height(175) :preview
+media/adc55e67f5bafb5340d0476f605e90efd6c4d654.jpg
+
+
+
+=begin comment :src
+{
+  "date": "2010-09-05T09:25:00Z",
+  "id": "e/1a5af25ece524ad0a410b07845cbb5ef",
+  "url": "http://friendfeed.com/funny-pics-videos/1a5af25e/e-books",
+  "rawBody": "E-books",
+  "thumbnails": [
+    {
+      "height": 175,
+      "link": "http://sanin.livejournal.com/745838.html",
+      "width": 255,
+      "url": "http://m.friendfeed-media.com/adc55e67f5bafb5340d0476f605e90efd6c4d654"
+    }
+  ],
+  "rawLink": "http://sanin.livejournal.com/745838.html",
+  "to": [
+    {
+      "id": "zag",
+      "type": "user",
+      "name": "углы's feed"
+    },
+    {
+      "name": "Funny Pics and Videos",
+      "id": "funny-pics-videos",
+      "type": "group"
+    }
+  ],
+  "body": "E-books - <a rel=\"nofollow\" href=\"http://sanin.livejournal.com/745838.html\" title=\"http://sanin.livejournal.com/745838.html\">http://sanin.livejournal.com/745838...</a>",
+  "via": {
+    "url": "http://friendfeed.com/share/bookmarklet",
+    "name": "Bookmarklet"
+  },
+  "from": {
+    "name": "углы «Исимуры»",
+    "id": "zag",
+    "type": "user"
+  }
+}
+=end comment
+
+=end pod

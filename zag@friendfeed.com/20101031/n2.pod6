@@ -1,0 +1,83 @@
+=begin pod :pubdate('2010-10-31T06:38:56Z') :type<note> 
+=NAME "Dead Drops’ is an anonymous, offline, peer to peer file-sharing network in public space"
+
+=begin DESCRIPTION
+
+"Dead Drops’ is an anonymous, offline, peer to peer file-sharing network in public space" - L<link|http://datenform.de/blog/dead-drops-preview/>
+=for Image :width(263) :link('http://datenform.de/blog/dead-drops-preview/') :height(175) :preview
+media/15ee2a7d29ab22ca2bb8aeab680bc950478cf0ff.jpg
+=for Image :width(263) :link('http://datenform.de/blog/dead-drops-preview/') :height(175) :preview
+media/1917fe78c96c81be392e6a98aaa40cb7af32452c.jpg
+=for Image :width(263) :link('http://datenform.de/blog/dead-drops-preview/') :height(175) :preview
+media/58d0beb87dbd647975eac8b629958d2bcf4bb84c.jpg
+
+=item Dead drop (Wikipedia) http://en.wikipedia.org/wiki/Dead_drop
+
+
+=end DESCRIPTION
+
+"Dead Drops’ is an anonymous, offline, peer to peer file-sharing network in public space" - L<link|http://datenform.de/blog/dead-drops-preview/>
+=for Image :width(263) :link('http://datenform.de/blog/dead-drops-preview/') :height(175) :preview
+media/15ee2a7d29ab22ca2bb8aeab680bc950478cf0ff.jpg
+=for Image :width(263) :link('http://datenform.de/blog/dead-drops-preview/') :height(175) :preview
+media/1917fe78c96c81be392e6a98aaa40cb7af32452c.jpg
+=for Image :width(263) :link('http://datenform.de/blog/dead-drops-preview/') :height(175) :preview
+media/58d0beb87dbd647975eac8b629958d2bcf4bb84c.jpg
+
+=item Dead drop (Wikipedia) http://en.wikipedia.org/wiki/Dead_drop
+
+
+=begin comment :src
+{
+  "from": {
+    "id": "zag",
+    "type": "user",
+    "name": "углы «Исимуры»"
+  },
+  "via": {
+    "name": "Bookmarklet",
+    "url": "http://friendfeed.com/share/bookmarklet"
+  },
+  "comments": [
+    {
+      "id": "e/f80d50f68d854be1b80861f78cd8061c/c/41341259f58e498286d8af0fcc60ea54",
+      "rawBody": "Dead drop (Wikipedia) http://en.wikipedia.org/wiki/Dead_drop",
+      "from": {
+        "name": "углы «Исимуры»",
+        "id": "zag",
+        "type": "user"
+      },
+      "date": "2010-10-31T06:40:18Z",
+      "body": "Dead drop (Wikipedia) <a rel=\"nofollow\" href=\"http://en.wikipedia.org/wiki/Dead_drop\" title=\"http://en.wikipedia.org/wiki/Dead_drop\">http://en.wikipedia.org/wiki...</a>"
+    }
+  ],
+  "date": "2010-10-31T06:38:56Z",
+  "id": "e/f80d50f68d854be1b80861f78cd8061c",
+  "rawBody": "\"Dead Drops’ is an anonymous, offline, peer to peer file-sharing network in public space\"",
+  "url": "http://friendfeed.com/zag/f80d50f6/dead-drops-is-anonymous-offline-peer-to-file",
+  "thumbnails": [
+    {
+      "url": "http://m.friendfeed-media.com/15ee2a7d29ab22ca2bb8aeab680bc950478cf0ff",
+      "width": 263,
+      "link": "http://datenform.de/blog/dead-drops-preview/",
+      "height": 175
+    },
+    {
+      "width": 263,
+      "url": "http://m.friendfeed-media.com/1917fe78c96c81be392e6a98aaa40cb7af32452c",
+      "link": "http://datenform.de/blog/dead-drops-preview/",
+      "height": 175
+    },
+    {
+      "url": "http://m.friendfeed-media.com/58d0beb87dbd647975eac8b629958d2bcf4bb84c",
+      "width": 263,
+      "link": "http://datenform.de/blog/dead-drops-preview/",
+      "height": 175
+    }
+  ],
+  "rawLink": "http://datenform.de/blog/dead-drops-preview/",
+  "body": "&quot;Dead Drops’ is an anonymous, offline, peer to peer file-sharing network in public space&quot; - <a rel=\"nofollow\" href=\"http://datenform.de/blog/dead-drops-preview/\" title=\"http://datenform.de/blog/dead-drops-preview/\">http://datenform.de/blog...</a>"
+}
+=end comment
+
+=end pod

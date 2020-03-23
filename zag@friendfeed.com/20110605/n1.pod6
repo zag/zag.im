@@ -1,0 +1,48 @@
+=begin pod :pubdate('2011-06-05T18:47:12Z') :type<note> :tags<jazz>
+=NAME Есть такое настроение - #jazz
+
+=begin DESCRIPTION
+
+Есть такое настроение - #jazz
+=for Image :width(292) :link('http://m.friendfeed-media.com/5574c36b6058b047c42c872e4f9aa33c54f7c0d7') :height(175) :preview
+media/a344543b1e79151a7a4282c88c9a01f4bb200406.jpg
+
+
+
+=end DESCRIPTION
+
+Есть такое настроение - #jazz
+=for Image :width(292) :link('http://m.friendfeed-media.com/5574c36b6058b047c42c872e4f9aa33c54f7c0d7') :height(175) :preview
+media/a344543b1e79151a7a4282c88c9a01f4bb200406.jpg
+
+
+
+=begin comment :src
+{
+  "via": {
+    "url": "http://friendfeed.com/share/mail",
+    "name": "email"
+  },
+  "from": {
+    "name": "углы «Исимуры»",
+    "id": "zag",
+    "type": "user"
+  },
+  "thumbnails": [
+    {
+      "height": 175,
+      "link": "http://m.friendfeed-media.com/5574c36b6058b047c42c872e4f9aa33c54f7c0d7",
+      "url": "http://m.friendfeed-media.com/a344543b1e79151a7a4282c88c9a01f4bb200406",
+      "width": 292
+    }
+  ],
+  "id": "e/8ebedf3fc3fb481f838118e5ae3dbba5",
+  "date": "2011-06-05T18:47:12Z",
+  "rawBody": "Есть такое настроение - #jazz",
+  "url": "http://friendfeed.com/zag/8ebedf3f/jazz",
+  "rawLink": "http://friendfeed.com/e/8ebedf3f-c3fb-481f-8381-18e5ae3dbba5",
+  "body": "Есть такое настроение - <a href=\"http://friendfeed.com/search?q=%23jazz\">#jazz</a>"
+}
+=end comment
+
+=end pod

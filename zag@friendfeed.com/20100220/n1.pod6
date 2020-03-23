@@ -1,0 +1,36 @@
+=begin pod :pubdate('2010-02-20T12:14:01Z') :type<note> :tags<rakudo freebsd>
+=NAME Now #rakudo in official #freebsd ports tree !
+
+=begin DESCRIPTION
+
+Now #rakudo in official #freebsd ports tree ! - L<link|http://twitter.com/zagru/statuses/9381090574>
+
+
+
+=end DESCRIPTION
+
+Now #rakudo in official #freebsd ports tree ! - L<link|http://twitter.com/zagru/statuses/9381090574>
+
+
+
+=begin comment :src
+{
+  "body": "Now <a rel=\"nofollow\" href=\"http://search.twitter.com/search?q=%23rakudo\">#rakudo</a> in official <a rel=\"nofollow\" href=\"http://search.twitter.com/search?q=%23freebsd\">#freebsd</a> ports tree !",
+  "rawLink": "http://twitter.com/zagru/statuses/9381090574",
+  "id": "e/7eb46698367db43d4c723ddfd9078c5b",
+  "date": "2010-02-20T12:14:01Z",
+  "rawBody": "Now #rakudo in official #freebsd ports tree !",
+  "url": "http://friendfeed.com/zag/7eb46698/now-rakudo-in-official-freebsd-ports-tree",
+  "from": {
+    "name": "углы «Исимуры»",
+    "id": "zag",
+    "type": "user"
+  },
+  "via": {
+    "name": "Twitter",
+    "url": "http://twitter.com/zagru/statuses/9381090574"
+  }
+}
+=end comment
+
+=end pod

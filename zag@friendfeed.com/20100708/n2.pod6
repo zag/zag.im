@@ -1,0 +1,97 @@
+=begin pod :pubdate('2010-07-08T08:06:56Z') :type<note> 
+=NAME Завершилась конференция LVEE-2010.  По решению публики лучшим был признан доклад Максима Мельникова “Gentoo Embedded на зоопарке платформ”. Автору доклада-победителя были вручены памятный знак от оргкомитета и спонсорский приз от компании Promwad, пополнивший его личный зоопарк устройств со встроенным Linux.
+
+=begin DESCRIPTION
+
+Завершилась конференция LVEE-2010.  По решению публики лучшим был признан доклад Максима Мельникова “Gentoo Embedded на зоопарке платформ”. Автору доклада-победителя были вручены памятный знак от оргкомитета и спонсорский приз от компании Promwad, пополнивший его личный зоопарк устройств со встроенным Linux. - L<link|http://lvee.org/ru/main>
+=for Image :width(262) :link('http://lvee.org/ru/main') :height(175) :preview
+media/23b657004b7b65d6ab6bae6762c4ff18f0926fa3.jpg
+=for Image :width(233) :link('http://lvee.org/ru/main') :height(175) :preview
+media/9873b9452de0aa3a787339a6e69e3a56091ca83b.jpg
+=for Image :width(302) :link('http://lvee.org/ru/main') :height(175) :preview
+media/1cea2a0fb84779789982ea0da8a49151dd8b6705.jpg
+
+=item материалы: http://lvee.org/en/reports/materials   фото: http://lvee.org/en/wiki_pages/photo-2010
+
+
+=end DESCRIPTION
+
+Завершилась конференция LVEE-2010.  По решению публики лучшим был признан доклад Максима Мельникова “Gentoo Embedded на зоопарке платформ”. Автору доклада-победителя были вручены памятный знак от оргкомитета и спонсорский приз от компании Promwad, пополнивший его личный зоопарк устройств со встроенным Linux. - L<link|http://lvee.org/ru/main>
+=for Image :width(262) :link('http://lvee.org/ru/main') :height(175) :preview
+media/23b657004b7b65d6ab6bae6762c4ff18f0926fa3.jpg
+=for Image :width(233) :link('http://lvee.org/ru/main') :height(175) :preview
+media/9873b9452de0aa3a787339a6e69e3a56091ca83b.jpg
+=for Image :width(302) :link('http://lvee.org/ru/main') :height(175) :preview
+media/1cea2a0fb84779789982ea0da8a49151dd8b6705.jpg
+
+=item материалы: http://lvee.org/en/reports/materials   фото: http://lvee.org/en/wiki_pages/photo-2010
+
+
+=begin comment :src
+{
+  "body": "Завершилась конференция LVEE-2010.  По решению публики лучшим был признан доклад Максима Мельникова “Gentoo Embedded на зоопарке платформ”. Автору доклада-победителя были вручены памятный знак от оргкомитета и спонсорский приз от компании Promwad, пополнивший его личный зоопарк устройств со встроенным Linux. - <a rel=\"nofollow\" href=\"http://lvee.org/ru/main\">http://lvee.org/ru/main</a>",
+  "likes": [
+    {
+      "date": "2010-07-08T08:22:27Z",
+      "from": {
+        "name": "alex@kapranoff.ru",
+        "type": "user",
+        "id": "kkapp"
+      }
+    }
+  ],
+  "rawLink": "http://lvee.org/ru/main",
+  "id": "e/eb6f39d4a0fb4f49b6b5976361d1f39f",
+  "date": "2010-07-08T08:06:56Z",
+  "rawBody": "Завершилась конференция LVEE-2010.  По решению публики лучшим был признан доклад Максима Мельникова “Gentoo Embedded на зоопарке платформ”. Автору доклада-победителя были вручены памятный знак от оргкомитета и спонсорский приз от компании Promwad, пополнивший его личный зоопарк устройств со встроенным Linux.",
+  "url": "http://friendfeed.com/zag/eb6f39d4/lvee-2010-gentoo-embedded-promwad-linux",
+  "thumbnails": [
+    {
+      "url": "http://m.friendfeed-media.com/23b657004b7b65d6ab6bae6762c4ff18f0926fa3",
+      "width": 262,
+      "link": "http://lvee.org/ru/main",
+      "height": 175
+    },
+    {
+      "url": "http://m.friendfeed-media.com/9873b9452de0aa3a787339a6e69e3a56091ca83b",
+      "width": 233,
+      "height": 175,
+      "link": "http://lvee.org/ru/main"
+    },
+    {
+      "link": "http://lvee.org/ru/main",
+      "height": 175,
+      "url": "http://m.friendfeed-media.com/1cea2a0fb84779789982ea0da8a49151dd8b6705",
+      "width": 302
+    }
+  ],
+  "comments": [
+    {
+      "id": "e/eb6f39d4a0fb4f49b6b5976361d1f39f/c/69ab40afa2a94e6a91dd2e0a03b2a32d",
+      "date": "2010-07-08T08:06:56Z",
+      "from": {
+        "type": "user",
+        "id": "zag",
+        "name": "углы «Исимуры»"
+      },
+      "rawBody": "материалы: http://lvee.org/en/reports/materials   фото: http://lvee.org/en/wiki_pages/photo-2010",
+      "via": {
+        "name": "Bookmarklet",
+        "url": "http://friendfeed.com/share/bookmarklet"
+      },
+      "body": "материалы: <a rel=\"nofollow\" href=\"http://lvee.org/en/reports/materials\" title=\"http://lvee.org/en/reports/materials\">http://lvee.org/en...</a>   фото: <a rel=\"nofollow\" href=\"http://lvee.org/en/wiki_pages/photo-2010\" title=\"http://lvee.org/en/wiki_pages/photo-2010\">http://lvee.org/en...</a>"
+    }
+  ],
+  "from": {
+    "name": "углы «Исимуры»",
+    "type": "user",
+    "id": "zag"
+  },
+  "via": {
+    "url": "http://friendfeed.com/share/bookmarklet",
+    "name": "Bookmarklet"
+  }
+}
+=end comment
+
+=end pod

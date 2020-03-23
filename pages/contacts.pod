@@ -1,0 +1,20 @@
+=begin pod
+=NAME Контакты
+
+=begin DESCRIPTION :pubdate('2012-07-26 10:00:00') :tags<pod6 perl6 pod perl> :type('page') :publishUrl('/pages/contacts')
+
+Краткая информация о способах связаться со мной
+
+=end DESCRIPTION
+
+=head2 Чем я могу быть вам полезен:
+
+=item консалтинг ИТ проектов,
+=item функциональное прототипирование, создание MVP,
+=item внедрение решений на базе открытых технологий.
+
+Мой email: me(at)zag.ru
+
+
+=end pod
+

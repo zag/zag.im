@@ -1,0 +1,115 @@
+=begin pod :pubdate('2011-06-17T16:06:54Z') :type<note> 
+=NAME Something for the geekiest lady love of your life
+
+=begin DESCRIPTION
+
+Something for the geekiest lady love of your life - L<link|http://www.weirduniverse.net/blog/permalink/something_for_the_geekiest_lady_love_of_your_life/>
+=for Image :width(251) :link('http://www.weirduniverse.net/blog/permalink/something_for_the_geekiest_lady_love_of_your_life/') :height(175) :preview
+media/164e1b1c77dbad6eaa408d90636caff9b837c992.jpg
+
+=item подарок девушке-программисту;)
+
+
+=end DESCRIPTION
+
+Something for the geekiest lady love of your life - L<link|http://www.weirduniverse.net/blog/permalink/something_for_the_geekiest_lady_love_of_your_life/>
+=for Image :width(251) :link('http://www.weirduniverse.net/blog/permalink/something_for_the_geekiest_lady_love_of_your_life/') :height(175) :preview
+media/164e1b1c77dbad6eaa408d90636caff9b837c992.jpg
+
+=item подарок девушке-программисту;)
+
+
+=begin comment :src
+{
+  "body": "Something for the geekiest lady love of your life - <a rel=\"nofollow\" href=\"http://www.weirduniverse.net/blog/permalink/something_for_the_geekiest_lady_love_of_your_life/\" title=\"http://www.weirduniverse.net/blog/permalink/something_for_the_geekiest_lady_love_of_your_life/\">http://www.weirduniverse.net/blog...</a>",
+  "likes": [
+    {
+      "from": {
+        "name": "Кудри и декольте",
+        "type": "user",
+        "id": "siegmut"
+      },
+      "date": "2011-06-17T17:31:24Z"
+    },
+    {
+      "from": {
+        "private": true,
+        "id": "cy6erbr4in",
+        "type": "user",
+        "name": "с бородой на голове"
+      },
+      "date": "2011-06-17T17:28:30Z"
+    },
+    {
+      "date": "2011-06-17T17:00:53Z",
+      "from": {
+        "name": "9000",
+        "id": "9000",
+        "type": "user"
+      }
+    },
+    {
+      "date": "2011-06-17T17:00:24Z",
+      "from": {
+        "name": "Коломеец",
+        "type": "user",
+        "id": "kolomeetz",
+        "private": true
+      }
+    },
+    {
+      "date": "2011-06-17T16:58:02Z",
+      "from": {
+        "name": "Сло",
+        "id": "elephantum",
+        "type": "user"
+      }
+    },
+    {
+      "from": {
+        "type": "user",
+        "id": "mishin",
+        "name": "Николай"
+      },
+      "date": "2011-06-17T16:40:50Z"
+    }
+  ],
+  "rawLink": "http://www.weirduniverse.net/blog/permalink/something_for_the_geekiest_lady_love_of_your_life/",
+  "id": "e/2ad1a681a047430ebc7d70f42db31809",
+  "date": "2011-06-17T16:06:54Z",
+  "thumbnails": [
+    {
+      "url": "http://m.friendfeed-media.com/164e1b1c77dbad6eaa408d90636caff9b837c992",
+      "width": 251,
+      "height": 175,
+      "link": "http://www.weirduniverse.net/blog/permalink/something_for_the_geekiest_lady_love_of_your_life/"
+    }
+  ],
+  "rawBody": "Something for the geekiest lady love of your life",
+  "url": "http://friendfeed.com/zag/2ad1a681/something-for-geekiest-lady-love-of-your-life",
+  "comments": [
+    {
+      "body": "подарок девушке-программисту;)",
+      "from": {
+        "id": "mishin",
+        "type": "user",
+        "name": "Николай"
+      },
+      "rawBody": "подарок девушке-программисту;)",
+      "id": "e/2ad1a681a047430ebc7d70f42db31809/c/1d248f44125045d39822cc47252c4d97",
+      "date": "2011-06-17T16:41:11Z"
+    }
+  ],
+  "via": {
+    "url": "http://friendfeed.com/share/bookmarklet",
+    "name": "Bookmarklet"
+  },
+  "from": {
+    "name": "углы «Исимуры»",
+    "type": "user",
+    "id": "zag"
+  }
+}
+=end comment
+
+=end pod

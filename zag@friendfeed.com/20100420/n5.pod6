@@ -1,0 +1,67 @@
+=begin pod :pubdate('2010-04-20T07:04:25Z') :type<note> 
+=NAME Facebook May Launch Recommendation Service For Other Websites
+
+=begin DESCRIPTION
+
+Facebook May Launch Recommendation Service For Other Websites - L<link|http://www.readwriteweb.com/archives/facebook_may_launch_recommendation_service_for_oth.php>
+=for Image :width(150) :link('http://www.readwriteweb.com/archives/facebook_may_launch_recommendation_service_for_oth.php') :height(41) :preview
+media/4e26a72c5f90b8ab1bbedfe28ff824c863c46b56.png
+
+=item http://staynalive.com/articles/2010/04/19/facebook-to-launch-sidewiki-like-recommendation-system-for-websites/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+StayNAlive+%28Stay+N%27+Alive%29
+
+
+=end DESCRIPTION
+
+Facebook May Launch Recommendation Service For Other Websites - L<link|http://www.readwriteweb.com/archives/facebook_may_launch_recommendation_service_for_oth.php>
+=for Image :width(150) :link('http://www.readwriteweb.com/archives/facebook_may_launch_recommendation_service_for_oth.php') :height(41) :preview
+media/4e26a72c5f90b8ab1bbedfe28ff824c863c46b56.png
+
+=item http://staynalive.com/articles/2010/04/19/facebook-to-launch-sidewiki-like-recommendation-system-for-websites/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+StayNAlive+%28Stay+N%27+Alive%29
+
+
+=begin comment :src
+{
+  "id": "e/da6ba03699df46b5b690942970289e51",
+  "rawBody": "Facebook May Launch Recommendation Service For Other Websites",
+  "date": "2010-04-20T07:04:25Z",
+  "url": "http://friendfeed.com/zag/da6ba036/facebook-may-launch-recommendation-service",
+  "thumbnails": [
+    {
+      "url": "http://m.friendfeed-media.com/4e26a72c5f90b8ab1bbedfe28ff824c863c46b56",
+      "width": 150,
+      "link": "http://www.readwriteweb.com/archives/facebook_may_launch_recommendation_service_for_oth.php",
+      "height": 41
+    }
+  ],
+  "body": "Facebook May Launch Recommendation Service For Other Websites - <a rel=\"nofollow\" href=\"http://www.readwriteweb.com/archives/facebook_may_launch_recommendation_service_for_oth.php\" title=\"http://www.readwriteweb.com/archives/facebook_may_launch_recommendation_service_for_oth.php\">http://www.readwriteweb.com/archive...</a>",
+  "rawLink": "http://www.readwriteweb.com/archives/facebook_may_launch_recommendation_service_for_oth.php",
+  "via": {
+    "url": "http://friendfeed.com/share/bookmarklet",
+    "name": "Bookmarklet"
+  },
+  "from": {
+    "type": "user",
+    "id": "zag",
+    "name": "углы «Исимуры»"
+  },
+  "comments": [
+    {
+      "rawBody": "http://staynalive.com/articles/2010/04/19/facebook-to-launch-sidewiki-like-recommendation-system-for-websites/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+StayNAlive+%28Stay+N%27+Alive%29",
+      "id": "e/da6ba03699df46b5b690942970289e51/c/a339682bd7a742a2af443ce89e9ec9ef",
+      "date": "2010-04-20T07:04:25Z",
+      "from": {
+        "type": "user",
+        "id": "zag",
+        "name": "углы «Исимуры»"
+      },
+      "via": {
+        "name": "Bookmarklet",
+        "url": "http://friendfeed.com/share/bookmarklet"
+      },
+      "body": "<a rel=\"nofollow\" href=\"http://staynalive.com/articles/2010/04/19/facebook-to-launch-sidewiki-like-recommendation-system-for-websites/?utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+StayNAlive+%28Stay+N%27+Alive%29\" title=\"http://staynalive.com/articles/2010/04/19/facebook-to-launch-sidewiki-like-recommendation-system-for-websites/?utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+StayNAlive+%28Stay+N%27+Alive%29\">http://staynalive.com/article...</a>"
+    }
+  ]
+}
+=end comment
+
+=end pod

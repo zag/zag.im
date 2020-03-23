@@ -1,0 +1,44 @@
+=begin pod :pubdate('2010-07-15T09:30:56Z') :type<note> 
+=NAME Mini stormtrooper
+
+=begin DESCRIPTION
+
+Mini stormtrooper
+=for Image :width(253) :link('http://m.friendfeed-media.com/f15ae4dbc88ee134dd777eb7ed3b230aab8a9175') :height(175) :preview
+media/d781900aad014fac06b6d241e0ab957bea5c735e.jpg
+
+
+
+=end DESCRIPTION
+
+Mini stormtrooper
+=for Image :width(253) :link('http://m.friendfeed-media.com/f15ae4dbc88ee134dd777eb7ed3b230aab8a9175') :height(175) :preview
+media/d781900aad014fac06b6d241e0ab957bea5c735e.jpg
+
+
+
+=begin comment :src
+{
+  "from": {
+    "name": "углы «Исимуры»",
+    "id": "zag",
+    "type": "user"
+  },
+  "id": "e/aec1ddc60cfa49d1a624e24eacb00315",
+  "rawBody": "Mini stormtrooper",
+  "date": "2010-07-15T09:30:56Z",
+  "url": "http://friendfeed.com/zag/aec1ddc6/mini-stormtrooper",
+  "thumbnails": [
+    {
+      "width": 253,
+      "url": "http://m.friendfeed-media.com/d781900aad014fac06b6d241e0ab957bea5c735e",
+      "height": 175,
+      "link": "http://m.friendfeed-media.com/f15ae4dbc88ee134dd777eb7ed3b230aab8a9175"
+    }
+  ],
+  "body": "Mini stormtrooper",
+  "rawLink": "http://friendfeed.com/e/aec1ddc6-0cfa-49d1-a624-e24eacb00315"
+}
+=end comment
+
+=end pod

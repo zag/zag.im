@@ -1,0 +1,48 @@
+=begin pod :pubdate('2010-07-02T08:05:01Z') :type<note> 
+=NAME Погода замечательная. Сосновый лес. Озеро.
+
+=begin DESCRIPTION
+
+Погода замечательная. Сосновый лес. Озеро.
+=for Image :width(233) :link('http://m.friendfeed-media.com/d7d8f722be34e5f3fc1d45849b942e8b92cb8162') :height(175) :preview
+media/85397e64f11f338aba7b5c1daa5ef6953d7409f8.jpg
+
+
+
+=end DESCRIPTION
+
+Погода замечательная. Сосновый лес. Озеро.
+=for Image :width(233) :link('http://m.friendfeed-media.com/d7d8f722be34e5f3fc1d45849b942e8b92cb8162') :height(175) :preview
+media/85397e64f11f338aba7b5c1daa5ef6953d7409f8.jpg
+
+
+
+=begin comment :src
+{
+  "from": {
+    "type": "user",
+    "id": "zag",
+    "name": "углы «Исимуры»"
+  },
+  "via": {
+    "url": "http://friendfeed.com/share/mail",
+    "name": "email"
+  },
+  "rawLink": "http://friendfeed.com/e/730af4b0-ec9d-4f20-a402-64b2ba4a4b3f",
+  "body": "Погода замечательная. Сосновый лес. Озеро.",
+  "id": "e/730af4b0ec9d4f20a40264b2ba4a4b3f",
+  "date": "2010-07-02T08:05:01Z",
+  "rawBody": "Погода замечательная. Сосновый лес. Озеро.",
+  "url": "http://friendfeed.com/zag/730af4b0",
+  "thumbnails": [
+    {
+      "link": "http://m.friendfeed-media.com/d7d8f722be34e5f3fc1d45849b942e8b92cb8162",
+      "height": 175,
+      "width": 233,
+      "url": "http://m.friendfeed-media.com/85397e64f11f338aba7b5c1daa5ef6953d7409f8"
+    }
+  ]
+}
+=end comment
+
+=end pod

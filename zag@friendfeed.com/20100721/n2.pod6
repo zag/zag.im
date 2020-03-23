@@ -1,0 +1,48 @@
+=begin pod :pubdate('2010-07-21T09:32:37Z') :type<note> 
+=NAME Июльский полдень
+
+=begin DESCRIPTION
+
+Июльский полдень
+=for Image :width(233) :link('http://m.friendfeed-media.com/b5d18879515479e48646f4fbdebd130382dd395a') :height(175) :preview
+media/a3cb1c5c43a101d4104107da3c0dae816a2072a3.jpg
+
+
+
+=end DESCRIPTION
+
+Июльский полдень
+=for Image :width(233) :link('http://m.friendfeed-media.com/b5d18879515479e48646f4fbdebd130382dd395a') :height(175) :preview
+media/a3cb1c5c43a101d4104107da3c0dae816a2072a3.jpg
+
+
+
+=begin comment :src
+{
+  "id": "e/e062e4d2e7cb4aa7ac370d3a3fae3dd4",
+  "date": "2010-07-21T09:32:37Z",
+  "rawBody": "Июльский полдень",
+  "url": "http://friendfeed.com/zag/e062e4d2",
+  "thumbnails": [
+    {
+      "link": "http://m.friendfeed-media.com/b5d18879515479e48646f4fbdebd130382dd395a",
+      "height": 175,
+      "width": 233,
+      "url": "http://m.friendfeed-media.com/a3cb1c5c43a101d4104107da3c0dae816a2072a3"
+    }
+  ],
+  "body": "Июльский полдень",
+  "rawLink": "http://friendfeed.com/e/e062e4d2-e7cb-4aa7-ac37-0d3a3fae3dd4",
+  "from": {
+    "id": "zag",
+    "type": "user",
+    "name": "углы «Исимуры»"
+  },
+  "via": {
+    "name": "email",
+    "url": "http://friendfeed.com/share/mail"
+  }
+}
+=end comment
+
+=end pod

@@ -1,0 +1,94 @@
+=begin pod :pubdate('2011-02-26T05:04:32Z') :type<note> 
+=NAME The Office. http://www.imdb.com/title/tt0386676/
+
+=begin DESCRIPTION
+
+The Office. http://www.imdb.com/title/tt0386676/
+=for Image :width(233) :link('http://m.friendfeed-media.com/c4667e8fe2ee926307a34cf7d62e1048b190a2f3') :height(175) :preview
+media/92211275538a0de2bc26e725c979309cd7983ab7.jpg
+=for Image :width(233) :link('http://m.friendfeed-media.com/4d060c14a1925c712f9e7cb2a21aaa554eb0d2f3') :height(175) :preview
+media/495d5e08bcc1cccdb17e5e8c1f4ab62bd21b5470.jpg
+=for Image :width(233) :link('http://m.friendfeed-media.com/1259f6e9d9697824f04bb4a8cffe36ce519cdd5c') :height(175) :preview
+media/45c6dea2bfff82da138131353b7d69ca16143885.jpg
+=for Image :width(233) :link('http://m.friendfeed-media.com/24f26d88b2a22fea09fbd42f80bd955599eb126e') :height(175) :preview
+media/2ebeaa87dd8dfb271f5ab898ad6ea5ca9fbbebda.jpg
+=for Image :width(233) :link('http://m.friendfeed-media.com/3219cd7eb8016c2e07a991ffd597e0456276cd4c') :height(175) :preview
+media/c84b0e3d7f90ec853ab390abb0e6d0a3907e26b0.jpg
+=for Image :width(233) :link('http://m.friendfeed-media.com/c102e6caa50c510714b4d5b9a4d557b50441db8e') :height(175) :preview
+media/61ce74f835a231fdf9c448b691c6f9c2ec607a07.jpg
+
+
+
+=end DESCRIPTION
+
+The Office. http://www.imdb.com/title/tt0386676/
+=for Image :width(233) :link('http://m.friendfeed-media.com/c4667e8fe2ee926307a34cf7d62e1048b190a2f3') :height(175) :preview
+media/92211275538a0de2bc26e725c979309cd7983ab7.jpg
+=for Image :width(233) :link('http://m.friendfeed-media.com/4d060c14a1925c712f9e7cb2a21aaa554eb0d2f3') :height(175) :preview
+media/495d5e08bcc1cccdb17e5e8c1f4ab62bd21b5470.jpg
+=for Image :width(233) :link('http://m.friendfeed-media.com/1259f6e9d9697824f04bb4a8cffe36ce519cdd5c') :height(175) :preview
+media/45c6dea2bfff82da138131353b7d69ca16143885.jpg
+=for Image :width(233) :link('http://m.friendfeed-media.com/24f26d88b2a22fea09fbd42f80bd955599eb126e') :height(175) :preview
+media/2ebeaa87dd8dfb271f5ab898ad6ea5ca9fbbebda.jpg
+=for Image :width(233) :link('http://m.friendfeed-media.com/3219cd7eb8016c2e07a991ffd597e0456276cd4c') :height(175) :preview
+media/c84b0e3d7f90ec853ab390abb0e6d0a3907e26b0.jpg
+=for Image :width(233) :link('http://m.friendfeed-media.com/c102e6caa50c510714b4d5b9a4d557b50441db8e') :height(175) :preview
+media/61ce74f835a231fdf9c448b691c6f9c2ec607a07.jpg
+
+
+
+=begin comment :src
+{
+  "rawLink": "http://friendfeed.com/e/872c7e41-87d7-4637-a515-d4e687634ece",
+  "body": "The Office. <a rel=\"nofollow\" href=\"http://www.imdb.com/title/tt0386676/\" title=\"http://www.imdb.com/title/tt0386676/\">http://www.imdb.com/title...</a>",
+  "id": "e/872c7e4187d74637a515d4e687634ece",
+  "url": "http://friendfeed.com/zag/872c7e41/office",
+  "date": "2011-02-26T05:04:32Z",
+  "rawBody": "The Office. http://www.imdb.com/title/tt0386676/",
+  "thumbnails": [
+    {
+      "url": "http://m.friendfeed-media.com/92211275538a0de2bc26e725c979309cd7983ab7",
+      "width": 233,
+      "height": 175,
+      "link": "http://m.friendfeed-media.com/c4667e8fe2ee926307a34cf7d62e1048b190a2f3"
+    },
+    {
+      "height": 175,
+      "link": "http://m.friendfeed-media.com/4d060c14a1925c712f9e7cb2a21aaa554eb0d2f3",
+      "width": 233,
+      "url": "http://m.friendfeed-media.com/495d5e08bcc1cccdb17e5e8c1f4ab62bd21b5470"
+    },
+    {
+      "width": 233,
+      "url": "http://m.friendfeed-media.com/45c6dea2bfff82da138131353b7d69ca16143885",
+      "height": 175,
+      "link": "http://m.friendfeed-media.com/1259f6e9d9697824f04bb4a8cffe36ce519cdd5c"
+    },
+    {
+      "url": "http://m.friendfeed-media.com/2ebeaa87dd8dfb271f5ab898ad6ea5ca9fbbebda",
+      "width": 233,
+      "height": 175,
+      "link": "http://m.friendfeed-media.com/24f26d88b2a22fea09fbd42f80bd955599eb126e"
+    },
+    {
+      "url": "http://m.friendfeed-media.com/c84b0e3d7f90ec853ab390abb0e6d0a3907e26b0",
+      "width": 233,
+      "height": 175,
+      "link": "http://m.friendfeed-media.com/3219cd7eb8016c2e07a991ffd597e0456276cd4c"
+    },
+    {
+      "width": 233,
+      "url": "http://m.friendfeed-media.com/61ce74f835a231fdf9c448b691c6f9c2ec607a07",
+      "height": 175,
+      "link": "http://m.friendfeed-media.com/c102e6caa50c510714b4d5b9a4d557b50441db8e"
+    }
+  ],
+  "from": {
+    "id": "zag",
+    "type": "user",
+    "name": "углы «Исимуры»"
+  }
+}
+=end comment
+
+=end pod

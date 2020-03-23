@@ -1,0 +1,76 @@
+=begin pod :pubdate('2010-07-19T09:07:58Z') :type<note> :tags<Starcraft>
+=NAME #Starcraft II  обошелся в  $100 млн.
+
+=begin DESCRIPTION
+
+#Starcraft II  обошелся в  $100 млн. - L<link|http://www.gamespot.com/news/6269369.html#>
+=for Image :width(100) :link('http://www.gamespot.com/news/6269369.html#') :height(142) :preview
+media/67ab6c1b5b8b2293616c02834215a54f74954794.jpg
+=for Image :width(180) :link('http://www.gamespot.com/news/6269369.html#') :height(135) :preview
+media/b7836e4438e84fe5d2575aa96a0455bc73aabc13.jpg
+
+
+
+=end DESCRIPTION
+
+#Starcraft II  обошелся в  $100 млн. - L<link|http://www.gamespot.com/news/6269369.html#>
+=for Image :width(100) :link('http://www.gamespot.com/news/6269369.html#') :height(142) :preview
+media/67ab6c1b5b8b2293616c02834215a54f74954794.jpg
+=for Image :width(180) :link('http://www.gamespot.com/news/6269369.html#') :height(135) :preview
+media/b7836e4438e84fe5d2575aa96a0455bc73aabc13.jpg
+
+
+
+=begin comment :src
+{
+  "rawLink": "http://www.gamespot.com/news/6269369.html#",
+  "likes": [
+    {
+      "date": "2010-07-19T09:36:20Z",
+      "from": {
+        "type": "user",
+        "id": "adidasser1",
+        "name": "voronin"
+      }
+    },
+    {
+      "from": {
+        "type": "user",
+        "id": "kkapp",
+        "name": "alex@kapranoff.ru"
+      },
+      "date": "2010-07-19T09:33:26Z"
+    }
+  ],
+  "body": "<a href=\"http://friendfeed.com/search?q=%23Starcraft\">#Starcraft</a> II  обошелся в  $100 млн. - <a rel=\"nofollow\" href=\"http://www.gamespot.com/news/6269369.html#\" title=\"http://www.gamespot.com/news/6269369.html#\">http://www.gamespot.com/news...</a>",
+  "date": "2010-07-19T09:07:58Z",
+  "id": "e/4945679786dc4a9793d4db8facd5ebe5",
+  "url": "http://friendfeed.com/zag/49456797/starcraft-ii-100",
+  "rawBody": "#Starcraft II  обошелся в  $100 млн.",
+  "thumbnails": [
+    {
+      "height": 142,
+      "link": "http://www.gamespot.com/news/6269369.html#",
+      "width": 100,
+      "url": "http://m.friendfeed-media.com/67ab6c1b5b8b2293616c02834215a54f74954794"
+    },
+    {
+      "width": 180,
+      "url": "http://m.friendfeed-media.com/b7836e4438e84fe5d2575aa96a0455bc73aabc13",
+      "link": "http://www.gamespot.com/news/6269369.html#",
+      "height": 135
+    }
+  ],
+  "from": {
+    "id": "zag",
+    "type": "user",
+    "name": "углы «Исимуры»"
+  },
+  "via": {
+    "url": "http://friendfeed.com/share/bookmarklet",
+    "name": "Bookmarklet"
+  }
+}
+=end comment
+
+=end pod

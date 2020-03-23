@@ -1,0 +1,67 @@
+=begin pod :pubdate('2010-04-05T09:41:24Z') :type<note> 
+=NAME 10 Google Chrome Extensions for Boosting Your Productivity
+
+=begin DESCRIPTION
+
+10 Google Chrome Extensions for Boosting Your Productivity - L<link|http://sixrevisions.com/tools/10-google-chrome-extensions-for-boosting-your-productivity/>
+=for Image :width(481) :link('http://sixrevisions.com/tools/10-google-chrome-extensions-for-boosting-your-productivity/') :height(175) :preview
+media/f0613e38d2d3a0e5e5dcf7d3497aee20d061f363.jpg
+
+=item Many of these Chrome extensions can help you increase your productivity and enable you to perform your jobs easier and faster.
+
+
+=end DESCRIPTION
+
+10 Google Chrome Extensions for Boosting Your Productivity - L<link|http://sixrevisions.com/tools/10-google-chrome-extensions-for-boosting-your-productivity/>
+=for Image :width(481) :link('http://sixrevisions.com/tools/10-google-chrome-extensions-for-boosting-your-productivity/') :height(175) :preview
+media/f0613e38d2d3a0e5e5dcf7d3497aee20d061f363.jpg
+
+=item Many of these Chrome extensions can help you increase your productivity and enable you to perform your jobs easier and faster.
+
+
+=begin comment :src
+{
+  "from": {
+    "id": "zag",
+    "type": "user",
+    "name": "углы «Исимуры»"
+  },
+  "via": {
+    "url": "http://friendfeed.com/share/bookmarklet",
+    "name": "Bookmarklet"
+  },
+  "comments": [
+    {
+      "body": "Many of these Chrome extensions can help you increase your productivity and enable you to perform your jobs easier and faster.",
+      "via": {
+        "url": "http://friendfeed.com/share/bookmarklet",
+        "name": "Bookmarklet"
+      },
+      "id": "e/03e62cc3781f452bacc5edecbcd36e43/c/a57238efb0184cac92da6284817e69ce",
+      "date": "2010-04-05T09:41:24Z",
+      "rawBody": "Many of these Chrome extensions can help you increase your productivity and enable you to perform your jobs easier and faster.",
+      "from": {
+        "id": "zag",
+        "type": "user",
+        "name": "углы «Исимуры»"
+      }
+    }
+  ],
+  "id": "e/03e62cc3781f452bacc5edecbcd36e43",
+  "rawBody": "10 Google Chrome Extensions for Boosting Your Productivity",
+  "date": "2010-04-05T09:41:24Z",
+  "url": "http://friendfeed.com/zag/03e62cc3/10-google-chrome-extensions-for-boosting-your",
+  "thumbnails": [
+    {
+      "width": 481,
+      "url": "http://m.friendfeed-media.com/f0613e38d2d3a0e5e5dcf7d3497aee20d061f363",
+      "height": 175,
+      "link": "http://sixrevisions.com/tools/10-google-chrome-extensions-for-boosting-your-productivity/"
+    }
+  ],
+  "body": "10 Google Chrome Extensions for Boosting Your Productivity - <a rel=\"nofollow\" href=\"http://sixrevisions.com/tools/10-google-chrome-extensions-for-boosting-your-productivity/\" title=\"http://sixrevisions.com/tools/10-google-chrome-extensions-for-boosting-your-productivity/\">http://sixrevisions.com/tools...</a>",
+  "rawLink": "http://sixrevisions.com/tools/10-google-chrome-extensions-for-boosting-your-productivity/"
+}
+=end comment
+
+=end pod

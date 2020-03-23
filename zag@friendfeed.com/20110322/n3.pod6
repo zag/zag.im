@@ -1,0 +1,68 @@
+=begin pod :pubdate('2011-03-22T05:42:27Z') :type<note> 
+=NAME Сундучок мыслей - Моя крайняя книга доступна в печатном виде
+
+=begin DESCRIPTION
+
+Сундучок мыслей - Моя крайняя книга доступна в печатном виде - L<link|http://users.livejournal.com/_darkus_/565893.html#>
+
+=item "Наконец-то заключил договор с издательством «Вебов и Книгин», так что книгу можно распечатывать по технологии print-on-demand."
+=item ранее по этой теме:http://friendfeed.com/zag/dcc3dd05/c
+
+
+=end DESCRIPTION
+
+Сундучок мыслей - Моя крайняя книга доступна в печатном виде - L<link|http://users.livejournal.com/_darkus_/565893.html#>
+
+=item "Наконец-то заключил договор с издательством «Вебов и Книгин», так что книгу можно распечатывать по технологии print-on-demand."
+=item ранее по этой теме:http://friendfeed.com/zag/dcc3dd05/c
+
+
+=begin comment :src
+{
+  "via": {
+    "name": "Bookmarklet",
+    "url": "http://friendfeed.com/share/bookmarklet"
+  },
+  "from": {
+    "id": "zag",
+    "type": "user",
+    "name": "углы «Исимуры»"
+  },
+  "comments": [
+    {
+      "via": {
+        "name": "Bookmarklet",
+        "url": "http://friendfeed.com/share/bookmarklet"
+      },
+      "date": "2011-03-22T05:42:27Z",
+      "id": "e/770bb463c26647d7a1600d2d7bd32993/c/4c4d6978f2e143f2897402788244667b",
+      "rawBody": "\"Наконец-то заключил договор с издательством «Вебов и Книгин», так что книгу можно распечатывать по технологии print-on-demand.\"",
+      "from": {
+        "name": "углы «Исимуры»",
+        "type": "user",
+        "id": "zag"
+      },
+      "body": "&quot;Наконец-то заключил договор с издательством «Вебов и Книгин», так что книгу можно распечатывать по технологии print-on-demand.&quot;"
+    },
+    {
+      "rawBody": "ранее по этой теме:http://friendfeed.com/zag/dcc3dd05/c",
+      "date": "2011-03-22T05:43:18Z",
+      "id": "e/770bb463c26647d7a1600d2d7bd32993/c/2c7dbfdead734918b262910d4396c34f",
+      "from": {
+        "name": "углы «Исимуры»",
+        "type": "user",
+        "id": "zag"
+      },
+      "body": "ранее по этой теме:<a href=\"http://friendfeed.com/zag/dcc3dd05/c\" title=\"http://friendfeed.com/zag/dcc3dd05/c\">http://friendfeed.com/zag...</a>"
+    }
+  ],
+  "id": "e/770bb463c26647d7a1600d2d7bd32993",
+  "date": "2011-03-22T05:42:27Z",
+  "rawBody": "Сундучок мыслей - Моя крайняя книга доступна в печатном виде",
+  "url": "http://friendfeed.com/zag/770bb463",
+  "body": "Сундучок мыслей - Моя крайняя книга доступна в печатном виде - <a rel=\"nofollow\" href=\"http://users.livejournal.com/_darkus_/565893.html#\" title=\"http://users.livejournal.com/_darkus_/565893.html#\">http://users.livejournal.com/_darkus...</a>",
+  "rawLink": "http://users.livejournal.com/_darkus_/565893.html#"
+}
+=end comment
+
+=end pod

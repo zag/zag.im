@@ -1,0 +1,36 @@
+=begin pod :pubdate('2009-08-17T10:05:27Z') :type<note> 
+=NAME auto_increment - бомба замедленного действия.
+
+=begin DESCRIPTION
+
+auto_increment - бомба замедленного действия. - L<link|http://twitter.com/zagru/statuses/3359383193>
+
+
+
+=end DESCRIPTION
+
+auto_increment - бомба замедленного действия. - L<link|http://twitter.com/zagru/statuses/3359383193>
+
+
+
+=begin comment :src
+{
+  "from": {
+    "id": "zag",
+    "type": "user",
+    "name": "углы «Исимуры»"
+  },
+  "via": {
+    "url": "http://twitter.com/zagru/statuses/3359383193",
+    "name": "Twitter"
+  },
+  "rawLink": "http://twitter.com/zagru/statuses/3359383193",
+  "body": "auto_increment - бомба замедленного действия.",
+  "date": "2009-08-17T10:05:27Z",
+  "id": "e/5a798bae8872621532d7458f311c83af",
+  "rawBody": "auto_increment - бомба замедленного действия.",
+  "url": "http://friendfeed.com/zag/5a798bae/auto_increment"
+}
+=end comment
+
+=end pod

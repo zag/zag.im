@@ -1,0 +1,48 @@
+=begin pod :pubdate('2010-11-12T15:12:31Z') :type<note> :tags<gddru>
+=NAME Ps3 at #gddru
+
+=begin DESCRIPTION
+
+Ps3 at #gddru
+=for Image :width(233) :link('http://m.friendfeed-media.com/221ad534aec43622c03820b171b015396d2c9984') :height(175) :preview
+media/f38d92f5134063ffd53b12aa9f0695ec876ec8a9.jpg
+
+
+
+=end DESCRIPTION
+
+Ps3 at #gddru
+=for Image :width(233) :link('http://m.friendfeed-media.com/221ad534aec43622c03820b171b015396d2c9984') :height(175) :preview
+media/f38d92f5134063ffd53b12aa9f0695ec876ec8a9.jpg
+
+
+
+=begin comment :src
+{
+  "from": {
+    "id": "zag",
+    "type": "user",
+    "name": "углы «Исимуры»"
+  },
+  "via": {
+    "name": "email",
+    "url": "http://friendfeed.com/share/mail"
+  },
+  "body": "Ps3 at <a href=\"http://friendfeed.com/search?q=%23gddru\">#gddru</a>",
+  "rawLink": "http://friendfeed.com/e/699ed37f-2fd3-449a-b435-6c4ffd34133a",
+  "rawBody": "Ps3 at #gddru",
+  "id": "e/699ed37f2fd3449ab4356c4ffd34133a",
+  "date": "2010-11-12T15:12:31Z",
+  "url": "http://friendfeed.com/zag/699ed37f/ps3-at-gddru",
+  "thumbnails": [
+    {
+      "height": 175,
+      "link": "http://m.friendfeed-media.com/221ad534aec43622c03820b171b015396d2c9984",
+      "width": 233,
+      "url": "http://m.friendfeed-media.com/f38d92f5134063ffd53b12aa9f0695ec876ec8a9"
+    }
+  ]
+}
+=end comment
+
+=end pod

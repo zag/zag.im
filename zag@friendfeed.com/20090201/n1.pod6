@@ -1,0 +1,32 @@
+=begin pod :pubdate('2009-02-01T14:17:47Z') :type<note> 
+=NAME sss
+
+=begin DESCRIPTION
+
+sss - L<link|http://www.er>
+
+
+
+=end DESCRIPTION
+
+sss - L<link|http://www.er>
+
+
+
+=begin comment :src
+{
+  "body": "sss - <a rel=\"nofollow\" href=\"http://www.er\">http://www.er</a>",
+  "rawLink": "http://www.er",
+  "rawBody": "sss",
+  "id": "e/b41b0b05dccd49d984b93a4a6039ad4f",
+  "date": "2009-02-01T14:17:47Z",
+  "url": "http://friendfeed.com/zag/b41b0b05/sss",
+  "from": {
+    "name": "углы «Исимуры»",
+    "type": "user",
+    "id": "zag"
+  }
+}
+=end comment
+
+=end pod

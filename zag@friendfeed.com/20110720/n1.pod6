@@ -1,0 +1,44 @@
+=begin pod :pubdate('2011-07-20T11:10:33Z') :type<note> 
+=NAME twitter matrix : http://kenneth.kufluk.com/matrix/ sources: http://bit.ly/pmlbJr
+
+=begin DESCRIPTION
+
+twitter matrix : http://kenneth.kufluk.com/matrix/ sources: http://bit.ly/pmlbJr
+=for Image :width(210) :link('http://m.friendfeed-media.com/45adad3e9ba44798cd2e870b7b7182e989eec20a') :height(175) :preview
+media/2fa30454cc6544a52af9793271850982c46d8ade.jpg
+
+
+
+=end DESCRIPTION
+
+twitter matrix : http://kenneth.kufluk.com/matrix/ sources: http://bit.ly/pmlbJr
+=for Image :width(210) :link('http://m.friendfeed-media.com/45adad3e9ba44798cd2e870b7b7182e989eec20a') :height(175) :preview
+media/2fa30454cc6544a52af9793271850982c46d8ade.jpg
+
+
+
+=begin comment :src
+{
+  "url": "http://friendfeed.com/zag/85304de2/twitter-matrix-sources",
+  "id": "e/85304de270214c888ba959fe7ad6ae60",
+  "date": "2011-07-20T11:10:33Z",
+  "rawBody": "twitter matrix : http://kenneth.kufluk.com/matrix/ sources: http://bit.ly/pmlbJr",
+  "thumbnails": [
+    {
+      "link": "http://m.friendfeed-media.com/45adad3e9ba44798cd2e870b7b7182e989eec20a",
+      "height": 175,
+      "url": "http://m.friendfeed-media.com/2fa30454cc6544a52af9793271850982c46d8ade",
+      "width": 210
+    }
+  ],
+  "rawLink": "http://friendfeed.com/e/85304de2-7021-4c88-8ba9-59fe7ad6ae60",
+  "body": "twitter matrix : <a rel=\"nofollow\" href=\"http://kenneth.kufluk.com/matrix/\" title=\"http://kenneth.kufluk.com/matrix/\">http://kenneth.kufluk.com/matrix...</a> sources: <a rel=\"nofollow\" href=\"http://bit.ly/pmlbJr\">http://bit.ly/pmlbJr</a>",
+  "from": {
+    "type": "user",
+    "id": "zag",
+    "name": "углы «Исимуры»"
+  }
+}
+=end comment
+
+=end pod

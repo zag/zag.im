@@ -1,0 +1,68 @@
+=begin pod :pubdate('2010-09-21T03:45:21Z') :type<note> 
+=NAME Five Best Movie Recommendation Services / Пять лучших рекомендационных сервисов по фильмам
+
+=begin DESCRIPTION
+
+Five Best Movie Recommendation Services / Пять лучших рекомендационных сервисов по фильмам - L<link|http://lifehacker.com/5642050/five-best-movie-recommendation-services>
+=for Image :width(266) :link('http://lifehacker.com/5642050/five-best-movie-recommendation-services') :height(175) :preview
+media/63afdd5088c392cbd501a4a962e6ec582e8c7b85.jpg
+=for Image :width(244) :link('http://lifehacker.com/5642050/five-best-movie-recommendation-services') :height(175) :preview
+media/55a8bef6e2af14c7ab3e76fb3304b95ffe77c821.jpg
+=for Image :width(321) :link('http://lifehacker.com/5642050/five-best-movie-recommendation-services') :height(175) :preview
+media/5c9c8cef157ea0819d6fb8a866c06e29d2cbcdf6.jpg
+
+
+
+=end DESCRIPTION
+
+Five Best Movie Recommendation Services / Пять лучших рекомендационных сервисов по фильмам - L<link|http://lifehacker.com/5642050/five-best-movie-recommendation-services>
+=for Image :width(266) :link('http://lifehacker.com/5642050/five-best-movie-recommendation-services') :height(175) :preview
+media/63afdd5088c392cbd501a4a962e6ec582e8c7b85.jpg
+=for Image :width(244) :link('http://lifehacker.com/5642050/five-best-movie-recommendation-services') :height(175) :preview
+media/55a8bef6e2af14c7ab3e76fb3304b95ffe77c821.jpg
+=for Image :width(321) :link('http://lifehacker.com/5642050/five-best-movie-recommendation-services') :height(175) :preview
+media/5c9c8cef157ea0819d6fb8a866c06e29d2cbcdf6.jpg
+
+
+
+=begin comment :src
+{
+  "via": {
+    "name": "Bookmarklet",
+    "url": "http://friendfeed.com/share/bookmarklet"
+  },
+  "from": {
+    "id": "zag",
+    "type": "user",
+    "name": "углы «Исимуры»"
+  },
+  "body": "Five Best Movie Recommendation Services / Пять лучших рекомендационных сервисов по фильмам - <a rel=\"nofollow\" href=\"http://lifehacker.com/5642050/five-best-movie-recommendation-services\" title=\"http://lifehacker.com/5642050/five-best-movie-recommendation-services\">http://lifehacker.com/5642050...</a>",
+  "rawLink": "http://lifehacker.com/5642050/five-best-movie-recommendation-services",
+  "date": "2010-09-21T03:45:21Z",
+  "id": "e/a599f085627b43a0af8d0a8a3e4462da",
+  "rawBody": "Five Best Movie Recommendation Services / Пять лучших рекомендационных сервисов по фильмам",
+  "url": "http://friendfeed.com/zag/a599f085/five-best-movie-recommendation-services",
+  "thumbnails": [
+    {
+      "height": 175,
+      "link": "http://lifehacker.com/5642050/five-best-movie-recommendation-services",
+      "url": "http://m.friendfeed-media.com/63afdd5088c392cbd501a4a962e6ec582e8c7b85",
+      "width": 266
+    },
+    {
+      "url": "http://m.friendfeed-media.com/55a8bef6e2af14c7ab3e76fb3304b95ffe77c821",
+      "width": 244,
+      "height": 175,
+      "link": "http://lifehacker.com/5642050/five-best-movie-recommendation-services"
+    },
+    {
+      "height": 175,
+      "link": "http://lifehacker.com/5642050/five-best-movie-recommendation-services",
+      "url": "http://m.friendfeed-media.com/5c9c8cef157ea0819d6fb8a866c06e29d2cbcdf6",
+      "width": 321
+    }
+  ]
+}
+=end comment
+
+=end pod

@@ -1,0 +1,44 @@
+=begin pod :pubdate('2014-12-19T16:43:35Z') :type<note> 
+=NAME make.believe
+
+=begin DESCRIPTION
+
+make.believe
+=for Image :width(263) :link('http://m.friendfeed-media.com/1cef0daba471f6f444de903e2508d1c81e286fb5') :height(175) :preview
+media/6b45359589facd7717bbc44154202e10c152ce34.jpg
+
+
+
+=end DESCRIPTION
+
+make.believe
+=for Image :width(263) :link('http://m.friendfeed-media.com/1cef0daba471f6f444de903e2508d1c81e286fb5') :height(175) :preview
+media/6b45359589facd7717bbc44154202e10c152ce34.jpg
+
+
+
+=begin comment :src
+{
+  "body": "make.believe",
+  "rawLink": "http://friendfeed.com/e/4fbc94fd-9bfe-4c36-90db-f83982a3f7a8",
+  "id": "e/4fbc94fd9bfe4c3690dbf83982a3f7a8",
+  "date": "2014-12-19T16:43:35Z",
+  "thumbnails": [
+    {
+      "url": "http://m.friendfeed-media.com/6b45359589facd7717bbc44154202e10c152ce34",
+      "width": 263,
+      "height": 175,
+      "link": "http://m.friendfeed-media.com/1cef0daba471f6f444de903e2508d1c81e286fb5"
+    }
+  ],
+  "rawBody": "make.believe",
+  "url": "http://friendfeed.com/zag/4fbc94fd/make-believe",
+  "from": {
+    "name": "углы «Исимуры»",
+    "type": "user",
+    "id": "zag"
+  }
+}
+=end comment
+
+=end pod

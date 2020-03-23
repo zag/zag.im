@@ -1,0 +1,48 @@
+=begin pod :pubdate('2010-10-01T08:38:43Z') :type<note> :tags<yac2010>
+=NAME Фрэймворк lunapark #yac2010
+
+=begin DESCRIPTION
+
+Фрэймворк lunapark #yac2010
+=for Image :width(233) :link('http://m.friendfeed-media.com/78265b42810c175d2545b2da27214e48fdff40ee') :height(175) :preview
+media/8dfa577403f7c1c17d4c9c71c94f60089cfba266.jpg
+
+
+
+=end DESCRIPTION
+
+Фрэймворк lunapark #yac2010
+=for Image :width(233) :link('http://m.friendfeed-media.com/78265b42810c175d2545b2da27214e48fdff40ee') :height(175) :preview
+media/8dfa577403f7c1c17d4c9c71c94f60089cfba266.jpg
+
+
+
+=begin comment :src
+{
+  "via": {
+    "name": "email",
+    "url": "http://friendfeed.com/share/mail"
+  },
+  "from": {
+    "id": "zag",
+    "type": "user",
+    "name": "углы «Исимуры»"
+  },
+  "date": "2010-10-01T08:38:43Z",
+  "id": "e/566e6ca9cb91479ebabfcbb1ffc57dce",
+  "rawBody": "Фрэймворк lunapark #yac2010",
+  "thumbnails": [
+    {
+      "link": "http://m.friendfeed-media.com/78265b42810c175d2545b2da27214e48fdff40ee",
+      "height": 175,
+      "url": "http://m.friendfeed-media.com/8dfa577403f7c1c17d4c9c71c94f60089cfba266",
+      "width": 233
+    }
+  ],
+  "url": "http://friendfeed.com/zag/566e6ca9/lunapark-yac2010",
+  "rawLink": "http://friendfeed.com/e/566e6ca9-cb91-479e-babf-cbb1ffc57dce",
+  "body": "Фрэймворк lunapark <a href=\"http://friendfeed.com/search?q=%23yac2010\">#yac2010</a>"
+}
+=end comment
+
+=end pod

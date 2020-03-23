@@ -1,0 +1,36 @@
+=begin pod :pubdate('2009-09-02T09:02:04Z') :type<note> 
+=NAME github выложил в рамках конкурса на рекомендательный движок свою базу по проектам. Много интересных фактов:(4mb)http://tinyurl.com/kvntkx
+
+=begin DESCRIPTION
+
+github выложил в рамках конкурса на рекомендательный движок свою базу по проектам. Много интересных фактов:(4mb)http://tinyurl.com/kvntkx - L<link|http://twitter.com/zagru/statuses/3708092462>
+
+
+
+=end DESCRIPTION
+
+github выложил в рамках конкурса на рекомендательный движок свою базу по проектам. Много интересных фактов:(4mb)http://tinyurl.com/kvntkx - L<link|http://twitter.com/zagru/statuses/3708092462>
+
+
+
+=begin comment :src
+{
+  "from": {
+    "type": "user",
+    "id": "zag",
+    "name": "углы «Исимуры»"
+  },
+  "via": {
+    "name": "Twitter",
+    "url": "http://twitter.com/zagru/statuses/3708092462"
+  },
+  "rawBody": "github выложил в рамках конкурса на рекомендательный движок свою базу по проектам. Много интересных фактов:(4mb)http://tinyurl.com/kvntkx",
+  "id": "e/b116179f83079c4dd286432e76a7ee56",
+  "date": "2009-09-02T09:02:04Z",
+  "url": "http://friendfeed.com/zag/b116179f/github-4mb",
+  "rawLink": "http://twitter.com/zagru/statuses/3708092462",
+  "body": "github выложил в рамках конкурса на рекомендательный движок свою базу по проектам. Много интересных фактов:(4mb)<a rel=\"nofollow\" href=\"http://tinyurl.com/kvntkx\" title=\"http://github.s3.amazonaws.com/data/download.zip\">http://github.s3.amazonaws.com/data...</a>"
+}
+=end comment
+
+=end pod

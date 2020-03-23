@@ -1,0 +1,36 @@
+=begin pod :pubdate('2012-01-28T19:40:21Z') :type<note> :tags<Privacy DataPrivacyDay>
+=NAME Оказывается есть такой Data Privacy Day. И он был сегодня. #Privacy #DataPrivacyDay
+
+=begin DESCRIPTION
+
+Оказывается есть такой Data Privacy Day. И он был сегодня. #Privacy #DataPrivacyDay - L<link|http://en.wikipedia.org/wiki/Data_Privacy_Day>
+
+
+
+=end DESCRIPTION
+
+Оказывается есть такой Data Privacy Day. И он был сегодня. #Privacy #DataPrivacyDay - L<link|http://en.wikipedia.org/wiki/Data_Privacy_Day>
+
+
+
+=begin comment :src
+{
+  "rawLink": "http://en.wikipedia.org/wiki/Data_Privacy_Day",
+  "body": "Оказывается есть такой Data Privacy Day. И он был сегодня. <a href=\"http://friendfeed.com/search?q=%23Privacy\">#Privacy</a> <a href=\"http://friendfeed.com/search?q=%23DataPrivacyDay\">#DataPrivacyDay</a> - <a rel=\"nofollow\" href=\"http://en.wikipedia.org/wiki/Data_Privacy_Day\" title=\"http://en.wikipedia.org/wiki/Data_Privacy_Day\">http://en.wikipedia.org/wiki...</a>",
+  "date": "2012-01-28T19:40:21Z",
+  "id": "e/5239dbc205524ba684a82ccae0ed9672",
+  "rawBody": "Оказывается есть такой Data Privacy Day. И он был сегодня. #Privacy #DataPrivacyDay",
+  "url": "http://friendfeed.com/zag/5239dbc2/data-privacy-day-dataprivacyday",
+  "via": {
+    "url": "http://friendfeed.com/share/bookmarklet",
+    "name": "Bookmarklet"
+  },
+  "from": {
+    "name": "углы «Исимуры»",
+    "id": "zag",
+    "type": "user"
+  }
+}
+=end comment
+
+=end pod

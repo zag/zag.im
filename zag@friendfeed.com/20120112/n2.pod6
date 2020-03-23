@@ -1,0 +1,68 @@
+=begin pod :pubdate('2012-01-12T04:47:59Z') :type<note> 
+=NAME Axure | Features to create Wireframes, Prototypes, and Specifications
+
+=begin DESCRIPTION
+
+Axure | Features to create Wireframes, Prototypes, and Specifications - L<link|http://www.axure.com/features#>
+=for Image :width(318) :link('http://www.axure.com/features#') :height(175) :preview
+media/751d04d82a805baf87a481705dd0346feb565aa3.jpg
+=for Image :width(318) :link('http://www.axure.com/features#') :height(175) :preview
+media/7a3205223f0a7b5abbdd720576430e45f618d5fe.jpg
+=for Image :width(318) :link('http://www.axure.com/features#') :height(175) :preview
+media/2c26d056fa0b2b6dac2148a4746429e6afdebe46.jpg
+
+
+
+=end DESCRIPTION
+
+Axure | Features to create Wireframes, Prototypes, and Specifications - L<link|http://www.axure.com/features#>
+=for Image :width(318) :link('http://www.axure.com/features#') :height(175) :preview
+media/751d04d82a805baf87a481705dd0346feb565aa3.jpg
+=for Image :width(318) :link('http://www.axure.com/features#') :height(175) :preview
+media/7a3205223f0a7b5abbdd720576430e45f618d5fe.jpg
+=for Image :width(318) :link('http://www.axure.com/features#') :height(175) :preview
+media/2c26d056fa0b2b6dac2148a4746429e6afdebe46.jpg
+
+
+
+=begin comment :src
+{
+  "via": {
+    "url": "http://friendfeed.com/share/bookmarklet",
+    "name": "Bookmarklet"
+  },
+  "from": {
+    "id": "zag",
+    "type": "user",
+    "name": "углы «Исимуры»"
+  },
+  "url": "http://friendfeed.com/zag/704cecb3/axure-features-to-create-wireframes",
+  "id": "e/704cecb3ddb64c9c88afb5662e78fcfe",
+  "date": "2012-01-12T04:47:59Z",
+  "rawBody": "Axure | Features to create Wireframes, Prototypes, and Specifications",
+  "thumbnails": [
+    {
+      "height": 175,
+      "link": "http://www.axure.com/features#",
+      "width": 318,
+      "url": "http://m.friendfeed-media.com/751d04d82a805baf87a481705dd0346feb565aa3"
+    },
+    {
+      "url": "http://m.friendfeed-media.com/7a3205223f0a7b5abbdd720576430e45f618d5fe",
+      "width": 318,
+      "link": "http://www.axure.com/features#",
+      "height": 175
+    },
+    {
+      "url": "http://m.friendfeed-media.com/2c26d056fa0b2b6dac2148a4746429e6afdebe46",
+      "width": 318,
+      "link": "http://www.axure.com/features#",
+      "height": 175
+    }
+  ],
+  "rawLink": "http://www.axure.com/features#",
+  "body": "Axure | Features to create Wireframes, Prototypes, and Specifications - <a rel=\"nofollow\" href=\"http://www.axure.com/features#\">http://www.axure.com/features#</a>"
+}
+=end comment
+
+=end pod

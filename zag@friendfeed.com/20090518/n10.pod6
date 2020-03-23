@@ -1,0 +1,36 @@
+=begin pod :pubdate('2009-05-18T08:04:33Z') :type<note> 
+=NAME смотрю софт для symbian для twiter'а http://bit.ly/2Ln73
+
+=begin DESCRIPTION
+
+смотрю софт для symbian для twiter'а http://bit.ly/2Ln73 - L<link|http://twitter.com/zagru/statuses/1833955512>
+
+
+
+=end DESCRIPTION
+
+смотрю софт для symbian для twiter'а http://bit.ly/2Ln73 - L<link|http://twitter.com/zagru/statuses/1833955512>
+
+
+
+=begin comment :src
+{
+  "date": "2009-05-18T08:04:33Z",
+  "id": "e/31d8138b60340845385a8a99be97e06f",
+  "rawBody": "смотрю софт для symbian для twiter'а http://bit.ly/2Ln73",
+  "url": "http://friendfeed.com/zag/31d8138b/symbian-twiter",
+  "rawLink": "http://twitter.com/zagru/statuses/1833955512",
+  "body": "смотрю софт для symbian для twiter'а <a rel=\"nofollow\" href=\"http://bit.ly/2Ln73\" title=\"http://www.symbian-guru.com/welcome/2009/05/the-gurus-ultimate-guide-to-twitter-on-s60.html\">http://www.symbian-guru.com/welcome...</a>",
+  "from": {
+    "name": "углы «Исимуры»",
+    "id": "zag",
+    "type": "user"
+  },
+  "via": {
+    "url": "http://twitter.com/zagru/statuses/1833955512",
+    "name": "Twitter"
+  }
+}
+=end comment
+
+=end pod

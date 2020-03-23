@@ -1,0 +1,77 @@
+=begin pod :pubdate('2011-03-14T17:30:53Z') :type<note> 
+=NAME GNU Telephony » Blog Archive » GNU Free Call Announced
+
+=begin DESCRIPTION
+
+GNU Telephony » Blog Archive » GNU Free Call Announced - L<link|http://planet.gnu.org/gnutelephony/?p=14>
+=for Image :width(525) :link('http://planet.gnu.org/gnutelephony/?p=14') :height(138) :preview
+media/e356b93b9dbceb305a632d948695ceafaedee4bf.jpg
+
+=item We use the open standard SIP protocol and GNU SIP Witch to create secured peer-to-peer mesh calling networks, and we welcome all participation in our effort
+
+
+=end DESCRIPTION
+
+GNU Telephony » Blog Archive » GNU Free Call Announced - L<link|http://planet.gnu.org/gnutelephony/?p=14>
+=for Image :width(525) :link('http://planet.gnu.org/gnutelephony/?p=14') :height(138) :preview
+media/e356b93b9dbceb305a632d948695ceafaedee4bf.jpg
+
+=item We use the open standard SIP protocol and GNU SIP Witch to create secured peer-to-peer mesh calling networks, and we welcome all participation in our effort
+
+
+=begin comment :src
+{
+  "id": "e/87cd43d57c2948ca9996e235c2c39970",
+  "rawBody": "GNU Telephony » Blog Archive » GNU Free Call Announced",
+  "date": "2011-03-14T17:30:53Z",
+  "url": "http://friendfeed.com/zag/87cd43d5/gnu-telephony-blog-archive-free-call-announced",
+  "thumbnails": [
+    {
+      "link": "http://planet.gnu.org/gnutelephony/?p=14",
+      "height": 138,
+      "width": 525,
+      "url": "http://m.friendfeed-media.com/e356b93b9dbceb305a632d948695ceafaedee4bf"
+    }
+  ],
+  "body": "GNU Telephony » Blog Archive » GNU Free Call Announced - <a rel=\"nofollow\" href=\"http://planet.gnu.org/gnutelephony/?p=14\" title=\"http://planet.gnu.org/gnutelephony/?p=14\">http://planet.gnu.org/gnutele...</a>",
+  "likes": [
+    {
+      "date": "2011-03-14T19:53:56Z",
+      "from": {
+        "name": "alex@kapranoff.ru",
+        "type": "user",
+        "id": "kkapp"
+      }
+    }
+  ],
+  "rawLink": "http://planet.gnu.org/gnutelephony/?p=14",
+  "from": {
+    "name": "углы «Исимуры»",
+    "id": "zag",
+    "type": "user"
+  },
+  "via": {
+    "name": "Bookmarklet",
+    "url": "http://friendfeed.com/share/bookmarklet"
+  },
+  "comments": [
+    {
+      "via": {
+        "url": "http://friendfeed.com/share/bookmarklet",
+        "name": "Bookmarklet"
+      },
+      "date": "2011-03-14T17:30:53Z",
+      "id": "e/87cd43d57c2948ca9996e235c2c39970/c/b6afe12965fa41f2aabc49f5f3808ea8",
+      "rawBody": "We use the open standard SIP protocol and GNU SIP Witch to create secured peer-to-peer mesh calling networks, and we welcome all participation in our effort",
+      "from": {
+        "name": "углы «Исимуры»",
+        "type": "user",
+        "id": "zag"
+      },
+      "body": "We use the open standard SIP protocol and GNU SIP Witch to create secured peer-to-peer mesh calling networks, and we welcome all participation in our effort"
+    }
+  ]
+}
+=end comment
+
+=end pod

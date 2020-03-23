@@ -1,0 +1,68 @@
+=begin pod :pubdate('2011-07-28T08:45:51Z') :type<note> 
+=NAME nodejitsu - enterprise-class cloud hosting for node.js applications and websites
+
+=begin DESCRIPTION
+
+nodejitsu - enterprise-class cloud hosting for node.js applications and websites - L<link|http://www.nodejitsu.com/#/home>
+=for Image :width(525) :link('http://www.nodejitsu.com/#/home') :height(80) :preview
+media/01373429dac797621cdeb3703770fe65e2e514fd.jpg
+=for Image :width(128) :link('http://www.nodejitsu.com/#/home') :height(128) :preview
+media/be8e89111506bace5ed8f20abf636de0bae5f782.png
+=for Image :width(301) :link('http://www.nodejitsu.com/#/home') :height(164) :preview
+media/6a0c5052f495fb029414f1299693a8d58468d989.png
+
+
+
+=end DESCRIPTION
+
+nodejitsu - enterprise-class cloud hosting for node.js applications and websites - L<link|http://www.nodejitsu.com/#/home>
+=for Image :width(525) :link('http://www.nodejitsu.com/#/home') :height(80) :preview
+media/01373429dac797621cdeb3703770fe65e2e514fd.jpg
+=for Image :width(128) :link('http://www.nodejitsu.com/#/home') :height(128) :preview
+media/be8e89111506bace5ed8f20abf636de0bae5f782.png
+=for Image :width(301) :link('http://www.nodejitsu.com/#/home') :height(164) :preview
+media/6a0c5052f495fb029414f1299693a8d58468d989.png
+
+
+
+=begin comment :src
+{
+  "id": "e/8e2c69e3864a4d35ad1e49f74b57dbe7",
+  "date": "2011-07-28T08:45:51Z",
+  "thumbnails": [
+    {
+      "height": 80,
+      "link": "http://www.nodejitsu.com/#/home",
+      "url": "http://m.friendfeed-media.com/01373429dac797621cdeb3703770fe65e2e514fd",
+      "width": 525
+    },
+    {
+      "url": "http://m.friendfeed-media.com/be8e89111506bace5ed8f20abf636de0bae5f782",
+      "width": 128,
+      "link": "http://www.nodejitsu.com/#/home",
+      "height": 128
+    },
+    {
+      "link": "http://www.nodejitsu.com/#/home",
+      "height": 164,
+      "width": 301,
+      "url": "http://m.friendfeed-media.com/6a0c5052f495fb029414f1299693a8d58468d989"
+    }
+  ],
+  "rawBody": "nodejitsu - enterprise-class cloud hosting for node.js applications and websites",
+  "url": "http://friendfeed.com/zag/8e2c69e3/nodejitsu-enterprise-class-cloud-hosting-for",
+  "rawLink": "http://www.nodejitsu.com/#/home",
+  "body": "nodejitsu - enterprise-class cloud hosting for node.js applications and websites - <a rel=\"nofollow\" href=\"http://www.nodejitsu.com/#/home\" title=\"http://www.nodejitsu.com/#/home\">http://www.nodejitsu.com/#...</a>",
+  "from": {
+    "type": "user",
+    "id": "zag",
+    "name": "углы «Исимуры»"
+  },
+  "via": {
+    "url": "http://friendfeed.com/share/bookmarklet",
+    "name": "Bookmarklet"
+  }
+}
+=end comment
+
+=end pod

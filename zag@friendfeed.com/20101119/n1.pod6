@@ -1,0 +1,247 @@
+=begin pod :pubdate('2010-11-19T09:02:03Z') :type<note> 
+=NAME Exercise Hand / Упражнение для рук
+
+=begin DESCRIPTION
+
+Exercise Hand / Упражнение для рук
+
+=item снимает боль в суставах,
+нормализует давление,
+полностью убирает зубную и головную боль,
+улучшает зрение, аппетит, гардероб, внешний вид и жилищные условия.
+=item лайкаю каммент!
+
+
+=end DESCRIPTION
+
+Exercise Hand / Упражнение для рук
+
+=item снимает боль в суставах,
+нормализует давление,
+полностью убирает зубную и головную боль,
+улучшает зрение, аппетит, гардероб, внешний вид и жилищные условия.
+=item лайкаю каммент!
+
+
+=begin comment :src
+{
+  "date": "2010-11-19T09:02:03Z",
+  "id": "e/96886e7f361d4f419cd409e95e4710e1",
+  "url": "http://friendfeed.com/funny-pics-videos/96886e7f/exercise-hand",
+  "rawBody": "Exercise Hand / Упражнение для рук",
+  "thumbnails": [
+    {
+      "url": "http://asset.soup.io/asset/1245/7596_08d5_400.gif",
+      "link": "http://friendfeed.com/e/96886e7f-361d-4f41-9cd4-09e95e4710e1"
+    }
+  ],
+  "to": [
+    {
+      "type": "user",
+      "id": "zag",
+      "name": "углы's feed"
+    },
+    {
+      "id": "funny-pics-videos",
+      "type": "group",
+      "name": "Funny Pics and Videos"
+    }
+  ],
+  "likes": [
+    {
+      "from": {
+        "id": "seera",
+        "type": "user",
+        "name": "Finichek"
+      },
+      "date": "2010-11-21T19:50:29Z"
+    },
+    {
+      "from": {
+        "id": "kuchin",
+        "type": "user",
+        "name": "kuchin"
+      },
+      "date": "2010-11-20T07:05:49Z"
+    },
+    {
+      "from": {
+        "private": true,
+        "id": "iviotor",
+        "type": "user",
+        "name": "IvIotor"
+      },
+      "date": "2010-11-19T20:37:17Z"
+    },
+    {
+      "date": "2010-11-19T20:20:58Z",
+      "from": {
+        "type": "user",
+        "id": "asdonair",
+        "name": "^this"
+      }
+    },
+    {
+      "date": "2010-11-19T15:12:47Z",
+      "from": {
+        "type": "user",
+        "id": "enemo",
+        "name": "последние пни"
+      }
+    },
+    {
+      "date": "2010-11-19T14:48:14Z",
+      "from": {
+        "id": "boosinka",
+        "type": "user",
+        "name": "boosinka"
+      }
+    },
+    {
+      "date": "2010-11-19T14:47:54Z",
+      "from": {
+        "name": "Shashechka",
+        "type": "user",
+        "id": "shashashechka"
+      }
+    },
+    {
+      "date": "2010-11-19T14:24:43Z",
+      "from": {
+        "id": "turkishdelight",
+        "type": "user",
+        "name": "Turkish Delight"
+      }
+    },
+    {
+      "from": {
+        "id": "ilvar",
+        "type": "user",
+        "name": "Велопрограммист Аркадий"
+      },
+      "date": "2010-11-19T14:14:45Z"
+    },
+    {
+      "date": "2010-11-19T14:13:27Z",
+      "from": {
+        "type": "user",
+        "id": "hyperdub",
+        "name": "Hyperdub"
+      }
+    },
+    {
+      "date": "2010-11-19T14:04:20Z",
+      "from": {
+        "name": "reflexing",
+        "id": "reflexing",
+        "type": "user"
+      }
+    },
+    {
+      "from": {
+        "name": "9 других пользователя/-ей",
+        "type": "user",
+        "id": "quarck"
+      },
+      "date": "2010-11-19T13:59:52Z"
+    },
+    {
+      "from": {
+        "id": "burzoom",
+        "type": "user",
+        "name": "бык с ледорезом"
+      },
+      "date": "2010-11-19T13:12:02Z"
+    },
+    {
+      "date": "2010-11-19T12:09:06Z",
+      "from": {
+        "name": "woof",
+        "id": "woof",
+        "type": "user"
+      }
+    },
+    {
+      "from": {
+        "name": "Sergey Trofimov",
+        "id": "sargo",
+        "type": "user"
+      },
+      "date": "2010-11-19T12:03:44Z"
+    },
+    {
+      "date": "2010-11-19T12:00:34Z",
+      "from": {
+        "name": "Alexei Tymchenko",
+        "type": "user",
+        "id": "armiol"
+      }
+    },
+    {
+      "from": {
+        "name": "написано иероглифами",
+        "id": "naty007",
+        "type": "user"
+      },
+      "date": "2010-11-19T11:20:19Z"
+    },
+    {
+      "from": {
+        "id": "kkapp",
+        "type": "user",
+        "name": "alex@kapranoff.ru"
+      },
+      "date": "2010-11-19T11:19:04Z"
+    },
+    {
+      "date": "2010-11-19T09:19:03Z",
+      "from": {
+        "name": "jandark",
+        "id": "jandark",
+        "type": "user"
+      }
+    },
+    {
+      "from": {
+        "id": "jemm",
+        "type": "user",
+        "name": "Jemm"
+      },
+      "date": "2010-11-19T09:02:56Z"
+    }
+  ],
+  "rawLink": "http://friendfeed.com/e/96886e7f-361d-4f41-9cd4-09e95e4710e1",
+  "body": "Exercise Hand / Упражнение для рук",
+  "from": {
+    "id": "zag",
+    "type": "user",
+    "name": "углы «Исимуры»"
+  },
+  "comments": [
+    {
+      "body": "снимает боль в суставах,\nнормализует давление,\nполностью убирает зубную и головную боль,\nулучшает зрение, аппетит, гардероб, внешний вид и жилищные условия.",
+      "id": "e/96886e7f361d4f419cd409e95e4710e1/c/624cb9645e894b059a4b92b8ef62e329",
+      "rawBody": "снимает боль в суставах,\nнормализует давление,\nполностью убирает зубную и головную боль,\nулучшает зрение, аппетит, гардероб, внешний вид и жилищные условия.",
+      "from": {
+        "type": "user",
+        "id": "zag",
+        "name": "углы «Исимуры»"
+      },
+      "date": "2010-11-19T09:02:24Z"
+    },
+    {
+      "body": "лайкаю каммент!",
+      "from": {
+        "name": "9 других пользователя/-ей",
+        "type": "user",
+        "id": "quarck"
+      },
+      "rawBody": "лайкаю каммент!",
+      "id": "e/96886e7f361d4f419cd409e95e4710e1/c/7f99ed3ad5ab4130bfcc44360656fc98",
+      "date": "2010-11-19T14:00:06Z"
+    }
+  ]
+}
+=end comment
+
+=end pod

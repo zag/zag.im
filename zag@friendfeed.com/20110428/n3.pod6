@@ -1,0 +1,36 @@
+=begin pod :pubdate('2011-04-28T10:50:58Z') :type<note> :tags<LVEE>
+=NAME RT @lveecon: Открыт прием заявок на #LVEE 2011 - http://lvee.org/ru/news/87
+
+=begin DESCRIPTION
+
+RT @lveecon: Открыт прием заявок на #LVEE 2011 - http://lvee.org/ru/news/87 - L<link|http://twitter.com/zagru/statuses/63555799934439424>
+
+
+
+=end DESCRIPTION
+
+RT @lveecon: Открыт прием заявок на #LVEE 2011 - http://lvee.org/ru/news/87 - L<link|http://twitter.com/zagru/statuses/63555799934439424>
+
+
+
+=begin comment :src
+{
+  "id": "e/1e22343a8ae8d741e365d044d05a152d",
+  "rawBody": "RT @lveecon: Открыт прием заявок на #LVEE 2011 - http://lvee.org/ru/news/87",
+  "date": "2011-04-28T10:50:58Z",
+  "url": "http://friendfeed.com/zag/1e22343a/rt-lveecon-lvee-2011",
+  "rawLink": "http://twitter.com/zagru/statuses/63555799934439424",
+  "body": "RT @<a rel=\"nofollow\" href=\"http://twitter.com/lveecon\">lveecon</a>: Открыт прием заявок на <a rel=\"nofollow\" href=\"http://search.twitter.com/search?q=%23LVEE\">#LVEE</a> 2011 - <a rel=\"nofollow\" href=\"http://lvee.org/ru/news/87\">http://lvee.org/ru/news/87</a>",
+  "via": {
+    "name": "Twitter",
+    "url": "http://twitter.com/zagru/statuses/63555799934439424"
+  },
+  "from": {
+    "name": "углы «Исимуры»",
+    "type": "user",
+    "id": "zag"
+  }
+}
+=end comment
+
+=end pod

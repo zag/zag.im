@@ -1,0 +1,36 @@
+=begin pod :pubdate('2010-09-06T07:25:19Z') :type<note> :tags<perl6>
+=NAME RT @perlbuzz: Take a look at the speed improvements in Rakudo Star #perl6 http://gil.di.uminho.pt/users/smash/rakudo-bench.html
+
+=begin DESCRIPTION
+
+RT @perlbuzz: Take a look at the speed improvements in Rakudo Star #perl6 http://gil.di.uminho.pt/users/smash/rakudo-bench.html - L<link|http://twitter.com/zagru/statuses/23126072652>
+
+
+
+=end DESCRIPTION
+
+RT @perlbuzz: Take a look at the speed improvements in Rakudo Star #perl6 http://gil.di.uminho.pt/users/smash/rakudo-bench.html - L<link|http://twitter.com/zagru/statuses/23126072652>
+
+
+
+=begin comment :src
+{
+  "id": "e/ebc2844352c62041ee042e8b383ec869",
+  "date": "2010-09-06T07:25:19Z",
+  "rawBody": "RT @perlbuzz: Take a look at the speed improvements in Rakudo Star #perl6 http://gil.di.uminho.pt/users/smash/rakudo-bench.html",
+  "url": "http://friendfeed.com/zag/ebc28443/rt-perlbuzz-take-look-at-speed-improvements-in",
+  "rawLink": "http://twitter.com/zagru/statuses/23126072652",
+  "body": "RT @<a rel=\"nofollow\" href=\"http://twitter.com/perlbuzz\">perlbuzz</a>: Take a look at the speed improvements in Rakudo Star <a rel=\"nofollow\" href=\"http://search.twitter.com/search?q=%23perl6\">#perl6</a> <a rel=\"nofollow\" href=\"http://gil.di.uminho.pt/users/smash/rakudo-bench.html\" title=\"http://gil.di.uminho.pt/users/smash/rakudo-bench.html\">http://gil.di.uminho.pt/users...</a>",
+  "via": {
+    "url": "http://twitter.com/zagru/statuses/23126072652",
+    "name": "Twitter"
+  },
+  "from": {
+    "name": "углы «Исимуры»",
+    "type": "user",
+    "id": "zag"
+  }
+}
+=end comment
+
+=end pod

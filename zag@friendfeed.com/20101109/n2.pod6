@@ -1,0 +1,77 @@
+=begin pod :pubdate('2010-11-09T09:53:49Z') :type<note> 
+=NAME "Note the Google-colored lights on the ceiling of our new GBus!" chris
+
+=begin DESCRIPTION
+
+"Note the Google-colored lights on the ceiling of our new GBus!" chris - L<link|http://instagr.am/p/Mfrn/>
+=for Image :width(175) :link('http://instagr.am/p/Mfrn/') :height(175) :preview
+media/3fd144e9ae1fdd723d43820c3df54254f88c1e84.jpg
+
+=item Внутри google автобуса
+
+
+=end DESCRIPTION
+
+"Note the Google-colored lights on the ceiling of our new GBus!" chris - L<link|http://instagr.am/p/Mfrn/>
+=for Image :width(175) :link('http://instagr.am/p/Mfrn/') :height(175) :preview
+media/3fd144e9ae1fdd723d43820c3df54254f88c1e84.jpg
+
+=item Внутри google автобуса
+
+
+=begin comment :src
+{
+  "body": "&quot;Note the Google-colored lights on the ceiling of our new GBus!&quot; chris - <a rel=\"nofollow\" href=\"http://instagr.am/p/Mfrn/\">http://instagr.am/p/Mfrn/</a>",
+  "likes": [
+    {
+      "from": {
+        "name": "Daina Thomas",
+        "type": "user",
+        "id": "dainathomas1"
+      },
+      "date": "2010-11-09T11:04:40Z"
+    }
+  ],
+  "rawLink": "http://instagr.am/p/Mfrn/",
+  "date": "2010-11-09T09:53:49Z",
+  "id": "e/50fae263589247f9ae0768111ee6cf84",
+  "rawBody": "\"Note the Google-colored lights on the ceiling of our new GBus!\" chris",
+  "url": "http://friendfeed.com/zag/50fae263/note-google-colored-lights-on-ceiling-of-our-new",
+  "thumbnails": [
+    {
+      "link": "http://instagr.am/p/Mfrn/",
+      "height": 175,
+      "width": 175,
+      "url": "http://m.friendfeed-media.com/3fd144e9ae1fdd723d43820c3df54254f88c1e84"
+    }
+  ],
+  "comments": [
+    {
+      "via": {
+        "url": "http://friendfeed.com/share/bookmarklet",
+        "name": "Bookmarklet"
+      },
+      "from": {
+        "name": "углы «Исимуры»",
+        "id": "zag",
+        "type": "user"
+      },
+      "id": "e/50fae263589247f9ae0768111ee6cf84/c/42976fcd393e4af58f44dcfdce01f3dc",
+      "date": "2010-11-09T09:53:49Z",
+      "rawBody": "Внутри google автобуса",
+      "body": "Внутри google автобуса"
+    }
+  ],
+  "from": {
+    "name": "углы «Исимуры»",
+    "id": "zag",
+    "type": "user"
+  },
+  "via": {
+    "name": "Bookmarklet",
+    "url": "http://friendfeed.com/share/bookmarklet"
+  }
+}
+=end comment
+
+=end pod

@@ -1,0 +1,46 @@
+=begin pod :pubdate('2011-04-26T11:46:40Z') :type<note> :tags<perl i_3595398>
+=NAME RT @chromatic_x: Fantastic discussion of the status of #perl 6: http://irclog.perlgeek.de/perl6/2011-04-25#i_3595398
+
+=begin DESCRIPTION
+
+RT @chromatic_x: Fantastic discussion of the status of #perl 6: http://irclog.perlgeek.de/perl6/2011-04-25#i_3595398 - L<link|http://twitter.com/zagru/statuses/62845044054429696>
+
+
+
+=end DESCRIPTION
+
+RT @chromatic_x: Fantastic discussion of the status of #perl 6: http://irclog.perlgeek.de/perl6/2011-04-25#i_3595398 - L<link|http://twitter.com/zagru/statuses/62845044054429696>
+
+
+
+=begin comment :src
+{
+  "body": "RT @<a rel=\"nofollow\" href=\"http://twitter.com/chromatic_x\">chromatic_x</a>: Fantastic discussion of the status of <a rel=\"nofollow\" href=\"http://search.twitter.com/search?q=%23perl\">#perl</a> 6: <a rel=\"nofollow\" href=\"http://irclog.perlgeek.de/perl6/2011-04-25#i_3595398\" title=\"http://irclog.perlgeek.de/perl6/2011-04-25#i_3595398\">http://irclog.perlgeek.de/perl6...</a>",
+  "likes": [
+    {
+      "date": "2011-04-26T14:04:32Z",
+      "from": {
+        "name": "alex@kapranoff.ru",
+        "id": "kkapp",
+        "type": "user"
+      }
+    }
+  ],
+  "rawLink": "http://twitter.com/zagru/statuses/62845044054429696",
+  "date": "2011-04-26T11:46:40Z",
+  "id": "e/7d712f42635dcedad254f536d862115a",
+  "rawBody": "RT @chromatic_x: Fantastic discussion of the status of #perl 6: http://irclog.perlgeek.de/perl6/2011-04-25#i_3595398",
+  "url": "http://friendfeed.com/zag/7d712f42/rt-chromatic_x-fantastic-discussion-of-status",
+  "via": {
+    "name": "Twitter",
+    "url": "http://twitter.com/zagru/statuses/62845044054429696"
+  },
+  "from": {
+    "type": "user",
+    "id": "zag",
+    "name": "углы «Исимуры»"
+  }
+}
+=end comment
+
+=end pod

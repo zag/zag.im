@@ -1,0 +1,99 @@
+=begin pod :pubdate('2010-09-16T11:41:48Z') :type<note> :tags<nosql>
+=NAME Tarantool - хранилище данных в памяти, ключ - значение. OpenSource@Mail.ru
+
+=begin DESCRIPTION
+
+Tarantool - хранилище данных в памяти, ключ - значение. OpenSource@Mail.ru - L<link|http://opensource.mail.ru/tarantool/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0>
+=for Image :width(143) :link('http://opensource.mail.ru/tarantool/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0') :height(175) :preview
+media/d88bf41a718707217476187aa34e9403f3cf4741.jpg
+
+=item Убийца "айфона" #nosql
+
+
+=end DESCRIPTION
+
+Tarantool - хранилище данных в памяти, ключ - значение. OpenSource@Mail.ru - L<link|http://opensource.mail.ru/tarantool/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0>
+=for Image :width(143) :link('http://opensource.mail.ru/tarantool/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0') :height(175) :preview
+media/d88bf41a718707217476187aa34e9403f3cf4741.jpg
+
+=item Убийца "айфона" #nosql
+
+
+=begin comment :src
+{
+  "thumbnails": [
+    {
+      "url": "http://m.friendfeed-media.com/d88bf41a718707217476187aa34e9403f3cf4741",
+      "width": 143,
+      "link": "http://opensource.mail.ru/tarantool/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0",
+      "height": 175
+    }
+  ],
+  "id": "e/537619ba45a043f6ac3b77e3d3564bda",
+  "date": "2010-09-16T11:41:48Z",
+  "rawBody": "Tarantool - хранилище данных в памяти, ключ - значение. OpenSource@Mail.ru",
+  "url": "http://friendfeed.com/zag/537619ba/tarantool-opensource-mail-ru",
+  "rawLink": "http://opensource.mail.ru/tarantool/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0",
+  "likes": [
+    {
+      "date": "2010-09-16T13:27:09Z",
+      "from": {
+        "name": "MK",
+        "id": "innin",
+        "type": "user",
+        "private": true
+      }
+    },
+    {
+      "date": "2010-09-16T13:11:19Z",
+      "from": {
+        "name": "Остались сутки!",
+        "id": "kukutz",
+        "type": "user",
+        "private": true
+      }
+    },
+    {
+      "date": "2010-09-16T13:07:38Z",
+      "from": {
+        "name": "woof",
+        "id": "woof",
+        "type": "user"
+      }
+    },
+    {
+      "date": "2010-09-16T13:02:50Z",
+      "from": {
+        "id": "kkapp",
+        "type": "user",
+        "name": "alex@kapranoff.ru"
+      }
+    }
+  ],
+  "body": "Tarantool - хранилище данных в памяти, ключ - значение. OpenSource@Mail.ru - <a rel=\"nofollow\" href=\"http://opensource.mail.ru/tarantool/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0\" title=\"http://opensource.mail.ru/tarantool/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0\">http://opensource.mail.ru/taranto...</a>",
+  "via": {
+    "name": "Bookmarklet",
+    "url": "http://friendfeed.com/share/bookmarklet"
+  },
+  "from": {
+    "name": "углы «Исимуры»",
+    "type": "user",
+    "id": "zag"
+  },
+  "comments": [
+    {
+      "rawBody": "Убийца \"айфона\" #nosql",
+      "id": "e/537619ba45a043f6ac3b77e3d3564bda/c/93d61cfc954147f4a1ddc6b59386e1c1",
+      "from": {
+        "name": "углы «Исимуры»",
+        "type": "user",
+        "id": "zag"
+      },
+      "date": "2010-09-16T11:45:25Z",
+      "body": "Убийца &quot;айфона&quot; <a href=\"http://friendfeed.com/search?q=%23nosql\">#nosql</a>"
+    }
+  ]
+}
+=end comment
+
+=end pod

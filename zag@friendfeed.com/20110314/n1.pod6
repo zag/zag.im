@@ -1,0 +1,55 @@
+=begin pod :pubdate('2011-03-14T17:35:58Z') :type<note> 
+=NAME RT @newsycombinator: All private Google Profiles will be deleted after July 31, 2011 http://j.mp/hRJCvj
+
+=begin DESCRIPTION
+
+RT @newsycombinator: All private Google Profiles will be deleted after July 31, 2011 http://j.mp/hRJCvj - L<link|http://twitter.com/zagru/statuses/47350270014930944>
+
+
+
+=end DESCRIPTION
+
+RT @newsycombinator: All private Google Profiles will be deleted after July 31, 2011 http://j.mp/hRJCvj - L<link|http://twitter.com/zagru/statuses/47350270014930944>
+
+
+
+=begin comment :src
+{
+  "likes": [
+    {
+      "date": "2011-03-15T03:17:18Z",
+      "from": {
+        "type": "user",
+        "id": "kukutz",
+        "private": true,
+        "name": "Остались сутки!"
+      }
+    },
+    {
+      "date": "2011-03-14T19:53:47Z",
+      "from": {
+        "name": "alex@kapranoff.ru",
+        "type": "user",
+        "id": "kkapp"
+      }
+    }
+  ],
+  "rawLink": "http://twitter.com/zagru/statuses/47350270014930944",
+  "body": "RT @<a rel=\"nofollow\" href=\"http://twitter.com/newsycombinator\">newsycombinator</a>: All private Google Profiles will be deleted after July 31, 2011 <a rel=\"nofollow\" href=\"http://j.mp/hRJCvj\" title=\"http://www.google.com/support/profiles/bin/answer.py?hl=en&amp;answer=1192471&amp;p=public_profile\">http://www.google.com/support...</a>",
+  "rawBody": "RT @newsycombinator: All private Google Profiles will be deleted after July 31, 2011 http://j.mp/hRJCvj",
+  "id": "e/dd881ba1e03f5d0cda4ca71d9a320699",
+  "date": "2011-03-14T17:35:58Z",
+  "url": "http://friendfeed.com/zag/dd881ba1/rt-newsycombinator-all-private-google",
+  "via": {
+    "url": "http://twitter.com/zagru/statuses/47350270014930944",
+    "name": "Twitter"
+  },
+  "from": {
+    "id": "zag",
+    "type": "user",
+    "name": "углы «Исимуры»"
+  }
+}
+=end comment
+
+=end pod

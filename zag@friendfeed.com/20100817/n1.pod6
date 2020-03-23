@@ -1,0 +1,154 @@
+=begin pod :pubdate('2010-08-17T10:59:23Z') :type<note> 
+=NAME MapReduce
+
+=begin DESCRIPTION
+
+MapReduce
+=for Image :width(240) :link('http://m.friendfeed-media.com/3e0d73c008cf2bf2c8b0db28ea034c89ce4fe25c') :height(175) :preview
+media/1a12cf1dd2de1a1faddbc3be87179ffe56ae338d.jpg
+
+
+
+=end DESCRIPTION
+
+MapReduce
+=for Image :width(240) :link('http://m.friendfeed-media.com/3e0d73c008cf2bf2c8b0db28ea034c89ce4fe25c') :height(175) :preview
+media/1a12cf1dd2de1a1faddbc3be87179ffe56ae338d.jpg
+
+
+
+=begin comment :src
+{
+  "from": {
+    "name": "углы «Исимуры»",
+    "id": "zag",
+    "type": "user"
+  },
+  "body": "MapReduce",
+  "rawLink": "http://friendfeed.com/e/0726fde7-d405-49e4-af85-bafc55b305be",
+  "likes": [
+    {
+      "date": "2010-08-18T10:48:14Z",
+      "from": {
+        "id": "afds",
+        "type": "user",
+        "name": "afds"
+      }
+    },
+    {
+      "from": {
+        "type": "user",
+        "id": "burzoom",
+        "name": "бык с ледорезом"
+      },
+      "date": "2010-08-18T07:08:39Z"
+    },
+    {
+      "from": {
+        "private": true,
+        "id": "krassus",
+        "type": "user",
+        "name": "O!оценить"
+      },
+      "date": "2010-08-17T20:50:01Z"
+    },
+    {
+      "date": "2010-08-17T17:03:24Z",
+      "from": {
+        "type": "user",
+        "id": "woof",
+        "name": "woof"
+      }
+    },
+    {
+      "from": {
+        "id": "blacklion",
+        "type": "user",
+        "name": "рептильный дом"
+      },
+      "date": "2010-08-17T14:15:44Z"
+    },
+    {
+      "date": "2010-08-17T13:03:26Z",
+      "from": {
+        "name": "Андрей Шитов",
+        "id": "ashport",
+        "type": "user"
+      }
+    },
+    {
+      "from": {
+        "id": "antonme",
+        "type": "user",
+        "name": "Anton Volnuhin"
+      },
+      "date": "2010-08-17T12:58:18Z"
+    },
+    {
+      "date": "2010-08-17T12:57:52Z",
+      "from": {
+        "private": true,
+        "id": "dyachkoff",
+        "type": "user",
+        "name": "Ivan"
+      }
+    },
+    {
+      "from": {
+        "id": "payalnik",
+        "type": "user",
+        "private": true,
+        "name": "устав от фидика"
+      },
+      "date": "2010-08-17T12:57:44Z"
+    },
+    {
+      "from": {
+        "name": "mindszenty",
+        "id": "mindszenty",
+        "type": "user"
+      },
+      "date": "2010-08-17T12:57:36Z"
+    },
+    {
+      "date": "2010-08-17T12:57:23Z",
+      "from": {
+        "id": "vladimirbright",
+        "type": "user",
+        "private": true,
+        "name": "Гора Кьяльфедль"
+      }
+    },
+    {
+      "from": {
+        "type": "user",
+        "id": "vden",
+        "name": "vden"
+      },
+      "date": "2010-08-17T12:57:01Z"
+    },
+    {
+      "date": "2010-08-17T12:56:17Z",
+      "from": {
+        "id": "kkapp",
+        "type": "user",
+        "name": "alex@kapranoff.ru"
+      }
+    }
+  ],
+  "id": "e/0726fde7d40549e4af85bafc55b305be",
+  "date": "2010-08-17T10:59:23Z",
+  "rawBody": "MapReduce",
+  "url": "http://friendfeed.com/zag/0726fde7/mapreduce",
+  "thumbnails": [
+    {
+      "link": "http://m.friendfeed-media.com/3e0d73c008cf2bf2c8b0db28ea034c89ce4fe25c",
+      "height": 175,
+      "width": 240,
+      "url": "http://m.friendfeed-media.com/1a12cf1dd2de1a1faddbc3be87179ffe56ae338d"
+    }
+  ]
+}
+=end comment
+
+=end pod

@@ -1,0 +1,63 @@
+=begin pod :pubdate('2010-10-27T10:01:52Z') :type<note> 
+=NAME Work from anywhere
+
+=begin DESCRIPTION
+
+Work from anywhere - L<link|http://www.flickr.com/photos/daim/2054793485/>
+=for Image :width(240) :link('http://www.flickr.com/photos/daim/2054793485/') :height(160) :preview
+media/2729463c8192d23a5db48ca6e438f675101d3cf9.jpg
+
+=item Робочій стіл
+
+
+=end DESCRIPTION
+
+Work from anywhere - L<link|http://www.flickr.com/photos/daim/2054793485/>
+=for Image :width(240) :link('http://www.flickr.com/photos/daim/2054793485/') :height(160) :preview
+media/2729463c8192d23a5db48ca6e438f675101d3cf9.jpg
+
+=item Робочій стіл
+
+
+=begin comment :src
+{
+  "from": {
+    "name": "углы «Исимуры»",
+    "id": "zag",
+    "type": "user"
+  },
+  "via": {
+    "url": "http://friendfeed.com/share/bookmarklet",
+    "name": "Bookmarklet"
+  },
+  "comments": [
+    {
+      "body": "Робочій стіл",
+      "rawBody": "Робочій стіл",
+      "from": {
+        "id": "zag",
+        "type": "user",
+        "name": "углы «Исимуры»"
+      },
+      "id": "e/f61c727a0f664a0db4831fb94bdd5d43/c/32e224b031a74087969c5adeaa37457c",
+      "date": "2010-10-27T10:02:11Z"
+    }
+  ],
+  "id": "e/f61c727a0f664a0db4831fb94bdd5d43",
+  "thumbnails": [
+    {
+      "height": 160,
+      "link": "http://www.flickr.com/photos/daim/2054793485/",
+      "url": "http://m.friendfeed-media.com/2729463c8192d23a5db48ca6e438f675101d3cf9",
+      "width": 240
+    }
+  ],
+  "date": "2010-10-27T10:01:52Z",
+  "rawBody": "Work from anywhere",
+  "url": "http://friendfeed.com/zag/f61c727a/work-from-anywhere",
+  "rawLink": "http://www.flickr.com/photos/daim/2054793485/",
+  "body": "Work from anywhere - <a rel=\"nofollow\" href=\"http://www.flickr.com/photos/daim/2054793485/\" title=\"http://www.flickr.com/photos/daim/2054793485/\">http://www.flickr.com/photos...</a>"
+}
+=end comment
+
+=end pod

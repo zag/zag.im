@@ -1,0 +1,67 @@
+=begin pod :pubdate('2010-11-13T05:42:25Z') :type<note> :tags<perl book>
+=NAME Modern Perl, by chromatic - Onyx Neon Press #perl #book
+
+=begin DESCRIPTION
+
+Modern Perl, by chromatic - Onyx Neon Press #perl #book - L<link|http://www.onyxneon.com/books/modern_perl/index.html#>
+=for Image :width(117) :link('http://www.onyxneon.com/books/modern_perl/index.html#') :height(175) :preview
+media/3f3e88f7961a6b6b00bf7af3a2b0bdf1ec77212a.jpg
+
+=item These are free of cost and free of DRM, but not free of obligation. Your duty is to share the book with everyone who needs it. Give away the PDFs (and the ePub) far and wide. Write reviews. Cite it on the beginners mailing list. Seed it on BitTorrent. Host it on your own site.
+
+
+=end DESCRIPTION
+
+Modern Perl, by chromatic - Onyx Neon Press #perl #book - L<link|http://www.onyxneon.com/books/modern_perl/index.html#>
+=for Image :width(117) :link('http://www.onyxneon.com/books/modern_perl/index.html#') :height(175) :preview
+media/3f3e88f7961a6b6b00bf7af3a2b0bdf1ec77212a.jpg
+
+=item These are free of cost and free of DRM, but not free of obligation. Your duty is to share the book with everyone who needs it. Give away the PDFs (and the ePub) far and wide. Write reviews. Cite it on the beginners mailing list. Seed it on BitTorrent. Host it on your own site.
+
+
+=begin comment :src
+{
+  "id": "e/cb3aa80d76f04f8ea8222d45eb715601",
+  "rawBody": "Modern Perl, by chromatic - Onyx Neon Press #perl #book",
+  "date": "2010-11-13T05:42:25Z",
+  "url": "http://friendfeed.com/zag/cb3aa80d/modern-perl-by-chromatic-onyx-neon-press-book",
+  "thumbnails": [
+    {
+      "height": 175,
+      "link": "http://www.onyxneon.com/books/modern_perl/index.html#",
+      "width": 117,
+      "url": "http://m.friendfeed-media.com/3f3e88f7961a6b6b00bf7af3a2b0bdf1ec77212a"
+    }
+  ],
+  "rawLink": "http://www.onyxneon.com/books/modern_perl/index.html#",
+  "body": "Modern Perl, by chromatic - Onyx Neon Press <a href=\"http://friendfeed.com/search?q=%23perl\">#perl</a> <a href=\"http://friendfeed.com/search?q=%23book\">#book</a> - <a rel=\"nofollow\" href=\"http://www.onyxneon.com/books/modern_perl/index.html#\" title=\"http://www.onyxneon.com/books/modern_perl/index.html#\">http://www.onyxneon.com/books...</a>",
+  "from": {
+    "id": "zag",
+    "type": "user",
+    "name": "углы «Исимуры»"
+  },
+  "via": {
+    "name": "Bookmarklet",
+    "url": "http://friendfeed.com/share/bookmarklet"
+  },
+  "comments": [
+    {
+      "id": "e/cb3aa80d76f04f8ea8222d45eb715601/c/c5297eada9704f3aa7f50d4c6c657376",
+      "date": "2010-11-13T05:42:25Z",
+      "from": {
+        "id": "zag",
+        "type": "user",
+        "name": "углы «Исимуры»"
+      },
+      "rawBody": "These are free of cost and free of DRM, but not free of obligation. Your duty is to share the book with everyone who needs it. Give away the PDFs (and the ePub) far and wide. Write reviews. Cite it on the beginners mailing list. Seed it on BitTorrent. Host it on your own site.",
+      "via": {
+        "name": "Bookmarklet",
+        "url": "http://friendfeed.com/share/bookmarklet"
+      },
+      "body": "These are free of cost and free of DRM, but not free of obligation. Your duty is to share the book with everyone who needs it. Give away the PDFs (and the ePub) far and wide. Write reviews. Cite it on the beginners mailing list. Seed it on BitTorrent. Host it on your own site."
+    }
+  ]
+}
+=end comment
+
+=end pod

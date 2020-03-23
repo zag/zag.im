@@ -1,0 +1,60 @@
+=begin pod :pubdate('2011-12-15T21:50:48Z') :type<note> :tags<sorry>
+=NAME FreeBSD ✈ Ubuntu ✈ Fedora
+
+=begin DESCRIPTION
+
+FreeBSD ✈ Ubuntu ✈ Fedora
+
+=item Федорино core
+=item mint пропустил, но он не виноват. #sorry
+
+
+=end DESCRIPTION
+
+FreeBSD ✈ Ubuntu ✈ Fedora
+
+=item Федорино core
+=item mint пропустил, но он не виноват. #sorry
+
+
+=begin comment :src
+{
+  "id": "e/66e07e971c6c4041b25bf66603b06937",
+  "date": "2011-12-15T21:50:48Z",
+  "url": "http://friendfeed.com/zag/66e07e97/freebsd-ubuntu-fedora",
+  "rawBody": "FreeBSD ✈ Ubuntu ✈ Fedora",
+  "rawLink": "http://friendfeed.com/e/66e07e97-1c6c-4041-b25b-f66603b06937",
+  "body": "FreeBSD ✈ Ubuntu ✈ Fedora",
+  "from": {
+    "type": "user",
+    "id": "zag",
+    "name": "углы «Исимуры»"
+  },
+  "comments": [
+    {
+      "rawBody": "Федорино core",
+      "from": {
+        "name": "углы «Исимуры»",
+        "type": "user",
+        "id": "zag"
+      },
+      "id": "e/66e07e971c6c4041b25bf66603b06937/c/ec69c0e7f4874341ae202a72b0957072",
+      "date": "2011-12-15T21:51:36Z",
+      "body": "Федорино core"
+    },
+    {
+      "id": "e/66e07e971c6c4041b25bf66603b06937/c/478248cdaa6b4b19b63599f7669f0948",
+      "rawBody": "mint пропустил, но он не виноват. #sorry",
+      "date": "2011-12-15T22:14:09Z",
+      "from": {
+        "type": "user",
+        "id": "zag",
+        "name": "углы «Исимуры»"
+      },
+      "body": "mint пропустил, но он не виноват. <a href=\"http://friendfeed.com/search?q=%23sorry\">#sorry</a>"
+    }
+  ]
+}
+=end comment
+
+=end pod

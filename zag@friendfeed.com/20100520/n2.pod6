@@ -1,0 +1,115 @@
+=begin pod :pubdate('2010-05-20T06:44:11Z') :type<note> 
+=NAME Получил в свое распоряжение хаос из телевизионных каналов,программ и фильмов.Нет ни лайков, ни оценок, ни рекомендаций - просто огромная куча сырья и вынос сознания, пытающегося все это как-то упорядочить. Есть интерактив в виде яндекса (пробки, погода), но расширить его нельзя.
+
+=begin DESCRIPTION
+
+Получил в свое распоряжение хаос из телевизионных каналов,программ и фильмов.Нет ни лайков, ни оценок, ни рекомендаций - просто огромная куча сырья и вынос сознания, пытающегося все это как-то упорядочить. Есть интерактив в виде яндекса (пробки, погода), но расширить его нельзя.
+=for Image :width(233) :link('http://m.friendfeed-media.com/fb0307c6ed3c5e91dee2fa81c98df949bfbfab8d') :height(175) :preview
+media/b9e2c009269c46b43af096046c77a326872745f4.jpg
+=for Image :width(233) :link('http://m.friendfeed-media.com/934edde4ddf4b9fdeaca1f52c07cc67a639f6313') :height(175) :preview
+media/23d95d0f8410be62d0844366247c70a43c661ea8.jpg
+=for Image :width(233) :link('http://m.friendfeed-media.com/c80907e96010ca388b84a9e1cc1f7f6261bd1908') :height(175) :preview
+media/264e44d985e76f3790009991cd17c2497b7da723.jpg
+=for Image :width(233) :link('http://m.friendfeed-media.com/fc74c684dec47974ff68a1387a736055c82f4a62') :height(175) :preview
+media/8555fc284eedce2954181d092a203d711558c5b3.jpg
+=for Image :width(233) :link('http://m.friendfeed-media.com/98b850e98217ad5eefa7335d138130040570342d') :height(175) :preview
+media/44998e92308703b7d9b741f532c1a4e190e1577f.jpg
+=for Image :width(233) :link('http://m.friendfeed-media.com/82067e3d173af34c3f6b233d5af18d7582d1aa09') :height(175) :preview
+media/07f01789c23c691ea2355e9f3f97181a02b77f3e.jpg
+=for Image :width(233) :link('http://m.friendfeed-media.com/363af868413b08154faed2070a27c95df2a3568c') :height(175) :preview
+media/e70826ecd62f5eb54b4a2b835397450c240552a9.jpg
+
+
+
+=end DESCRIPTION
+
+Получил в свое распоряжение хаос из телевизионных каналов,программ и фильмов.Нет ни лайков, ни оценок, ни рекомендаций - просто огромная куча сырья и вынос сознания, пытающегося все это как-то упорядочить. Есть интерактив в виде яндекса (пробки, погода), но расширить его нельзя.
+=for Image :width(233) :link('http://m.friendfeed-media.com/fb0307c6ed3c5e91dee2fa81c98df949bfbfab8d') :height(175) :preview
+media/b9e2c009269c46b43af096046c77a326872745f4.jpg
+=for Image :width(233) :link('http://m.friendfeed-media.com/934edde4ddf4b9fdeaca1f52c07cc67a639f6313') :height(175) :preview
+media/23d95d0f8410be62d0844366247c70a43c661ea8.jpg
+=for Image :width(233) :link('http://m.friendfeed-media.com/c80907e96010ca388b84a9e1cc1f7f6261bd1908') :height(175) :preview
+media/264e44d985e76f3790009991cd17c2497b7da723.jpg
+=for Image :width(233) :link('http://m.friendfeed-media.com/fc74c684dec47974ff68a1387a736055c82f4a62') :height(175) :preview
+media/8555fc284eedce2954181d092a203d711558c5b3.jpg
+=for Image :width(233) :link('http://m.friendfeed-media.com/98b850e98217ad5eefa7335d138130040570342d') :height(175) :preview
+media/44998e92308703b7d9b741f532c1a4e190e1577f.jpg
+=for Image :width(233) :link('http://m.friendfeed-media.com/82067e3d173af34c3f6b233d5af18d7582d1aa09') :height(175) :preview
+media/07f01789c23c691ea2355e9f3f97181a02b77f3e.jpg
+=for Image :width(233) :link('http://m.friendfeed-media.com/363af868413b08154faed2070a27c95df2a3568c') :height(175) :preview
+media/e70826ecd62f5eb54b4a2b835397450c240552a9.jpg
+
+
+
+=begin comment :src
+{
+  "date": "2010-05-20T06:44:11Z",
+  "id": "e/02768068404840fca425f0c1332eb0b2",
+  "rawBody": "Получил в свое распоряжение хаос из телевизионных каналов,программ и фильмов.Нет ни лайков, ни оценок, ни рекомендаций - просто огромная куча сырья и вынос сознания, пытающегося все это как-то упорядочить. Есть интерактив в виде яндекса (пробки, погода), но расширить его нельзя.",
+  "thumbnails": [
+    {
+      "width": 233,
+      "url": "http://m.friendfeed-media.com/b9e2c009269c46b43af096046c77a326872745f4",
+      "link": "http://m.friendfeed-media.com/fb0307c6ed3c5e91dee2fa81c98df949bfbfab8d",
+      "height": 175
+    },
+    {
+      "link": "http://m.friendfeed-media.com/934edde4ddf4b9fdeaca1f52c07cc67a639f6313",
+      "height": 175,
+      "url": "http://m.friendfeed-media.com/23d95d0f8410be62d0844366247c70a43c661ea8",
+      "width": 233
+    },
+    {
+      "url": "http://m.friendfeed-media.com/264e44d985e76f3790009991cd17c2497b7da723",
+      "width": 233,
+      "link": "http://m.friendfeed-media.com/c80907e96010ca388b84a9e1cc1f7f6261bd1908",
+      "height": 175
+    },
+    {
+      "width": 233,
+      "url": "http://m.friendfeed-media.com/8555fc284eedce2954181d092a203d711558c5b3",
+      "height": 175,
+      "link": "http://m.friendfeed-media.com/fc74c684dec47974ff68a1387a736055c82f4a62"
+    },
+    {
+      "link": "http://m.friendfeed-media.com/98b850e98217ad5eefa7335d138130040570342d",
+      "height": 175,
+      "width": 233,
+      "url": "http://m.friendfeed-media.com/44998e92308703b7d9b741f532c1a4e190e1577f"
+    },
+    {
+      "height": 175,
+      "link": "http://m.friendfeed-media.com/82067e3d173af34c3f6b233d5af18d7582d1aa09",
+      "width": 233,
+      "url": "http://m.friendfeed-media.com/07f01789c23c691ea2355e9f3f97181a02b77f3e"
+    },
+    {
+      "url": "http://m.friendfeed-media.com/e70826ecd62f5eb54b4a2b835397450c240552a9",
+      "width": 233,
+      "height": 175,
+      "link": "http://m.friendfeed-media.com/363af868413b08154faed2070a27c95df2a3568c"
+    }
+  ],
+  "url": "http://friendfeed.com/zag/02768068",
+  "body": "Получил в свое распоряжение хаос из телевизионных каналов,программ и фильмов.Нет ни лайков, ни оценок, ни рекомендаций - просто огромная куча сырья и вынос сознания, пытающегося все это как-то упорядочить. Есть интерактив в виде яндекса (пробки, погода), но расширить его нельзя.",
+  "likes": [
+    {
+      "date": "2010-05-20T07:02:52Z",
+      "from": {
+        "id": "iviotor",
+        "type": "user",
+        "private": true,
+        "name": "IvIotor"
+      }
+    }
+  ],
+  "rawLink": "http://friendfeed.com/e/02768068-4048-40fc-a425-f0c1332eb0b2",
+  "from": {
+    "name": "углы «Исимуры»",
+    "type": "user",
+    "id": "zag"
+  }
+}
+=end comment
+
+=end pod

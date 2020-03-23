@@ -1,0 +1,64 @@
+=begin pod :pubdate('2010-03-09T18:42:45Z') :type<note> 
+=NAME see: "Breaking Bad"
+
+=begin DESCRIPTION
+
+see: "Breaking Bad"
+=for Image :width(233) :link('http://m.friendfeed-media.com/ca47995f9d694f5e316b4e86095ab687028621db') :height(175) :preview
+media/d5358b6587ec3f5aefee7096a25c73edb8e27c2d.jpg
+=for Image :width(233) :link('http://m.friendfeed-media.com/45a77fffeb0274496e1a52b475b85ac0f0ae0f04') :height(175) :preview
+media/41d7763fd0bf023d8b556e3ceeb31ca42e115023.jpg
+=for Image :width(233) :link('http://m.friendfeed-media.com/8c88a7972f26186e6e189054aea2f429cddd6f4a') :height(175) :preview
+media/faa528408d0bd40f3c73dc70589f91c5f64eb76a.jpg
+
+
+
+=end DESCRIPTION
+
+see: "Breaking Bad"
+=for Image :width(233) :link('http://m.friendfeed-media.com/ca47995f9d694f5e316b4e86095ab687028621db') :height(175) :preview
+media/d5358b6587ec3f5aefee7096a25c73edb8e27c2d.jpg
+=for Image :width(233) :link('http://m.friendfeed-media.com/45a77fffeb0274496e1a52b475b85ac0f0ae0f04') :height(175) :preview
+media/41d7763fd0bf023d8b556e3ceeb31ca42e115023.jpg
+=for Image :width(233) :link('http://m.friendfeed-media.com/8c88a7972f26186e6e189054aea2f429cddd6f4a') :height(175) :preview
+media/faa528408d0bd40f3c73dc70589f91c5f64eb76a.jpg
+
+
+
+=begin comment :src
+{
+  "id": "e/3058e61fcb7f49328423dff40a2d63f7",
+  "date": "2010-03-09T18:42:45Z",
+  "rawBody": "see: \"Breaking Bad\"",
+  "url": "http://friendfeed.com/zag/3058e61f/see-breaking-bad",
+  "thumbnails": [
+    {
+      "url": "http://m.friendfeed-media.com/d5358b6587ec3f5aefee7096a25c73edb8e27c2d",
+      "width": 233,
+      "link": "http://m.friendfeed-media.com/ca47995f9d694f5e316b4e86095ab687028621db",
+      "height": 175
+    },
+    {
+      "width": 233,
+      "url": "http://m.friendfeed-media.com/41d7763fd0bf023d8b556e3ceeb31ca42e115023",
+      "link": "http://m.friendfeed-media.com/45a77fffeb0274496e1a52b475b85ac0f0ae0f04",
+      "height": 175
+    },
+    {
+      "height": 175,
+      "link": "http://m.friendfeed-media.com/8c88a7972f26186e6e189054aea2f429cddd6f4a",
+      "url": "http://m.friendfeed-media.com/faa528408d0bd40f3c73dc70589f91c5f64eb76a",
+      "width": 233
+    }
+  ],
+  "body": "see: &quot;Breaking Bad&quot;",
+  "rawLink": "http://friendfeed.com/e/3058e61f-cb7f-4932-8423-dff40a2d63f7",
+  "from": {
+    "id": "zag",
+    "type": "user",
+    "name": "углы «Исимуры»"
+  }
+}
+=end comment
+
+=end pod

@@ -1,0 +1,36 @@
+=begin pod :pubdate('2012-02-19T17:30:10Z') :type<note> :tags<lvee>
+=NAME Зимняя #lvee 2012 - http://t.co/0AKQn0zs
+
+=begin DESCRIPTION
+
+Зимняя #lvee 2012 - http://t.co/0AKQn0zs - L<link|http://twitter.com/zagru/statuses/171285457735397377>
+
+
+
+=end DESCRIPTION
+
+Зимняя #lvee 2012 - http://t.co/0AKQn0zs - L<link|http://twitter.com/zagru/statuses/171285457735397377>
+
+
+
+=begin comment :src
+{
+  "id": "e/823a2789080d2b4dff57876e6169bbb4",
+  "rawBody": "Зимняя #lvee 2012 - http://t.co/0AKQn0zs",
+  "date": "2012-02-19T17:30:10Z",
+  "url": "http://friendfeed.com/zag/823a2789/lvee-2012",
+  "body": "Зимняя <a rel=\"nofollow\" href=\"http://search.twitter.com/search?q=%23lvee\">#lvee</a> 2012 - <a rel=\"nofollow\" href=\"http://t.co/0AKQn0zs\" title=\"http://zag.ru/2012/050/a1/zimnjaja-Lvee-2012.html\">http://zag.ru/2012...</a>",
+  "rawLink": "http://twitter.com/zagru/statuses/171285457735397377",
+  "from": {
+    "type": "user",
+    "id": "zag",
+    "name": "углы «Исимуры»"
+  },
+  "via": {
+    "url": "http://twitter.com/zagru/statuses/171285457735397377",
+    "name": "Twitter"
+  }
+}
+=end comment
+
+=end pod

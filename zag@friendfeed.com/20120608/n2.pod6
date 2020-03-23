@@ -1,0 +1,36 @@
+=begin pod :pubdate('2012-06-08T18:24:48Z') :type<note> :tags<lvee>
+=NAME http://t.co/6G9qWHSn алхимия #lvee
+
+=begin DESCRIPTION
+
+http://t.co/6G9qWHSn алхимия #lvee - L<link|http://twitter.com/zagru/statuses/211161875583467522>
+
+
+
+=end DESCRIPTION
+
+http://t.co/6G9qWHSn алхимия #lvee - L<link|http://twitter.com/zagru/statuses/211161875583467522>
+
+
+
+=begin comment :src
+{
+  "from": {
+    "name": "углы «Исимуры»",
+    "id": "zag",
+    "type": "user"
+  },
+  "via": {
+    "url": "http://twitter.com/zagru/statuses/211161875583467522",
+    "name": "Twitter"
+  },
+  "id": "e/f33b6df821b8646b052a39d3c5119d80",
+  "date": "2012-06-08T18:24:48Z",
+  "rawBody": "http://t.co/6G9qWHSn алхимия #lvee",
+  "url": "http://friendfeed.com/zag/f33b6df8/lvee",
+  "rawLink": "http://twitter.com/zagru/statuses/211161875583467522",
+  "body": "<a rel=\"nofollow\" href=\"http://t.co/6G9qWHSn\" title=\"http://ow.ly/i/GqjJ\">http://ow.ly/i/GqjJ</a> алхимия <a rel=\"nofollow\" href=\"http://search.twitter.com/search?q=%23lvee\">#lvee</a>"
+}
+=end comment
+
+=end pod

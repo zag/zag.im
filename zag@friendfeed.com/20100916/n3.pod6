@@ -1,0 +1,48 @@
+=begin pod :pubdate('2010-09-16T14:55:26Z') :type<note> :tags<mailru>
+=NAME Веер браузерных api #mailru
+
+=begin DESCRIPTION
+
+Веер браузерных api #mailru
+=for Image :width(233) :link('http://m.friendfeed-media.com/6c75cd5604755de156a414d3ea5253f7be339e93') :height(175) :preview
+media/149d478f60b5431e8ea2452bb5f43c574d835b31.jpg
+
+
+
+=end DESCRIPTION
+
+Веер браузерных api #mailru
+=for Image :width(233) :link('http://m.friendfeed-media.com/6c75cd5604755de156a414d3ea5253f7be339e93') :height(175) :preview
+media/149d478f60b5431e8ea2452bb5f43c574d835b31.jpg
+
+
+
+=begin comment :src
+{
+  "id": "e/f529046f726a495991cd5e0690dcf569",
+  "date": "2010-09-16T14:55:26Z",
+  "rawBody": "Веер браузерных api #mailru",
+  "url": "http://friendfeed.com/zag/f529046f/api-mailru",
+  "thumbnails": [
+    {
+      "url": "http://m.friendfeed-media.com/149d478f60b5431e8ea2452bb5f43c574d835b31",
+      "width": 233,
+      "link": "http://m.friendfeed-media.com/6c75cd5604755de156a414d3ea5253f7be339e93",
+      "height": 175
+    }
+  ],
+  "body": "Веер браузерных api <a href=\"http://friendfeed.com/search?q=%23mailru\">#mailru</a>",
+  "rawLink": "http://friendfeed.com/e/f529046f-726a-4959-91cd-5e0690dcf569",
+  "from": {
+    "type": "user",
+    "id": "zag",
+    "name": "углы «Исимуры»"
+  },
+  "via": {
+    "name": "email",
+    "url": "http://friendfeed.com/share/mail"
+  }
+}
+=end comment
+
+=end pod

@@ -1,0 +1,142 @@
+=begin pod :pubdate('2011-05-03T08:08:34Z') :type<note> 
+=NAME я вхожу !
+
+=begin DESCRIPTION
+
+я вхожу !
+
+=item Приходя в гости, стучите в дверь ногой. Тогда хозяева подумают, что ваши руки заняты подарками, и впустят вас.
+=item @nop   :-) !!!
+
+
+=end DESCRIPTION
+
+я вхожу !
+
+=item Приходя в гости, стучите в дверь ногой. Тогда хозяева подумают, что ваши руки заняты подарками, и впустят вас.
+=item @nop   :-) !!!
+
+
+=begin comment :src
+{
+  "from": {
+    "id": "zag",
+    "type": "user",
+    "name": "углы «Исимуры»"
+  },
+  "comments": [
+    {
+      "id": "e/15a255c8c9724914af739b3c0935d827/c/c1b00652e938400ab1271554cebecd54",
+      "rawBody": "Приходя в гости, стучите в дверь ногой. Тогда хозяева подумают, что ваши руки заняты подарками, и впустят вас.",
+      "date": "2011-05-03T08:32:10Z",
+      "from": {
+        "type": "user",
+        "id": "nop",
+        "name": "Nop"
+      },
+      "body": "Приходя в гости, стучите в дверь ногой. Тогда хозяева подумают, что ваши руки заняты подарками, и впустят вас."
+    },
+    {
+      "body": "@nop   :-) !!!",
+      "date": "2011-05-03T08:46:41Z",
+      "rawBody": "@nop   :-) !!!",
+      "id": "e/15a255c8c9724914af739b3c0935d827/c/be193eab094f42fa934827bbac2b075d",
+      "from": {
+        "id": "zag",
+        "type": "user",
+        "name": "углы «Исимуры»"
+      }
+    }
+  ],
+  "rawBody": "я вхожу !",
+  "id": "e/15a255c8c9724914af739b3c0935d827",
+  "date": "2011-05-03T08:08:34Z",
+  "url": "http://friendfeed.com/zag/15a255c8",
+  "thumbnails": [
+    {
+      "url": "http://d.yimg.com/gg/u/8b9e74acd79d0746518919c0a83cb1f89252c29c.gifa",
+      "link": "http://friendfeed.com/e/15a255c8-c972-4914-af73-9b3c0935d827"
+    }
+  ],
+  "body": "я вхожу !",
+  "likes": [
+    {
+      "date": "2011-05-25T14:34:27Z",
+      "from": {
+        "name": "Николай",
+        "type": "user",
+        "id": "mishin"
+      }
+    },
+    {
+      "date": "2011-05-04T18:45:43Z",
+      "from": {
+        "name": "Sergey Zhuzhgov",
+        "private": true,
+        "type": "user",
+        "id": "sergeyzhuzhgov"
+      }
+    },
+    {
+      "from": {
+        "type": "user",
+        "id": "4shir",
+        "name": "4sh.ir"
+      },
+      "date": "2011-05-03T20:16:42Z"
+    },
+    {
+      "date": "2011-05-03T19:08:07Z",
+      "from": {
+        "id": "seliv",
+        "type": "user",
+        "name": "sёliv"
+      }
+    },
+    {
+      "from": {
+        "name": "piikummitus",
+        "type": "user",
+        "id": "silpol"
+      },
+      "date": "2011-05-03T09:34:45Z"
+    },
+    {
+      "date": "2011-05-03T09:34:32Z",
+      "from": {
+        "name": "CES & nootropics",
+        "id": "pozorro",
+        "type": "user"
+      }
+    },
+    {
+      "from": {
+        "type": "user",
+        "id": "nop",
+        "name": "Nop"
+      },
+      "date": "2011-05-03T08:31:08Z"
+    },
+    {
+      "date": "2011-05-03T08:12:12Z",
+      "from": {
+        "type": "user",
+        "id": "dyachkoff",
+        "private": true,
+        "name": "Ivan"
+      }
+    },
+    {
+      "date": "2011-05-03T08:10:15Z",
+      "from": {
+        "id": "kkapp",
+        "type": "user",
+        "name": "alex@kapranoff.ru"
+      }
+    }
+  ],
+  "rawLink": "http://friendfeed.com/e/15a255c8-c972-4914-af73-9b3c0935d827"
+}
+=end comment
+
+=end pod

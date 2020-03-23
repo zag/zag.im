@@ -1,0 +1,32 @@
+=begin pod :pubdate('2011-07-25T09:51:33Z') :type<note> 
+=NAME Fwd: Every Book Is a Startup (A book about the business of publishing) - http://oreilly.com/catalog/9781449309015/ (via http://ff.im/ImVAx)
+
+=begin DESCRIPTION
+
+Fwd: Every Book Is a Startup (A book about the business of publishing) - http://oreilly.com/catalog/9781449309015/ (via http://ff.im/ImVAx)
+
+
+
+=end DESCRIPTION
+
+Fwd: Every Book Is a Startup (A book about the business of publishing) - http://oreilly.com/catalog/9781449309015/ (via http://ff.im/ImVAx)
+
+
+
+=begin comment :src
+{
+  "rawLink": "http://friendfeed.com/e/2ee22358-e478-436e-a8a5-addca0e78899",
+  "body": "Fwd: Every Book Is a Startup (A book about the business of publishing) - <a rel=\"nofollow\" href=\"http://oreilly.com/catalog/9781449309015/\" title=\"http://oreilly.com/catalog/9781449309015/\">http://oreilly.com/catalog...</a> (via <a rel=\"nofollow\" href=\"http://ff.im/ImVAx\">http://ff.im/ImVAx</a>)",
+  "url": "http://friendfeed.com/zag/2ee22358/fwd-every-book-is-startup-about-business-of",
+  "id": "e/2ee22358e478436ea8a5addca0e78899",
+  "date": "2011-07-25T09:51:33Z",
+  "rawBody": "Fwd: Every Book Is a Startup (A book about the business of publishing) - http://oreilly.com/catalog/9781449309015/ (via http://ff.im/ImVAx)",
+  "from": {
+    "type": "user",
+    "id": "zag",
+    "name": "углы «Исимуры»"
+  }
+}
+=end comment
+
+=end pod

@@ -1,0 +1,36 @@
+=begin pod :pubdate('2011-02-16T11:26:06Z') :type<note> 
+=NAME RT @PerlDancer: Dancer talk scheduled at "Perl Bulgaria" 2011 http://event.perlrussia.org/sofia2011/talk/99
+
+=begin DESCRIPTION
+
+RT @PerlDancer: Dancer talk scheduled at "Perl Bulgaria" 2011 http://event.perlrussia.org/sofia2011/talk/99 - L<link|http://twitter.com/zagru/statuses/37835103627513856>
+
+
+
+=end DESCRIPTION
+
+RT @PerlDancer: Dancer talk scheduled at "Perl Bulgaria" 2011 http://event.perlrussia.org/sofia2011/talk/99 - L<link|http://twitter.com/zagru/statuses/37835103627513856>
+
+
+
+=begin comment :src
+{
+  "rawLink": "http://twitter.com/zagru/statuses/37835103627513856",
+  "body": "RT @<a rel=\"nofollow\" href=\"http://twitter.com/PerlDancer\">PerlDancer</a>: Dancer talk scheduled at &quot;Perl Bulgaria&quot; 2011 <a rel=\"nofollow\" href=\"http://event.perlrussia.org/sofia2011/talk/99\" title=\"http://event.perlrussia.org/sofia2011/talk/99\">http://event.perlrussia.org/sofia20...</a>",
+  "id": "e/56f2fdc7f0202cdee7c37ab05f8ab89b",
+  "date": "2011-02-16T11:26:06Z",
+  "rawBody": "RT @PerlDancer: Dancer talk scheduled at \"Perl Bulgaria\" 2011 http://event.perlrussia.org/sofia2011/talk/99",
+  "url": "http://friendfeed.com/zag/56f2fdc7/rt-perldancer-dancer-talk-scheduled-at-perl",
+  "from": {
+    "type": "user",
+    "id": "zag",
+    "name": "углы «Исимуры»"
+  },
+  "via": {
+    "url": "http://twitter.com/zagru/statuses/37835103627513856",
+    "name": "Twitter"
+  }
+}
+=end comment
+
+=end pod

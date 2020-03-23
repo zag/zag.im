@@ -1,0 +1,68 @@
+=begin pod :pubdate('2010-01-21T09:20:16Z') :type<note> 
+=NAME Android Usage Increased 200% Over Past 3 Months
+
+=begin DESCRIPTION
+
+Android Usage Increased 200% Over Past 3 Months - L<link|http://www.readwriteweb.com/archives/android_usage_increased_200_percent_over_past_three_months.php>
+=for Image :width(96) :link('http://www.readwriteweb.com/archives/android_usage_increased_200_percent_over_past_three_months.php') :height(175) :preview
+media/0da435b8ac85f3749412e9766cd404187a65bd3b.jpg
+=for Image :width(315) :link('http://www.readwriteweb.com/archives/android_usage_increased_200_percent_over_past_three_months.php') :height(175) :preview
+media/89712f088cead163dff630ed255abcfd96d30b03.jpg
+=for Image :width(315) :link('http://www.readwriteweb.com/archives/android_usage_increased_200_percent_over_past_three_months.php') :height(175) :preview
+media/267047b7f06753bb9e91acb591117eba5057562a.jpg
+
+
+
+=end DESCRIPTION
+
+Android Usage Increased 200% Over Past 3 Months - L<link|http://www.readwriteweb.com/archives/android_usage_increased_200_percent_over_past_three_months.php>
+=for Image :width(96) :link('http://www.readwriteweb.com/archives/android_usage_increased_200_percent_over_past_three_months.php') :height(175) :preview
+media/0da435b8ac85f3749412e9766cd404187a65bd3b.jpg
+=for Image :width(315) :link('http://www.readwriteweb.com/archives/android_usage_increased_200_percent_over_past_three_months.php') :height(175) :preview
+media/89712f088cead163dff630ed255abcfd96d30b03.jpg
+=for Image :width(315) :link('http://www.readwriteweb.com/archives/android_usage_increased_200_percent_over_past_three_months.php') :height(175) :preview
+media/267047b7f06753bb9e91acb591117eba5057562a.jpg
+
+
+
+=begin comment :src
+{
+  "body": "Android Usage Increased 200% Over Past 3 Months - <a rel=\"nofollow\" href=\"http://www.readwriteweb.com/archives/android_usage_increased_200_percent_over_past_three_months.php\" title=\"http://www.readwriteweb.com/archives/android_usage_increased_200_percent_over_past_three_months.php\">http://www.readwriteweb.com/archive...</a>",
+  "rawLink": "http://www.readwriteweb.com/archives/android_usage_increased_200_percent_over_past_three_months.php",
+  "rawBody": "Android Usage Increased 200% Over Past 3 Months",
+  "id": "e/2d7ffcea288c4f87b9d10a662f2e0cc1",
+  "date": "2010-01-21T09:20:16Z",
+  "thumbnails": [
+    {
+      "height": 175,
+      "link": "http://www.readwriteweb.com/archives/android_usage_increased_200_percent_over_past_three_months.php",
+      "url": "http://m.friendfeed-media.com/0da435b8ac85f3749412e9766cd404187a65bd3b",
+      "width": 96
+    },
+    {
+      "url": "http://m.friendfeed-media.com/89712f088cead163dff630ed255abcfd96d30b03",
+      "width": 315,
+      "height": 175,
+      "link": "http://www.readwriteweb.com/archives/android_usage_increased_200_percent_over_past_three_months.php"
+    },
+    {
+      "url": "http://m.friendfeed-media.com/267047b7f06753bb9e91acb591117eba5057562a",
+      "width": 315,
+      "height": 175,
+      "link": "http://www.readwriteweb.com/archives/android_usage_increased_200_percent_over_past_three_months.php"
+    }
+  ],
+  "url": "http://friendfeed.com/zag/2d7ffcea/android-usage-increased-200-over-past-3-months",
+  "from": {
+    "id": "zag",
+    "type": "user",
+    "name": "углы «Исимуры»"
+  },
+  "via": {
+    "url": "http://friendfeed.com/share/bookmarklet",
+    "name": "Bookmarklet"
+  }
+}
+=end comment
+
+=end pod

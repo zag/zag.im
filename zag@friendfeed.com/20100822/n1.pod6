@@ -1,0 +1,103 @@
+=begin pod :pubdate('2010-08-22T08:48:21Z') :type<note> 
+=NAME perl6.su
+
+=begin DESCRIPTION
+
+perl6.su - L<link|http://perl6.su/>
+=for Image :width(293) :link('http://perl6.su/') :height(120) :preview
+media/7c99581876206553c7896ba5575502156fba1fec.png
+=for Image :width(445) :link('http://perl6.su/') :height(120) :preview
+media/77a3f6f09f14d6430d0a901af1df598137117d08.jpg
+
+=item Моя задача - в ближайшие 5 лет выучить perl 6 лучше предыдущей версии.
+
+
+=end DESCRIPTION
+
+perl6.su - L<link|http://perl6.su/>
+=for Image :width(293) :link('http://perl6.su/') :height(120) :preview
+media/7c99581876206553c7896ba5575502156fba1fec.png
+=for Image :width(445) :link('http://perl6.su/') :height(120) :preview
+media/77a3f6f09f14d6430d0a901af1df598137117d08.jpg
+
+=item Моя задача - в ближайшие 5 лет выучить perl 6 лучше предыдущей версии.
+
+
+=begin comment :src
+{
+  "from": {
+    "id": "zag",
+    "type": "user",
+    "name": "углы «Исимуры»"
+  },
+  "via": {
+    "url": "http://friendfeed.com/share/bookmarklet",
+    "name": "Bookmarklet"
+  },
+  "comments": [
+    {
+      "id": "e/587785bf49e340118ddcb33ae83a00ea/c/d0f14ed7569f4cd285a58ec9319bf5a0",
+      "date": "2010-08-22T08:48:21Z",
+      "from": {
+        "name": "углы «Исимуры»",
+        "type": "user",
+        "id": "zag"
+      },
+      "rawBody": "Моя задача - в ближайшие 5 лет выучить perl 6 лучше предыдущей версии.",
+      "via": {
+        "name": "Bookmarklet",
+        "url": "http://friendfeed.com/share/bookmarklet"
+      },
+      "body": "Моя задача - в ближайшие 5 лет выучить perl 6 лучше предыдущей версии."
+    }
+  ],
+  "date": "2010-08-22T08:48:21Z",
+  "id": "e/587785bf49e340118ddcb33ae83a00ea",
+  "url": "http://friendfeed.com/zag/587785bf/perl6-su",
+  "rawBody": "perl6.su",
+  "thumbnails": [
+    {
+      "link": "http://perl6.su/",
+      "height": 120,
+      "width": 293,
+      "url": "http://m.friendfeed-media.com/7c99581876206553c7896ba5575502156fba1fec"
+    },
+    {
+      "url": "http://m.friendfeed-media.com/77a3f6f09f14d6430d0a901af1df598137117d08",
+      "width": 445,
+      "height": 120,
+      "link": "http://perl6.su/"
+    }
+  ],
+  "likes": [
+    {
+      "from": {
+        "type": "user",
+        "id": "mmcleric",
+        "name": "Vyacheslav Matyukhin"
+      },
+      "date": "2010-08-22T12:54:45Z"
+    },
+    {
+      "from": {
+        "type": "user",
+        "id": "ashport",
+        "name": "Андрей Шитов"
+      },
+      "date": "2010-08-22T10:00:03Z"
+    },
+    {
+      "date": "2010-08-22T09:01:42Z",
+      "from": {
+        "name": "alex@kapranoff.ru",
+        "id": "kkapp",
+        "type": "user"
+      }
+    }
+  ],
+  "rawLink": "http://perl6.su/",
+  "body": "perl6.su - <a rel=\"nofollow\" href=\"http://perl6.su/\">http://perl6.su/</a>"
+}
+=end comment
+
+=end pod

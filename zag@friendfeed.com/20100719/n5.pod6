@@ -1,0 +1,73 @@
+=begin pod :pubdate('2010-07-19T06:57:32Z') :type<note> :tags<perl6>
+=NAME #perl6  исполнилось 10 лет : http://use.perl.org/~masak/journal/40451 , http://news.ycombinator.com/item?id=1526575
+
+=begin DESCRIPTION
+
+#perl6  исполнилось 10 лет : http://use.perl.org/~masak/journal/40451 , http://news.ycombinator.com/item?id=1526575
+
+=item http://www.reddit.com/r/programming/comments/cqysn/10_years_perl_6_project_history_and_personal/
+
+
+=end DESCRIPTION
+
+#perl6  исполнилось 10 лет : http://use.perl.org/~masak/journal/40451 , http://news.ycombinator.com/item?id=1526575
+
+=item http://www.reddit.com/r/programming/comments/cqysn/10_years_perl_6_project_history_and_personal/
+
+
+=begin comment :src
+{
+  "from": {
+    "type": "user",
+    "id": "zag",
+    "name": "углы «Исимуры»"
+  },
+  "comments": [
+    {
+      "date": "2010-07-19T06:58:52Z",
+      "rawBody": "http://www.reddit.com/r/programming/comments/cqysn/10_years_perl_6_project_history_and_personal/",
+      "id": "e/a52030b928c247ef988a3a170ee44ad4/c/b634c02e3c3c49df8a1aae72f7dbbad5",
+      "from": {
+        "name": "углы «Исимуры»",
+        "id": "zag",
+        "type": "user"
+      },
+      "body": "<a rel=\"nofollow\" href=\"http://www.reddit.com/r/programming/comments/cqysn/10_years_perl_6_project_history_and_personal/\" title=\"http://www.reddit.com/r/programming/comments/cqysn/10_years_perl_6_project_history_and_personal/\">http://www.reddit.com/r...</a>"
+    }
+  ],
+  "id": "e/a52030b928c247ef988a3a170ee44ad4",
+  "rawBody": "#perl6  исполнилось 10 лет : http://use.perl.org/~masak/journal/40451 , http://news.ycombinator.com/item?id=1526575",
+  "date": "2010-07-19T06:57:32Z",
+  "url": "http://friendfeed.com/zag/a52030b9/perl6-10",
+  "body": "<a href=\"http://friendfeed.com/search?q=%23perl6\">#perl6</a>  исполнилось 10 лет : <a rel=\"nofollow\" href=\"http://use.perl.org/~masak/journal/40451\" title=\"http://use.perl.org/~masak/journal/40451\">http://use.perl.org/~masak...</a> , <a rel=\"nofollow\" href=\"http://news.ycombinator.com/item?id=1526575\" title=\"http://news.ycombinator.com/item?id=1526575\">http://news.ycombinator.com/item...</a>",
+  "rawLink": "http://friendfeed.com/e/a52030b9-28c2-47ef-988a-3a170ee44ad4",
+  "likes": [
+    {
+      "date": "2010-07-19T14:19:12Z",
+      "from": {
+        "name": "Андрей Шитов",
+        "id": "ashport",
+        "type": "user"
+      }
+    },
+    {
+      "from": {
+        "type": "user",
+        "id": "mmcleric",
+        "name": "Vyacheslav Matyukhin"
+      },
+      "date": "2010-07-19T10:40:56Z"
+    },
+    {
+      "from": {
+        "name": "alex@kapranoff.ru",
+        "id": "kkapp",
+        "type": "user"
+      },
+      "date": "2010-07-19T08:29:40Z"
+    }
+  ]
+}
+=end comment
+
+=end pod

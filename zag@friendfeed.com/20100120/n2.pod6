@@ -1,0 +1,145 @@
+=begin pod :pubdate('2010-01-20T07:51:11Z') :type<note> 
+=NAME Google Wave Versus the Rest, Feature by Feature - Google Wave - Lifehacker
+
+=begin DESCRIPTION
+
+Google Wave Versus the Rest, Feature by Feature - Google Wave - Lifehacker - L<link|http://lifehacker.com/5451174/google-wave-versus-the-rest-feature-by-feature?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+lifehacker%2Ffull+%28Lifehacker%29&utm_content=Google+Reader>
+=for Image :width(160) :link('http://lifehacker.com/5451174/google-wave-versus-the-rest-feature-by-feature?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+lifehacker%2Ffull+%28Lifehacker%29&utm_content=Google+Reader') :height(120) :preview
+media/845025dc5d46eb6ee7f1b20ff1bf05d16a312483.png
+
+=item "Ability to export the finished document to a file : NO" - потому что,imho,  google wave - бесконечность...
+=item «inline replies and threaded conversations: email — manually, wave — yes» да ладно!
+=item «ability to easily publish the conversation or document: email — no, user access permissions: email — N/A» да ладно, посмотрите на любой мейллист
+=item «Ability to export the finished document to a file : email — NO» да ладно! конечно, очень неудобно по емейлу обмениваться вариантами документа, но уж сохранить последний из них на диск умеет кто угодно
+=item пост фанбоя, в общем
+=item @arty: В статье оговаривается, что сравнение с  "web-based collaboration offerings".   А "threaded conversations" в web мордах к почте редкость . Про "maillist" согласен, взять те же google groups...
+=item про threaded conversations я имел в виду, что в емейле они не более manual, чем в вейве: что там, что там ставишь курсор в нужное место и начинаешь писать
+
+
+=end DESCRIPTION
+
+Google Wave Versus the Rest, Feature by Feature - Google Wave - Lifehacker - L<link|http://lifehacker.com/5451174/google-wave-versus-the-rest-feature-by-feature?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+lifehacker%2Ffull+%28Lifehacker%29&utm_content=Google+Reader>
+=for Image :width(160) :link('http://lifehacker.com/5451174/google-wave-versus-the-rest-feature-by-feature?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+lifehacker%2Ffull+%28Lifehacker%29&utm_content=Google+Reader') :height(120) :preview
+media/845025dc5d46eb6ee7f1b20ff1bf05d16a312483.png
+
+=item "Ability to export the finished document to a file : NO" - потому что,imho,  google wave - бесконечность...
+=item «inline replies and threaded conversations: email — manually, wave — yes» да ладно!
+=item «ability to easily publish the conversation or document: email — no, user access permissions: email — N/A» да ладно, посмотрите на любой мейллист
+=item «Ability to export the finished document to a file : email — NO» да ладно! конечно, очень неудобно по емейлу обмениваться вариантами документа, но уж сохранить последний из них на диск умеет кто угодно
+=item пост фанбоя, в общем
+=item @arty: В статье оговаривается, что сравнение с  "web-based collaboration offerings".   А "threaded conversations" в web мордах к почте редкость . Про "maillist" согласен, взять те же google groups...
+=item про threaded conversations я имел в виду, что в емейле они не более manual, чем в вейве: что там, что там ставишь курсор в нужное место и начинаешь писать
+
+
+=begin comment :src
+{
+  "rawLink": "http://lifehacker.com/5451174/google-wave-versus-the-rest-feature-by-feature?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+lifehacker%2Ffull+%28Lifehacker%29&utm_content=Google+Reader",
+  "body": "Google Wave Versus the Rest, Feature by Feature - Google Wave - Lifehacker - <a rel=\"nofollow\" href=\"http://lifehacker.com/5451174/google-wave-versus-the-rest-feature-by-feature?utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+lifehacker%2Ffull+%28Lifehacker%29&amp;utm_content=Google+Reader\" title=\"http://lifehacker.com/5451174/google-wave-versus-the-rest-feature-by-feature?utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+lifehacker%2Ffull+%28Lifehacker%29&amp;utm_content=Google+Reader\">http://lifehacker.com/5451174...</a>",
+  "id": "e/ea492512f9ad40fcb56f1846d5e8dce4",
+  "url": "http://friendfeed.com/zag/ea492512/google-wave-versus-rest-feature-by-lifehacker",
+  "date": "2010-01-20T07:51:11Z",
+  "rawBody": "Google Wave Versus the Rest, Feature by Feature - Google Wave - Lifehacker",
+  "thumbnails": [
+    {
+      "width": 160,
+      "url": "http://m.friendfeed-media.com/845025dc5d46eb6ee7f1b20ff1bf05d16a312483",
+      "link": "http://lifehacker.com/5451174/google-wave-versus-the-rest-feature-by-feature?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+lifehacker%2Ffull+%28Lifehacker%29&utm_content=Google+Reader",
+      "height": 120
+    }
+  ],
+  "comments": [
+    {
+      "body": "&quot;Ability to export the finished document to a file : NO&quot; - потому что,imho,  google wave - бесконечность...",
+      "rawBody": "\"Ability to export the finished document to a file : NO\" - потому что,imho,  google wave - бесконечность...",
+      "id": "e/ea492512f9ad40fcb56f1846d5e8dce4/c/2d902e5617e0453d826af8dcd47e7393",
+      "date": "2010-01-20T07:51:11Z",
+      "from": {
+        "id": "zag",
+        "type": "user",
+        "name": "углы «Исимуры»"
+      },
+      "via": {
+        "name": "Bookmarklet",
+        "url": "http://friendfeed.com/share/bookmarklet"
+      }
+    },
+    {
+      "rawBody": "«inline replies and threaded conversations: email — manually, wave — yes» да ладно!",
+      "id": "e/ea492512f9ad40fcb56f1846d5e8dce4/c/b6a388f57ba8477f88c990a0813535a6",
+      "from": {
+        "type": "user",
+        "id": "arty",
+        "name": "arty"
+      },
+      "date": "2010-01-20T08:27:20Z",
+      "body": "«inline replies and threaded conversations: email — manually, wave — yes» да ладно!"
+    },
+    {
+      "body": "«ability to easily publish the conversation or document: email — no, user access permissions: email — N/A» да ладно, посмотрите на любой мейллист",
+      "from": {
+        "type": "user",
+        "id": "arty",
+        "name": "arty"
+      },
+      "rawBody": "«ability to easily publish the conversation or document: email — no, user access permissions: email — N/A» да ладно, посмотрите на любой мейллист",
+      "id": "e/ea492512f9ad40fcb56f1846d5e8dce4/c/953b47198c16460687adf3509d55c7f9",
+      "date": "2010-01-20T08:31:23Z"
+    },
+    {
+      "body": "«Ability to export the finished document to a file : email — NO» да ладно! конечно, очень неудобно по емейлу обмениваться вариантами документа, но уж сохранить последний из них на диск умеет кто угодно",
+      "id": "e/ea492512f9ad40fcb56f1846d5e8dce4/c/46c1af7ca73e454a83cc5e29fea54510",
+      "rawBody": "«Ability to export the finished document to a file : email — NO» да ладно! конечно, очень неудобно по емейлу обмениваться вариантами документа, но уж сохранить последний из них на диск умеет кто угодно",
+      "date": "2010-01-20T08:33:03Z",
+      "from": {
+        "id": "arty",
+        "type": "user",
+        "name": "arty"
+      }
+    },
+    {
+      "rawBody": "пост фанбоя, в общем",
+      "from": {
+        "name": "arty",
+        "type": "user",
+        "id": "arty"
+      },
+      "id": "e/ea492512f9ad40fcb56f1846d5e8dce4/c/d4b1028d6d8c47f19cd241c7e0d929d4",
+      "date": "2010-01-20T08:33:56Z",
+      "body": "пост фанбоя, в общем"
+    },
+    {
+      "body": "@arty: В статье оговаривается, что сравнение с  &quot;web-based collaboration offerings&quot;.   А &quot;threaded conversations&quot; в web мордах к почте редкость . Про &quot;maillist&quot; согласен, взять те же google groups...",
+      "rawBody": "@arty: В статье оговаривается, что сравнение с  \"web-based collaboration offerings\".   А \"threaded conversations\" в web мордах к почте редкость . Про \"maillist\" согласен, взять те же google groups...",
+      "id": "e/ea492512f9ad40fcb56f1846d5e8dce4/c/43af782a62604ab6b3e0a08a67db0a82",
+      "from": {
+        "name": "углы «Исимуры»",
+        "id": "zag",
+        "type": "user"
+      },
+      "date": "2010-01-20T08:40:29Z"
+    },
+    {
+      "rawBody": "про threaded conversations я имел в виду, что в емейле они не более manual, чем в вейве: что там, что там ставишь курсор в нужное место и начинаешь писать",
+      "date": "2010-01-20T08:43:06Z",
+      "id": "e/ea492512f9ad40fcb56f1846d5e8dce4/c/fe9aea3445cb4efc9e7da6b9d5e116e1",
+      "from": {
+        "id": "arty",
+        "type": "user",
+        "name": "arty"
+      },
+      "body": "про threaded conversations я имел в виду, что в емейле они не более manual, чем в вейве: что там, что там ставишь курсор в нужное место и начинаешь писать"
+    }
+  ],
+  "via": {
+    "name": "Bookmarklet",
+    "url": "http://friendfeed.com/share/bookmarklet"
+  },
+  "from": {
+    "name": "углы «Исимуры»",
+    "type": "user",
+    "id": "zag"
+  }
+}
+=end comment
+
+=end pod

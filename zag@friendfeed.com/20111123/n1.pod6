@@ -1,0 +1,36 @@
+=begin pod :pubdate('2011-11-23T17:16:58Z') :type<note> 
+=NAME Рекомендательные сервисы становятся неотъемлимой частью любого магазина http://t.co/3bouracd
+
+=begin DESCRIPTION
+
+Рекомендательные сервисы становятся неотъемлимой частью любого магазина http://t.co/3bouracd - L<link|http://twitter.com/zagru/statuses/139392003736748032>
+
+
+
+=end DESCRIPTION
+
+Рекомендательные сервисы становятся неотъемлимой частью любого магазина http://t.co/3bouracd - L<link|http://twitter.com/zagru/statuses/139392003736748032>
+
+
+
+=begin comment :src
+{
+  "via": {
+    "name": "Twitter",
+    "url": "http://twitter.com/zagru/statuses/139392003736748032"
+  },
+  "from": {
+    "id": "zag",
+    "type": "user",
+    "name": "углы «Исимуры»"
+  },
+  "id": "e/2245174be204297bdce219d3a65a3e7b",
+  "date": "2011-11-23T17:16:58Z",
+  "rawBody": "Рекомендательные сервисы становятся неотъемлимой частью любого магазина http://t.co/3bouracd",
+  "url": "http://friendfeed.com/zag/2245174b",
+  "rawLink": "http://twitter.com/zagru/statuses/139392003736748032",
+  "body": "Рекомендательные сервисы становятся неотъемлимой частью любого магазина <a rel=\"nofollow\" href=\"http://t.co/3bouracd\">http://t.co/3bouracd</a>"
+}
+=end comment
+
+=end pod

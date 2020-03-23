@@ -1,0 +1,78 @@
+=begin pod :pubdate('2010-04-28T11:11:14Z') :type<note> 
+=NAME Pencil vs. Camera
+
+=begin DESCRIPTION
+
+Pencil vs. Camera - L<link|http://www.2dayblog.com/2010/04/27/pencil-vs-camera/>
+=for Image :width(263) :link('http://www.2dayblog.com/2010/04/27/pencil-vs-camera/') :height(175) :preview
+media/e698ec96d4f3497c3b4db627f9b787f4c8eda267.jpg
+=for Image :width(266) :link('http://www.2dayblog.com/2010/04/27/pencil-vs-camera/') :height(175) :preview
+media/aaf5cee868529c54fae435d0314fc8e66f62297e.jpg
+=for Image :width(124) :link('http://www.2dayblog.com/2010/04/27/pencil-vs-camera/') :height(175) :preview
+media/8d78a7d05ec227a6f93ee21838297cd5b5525283.jpg
+
+
+
+=end DESCRIPTION
+
+Pencil vs. Camera - L<link|http://www.2dayblog.com/2010/04/27/pencil-vs-camera/>
+=for Image :width(263) :link('http://www.2dayblog.com/2010/04/27/pencil-vs-camera/') :height(175) :preview
+media/e698ec96d4f3497c3b4db627f9b787f4c8eda267.jpg
+=for Image :width(266) :link('http://www.2dayblog.com/2010/04/27/pencil-vs-camera/') :height(175) :preview
+media/aaf5cee868529c54fae435d0314fc8e66f62297e.jpg
+=for Image :width(124) :link('http://www.2dayblog.com/2010/04/27/pencil-vs-camera/') :height(175) :preview
+media/8d78a7d05ec227a6f93ee21838297cd5b5525283.jpg
+
+
+
+=begin comment :src
+{
+  "via": {
+    "name": "Bookmarklet",
+    "url": "http://friendfeed.com/share/bookmarklet"
+  },
+  "from": {
+    "id": "zag",
+    "type": "user",
+    "name": "углы «Исимуры»"
+  },
+  "rawBody": "Pencil vs. Camera",
+  "id": "e/e9e050a949174aca9ecc835df1923d25",
+  "date": "2010-04-28T11:11:14Z",
+  "url": "http://friendfeed.com/zag/e9e050a9/pencil-vs-camera",
+  "thumbnails": [
+    {
+      "width": 263,
+      "url": "http://m.friendfeed-media.com/e698ec96d4f3497c3b4db627f9b787f4c8eda267",
+      "height": 175,
+      "link": "http://www.2dayblog.com/2010/04/27/pencil-vs-camera/"
+    },
+    {
+      "width": 266,
+      "url": "http://m.friendfeed-media.com/aaf5cee868529c54fae435d0314fc8e66f62297e",
+      "height": 175,
+      "link": "http://www.2dayblog.com/2010/04/27/pencil-vs-camera/"
+    },
+    {
+      "link": "http://www.2dayblog.com/2010/04/27/pencil-vs-camera/",
+      "height": 175,
+      "url": "http://m.friendfeed-media.com/8d78a7d05ec227a6f93ee21838297cd5b5525283",
+      "width": 124
+    }
+  ],
+  "rawLink": "http://www.2dayblog.com/2010/04/27/pencil-vs-camera/",
+  "likes": [
+    {
+      "date": "2010-04-28T11:11:51Z",
+      "from": {
+        "id": "menelvagor",
+        "type": "user",
+        "name": "Dmitriy Olerinskiy"
+      }
+    }
+  ],
+  "body": "Pencil vs. Camera - <a rel=\"nofollow\" href=\"http://www.2dayblog.com/2010/04/27/pencil-vs-camera/\" title=\"http://www.2dayblog.com/2010/04/27/pencil-vs-camera/\">http://www.2dayblog.com/2010...</a>"
+}
+=end comment
+
+=end pod

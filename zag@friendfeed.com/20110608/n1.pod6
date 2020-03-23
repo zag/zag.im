@@ -1,0 +1,46 @@
+=begin pod :pubdate('2011-06-08T07:36:55Z') :type<note> 
+=NAME Writing an HTTP Server in Perl 6
+
+=begin DESCRIPTION
+
+Writing an HTTP Server in Perl 6 - L<link|http://szabgab.com/blog/2011/06/http-server-in-perl-6.html>
+
+
+
+=end DESCRIPTION
+
+Writing an HTTP Server in Perl 6 - L<link|http://szabgab.com/blog/2011/06/http-server-in-perl-6.html>
+
+
+
+=begin comment :src
+{
+  "from": {
+    "type": "user",
+    "id": "zag",
+    "name": "углы «Исимуры»"
+  },
+  "via": {
+    "name": "Bookmarklet",
+    "url": "http://friendfeed.com/share/bookmarklet"
+  },
+  "rawBody": "Writing an HTTP Server in Perl 6",
+  "id": "e/ce8be73c84dc4408a332a1fa8db0b28c",
+  "date": "2011-06-08T07:36:55Z",
+  "url": "http://friendfeed.com/zag/ce8be73c/writing-http-server-in-perl-6",
+  "likes": [
+    {
+      "from": {
+        "id": "mishin",
+        "type": "user",
+        "name": "Николай"
+      },
+      "date": "2011-06-08T09:24:31Z"
+    }
+  ],
+  "rawLink": "http://szabgab.com/blog/2011/06/http-server-in-perl-6.html",
+  "body": "Writing an HTTP Server in Perl 6 - <a rel=\"nofollow\" href=\"http://szabgab.com/blog/2011/06/http-server-in-perl-6.html\" title=\"http://szabgab.com/blog/2011/06/http-server-in-perl-6.html\">http://szabgab.com/blog...</a>"
+}
+=end comment
+
+=end pod

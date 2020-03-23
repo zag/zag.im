@@ -1,0 +1,32 @@
+=begin pod :pubdate('2011-04-07T10:32:26Z') :type<note> 
+=NAME Writing code with MS Paint - http://i.min.us/ikq8hS.gif
+
+=begin DESCRIPTION
+
+Writing code with MS Paint - http://i.min.us/ikq8hS.gif
+
+
+
+=end DESCRIPTION
+
+Writing code with MS Paint - http://i.min.us/ikq8hS.gif
+
+
+
+=begin comment :src
+{
+  "rawLink": "http://friendfeed.com/e/7358b851-bfa3-4e5f-9679-8e2b508f39ba",
+  "body": "Writing code with MS Paint - <a rel=\"nofollow\" href=\"http://i.min.us/ikq8hS.gif\">http://i.min.us/ikq8hS.gif</a>",
+  "rawBody": "Writing code with MS Paint - http://i.min.us/ikq8hS.gif",
+  "id": "e/7358b851bfa34e5f96798e2b508f39ba",
+  "date": "2011-04-07T10:32:26Z",
+  "from": {
+    "name": "углы «Исимуры»",
+    "type": "user",
+    "id": "zag"
+  },
+  "url": "http://friendfeed.com/zag/7358b851/writing-code-with-ms-paint"
+}
+=end comment
+
+=end pod

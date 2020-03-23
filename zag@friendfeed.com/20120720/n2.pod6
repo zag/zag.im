@@ -1,0 +1,67 @@
+=begin pod :pubdate('2012-07-20T06:11:38Z') :type<note> 
+=NAME Steve Wozniak reveals contents of his backpack, has a lot of stuff -- Engadget
+
+=begin DESCRIPTION
+
+Steve Wozniak reveals contents of his backpack, has a lot of stuff -- Engadget - L<link|http://www.engadget.com/2012/07/17/apple-founder-steve-wozniak-reveals-contents-of-his-backpack-iphones-ipads/>
+=for Image :width(75) :link('http://www.engadget.com/2012/07/17/apple-founder-steve-wozniak-reveals-contents-of-his-backpack-iphones-ipads/') :height(75) :preview
+media/b52cc58235935d5ef530512ee05cc21d8e410fc8.jpg
+
+=item "This is what happens when you're someone who co-founded Apple."
+
+
+=end DESCRIPTION
+
+Steve Wozniak reveals contents of his backpack, has a lot of stuff -- Engadget - L<link|http://www.engadget.com/2012/07/17/apple-founder-steve-wozniak-reveals-contents-of-his-backpack-iphones-ipads/>
+=for Image :width(75) :link('http://www.engadget.com/2012/07/17/apple-founder-steve-wozniak-reveals-contents-of-his-backpack-iphones-ipads/') :height(75) :preview
+media/b52cc58235935d5ef530512ee05cc21d8e410fc8.jpg
+
+=item "This is what happens when you're someone who co-founded Apple."
+
+
+=begin comment :src
+{
+  "comments": [
+    {
+      "via": {
+        "url": "http://friendfeed.com/share/bookmarklet",
+        "name": "Bookmarklet"
+      },
+      "rawBody": "\"This is what happens when you're someone who co-founded Apple.\"",
+      "id": "e/df98fc3fadd541dc97354042caca2ba1/c/64fd600ac783437fae24a4800e88ec21",
+      "date": "2012-07-20T06:11:38Z",
+      "from": {
+        "type": "user",
+        "id": "zag",
+        "name": "углы «Исимуры»"
+      },
+      "body": "&quot;This is what happens when you're someone who co-founded Apple.&quot;"
+    }
+  ],
+  "via": {
+    "url": "http://friendfeed.com/share/bookmarklet",
+    "name": "Bookmarklet"
+  },
+  "from": {
+    "name": "углы «Исимуры»",
+    "type": "user",
+    "id": "zag"
+  },
+  "rawLink": "http://www.engadget.com/2012/07/17/apple-founder-steve-wozniak-reveals-contents-of-his-backpack-iphones-ipads/",
+  "body": "Steve Wozniak reveals contents of his backpack, has a lot of stuff -- Engadget - <a rel=\"nofollow\" href=\"http://www.engadget.com/2012/07/17/apple-founder-steve-wozniak-reveals-contents-of-his-backpack-iphones-ipads/\" title=\"http://www.engadget.com/2012/07/17/apple-founder-steve-wozniak-reveals-contents-of-his-backpack-iphones-ipads/\">http://www.engadget.com/2012...</a>",
+  "date": "2012-07-20T06:11:38Z",
+  "id": "e/df98fc3fadd541dc97354042caca2ba1",
+  "rawBody": "Steve Wozniak reveals contents of his backpack, has a lot of stuff -- Engadget",
+  "url": "http://friendfeed.com/zag/df98fc3f/steve-wozniak-reveals-contents-of-his-backpack",
+  "thumbnails": [
+    {
+      "link": "http://www.engadget.com/2012/07/17/apple-founder-steve-wozniak-reveals-contents-of-his-backpack-iphones-ipads/",
+      "height": 75,
+      "url": "http://m.friendfeed-media.com/b52cc58235935d5ef530512ee05cc21d8e410fc8",
+      "width": 75
+    }
+  ]
+}
+=end comment
+
+=end pod

@@ -1,0 +1,32 @@
+=begin pod :pubdate('2010-06-18T15:43:06Z') :type<note> 
+=NAME Сделал заготовку  последнего поста в свой блог на zag.ru.
+
+=begin DESCRIPTION
+
+Сделал заготовку  последнего поста в свой блог на zag.ru.
+
+
+
+=end DESCRIPTION
+
+Сделал заготовку  последнего поста в свой блог на zag.ru.
+
+
+
+=begin comment :src
+{
+  "rawLink": "http://friendfeed.com/e/fab4c18c-6057-4119-98dc-0de06919b830",
+  "body": "Сделал заготовку  последнего поста в свой блог на zag.ru.",
+  "id": "e/fab4c18c6057411998dc0de06919b830",
+  "rawBody": "Сделал заготовку  последнего поста в свой блог на zag.ru.",
+  "date": "2010-06-18T15:43:06Z",
+  "from": {
+    "id": "zag",
+    "type": "user",
+    "name": "углы «Исимуры»"
+  },
+  "url": "http://friendfeed.com/zag/fab4c18c/zag-ru"
+}
+=end comment
+
+=end pod

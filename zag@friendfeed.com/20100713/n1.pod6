@@ -1,0 +1,68 @@
+=begin pod :pubdate('2010-07-13T16:58:29Z') :type<note> 
+=NAME Portrait of Mark Zuckerberg Drawn Using Facebook Icons
+
+=begin DESCRIPTION
+
+Portrait of Mark Zuckerberg Drawn Using Facebook Icons - L<link|http://www.labnol.org/home/facebook-mark-zuckerberg-portrait/13984/>
+=for Image :width(175) :link('http://www.labnol.org/home/facebook-mark-zuckerberg-portrait/13984/') :height(175) :preview
+media/d462100d7976f2798eceeed579957a818b7a4654.jpg
+=for Image :width(175) :link('http://www.labnol.org/home/facebook-mark-zuckerberg-portrait/13984/') :height(175) :preview
+media/5f620f23ab338bdf8c74988391fdee2328a2f0e6.jpg
+=for Image :width(260) :link('http://www.labnol.org/home/facebook-mark-zuckerberg-portrait/13984/') :height(175) :preview
+media/412aaf1278c6793f63fcff729a8c4098b68e7b49.jpg
+
+
+
+=end DESCRIPTION
+
+Portrait of Mark Zuckerberg Drawn Using Facebook Icons - L<link|http://www.labnol.org/home/facebook-mark-zuckerberg-portrait/13984/>
+=for Image :width(175) :link('http://www.labnol.org/home/facebook-mark-zuckerberg-portrait/13984/') :height(175) :preview
+media/d462100d7976f2798eceeed579957a818b7a4654.jpg
+=for Image :width(175) :link('http://www.labnol.org/home/facebook-mark-zuckerberg-portrait/13984/') :height(175) :preview
+media/5f620f23ab338bdf8c74988391fdee2328a2f0e6.jpg
+=for Image :width(260) :link('http://www.labnol.org/home/facebook-mark-zuckerberg-portrait/13984/') :height(175) :preview
+media/412aaf1278c6793f63fcff729a8c4098b68e7b49.jpg
+
+
+
+=begin comment :src
+{
+  "rawLink": "http://www.labnol.org/home/facebook-mark-zuckerberg-portrait/13984/",
+  "body": "Portrait of Mark Zuckerberg Drawn Using Facebook Icons - <a rel=\"nofollow\" href=\"http://www.labnol.org/home/facebook-mark-zuckerberg-portrait/13984/\" title=\"http://www.labnol.org/home/facebook-mark-zuckerberg-portrait/13984/\">http://www.labnol.org/home...</a>",
+  "rawBody": "Portrait of Mark Zuckerberg Drawn Using Facebook Icons",
+  "id": "e/0b0c4488b36a4318982e289b7d88d326",
+  "date": "2010-07-13T16:58:29Z",
+  "url": "http://friendfeed.com/zag/0b0c4488/portrait-of-mark-zuckerberg-drawn-using",
+  "thumbnails": [
+    {
+      "width": 175,
+      "url": "http://m.friendfeed-media.com/d462100d7976f2798eceeed579957a818b7a4654",
+      "link": "http://www.labnol.org/home/facebook-mark-zuckerberg-portrait/13984/",
+      "height": 175
+    },
+    {
+      "url": "http://m.friendfeed-media.com/5f620f23ab338bdf8c74988391fdee2328a2f0e6",
+      "width": 175,
+      "link": "http://www.labnol.org/home/facebook-mark-zuckerberg-portrait/13984/",
+      "height": 175
+    },
+    {
+      "width": 260,
+      "url": "http://m.friendfeed-media.com/412aaf1278c6793f63fcff729a8c4098b68e7b49",
+      "link": "http://www.labnol.org/home/facebook-mark-zuckerberg-portrait/13984/",
+      "height": 175
+    }
+  ],
+  "via": {
+    "url": "http://friendfeed.com/share/bookmarklet",
+    "name": "Bookmarklet"
+  },
+  "from": {
+    "id": "zag",
+    "type": "user",
+    "name": "углы «Исимуры»"
+  }
+}
+=end comment
+
+=end pod

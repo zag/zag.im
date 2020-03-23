@@ -1,0 +1,48 @@
+=begin pod :pubdate('2011-06-30T23:54:06Z') :type<note> :tags<lvee>
+=NAME Шашлык для неформальной части #lvee
+
+=begin DESCRIPTION
+
+Шашлык для неформальной части #lvee
+=for Image :width(292) :link('http://m.friendfeed-media.com/e6e9dda0dd16eb90840695dc73486c82fe35893a') :height(175) :preview
+media/663d64bdf3204e4fac7975a6e19158489c905514.jpg
+
+
+
+=end DESCRIPTION
+
+Шашлык для неформальной части #lvee
+=for Image :width(292) :link('http://m.friendfeed-media.com/e6e9dda0dd16eb90840695dc73486c82fe35893a') :height(175) :preview
+media/663d64bdf3204e4fac7975a6e19158489c905514.jpg
+
+
+
+=begin comment :src
+{
+  "id": "e/db07cbb9dc5d4f0e99ac7ae6de257b5d",
+  "date": "2011-06-30T23:54:06Z",
+  "thumbnails": [
+    {
+      "height": 175,
+      "link": "http://m.friendfeed-media.com/e6e9dda0dd16eb90840695dc73486c82fe35893a",
+      "width": 292,
+      "url": "http://m.friendfeed-media.com/663d64bdf3204e4fac7975a6e19158489c905514"
+    }
+  ],
+  "rawBody": "Шашлык для неформальной части #lvee",
+  "url": "http://friendfeed.com/zag/db07cbb9/lvee",
+  "body": "Шашлык для неформальной части <a href=\"http://friendfeed.com/search?q=%23lvee\">#lvee</a>",
+  "rawLink": "http://friendfeed.com/e/db07cbb9-dc5d-4f0e-99ac-7ae6de257b5d",
+  "via": {
+    "url": "http://friendfeed.com/share/mail",
+    "name": "email"
+  },
+  "from": {
+    "name": "углы «Исимуры»",
+    "id": "zag",
+    "type": "user"
+  }
+}
+=end comment
+
+=end pod

@@ -1,0 +1,36 @@
+=begin pod :pubdate('2011-06-13T01:44:39Z') :type<note> :tags<golang>
+=NAME RT @hanszeir: OpenPGP support in #golang http://t.co/qlp7B8H
+
+=begin DESCRIPTION
+
+RT @hanszeir: OpenPGP support in #golang http://t.co/qlp7B8H - L<link|http://twitter.com/zagru/statuses/80088155985936384>
+
+
+
+=end DESCRIPTION
+
+RT @hanszeir: OpenPGP support in #golang http://t.co/qlp7B8H - L<link|http://twitter.com/zagru/statuses/80088155985936384>
+
+
+
+=begin comment :src
+{
+  "date": "2011-06-13T01:44:39Z",
+  "id": "e/ebfc6d2b42269bed4f15ff0b3c97e102",
+  "rawBody": "RT @hanszeir: OpenPGP support in #golang http://t.co/qlp7B8H",
+  "url": "http://friendfeed.com/zag/ebfc6d2b/rt-hanszeir-openpgp-support-in-golang",
+  "body": "RT @<a rel=\"nofollow\" href=\"http://twitter.com/hanszeir\">hanszeir</a>: OpenPGP support in <a rel=\"nofollow\" href=\"http://search.twitter.com/search?q=%23golang\">#golang</a> <a rel=\"nofollow\" href=\"http://t.co/qlp7B8H\" title=\"http://www.imperialviolet.org/2011/06/12/goopenpgp.html\">http://www.imperialviolet.org/2011...</a>",
+  "rawLink": "http://twitter.com/zagru/statuses/80088155985936384",
+  "via": {
+    "url": "http://twitter.com/zagru/statuses/80088155985936384",
+    "name": "Twitter"
+  },
+  "from": {
+    "name": "углы «Исимуры»",
+    "id": "zag",
+    "type": "user"
+  }
+}
+=end comment
+
+=end pod

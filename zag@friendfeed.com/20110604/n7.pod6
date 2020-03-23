@@ -1,0 +1,48 @@
+=begin pod :pubdate('2011-06-04T09:12:52Z') :type<note> :tags<devconf_ru>
+=NAME Валидация структур входных данных. Интересно в контексте реализаций публичных api. #devconf_ru
+
+=begin DESCRIPTION
+
+Валидация структур входных данных. Интересно в контексте реализаций публичных api. #devconf_ru
+=for Image :width(292) :link('http://m.friendfeed-media.com/c6ec148494d3e4b36acadec176ea4d9aa3384d15') :height(175) :preview
+media/1fe1a5e7320236b26d946ada6ceabb8960b3a9d8.jpg
+
+
+
+=end DESCRIPTION
+
+Валидация структур входных данных. Интересно в контексте реализаций публичных api. #devconf_ru
+=for Image :width(292) :link('http://m.friendfeed-media.com/c6ec148494d3e4b36acadec176ea4d9aa3384d15') :height(175) :preview
+media/1fe1a5e7320236b26d946ada6ceabb8960b3a9d8.jpg
+
+
+
+=begin comment :src
+{
+  "via": {
+    "name": "email",
+    "url": "http://friendfeed.com/share/mail"
+  },
+  "from": {
+    "name": "углы «Исимуры»",
+    "type": "user",
+    "id": "zag"
+  },
+  "id": "e/6fb3eae574114b4fb35c86c6e1e2ea91",
+  "date": "2011-06-04T09:12:52Z",
+  "url": "http://friendfeed.com/zag/6fb3eae5/api-devconf_ru",
+  "rawBody": "Валидация структур входных данных. Интересно в контексте реализаций публичных api. #devconf_ru",
+  "thumbnails": [
+    {
+      "link": "http://m.friendfeed-media.com/c6ec148494d3e4b36acadec176ea4d9aa3384d15",
+      "height": 175,
+      "url": "http://m.friendfeed-media.com/1fe1a5e7320236b26d946ada6ceabb8960b3a9d8",
+      "width": 292
+    }
+  ],
+  "body": "Валидация структур входных данных. Интересно в контексте реализаций публичных api. <a href=\"http://friendfeed.com/search?q=%23devconf_ru\">#devconf_ru</a>",
+  "rawLink": "http://friendfeed.com/e/6fb3eae5-7411-4b4f-b35c-86c6e1e2ea91"
+}
+=end comment
+
+=end pod

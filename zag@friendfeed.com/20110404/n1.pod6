@@ -1,0 +1,77 @@
+=begin pod :pubdate('2011-04-04T04:51:51Z') :type<note> :tags<Tron>
+=NAME jtnimoy - Tron Legacy (2010). #Tron Legacy: how the special effects were done.
+
+=begin DESCRIPTION
+
+jtnimoy - Tron Legacy (2010). #Tron Legacy: how the special effects were done. - L<link|http://jtnimoy.net/workviewer.php?q=178>
+=for Image :width(310) :link('http://jtnimoy.net/workviewer.php?q=178') :height(175) :preview
+media/919f5cb09acfd63645921f209eb341297c09ff9c.jpg
+=for Image :width(312) :link('http://jtnimoy.net/workviewer.php?q=178') :height(175) :preview
+media/331a48cb8ee09cc0b7b174d939694bdf03e27081.jpg
+
+=item "After this project, I was fed up enough with wxWidgets and Carbon that I was ready to author my own OpenGL based UI."
+
+
+=end DESCRIPTION
+
+jtnimoy - Tron Legacy (2010). #Tron Legacy: how the special effects were done. - L<link|http://jtnimoy.net/workviewer.php?q=178>
+=for Image :width(310) :link('http://jtnimoy.net/workviewer.php?q=178') :height(175) :preview
+media/919f5cb09acfd63645921f209eb341297c09ff9c.jpg
+=for Image :width(312) :link('http://jtnimoy.net/workviewer.php?q=178') :height(175) :preview
+media/331a48cb8ee09cc0b7b174d939694bdf03e27081.jpg
+
+=item "After this project, I was fed up enough with wxWidgets and Carbon that I was ready to author my own OpenGL based UI."
+
+
+=begin comment :src
+{
+  "id": "e/683e721b3f3b40a9a52825f4ec91d525",
+  "rawBody": "jtnimoy - Tron Legacy (2010). #Tron Legacy: how the special effects were done.",
+  "date": "2011-04-04T04:51:51Z",
+  "thumbnails": [
+    {
+      "width": 310,
+      "url": "http://m.friendfeed-media.com/919f5cb09acfd63645921f209eb341297c09ff9c",
+      "height": 175,
+      "link": "http://jtnimoy.net/workviewer.php?q=178"
+    },
+    {
+      "link": "http://jtnimoy.net/workviewer.php?q=178",
+      "height": 175,
+      "width": 312,
+      "url": "http://m.friendfeed-media.com/331a48cb8ee09cc0b7b174d939694bdf03e27081"
+    }
+  ],
+  "url": "http://friendfeed.com/zag/683e721b/jtnimoy-tron-legacy-2010-how-special-effects",
+  "body": "jtnimoy - Tron Legacy (2010). <a href=\"http://friendfeed.com/search?q=%23Tron\">#Tron</a> Legacy: how the special effects were done. - <a rel=\"nofollow\" href=\"http://jtnimoy.net/workviewer.php?q=178\" title=\"http://jtnimoy.net/workviewer.php?q=178\">http://jtnimoy.net/workvie...</a>",
+  "rawLink": "http://jtnimoy.net/workviewer.php?q=178",
+  "via": {
+    "name": "Bookmarklet",
+    "url": "http://friendfeed.com/share/bookmarklet"
+  },
+  "from": {
+    "name": "углы «Исимуры»",
+    "type": "user",
+    "id": "zag"
+  },
+  "comments": [
+    {
+      "body": "&quot;After this project, I was fed up enough with wxWidgets and Carbon that I was ready to author my own OpenGL based UI.&quot;",
+      "via": {
+        "name": "Bookmarklet",
+        "url": "http://friendfeed.com/share/bookmarklet"
+      },
+      "date": "2011-04-04T04:51:51Z",
+      "id": "e/683e721b3f3b40a9a52825f4ec91d525/c/b945ad8b16e24715bd555dabfe301d25",
+      "rawBody": "\"After this project, I was fed up enough with wxWidgets and Carbon that I was ready to author my own OpenGL based UI.\"",
+      "from": {
+        "type": "user",
+        "id": "zag",
+        "name": "углы «Исимуры»"
+      }
+    }
+  ]
+}
+=end comment
+
+=end pod

@@ -1,0 +1,55 @@
+=begin pod :pubdate('2010-09-04T04:53:46Z') :type<note> 
+=NAME Vox is closing on September 30, 2010 - Vox
+
+=begin DESCRIPTION
+
+Vox is closing on September 30, 2010 - Vox - L<link|http://closing.vox.com/>
+
+=item On Thursday September 30th, your blog will no longer be available at Vox.com
+
+
+=end DESCRIPTION
+
+Vox is closing on September 30, 2010 - Vox - L<link|http://closing.vox.com/>
+
+=item On Thursday September 30th, your blog will no longer be available at Vox.com
+
+
+=begin comment :src
+{
+  "rawBody": "Vox is closing on September 30, 2010 - Vox",
+  "id": "e/34b0314f77724de5a9c44e6973f0ec10",
+  "date": "2010-09-04T04:53:46Z",
+  "url": "http://friendfeed.com/zag/34b0314f/vox-is-closing-on-september-30-2010",
+  "rawLink": "http://closing.vox.com/",
+  "body": "Vox is closing on September 30, 2010 - Vox - <a rel=\"nofollow\" href=\"http://closing.vox.com/\">http://closing.vox.com/</a>",
+  "from": {
+    "id": "zag",
+    "type": "user",
+    "name": "углы «Исимуры»"
+  },
+  "via": {
+    "name": "Bookmarklet",
+    "url": "http://friendfeed.com/share/bookmarklet"
+  },
+  "comments": [
+    {
+      "via": {
+        "url": "http://friendfeed.com/share/bookmarklet",
+        "name": "Bookmarklet"
+      },
+      "rawBody": "On Thursday September 30th, your blog will no longer be available at Vox.com",
+      "id": "e/34b0314f77724de5a9c44e6973f0ec10/c/131ab1b56740438fb6200d8808268ca0",
+      "date": "2010-09-04T04:53:46Z",
+      "from": {
+        "id": "zag",
+        "type": "user",
+        "name": "углы «Исимуры»"
+      },
+      "body": "On Thursday September 30th, your blog will no longer be available at Vox.com"
+    }
+  ]
+}
+=end comment
+
+=end pod

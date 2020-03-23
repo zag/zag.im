@@ -1,0 +1,48 @@
+=begin pod :pubdate('2011-07-02T19:01:40Z') :type<note> :tags<lvee>
+=NAME Подготовка к блицам на #lvee . Блицы - короткие доклады без вопросов из зала.
+
+=begin DESCRIPTION
+
+Подготовка к блицам на #lvee . Блицы - короткие доклады без вопросов из зала.
+=for Image :width(292) :link('http://m.friendfeed-media.com/38a33929679ea707cf133f6dbf71860487b86eaf') :height(175) :preview
+media/c9b88068fb61f2fdae8d825c53025dc019f2b0dd.jpg
+
+
+
+=end DESCRIPTION
+
+Подготовка к блицам на #lvee . Блицы - короткие доклады без вопросов из зала.
+=for Image :width(292) :link('http://m.friendfeed-media.com/38a33929679ea707cf133f6dbf71860487b86eaf') :height(175) :preview
+media/c9b88068fb61f2fdae8d825c53025dc019f2b0dd.jpg
+
+
+
+=begin comment :src
+{
+  "via": {
+    "name": "email",
+    "url": "http://friendfeed.com/share/mail"
+  },
+  "from": {
+    "name": "углы «Исимуры»",
+    "id": "zag",
+    "type": "user"
+  },
+  "date": "2011-07-02T19:01:40Z",
+  "id": "e/f462d8d8e0c14425ab94c5aa80ed2ed2",
+  "url": "http://friendfeed.com/zag/f462d8d8/lvee",
+  "rawBody": "Подготовка к блицам на #lvee . Блицы - короткие доклады без вопросов из зала.",
+  "thumbnails": [
+    {
+      "height": 175,
+      "link": "http://m.friendfeed-media.com/38a33929679ea707cf133f6dbf71860487b86eaf",
+      "url": "http://m.friendfeed-media.com/c9b88068fb61f2fdae8d825c53025dc019f2b0dd",
+      "width": 292
+    }
+  ],
+  "body": "Подготовка к блицам на <a href=\"http://friendfeed.com/search?q=%23lvee\">#lvee</a> . Блицы - короткие доклады без вопросов из зала.",
+  "rawLink": "http://friendfeed.com/e/f462d8d8-e0c1-4425-ab94-c5aa80ed2ed2"
+}
+=end comment
+
+=end pod

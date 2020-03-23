@@ -1,0 +1,48 @@
+=begin pod :pubdate('2010-01-25T09:15:13Z') :type<note> 
+=NAME Empire Building: Visualizing Google, Microsoft, Apple, and Yahoo - Apple - Gizmodo
+
+=begin DESCRIPTION
+
+Empire Building: Visualizing Google, Microsoft, Apple, and Yahoo - Apple - Gizmodo - L<link|http://gizmodo.com/5455267/empire-building-visualizing-google-microsoft-apple-and-yahoo?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+gizmodo%2Ffull+%28Gizmodo%29&utm_content=Google+Reader>
+=for Image :width(220) :link('http://gizmodo.com/5455267/empire-building-visualizing-google-microsoft-apple-and-yahoo?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+gizmodo%2Ffull+%28Gizmodo%29&utm_content=Google+Reader') :height(175) :preview
+media/e24a0badef7670ad6b7692e8a39859309b1a607f.jpg
+
+
+
+=end DESCRIPTION
+
+Empire Building: Visualizing Google, Microsoft, Apple, and Yahoo - Apple - Gizmodo - L<link|http://gizmodo.com/5455267/empire-building-visualizing-google-microsoft-apple-and-yahoo?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+gizmodo%2Ffull+%28Gizmodo%29&utm_content=Google+Reader>
+=for Image :width(220) :link('http://gizmodo.com/5455267/empire-building-visualizing-google-microsoft-apple-and-yahoo?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+gizmodo%2Ffull+%28Gizmodo%29&utm_content=Google+Reader') :height(175) :preview
+media/e24a0badef7670ad6b7692e8a39859309b1a607f.jpg
+
+
+
+=begin comment :src
+{
+  "rawLink": "http://gizmodo.com/5455267/empire-building-visualizing-google-microsoft-apple-and-yahoo?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+gizmodo%2Ffull+%28Gizmodo%29&utm_content=Google+Reader",
+  "body": "Empire Building: Visualizing Google, Microsoft, Apple, and Yahoo - Apple - Gizmodo - <a rel=\"nofollow\" href=\"http://gizmodo.com/5455267/empire-building-visualizing-google-microsoft-apple-and-yahoo?utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+gizmodo%2Ffull+%28Gizmodo%29&amp;utm_content=Google+Reader\" title=\"http://gizmodo.com/5455267/empire-building-visualizing-google-microsoft-apple-and-yahoo?utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+gizmodo%2Ffull+%28Gizmodo%29&amp;utm_content=Google+Reader\">http://gizmodo.com/5455267...</a>",
+  "date": "2010-01-25T09:15:13Z",
+  "id": "e/52782c466b6f4924bbd673c268b46d43",
+  "rawBody": "Empire Building: Visualizing Google, Microsoft, Apple, and Yahoo - Apple - Gizmodo",
+  "url": "http://friendfeed.com/zag/52782c46/empire-building-visualizing-google-microsoft",
+  "thumbnails": [
+    {
+      "url": "http://m.friendfeed-media.com/e24a0badef7670ad6b7692e8a39859309b1a607f",
+      "width": 220,
+      "height": 175,
+      "link": "http://gizmodo.com/5455267/empire-building-visualizing-google-microsoft-apple-and-yahoo?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+gizmodo%2Ffull+%28Gizmodo%29&utm_content=Google+Reader"
+    }
+  ],
+  "from": {
+    "id": "zag",
+    "type": "user",
+    "name": "углы «Исимуры»"
+  },
+  "via": {
+    "name": "Bookmarklet",
+    "url": "http://friendfeed.com/share/bookmarklet"
+  }
+}
+=end comment
+
+=end pod

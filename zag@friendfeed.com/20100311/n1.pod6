@@ -1,0 +1,32 @@
+=begin pod :pubdate('2010-03-11T08:30:49Z') :type<note> 
+=NAME "Google reader play" - Google Reader Play a new way to browse interesting stuff on the web. It's super easy to use - after you've read an item, just click the next arrow to move to the next one. http://www.google.com/reader/play
+
+=begin DESCRIPTION
+
+"Google reader play" - Google Reader Play a new way to browse interesting stuff on the web. It's super easy to use - after you've read an item, just click the next arrow to move to the next one. http://www.google.com/reader/play
+
+
+
+=end DESCRIPTION
+
+"Google reader play" - Google Reader Play a new way to browse interesting stuff on the web. It's super easy to use - after you've read an item, just click the next arrow to move to the next one. http://www.google.com/reader/play
+
+
+
+=begin comment :src
+{
+  "rawLink": "http://friendfeed.com/e/e49e6317-168d-4b10-a794-47cdba8178d8",
+  "body": "&quot;Google reader play&quot; - Google Reader Play a new way to browse interesting stuff on the web. It's super easy to use - after you've read an item, just click the next arrow to move to the next one. <a rel=\"nofollow\" href=\"http://www.google.com/reader/play\" title=\"http://www.google.com/reader/play/\">http://www.google.com/reader...</a>",
+  "from": {
+    "name": "углы «Исимуры»",
+    "id": "zag",
+    "type": "user"
+  },
+  "id": "e/e49e6317168d4b10a79447cdba8178d8",
+  "date": "2010-03-11T08:30:49Z",
+  "rawBody": "\"Google reader play\" - Google Reader Play a new way to browse interesting stuff on the web. It's super easy to use - after you've read an item, just click the next arrow to move to the next one. http://www.google.com/reader/play",
+  "url": "http://friendfeed.com/zag/e49e6317/google-reader-play-new-way-to-browse"
+}
+=end comment
+
+=end pod

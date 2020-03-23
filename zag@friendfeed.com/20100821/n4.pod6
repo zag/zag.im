@@ -1,0 +1,48 @@
+=begin pod :pubdate('2010-08-21T11:39:09Z') :type<note> 
+=NAME Земные соблазны
+
+=begin DESCRIPTION
+
+Земные соблазны
+=for Image :width(233) :link('http://m.friendfeed-media.com/4ffd7dd2bda355972f4b31a9c441cd8c275a07e7') :height(175) :preview
+media/0539e47468abceaa6b5abb7c64e1efbf825bc810.jpg
+
+
+
+=end DESCRIPTION
+
+Земные соблазны
+=for Image :width(233) :link('http://m.friendfeed-media.com/4ffd7dd2bda355972f4b31a9c441cd8c275a07e7') :height(175) :preview
+media/0539e47468abceaa6b5abb7c64e1efbf825bc810.jpg
+
+
+
+=begin comment :src
+{
+  "id": "e/e6463ee730054ab8879189ac155ad326",
+  "date": "2010-08-21T11:39:09Z",
+  "rawBody": "Земные соблазны",
+  "url": "http://friendfeed.com/zag/e6463ee7",
+  "thumbnails": [
+    {
+      "link": "http://m.friendfeed-media.com/4ffd7dd2bda355972f4b31a9c441cd8c275a07e7",
+      "height": 175,
+      "url": "http://m.friendfeed-media.com/0539e47468abceaa6b5abb7c64e1efbf825bc810",
+      "width": 233
+    }
+  ],
+  "body": "Земные соблазны",
+  "rawLink": "http://friendfeed.com/e/e6463ee7-3005-4ab8-8791-89ac155ad326",
+  "via": {
+    "url": "http://friendfeed.com/share/mail",
+    "name": "email"
+  },
+  "from": {
+    "name": "углы «Исимуры»",
+    "type": "user",
+    "id": "zag"
+  }
+}
+=end comment
+
+=end pod

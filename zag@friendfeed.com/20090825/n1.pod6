@@ -1,0 +1,36 @@
+=begin pod :pubdate('2009-08-25T08:18:03Z') :type<note> 
+=NAME Jump bike, jump ! [pic] http://s.imhonet.ru/trash/large/93/f3/93f3373c1868dd7e55913a373b9b9204.gif
+
+=begin DESCRIPTION
+
+Jump bike, jump ! [pic] http://s.imhonet.ru/trash/large/93/f3/93f3373c1868dd7e55913a373b9b9204.gif - L<link|http://twitter.com/zagru/statuses/3531225616>
+
+
+
+=end DESCRIPTION
+
+Jump bike, jump ! [pic] http://s.imhonet.ru/trash/large/93/f3/93f3373c1868dd7e55913a373b9b9204.gif - L<link|http://twitter.com/zagru/statuses/3531225616>
+
+
+
+=begin comment :src
+{
+  "from": {
+    "type": "user",
+    "id": "zag",
+    "name": "углы «Исимуры»"
+  },
+  "via": {
+    "url": "http://twitter.com/zagru/statuses/3531225616",
+    "name": "Twitter"
+  },
+  "id": "e/35764eb5d596099d0358f2b88940496f",
+  "date": "2009-08-25T08:18:03Z",
+  "rawBody": "Jump bike, jump ! [pic] http://s.imhonet.ru/trash/large/93/f3/93f3373c1868dd7e55913a373b9b9204.gif",
+  "url": "http://friendfeed.com/zag/35764eb5/jump-bike-pic",
+  "rawLink": "http://twitter.com/zagru/statuses/3531225616",
+  "body": "Jump bike, jump ! [pic] <a rel=\"nofollow\" href=\"http://s.imhonet.ru/trash/large/93/f3/93f3373c1868dd7e55913a373b9b9204.gif\" title=\"http://s.imhonet.ru/trash/large/93/f3/93f3373c1868dd7e55913a373b9b9204.gif\">http://s.imhonet.ru/trash...</a>"
+}
+=end comment
+
+=end pod

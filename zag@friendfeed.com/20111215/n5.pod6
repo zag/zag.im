@@ -1,0 +1,118 @@
+=begin pod :pubdate('2011-12-15T05:17:04Z') :type<note> 
+=NAME HTTP Status Cats
+
+=begin DESCRIPTION
+
+HTTP Status Cats - L<link|http://www.flickr.com/photos/girliemac/sets/72157628409467125/#>
+=for Image :width(219) :link('http://www.flickr.com/photos/girliemac/sets/72157628409467125/#') :height(175) :preview
+media/b19d4e3a9ce6913b415383862d44d478b1d80d14.jpg
+=for Image :width(75) :link('http://www.flickr.com/photos/girliemac/sets/72157628409467125/#') :height(75) :preview
+media/e0574d5e388d5a81eeb2ff674c66cbd38a60d26f.jpg
+=for Image :width(75) :link('http://www.flickr.com/photos/girliemac/sets/72157628409467125/#') :height(75) :preview
+media/7ae6699ba87aecd6bbf4079ec3666e5cd64093da.jpg
+
+
+
+=end DESCRIPTION
+
+HTTP Status Cats - L<link|http://www.flickr.com/photos/girliemac/sets/72157628409467125/#>
+=for Image :width(219) :link('http://www.flickr.com/photos/girliemac/sets/72157628409467125/#') :height(175) :preview
+media/b19d4e3a9ce6913b415383862d44d478b1d80d14.jpg
+=for Image :width(75) :link('http://www.flickr.com/photos/girliemac/sets/72157628409467125/#') :height(75) :preview
+media/e0574d5e388d5a81eeb2ff674c66cbd38a60d26f.jpg
+=for Image :width(75) :link('http://www.flickr.com/photos/girliemac/sets/72157628409467125/#') :height(75) :preview
+media/7ae6699ba87aecd6bbf4079ec3666e5cd64093da.jpg
+
+
+
+=begin comment :src
+{
+  "likes": [
+    {
+      "date": "2011-12-15T12:15:35Z",
+      "from": {
+        "id": "anpit",
+        "type": "user",
+        "name": "Andrey Pitushkin"
+      }
+    },
+    {
+      "from": {
+        "id": "bessarabov",
+        "type": "user",
+        "name": "Ivan Bessarabov"
+      },
+      "date": "2011-12-15T11:07:17Z"
+    },
+    {
+      "from": {
+        "name": "Александр Семёнов",
+        "type": "user",
+        "id": "alsemyonov"
+      },
+      "date": "2011-12-15T08:13:09Z"
+    },
+    {
+      "from": {
+        "name": "piaff",
+        "id": "piaff",
+        "type": "user"
+      },
+      "date": "2011-12-15T06:43:25Z"
+    },
+    {
+      "date": "2011-12-15T06:23:40Z",
+      "from": {
+        "type": "user",
+        "id": "godegisel",
+        "name": "godegisel"
+      }
+    },
+    {
+      "from": {
+        "name": "alex@kapranoff.ru",
+        "id": "kkapp",
+        "type": "user"
+      },
+      "date": "2011-12-15T06:06:25Z"
+    }
+  ],
+  "rawLink": "http://www.flickr.com/photos/girliemac/sets/72157628409467125/#",
+  "body": "HTTP Status Cats - <a rel=\"nofollow\" href=\"http://www.flickr.com/photos/girliemac/sets/72157628409467125/#\" title=\"http://www.flickr.com/photos/girliemac/sets/72157628409467125/#\">http://www.flickr.com/photos...</a>",
+  "id": "e/5f730ee3683d420d98bdf7bb191a8626",
+  "date": "2011-12-15T05:17:04Z",
+  "url": "http://friendfeed.com/zag/5f730ee3/http-status-cats",
+  "rawBody": "HTTP Status Cats",
+  "thumbnails": [
+    {
+      "url": "http://m.friendfeed-media.com/b19d4e3a9ce6913b415383862d44d478b1d80d14",
+      "width": 219,
+      "height": 175,
+      "link": "http://www.flickr.com/photos/girliemac/sets/72157628409467125/#"
+    },
+    {
+      "link": "http://www.flickr.com/photos/girliemac/sets/72157628409467125/#",
+      "height": 75,
+      "url": "http://m.friendfeed-media.com/e0574d5e388d5a81eeb2ff674c66cbd38a60d26f",
+      "width": 75
+    },
+    {
+      "width": 75,
+      "url": "http://m.friendfeed-media.com/7ae6699ba87aecd6bbf4079ec3666e5cd64093da",
+      "link": "http://www.flickr.com/photos/girliemac/sets/72157628409467125/#",
+      "height": 75
+    }
+  ],
+  "via": {
+    "name": "Bookmarklet",
+    "url": "http://friendfeed.com/share/bookmarklet"
+  },
+  "from": {
+    "name": "углы «Исимуры»",
+    "id": "zag",
+    "type": "user"
+  }
+}
+=end comment
+
+=end pod

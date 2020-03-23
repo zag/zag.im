@@ -1,0 +1,36 @@
+=begin pod :pubdate('2011-08-13T07:48:02Z') :type<note> 
+=NAME RT @dbounds: It's great knowing that when G+ launches their platform thousands of apps around the web will begin consuming and emitting ActivityStrea.ms.
+
+=begin DESCRIPTION
+
+RT @dbounds: It's great knowing that when G+ launches their platform thousands of apps around the web will begin consuming and emitting ActivityStrea.ms. - L<link|http://twitter.com/zagru/statuses/102285264700973056>
+
+
+
+=end DESCRIPTION
+
+RT @dbounds: It's great knowing that when G+ launches their platform thousands of apps around the web will begin consuming and emitting ActivityStrea.ms. - L<link|http://twitter.com/zagru/statuses/102285264700973056>
+
+
+
+=begin comment :src
+{
+  "date": "2011-08-13T07:48:02Z",
+  "id": "e/ca2980b66e6bf439aa7034da70231fcb",
+  "rawBody": "RT @dbounds: It's great knowing that when G+ launches their platform thousands of apps around the web will begin consuming and emitting ActivityStrea.ms.",
+  "url": "http://friendfeed.com/zag/ca2980b6/rt-dbounds-it-great-knowing-that-when-g-launches",
+  "body": "RT @<a rel=\"nofollow\" href=\"http://twitter.com/dbounds\">dbounds</a>: It's great knowing that when G+ launches their platform thousands of apps around the web will begin consuming and emitting ActivityStrea.ms.",
+  "rawLink": "http://twitter.com/zagru/statuses/102285264700973056",
+  "from": {
+    "type": "user",
+    "id": "zag",
+    "name": "углы «Исимуры»"
+  },
+  "via": {
+    "url": "http://twitter.com/zagru/statuses/102285264700973056",
+    "name": "Twitter"
+  }
+}
+=end comment
+
+=end pod

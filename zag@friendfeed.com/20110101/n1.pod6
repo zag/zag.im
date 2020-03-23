@@ -1,0 +1,36 @@
+=begin pod :pubdate('2011-01-01T17:06:14Z') :type<note> 
+=NAME Mobile Web Application Best Practices
+
+=begin DESCRIPTION
+
+Mobile Web Application Best Practices - L<link|http://www.w3.org/TR/mwabp/>
+
+
+
+=end DESCRIPTION
+
+Mobile Web Application Best Practices - L<link|http://www.w3.org/TR/mwabp/>
+
+
+
+=begin comment :src
+{
+  "via": {
+    "url": "http://friendfeed.com/share/bookmarklet",
+    "name": "Bookmarklet"
+  },
+  "from": {
+    "type": "user",
+    "id": "zag",
+    "name": "углы «Исимуры»"
+  },
+  "id": "e/b702db9b651d464ba71d8f3113adb794",
+  "rawBody": "Mobile Web Application Best Practices",
+  "date": "2011-01-01T17:06:14Z",
+  "url": "http://friendfeed.com/zag/b702db9b/mobile-web-application-best-practices",
+  "rawLink": "http://www.w3.org/TR/mwabp/",
+  "body": "Mobile Web Application Best Practices - <a rel=\"nofollow\" href=\"http://www.w3.org/TR/mwabp/\">http://www.w3.org/TR/mwabp/</a>"
+}
+=end comment
+
+=end pod

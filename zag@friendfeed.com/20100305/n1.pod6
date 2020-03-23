@@ -1,0 +1,67 @@
+=begin pod :pubdate('2010-03-05T06:59:20Z') :type<note> 
+=NAME Google killed Bambi
+
+=begin DESCRIPTION
+
+Google killed Bambi - L<link|http://thenextweb.com/shareables/2010/03/04/google-kills-bambi/>
+=for Image :width(89) :link('http://thenextweb.com/shareables/2010/03/04/google-kills-bambi/') :height(175) :preview
+media/43a9d812e304ce29d16dd23cb4192c201fcb099e.jpg
+
+=item Don't be evil
+
+
+=end DESCRIPTION
+
+Google killed Bambi - L<link|http://thenextweb.com/shareables/2010/03/04/google-kills-bambi/>
+=for Image :width(89) :link('http://thenextweb.com/shareables/2010/03/04/google-kills-bambi/') :height(175) :preview
+media/43a9d812e304ce29d16dd23cb4192c201fcb099e.jpg
+
+=item Don't be evil
+
+
+=begin comment :src
+{
+  "from": {
+    "type": "user",
+    "id": "zag",
+    "name": "углы «Исимуры»"
+  },
+  "via": {
+    "name": "Bookmarklet",
+    "url": "http://friendfeed.com/share/bookmarklet"
+  },
+  "comments": [
+    {
+      "body": "Don't be evil",
+      "via": {
+        "name": "Bookmarklet",
+        "url": "http://friendfeed.com/share/bookmarklet"
+      },
+      "rawBody": "Don't be evil",
+      "id": "e/a3e1b9ba2bf443fb94c98f26eaed8862/c/025dfa2d7cd44fe48f78cdb0ceaee0cb",
+      "date": "2010-03-05T06:59:20Z",
+      "from": {
+        "name": "углы «Исимуры»",
+        "id": "zag",
+        "type": "user"
+      }
+    }
+  ],
+  "id": "e/a3e1b9ba2bf443fb94c98f26eaed8862",
+  "url": "http://friendfeed.com/zag/a3e1b9ba/google-killed-bambi",
+  "date": "2010-03-05T06:59:20Z",
+  "rawBody": "Google killed Bambi",
+  "thumbnails": [
+    {
+      "url": "http://m.friendfeed-media.com/43a9d812e304ce29d16dd23cb4192c201fcb099e",
+      "width": 89,
+      "height": 175,
+      "link": "http://thenextweb.com/shareables/2010/03/04/google-kills-bambi/"
+    }
+  ],
+  "rawLink": "http://thenextweb.com/shareables/2010/03/04/google-kills-bambi/",
+  "body": "Google killed Bambi - <a rel=\"nofollow\" href=\"http://thenextweb.com/shareables/2010/03/04/google-kills-bambi/\" title=\"http://thenextweb.com/shareables/2010/03/04/google-kills-bambi/\">http://thenextweb.com/shareab...</a>"
+}
+=end comment
+
+=end pod

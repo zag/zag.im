@@ -1,0 +1,105 @@
+=begin pod :pubdate('2010-05-07T13:16:50Z') :type<note> :tags<starcraft2>
+=NAME StarCraft 2: Wings Of Liberty Release Date Finally Announced – July 27th #starcraft2
+
+=begin DESCRIPTION
+
+StarCraft 2: Wings Of Liberty Release Date Finally Announced – July 27th #starcraft2 - L<link|http://www.gossipgamers.com/starcraft-2-wings-of-liberty-release-date-finally-announced-july-27th/>
+=for Image :width(334) :link('http://www.gossipgamers.com/starcraft-2-wings-of-liberty-release-date-finally-announced-july-27th/') :height(175) :preview
+media/4031ea27105a453bcd0af922d578cf0a01a7fdf2.jpg
+
+=item Just two more months and we can all move out of beta and into the real action.
+
+
+=end DESCRIPTION
+
+StarCraft 2: Wings Of Liberty Release Date Finally Announced – July 27th #starcraft2 - L<link|http://www.gossipgamers.com/starcraft-2-wings-of-liberty-release-date-finally-announced-july-27th/>
+=for Image :width(334) :link('http://www.gossipgamers.com/starcraft-2-wings-of-liberty-release-date-finally-announced-july-27th/') :height(175) :preview
+media/4031ea27105a453bcd0af922d578cf0a01a7fdf2.jpg
+
+=item Just two more months and we can all move out of beta and into the real action.
+
+
+=begin comment :src
+{
+  "likes": [
+    {
+      "from": {
+        "name": "alex@musayev.com",
+        "type": "user",
+        "id": "dreikanter"
+      },
+      "date": "2010-05-07T17:36:05Z"
+    },
+    {
+      "date": "2010-05-07T13:45:50Z",
+      "from": {
+        "id": "yodapunk",
+        "type": "user",
+        "name": "Глеб Арестов"
+      }
+    },
+    {
+      "from": {
+        "name": "alex@kapranoff.ru",
+        "type": "user",
+        "id": "kkapp"
+      },
+      "date": "2010-05-07T13:31:18Z"
+    }
+  ],
+  "rawLink": "http://www.gossipgamers.com/starcraft-2-wings-of-liberty-release-date-finally-announced-july-27th/",
+  "to": [
+    {
+      "type": "user",
+      "id": "zag",
+      "name": "углы's feed"
+    },
+    {
+      "name": "Starcraft II",
+      "id": "starcraftii",
+      "type": "group"
+    }
+  ],
+  "body": "StarCraft 2: Wings Of Liberty Release Date Finally Announced – July 27th <a href=\"http://friendfeed.com/search?q=%23starcraft2\">#starcraft2</a> - <a rel=\"nofollow\" href=\"http://www.gossipgamers.com/starcraft-2-wings-of-liberty-release-date-finally-announced-july-27th/\" title=\"http://www.gossipgamers.com/starcraft-2-wings-of-liberty-release-date-finally-announced-july-27th/\">http://www.gossipgamers.com/starcra...</a>",
+  "rawBody": "StarCraft 2: Wings Of Liberty Release Date Finally Announced – July 27th #starcraft2",
+  "id": "e/64cbdc9e270147f797dfde1cb1667538",
+  "date": "2010-05-07T13:16:50Z",
+  "url": "http://friendfeed.com/starcraftii/64cbdc9e/starcraft-2-wings-of-liberty-release-date",
+  "thumbnails": [
+    {
+      "height": 175,
+      "link": "http://www.gossipgamers.com/starcraft-2-wings-of-liberty-release-date-finally-announced-july-27th/",
+      "width": 334,
+      "url": "http://m.friendfeed-media.com/4031ea27105a453bcd0af922d578cf0a01a7fdf2"
+    }
+  ],
+  "comments": [
+    {
+      "date": "2010-05-07T13:16:50Z",
+      "id": "e/64cbdc9e270147f797dfde1cb1667538/c/6fb3bfd0227f468bb54e7cfd944c8e0b",
+      "rawBody": "Just two more months and we can all move out of beta and into the real action.",
+      "from": {
+        "name": "углы «Исимуры»",
+        "id": "zag",
+        "type": "user"
+      },
+      "via": {
+        "url": "http://friendfeed.com/share/bookmarklet",
+        "name": "Bookmarklet"
+      },
+      "body": "Just two more months and we can all move out of beta and into the real action."
+    }
+  ],
+  "via": {
+    "name": "Bookmarklet",
+    "url": "http://friendfeed.com/share/bookmarklet"
+  },
+  "from": {
+    "name": "углы «Исимуры»",
+    "id": "zag",
+    "type": "user"
+  }
+}
+=end comment
+
+=end pod

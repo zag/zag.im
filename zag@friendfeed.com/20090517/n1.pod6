@@ -1,0 +1,44 @@
+=begin pod :pubdate('2009-05-17T17:46:55Z') :type<note> :tags<perl YAPC>
+=NAME http://twitpic.com/5de0i - YAPC::Russia is ended. One world - one beer ! Happy development ! #perl #YAPC::Russia
+
+=begin DESCRIPTION
+
+http://twitpic.com/5de0i - YAPC::Russia is ended. One world - one beer ! Happy development ! #perl #YAPC::Russia - L<link|http://twitter.com/zagru/statuses/1827471940>
+
+
+
+=end DESCRIPTION
+
+http://twitpic.com/5de0i - YAPC::Russia is ended. One world - one beer ! Happy development ! #perl #YAPC::Russia - L<link|http://twitter.com/zagru/statuses/1827471940>
+
+
+
+=begin comment :src
+{
+  "from": {
+    "type": "user",
+    "id": "zag",
+    "name": "углы «Исимуры»"
+  },
+  "via": {
+    "url": "http://twitter.com/zagru/statuses/1827471940",
+    "name": "Twitter"
+  },
+  "thumbnails": [
+    {
+      "url": "http://twitpic.com/show/thumb/5de0i",
+      "width": 150,
+      "height": 150,
+      "link": "http://twitpic.com/5de0i"
+    }
+  ],
+  "id": "e/866280ca6768cc3f720106905185d533",
+  "date": "2009-05-17T17:46:55Z",
+  "rawBody": "http://twitpic.com/5de0i - YAPC::Russia is ended. One world - one beer ! Happy development ! #perl #YAPC::Russia",
+  "url": "http://friendfeed.com/zag/866280ca/yapc-russia-is-ended-one-world-beer-happy",
+  "rawLink": "http://twitter.com/zagru/statuses/1827471940",
+  "body": "<a rel=\"nofollow\" href=\"http://twitpic.com/5de0i\">http://twitpic.com/5de0i</a> - YAPC::Russia is ended. One world - one beer ! Happy development ! <a rel=\"nofollow\" href=\"http://search.twitter.com/search?q=%23perl\">#perl</a> <a rel=\"nofollow\" href=\"http://search.twitter.com/search?q=%23YAPC\">#YAPC</a>::Russia"
+}
+=end comment
+
+=end pod

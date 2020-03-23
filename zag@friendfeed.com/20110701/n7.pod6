@@ -1,0 +1,48 @@
+=begin pod :pubdate('2011-07-01T10:45:54Z') :type<note> :tags<lvee>
+=NAME Такие спонсоры у #lvee
+
+=begin DESCRIPTION
+
+Такие спонсоры у #lvee
+=for Image :width(292) :link('http://m.friendfeed-media.com/32d7a3614802473a6781543cb1e04a361f5aee80') :height(175) :preview
+media/acd22aed9036e74252f37b0b0e5fcd68549c9d08.jpg
+
+
+
+=end DESCRIPTION
+
+Такие спонсоры у #lvee
+=for Image :width(292) :link('http://m.friendfeed-media.com/32d7a3614802473a6781543cb1e04a361f5aee80') :height(175) :preview
+media/acd22aed9036e74252f37b0b0e5fcd68549c9d08.jpg
+
+
+
+=begin comment :src
+{
+  "via": {
+    "name": "email",
+    "url": "http://friendfeed.com/share/mail"
+  },
+  "from": {
+    "id": "zag",
+    "type": "user",
+    "name": "углы «Исимуры»"
+  },
+  "id": "e/b8f10615f67f4ad5962f12ad45c936fe",
+  "date": "2011-07-01T10:45:54Z",
+  "url": "http://friendfeed.com/zag/b8f10615/lvee",
+  "rawBody": "Такие спонсоры у #lvee",
+  "thumbnails": [
+    {
+      "url": "http://m.friendfeed-media.com/acd22aed9036e74252f37b0b0e5fcd68549c9d08",
+      "width": 292,
+      "link": "http://m.friendfeed-media.com/32d7a3614802473a6781543cb1e04a361f5aee80",
+      "height": 175
+    }
+  ],
+  "rawLink": "http://friendfeed.com/e/b8f10615-f67f-4ad5-962f-12ad45c936fe",
+  "body": "Такие спонсоры у <a href=\"http://friendfeed.com/search?q=%23lvee\">#lvee</a>"
+}
+=end comment
+
+=end pod

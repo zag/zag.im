@@ -1,0 +1,142 @@
+=begin pod :pubdate('2010-06-01T08:03:09Z') :type<note> 
+=NAME Летняя обувь от Nike
+
+=begin DESCRIPTION
+
+Летняя обувь от Nike - L<link|http://www.bitrebels.com/geek/25-new-nike-designs-including-twitter-google-michael-jackson/>
+=for Image :width(274) :link('http://www.bitrebels.com/geek/25-new-nike-designs-including-twitter-google-michael-jackson/') :height(175) :preview
+media/37c92bfcd98faaab2fb0d9c5e888dd9d75734482.jpg
+=for Image :width(281) :link('http://www.bitrebels.com/geek/25-new-nike-designs-including-twitter-google-michael-jackson/') :height(175) :preview
+media/5be13a250b5c1dd66bbdf6b9ebb357c295067bf5.jpg
+=for Image :width(277) :link('http://www.bitrebels.com/geek/25-new-nike-designs-including-twitter-google-michael-jackson/') :height(175) :preview
+media/803021222d121e7ad7840e6837a2a18573821cfe.jpg
+
+=item Daniel Reese, a 21-year-old sneaker designer, takes regular Nike sneakers and turns them into works of art... These shoes, which sell for around $200 – $250 per pair, are only available for a limited time...
+=item Афигенные :)
+
+
+=end DESCRIPTION
+
+Летняя обувь от Nike - L<link|http://www.bitrebels.com/geek/25-new-nike-designs-including-twitter-google-michael-jackson/>
+=for Image :width(274) :link('http://www.bitrebels.com/geek/25-new-nike-designs-including-twitter-google-michael-jackson/') :height(175) :preview
+media/37c92bfcd98faaab2fb0d9c5e888dd9d75734482.jpg
+=for Image :width(281) :link('http://www.bitrebels.com/geek/25-new-nike-designs-including-twitter-google-michael-jackson/') :height(175) :preview
+media/5be13a250b5c1dd66bbdf6b9ebb357c295067bf5.jpg
+=for Image :width(277) :link('http://www.bitrebels.com/geek/25-new-nike-designs-including-twitter-google-michael-jackson/') :height(175) :preview
+media/803021222d121e7ad7840e6837a2a18573821cfe.jpg
+
+=item Daniel Reese, a 21-year-old sneaker designer, takes regular Nike sneakers and turns them into works of art... These shoes, which sell for around $200 – $250 per pair, are only available for a limited time...
+=item Афигенные :)
+
+
+=begin comment :src
+{
+  "via": {
+    "url": "http://friendfeed.com/share/bookmarklet",
+    "name": "Bookmarklet"
+  },
+  "from": {
+    "name": "углы «Исимуры»",
+    "type": "user",
+    "id": "zag"
+  },
+  "comments": [
+    {
+      "body": "Daniel Reese, a 21-year-old sneaker designer, takes regular Nike sneakers and turns them into works of art... These shoes, which sell for around $200 – $250 per pair, are only available for a limited time...",
+      "via": {
+        "url": "http://friendfeed.com/share/bookmarklet",
+        "name": "Bookmarklet"
+      },
+      "id": "e/2e3e97b78e2e4ddc8286c663a09d7e08/c/2899dd989d344b6387408d61cf1adbd9",
+      "from": {
+        "name": "углы «Исимуры»",
+        "type": "user",
+        "id": "zag"
+      },
+      "date": "2010-06-01T08:03:09Z",
+      "rawBody": "Daniel Reese, a 21-year-old sneaker designer, takes regular Nike sneakers and turns them into works of art... These shoes, which sell for around $200 – $250 per pair, are only available for a limited time..."
+    },
+    {
+      "date": "2010-06-01T08:06:22Z",
+      "rawBody": "Афигенные :)",
+      "id": "e/2e3e97b78e2e4ddc8286c663a09d7e08/c/6371d783c2534e71977273d7db9858b5",
+      "from": {
+        "name": "Dmitriy Olerinskiy",
+        "id": "menelvagor",
+        "type": "user"
+      },
+      "body": "Афигенные :)"
+    }
+  ],
+  "id": "e/2e3e97b78e2e4ddc8286c663a09d7e08",
+  "rawBody": "Летняя обувь от Nike",
+  "date": "2010-06-01T08:03:09Z",
+  "url": "http://friendfeed.com/zag/2e3e97b7/nike",
+  "thumbnails": [
+    {
+      "height": 175,
+      "link": "http://www.bitrebels.com/geek/25-new-nike-designs-including-twitter-google-michael-jackson/",
+      "url": "http://m.friendfeed-media.com/37c92bfcd98faaab2fb0d9c5e888dd9d75734482",
+      "width": 274
+    },
+    {
+      "link": "http://www.bitrebels.com/geek/25-new-nike-designs-including-twitter-google-michael-jackson/",
+      "height": 175,
+      "width": 281,
+      "url": "http://m.friendfeed-media.com/5be13a250b5c1dd66bbdf6b9ebb357c295067bf5"
+    },
+    {
+      "height": 175,
+      "link": "http://www.bitrebels.com/geek/25-new-nike-designs-including-twitter-google-michael-jackson/",
+      "width": 277,
+      "url": "http://m.friendfeed-media.com/803021222d121e7ad7840e6837a2a18573821cfe"
+    }
+  ],
+  "rawLink": "http://www.bitrebels.com/geek/25-new-nike-designs-including-twitter-google-michael-jackson/",
+  "likes": [
+    {
+      "from": {
+        "type": "user",
+        "id": "woof",
+        "name": "woof"
+      },
+      "date": "2010-06-01T09:32:07Z"
+    },
+    {
+      "date": "2010-06-01T08:36:39Z",
+      "from": {
+        "name": "mindszenty",
+        "id": "mindszenty",
+        "type": "user"
+      }
+    },
+    {
+      "from": {
+        "type": "user",
+        "id": "kkapp",
+        "name": "alex@kapranoff.ru"
+      },
+      "date": "2010-06-01T08:23:05Z"
+    },
+    {
+      "from": {
+        "name": "Pavel Simonoff",
+        "id": "pisimonov",
+        "type": "user"
+      },
+      "date": "2010-06-01T08:18:42Z"
+    },
+    {
+      "from": {
+        "name": "Dmitriy Olerinskiy",
+        "id": "menelvagor",
+        "type": "user"
+      },
+      "date": "2010-06-01T08:05:51Z"
+    }
+  ],
+  "body": "Летняя обувь от Nike - <a rel=\"nofollow\" href=\"http://www.bitrebels.com/geek/25-new-nike-designs-including-twitter-google-michael-jackson/\" title=\"http://www.bitrebels.com/geek/25-new-nike-designs-including-twitter-google-michael-jackson/\">http://www.bitrebels.com/geek...</a>"
+}
+=end comment
+
+=end pod

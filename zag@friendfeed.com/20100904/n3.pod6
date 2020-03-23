@@ -1,0 +1,58 @@
+=begin pod :pubdate('2010-09-04T11:10:31Z') :type<note> :tags<Perl6>
+=NAME В #Perl6 нашлось место для магии: сигил — символ, обладающий определенной магической силой.
+
+=begin DESCRIPTION
+
+В #Perl6 нашлось место для магии: сигил — символ, обладающий определенной магической силой. - L<link|http://ru.wikipedia.org/wiki/%D0%A1%D0%B8%D0%B3%D0%B8%D0%BB#>
+=for Image :width(100) :link('http://ru.wikipedia.org/wiki/%D0%A1%D0%B8%D0%B3%D0%B8%D0%BB#') :height(99) :preview
+media/10551c3d13f8a892d42dd9106601acbe6367fb90.png
+=for Image :width(100) :link('http://ru.wikipedia.org/wiki/%D0%A1%D0%B8%D0%B3%D0%B8%D0%BB#') :height(98) :preview
+media/08ad2bbda9be3fdae7774aa6ec71b2b0768035c6.png
+
+
+
+=end DESCRIPTION
+
+В #Perl6 нашлось место для магии: сигил — символ, обладающий определенной магической силой. - L<link|http://ru.wikipedia.org/wiki/%D0%A1%D0%B8%D0%B3%D0%B8%D0%BB#>
+=for Image :width(100) :link('http://ru.wikipedia.org/wiki/%D0%A1%D0%B8%D0%B3%D0%B8%D0%BB#') :height(99) :preview
+media/10551c3d13f8a892d42dd9106601acbe6367fb90.png
+=for Image :width(100) :link('http://ru.wikipedia.org/wiki/%D0%A1%D0%B8%D0%B3%D0%B8%D0%BB#') :height(98) :preview
+media/08ad2bbda9be3fdae7774aa6ec71b2b0768035c6.png
+
+
+
+=begin comment :src
+{
+  "body": "В <a href=\"http://friendfeed.com/search?q=%23Perl6\">#Perl6</a> нашлось место для магии: сигил — символ, обладающий определенной магической силой. - <a rel=\"nofollow\" href=\"http://ru.wikipedia.org/wiki/%D0%A1%D0%B8%D0%B3%D0%B8%D0%BB#\" title=\"http://ru.wikipedia.org/wiki/%D0%A1%D0%B8%D0%B3%D0%B8%D0%BB#\">http://ru.wikipedia.org/wiki...</a>",
+  "rawLink": "http://ru.wikipedia.org/wiki/%D0%A1%D0%B8%D0%B3%D0%B8%D0%BB#",
+  "date": "2010-09-04T11:10:31Z",
+  "id": "e/86d026f9fd104edf969451158b2e1647",
+  "url": "http://friendfeed.com/zag/86d026f9/perl6",
+  "rawBody": "В #Perl6 нашлось место для магии: сигил — символ, обладающий определенной магической силой.",
+  "thumbnails": [
+    {
+      "height": 99,
+      "link": "http://ru.wikipedia.org/wiki/%D0%A1%D0%B8%D0%B3%D0%B8%D0%BB#",
+      "url": "http://m.friendfeed-media.com/10551c3d13f8a892d42dd9106601acbe6367fb90",
+      "width": 100
+    },
+    {
+      "url": "http://m.friendfeed-media.com/08ad2bbda9be3fdae7774aa6ec71b2b0768035c6",
+      "width": 100,
+      "link": "http://ru.wikipedia.org/wiki/%D0%A1%D0%B8%D0%B3%D0%B8%D0%BB#",
+      "height": 98
+    }
+  ],
+  "from": {
+    "type": "user",
+    "id": "zag",
+    "name": "углы «Исимуры»"
+  },
+  "via": {
+    "url": "http://friendfeed.com/share/bookmarklet",
+    "name": "Bookmarklet"
+  }
+}
+=end comment
+
+=end pod

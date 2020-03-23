@@ -1,0 +1,36 @@
+=begin pod :pubdate('2011-08-13T07:45:53Z') :type<note> 
+=NAME Soocial • Easy & Complete Contacts Sync. "Yes, finally one address book to rule them all"
+
+=begin DESCRIPTION
+
+Soocial • Easy & Complete Contacts Sync. "Yes, finally one address book to rule them all" - L<link|http://www.soocial.com/>
+
+
+
+=end DESCRIPTION
+
+Soocial • Easy & Complete Contacts Sync. "Yes, finally one address book to rule them all" - L<link|http://www.soocial.com/>
+
+
+
+=begin comment :src
+{
+  "from": {
+    "name": "углы «Исимуры»",
+    "id": "zag",
+    "type": "user"
+  },
+  "via": {
+    "url": "http://friendfeed.com/share/bookmarklet",
+    "name": "Bookmarklet"
+  },
+  "id": "e/874c50c5893e4f4b852467c2051516fb",
+  "rawBody": "Soocial • Easy & Complete Contacts Sync. \"Yes, finally one address book to rule them all\"",
+  "date": "2011-08-13T07:45:53Z",
+  "url": "http://friendfeed.com/zag/874c50c5/soocial-easy-complete-contacts-sync-yes",
+  "body": "Soocial • Easy &amp; Complete Contacts Sync. &quot;Yes, finally one address book to rule them all&quot; - <a rel=\"nofollow\" href=\"http://www.soocial.com/\" title=\"http://www.soocial.com/intro\">http://www.soocial.com/intro</a>",
+  "rawLink": "http://www.soocial.com/"
+}
+=end comment
+
+=end pod

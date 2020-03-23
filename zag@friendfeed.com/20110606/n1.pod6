@@ -1,0 +1,92 @@
+=begin pod :pubdate('2011-06-06T11:48:30Z') :type<note> 
+=NAME The MessagePack Project
+
+=begin DESCRIPTION
+
+The MessagePack Project - L<link|http://msgpack.org/>
+=for Image :width(342) :link('http://msgpack.org/') :height(175) :preview
+media/1da231ab0ddea3bac78b59cc2d51d9fd5b32d45e.jpg
+
+=item Extremely efficient object serialization library for cross-language communication.
+It's like JSON, but very fast and small.
+=item круто, надо попробовать
+
+
+=end DESCRIPTION
+
+The MessagePack Project - L<link|http://msgpack.org/>
+=for Image :width(342) :link('http://msgpack.org/') :height(175) :preview
+media/1da231ab0ddea3bac78b59cc2d51d9fd5b32d45e.jpg
+
+=item Extremely efficient object serialization library for cross-language communication.
+It's like JSON, but very fast and small.
+=item круто, надо попробовать
+
+
+=begin comment :src
+{
+  "comments": [
+    {
+      "body": "Extremely efficient object serialization library for cross-language communication.\nIt's like JSON, but very fast and small.",
+      "via": {
+        "url": "http://friendfeed.com/share/bookmarklet",
+        "name": "Bookmarklet"
+      },
+      "date": "2011-06-06T11:48:30Z",
+      "id": "e/427a90063c744d47859921fff907a144/c/e53f1bc279c4465ca5ce2261a9dc0ca9",
+      "rawBody": "Extremely efficient object serialization library for cross-language communication.\nIt's like JSON, but very fast and small.",
+      "from": {
+        "id": "zag",
+        "type": "user",
+        "name": "углы «Исимуры»"
+      }
+    },
+    {
+      "rawBody": "круто, надо попробовать",
+      "id": "e/427a90063c744d47859921fff907a144/c/6a9833df9d5844d8b23bd506ad0efe2f",
+      "from": {
+        "type": "user",
+        "id": "mishin",
+        "name": "Николай"
+      },
+      "date": "2011-06-06T11:52:56Z",
+      "body": "круто, надо попробовать"
+    }
+  ],
+  "via": {
+    "name": "Bookmarklet",
+    "url": "http://friendfeed.com/share/bookmarklet"
+  },
+  "from": {
+    "type": "user",
+    "id": "zag",
+    "name": "углы «Исимуры»"
+  },
+  "rawLink": "http://msgpack.org/",
+  "likes": [
+    {
+      "from": {
+        "name": "Николай",
+        "id": "mishin",
+        "type": "user"
+      },
+      "date": "2011-06-06T11:52:41Z"
+    }
+  ],
+  "body": "The MessagePack Project - <a rel=\"nofollow\" href=\"http://msgpack.org/\">http://msgpack.org/</a>",
+  "date": "2011-06-06T11:48:30Z",
+  "id": "e/427a90063c744d47859921fff907a144",
+  "url": "http://friendfeed.com/zag/427a9006/messagepack-project",
+  "rawBody": "The MessagePack Project",
+  "thumbnails": [
+    {
+      "link": "http://msgpack.org/",
+      "height": 175,
+      "url": "http://m.friendfeed-media.com/1da231ab0ddea3bac78b59cc2d51d9fd5b32d45e",
+      "width": 342
+    }
+  ]
+}
+=end comment
+
+=end pod

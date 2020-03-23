@@ -1,0 +1,32 @@
+=begin pod :pubdate('2011-03-26T18:06:02Z') :type<note> 
+=NAME Яйца в фильме - это счастье. http://www.imdb.com/title/tt0075686/
+
+=begin DESCRIPTION
+
+Яйца в фильме - это счастье. http://www.imdb.com/title/tt0075686/
+
+
+
+=end DESCRIPTION
+
+Яйца в фильме - это счастье. http://www.imdb.com/title/tt0075686/
+
+
+
+=begin comment :src
+{
+  "body": "Яйца в фильме - это счастье. <a rel=\"nofollow\" href=\"http://www.imdb.com/title/tt0075686/\" title=\"http://www.imdb.com/title/tt0075686/\">http://www.imdb.com/title...</a>",
+  "rawLink": "http://friendfeed.com/e/951a2847-037d-4cdf-be3b-25052241ba3a",
+  "id": "e/951a2847037d4cdfbe3b25052241ba3a",
+  "date": "2011-03-26T18:06:02Z",
+  "from": {
+    "id": "zag",
+    "type": "user",
+    "name": "углы «Исимуры»"
+  },
+  "rawBody": "Яйца в фильме - это счастье. http://www.imdb.com/title/tt0075686/",
+  "url": "http://friendfeed.com/zag/951a2847"
+}
+=end comment
+
+=end pod

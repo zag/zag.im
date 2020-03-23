@@ -1,0 +1,85 @@
+=begin pod :pubdate('2010-03-04T09:49:05Z') :type<note> 
+=NAME Moonlight is an open source implementation of Silverlight (http://silverlight.net), primarily for Linux and other Unix/X11 based operating systems.
+
+=begin DESCRIPTION
+
+Moonlight is an open source implementation of Silverlight (http://silverlight.net), primarily for Linux and other Unix/X11 based operating systems. - L<link|http://www.mono-project.com/Moonlight>
+
+=item Moonlight 2 was released December 17, 2009
+=item Не работает он.
+=item все больше растет уверенность, что нет у него(Silverlight) будущего
+
+
+=end DESCRIPTION
+
+Moonlight is an open source implementation of Silverlight (http://silverlight.net), primarily for Linux and other Unix/X11 based operating systems. - L<link|http://www.mono-project.com/Moonlight>
+
+=item Moonlight 2 was released December 17, 2009
+=item Не работает он.
+=item все больше растет уверенность, что нет у него(Silverlight) будущего
+
+
+=begin comment :src
+{
+  "comments": [
+    {
+      "body": "Moonlight 2 was released December 17, 2009",
+      "id": "e/0fb3c9b6a9374916a04b8d67a8eaf29d/c/f62dfa48db574feabc19cb2a25a1c420",
+      "from": {
+        "name": "углы «Исимуры»",
+        "type": "user",
+        "id": "zag"
+      },
+      "date": "2010-03-04T09:49:05Z",
+      "rawBody": "Moonlight 2 was released December 17, 2009",
+      "via": {
+        "url": "http://friendfeed.com/share/bookmarklet",
+        "name": "Bookmarklet"
+      }
+    },
+    {
+      "via": {
+        "url": "http://friendfeed.com/about/tools",
+        "name": "Android"
+      },
+      "id": "e/0fb3c9b6a9374916a04b8d67a8eaf29d/c/c72b26589246410093678c39ca6ac25b",
+      "from": {
+        "id": "kkapp",
+        "type": "user",
+        "name": "alex@kapranoff.ru"
+      },
+      "date": "2010-03-04T10:33:30Z",
+      "rawBody": "Не работает он.",
+      "body": "Не работает он."
+    },
+    {
+      "body": "все больше растет уверенность, что нет у него(Silverlight) будущего",
+      "id": "e/0fb3c9b6a9374916a04b8d67a8eaf29d/c/f5cef540fe79477b8c671e56ebd47b2d",
+      "rawBody": "все больше растет уверенность, что нет у него(Silverlight) будущего",
+      "from": {
+        "id": "zag",
+        "type": "user",
+        "name": "углы «Исимуры»"
+      },
+      "date": "2010-03-04T10:37:58Z"
+    }
+  ],
+  "from": {
+    "type": "user",
+    "id": "zag",
+    "name": "углы «Исимуры»"
+  },
+  "via": {
+    "url": "http://friendfeed.com/share/bookmarklet",
+    "name": "Bookmarklet"
+  },
+  "rawLink": "http://www.mono-project.com/Moonlight",
+  "body": "Moonlight is an open source implementation of Silverlight (<a rel=\"nofollow\" href=\"http://silverlight.net\">http://silverlight.net</a>), primarily for Linux and other Unix/X11 based operating systems. - <a rel=\"nofollow\" href=\"http://www.mono-project.com/Moonlight\" title=\"http://www.mono-project.com/Moonlight\">http://www.mono-project.com/Moonlig...</a>",
+  "date": "2010-03-04T09:49:05Z",
+  "id": "e/0fb3c9b6a9374916a04b8d67a8eaf29d",
+  "rawBody": "Moonlight is an open source implementation of Silverlight (http://silverlight.net), primarily for Linux and other Unix/X11 based operating systems.",
+  "url": "http://friendfeed.com/zag/0fb3c9b6/moonlight-is-open-source-implementation-of"
+}
+=end comment
+
+=end pod

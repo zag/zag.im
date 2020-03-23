@@ -1,0 +1,67 @@
+=begin pod :pubdate('2011-05-03T10:02:25Z') :type<note> 
+=NAME XYDO - Personal News Network."XYDO appears to be leaning heavily on social collaborative filtering to divine the top news for you"
+
+=begin DESCRIPTION
+
+XYDO - Personal News Network."XYDO appears to be leaning heavily on social collaborative filtering to divine the top news for you" - L<link|http://www.xydo.com/>
+=for Image :width(120) :link('http://www.xydo.com/') :height(34) :preview
+media/b18ca3e02b0c7d535644ad98a7a0a51820508e28.png
+
+=item Xydo всем
+
+
+=end DESCRIPTION
+
+XYDO - Personal News Network."XYDO appears to be leaning heavily on social collaborative filtering to divine the top news for you" - L<link|http://www.xydo.com/>
+=for Image :width(120) :link('http://www.xydo.com/') :height(34) :preview
+media/b18ca3e02b0c7d535644ad98a7a0a51820508e28.png
+
+=item Xydo всем
+
+
+=begin comment :src
+{
+  "body": "XYDO - Personal News Network.&quot;XYDO appears to be leaning heavily on social collaborative filtering to divine the top news for you&quot; - <a rel=\"nofollow\" href=\"http://www.xydo.com/\">http://www.xydo.com/</a>",
+  "rawLink": "http://www.xydo.com/",
+  "url": "http://friendfeed.com/zag/6c76261d/xydo-personal-news-network-appears-to-be",
+  "id": "e/6c76261dbe0646aaad5e0fa38c4242a9",
+  "date": "2011-05-03T10:02:25Z",
+  "rawBody": "XYDO - Personal News Network.\"XYDO appears to be leaning heavily on social collaborative filtering to divine the top news for you\"",
+  "thumbnails": [
+    {
+      "url": "http://m.friendfeed-media.com/b18ca3e02b0c7d535644ad98a7a0a51820508e28",
+      "width": 120,
+      "height": 34,
+      "link": "http://www.xydo.com/"
+    }
+  ],
+  "comments": [
+    {
+      "body": "Xydo всем",
+      "id": "e/6c76261dbe0646aaad5e0fa38c4242a9/c/4297269874bc446993ef5137c2345b4d",
+      "rawBody": "Xydo всем",
+      "date": "2011-05-03T10:02:25Z",
+      "from": {
+        "type": "user",
+        "id": "zag",
+        "name": "углы «Исимуры»"
+      },
+      "via": {
+        "name": "Bookmarklet",
+        "url": "http://friendfeed.com/share/bookmarklet"
+      }
+    }
+  ],
+  "from": {
+    "type": "user",
+    "id": "zag",
+    "name": "углы «Исимуры»"
+  },
+  "via": {
+    "name": "Bookmarklet",
+    "url": "http://friendfeed.com/share/bookmarklet"
+  }
+}
+=end comment
+
+=end pod

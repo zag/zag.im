@@ -1,0 +1,36 @@
+=begin pod :pubdate('2009-07-30T06:39:49Z') :type<note> 
+=NAME Morning mail: Passwords on the popularPerl Monks website were compromised http://tinyurl.com/ktn6ep
+
+=begin DESCRIPTION
+
+Morning mail: Passwords on the popularPerl Monks website were compromised http://tinyurl.com/ktn6ep - L<link|http://twitter.com/zagru/statuses/2925947482>
+
+
+
+=end DESCRIPTION
+
+Morning mail: Passwords on the popularPerl Monks website were compromised http://tinyurl.com/ktn6ep - L<link|http://twitter.com/zagru/statuses/2925947482>
+
+
+
+=begin comment :src
+{
+  "body": "Morning mail: Passwords on the popularPerl Monks website were compromised <a rel=\"nofollow\" href=\"http://tinyurl.com/ktn6ep\" title=\"http://www.perlmonks.org/?node_id=784123\">http://www.perlmonks.org/...</a>",
+  "rawLink": "http://twitter.com/zagru/statuses/2925947482",
+  "date": "2009-07-30T06:39:49Z",
+  "id": "e/a6059c41f6a99950b44f2ff57ddd9ce6",
+  "url": "http://friendfeed.com/zag/a6059c41/morning-mail-passwords-on-popularperl-monks",
+  "rawBody": "Morning mail: Passwords on the popularPerl Monks website were compromised http://tinyurl.com/ktn6ep",
+  "via": {
+    "url": "http://twitter.com/zagru/statuses/2925947482",
+    "name": "Twitter"
+  },
+  "from": {
+    "name": "углы «Исимуры»",
+    "type": "user",
+    "id": "zag"
+  }
+}
+=end comment
+
+=end pod

@@ -1,0 +1,63 @@
+=begin pod :pubdate('2011-03-07 10:00:00') :tags<socialminig mining perl>
+=NAME Инструкция к социальному роботу
+
+=begin DESCRIPTION
+
+=for Image :align("left") :preview
+robot.jpg
+
+Как и в случае любого сложного устройства, к роботу должна прилагаться инструкция.
+
+
+=end DESCRIPTION
+
+Как и в случае любого сложного устройства, к роботу должна прилагаться инструкция.
+В данном случае она будет следующей.
+
+Cперва необходимо установить необходимые библиотеки:
+
+=for table :caption('Необходимые Perl 5 библиотеки')
+Имя библиотеки      Примечание
+         
+Net::Twitter  |   B<FreeBSD> C< portupgrade -N net/p5-Net-Twitter>, счастливым обладателям B<Debian (squeeze)>: C<libnet-twitter-perl> .
+Flow          | L<http://search.cpan.org/dist/Flow/> .
+XML::Flow     |  B<FreeBSD>: C< portupgrade -N textproc/p5-XML-Flow>, L<http://search.cpan.org/dist/XML-Flow/> .
+JSON          | B<FeeBSD>: C<portupgrade -N converters/p5-JSON>, L<http://search.cpan.org/dist/JSON/> .
+Pod::Usage   |
+Test::More   |
+Getopt::Long |
+
+Далее потребуется зарегистрировать пользователя FriendFeed, от имени которого будет создавать сообщения робот. На данном этапе потребуется "Remote Key", предоставляемый сервисом FriendFeed для доступа к своему API N<Страница с информацией о ключе для доступа к API FriendFeed. L<https://friendfeed.com/account/api|https://friendfeed.com/account/api>>. Этот ключ и имя пользователя необходимо указать в качестве значений для констант C<FRF_USR> и C<FRF_RKEY>.
+
+Создается группа в FriendFeed. Ее имя указывается в C<FRF_GROUP>.
+
+Следующим шагом производим регистрацию робота в twitter N< Страница регистрации приложений для Twitter. L<https://dev.twitter.com/apps|https://dev.twitter.com/apps>>. На данном этапе заполняются значения констант: C<TWI_CONSUMER_KEY>, C<TWI_CONSUMER_SECRET>, C<TWI_ACCESS_TOKEN>, C<TWI_ACCESS_TOKEN_SECRET>.
+
+Также есть дополнительные настройки:
+
+=for item :term('FRF_POST_ADMIN')
+Разрешает публиковать в twitter сообщения пользователей, являющихся администраторами группы. По умолчанию : 1.
+=for item :term('FRF_POST_ADMIN_LIKED')
+Публикация сообщений, отмеченных администраторами как 'like'. По умолчанию: 1.
+=for item :term('FRF_POST_USERS')
+Перечислены идентифиакторы пользователей, сообщения которых будут публиковаться в twitter. Например: [ 'lvee', 'lveeboteg' ].
+=begin item :term('FRF_SKIP_TWITTER_SRC')
+Сообщения импортируемые средствами FriendFeed из twitter будут исключены. По умолчанию: 1.
+=end item
+
+
+Теперь осталось создать базу сообщений:
+
+    twifrf.pl -f lveecon.db  -fromfrf -fromtwi -init
+
+и периодически запускать следующую команду:
+
+    twifrf.pl -f lveecon.db  -fromfrf -fromtwi
+
+При ее выполнении новые сообщения, появившиеся в FriendFeed  будут публиковаться в twitter и наоборот: из twitter попадать в группу FriendFeed. Если необходимо игнорировать новые сообщения в twitter - из командной строки удаляется опция C<-fromtwi>.
+
+=for Image :caption('Летающие роботы')
+robots.jpg
+
+
+=end pod

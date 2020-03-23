@@ -1,0 +1,68 @@
+=begin pod :pubdate('2010-01-31T05:59:07Z') :type<note> 
+=NAME 9 Upcoming Tablet Alternatives to the Apple iPad
+
+=begin DESCRIPTION
+
+9 Upcoming Tablet Alternatives to the Apple iPad - L<link|http://mashable.com/2010/01/27/9-upcoming-tablet-alternatives-to-the-apple-ipad/>
+=for Image :width(170) :link('http://mashable.com/2010/01/27/9-upcoming-tablet-alternatives-to-the-apple-ipad/') :height(175) :preview
+media/d89555021d96c6956ee2f5c9d52b7b2551c51c21.jpg
+=for Image :width(251) :link('http://mashable.com/2010/01/27/9-upcoming-tablet-alternatives-to-the-apple-ipad/') :height(175) :preview
+media/05108002c43ac0b548a1e3d2dcea6596072c9ce3.jpg
+=for Image :width(231) :link('http://mashable.com/2010/01/27/9-upcoming-tablet-alternatives-to-the-apple-ipad/') :height(175) :preview
+media/f33a49d0e1d3030dec3650d0696ed5e006a1a165.jpg
+
+
+
+=end DESCRIPTION
+
+9 Upcoming Tablet Alternatives to the Apple iPad - L<link|http://mashable.com/2010/01/27/9-upcoming-tablet-alternatives-to-the-apple-ipad/>
+=for Image :width(170) :link('http://mashable.com/2010/01/27/9-upcoming-tablet-alternatives-to-the-apple-ipad/') :height(175) :preview
+media/d89555021d96c6956ee2f5c9d52b7b2551c51c21.jpg
+=for Image :width(251) :link('http://mashable.com/2010/01/27/9-upcoming-tablet-alternatives-to-the-apple-ipad/') :height(175) :preview
+media/05108002c43ac0b548a1e3d2dcea6596072c9ce3.jpg
+=for Image :width(231) :link('http://mashable.com/2010/01/27/9-upcoming-tablet-alternatives-to-the-apple-ipad/') :height(175) :preview
+media/f33a49d0e1d3030dec3650d0696ed5e006a1a165.jpg
+
+
+
+=begin comment :src
+{
+  "rawBody": "9 Upcoming Tablet Alternatives to the Apple iPad",
+  "id": "e/f1c9fead7f4c415e9c568c6aad9720eb",
+  "date": "2010-01-31T05:59:07Z",
+  "thumbnails": [
+    {
+      "link": "http://mashable.com/2010/01/27/9-upcoming-tablet-alternatives-to-the-apple-ipad/",
+      "height": 175,
+      "url": "http://m.friendfeed-media.com/d89555021d96c6956ee2f5c9d52b7b2551c51c21",
+      "width": 170
+    },
+    {
+      "width": 251,
+      "url": "http://m.friendfeed-media.com/05108002c43ac0b548a1e3d2dcea6596072c9ce3",
+      "height": 175,
+      "link": "http://mashable.com/2010/01/27/9-upcoming-tablet-alternatives-to-the-apple-ipad/"
+    },
+    {
+      "width": 231,
+      "url": "http://m.friendfeed-media.com/f33a49d0e1d3030dec3650d0696ed5e006a1a165",
+      "link": "http://mashable.com/2010/01/27/9-upcoming-tablet-alternatives-to-the-apple-ipad/",
+      "height": 175
+    }
+  ],
+  "url": "http://friendfeed.com/zag/f1c9fead/9-upcoming-tablet-alternatives-to-apple-ipad",
+  "body": "9 Upcoming Tablet Alternatives to the Apple iPad - <a rel=\"nofollow\" href=\"http://mashable.com/2010/01/27/9-upcoming-tablet-alternatives-to-the-apple-ipad/\" title=\"http://mashable.com/2010/01/27/9-upcoming-tablet-alternatives-to-the-apple-ipad/\">http://mashable.com/2010...</a>",
+  "rawLink": "http://mashable.com/2010/01/27/9-upcoming-tablet-alternatives-to-the-apple-ipad/",
+  "from": {
+    "name": "углы «Исимуры»",
+    "type": "user",
+    "id": "zag"
+  },
+  "via": {
+    "url": "http://friendfeed.com/share/bookmarklet",
+    "name": "Bookmarklet"
+  }
+}
+=end comment
+
+=end pod

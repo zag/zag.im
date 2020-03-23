@@ -1,0 +1,74 @@
+=begin pod :pubdate('2010-12-25T07:13:54Z') :type<note> 
+=NAME Tron Cat
+
+=begin DESCRIPTION
+
+Tron Cat - L<link|http://twitpic.com/3j4aue>
+=for Image :width(117) :link('http://twitpic.com/3j4aue') :height(175) :preview
+media/a61a41a757ade8da0295c2f4a471cddc218accf5.jpg
+
+
+
+=end DESCRIPTION
+
+Tron Cat - L<link|http://twitpic.com/3j4aue>
+=for Image :width(117) :link('http://twitpic.com/3j4aue') :height(175) :preview
+media/a61a41a757ade8da0295c2f4a471cddc218accf5.jpg
+
+
+
+=begin comment :src
+{
+  "via": {
+    "url": "http://friendfeed.com/share/bookmarklet",
+    "name": "Bookmarklet"
+  },
+  "from": {
+    "type": "user",
+    "id": "zag",
+    "name": "углы «Исимуры»"
+  },
+  "id": "e/3cad1d4ed9324554b6128313741dd0c6",
+  "date": "2010-12-25T07:13:54Z",
+  "url": "http://friendfeed.com/zag/3cad1d4e/tron-cat",
+  "rawBody": "Tron Cat",
+  "thumbnails": [
+    {
+      "width": 117,
+      "url": "http://m.friendfeed-media.com/a61a41a757ade8da0295c2f4a471cddc218accf5",
+      "link": "http://twitpic.com/3j4aue",
+      "height": 175
+    }
+  ],
+  "body": "Tron Cat - <a rel=\"nofollow\" href=\"http://twitpic.com/3j4aue\">http://twitpic.com/3j4aue</a>",
+  "likes": [
+    {
+      "date": "2010-12-25T12:00:04Z",
+      "from": {
+        "name": "Велопрограммист Аркадий",
+        "id": "ilvar",
+        "type": "user"
+      }
+    },
+    {
+      "date": "2010-12-25T11:27:26Z",
+      "from": {
+        "name": "ptzn",
+        "id": "ptzn",
+        "type": "user"
+      }
+    },
+    {
+      "date": "2010-12-25T11:03:19Z",
+      "from": {
+        "id": "kkapp",
+        "type": "user",
+        "name": "alex@kapranoff.ru"
+      }
+    }
+  ],
+  "rawLink": "http://twitpic.com/3j4aue"
+}
+=end comment
+
+=end pod

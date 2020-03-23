@@ -1,0 +1,68 @@
+=begin pod :pubdate('2011-08-09T08:56:45Z') :type<note> 
+=NAME Untitled
+
+=begin DESCRIPTION
+
+Untitled - L<link|http://catchalooter.tumblr.com/>
+=for Image :width(194) :link('http://catchalooter.tumblr.com/') :height(175) :preview
+media/23a43455e292ed5f64d3ffeb1ced0295b2c96e66.jpg
+=for Image :width(134) :link('http://catchalooter.tumblr.com/') :height(175) :preview
+media/00e53e912720f3b9f5e216f9569726276dbc9b8b.jpg
+=for Image :width(141) :link('http://catchalooter.tumblr.com/') :height(175) :preview
+media/f5e40d7e9f7accc9935e43b01a115cf19cc40b57.jpg
+
+
+
+=end DESCRIPTION
+
+Untitled - L<link|http://catchalooter.tumblr.com/>
+=for Image :width(194) :link('http://catchalooter.tumblr.com/') :height(175) :preview
+media/23a43455e292ed5f64d3ffeb1ced0295b2c96e66.jpg
+=for Image :width(134) :link('http://catchalooter.tumblr.com/') :height(175) :preview
+media/00e53e912720f3b9f5e216f9569726276dbc9b8b.jpg
+=for Image :width(141) :link('http://catchalooter.tumblr.com/') :height(175) :preview
+media/f5e40d7e9f7accc9935e43b01a115cf19cc40b57.jpg
+
+
+
+=begin comment :src
+{
+  "via": {
+    "url": "http://friendfeed.com/share/bookmarklet",
+    "name": "Bookmarklet"
+  },
+  "from": {
+    "type": "user",
+    "id": "zag",
+    "name": "углы «Исимуры»"
+  },
+  "id": "e/e30de283207e4fe4953c61a94d50342f",
+  "date": "2011-08-09T08:56:45Z",
+  "url": "http://friendfeed.com/zag/e30de283/untitled",
+  "rawBody": "Untitled",
+  "thumbnails": [
+    {
+      "url": "http://m.friendfeed-media.com/23a43455e292ed5f64d3ffeb1ced0295b2c96e66",
+      "width": 194,
+      "link": "http://catchalooter.tumblr.com/",
+      "height": 175
+    },
+    {
+      "width": 134,
+      "url": "http://m.friendfeed-media.com/00e53e912720f3b9f5e216f9569726276dbc9b8b",
+      "height": 175,
+      "link": "http://catchalooter.tumblr.com/"
+    },
+    {
+      "url": "http://m.friendfeed-media.com/f5e40d7e9f7accc9935e43b01a115cf19cc40b57",
+      "width": 141,
+      "link": "http://catchalooter.tumblr.com/",
+      "height": 175
+    }
+  ],
+  "body": "Untitled - <a rel=\"nofollow\" href=\"http://catchalooter.tumblr.com/\" title=\"http://catchalooter.tumblr.com/\">http://catchalooter.tumblr.com/</a>",
+  "rawLink": "http://catchalooter.tumblr.com/"
+}
+=end comment
+
+=end pod
