@@ -1,4 +1,4 @@
-=begin pod :pubdate('2011-06-02 10:00:00') :tags<pod6 perl6 pod perl>
+=begin pod :pubdate('2011-06-02 10:00:00') :tags<pod6 perl6>
 
 =NAME Perl 6 Pod: Код форматирования A - вставка псевдонимов
 
