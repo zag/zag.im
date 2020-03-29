@@ -29,7 +29,7 @@ module.exports = {
       telegram: '',
       twitter: '',
       github: 'zag',
-      rss: '',
+      rss: 'https://zag.ru/rss.xml',
       vkontakte: '',
       linkedin: 'zahatski',
       instagram: '',
