@@ -1,5 +1,5 @@
-=begin pod :pubdate('2010-05-20T07:14:24Z') :type<note> :tags<font>
-=NAME Google Font API - Google Code #font-face
+=begin pod :pubdate('2010-05-20T07:14:24Z') :type<note> :tags<'font'>
+=TITLE Google Font API - Google Code #font-face
 
 =begin DESCRIPTION
 

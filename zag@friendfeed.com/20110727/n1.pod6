@@ -1,5 +1,5 @@
 =begin pod :pubdate('2011-07-27T12:42:28Z') :type<note> 
-=NAME Domain Federation Protocol
+=TITLE Domain Federation Protocol
 
 =begin DESCRIPTION
 

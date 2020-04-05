@@ -1,5 +1,5 @@
 =begin pod :pubdate('2010-11-30T08:51:29Z') :type<note> 
-=NAME CodeMirror
+=TITLE CodeMirror
 
 =begin DESCRIPTION
 

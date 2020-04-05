@@ -1,5 +1,5 @@
 =begin pod :pubdate('2010-09-05T09:25:00Z') :type<note> 
-=NAME E-books
+=TITLE E-books
 
 =begin DESCRIPTION
 

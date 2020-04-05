@@ -1,5 +1,5 @@
-=begin pod :pubdate('2010-09-03T14:40:21Z') :type<note> :tags<mibf>
-=NAME Терминалы с полками книг - электронных#mibf
+=begin pod :pubdate('2010-09-03T14:40:21Z') :type<note> :tags<'mibf'>
+=TITLE Терминалы с полками книг - электронных#mibf
 
 =begin DESCRIPTION
 

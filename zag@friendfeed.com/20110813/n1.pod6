@@ -1,5 +1,5 @@
 =begin pod :pubdate('2011-08-13T07:48:02Z') :type<note> 
-=NAME RT @dbounds: It's great knowing that when G+ launches their platform thousands of apps around the web will begin consuming and emitting ActivityStrea.ms.
+=TITLE RT @dbounds: It's great knowing that when G+ launches their platform thousands of apps around the web will begin consuming and emitting ActivityStrea.ms.
 
 =begin DESCRIPTION
 

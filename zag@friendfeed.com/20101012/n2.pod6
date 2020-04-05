@@ -1,5 +1,5 @@
-=begin pod :pubdate('2010-10-12T08:39:49Z') :type<note> :tags<perl inkscape>
-=NAME Creating presentations similar to prezi.com with a #perl and #inkscape - http://github.com/masak/osdc-fr-2010-hardcore-bug-reporting
+=begin pod :pubdate('2010-10-12T08:39:49Z') :type<note> :tags<'perl', 'inkscape'>
+=TITLE Creating presentations similar to prezi.com with a #perl and #inkscape - http://github.com/masak/osdc-fr-2010-hardcore-bug-reporting
 
 =begin DESCRIPTION
 

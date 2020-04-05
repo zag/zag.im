@@ -1,5 +1,5 @@
 =begin pod :pubdate('2010-11-19T09:02:03Z') :type<note> 
-=NAME Exercise Hand / Упражнение для рук
+=TITLE Exercise Hand / Упражнение для рук
 
 =begin DESCRIPTION
 

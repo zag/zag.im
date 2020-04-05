@@ -1,5 +1,5 @@
-=begin pod :pubdate('2010-10-29T08:47:25Z') :type<note> :tags<Android>
-=NAME #Android Halloween Pumpkin - http://techcrunch.com/2010/10/28/requisite-halloween-post/ (via http://ff.im/sPulJ)
+=begin pod :pubdate('2010-10-29T08:47:25Z') :type<note> :tags<'Android'>
+=TITLE #Android Halloween Pumpkin - http://techcrunch.com/2010/10/28/requisite-halloween-post/ (via http://ff.im/sPulJ)
 
 =begin DESCRIPTION
 

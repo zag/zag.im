@@ -1,5 +1,5 @@
 =begin pod :pubdate('2011-04-08T05:41:35Z') :type<note> 
-=NAME OMG FREE HOSTING: How to use GAE to host static sites for free
+=TITLE OMG FREE HOSTING: How to use GAE to host static sites for free
 
 =begin DESCRIPTION
 

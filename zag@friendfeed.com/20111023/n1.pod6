@@ -1,5 +1,5 @@
 =begin pod :pubdate('2011-10-23T18:11:32Z') :type<note> 
-=NAME Physical Bitcoins by Casascius
+=TITLE Physical Bitcoins by Casascius
 
 =begin DESCRIPTION
 

@@ -1,5 +1,5 @@
 =begin pod :pubdate('2010-10-18T07:11:38Z') :type<note> 
-=NAME Google's First Personalized Doodle
+=TITLE Google's First Personalized Doodle
 
 =begin DESCRIPTION
 

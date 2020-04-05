@@ -1,5 +1,5 @@
 =begin pod :pubdate('2010-07-28T11:15:01Z') :type<note> 
-=NAME Best Book Recommendation Service: GoodReads
+=TITLE Best Book Recommendation Service: GoodReads
 
 =begin DESCRIPTION
 

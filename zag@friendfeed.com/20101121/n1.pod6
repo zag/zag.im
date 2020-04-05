@@ -1,5 +1,5 @@
 =begin pod :pubdate('2010-11-21T07:50:39Z') :type<note> 
-=NAME Kinect's Second Life: 5 Awesome Hacks, from Puppets to KinectBots
+=TITLE Kinect's Second Life: 5 Awesome Hacks, from Puppets to KinectBots
 
 =begin DESCRIPTION
 

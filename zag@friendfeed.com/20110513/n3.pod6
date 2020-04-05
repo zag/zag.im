@@ -1,5 +1,5 @@
-=begin pod :pubdate('2011-05-13T12:59:13Z') :type<note> :tags<hackathon perl6 yapc>
-=NAME Твигил это второй из двух сигилов #hackathon #perl6 #yapc
+=begin pod :pubdate('2011-05-13T12:59:13Z') :type<note> :tags<'hackathon', 'perl6', 'yapc'>
+=TITLE Твигил это второй из двух сигилов #hackathon #perl6 #yapc
 
 =begin DESCRIPTION
 

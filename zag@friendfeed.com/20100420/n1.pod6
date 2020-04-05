@@ -1,5 +1,5 @@
 =begin pod :pubdate('2010-04-20T07:55:00Z') :type<note> 
-=NAME OpenID, OAuth,  Facebook connect, OpenSocial , OpenGraph, "Войти ВКонтакте", XAuth
+=TITLE OpenID, OAuth,  Facebook connect, OpenSocial , OpenGraph, "Войти ВКонтакте", XAuth
 
 =begin DESCRIPTION
 

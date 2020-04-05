@@ -1,5 +1,5 @@
-=begin pod :pubdate('2011-04-26T11:46:40Z') :type<note> :tags<perl i_3595398>
-=NAME RT @chromatic_x: Fantastic discussion of the status of #perl 6: http://irclog.perlgeek.de/perl6/2011-04-25#i_3595398
+=begin pod :pubdate('2011-04-26T11:46:40Z') :type<note> :tags<'perl', 'i_3595398'>
+=TITLE RT @chromatic_x: Fantastic discussion of the status of #perl 6: http://irclog.perlgeek.de/perl6/2011-04-25#i_3595398
 
 =begin DESCRIPTION
 

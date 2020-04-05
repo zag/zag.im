@@ -1,5 +1,5 @@
-=begin pod :pubdate('2010-03-06T08:35:29Z') :type<note> :tags<rakudo freebsd perl>
-=NAME Now #rakudo succesfully build on 9-current, 8-stable  and 7-stable  #freebsd  #perl http://rakudoport.sourceforge.net/
+=begin pod :pubdate('2010-03-06T08:35:29Z') :type<note> :tags<'rakudo', 'freebsd', 'perl'>
+=TITLE Now #rakudo succesfully build on 9-current, 8-stable  and 7-stable  #freebsd  #perl http://rakudoport.sourceforge.net/
 
 =begin DESCRIPTION
 

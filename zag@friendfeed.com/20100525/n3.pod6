@@ -1,5 +1,5 @@
-=begin pod :pubdate('2010-05-25T06:47:17Z') :type<note> :tags<iptv>
-=NAME Телевизионные развлечения / BSDельники / Хабрахабр #iptv
+=begin pod :pubdate('2010-05-25T06:47:17Z') :type<note> :tags<'iptv'>
+=TITLE Телевизионные развлечения / BSDельники / Хабрахабр #iptv
 
 =begin DESCRIPTION
 

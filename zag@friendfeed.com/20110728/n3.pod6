@@ -1,5 +1,5 @@
-=begin pod :pubdate('2011-07-28T09:41:24Z') :type<note> :tags<oscon>
-=NAME RT @perlbuzz: "Perl 6 is solid enough now. Start thinking about porting modules. Start thinking about reinventing modules." -- Damian at #oscon
+=begin pod :pubdate('2011-07-28T09:41:24Z') :type<note> :tags<'oscon'>
+=TITLE RT @perlbuzz: "Perl 6 is solid enough now. Start thinking about porting modules. Start thinking about reinventing modules." -- Damian at #oscon
 
 =begin DESCRIPTION
 

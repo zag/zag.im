@@ -1,5 +1,5 @@
-=begin pod :pubdate('2010-05-07T13:16:50Z') :type<note> :tags<starcraft2>
-=NAME StarCraft 2: Wings Of Liberty Release Date Finally Announced – July 27th #starcraft2
+=begin pod :pubdate('2010-05-07T13:16:50Z') :type<note> :tags<'starcraft2'>
+=TITLE StarCraft 2: Wings Of Liberty Release Date Finally Announced – July 27th #starcraft2
 
 =begin DESCRIPTION
 

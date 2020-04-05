@@ -1,5 +1,5 @@
 =begin pod :pubdate('2009-11-10T05:10:50Z') :type<note> 
-=NAME Обзавелся собственным tinyurl: http://o.zag.ru/
+=TITLE Обзавелся собственным tinyurl: http://o.zag.ru/
 
 =begin DESCRIPTION
 

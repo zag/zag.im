@@ -1,5 +1,5 @@
-=begin pod :pubdate('2010-10-01T10:42:24Z') :type<note> :tags<yac2010>
-=NAME таки да, для реалтайм поисковой системы map reduce не годится #yac2010
+=begin pod :pubdate('2010-10-01T10:42:24Z') :type<note> :tags<'yac2010'>
+=TITLE таки да, для реалтайм поисковой системы map reduce не годится #yac2010
 
 =begin DESCRIPTION
 

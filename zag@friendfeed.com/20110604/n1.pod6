@@ -1,5 +1,5 @@
-=begin pod :pubdate('2011-06-04T16:33:34Z') :type<note> :tags<perl>
-=NAME POD - Plain Old Documentation format. Perl 6 Pod - просто Pod. #perl
+=begin pod :pubdate('2011-06-04T16:33:34Z') :type<note> :tags<'perl'>
+=TITLE POD - Plain Old Documentation format. Perl 6 Pod - просто Pod. #perl
 
 =begin DESCRIPTION
 

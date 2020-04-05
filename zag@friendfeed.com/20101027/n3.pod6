@@ -1,5 +1,5 @@
-=begin pod :pubdate('2010-10-27T09:28:36Z') :type<note> :tags<ps3>
-=NAME Оказывается в xbox нет браузера. В #ps3 есть web браузер и flash.
+=begin pod :pubdate('2010-10-27T09:28:36Z') :type<note> :tags<'ps3'>
+=TITLE Оказывается в xbox нет браузера. В #ps3 есть web браузер и flash.
 
 =begin DESCRIPTION
 

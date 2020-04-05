@@ -1,5 +1,5 @@
 =begin pod :pubdate('2011-05-03T10:02:25Z') :type<note> 
-=NAME XYDO - Personal News Network."XYDO appears to be leaning heavily on social collaborative filtering to divine the top news for you"
+=TITLE XYDO - Personal News Network."XYDO appears to be leaning heavily on social collaborative filtering to divine the top news for you"
 
 =begin DESCRIPTION
 

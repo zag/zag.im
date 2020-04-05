@@ -1,5 +1,5 @@
 =begin pod :pubdate('2013-02-02T12:28:03Z') :type<note> 
-=NAME Kdenlive | Free and open source video editor for GNU/Linux, Mac OS X and FreeBSD
+=TITLE Kdenlive | Free and open source video editor for GNU/Linux, Mac OS X and FreeBSD
 
 =begin DESCRIPTION
 

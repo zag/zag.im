@@ -1,5 +1,5 @@
-=begin pod :pubdate('2010-08-25T12:40:42Z') :type<note> :tags<perl6 n900>
-=NAME Perl6 уже в мобильных телефонах :-) #perl6 #n900 http://twitter.com/snarkyboojum/status/21738635293
+=begin pod :pubdate('2010-08-25T12:40:42Z') :type<note> :tags<'perl6', 'n900'>
+=TITLE Perl6 уже в мобильных телефонах :-) #perl6 #n900 http://twitter.com/snarkyboojum/status/21738635293
 
 =begin DESCRIPTION
 

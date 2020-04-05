@@ -1,5 +1,5 @@
-=begin pod :pubdate('2011-07-01T18:26:24Z') :type<note> :tags<lvee>
-=NAME Модифициронный Scrum от алакреон #lvee От 2 месячного цикла к 2 недельным релизам
+=begin pod :pubdate('2011-07-01T18:26:24Z') :type<note> :tags<'lvee'>
+=TITLE Модифициронный Scrum от алакреон #lvee От 2 месячного цикла к 2 недельным релизам
 
 =begin DESCRIPTION
 

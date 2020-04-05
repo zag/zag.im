@@ -1,5 +1,5 @@
 =begin pod :pubdate('2011-09-02T06:54:33Z') :type<note> 
-=NAME BitTorrent TV teased at Euro tech show / p2p телевидение
+=TITLE BitTorrent TV teased at Euro tech show / p2p телевидение
 
 =begin DESCRIPTION
 

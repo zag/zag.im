@@ -1,5 +1,5 @@
-=begin pod :pubdate('2011-07-01T10:40:45Z') :type<note> :tags<lvee>
-=NAME В постиндустриальном обществе зарплату будут платить монетами bitcoin :-) #lvee
+=begin pod :pubdate('2011-07-01T10:40:45Z') :type<note> :tags<'lvee'>
+=TITLE В постиндустриальном обществе зарплату будут платить монетами bitcoin :-) #lvee
 
 =begin DESCRIPTION
 

@@ -1,5 +1,5 @@
 =begin pod :pubdate('2011-04-28T11:35:42Z') :type<note> 
-=NAME Оказывается в google docs можно просматривать psd файлы !
+=TITLE Оказывается в google docs можно просматривать psd файлы !
 
 =begin DESCRIPTION
 

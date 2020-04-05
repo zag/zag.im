@@ -1,5 +1,5 @@
 =begin pod :pubdate('2010-12-11T20:04:02Z') :type<note> 
-=NAME Hot damn - Cyriak is just a genius: http://youtu.be/5WaoImXPMtE
+=TITLE Hot damn - Cyriak is just a genius: http://youtu.be/5WaoImXPMtE
 
 =begin DESCRIPTION
 

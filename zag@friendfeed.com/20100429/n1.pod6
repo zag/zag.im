@@ -1,5 +1,5 @@
 =begin pod :pubdate('2010-04-29T11:51:39Z') :type<note> 
-=NAME Duke Nukem 3D Atomic Edition HD :: RuTracker.org (ex torrents.ru)
+=TITLE Duke Nukem 3D Atomic Edition HD :: RuTracker.org (ex torrents.ru)
 
 =begin DESCRIPTION
 

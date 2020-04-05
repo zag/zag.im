@@ -1,5 +1,5 @@
 =begin pod :pubdate('2011-03-21T05:29:25Z') :type<note> 
-=NAME RT @davewiner: "REST is a nice dream. But I'm not personally a fan." http://r2.ly/8gza
+=TITLE RT @davewiner: "REST is a nice dream. But I'm not personally a fan." http://r2.ly/8gza
 
 =begin DESCRIPTION
 

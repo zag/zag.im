@@ -1,5 +1,5 @@
 =begin pod :pubdate('2011-02-02T05:26:00Z') :type<note> 
-=NAME Dead Space 2 Hardcore Unlockable Revealed | Just Push Start
+=TITLE Dead Space 2 Hardcore Unlockable Revealed | Just Push Start
 
 =begin DESCRIPTION
 

@@ -1,5 +1,5 @@
 =begin pod :pubdate('2011-05-04T17:46:08Z') :type<note> 
-=NAME RT @newsyc20: cpanm and PSGI author joins DotCloud http://bulknews.typepad.com/blog/2011/04/joining-dotcloud.html (http://bit.ly/kEgUr1)
+=TITLE RT @newsyc20: cpanm and PSGI author joins DotCloud http://bulknews.typepad.com/blog/2011/04/joining-dotcloud.html (http://bit.ly/kEgUr1)
 
 =begin DESCRIPTION
 

@@ -1,5 +1,5 @@
-=begin pod :pubdate('2012-01-28T19:40:21Z') :type<note> :tags<Privacy DataPrivacyDay>
-=NAME Оказывается есть такой Data Privacy Day. И он был сегодня. #Privacy #DataPrivacyDay
+=begin pod :pubdate('2012-01-28T19:40:21Z') :type<note> :tags<'Privacy', 'DataPrivacyDay'>
+=TITLE Оказывается есть такой Data Privacy Day. И он был сегодня. #Privacy #DataPrivacyDay
 
 =begin DESCRIPTION
 

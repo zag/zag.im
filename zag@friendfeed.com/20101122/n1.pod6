@@ -1,5 +1,5 @@
 =begin pod :pubdate('2010-11-22T08:16:01Z') :type<note> 
-=NAME 5 Best Smartphones With Physical Keyboards
+=TITLE 5 Best Smartphones With Physical Keyboards
 
 =begin DESCRIPTION
 

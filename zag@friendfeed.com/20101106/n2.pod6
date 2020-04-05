@@ -1,5 +1,5 @@
 =begin pod :pubdate('2010-11-06T18:01:46Z') :type<note> 
-=NAME Successfully updated  to  FreeBSD 8.1-STABLE
+=TITLE Successfully updated  to  FreeBSD 8.1-STABLE
 
 =begin DESCRIPTION
 

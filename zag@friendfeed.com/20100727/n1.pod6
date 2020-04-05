@@ -1,5 +1,5 @@
-=begin pod :pubdate('2010-07-27T15:58:30Z') :type<note> :tags<ps3>
-=NAME Completed: Resistance 2  #ps3
+=begin pod :pubdate('2010-07-27T15:58:30Z') :type<note> :tags<'ps3'>
+=TITLE Completed: Resistance 2  #ps3
 
 =begin DESCRIPTION
 

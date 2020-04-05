@@ -1,5 +1,5 @@
 =begin pod :pubdate('2010-12-03T18:59:05Z') :type<note> 
-=NAME Blogerator эксклюзив - Интервью с автором Total Commander (Тотал Командер)
+=TITLE Blogerator эксклюзив - Интервью с автором Total Commander (Тотал Командер)
 
 =begin DESCRIPTION
 

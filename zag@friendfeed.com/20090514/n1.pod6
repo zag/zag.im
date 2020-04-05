@@ -1,5 +1,5 @@
 =begin pod :pubdate('2009-05-14T13:29:55Z') :type<note> 
-=NAME 2 day left for YAPC::Russia 2009 http://2009.yapcrussia.org/mayperl2/index.html
+=TITLE 2 day left for YAPC::Russia 2009 http://2009.yapcrussia.org/mayperl2/index.html
 
 =begin DESCRIPTION
 

@@ -1,5 +1,5 @@
 =begin pod :pubdate('2011-01-31T13:09:58Z') :type<note> 
-=NAME Facebook login required
+=TITLE Facebook login required
 
 =begin DESCRIPTION
 

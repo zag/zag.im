@@ -1,5 +1,5 @@
-=begin pod :pubdate('2010-10-14T08:10:14Z') :type<note> :tags<html5>
-=NAME Scroll Clock / cool #html5  clock
+=begin pod :pubdate('2010-10-14T08:10:14Z') :type<note> :tags<'html5'>
+=TITLE Scroll Clock / cool #html5  clock
 
 =begin DESCRIPTION
 

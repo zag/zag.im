@@ -1,5 +1,5 @@
-=begin pod :pubdate('2010-08-20T10:45:39Z') :type<note> :tags<perl6>
-=NAME В декабре выйдет Rakudo Perl 6. Под Рождество. #perl6 http://twitter.com/carlmasak/status/21653856035
+=begin pod :pubdate('2010-08-20T10:45:39Z') :type<note> :tags<'perl6'>
+=TITLE В декабре выйдет Rakudo Perl 6. Под Рождество. #perl6 http://twitter.com/carlmasak/status/21653856035
 
 =begin DESCRIPTION
 

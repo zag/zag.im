@@ -1,5 +1,5 @@
 =begin pod :pubdate('2009-06-03T09:50:57Z') :type<note> 
-=NAME @dkovalkov мобильная камера в чб реально лучше смотрится http://tinyurl.com/o6r8te vs http://tinyurl.com/pudm6c
+=TITLE @dkovalkov мобильная камера в чб реально лучше смотрится http://tinyurl.com/o6r8te vs http://tinyurl.com/pudm6c
 
 =begin DESCRIPTION
 

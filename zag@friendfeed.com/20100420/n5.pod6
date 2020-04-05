@@ -1,5 +1,5 @@
 =begin pod :pubdate('2010-04-20T07:04:25Z') :type<note> 
-=NAME Facebook May Launch Recommendation Service For Other Websites
+=TITLE Facebook May Launch Recommendation Service For Other Websites
 
 =begin DESCRIPTION
 

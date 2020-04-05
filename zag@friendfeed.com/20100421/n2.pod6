@@ -1,5 +1,5 @@
 =begin pod :pubdate('2010-04-21T08:25:19Z') :type<note> 
-=NAME Кажется рождается новый мем. nexia-club.ru: "Состояние хорошее, одел и поехал" http://bit.ly/bMOfWV
+=TITLE Кажется рождается новый мем. nexia-club.ru: "Состояние хорошее, одел и поехал" http://bit.ly/bMOfWV
 
 =begin DESCRIPTION
 

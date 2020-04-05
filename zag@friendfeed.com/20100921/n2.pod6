@@ -1,5 +1,5 @@
 =begin pod :pubdate('2010-09-21T04:25:41Z') :type<note> 
-=NAME Your computer as an earthquake sensor
+=TITLE Your computer as an earthquake sensor
 
 =begin DESCRIPTION
 

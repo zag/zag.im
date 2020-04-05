@@ -1,5 +1,5 @@
-=begin pod :pubdate('2009-10-14T07:35:27Z') :type<note> :tags<perl6 perldoc>
-=NAME Get feedback from Damian Conway about my proposals to synopsys 26.News:S26 - The Next Generation: http://tinyurl.com/yz48n6c #perl6 #perldoc
+=begin pod :pubdate('2009-10-14T07:35:27Z') :type<note> :tags<'perl6', 'perldoc'>
+=TITLE Get feedback from Damian Conway about my proposals to synopsys 26.News:S26 - The Next Generation: http://tinyurl.com/yz48n6c #perl6 #perldoc
 
 =begin DESCRIPTION
 

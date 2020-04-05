@@ -1,5 +1,5 @@
-=begin pod :pubdate('2012-04-01T05:59:50Z') :type<note> :tags<8bit>
-=NAME Google maps #8bit !
+=begin pod :pubdate('2012-04-01T05:59:50Z') :type<note> :tags<'8bit'>
+=TITLE Google maps #8bit !
 
 =begin DESCRIPTION
 

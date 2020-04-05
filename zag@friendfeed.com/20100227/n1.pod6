@@ -1,5 +1,5 @@
-=begin pod :pubdate('2010-02-27T07:51:25Z') :type<note> :tags<ir search>
-=NAME Yahoo!'s Learning to Rank Challenge - benchmark your ranking algorithm against the best in industry - http://goo.gl/EWib #ir #search
+=begin pod :pubdate('2010-02-27T07:51:25Z') :type<note> :tags<'ir', 'search'>
+=TITLE Yahoo!'s Learning to Rank Challenge - benchmark your ranking algorithm against the best in industry - http://goo.gl/EWib #ir #search
 
 =begin DESCRIPTION
 

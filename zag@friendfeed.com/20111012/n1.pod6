@@ -1,5 +1,5 @@
-=begin pod :pubdate('2011-10-12T09:10:03Z') :type<note> :tags<perl6>
-=NAME Книга Perl 6 / High Quality Content by WIKIPEDIA articles! #perl6
+=begin pod :pubdate('2011-10-12T09:10:03Z') :type<note> :tags<'perl6'>
+=TITLE Книга Perl 6 / High Quality Content by WIKIPEDIA articles! #perl6
 
 =begin DESCRIPTION
 

@@ -1,5 +1,5 @@
 =begin pod :pubdate('2010-03-05T06:59:20Z') :type<note> 
-=NAME Google killed Bambi
+=TITLE Google killed Bambi
 
 =begin DESCRIPTION
 

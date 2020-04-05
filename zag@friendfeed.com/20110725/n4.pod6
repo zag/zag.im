@@ -1,5 +1,5 @@
 =begin pod :pubdate('2011-07-25T09:51:33Z') :type<note> 
-=NAME Fwd: Every Book Is a Startup (A book about the business of publishing) - http://oreilly.com/catalog/9781449309015/ (via http://ff.im/ImVAx)
+=TITLE Fwd: Every Book Is a Startup (A book about the business of publishing) - http://oreilly.com/catalog/9781449309015/ (via http://ff.im/ImVAx)
 
 =begin DESCRIPTION
 

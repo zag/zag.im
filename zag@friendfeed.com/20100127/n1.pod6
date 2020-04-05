@@ -1,5 +1,5 @@
 =begin pod :pubdate('2010-01-27T20:02:37Z') :type<note> 
-=NAME apple book use chipset a4
+=TITLE apple book use chipset a4
 
 =begin DESCRIPTION
 

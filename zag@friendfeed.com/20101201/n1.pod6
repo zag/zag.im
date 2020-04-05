@@ -1,5 +1,5 @@
 =begin pod :pubdate('2010-12-01T10:21:12Z') :type<note> 
-=NAME Deprecating XML
+=TITLE Deprecating XML
 
 =begin DESCRIPTION
 

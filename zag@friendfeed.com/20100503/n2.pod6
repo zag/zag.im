@@ -1,5 +1,5 @@
-=begin pod :pubdate('2010-05-03T15:43:08Z') :type<note> :tags<friendfeed>
-=NAME Не быть русскому клону #friendfeed: http://friendflow.ru с хостингом на пользовательском домене, сервису рейтинга блогов blogflow.ru, сервису мониторинга трендов в блогосфере coofeed.ru. Все красиво в мечтах... Постепенно отказываюсь от продления доменов.
+=begin pod :pubdate('2010-05-03T15:43:08Z') :type<note> :tags<'friendfeed'>
+=TITLE Не быть русскому клону #friendfeed: http://friendflow.ru с хостингом на пользовательском домене, сервису рейтинга блогов blogflow.ru, сервису мониторинга трендов в блогосфере coofeed.ru. Все красиво в мечтах... Постепенно отказываюсь от продления доменов.
 
 =begin DESCRIPTION
 

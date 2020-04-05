@@ -1,5 +1,5 @@
-=begin pod :pubdate('2009-12-21T09:30:34Z') :type<note> :tags<parrot rakudo perl6 freebsd>
-=NAME New FreeBSD ports of perl6 ( #parrot 1.9.0 and #rakudo "Seoul" ) available at http://rakudoport.sourceforge.net/ #perl6 #freebsd
+=begin pod :pubdate('2009-12-21T09:30:34Z') :type<note> :tags<'parrot', 'rakudo', 'perl6', 'freebsd'>
+=TITLE New FreeBSD ports of perl6 ( #parrot 1.9.0 and #rakudo "Seoul" ) available at http://rakudoport.sourceforge.net/ #perl6 #freebsd
 
 =begin DESCRIPTION
 

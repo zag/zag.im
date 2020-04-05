@@ -1,5 +1,5 @@
 =begin pod :pubdate('2010-09-21T07:37:35Z') :type<note> 
-=NAME Mingle2 - The Mind of a Web Developer: An Illustrated Diagram
+=TITLE Mingle2 - The Mind of a Web Developer: An Illustrated Diagram
 
 =begin DESCRIPTION
 

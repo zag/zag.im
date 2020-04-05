@@ -1,5 +1,5 @@
 =begin pod :pubdate('2009-05-18T08:10:35Z') :type<note> 
-=NAME @AnatolyUnix да причем таких, которые могут быть некем не прочитаны :-)
+=TITLE @AnatolyUnix да причем таких, которые могут быть некем не прочитаны :-)
 
 =begin DESCRIPTION
 

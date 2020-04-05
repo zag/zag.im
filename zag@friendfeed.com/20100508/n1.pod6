@@ -1,5 +1,5 @@
 =begin pod :pubdate('2010-05-08T18:07:38Z') :type<note> 
-=NAME Это необъяснимо, но =?UTF-8?B?INGE0LDQutGCLiAi0JPQvtC70LDRjyDQv9GA0LDQstC00LA=?="
+=TITLE Это необъяснимо, но =?UTF-8?B?INGE0LDQutGCLiAi0JPQvtC70LDRjyDQv9GA0LDQstC00LA=?="
 
 =begin DESCRIPTION
 

@@ -1,5 +1,5 @@
 =begin pod :pubdate('2010-11-09T10:12:46Z') :type<note> 
-=NAME Swing to the Dark Side (via http://ff.im/tq0hV)
+=TITLE Swing to the Dark Side (via http://ff.im/tq0hV)
 
 =begin DESCRIPTION
 

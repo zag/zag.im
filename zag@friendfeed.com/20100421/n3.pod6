@@ -1,5 +1,5 @@
-=begin pod :pubdate('2010-04-21T08:16:12Z') :type<note> :tags<html5>
-=NAME Akihabara - a set of libraries, tools and presets to create pixelated indie-style 8/16-bit era games in Javascript #html5
+=begin pod :pubdate('2010-04-21T08:16:12Z') :type<note> :tags<'html5'>
+=TITLE Akihabara - a set of libraries, tools and presets to create pixelated indie-style 8/16-bit era games in Javascript #html5
 
 =begin DESCRIPTION
 

@@ -1,5 +1,5 @@
-=begin pod :pubdate('2010-10-13T09:12:22Z') :type<note> :tags<newtwitter twitterway>
-=NAME #newtwitter ? скорее #twitterway
+=begin pod :pubdate('2010-10-13T09:12:22Z') :type<note> :tags<'newtwitter', 'twitterway'>
+=TITLE #newtwitter ? скорее #twitterway
 
 =begin DESCRIPTION
 

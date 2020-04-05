@@ -1,5 +1,5 @@
 =begin pod :pubdate('2009-10-15T06:56:04Z') :type<note> 
-=NAME Пришло два письма от гугла: приглашение в wave и особое (!) приглашение на google developer day. Может праздник сегодня какой ?
+=TITLE Пришло два письма от гугла: приглашение в wave и особое (!) приглашение на google developer day. Может праздник сегодня какой ?
 
 =begin DESCRIPTION
 

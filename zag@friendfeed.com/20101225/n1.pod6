@@ -1,5 +1,5 @@
-=begin pod :pubdate('2010-12-25T12:32:19Z') :type<note> :tags<perl6>
-=NAME Обновлением parrot поломали rakudo в портах http://goo.gl/6z9h9.  Сделал, чтобы Rakudo Star собирался с идущим в комплекте parrot : http://goo.gl/I3uXV. #perl6
+=begin pod :pubdate('2010-12-25T12:32:19Z') :type<note> :tags<'perl6'>
+=TITLE Обновлением parrot поломали rakudo в портах http://goo.gl/6z9h9.  Сделал, чтобы Rakudo Star собирался с идущим в комплекте parrot : http://goo.gl/I3uXV. #perl6
 
 =begin DESCRIPTION
 

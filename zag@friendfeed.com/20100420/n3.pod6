@@ -1,5 +1,5 @@
 =begin pod :pubdate('2010-04-20T07:40:48Z') :type<note> 
-=NAME Using XAuth to simplify the social web.
+=TITLE Using XAuth to simplify the social web.
 
 =begin DESCRIPTION
 

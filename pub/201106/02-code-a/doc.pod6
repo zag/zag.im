@@ -26,11 +26,13 @@
 
 Аналогично, значение любой программной константы определенной с сигилом может быть легко вставлено в документацию:
 
+=begin code
     # Actual code...
     constant $GROWTH_RATE of Num where 0..* = 1.6;
     =pod
     =head4 Standard Growth Rate
     The standard growth rate is assumed to be A<$GROWTH_RATE>.
+=end code
 
 Для подобных объектов возможны вызовы константных (non-mutating) методов.
 Так например, в документации можно вставить сигнатуру подпрограммы (C<A<$?ROUTINE.signature>>) или тип константы (C<A<$GROWTH_RATE.WHAT>>). 

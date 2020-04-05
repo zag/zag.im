@@ -1,5 +1,5 @@
 =begin pod :pubdate('2010-04-24T18:38:53Z') :type<note> 
-=NAME Mike Hanson, Douglas Crockford, and Facebook; A tale of security, privacy, and performance on Dion Almaer's Blog
+=TITLE Mike Hanson, Douglas Crockford, and Facebook; A tale of security, privacy, and performance on Dion Almaer's Blog
 
 =begin DESCRIPTION
 

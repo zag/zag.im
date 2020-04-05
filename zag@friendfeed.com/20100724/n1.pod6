@@ -1,5 +1,5 @@
-=begin pod :pubdate('2010-07-24T07:54:28Z') :type<note> :tags<31 perl6>
-=NAME Update FreeBSD ports to Parrot 2.6.0 and Rakudo #31 "Atlanta" #perl6 http://www.freebsd.org/cgi/ports.cgi?query=parrot&stype=all
+=begin pod :pubdate('2010-07-24T07:54:28Z') :type<note> :tags<'31', 'perl6'>
+=TITLE Update FreeBSD ports to Parrot 2.6.0 and Rakudo #31 "Atlanta" #perl6 http://www.freebsd.org/cgi/ports.cgi?query=parrot&stype=all
 
 =begin DESCRIPTION
 

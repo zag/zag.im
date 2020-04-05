@@ -1,5 +1,5 @@
-=begin pod :pubdate('2010-05-08T11:25:34Z') :type<note> :tags<linux gnome>
-=NAME Терминал "Утконоса" работающий под управлением #linux #gnome.
+=begin pod :pubdate('2010-05-08T11:25:34Z') :type<note> :tags<'linux', 'gnome'>
+=TITLE Терминал "Утконоса" работающий под управлением #linux #gnome.
 
 =begin DESCRIPTION
 

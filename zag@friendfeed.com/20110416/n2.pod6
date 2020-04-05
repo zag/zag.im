@@ -1,5 +1,5 @@
-=begin pod :pubdate('2011-04-16T05:30:03Z') :type<note> :tags<perl>
-=NAME Modern JavaScript (Is JavaScript the New Perl?)- rmurphey #perl
+=begin pod :pubdate('2011-04-16T05:30:03Z') :type<note> :tags<'perl'>
+=TITLE Modern JavaScript (Is JavaScript the New Perl?)- rmurphey #perl
 
 =begin DESCRIPTION
 

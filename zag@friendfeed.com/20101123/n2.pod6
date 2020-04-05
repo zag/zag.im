@@ -1,5 +1,5 @@
-=begin pod :pubdate('2010-11-23T14:01:45Z') :type<note> :tags<imhonet>
-=NAME Сэ Слава / Читательская премия Имхонета  - Не имей сто рублей, а имей тысячу followers! #imhonet  На данный момент : 105 941 руб.
+=begin pod :pubdate('2010-11-23T14:01:45Z') :type<note> :tags<'imhonet'>
+=TITLE Сэ Слава / Читательская премия Имхонета  - Не имей сто рублей, а имей тысячу followers! #imhonet  На данный момент : 105 941 руб.
 
 =begin DESCRIPTION
 

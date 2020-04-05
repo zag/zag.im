@@ -1,5 +1,5 @@
-=begin pod :pubdate('2011-07-28T09:41:52Z') :type<note> :tags<oscon>
-=NAME RT @petdance: "Perl isn't a programming language. It's a life-support system for CPAN." Damian at #oscon.
+=begin pod :pubdate('2011-07-28T09:41:52Z') :type<note> :tags<'oscon'>
+=TITLE RT @petdance: "Perl isn't a programming language. It's a life-support system for CPAN." Damian at #oscon.
 
 =begin DESCRIPTION
 

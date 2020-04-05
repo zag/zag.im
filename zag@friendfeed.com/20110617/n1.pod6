@@ -1,5 +1,5 @@
 =begin pod :pubdate('2011-06-17T16:06:54Z') :type<note> 
-=NAME Something for the geekiest lady love of your life
+=TITLE Something for the geekiest lady love of your life
 
 =begin DESCRIPTION
 

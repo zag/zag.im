@@ -1,5 +1,5 @@
-=begin pod :pubdate('2010-08-23T08:15:40Z') :type<note> :tags<html5>
-=NAME Periodic table of the  #html5 Elements.
+=begin pod :pubdate('2010-08-23T08:15:40Z') :type<note> :tags<'html5'>
+=TITLE Periodic table of the  #html5 Elements.
 
 =begin DESCRIPTION
 

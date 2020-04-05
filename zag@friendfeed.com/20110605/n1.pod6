@@ -1,5 +1,5 @@
-=begin pod :pubdate('2011-06-05T18:47:12Z') :type<note> :tags<jazz>
-=NAME Есть такое настроение - #jazz
+=begin pod :pubdate('2011-06-05T18:47:12Z') :type<note> :tags<'jazz'>
+=TITLE Есть такое настроение - #jazz
 
 =begin DESCRIPTION
 

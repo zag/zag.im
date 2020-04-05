@@ -1,5 +1,5 @@
 =begin pod :pubdate('2012-10-04T07:39:29Z') :type<note> 
-=NAME Bookcrossing - Книговорот. Освободите книги.
+=TITLE Bookcrossing - Книговорот. Освободите книги.
 
 =begin DESCRIPTION
 

@@ -1,5 +1,5 @@
 =begin pod :pubdate('2011-06-20T04:23:53Z') :type<note> 
-=NAME День начался с непробивного условия Gmail сменить свой пароль. Оказалось : [Mt.Gox] Account database compromised.
+=TITLE День начался с непробивного условия Gmail сменить свой пароль. Оказалось : [Mt.Gox] Account database compromised.
 
 =begin DESCRIPTION
 

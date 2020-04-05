@@ -1,5 +1,5 @@
 =begin pod :pubdate('2010-12-17T10:13:28Z') :type<note> 
-=NAME A web bookmark manager built on git and designed for github. It's searchable and social!
+=TITLE A web bookmark manager built on git and designed for github. It's searchable and social!
 https://github.com/hmason/gitmarks
 
 =begin DESCRIPTION

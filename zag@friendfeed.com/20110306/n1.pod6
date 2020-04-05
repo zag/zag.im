@@ -1,5 +1,5 @@
 =begin pod :pubdate('2011-03-06T07:33:27Z') :type<note> 
-=NAME 8 bit
+=TITLE 8 bit
 
 =begin DESCRIPTION
 

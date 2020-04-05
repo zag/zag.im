@@ -1,5 +1,5 @@
 =begin pod :pubdate('2013-03-07T20:57:33Z') :type<note> 
-=NAME Laser Eyes! Shoot lasers from your eyes.
+=TITLE Laser Eyes! Shoot lasers from your eyes.
 
 =begin DESCRIPTION
 

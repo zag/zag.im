@@ -1,5 +1,5 @@
 =begin pod :pubdate('2009-10-08T07:05:51Z') :type<note> 
-=NAME The Berlin Reunion - The Big Picture - Boston.com
+=TITLE The Berlin Reunion - The Big Picture - Boston.com
 
 =begin DESCRIPTION
 

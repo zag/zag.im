@@ -1,5 +1,5 @@
 =begin pod :pubdate('2011-08-04T06:47:40Z') :type<note> 
-=NAME Fujitsu Announces Smartphone Dual-booting: Symbian, Windows 7
+=TITLE Fujitsu Announces Smartphone Dual-booting: Symbian, Windows 7
 
 =begin DESCRIPTION
 

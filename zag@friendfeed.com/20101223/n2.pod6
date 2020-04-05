@@ -1,5 +1,5 @@
-=begin pod :pubdate('2010-12-23T10:20:52Z') :type<note> :tags<qwerty>
-=NAME Nokia N900. Вместо #qwerty проще вводить текст в этот телефон  через ssh .
+=begin pod :pubdate('2010-12-23T10:20:52Z') :type<note> :tags<'qwerty'>
+=TITLE Nokia N900. Вместо #qwerty проще вводить текст в этот телефон  через ssh .
 
 =begin DESCRIPTION
 

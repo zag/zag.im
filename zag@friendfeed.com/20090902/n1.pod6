@@ -1,5 +1,5 @@
 =begin pod :pubdate('2009-09-02T09:02:04Z') :type<note> 
-=NAME github выложил в рамках конкурса на рекомендательный движок свою базу по проектам. Много интересных фактов:(4mb)http://tinyurl.com/kvntkx
+=TITLE github выложил в рамках конкурса на рекомендательный движок свою базу по проектам. Много интересных фактов:(4mb)http://tinyurl.com/kvntkx
 
 =begin DESCRIPTION
 

@@ -1,5 +1,5 @@
 =begin pod :pubdate('2011-07-20T11:10:33Z') :type<note> 
-=NAME twitter matrix : http://kenneth.kufluk.com/matrix/ sources: http://bit.ly/pmlbJr
+=TITLE twitter matrix : http://kenneth.kufluk.com/matrix/ sources: http://bit.ly/pmlbJr
 
 =begin DESCRIPTION
 

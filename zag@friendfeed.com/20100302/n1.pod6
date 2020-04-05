@@ -1,5 +1,5 @@
-=begin pod :pubdate('2010-03-02T18:12:07Z') :type<note> :tags<starcraft2>
-=NAME Опробовал StarСraft 2.  Графика хороша. Обновлять железо не придется.  #starcraft2
+=begin pod :pubdate('2010-03-02T18:12:07Z') :type<note> :tags<'starcraft2'>
+=TITLE Опробовал StarСraft 2.  Графика хороша. Обновлять железо не придется.  #starcraft2
 
 =begin DESCRIPTION
 

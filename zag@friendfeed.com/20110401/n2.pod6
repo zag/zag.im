@@ -1,5 +1,5 @@
 =begin pod :pubdate('2011-04-01T06:41:34Z') :type<note> 
-=NAME Facebook releases +2 button .. in response to Google’s +1 button.
+=TITLE Facebook releases +2 button .. in response to Google’s +1 button.
 
 =begin DESCRIPTION
 

@@ -1,5 +1,5 @@
 =begin pod :pubdate('2010-11-05T05:49:43Z') :type<note> 
-=NAME modpagespeed - Page Speed (http://code.google.com/speed/page-speed/) is a tool and library that identifies improvements that can be made to web-sites to improve their latency.
+=TITLE modpagespeed - Page Speed (http://code.google.com/speed/page-speed/) is a tool and library that identifies improvements that can be made to web-sites to improve their latency.
 
 =begin DESCRIPTION
 

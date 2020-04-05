@@ -1,5 +1,5 @@
-=begin pod :pubdate('2010-07-08T08:01:05Z') :type<note> :tags<LVEE>
-=NAME Психологическое влияние цвета на человека и организацию рабочей области - #LVEE
+=begin pod :pubdate('2010-07-08T08:01:05Z') :type<note> :tags<'LVEE'>
+=TITLE Психологическое влияние цвета на человека и организацию рабочей области - #LVEE
 
 =begin DESCRIPTION
 

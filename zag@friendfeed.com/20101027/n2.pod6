@@ -1,5 +1,5 @@
 =begin pod :pubdate('2010-10-27T10:01:52Z') :type<note> 
-=NAME Work from anywhere
+=TITLE Work from anywhere
 
 =begin DESCRIPTION
 

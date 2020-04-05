@@ -1,5 +1,5 @@
-=begin pod :pubdate('2010-10-28T09:43:48Z') :type<note> :tags<FreeBSD ps3>
-=NAME #FreeBSD on #ps3
+=begin pod :pubdate('2010-10-28T09:43:48Z') :type<note> :tags<'FreeBSD', 'ps3'>
+=TITLE #FreeBSD on #ps3
 
 =begin DESCRIPTION
 

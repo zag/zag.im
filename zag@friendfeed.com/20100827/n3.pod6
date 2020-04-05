@@ -1,5 +1,5 @@
 =begin pod :pubdate('2010-08-27T06:58:37Z') :type<note> 
-=NAME Великолепная идея лайкать  предметы в реале мобильник+GPS+Camera+распознавалка бар кодов http://bit.ly/cpB2rF
+=TITLE Великолепная идея лайкать  предметы в реале мобильник+GPS+Camera+распознавалка бар кодов http://bit.ly/cpB2rF
 
 =begin DESCRIPTION
 

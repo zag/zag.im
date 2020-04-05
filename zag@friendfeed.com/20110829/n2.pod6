@@ -1,5 +1,5 @@
 =begin pod :pubdate('2011-08-29T17:41:39Z') :type<note> 
-=NAME this isn't happiness™ (Suspicious dolphin)
+=TITLE this isn't happiness™ (Suspicious dolphin)
 
 =begin DESCRIPTION
 

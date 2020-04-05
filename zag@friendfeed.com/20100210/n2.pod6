@@ -1,5 +1,5 @@
 =begin pod :pubdate('2010-02-10T14:03:01Z') :type<note> 
-=NAME gmail предолжил мне попробовать Google buzz
+=TITLE gmail предолжил мне попробовать Google buzz
 
 =begin DESCRIPTION
 

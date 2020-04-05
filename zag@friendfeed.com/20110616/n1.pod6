@@ -1,5 +1,5 @@
 =begin pod :pubdate('2011-06-16T04:29:02Z') :type<note> 
-=NAME What are some interesting examples of photographs which show historical figures in unexpected places or company? - Quora
+=TITLE What are some interesting examples of photographs which show historical figures in unexpected places or company? - Quora
 
 =begin DESCRIPTION
 

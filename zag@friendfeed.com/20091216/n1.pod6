@@ -1,5 +1,5 @@
 =begin pod :pubdate('2009-12-16T18:54:32Z') :type<note> 
-=NAME Каждый может завести свой сервис сокращения ссылок. Google Apps Shortcuts ( я себе еще в ноябре сделал) http://tinyurl.com/yjlw2dg
+=TITLE Каждый может завести свой сервис сокращения ссылок. Google Apps Shortcuts ( я себе еще в ноябре сделал) http://tinyurl.com/yjlw2dg
 
 =begin DESCRIPTION
 

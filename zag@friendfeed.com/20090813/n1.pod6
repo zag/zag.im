@@ -1,5 +1,5 @@
-=begin pod :pubdate('2009-08-13T07:10:30Z') :type<note> :tags<perl6 rakudo freebsd>
-=NAME Easy install and use perl6 under FreeBSD. http://rakudoport.sourceforge.net/ #perl6 #rakudo #freebsd
+=begin pod :pubdate('2009-08-13T07:10:30Z') :type<note> :tags<'perl6', 'rakudo', 'freebsd'>
+=TITLE Easy install and use perl6 under FreeBSD. http://rakudoport.sourceforge.net/ #perl6 #rakudo #freebsd
 
 =begin DESCRIPTION
 

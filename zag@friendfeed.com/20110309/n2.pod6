@@ -1,5 +1,5 @@
 =begin pod :pubdate('2011-03-09T08:07:45Z') :type<note> 
-=NAME RT @bestpractical: At the Best Practical HQ, we've fully embraced XP, especially pair programming http://twitpic.com/47i4ck
+=TITLE RT @bestpractical: At the Best Practical HQ, we've fully embraced XP, especially pair programming http://twitpic.com/47i4ck
 
 =begin DESCRIPTION
 

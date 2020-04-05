@@ -1,5 +1,5 @@
 =begin pod :pubdate('2011-08-09T10:09:58Z') :type<note> 
-=NAME Identify The London Rioters. Do you know this person ?
+=TITLE Identify The London Rioters. Do you know this person ?
 
 =begin DESCRIPTION
 

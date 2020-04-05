@@ -1,5 +1,5 @@
 =begin pod :pubdate('2010-05-13T06:58:28Z') :type<note> 
-=NAME Disaster unfolds slowly in the Gulf of Mexico - The Big Picture - Boston.com
+=TITLE Disaster unfolds slowly in the Gulf of Mexico - The Big Picture - Boston.com
 
 =begin DESCRIPTION
 

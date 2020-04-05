@@ -1,5 +1,5 @@
 =begin pod :pubdate('2010-08-18T06:47:31Z') :type<note> 
-=NAME BBC - Dimensions
+=TITLE BBC - Dimensions
 
 =begin DESCRIPTION
 

@@ -1,5 +1,5 @@
 =begin pod :pubdate('2010-12-23T19:12:39Z') :type<note> 
-=NAME Rakudo Perl 6 port of the Perl 5 GD graphics library using the Zavolaj native call interface
+=TITLE Rakudo Perl 6 port of the Perl 5 GD graphics library using the Zavolaj native call interface
 
 =begin DESCRIPTION
 

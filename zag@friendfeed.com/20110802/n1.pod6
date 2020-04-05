@@ -1,5 +1,5 @@
 =begin pod :pubdate('2011-08-02T14:11:44Z') :type<note> 
-=NAME Посмотрел количество портов: FreeBSD - 22462 , Debian - более 29000, Fedora - 125388
+=TITLE Посмотрел количество портов: FreeBSD - 22462 , Debian - более 29000, Fedora - 125388
 
 =begin DESCRIPTION
 

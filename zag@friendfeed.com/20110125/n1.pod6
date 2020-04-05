@@ -1,5 +1,5 @@
 =begin pod :pubdate('2011-01-25T08:21:20Z') :type<note> 
-=NAME PubNub ★ - PubNub is a new kind of mass messaging service for Mobile Phones, TVs, Computers, Game Consoles and Tablets.
+=TITLE PubNub ★ - PubNub is a new kind of mass messaging service for Mobile Phones, TVs, Computers, Game Consoles and Tablets.
 
 =begin DESCRIPTION
 

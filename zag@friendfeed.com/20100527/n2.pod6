@@ -1,5 +1,5 @@
 =begin pod :pubdate('2010-05-27T11:05:10Z') :type<note> 
-=NAME Half-Life 2 for Mac OS X
+=TITLE Half-Life 2 for Mac OS X
 
 =begin DESCRIPTION
 

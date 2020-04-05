@@ -1,5 +1,5 @@
 =begin pod :pubdate('2010-01-21T09:20:16Z') :type<note> 
-=NAME Android Usage Increased 200% Over Past 3 Months
+=TITLE Android Usage Increased 200% Over Past 3 Months
 
 =begin DESCRIPTION
 

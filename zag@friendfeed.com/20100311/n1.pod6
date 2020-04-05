@@ -1,5 +1,5 @@
 =begin pod :pubdate('2010-03-11T08:30:49Z') :type<note> 
-=NAME "Google reader play" - Google Reader Play a new way to browse interesting stuff on the web. It's super easy to use - after you've read an item, just click the next arrow to move to the next one. http://www.google.com/reader/play
+=TITLE "Google reader play" - Google Reader Play a new way to browse interesting stuff on the web. It's super easy to use - after you've read an item, just click the next arrow to move to the next one. http://www.google.com/reader/play
 
 =begin DESCRIPTION
 

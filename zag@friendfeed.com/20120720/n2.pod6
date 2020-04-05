@@ -1,5 +1,5 @@
 =begin pod :pubdate('2012-07-20T06:11:38Z') :type<note> 
-=NAME Steve Wozniak reveals contents of his backpack, has a lot of stuff -- Engadget
+=TITLE Steve Wozniak reveals contents of his backpack, has a lot of stuff -- Engadget
 
 =begin DESCRIPTION
 

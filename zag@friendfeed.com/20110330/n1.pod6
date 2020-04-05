@@ -1,5 +1,5 @@
 =begin pod :pubdate('2011-03-30T08:05:34Z') :type<note> 
-=NAME Will kill jedi for food
+=TITLE Will kill jedi for food
 
 =begin DESCRIPTION
 

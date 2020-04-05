@@ -1,5 +1,5 @@
-=begin pod :pubdate('2012-02-10T08:46:36Z') :type<note> :tags<lvee>
-=NAME Программа #lvee http://t.co/sR2OrO5u http://t.co/e5vUDUT9
+=begin pod :pubdate('2012-02-10T08:46:36Z') :type<note> :tags<'lvee'>
+=TITLE Программа #lvee http://t.co/sR2OrO5u http://t.co/e5vUDUT9
 
 =begin DESCRIPTION
 

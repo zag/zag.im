@@ -1,5 +1,5 @@
-=begin pod :pubdate('2010-08-04T08:04:11Z') :type<note> :tags<Starcraft2 starcraft2>
-=NAME #Starcraft2 Sells 1.5 Million Copies In Two Days
+=begin pod :pubdate('2010-08-04T08:04:11Z') :type<note> :tags<'Starcraft2', 'starcraft2'>
+=TITLE #Starcraft2 Sells 1.5 Million Copies In Two Days
 
 =begin DESCRIPTION
 

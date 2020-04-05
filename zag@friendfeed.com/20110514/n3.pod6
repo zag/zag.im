@@ -1,5 +1,5 @@
-=begin pod :pubdate('2011-05-14T11:18:25Z') :type<note> :tags<yapc>
-=NAME Оказывается у PSGI есть psgi.streaming #yapc
+=begin pod :pubdate('2011-05-14T11:18:25Z') :type<note> :tags<'yapc'>
+=TITLE Оказывается у PSGI есть psgi.streaming #yapc
 
 =begin DESCRIPTION
 

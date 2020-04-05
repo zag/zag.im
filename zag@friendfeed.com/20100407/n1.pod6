@@ -1,5 +1,5 @@
 =begin pod :pubdate('2010-04-07T17:03:23Z') :type<note> 
-=NAME М.Видео будет продавать iPad
+=TITLE М.Видео будет продавать iPad
 
 =begin DESCRIPTION
 

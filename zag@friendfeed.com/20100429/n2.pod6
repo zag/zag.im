@@ -1,5 +1,5 @@
-=begin pod :pubdate('2010-04-29T04:29:41Z') :type<note> :tags<html5>
-=NAME gwt quake2:Look ma, no plugin! #html5
+=begin pod :pubdate('2010-04-29T04:29:41Z') :type<note> :tags<'html5'>
+=TITLE gwt quake2:Look ma, no plugin! #html5
 
 =begin DESCRIPTION
 

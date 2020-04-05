@@ -1,5 +1,5 @@
 =begin pod :pubdate('2010-08-22T08:48:21Z') :type<note> 
-=NAME perl6.su
+=TITLE perl6.su
 
 =begin DESCRIPTION
 

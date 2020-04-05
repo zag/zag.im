@@ -1,5 +1,5 @@
-=begin pod :pubdate('2010-05-26T06:41:08Z') :type<note> :tags<perl6 perl>
-=NAME Damian Conway on Perl and its future. #perl6 #perl
+=begin pod :pubdate('2010-05-26T06:41:08Z') :type<note> :tags<'perl6', 'perl'>
+=TITLE Damian Conway on Perl and its future. #perl6 #perl
 
 =begin DESCRIPTION
 

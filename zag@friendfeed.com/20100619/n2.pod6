@@ -1,5 +1,5 @@
-=begin pod :pubdate('2010-06-19T14:04:21Z') :type<note> :tags<lvee>
-=NAME RT @lveecon: Разработка приставок цифрового телевидения на базе платформы STLinux. Антон Тонкович,Юрий Казакевич, Belarus, Minsk #lvee
+=begin pod :pubdate('2010-06-19T14:04:21Z') :type<note> :tags<'lvee'>
+=TITLE RT @lveecon: Разработка приставок цифрового телевидения на базе платформы STLinux. Антон Тонкович,Юрий Казакевич, Belarus, Minsk #lvee
 
 =begin DESCRIPTION
 

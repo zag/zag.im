@@ -1,5 +1,5 @@
 =begin pod :pubdate('2011-03-14T17:35:58Z') :type<note> 
-=NAME RT @newsycombinator: All private Google Profiles will be deleted after July 31, 2011 http://j.mp/hRJCvj
+=TITLE RT @newsycombinator: All private Google Profiles will be deleted after July 31, 2011 http://j.mp/hRJCvj
 
 =begin DESCRIPTION
 

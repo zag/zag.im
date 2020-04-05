@@ -1,5 +1,5 @@
 =begin pod :pubdate('2011-10-21T10:28:27Z') :type<note> 
-=NAME Most Expressive Pumpkin Faces Ever! - My Modern Metropolis
+=TITLE Most Expressive Pumpkin Faces Ever! - My Modern Metropolis
 
 =begin DESCRIPTION
 

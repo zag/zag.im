@@ -1,5 +1,5 @@
-=begin pod :pubdate('2010-11-12T15:12:31Z') :type<note> :tags<gddru>
-=NAME Ps3 at #gddru
+=begin pod :pubdate('2010-11-12T15:12:31Z') :type<note> :tags<'gddru'>
+=TITLE Ps3 at #gddru
 
 =begin DESCRIPTION
 

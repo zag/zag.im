@@ -1,5 +1,5 @@
 =begin pod :pubdate('2010-08-17T10:59:23Z') :type<note> 
-=NAME MapReduce
+=TITLE MapReduce
 
 =begin DESCRIPTION
 

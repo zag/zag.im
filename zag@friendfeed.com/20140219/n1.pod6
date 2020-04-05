@@ -1,5 +1,5 @@
 =begin pod :pubdate('2014-02-19T10:07:41Z') :type<note> 
-=NAME FreeBSDJournal
+=TITLE FreeBSDJournal
 
 =begin DESCRIPTION
 

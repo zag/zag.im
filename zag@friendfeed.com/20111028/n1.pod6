@@ -1,5 +1,5 @@
 =begin pod :pubdate('2011-10-28T20:18:17Z') :type<note> 
-=NAME Кто к нам с лапой придет, тот от лапы падёт !  - http://meme.yahoo.com/sonergonul/p/8lyR-tP/ (via http://ff.im/NiHBD)
+=TITLE Кто к нам с лапой придет, тот от лапы падёт !  - http://meme.yahoo.com/sonergonul/p/8lyR-tP/ (via http://ff.im/NiHBD)
 
 =begin DESCRIPTION
 

@@ -1,5 +1,5 @@
 =begin pod :pubdate('2011-09-16T11:01:28Z') :type<note> 
-=NAME PC-BSD 9.0 on its Way
+=TITLE PC-BSD 9.0 on its Way
 
 =begin DESCRIPTION
 

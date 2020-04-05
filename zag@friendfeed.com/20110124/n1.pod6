@@ -1,5 +1,5 @@
-=begin pod :pubdate('2011-01-24T11:09:55Z') :type<note> :tags<Perl>
-=NAME Bailamos « "here’s a minimal part of Dancer implemented in Perl 6"
+=begin pod :pubdate('2011-01-24T11:09:55Z') :type<note> :tags<'Perl'>
+=TITLE Bailamos « "here’s a minimal part of Dancer implemented in Perl 6"
 
 =begin DESCRIPTION
 

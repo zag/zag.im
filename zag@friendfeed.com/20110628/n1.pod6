@@ -1,5 +1,5 @@
 =begin pod :pubdate('2011-06-28T11:50:55Z') :type<note> 
-=NAME RT @consttype: We should just rename Perl 6 to Perl Nukem Forever.
+=TITLE RT @consttype: We should just rename Perl 6 to Perl Nukem Forever.
 
 =begin DESCRIPTION
 

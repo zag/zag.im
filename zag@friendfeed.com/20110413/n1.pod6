@@ -1,5 +1,5 @@
-=begin pod :pubdate('2011-04-13T07:16:55Z') :type<note> :tags<mysql>
-=NAME NoSQL to InnoDB with Memcached. #mysql
+=begin pod :pubdate('2011-04-13T07:16:55Z') :type<note> :tags<'mysql'>
+=TITLE NoSQL to InnoDB with Memcached. #mysql
 
 =begin DESCRIPTION
 

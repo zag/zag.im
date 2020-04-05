@@ -1,5 +1,5 @@
 =begin pod :pubdate('2010-10-19T11:17:45Z') :type<note> 
-=NAME RT @avarab: Mac OS X is excellent as a bloated device driver. I'm only using it to run VirtualBox + Debian. I'm on a horse.
+=TITLE RT @avarab: Mac OS X is excellent as a bloated device driver. I'm only using it to run VirtualBox + Debian. I'm on a horse.
 
 =begin DESCRIPTION
 

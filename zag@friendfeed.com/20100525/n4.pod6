@@ -1,5 +1,5 @@
-=begin pod :pubdate('2010-05-25T03:45:14Z') :type<note> :tags<HTML5>
-=NAME Video JS | #HTML5 Video Player
+=begin pod :pubdate('2010-05-25T03:45:14Z') :type<note> :tags<'HTML5'>
+=TITLE Video JS | #HTML5 Video Player
 
 =begin DESCRIPTION
 

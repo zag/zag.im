@@ -1,5 +1,5 @@
 =begin pod :pubdate('2010-11-17T18:39:11Z') :type<note> 
-=NAME No bloggers allowed
+=TITLE No bloggers allowed
 
 =begin DESCRIPTION
 

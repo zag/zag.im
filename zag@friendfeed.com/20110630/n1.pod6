@@ -1,5 +1,5 @@
-=begin pod :pubdate('2011-06-30T23:54:06Z') :type<note> :tags<lvee>
-=NAME Шашлык для неформальной части #lvee
+=begin pod :pubdate('2011-06-30T23:54:06Z') :type<note> :tags<'lvee'>
+=TITLE Шашлык для неформальной части #lvee
 
 =begin DESCRIPTION
 

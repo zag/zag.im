@@ -1,5 +1,5 @@
 =begin pod :pubdate('2010-03-18T11:02:02Z') :type<note> 
-=NAME Data Mining Using Google
+=TITLE Data Mining Using Google
 
 =begin DESCRIPTION
 

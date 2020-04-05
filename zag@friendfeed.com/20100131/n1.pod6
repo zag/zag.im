@@ -1,5 +1,5 @@
 =begin pod :pubdate('2010-01-31T05:59:07Z') :type<note> 
-=NAME 9 Upcoming Tablet Alternatives to the Apple iPad
+=TITLE 9 Upcoming Tablet Alternatives to the Apple iPad
 
 =begin DESCRIPTION
 

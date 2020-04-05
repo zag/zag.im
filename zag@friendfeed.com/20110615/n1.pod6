@@ -1,5 +1,5 @@
-=begin pod :pubdate('2011-06-15T11:47:27Z') :type<note> :tags<perl>
-=NAME I actually tried learning Rails | Jeremy Zawodny's blog #perl
+=begin pod :pubdate('2011-06-15T11:47:27Z') :type<note> :tags<'perl'>
+=TITLE I actually tried learning Rails | Jeremy Zawodny's blog #perl
 
 =begin DESCRIPTION
 

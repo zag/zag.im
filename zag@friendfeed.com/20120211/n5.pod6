@@ -1,5 +1,5 @@
-=begin pod :pubdate('2012-02-11T09:57:02Z') :type<note> :tags<lvee>
-=NAME RT @dvankevich: весёлый докладчик :) http://t.co/Js36BwPJ #lvee
+=begin pod :pubdate('2012-02-11T09:57:02Z') :type<note> :tags<'lvee'>
+=TITLE RT @dvankevich: весёлый докладчик :) http://t.co/Js36BwPJ #lvee
 
 =begin DESCRIPTION
 

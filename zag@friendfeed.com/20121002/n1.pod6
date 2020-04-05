@@ -1,5 +1,5 @@
-=begin pod :pubdate('2012-10-02T09:20:42Z') :type<note> :tags<frf>
-=NAME «Жив курилка»: FriendFeed 5 лет.  #frf (via http://ff.im/15ebuC)
+=begin pod :pubdate('2012-10-02T09:20:42Z') :type<note> :tags<'frf'>
+=TITLE «Жив курилка»: FriendFeed 5 лет.  #frf (via http://ff.im/15ebuC)
 
 =begin DESCRIPTION
 

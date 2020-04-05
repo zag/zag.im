@@ -1,5 +1,5 @@
 =begin pod :pubdate('2010-04-01T11:14:37Z') :type<note> 
-=NAME Google Envelopes turns Gmail into snail mail, wraps it in precisely routed Maps printout
+=TITLE Google Envelopes turns Gmail into snail mail, wraps it in precisely routed Maps printout
 
 =begin DESCRIPTION
 

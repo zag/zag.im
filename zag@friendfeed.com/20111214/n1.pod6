@@ -1,5 +1,5 @@
-=begin pod :pubdate('2011-12-14T10:20:51Z') :type<note> :tags<Perl>
-=NAME RT @avarab: The #Perl Foundation's 100,000 EUR grant from booking.com http://t.co/Z5HRZyKk
+=begin pod :pubdate('2011-12-14T10:20:51Z') :type<note> :tags<'Perl'>
+=TITLE RT @avarab: The #Perl Foundation's 100,000 EUR grant from booking.com http://t.co/Z5HRZyKk
 
 =begin DESCRIPTION
 

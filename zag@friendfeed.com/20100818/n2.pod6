@@ -1,5 +1,5 @@
 =begin pod :pubdate('2010-08-18T07:27:43Z') :type<note> 
-=NAME Прогресс времени прохождения спектестов perl 6 для Rakudo
+=TITLE Прогресс времени прохождения спектестов perl 6 для Rakudo
 
 =begin DESCRIPTION
 

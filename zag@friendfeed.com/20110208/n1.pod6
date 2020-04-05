@@ -1,5 +1,5 @@
 =begin pod :pubdate('2011-02-08T20:21:08Z') :type<note> 
-=NAME Android Interaction Patterns . This is androidpatterns.com, a set of interaction patterns that can help you design Android apps.
+=TITLE Android Interaction Patterns . This is androidpatterns.com, a set of interaction patterns that can help you design Android apps.
 
 =begin DESCRIPTION
 

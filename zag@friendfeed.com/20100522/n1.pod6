@@ -1,5 +1,5 @@
 =begin pod :pubdate('2010-05-22T15:00:51Z') :type<note> 
-=NAME What You Need to Know About Google TV
+=TITLE What You Need to Know About Google TV
 
 =begin DESCRIPTION
 

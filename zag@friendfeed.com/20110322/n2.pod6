@@ -1,5 +1,5 @@
-=begin pod :pubdate('2011-03-22T10:23:18Z') :type<note> :tags<perl6>
-=NAME Rakudo * now in OpenBSD ports. #perl6 http://openports.se/lang/rakudo
+=begin pod :pubdate('2011-03-22T10:23:18Z') :type<note> :tags<'perl6'>
+=TITLE Rakudo * now in OpenBSD ports. #perl6 http://openports.se/lang/rakudo
 
 =begin DESCRIPTION
 

@@ -1,5 +1,5 @@
 =begin pod :pubdate('2009-10-22T17:54:41Z') :type<note> 
-=NAME Linus recommends Windows7
+=TITLE Linus recommends Windows7
 
 =begin DESCRIPTION
 

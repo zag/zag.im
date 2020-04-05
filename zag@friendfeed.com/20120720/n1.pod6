@@ -1,5 +1,5 @@
-=begin pod :pubdate('2012-07-20T09:47:50Z') :type<note> :tags<pod6 writeat>
-=NAME Вышла вторая версия пакета для создания и публикации книг и документации «WriteAt» http://t.co/i6nGMgRQ #pod6 #writeat
+=begin pod :pubdate('2012-07-20T09:47:50Z') :type<note> :tags<'pod6', 'writeat'>
+=TITLE Вышла вторая версия пакета для создания и публикации книг и документации «WriteAt» http://t.co/i6nGMgRQ #pod6 #writeat
 
 =begin DESCRIPTION
 

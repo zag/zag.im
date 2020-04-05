@@ -1,5 +1,5 @@
 =begin pod :pubdate('2011-08-18T08:30:52Z') :type<note> 
-=NAME ZeroMQ bindings for Parrot ( plobsing/parrot-zeromq - GitHub ).
+=TITLE ZeroMQ bindings for Parrot ( plobsing/parrot-zeromq - GitHub ).
 
 =begin DESCRIPTION
 

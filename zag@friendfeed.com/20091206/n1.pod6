@@ -1,5 +1,5 @@
-=begin pod :pubdate('2009-12-06T08:10:49Z') :type<note> :tags<27314>
-=NAME На всех вокзалах Москвы заработает бесплатный беспроводной Интернет - http://www.mobile-review.com/fullnews/main/2009/November/26.shtml#27314
+=begin pod :pubdate('2009-12-06T08:10:49Z') :type<note> :tags<'27314'>
+=TITLE На всех вокзалах Москвы заработает бесплатный беспроводной Интернет - http://www.mobile-review.com/fullnews/main/2009/November/26.shtml#27314
 
 =begin DESCRIPTION
 

@@ -1,5 +1,5 @@
 =begin pod :pubdate('2010-06-19T14:04:14Z') :type<note> 
-=NAME RT @lveecon: Доступна информацио об оплате для проживающих в палатках: http://lvee.org/ru/conference/payment
+=TITLE RT @lveecon: Доступна информацио об оплате для проживающих в палатках: http://lvee.org/ru/conference/payment
 
 =begin DESCRIPTION
 

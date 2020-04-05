@@ -1,5 +1,5 @@
 =begin pod :pubdate('2011-04-30T18:13:02Z') :type<note> 
-=NAME wallpaper
+=TITLE wallpaper
 
 =begin DESCRIPTION
 

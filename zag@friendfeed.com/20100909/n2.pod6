@@ -1,5 +1,5 @@
 =begin pod :pubdate('2010-09-09T14:26:01Z') :type<note> 
-=NAME Скоро начнется очередной сериальный сезон ! /The season of serials will soon begin !
+=TITLE Скоро начнется очередной сериальный сезон ! /The season of serials will soon begin !
 
 =begin DESCRIPTION
 

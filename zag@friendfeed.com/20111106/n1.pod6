@@ -1,5 +1,5 @@
 =begin pod :pubdate('2011-11-06T11:16:44Z') :type<note> 
-=NAME Brilliant graphic shows where and when you should post status updates
+=TITLE Brilliant graphic shows where and when you should post status updates
 
 =begin DESCRIPTION
 

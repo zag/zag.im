@@ -1,5 +1,5 @@
 =begin pod :pubdate('2011-04-07T10:32:26Z') :type<note> 
-=NAME Writing code with MS Paint - http://i.min.us/ikq8hS.gif
+=TITLE Writing code with MS Paint - http://i.min.us/ikq8hS.gif
 
 =begin DESCRIPTION
 

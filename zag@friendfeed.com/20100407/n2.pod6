@@ -1,5 +1,5 @@
 =begin pod :pubdate('2010-04-07T04:38:57Z') :type<note> 
-=NAME How to Declutter and Streamline Your Google Reader Inbox
+=TITLE How to Declutter and Streamline Your Google Reader Inbox
 
 =begin DESCRIPTION
 

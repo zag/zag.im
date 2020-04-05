@@ -1,5 +1,5 @@
-=begin pod :pubdate('2010-09-03T15:35:02Z') :type<note> :tags<mibf>
-=NAME Лев Толстой #mibf
+=begin pod :pubdate('2010-09-03T15:35:02Z') :type<note> :tags<'mibf'>
+=TITLE Лев Толстой #mibf
 
 =begin DESCRIPTION
 

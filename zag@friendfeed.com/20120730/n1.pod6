@@ -1,5 +1,5 @@
-=begin pod :pubdate('2012-07-30T12:08:13Z') :type<note> :tags<perl6 rakudo>
-=NAME Windows .msi available for Rakudo Star 2012.07 #perl6 #rakudo
+=begin pod :pubdate('2012-07-30T12:08:13Z') :type<note> :tags<'perl6', 'rakudo'>
+=TITLE Windows .msi available for Rakudo Star 2012.07 #perl6 #rakudo
 
 =begin DESCRIPTION
 

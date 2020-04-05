@@ -1,5 +1,5 @@
-=begin pod :pubdate('2010-08-30T10:05:13Z') :type<note> :tags<perl6>
-=NAME This is 'Niecza', which will eventually be a Perl 6 implementation focusing on optimization research. It targets the Common Language Runtime (ECMA-335; implementations are "Mono" and ".NET"). #perl6
+=begin pod :pubdate('2010-08-30T10:05:13Z') :type<note> :tags<'perl6'>
+=TITLE This is 'Niecza', which will eventually be a Perl 6 implementation focusing on optimization research. It targets the Common Language Runtime (ECMA-335; implementations are "Mono" and ".NET"). #perl6
 
 =begin DESCRIPTION
 

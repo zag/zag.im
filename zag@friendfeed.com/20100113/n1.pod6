@@ -1,5 +1,5 @@
-=begin pod :pubdate('2010-01-13T09:47:53Z') :type<note> :tags<avatarmovie>
-=NAME Очередь на «Аватар» в первый в Беларуси 3D-кинотеатр #avatarmovie
+=begin pod :pubdate('2010-01-13T09:47:53Z') :type<note> :tags<'avatarmovie'>
+=TITLE Очередь на «Аватар» в первый в Беларуси 3D-кинотеатр #avatarmovie
 
 =begin DESCRIPTION
 

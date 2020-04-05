@@ -1,5 +1,5 @@
 =begin pod :pubdate('2011-03-16T05:56:31Z') :type<note> 
-=NAME The Egyptian Revolution on Twitter | Gephi
+=TITLE The Egyptian Revolution on Twitter | Gephi
 
 =begin DESCRIPTION
 

@@ -1,5 +1,5 @@
 =begin pod :pubdate('2009-08-17T10:05:27Z') :type<note> 
-=NAME auto_increment - бомба замедленного действия.
+=TITLE auto_increment - бомба замедленного действия.
 
 =begin DESCRIPTION
 

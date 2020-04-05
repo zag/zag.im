@@ -1,5 +1,5 @@
-=begin pod :pubdate('2011-04-21T08:44:30Z') :type<note> :tags<firefox4>
-=NAME How to Change the Default Firefox 4 Search Engine #firefox4
+=begin pod :pubdate('2011-04-21T08:44:30Z') :type<note> :tags<'firefox4'>
+=TITLE How to Change the Default Firefox 4 Search Engine #firefox4
 
 =begin DESCRIPTION
 

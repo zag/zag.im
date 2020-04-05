@@ -1,5 +1,5 @@
 =begin pod :pubdate('2010-06-01T08:22:05Z') :type<note> 
-=NAME Сериалы поглощают сознание. Lost Final (via http://ff.im/l0K1Z)
+=TITLE Сериалы поглощают сознание. Lost Final (via http://ff.im/l0K1Z)
 
 =begin DESCRIPTION
 

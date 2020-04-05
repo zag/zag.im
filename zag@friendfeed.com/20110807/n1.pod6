@@ -1,5 +1,5 @@
 =begin pod :pubdate('2011-08-07T19:47:27Z') :type<note> 
-=NAME "Can I run Debian GNU/kFreeBSD in a chroot under FreeBSD?"
+=TITLE "Can I run Debian GNU/kFreeBSD in a chroot under FreeBSD?"
 
 =begin DESCRIPTION
 

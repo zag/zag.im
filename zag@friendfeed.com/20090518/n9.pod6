@@ -1,5 +1,5 @@
 =begin pod :pubdate('2009-05-18T08:06:40Z') :type<note> 
-=NAME @AnatolyUnix твитер клиенты опрашивают этот сервис и выврдят все новые сообщения. twitter это не IM
+=TITLE @AnatolyUnix твитер клиенты опрашивают этот сервис и выврдят все новые сообщения. twitter это не IM
 
 =begin DESCRIPTION
 

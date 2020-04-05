@@ -1,5 +1,5 @@
-=begin pod :pubdate('2010-09-16T13:17:24Z') :type<note> :tags<mailru>
-=NAME Все никак не начнется этот partners day #mailru
+=begin pod :pubdate('2010-09-16T13:17:24Z') :type<note> :tags<'mailru'>
+=TITLE Все никак не начнется этот partners day #mailru
 
 =begin DESCRIPTION
 

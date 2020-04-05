@@ -1,5 +1,5 @@
 =begin pod :pubdate('2012-12-01T07:23:44Z') :type<note> 
-=NAME The Weise7 in/compatible Laboratorium Archive
+=TITLE The Weise7 in/compatible Laboratorium Archive
 
 =begin DESCRIPTION
 

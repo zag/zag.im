@@ -1,5 +1,5 @@
 =begin pod :pubdate('2011-08-29T12:22:06Z') :type<note> 
-=NAME СlojureScript Quick Start: "... currently only Sun Java 6 is supported" :-(
+=TITLE СlojureScript Quick Start: "... currently only Sun Java 6 is supported" :-(
 
 =begin DESCRIPTION
 

@@ -1,5 +1,5 @@
-=begin pod :pubdate('2011-10-24T07:38:04Z') :type<note> :tags<freebsd>
-=NAME Новый sysinstall в #freebsd умеет еще и сеть wifi сетапить.
+=begin pod :pubdate('2011-10-24T07:38:04Z') :type<note> :tags<'freebsd'>
+=TITLE Новый sysinstall в #freebsd умеет еще и сеть wifi сетапить.
 
 =begin DESCRIPTION
 

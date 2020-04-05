@@ -1,5 +1,5 @@
-=begin pod :pubdate('2011-07-02T09:08:52Z') :type<note> :tags<lvee>
-=NAME Тестироание nosql. #lvee
+=begin pod :pubdate('2011-07-02T09:08:52Z') :type<note> :tags<'lvee'>
+=TITLE Тестироание nosql. #lvee
 
 =begin DESCRIPTION
 

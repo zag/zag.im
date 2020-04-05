@@ -1,5 +1,5 @@
 =begin pod :pubdate('2009-12-08T12:33:19Z') :type<note> 
-=NAME Админская комната в last.fm. (Часы с указанием времени обеда)
+=TITLE Админская комната в last.fm. (Часы с указанием времени обеда)
 
 =begin DESCRIPTION
 

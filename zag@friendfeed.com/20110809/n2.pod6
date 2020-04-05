@@ -1,5 +1,5 @@
 =begin pod :pubdate('2011-08-09T14:11:28Z') :type<note> 
-=NAME RT @newsycombinator: How to Level Up as a Developer http://j.mp/nTVOum
+=TITLE RT @newsycombinator: How to Level Up as a Developer http://j.mp/nTVOum
 
 =begin DESCRIPTION
 

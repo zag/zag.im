@@ -1,5 +1,5 @@
 =begin pod :pubdate('2011-10-22T15:44:03Z') :type<note> 
-=NAME lionet: BSD License Fears
+=TITLE lionet: BSD License Fears
 
 =begin DESCRIPTION
 

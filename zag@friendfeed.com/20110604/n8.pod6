@@ -1,5 +1,5 @@
-=begin pod :pubdate('2011-06-04T09:05:05Z') :type<note> :tags<devconf_ru>
-=NAME Мир django, похоже, катится в tornado #devconf_ru
+=begin pod :pubdate('2011-06-04T09:05:05Z') :type<note> :tags<'devconf_ru'>
+=TITLE Мир django, похоже, катится в tornado #devconf_ru
 
 =begin DESCRIPTION
 

@@ -1,5 +1,5 @@
-=begin pod :pubdate('2010-07-30T07:44:36Z') :type<note> :tags<perl6 freebsd>
-=NAME Port of "Rakudo Star" for FreeBSD available at http://rakudoport.sourceforge.net/ #perl6 #freebsd
+=begin pod :pubdate('2010-07-30T07:44:36Z') :type<note> :tags<'perl6', 'freebsd'>
+=TITLE Port of "Rakudo Star" for FreeBSD available at http://rakudoport.sourceforge.net/ #perl6 #freebsd
 
 =begin DESCRIPTION
 

@@ -1,5 +1,5 @@
 =begin pod :pubdate('2011-05-27T16:20:05Z') :type<note> 
-=NAME RT @dchest Перевел Gettings Started http://t.co/Mzh9OPv
+=TITLE RT @dchest Перевел Gettings Started http://t.co/Mzh9OPv
 
 =begin DESCRIPTION
 

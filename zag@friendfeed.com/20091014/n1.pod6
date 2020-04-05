@@ -1,5 +1,5 @@
-=begin pod :pubdate('2009-10-14T09:53:00Z') :type<note> :tags<rakudo perl6>
-=NAME К настойчивым просьбам внести rakudo в дерево портов FreeBSD добавился еще народ: http://tinyurl.com/ylguwkg #rakudo #perl6
+=begin pod :pubdate('2009-10-14T09:53:00Z') :type<note> :tags<'rakudo', 'perl6'>
+=TITLE К настойчивым просьбам внести rakudo в дерево портов FreeBSD добавился еще народ: http://tinyurl.com/ylguwkg #rakudo #perl6
 
 =begin DESCRIPTION
 

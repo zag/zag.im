@@ -1,5 +1,5 @@
-=begin pod :pubdate('2011-06-04T13:14:22Z') :type<note> :tags<devconf_ru>
-=NAME Как изменится документация в ближайшем будущем?Perl 6 Pod - границ между кодом документацией по нему нет.Скоро на #devconf_ru
+=begin pod :pubdate('2011-06-04T13:14:22Z') :type<note> :tags<'devconf_ru'>
+=TITLE Как изменится документация в ближайшем будущем?Perl 6 Pod - границ между кодом документацией по нему нет.Скоро на #devconf_ru
 
 =begin DESCRIPTION
 

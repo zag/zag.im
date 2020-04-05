@@ -1,5 +1,5 @@
-=begin pod :pubdate('2010-07-19T09:07:58Z') :type<note> :tags<Starcraft>
-=NAME #Starcraft II  обошелся в  $100 млн.
+=begin pod :pubdate('2010-07-19T09:07:58Z') :type<note> :tags<'Starcraft'>
+=TITLE #Starcraft II  обошелся в  $100 млн.
 
 =begin DESCRIPTION
 

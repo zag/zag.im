@@ -1,5 +1,5 @@
 =begin pod :pubdate('2010-10-20T07:50:37Z') :type<note> 
-=NAME Prototype of an Open Web App Ecosystem :: The Mozilla Blog
+=TITLE Prototype of an Open Web App Ecosystem :: The Mozilla Blog
 
 =begin DESCRIPTION
 

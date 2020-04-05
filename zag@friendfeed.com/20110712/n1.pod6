@@ -1,5 +1,5 @@
 =begin pod :pubdate('2011-07-12T18:34:01Z') :type<note> 
-=NAME Дистрибутивы Linux - Записки дебианщика
+=TITLE Дистрибутивы Linux - Записки дебианщика
 
 =begin DESCRIPTION
 

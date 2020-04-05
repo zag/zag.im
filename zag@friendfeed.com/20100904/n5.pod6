@@ -1,5 +1,5 @@
 =begin pod :pubdate('2010-09-04T05:13:27Z') :type<note> 
-=NAME Happy Hacking Keyboard - Wikipedia, the free encyclopedia
+=TITLE Happy Hacking Keyboard - Wikipedia, the free encyclopedia
 
 =begin DESCRIPTION
 

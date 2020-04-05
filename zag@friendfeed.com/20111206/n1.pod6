@@ -1,5 +1,5 @@
-=begin pod :pubdate('2011-12-06T08:34:29Z') :type<note> :tags<github>
-=NAME На coderwall.com раздают медали #github. Верблюды похоже кончились.
+=begin pod :pubdate('2011-12-06T08:34:29Z') :type<note> :tags<'github'>
+=TITLE На coderwall.com раздают медали #github. Верблюды похоже кончились.
 
 =begin DESCRIPTION
 

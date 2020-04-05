@@ -1,5 +1,5 @@
-=begin pod :pubdate('2011-12-07T20:12:43Z') :type<note> :tags<perl6>
-=NAME Очередное "рождество" на носу. Доколе ? #perl6
+=begin pod :pubdate('2011-12-07T20:12:43Z') :type<note> :tags<'perl6'>
+=TITLE Очередное "рождество" на носу. Доколе ? #perl6
 
 =begin DESCRIPTION
 

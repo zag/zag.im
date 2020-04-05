@@ -1,5 +1,5 @@
 =begin pod :pubdate('2011-12-23T11:48:42Z') :type<note> 
-=NAME Juick - https://github.com/juick
+=TITLE Juick - https://github.com/juick
 
 =begin DESCRIPTION
 

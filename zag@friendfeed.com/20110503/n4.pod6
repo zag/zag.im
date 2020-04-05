@@ -1,5 +1,5 @@
-=begin pod :pubdate('2011-05-03T07:48:01Z') :type<note> :tags<gtd>
-=NAME Органайзер своими руками - Levenger Circa Notebooks - Записки дебианщика #gtd
+=begin pod :pubdate('2011-05-03T07:48:01Z') :type<note> :tags<'gtd'>
+=TITLE Органайзер своими руками - Levenger Circa Notebooks - Записки дебианщика #gtd
 
 =begin DESCRIPTION
 

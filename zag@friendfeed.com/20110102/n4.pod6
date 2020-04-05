@@ -1,5 +1,5 @@
 =begin pod :pubdate('2011-01-02T15:02:59Z') :type<note> 
-=NAME Пересматривая X-files, встретил "Kill Switch" ( сезон 5 серия 11). Просто бесподобно, причем снята серия за год до Matrix. http://www.imdb.com/title/tt0751150/
+=TITLE Пересматривая X-files, встретил "Kill Switch" ( сезон 5 серия 11). Просто бесподобно, причем снята серия за год до Matrix. http://www.imdb.com/title/tt0751150/
 
 =begin DESCRIPTION
 

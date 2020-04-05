@@ -1,5 +1,5 @@
 =begin pod :pubdate('2014-04-02T07:28:38Z') :type<note> 
-=NAME Computer History Museum | @CHM : Microsoft MS-DOS early source code
+=TITLE Computer History Museum | @CHM : Microsoft MS-DOS early source code
 
 =begin DESCRIPTION
 

@@ -1,5 +1,5 @@
-=begin pod :pubdate('2011-04-28T10:50:58Z') :type<note> :tags<LVEE>
-=NAME RT @lveecon: Открыт прием заявок на #LVEE 2011 - http://lvee.org/ru/news/87
+=begin pod :pubdate('2011-04-28T10:50:58Z') :type<note> :tags<'LVEE'>
+=TITLE RT @lveecon: Открыт прием заявок на #LVEE 2011 - http://lvee.org/ru/news/87
 
 =begin DESCRIPTION
 

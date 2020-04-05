@@ -1,5 +1,5 @@
 =begin pod :pubdate('2010-08-18T07:42:40Z') :type<note> 
-=NAME Run PHP tests in your Perl test suite - Perlbuzz
+=TITLE Run PHP tests in your Perl test suite - Perlbuzz
 
 =begin DESCRIPTION
 

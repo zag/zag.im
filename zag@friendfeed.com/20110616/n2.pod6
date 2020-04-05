@@ -1,5 +1,5 @@
 =begin pod :pubdate('2011-06-16T04:16:32Z') :type<note> 
-=NAME RT @miyagawa: HTTP::Server::Simple::PSGI ported to Perl6 http://bit.ly/k6ZkVX
+=TITLE RT @miyagawa: HTTP::Server::Simple::PSGI ported to Perl6 http://bit.ly/k6ZkVX
 
 =begin DESCRIPTION
 

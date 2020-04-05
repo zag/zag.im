@@ -1,5 +1,5 @@
 =begin pod :pubdate('2010-04-01T17:27:09Z') :type<note> 
-=NAME RT @novaradioru: Universal купит «Мосфильм» за $4,7 млрд: Одна из крупнейших киностудий США Universal Pictures в ближайшее время за... http://bit.ly/9WK6NO
+=TITLE RT @novaradioru: Universal купит «Мосфильм» за $4,7 млрд: Одна из крупнейших киностудий США Universal Pictures в ближайшее время за... http://bit.ly/9WK6NO
 
 =begin DESCRIPTION
 

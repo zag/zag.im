@@ -1,5 +1,5 @@
-=begin pod :pubdate('2011-07-01T00:00:38Z') :type<note> :tags<lvee>
-=NAME СПО в учебных заведениях укарины #lvee
+=begin pod :pubdate('2011-07-01T00:00:38Z') :type<note> :tags<'lvee'>
+=TITLE СПО в учебных заведениях укарины #lvee
 
 =begin DESCRIPTION
 

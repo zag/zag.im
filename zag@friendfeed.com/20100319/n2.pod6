@@ -1,5 +1,5 @@
 =begin pod :pubdate('2010-03-19T05:17:18Z') :type<note> 
-=NAME Mozilla Labs: Contacts in the Browser. A Javascript API that websites can use to access the Contacts database, with explicit user permission and filtering
+=TITLE Mozilla Labs: Contacts in the Browser. A Javascript API that websites can use to access the Contacts database, with explicit user permission and filtering
 
 =begin DESCRIPTION
 

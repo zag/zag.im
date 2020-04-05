@@ -1,5 +1,5 @@
 =begin pod :pubdate('2010-01-21T08:53:09Z') :type<note> 
-=NAME RT: @mkrentovskiy: Правоверный календарь системотехников http://bit.ly/6nHqCS via @growler
+=TITLE RT: @mkrentovskiy: Правоверный календарь системотехников http://bit.ly/6nHqCS via @growler
 
 =begin DESCRIPTION
 

@@ -1,5 +1,5 @@
-=begin pod :pubdate('2011-07-01T00:35:55Z') :type<note> :tags<lvee>
-=NAME Зондер команда готовит лук #lvee
+=begin pod :pubdate('2011-07-01T00:35:55Z') :type<note> :tags<'lvee'>
+=TITLE Зондер команда готовит лук #lvee
 
 =begin DESCRIPTION
 

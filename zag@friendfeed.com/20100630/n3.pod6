@@ -1,5 +1,5 @@
-=begin pod :pubdate('2010-06-30T11:40:34Z') :type<note> :tags<rakudo StarCraft>
-=NAME выход #rakudo * перенесен на 29 июля.  Через 2 дня после выхода #StarCraft 2.
+=begin pod :pubdate('2010-06-30T11:40:34Z') :type<note> :tags<'rakudo', 'StarCraft'>
+=TITLE выход #rakudo * перенесен на 29 июля.  Через 2 дня после выхода #StarCraft 2.
 
 =begin DESCRIPTION
 

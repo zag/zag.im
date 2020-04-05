@@ -1,5 +1,5 @@
-=begin pod :pubdate('2010-07-08T15:39:07Z') :type<note> :tags<perl6>
-=NAME New #perl6 cheatsheet available! http://www.wall.org/~larry/cheatsheet
+=begin pod :pubdate('2010-07-08T15:39:07Z') :type<note> :tags<'perl6'>
+=TITLE New #perl6 cheatsheet available! http://www.wall.org/~larry/cheatsheet
 
 =begin DESCRIPTION
 

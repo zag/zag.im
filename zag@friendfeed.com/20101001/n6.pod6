@@ -1,5 +1,5 @@
-=begin pod :pubdate('2010-10-01T08:46:28Z') :type<note> :tags<yac2010>
-=NAME freebsd - лидирующая ос в яндекс #yac2010
+=begin pod :pubdate('2010-10-01T08:46:28Z') :type<note> :tags<'yac2010'>
+=TITLE freebsd - лидирующая ос в яндекс #yac2010
 
 =begin DESCRIPTION
 

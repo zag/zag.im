@@ -1,5 +1,5 @@
-=begin pod :pubdate('2010-05-14T08:01:13Z') :type<note> :tags<firefox>
-=NAME Ни я, ни мой web browser не готовы к доменами без латиницы. #firefox
+=begin pod :pubdate('2010-05-14T08:01:13Z') :type<note> :tags<'firefox'>
+=TITLE Ни я, ни мой web browser не готовы к доменами без латиницы. #firefox
 
 =begin DESCRIPTION
 

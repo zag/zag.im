@@ -1,5 +1,5 @@
-=begin pod :pubdate('2010-07-29T08:10:38Z') :type<note> :tags<OSCON>
-=NAME Speaker Slides & Video: #OSCON 2010, The O'Reilly Open Source Convention - O'Reilly Conferences, July 19 - 23, 2010, Portland, OR
+=begin pod :pubdate('2010-07-29T08:10:38Z') :type<note> :tags<'OSCON'>
+=TITLE Speaker Slides & Video: #OSCON 2010, The O'Reilly Open Source Convention - O'Reilly Conferences, July 19 - 23, 2010, Portland, OR
 
 =begin DESCRIPTION
 

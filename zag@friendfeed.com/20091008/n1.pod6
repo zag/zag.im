@@ -1,5 +1,5 @@
-=begin pod :pubdate('2009-10-08T11:52:42Z') :type<note> :tags<java vim>
-=NAME От #java быстро устают руки в #vim
+=begin pod :pubdate('2009-10-08T11:52:42Z') :type<note> :tags<'java', 'vim'>
+=TITLE От #java быстро устают руки в #vim
 
 =begin DESCRIPTION
 

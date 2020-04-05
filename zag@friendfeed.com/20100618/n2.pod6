@@ -1,5 +1,5 @@
 =begin pod :pubdate('2010-06-18T09:41:18Z') :type<note> 
-=NAME Logstalgia (aka ApachePong) is a website access log visualization tool.
+=TITLE Logstalgia (aka ApachePong) is a website access log visualization tool.
 
 =begin DESCRIPTION
 

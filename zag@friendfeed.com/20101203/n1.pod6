@@ -1,5 +1,5 @@
-=begin pod :pubdate('2010-12-03T19:01:10Z') :type<note> :tags<perl6>
-=NAME Update FreeBSD ports to Parrot 2.10.1 and lang/rakudo  to Rakudo Star 2010.11 #perl6  (send PR) http://rakudoport.sourceforge.net/
+=begin pod :pubdate('2010-12-03T19:01:10Z') :type<note> :tags<'perl6'>
+=TITLE Update FreeBSD ports to Parrot 2.10.1 and lang/rakudo  to Rakudo Star 2010.11 #perl6  (send PR) http://rakudoport.sourceforge.net/
 
 =begin DESCRIPTION
 

@@ -1,5 +1,5 @@
-=begin pod :pubdate('2009-07-28T06:56:42Z') :type<note> :tags<19 rakudo perl6 freebsd>
-=NAME Updated rakudoport to Parrot 1.4.0 and Rakudo #19("Chicago") #rakudo #perl6 #freebsd http://rakudoport.sourceforge.net/
+=begin pod :pubdate('2009-07-28T06:56:42Z') :type<note> :tags<'19', 'rakudo', 'perl6', 'freebsd'>
+=TITLE Updated rakudoport to Parrot 1.4.0 and Rakudo #19("Chicago") #rakudo #perl6 #freebsd http://rakudoport.sourceforge.net/
 
 =begin DESCRIPTION
 

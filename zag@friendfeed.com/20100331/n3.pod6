@@ -1,5 +1,5 @@
 =begin pod :pubdate('2010-03-31T11:00:25Z') :type<note> 
-=NAME День свободных документов
+=TITLE День свободных документов
 
 =begin DESCRIPTION
 

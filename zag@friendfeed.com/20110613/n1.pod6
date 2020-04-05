@@ -1,5 +1,5 @@
-=begin pod :pubdate('2011-06-13T01:44:39Z') :type<note> :tags<golang>
-=NAME RT @hanszeir: OpenPGP support in #golang http://t.co/qlp7B8H
+=begin pod :pubdate('2011-06-13T01:44:39Z') :type<note> :tags<'golang'>
+=TITLE RT @hanszeir: OpenPGP support in #golang http://t.co/qlp7B8H
 
 =begin DESCRIPTION
 

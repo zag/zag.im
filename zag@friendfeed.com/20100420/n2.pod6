@@ -1,5 +1,5 @@
-=begin pod :pubdate('2010-04-20T07:47:27Z') :type<note> :tags<ipad>
-=NAME TweetDeck (for #ipad)
+=begin pod :pubdate('2010-04-20T07:47:27Z') :type<note> :tags<'ipad'>
+=TITLE TweetDeck (for #ipad)
 
 =begin DESCRIPTION
 

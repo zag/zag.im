@@ -1,5 +1,5 @@
 =begin pod :pubdate('2011-08-04T07:00:43Z') :type<note> 
-=NAME Open Source Textbooks
+=TITLE Open Source Textbooks
 
 =begin DESCRIPTION
 

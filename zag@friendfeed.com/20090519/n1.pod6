@@ -1,5 +1,5 @@
-=begin pod :pubdate('2009-05-19T08:47:01Z') :type<note> :tags<russian dukenukem>
-=NAME 12-year Duke Nukem saga #russian #dukenukem : http://lenta.ru/news/2009/05/18/dnf/
+=begin pod :pubdate('2009-05-19T08:47:01Z') :type<note> :tags<'russian', 'dukenukem'>
+=TITLE 12-year Duke Nukem saga #russian #dukenukem : http://lenta.ru/news/2009/05/18/dnf/
 
 =begin DESCRIPTION
 

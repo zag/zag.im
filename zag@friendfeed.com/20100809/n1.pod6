@@ -1,5 +1,5 @@
 =begin pod :pubdate('2010-08-09T06:47:23Z') :type<note> 
-=NAME TorrentReactor Buys and Renames Russian Town. Есть теперь такой город.
+=TITLE TorrentReactor Buys and Renames Russian Town. Есть теперь такой город.
 
 =begin DESCRIPTION
 

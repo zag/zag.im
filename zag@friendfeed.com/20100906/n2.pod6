@@ -1,5 +1,5 @@
 =begin pod :pubdate('2010-09-06T08:03:02Z') :type<note> 
-=NAME Мемовский салат/when memes unite
+=TITLE Мемовский салат/when memes unite
 
 =begin DESCRIPTION
 

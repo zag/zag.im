@@ -1,5 +1,5 @@
 =begin pod :pubdate('2009-05-19T07:10:33Z') :type<note> 
-=NAME @AnatolyUnix В чем неправильность ?
+=TITLE @AnatolyUnix В чем неправильность ?
 
 =begin DESCRIPTION
 

@@ -1,5 +1,5 @@
 =begin pod :pubdate('2011-02-23T06:40:41Z') :type<note> 
-=NAME RT @newsycombinator: How We Made Github Fast http://j.mp/bSZz3U
+=TITLE RT @newsycombinator: How We Made Github Fast http://j.mp/bSZz3U
 
 =begin DESCRIPTION
 

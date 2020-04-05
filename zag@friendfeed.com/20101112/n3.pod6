@@ -1,5 +1,5 @@
-=begin pod :pubdate('2010-11-12T14:31:52Z') :type<note> :tags<gddru>
-=NAME По совету @tamerlan311 отложу покупку телефона на базе android. #gddru
+=begin pod :pubdate('2010-11-12T14:31:52Z') :type<note> :tags<'gddru'>
+=TITLE По совету @tamerlan311 отложу покупку телефона на базе android. #gddru
 
 =begin DESCRIPTION
 

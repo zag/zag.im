@@ -1,5 +1,5 @@
-=begin pod :pubdate('2015-04-07T20:43:57Z') :type<note> :tags<lastselfie>
-=NAME алоха #lastselfie
+=begin pod :pubdate('2015-04-07T20:43:57Z') :type<note> :tags<'lastselfie'>
+=TITLE алоха #lastselfie
 
 =begin DESCRIPTION
 

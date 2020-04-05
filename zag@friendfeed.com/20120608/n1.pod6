@@ -1,5 +1,5 @@
-=begin pod :pubdate('2012-06-08T18:26:57Z') :type<note> :tags<lvee>
-=NAME RT @max_posedon: #lvee RackTables - хранение информации о серверах - удобнее любых wiki!
+=begin pod :pubdate('2012-06-08T18:26:57Z') :type<note> :tags<'lvee'>
+=TITLE RT @max_posedon: #lvee RackTables - хранение информации о серверах - удобнее любых wiki!
 
 =begin DESCRIPTION
 

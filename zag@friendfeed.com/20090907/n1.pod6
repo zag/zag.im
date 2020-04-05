@@ -1,5 +1,5 @@
 =begin pod :pubdate('2009-09-07T09:57:24Z') :type<note> 
-=NAME @AnatolyUnix И опыт сын ошибок трудных и гений парадоксов друг (С) А.С. ПУШКИН
+=TITLE @AnatolyUnix И опыт сын ошибок трудных и гений парадоксов друг (С) А.С. ПУШКИН
 
 =begin DESCRIPTION
 

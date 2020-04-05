@@ -1,5 +1,5 @@
-=begin pod :pubdate('2011-01-05T15:34:59Z') :type<note> :tags<qwerty HTC android>
-=NAME А теперь еще и с джойстиком #qwerty #HTC. Sprint announces the HTC Shift 4G  available January 9th. http://bit.ly/i3R8rV #android (via http://ff.im/wj6YX)
+=begin pod :pubdate('2011-01-05T15:34:59Z') :type<note> :tags<'qwerty', 'HTC', 'android'>
+=TITLE А теперь еще и с джойстиком #qwerty #HTC. Sprint announces the HTC Shift 4G  available January 9th. http://bit.ly/i3R8rV #android (via http://ff.im/wj6YX)
 
 =begin DESCRIPTION
 

@@ -1,5 +1,5 @@
 =begin pod :pubdate('2010-10-18T08:00:17Z') :type<note> 
-=NAME Fwd: Fan-made Duke 3D Unreal Engine 3 update is now officially licensed - http://arstechnica.com/gaming/news/2010/10/fan-made-duke-3d-update-is-now-official-blessed-by-creators.ars?utm_source=rss&utm_medium=rss&utm_campaign=rss (via http://ff.im/scSEK)
+=TITLE Fwd: Fan-made Duke 3D Unreal Engine 3 update is now officially licensed - http://arstechnica.com/gaming/news/2010/10/fan-made-duke-3d-update-is-now-official-blessed-by-creators.ars?utm_source=rss&utm_medium=rss&utm_campaign=rss (via http://ff.im/scSEK)
 
 =begin DESCRIPTION
 

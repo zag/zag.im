@@ -1,5 +1,5 @@
 =begin pod :pubdate('2010-09-15T07:06:54Z') :type<note> 
-=NAME Has looked through 130 series. Now I know "How it made" !!
+=TITLE Has looked through 130 series. Now I know "How it made" !!
 
 =begin DESCRIPTION
 

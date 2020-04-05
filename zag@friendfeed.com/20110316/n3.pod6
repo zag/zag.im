@@ -1,5 +1,5 @@
-=begin pod :pubdate('2011-03-16T06:07:53Z') :type<note> :tags<Perl>
-=NAME Facebook Authentication with #Perl and Facebook::Graph - Perl.com
+=begin pod :pubdate('2011-03-16T06:07:53Z') :type<note> :tags<'Perl'>
+=TITLE Facebook Authentication with #Perl and Facebook::Graph - Perl.com
 
 =begin DESCRIPTION
 

@@ -1,5 +1,5 @@
 =begin pod :pubdate('2010-04-05T09:41:24Z') :type<note> 
-=NAME 10 Google Chrome Extensions for Boosting Your Productivity
+=TITLE 10 Google Chrome Extensions for Boosting Your Productivity
 
 =begin DESCRIPTION
 

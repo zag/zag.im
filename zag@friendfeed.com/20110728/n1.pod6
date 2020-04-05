@@ -1,5 +1,5 @@
-=begin pod :pubdate('2011-07-28T09:44:35Z') :type<note> :tags<perl6>
-=NAME Feature comparison of Perl 6 compilers #perl6
+=begin pod :pubdate('2011-07-28T09:44:35Z') :type<note> :tags<'perl6'>
+=TITLE Feature comparison of Perl 6 compilers #perl6
 
 =begin DESCRIPTION
 

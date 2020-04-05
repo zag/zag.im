@@ -1,5 +1,5 @@
 =begin pod :pubdate('2011-10-10T09:55:53Z') :type<note> 
-=NAME Google debuts Dart, a JavaScript alternative | Deep Tech - CNET News
+=TITLE Google debuts Dart, a JavaScript alternative | Deep Tech - CNET News
 
 =begin DESCRIPTION
 

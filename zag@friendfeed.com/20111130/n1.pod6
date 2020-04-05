@@ -1,5 +1,5 @@
 =begin pod :pubdate('2011-11-30T05:51:15Z') :type<note> 
-=NAME Browse the rankings · Programming Languages
+=TITLE Browse the rankings · Programming Languages
 
 =begin DESCRIPTION
 

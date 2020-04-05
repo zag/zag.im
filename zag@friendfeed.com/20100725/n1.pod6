@@ -1,5 +1,5 @@
 =begin pod :pubdate('2010-07-25T07:51:20Z') :type<note> 
-=NAME InfoQ: Measuring and Comparing the Performance of 5 Cloud Platforms
+=TITLE InfoQ: Measuring and Comparing the Performance of 5 Cloud Platforms
 
 =begin DESCRIPTION
 

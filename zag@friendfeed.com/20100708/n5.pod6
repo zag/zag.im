@@ -1,5 +1,5 @@
 =begin pod :pubdate('2010-07-08T07:55:22Z') :type<note> 
-=NAME Absolut hacker
+=TITLE Absolut hacker
 
 =begin DESCRIPTION
 

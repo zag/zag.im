@@ -1,5 +1,5 @@
-=begin pod :pubdate('2011-06-04T09:12:52Z') :type<note> :tags<devconf_ru>
-=NAME Валидация структур входных данных. Интересно в контексте реализаций публичных api. #devconf_ru
+=begin pod :pubdate('2011-06-04T09:12:52Z') :type<note> :tags<'devconf_ru'>
+=TITLE Валидация структур входных данных. Интересно в контексте реализаций публичных api. #devconf_ru
 
 =begin DESCRIPTION
 

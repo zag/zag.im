@@ -1,5 +1,5 @@
 =begin pod :pubdate('2010-12-24T09:11:17Z') :type<note> 
-=NAME Ты мне больше не сын !
+=TITLE Ты мне больше не сын !
 
 =begin DESCRIPTION
 

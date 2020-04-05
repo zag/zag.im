@@ -1,5 +1,5 @@
 =begin pod :pubdate('2009-05-27T06:59:42Z') :type<note> 
-=NAME RT: @linux_org_ru: lor nginx-0.7.59: nginx now have support for Windows ?!http://tinyurl.com/ocnn5d
+=TITLE RT: @linux_org_ru: lor nginx-0.7.59: nginx now have support for Windows ?!http://tinyurl.com/ocnn5d
 
 =begin DESCRIPTION
 

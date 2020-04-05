@@ -1,5 +1,5 @@
 =begin pod :pubdate('2010-03-17T09:53:12Z') :type<note> 
-=NAME RT @perlbuzz: Benchmarking DBIx::Class vs. plain DBI http://bit.ly/9ZeVi9
+=TITLE RT @perlbuzz: Benchmarking DBIx::Class vs. plain DBI http://bit.ly/9ZeVi9
 
 =begin DESCRIPTION
 

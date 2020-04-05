@@ -1,5 +1,5 @@
 =begin pod :pubdate('2010-08-21T10:58:14Z') :type<note> 
-=NAME Фетиш шамана для лечебного камлания
+=TITLE Фетиш шамана для лечебного камлания
 
 =begin DESCRIPTION
 

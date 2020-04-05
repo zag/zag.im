@@ -1,5 +1,5 @@
-=begin pod :pubdate('2009-05-15T11:57:04Z') :type<note> :tags<perl YAPCRussia>
-=NAME YAPC::Russia one day left. About 230 participants. #perl #YAPCRussia
+=begin pod :pubdate('2009-05-15T11:57:04Z') :type<note> :tags<'perl', 'YAPCRussia'>
+=TITLE YAPC::Russia one day left. About 230 participants. #perl #YAPCRussia
 
 =begin DESCRIPTION
 

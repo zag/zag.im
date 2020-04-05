@@ -1,5 +1,5 @@
-=begin pod :pubdate('2011-07-01T11:04:34Z') :type<note> :tags<lvee>
-=NAME Звук в linux есть. Доклад про создание музыки под linux. Особенно счастливы музыканты под последней ubuntu #lvee
+=begin pod :pubdate('2011-07-01T11:04:34Z') :type<note> :tags<'lvee'>
+=TITLE Звук в linux есть. Доклад про создание музыки под linux. Особенно счастливы музыканты под последней ubuntu #lvee
 
 =begin DESCRIPTION
 

@@ -1,5 +1,5 @@
 =begin pod :pubdate('2009-10-17T10:05:56Z') :type<note> 
-=NAME Сейчас идет второй  perl воркшоп в Минске. http://event.perlbelarus.org/minsk2009/schedule
+=TITLE Сейчас идет второй  perl воркшоп в Минске. http://event.perlbelarus.org/minsk2009/schedule
 
 =begin DESCRIPTION
 

@@ -1,5 +1,5 @@
 =begin pod :pubdate('2010-02-22T09:49:46Z') :type<note> 
-=NAME Как установить клиент NFS для Windows.
+=TITLE Как установить клиент NFS для Windows.
 
 =begin DESCRIPTION
 

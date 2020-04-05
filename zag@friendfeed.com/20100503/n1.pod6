@@ -1,5 +1,5 @@
-=begin pod :pubdate('2010-05-03T18:02:12Z') :type<note> :tags<28 rakudo perl6>
-=NAME #28 (moscow.pm) the version #rakudo released  in Lenin's 140 birthday
+=begin pod :pubdate('2010-05-03T18:02:12Z') :type<note> :tags<'28', 'rakudo', 'perl6'>
+=TITLE #28 (moscow.pm) the version #rakudo released  in Lenin's 140 birthday
 (on April, 22nd).
 Lenin is the follower of communism. #perl6 it is connected with
 communism: means of production belong to workers. (pel6 is free,

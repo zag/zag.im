@@ -1,5 +1,5 @@
 =begin pod :pubdate('2011-04-09T06:01:26Z') :type<note> 
-=NAME Node.js and the Javascript Age
+=TITLE Node.js and the Javascript Age
 
 =begin DESCRIPTION
 

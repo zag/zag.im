@@ -1,5 +1,5 @@
-=begin pod :pubdate('2011-07-01T12:17:09Z') :type<note> :tags<lvee>
-=NAME Еще майки с #lvee
+=begin pod :pubdate('2011-07-01T12:17:09Z') :type<note> :tags<'lvee'>
+=TITLE Еще майки с #lvee
 
 =begin DESCRIPTION
 

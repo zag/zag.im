@@ -1,5 +1,5 @@
-=begin pod :pubdate('2010-05-23T08:48:23Z') :type<note> :tags<perl6>
-=NAME Пишу о perl6's pod в формате #perl6's pod !
+=begin pod :pubdate('2010-05-23T08:48:23Z') :type<note> :tags<'perl6'>
+=TITLE Пишу о perl6's pod в формате #perl6's pod !
 
 =begin DESCRIPTION
 

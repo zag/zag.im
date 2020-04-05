@@ -1,5 +1,5 @@
-=begin pod :pubdate('2011-10-20T13:34:00Z') :type<note> :tags<perl6>
-=NAME Теперь я в тиме. В тиме #perl6.
+=begin pod :pubdate('2011-10-20T13:34:00Z') :type<note> :tags<'perl6'>
+=TITLE Теперь я в тиме. В тиме #perl6.
 
 =begin DESCRIPTION
 

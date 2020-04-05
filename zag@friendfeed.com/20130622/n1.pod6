@@ -1,5 +1,5 @@
 =begin pod :pubdate('2013-06-22T04:00:48Z') :type<note> 
-=NAME Happy Birthday FreeBSD! FreeBSD celebrated its 20th birthday today. On June 19, 1993, Jordan Hubbard, Rod Grimes, and David Greenman announced to the world the creation of their new fork of the BSD 4.3 operating system.
+=TITLE Happy Birthday FreeBSD! FreeBSD celebrated its 20th birthday today. On June 19, 1993, Jordan Hubbard, Rod Grimes, and David Greenman announced to the world the creation of their new fork of the BSD 4.3 operating system.
 
 =begin DESCRIPTION
 

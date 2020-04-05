@@ -1,5 +1,5 @@
 =begin pod :pubdate('2010-09-05T09:57:49Z') :type<note> 
-=NAME acronym DWIM stands of  "Do What I Mean" !  - Wikipedia, the free encyclopedia
+=TITLE acronym DWIM stands of  "Do What I Mean" !  - Wikipedia, the free encyclopedia
 
 =begin DESCRIPTION
 

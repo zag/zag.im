@@ -1,5 +1,5 @@
-=begin pod :pubdate('2010-03-09T18:47:06Z') :type<note> :tags<ps3>
-=NAME Completed: Uncharted 2:Among Thieves #ps3
+=begin pod :pubdate('2010-03-09T18:47:06Z') :type<note> :tags<'ps3'>
+=TITLE Completed: Uncharted 2:Among Thieves #ps3
 
 =begin DESCRIPTION
 

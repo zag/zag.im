@@ -1,5 +1,5 @@
 =begin pod :pubdate('2011-03-06T07:24:44Z') :type<note> 
-=NAME Ninja Moped - Insert Coin
+=TITLE Ninja Moped - Insert Coin
 
 =begin DESCRIPTION
 

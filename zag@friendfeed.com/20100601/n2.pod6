@@ -1,5 +1,5 @@
 =begin pod :pubdate('2010-06-01T08:03:09Z') :type<note> 
-=NAME Летняя обувь от Nike
+=TITLE Летняя обувь от Nike
 
 =begin DESCRIPTION
 

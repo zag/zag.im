@@ -1,5 +1,5 @@
 =begin pod :pubdate('2011-12-15T21:29:19Z') :type<note> 
-=NAME Batman: Arkham City - PS3 - собираюсь на след. неделе. Просто поиграть ...
+=TITLE Batman: Arkham City - PS3 - собираюсь на след. неделе. Просто поиграть ...
 
 =begin DESCRIPTION
 

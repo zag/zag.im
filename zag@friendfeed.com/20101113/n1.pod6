@@ -1,5 +1,5 @@
 =begin pod :pubdate('2010-11-13T07:57:44Z') :type<note> 
-=NAME highload.ru закончился !
+=TITLE highload.ru закончился !
 
 =begin DESCRIPTION
 

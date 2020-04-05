@@ -1,5 +1,5 @@
 =begin pod :pubdate('2010-08-16T11:00:03Z') :type<note> 
-=NAME Perl Vogue - Perl  fashion  magazine (http://www.slideshare.net/davorg/perl-vogue ),  Dave Cross
+=TITLE Perl Vogue - Perl  fashion  magazine (http://www.slideshare.net/davorg/perl-vogue ),  Dave Cross
 
 =begin DESCRIPTION
 

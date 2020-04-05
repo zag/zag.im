@@ -1,5 +1,5 @@
 =begin pod :pubdate('2011-10-11T09:59:20Z') :type<note> 
-=NAME Note for followers
+=TITLE Note for followers
 
 =begin DESCRIPTION
 

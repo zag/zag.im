@@ -1,5 +1,5 @@
-=begin pod :pubdate('2011-07-01T18:52:15Z') :type<note> :tags<lvee>
-=NAME Классная коллекция !!! "@dvankevich: @zagru http://t.co/eILEscn #lvee вот моя коллекция надписей :)"
+=begin pod :pubdate('2011-07-01T18:52:15Z') :type<note> :tags<'lvee'>
+=TITLE Классная коллекция !!! "@dvankevich: @zagru http://t.co/eILEscn #lvee вот моя коллекция надписей :)"
 
 =begin DESCRIPTION
 

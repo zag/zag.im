@@ -1,5 +1,5 @@
-=begin pod :pubdate('2010-10-01T08:38:52Z') :type<note> :tags<yac2010>
-=NAME Игры на #yac2010
+=begin pod :pubdate('2010-10-01T08:38:52Z') :type<note> :tags<'yac2010'>
+=TITLE Игры на #yac2010
 
 =begin DESCRIPTION
 

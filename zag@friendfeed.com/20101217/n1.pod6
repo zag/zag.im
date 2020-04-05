@@ -1,5 +1,5 @@
-=begin pod :pubdate('2010-12-17T13:54:35Z') :type<note> :tags<FreeBSD>
-=NAME For others, like me, with older disks created by the broken sysinstall dangerously dedicated mode, here is a link into the #FreeBSD mail archives describing how to recover the partitions.
+=begin pod :pubdate('2010-12-17T13:54:35Z') :type<note> :tags<'FreeBSD'>
+=TITLE For others, like me, with older disks created by the broken sysinstall dangerously dedicated mode, here is a link into the #FreeBSD mail archives describing how to recover the partitions.
 http://www.pubbs.net/freebsd/200912/39499/
 Basically,
 dd if=/dev/zero of=/dev/ad# count=1 oseek=1  http://bit.ly/eXAhHb

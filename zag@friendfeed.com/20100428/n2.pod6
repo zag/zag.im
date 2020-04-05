@@ -1,5 +1,5 @@
-=begin pod :pubdate('2010-04-28T11:17:44Z') :type<note> :tags<html5>
-=NAME The State of Web Development 2010 – Web Directions #html5
+=begin pod :pubdate('2010-04-28T11:17:44Z') :type<note> :tags<'html5'>
+=TITLE The State of Web Development 2010 – Web Directions #html5
 
 =begin DESCRIPTION
 

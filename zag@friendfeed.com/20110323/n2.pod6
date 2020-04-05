@@ -1,5 +1,5 @@
-=begin pod :pubdate('2011-03-23T08:19:04Z') :type<note> :tags<Firefox4>
-=NAME #Firefox4 after party
+=begin pod :pubdate('2011-03-23T08:19:04Z') :type<note> :tags<'Firefox4'>
+=TITLE #Firefox4 after party
 
 =begin DESCRIPTION
 

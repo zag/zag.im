@@ -1,5 +1,5 @@
-=begin pod :pubdate('2011-07-02T10:40:05Z') :type<note> :tags<lvee>
-=NAME Пример бизнеса с opensource кодом. #lvee
+=begin pod :pubdate('2011-07-02T10:40:05Z') :type<note> :tags<'lvee'>
+=TITLE Пример бизнеса с opensource кодом. #lvee
 
 =begin DESCRIPTION
 

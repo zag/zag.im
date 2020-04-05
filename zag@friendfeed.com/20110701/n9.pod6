@@ -1,5 +1,5 @@
-=begin pod :pubdate('2011-07-01T09:06:01Z') :type<note> :tags<lvee>
-=NAME Cell.js #lvee
+=begin pod :pubdate('2011-07-01T09:06:01Z') :type<note> :tags<'lvee'>
+=TITLE Cell.js #lvee
 
 =begin DESCRIPTION
 

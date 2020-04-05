@@ -1,5 +1,5 @@
-=begin pod :pubdate('2009-12-23T07:19:43Z') :type<note> :tags<gdd09ru>
-=NAME Видеоматериалы и презентации с конференции  Google Developer Day (Москва) #gdd09ru  http://code.google.com/intl/ru/events/developerday/2009/sessions.html
+=begin pod :pubdate('2009-12-23T07:19:43Z') :type<note> :tags<'gdd09ru'>
+=TITLE Видеоматериалы и презентации с конференции  Google Developer Day (Москва) #gdd09ru  http://code.google.com/intl/ru/events/developerday/2009/sessions.html
 
 =begin DESCRIPTION
 

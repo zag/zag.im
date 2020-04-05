@@ -1,5 +1,5 @@
 =begin pod :pubdate('2010-12-09T05:51:26Z') :type<note> 
-=NAME Batman owned
+=TITLE Batman owned
 
 =begin DESCRIPTION
 

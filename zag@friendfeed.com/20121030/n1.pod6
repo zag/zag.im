@@ -1,5 +1,5 @@
 =begin pod :pubdate('2012-10-30T15:35:40Z') :type<note> 
-=NAME Если бы у меня был домен .mail, я бы отдал ru.mail бесплатно
+=TITLE Если бы у меня был домен .mail, я бы отдал ru.mail бесплатно
 
 =begin DESCRIPTION
 

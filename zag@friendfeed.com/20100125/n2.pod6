@@ -1,5 +1,5 @@
 =begin pod :pubdate('2010-01-25T09:15:13Z') :type<note> 
-=NAME Empire Building: Visualizing Google, Microsoft, Apple, and Yahoo - Apple - Gizmodo
+=TITLE Empire Building: Visualizing Google, Microsoft, Apple, and Yahoo - Apple - Gizmodo
 
 =begin DESCRIPTION
 

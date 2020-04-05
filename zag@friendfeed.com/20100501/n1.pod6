@@ -1,5 +1,5 @@
 =begin pod :pubdate('2010-05-01T09:58:14Z') :type<note> 
-=NAME RT @miyagawa: IT Crowd Season 4! http://bit.ly/bUzmIn
+=TITLE RT @miyagawa: IT Crowd Season 4! http://bit.ly/bUzmIn
 
 =begin DESCRIPTION
 

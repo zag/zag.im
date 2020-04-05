@@ -1,5 +1,5 @@
-=begin pod :pubdate('2010-08-31T09:17:11Z') :type<note> :tags<perl6>
-=NAME People of Perl 6: Jonathan Worthington. ЖЗЛ #perl6
+=begin pod :pubdate('2010-08-31T09:17:11Z') :type<note> :tags<'perl6'>
+=TITLE People of Perl 6: Jonathan Worthington. ЖЗЛ #perl6
 
 =begin DESCRIPTION
 

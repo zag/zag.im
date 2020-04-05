@@ -1,5 +1,5 @@
 =begin pod :pubdate('2009-10-26T13:38:15Z') :type<note> 
-=NAME Google Docs Batch Export/backup all your docs !
+=TITLE Google Docs Batch Export/backup all your docs !
 
 =begin DESCRIPTION
 

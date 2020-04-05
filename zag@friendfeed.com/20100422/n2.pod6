@@ -1,5 +1,5 @@
-=begin pod :pubdate('2010-04-22T08:48:06Z') :type<note> :tags<facebook>
-=NAME #facebook подготовился основательно. Элементы интерфеса Open Graph API поддерживают русский.
+=begin pod :pubdate('2010-04-22T08:48:06Z') :type<note> :tags<'facebook'>
+=TITLE #facebook подготовился основательно. Элементы интерфеса Open Graph API поддерживают русский.
 
 =begin DESCRIPTION
 

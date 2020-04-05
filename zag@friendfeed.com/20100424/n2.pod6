@@ -1,5 +1,5 @@
-=begin pod :pubdate('2010-04-24T18:05:47Z') :type<note> :tags<dexter>
-=NAME Декстер Морган снова в строю. #dexter
+=begin pod :pubdate('2010-04-24T18:05:47Z') :type<note> :tags<'dexter'>
+=TITLE Декстер Морган снова в строю. #dexter
 
 =begin DESCRIPTION
 

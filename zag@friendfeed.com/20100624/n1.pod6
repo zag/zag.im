@@ -1,5 +1,5 @@
 =begin pod :pubdate('2010-06-24T18:38:55Z') :type<note> 
-=NAME Fwd: "How to Access the Internet (A Guide from 2025)" via (http://ff.im/mE1Km)
+=TITLE Fwd: "How to Access the Internet (A Guide from 2025)" via (http://ff.im/mE1Km)
 
 =begin DESCRIPTION
 

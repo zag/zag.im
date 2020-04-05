@@ -1,5 +1,5 @@
-=begin pod :pubdate('2010-01-15T14:06:36Z') :type<note> :tags<freebsd>
-=NAME revert to 7.2-STABLE from 8-RELENG #freebsd due USB media not found at boot.
+=begin pod :pubdate('2010-01-15T14:06:36Z') :type<note> :tags<'freebsd'>
+=TITLE revert to 7.2-STABLE from 8-RELENG #freebsd due USB media not found at boot.
 
 =begin DESCRIPTION
 

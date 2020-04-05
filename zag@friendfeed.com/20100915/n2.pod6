@@ -1,5 +1,5 @@
 =begin pod :pubdate('2010-09-15T07:54:41Z') :type<note> 
-=NAME Fish day
+=TITLE Fish day
 
 =begin DESCRIPTION
 

@@ -1,5 +1,5 @@
 =begin pod :pubdate('2011-02-08T20:03:07Z') :type<note> 
-=NAME Using Git to manage a web site
+=TITLE Using Git to manage a web site
 
 =begin DESCRIPTION
 

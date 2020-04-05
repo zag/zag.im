@@ -1,5 +1,5 @@
 =begin pod :pubdate('2011-01-18T15:05:41Z') :type<note> 
-=NAME Gmail Soap / Самое чистое мыло  - http://juliasegal.tumblr.com/post/2788927364 (via http://ff.im/wAWeH)
+=TITLE Gmail Soap / Самое чистое мыло  - http://juliasegal.tumblr.com/post/2788927364 (via http://ff.im/wAWeH)
 
 =begin DESCRIPTION
 

@@ -1,5 +1,5 @@
 =begin pod :pubdate('2011-02-08T19:52:57Z') :type<note> 
-=NAME Softbank Invests $250 MM In China’s PPLive: Online Video News
+=TITLE Softbank Invests $250 MM In China’s PPLive: Online Video News
 
 =begin DESCRIPTION
 

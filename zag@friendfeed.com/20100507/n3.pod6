@@ -1,5 +1,5 @@
-=begin pod :pubdate('2010-05-07T13:01:12Z') :type<note> :tags<html5>
-=NAME Scribd CTO: “We Are Scrapping Flash And Betting The Company On #html5 ″ (Exclusive Screenshots)
+=begin pod :pubdate('2010-05-07T13:01:12Z') :type<note> :tags<'html5'>
+=TITLE Scribd CTO: “We Are Scrapping Flash And Betting The Company On #html5 ″ (Exclusive Screenshots)
 
 =begin DESCRIPTION
 

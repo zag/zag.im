@@ -1,5 +1,5 @@
 =begin pod :pubdate('2010-01-24T09:55:35Z') :type<note> 
-=NAME see two and a half men
+=TITLE see two and a half men
 
 =begin DESCRIPTION
 

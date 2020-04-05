@@ -1,5 +1,5 @@
 =begin pod :pubdate('2011-12-15T17:53:07Z') :type<note> 
-=NAME RT @pedromelo: Perlito http://t.co/Ou3PQIj0 a compiler for a useful subset of Perl6 - generates perl5 or Javascript - web demo: http://t.co/ooyW09yQ
+=TITLE RT @pedromelo: Perlito http://t.co/Ou3PQIj0 a compiler for a useful subset of Perl6 - generates perl5 or Javascript - web demo: http://t.co/ooyW09yQ
 
 =begin DESCRIPTION
 

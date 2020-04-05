@@ -1,5 +1,5 @@
 =begin pod :pubdate('2011-06-06T11:48:30Z') :type<note> 
-=NAME The MessagePack Project
+=TITLE The MessagePack Project
 
 =begin DESCRIPTION
 

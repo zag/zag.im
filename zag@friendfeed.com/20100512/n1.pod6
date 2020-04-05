@@ -1,5 +1,5 @@
 =begin pod :pubdate('2010-05-12T08:20:35Z') :type<note> 
-=NAME 8 Websites You Need to Stop Building
+=TITLE 8 Websites You Need to Stop Building
 
 =begin DESCRIPTION
 

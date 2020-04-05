@@ -1,5 +1,5 @@
-=begin pod :pubdate('2010-07-30T07:24:05Z') :type<note> :tags<perl6 freebsd>
-=NAME Submit new port of "Rakudo star" to FreeBSD ports tree. #perl6 #freebsd
+=begin pod :pubdate('2010-07-30T07:24:05Z') :type<note> :tags<'perl6', 'freebsd'>
+=TITLE Submit new port of "Rakudo star" to FreeBSD ports tree. #perl6 #freebsd
 
 =begin DESCRIPTION
 

@@ -1,5 +1,5 @@
 =begin pod :pubdate('2010-12-17T07:21:02Z') :type<note> 
-=NAME RT @adactio: curl https://{your username}:{your password}@api.del.icio.us/v1/posts/all to get an XML file of your Delicious bookmarks.
+=TITLE RT @adactio: curl https://{your username}:{your password}@api.del.icio.us/v1/posts/all to get an XML file of your Delicious bookmarks.
 
 =begin DESCRIPTION
 

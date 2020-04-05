@@ -1,5 +1,5 @@
 =begin pod :pubdate('2010-03-18T08:36:52Z') :type<note> 
-=NAME Bing - New Bing Maps Application: WorldWide Telescope
+=TITLE Bing - New Bing Maps Application: WorldWide Telescope
 
 =begin DESCRIPTION
 

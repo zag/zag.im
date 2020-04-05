@@ -1,5 +1,5 @@
-=begin pod :pubdate('2011-01-05T20:43:44Z') :type<note> :tags<Vim>
-=NAME Всё о #Vim: Смена цветовой схемы в зависимости от времени суток
+=begin pod :pubdate('2011-01-05T20:43:44Z') :type<note> :tags<'Vim'>
+=TITLE Всё о #Vim: Смена цветовой схемы в зависимости от времени суток
 
 =begin DESCRIPTION
 

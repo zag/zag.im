@@ -1,5 +1,5 @@
-=begin pod :pubdate('2012-02-19T17:30:10Z') :type<note> :tags<lvee>
-=NAME Зимняя #lvee 2012 - http://t.co/0AKQn0zs
+=begin pod :pubdate('2012-02-19T17:30:10Z') :type<note> :tags<'lvee'>
+=TITLE Зимняя #lvee 2012 - http://t.co/0AKQn0zs
 
 =begin DESCRIPTION
 

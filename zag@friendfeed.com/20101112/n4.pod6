@@ -1,5 +1,5 @@
 =begin pod :pubdate('2010-11-12T05:07:56Z') :type<note> 
-=NAME An interview with James Gosling : The Setup
+=TITLE An interview with James Gosling : The Setup
 
 =begin DESCRIPTION
 

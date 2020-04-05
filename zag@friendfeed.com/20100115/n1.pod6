@@ -1,5 +1,5 @@
-=begin pod :pubdate('2010-01-15T14:08:28Z') :type<note> :tags<freebsd>
-=NAME Попробовал 8-STABLE #freebsd : паникует при загрузке с USB. Диагноз Саахова подтверждатся: http://tinyurl.com/y8k4f7v
+=begin pod :pubdate('2010-01-15T14:08:28Z') :type<note> :tags<'freebsd'>
+=TITLE Попробовал 8-STABLE #freebsd : паникует при загрузке с USB. Диагноз Саахова подтверждатся: http://tinyurl.com/y8k4f7v
 
 =begin DESCRIPTION
 

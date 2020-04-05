@@ -1,5 +1,5 @@
 =begin pod :pubdate('2010-11-12T21:26:13Z') :type<note> 
-=NAME RT @mlane: A Beginner’s Introduction to HTTP and REST http://bit.ly/cdat66
+=TITLE RT @mlane: A Beginner’s Introduction to HTTP and REST http://bit.ly/cdat66
 
 =begin DESCRIPTION
 

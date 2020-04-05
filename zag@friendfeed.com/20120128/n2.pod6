@@ -1,5 +1,5 @@
-=begin pod :pubdate('2012-01-28T19:33:45Z') :type<note> :tags<perl6>
-=NAME Rakudo Star 2012.01 released #perl6.
+=begin pod :pubdate('2012-01-28T19:33:45Z') :type<note> :tags<'perl6'>
+=TITLE Rakudo Star 2012.01 released #perl6.
 
 =begin DESCRIPTION
 

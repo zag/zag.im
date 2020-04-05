@@ -1,5 +1,5 @@
-=begin pod :pubdate('2009-12-30T07:35:48Z') :type<note> :tags<avatarmovie>
-=NAME 10 Possible Sources of "Avatar" in Classic Science Fiction  #avatarmovie
+=begin pod :pubdate('2009-12-30T07:35:48Z') :type<note> :tags<'avatarmovie'>
+=TITLE 10 Possible Sources of "Avatar" in Classic Science Fiction  #avatarmovie
 
 =begin DESCRIPTION
 

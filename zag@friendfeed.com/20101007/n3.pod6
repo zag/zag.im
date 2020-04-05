@@ -1,5 +1,5 @@
 =begin pod :pubdate('2010-10-07T07:49:17Z') :type<note> 
-=NAME Reputation Systems  for Open Collaboration (google) / Репутационные системы http://research.google.com/pubs/archive/36757.pdf
+=TITLE Reputation Systems  for Open Collaboration (google) / Репутационные системы http://research.google.com/pubs/archive/36757.pdf
 
 =begin DESCRIPTION
 

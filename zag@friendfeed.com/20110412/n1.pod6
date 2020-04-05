@@ -1,5 +1,5 @@
-=begin pod :pubdate('2011-04-12T12:21:03Z') :type<note> :tags<nginx>
-=NAME Here we go! nginx-1.0.0 stable version has been released ! #nginx
+=begin pod :pubdate('2011-04-12T12:21:03Z') :type<note> :tags<'nginx'>
+=TITLE Here we go! nginx-1.0.0 stable version has been released ! #nginx
 
 =begin DESCRIPTION
 

@@ -1,5 +1,5 @@
-=begin pod :pubdate('2011-08-09T05:13:32Z') :type<note> :tags<perl>
-=NAME The Blog for  YAPC::NA #perl
+=begin pod :pubdate('2011-08-09T05:13:32Z') :type<note> :tags<'perl'>
+=TITLE The Blog for  YAPC::NA #perl
 
 =begin DESCRIPTION
 

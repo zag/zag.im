@@ -1,5 +1,5 @@
-=begin pod :pubdate('2010-02-22T11:19:00Z') :type<note> :tags<parrot rakudo>
-=NAME Latest  versions of #parrot (2.1.1) and   #rakudo ("Amsterdam")  now  available in freebsd ports ! http://www.freebsd.org/cgi/ports.cgi?query=parrot&stype=all
+=begin pod :pubdate('2010-02-22T11:19:00Z') :type<note> :tags<'parrot', 'rakudo'>
+=TITLE Latest  versions of #parrot (2.1.1) and   #rakudo ("Amsterdam")  now  available in freebsd ports ! http://www.freebsd.org/cgi/ports.cgi?query=parrot&stype=all
 
 =begin DESCRIPTION
 

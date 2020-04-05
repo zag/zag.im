@@ -1,5 +1,5 @@
 =begin pod :pubdate('2012-01-12T04:47:59Z') :type<note> 
-=NAME Axure | Features to create Wireframes, Prototypes, and Specifications
+=TITLE Axure | Features to create Wireframes, Prototypes, and Specifications
 
 =begin DESCRIPTION
 

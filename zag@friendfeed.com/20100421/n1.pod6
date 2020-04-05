@@ -1,5 +1,5 @@
-=begin pod :pubdate('2010-04-21T11:04:21Z') :type<note> :tags<html5>
-=NAME Click video to blow it up! #html5 http://craftymind.com/factory/html5video/CanvasVideo.html
+=begin pod :pubdate('2010-04-21T11:04:21Z') :type<note> :tags<'html5'>
+=TITLE Click video to blow it up! #html5 http://craftymind.com/factory/html5video/CanvasVideo.html
 
 =begin DESCRIPTION
 

@@ -1,5 +1,5 @@
 =begin pod :pubdate('2011-11-25T08:16:00Z') :type<note> 
-=NAME Fido7 - ddt.demos.ru:   "Пока полёт нормальный. Для топика можно заметить, что теперь это  jail в 8-ке, которая запущена в линуксовом KVM-е :-)) Да, и всё  это лежит на NetApp-е. [Bazinga!] " - http://groups.google.com/group/fido7.ru.unix.bsd/browse_thread/thread/d3dcb2a7db817360?hl=ru
+=TITLE Fido7 - ddt.demos.ru:   "Пока полёт нормальный. Для топика можно заметить, что теперь это  jail в 8-ке, которая запущена в линуксовом KVM-е :-)) Да, и всё  это лежит на NetApp-е. [Bazinga!] " - http://groups.google.com/group/fido7.ru.unix.bsd/browse_thread/thread/d3dcb2a7db817360?hl=ru
 
 =begin DESCRIPTION
 

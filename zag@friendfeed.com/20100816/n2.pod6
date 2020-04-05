@@ -1,5 +1,5 @@
-=begin pod :pubdate('2010-08-16T06:22:10Z') :type<note> :tags<Perl>
-=NAME Fwd: Vim 7.3 supports #Perl 6, adds Perl 5 improvements - http://feedproxy.google.com/~r/PerlBuzz/~3/Wk-XMKIvNT4/vim-73-supports-perl-6.html (via http://ff.im/piNGI)
+=begin pod :pubdate('2010-08-16T06:22:10Z') :type<note> :tags<'Perl'>
+=TITLE Fwd: Vim 7.3 supports #Perl 6, adds Perl 5 improvements - http://feedproxy.google.com/~r/PerlBuzz/~3/Wk-XMKIvNT4/vim-73-supports-perl-6.html (via http://ff.im/piNGI)
 
 =begin DESCRIPTION
 

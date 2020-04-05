@@ -1,5 +1,5 @@
-=begin pod :pubdate('2011-08-09T04:43:42Z') :type<note> :tags<lvee>
-=NAME По итогам LVEE-2011: фото: http://lvee.org/ru/wiki_pages/44  доклады: http://lvee.org/ru/reports/materials_lvee_2011 #lvee
+=begin pod :pubdate('2011-08-09T04:43:42Z') :type<note> :tags<'lvee'>
+=TITLE По итогам LVEE-2011: фото: http://lvee.org/ru/wiki_pages/44  доклады: http://lvee.org/ru/reports/materials_lvee_2011 #lvee
 
 =begin DESCRIPTION
 

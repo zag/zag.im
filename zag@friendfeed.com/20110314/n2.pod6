@@ -1,5 +1,5 @@
 =begin pod :pubdate('2011-03-14T17:30:53Z') :type<note> 
-=NAME GNU Telephony » Blog Archive » GNU Free Call Announced
+=TITLE GNU Telephony » Blog Archive » GNU Free Call Announced
 
 =begin DESCRIPTION
 

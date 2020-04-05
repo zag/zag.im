@@ -1,5 +1,5 @@
 =begin pod :pubdate('2011-01-10T09:55:44Z') :type<note> 
-=NAME Dexter's Victims - an infographic (spoilers)
+=TITLE Dexter's Victims - an infographic (spoilers)
 
 =begin DESCRIPTION
 

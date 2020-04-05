@@ -1,5 +1,5 @@
 =begin pod :pubdate('2011-11-25T06:32:02Z') :type<note> 
-=NAME dom.js: an implementation of the browser DOM in JavaScript. http://t.co/PcYs1mnv
+=TITLE dom.js: an implementation of the browser DOM in JavaScript. http://t.co/PcYs1mnv
 
 =begin DESCRIPTION
 

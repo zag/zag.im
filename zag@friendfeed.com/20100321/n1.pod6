@@ -1,5 +1,5 @@
 =begin pod :pubdate('2010-03-21T16:57:31Z') :type<note> 
-=NAME Iron Man 2. Release Date: 7 May 2010 (Russia)
+=TITLE Iron Man 2. Release Date: 7 May 2010 (Russia)
 
 =begin DESCRIPTION
 

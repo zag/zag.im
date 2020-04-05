@@ -1,5 +1,5 @@
-=begin pod :pubdate('2010-09-23T07:01:26Z') :type<note> :tags<perl>
-=NAME Try Rakudo and Learn Perl 6 (Beta) — all in your browser. #perl  http://try.rakudo.org/
+=begin pod :pubdate('2010-09-23T07:01:26Z') :type<note> :tags<'perl'>
+=TITLE Try Rakudo and Learn Perl 6 (Beta) — all in your browser. #perl  http://try.rakudo.org/
 
 =begin DESCRIPTION
 

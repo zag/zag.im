@@ -1,5 +1,5 @@
 =begin pod :pubdate('2010-05-08T05:07:16Z') :type<note> 
-=NAME RT @atomweaver: Software documentation is like sex. When it's good, it's very good. When it's bad, it's better than nothing.
+=TITLE RT @atomweaver: Software documentation is like sex. When it's good, it's very good. When it's bad, it's better than nothing.
 
 =begin DESCRIPTION
 

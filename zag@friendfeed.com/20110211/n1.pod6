@@ -1,5 +1,5 @@
 =begin pod :pubdate('2011-02-11T17:19:40Z') :type<note> 
-=NAME Nokia employees are protesting ulosmarsseilla
+=TITLE Nokia employees are protesting ulosmarsseilla
 
 =begin DESCRIPTION
 

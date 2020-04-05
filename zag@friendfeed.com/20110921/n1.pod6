@@ -1,5 +1,5 @@
 =begin pod :pubdate('2011-09-21T10:24:04Z') :type<note> 
-=NAME Google+: 92, 93, 94, 95, 96, 97, 98, 99... 100.
+=TITLE Google+: 92, 93, 94, 95, 96, 97, 98, 99... 100.
 
 =begin DESCRIPTION
 

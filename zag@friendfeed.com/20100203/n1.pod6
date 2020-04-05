@@ -1,5 +1,5 @@
-=begin pod :pubdate('2010-02-03T09:07:55Z') :type<note> :tags<perl6 rakudoport>
-=NAME В деле порта #perl6 (#rakudoport) для FreeBSD наметились положительные сдвиги: With portmgr hat on, reset the maintainership of skv@ for ports that he has had one or more maintainer-timeouts on in the past 12 months. http://www.freebsd.org/cgi/cvsweb.cgi/ports/lang/parrot/Makefile?rev=1.40;content-type=text%2Fx-cvsweb-markup
+=begin pod :pubdate('2010-02-03T09:07:55Z') :type<note> :tags<'perl6', 'rakudoport'>
+=TITLE В деле порта #perl6 (#rakudoport) для FreeBSD наметились положительные сдвиги: With portmgr hat on, reset the maintainership of skv@ for ports that he has had one or more maintainer-timeouts on in the past 12 months. http://www.freebsd.org/cgi/cvsweb.cgi/ports/lang/parrot/Makefile?rev=1.40;content-type=text%2Fx-cvsweb-markup
 
 =begin DESCRIPTION
 

@@ -1,5 +1,5 @@
 =begin pod :pubdate('2011-05-04T06:38:20Z') :type<note> 
-=NAME Free Comic Book Day. may 7, 2011
+=TITLE Free Comic Book Day. may 7, 2011
 
 =begin DESCRIPTION
 

@@ -1,5 +1,5 @@
 =begin pod :pubdate('2011-08-01T18:24:07Z') :type<note> 
-=NAME Netflix Instant is coming to the entire Linux Community!
+=TITLE Netflix Instant is coming to the entire Linux Community!
 
 =begin DESCRIPTION
 

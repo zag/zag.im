@@ -1,5 +1,5 @@
 =begin pod :pubdate('2009-05-18T08:19:25Z') :type<note> 
-=NAME @AnatolyUnix Окно в крыше. Для наклейки пленки надо вылазить на крышу.
+=TITLE @AnatolyUnix Окно в крыше. Для наклейки пленки надо вылазить на крышу.
 
 =begin DESCRIPTION
 

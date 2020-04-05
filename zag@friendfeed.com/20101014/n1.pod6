@@ -1,5 +1,5 @@
 =begin pod :pubdate('2010-10-14T09:06:59Z') :type<note> 
-=NAME Historypin | Pin your history to the world
+=TITLE Historypin | Pin your history to the world
 
 =begin DESCRIPTION
 

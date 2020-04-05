@@ -1,5 +1,5 @@
 =begin pod :pubdate('2009-06-01T08:55:12Z') :type<note> 
-=NAME prepare a tasty Makefile ...
+=TITLE prepare a tasty Makefile ...
 
 =begin DESCRIPTION
 

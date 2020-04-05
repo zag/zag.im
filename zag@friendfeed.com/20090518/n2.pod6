@@ -1,5 +1,5 @@
 =begin pod :pubdate('2009-05-18T11:51:12Z') :type<note> 
-=NAME @AnatolyUnix В список закрытых внешних ресурсов для корпоративных сеток к ЖЖ, vkontake, одноклассникам добаится и twitter :-)
+=TITLE @AnatolyUnix В список закрытых внешних ресурсов для корпоративных сеток к ЖЖ, vkontake, одноклассникам добаится и twitter :-)
 
 =begin DESCRIPTION
 

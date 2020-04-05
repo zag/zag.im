@@ -1,5 +1,5 @@
-=begin pod :pubdate('2011-07-01T20:04:16Z') :type<note> :tags<lvee>
-=NAME в ближайшее время вечерняя программа продолжится музыкальным выступлением #lvee
+=begin pod :pubdate('2011-07-01T20:04:16Z') :type<note> :tags<'lvee'>
+=TITLE в ближайшее время вечерняя программа продолжится музыкальным выступлением #lvee
 
 =begin DESCRIPTION
 

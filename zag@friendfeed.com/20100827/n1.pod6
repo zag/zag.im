@@ -1,5 +1,5 @@
 =begin pod :pubdate('2010-08-27T10:06:05Z') :type<note> 
-=NAME Donald Rumsfeld Is Magic !
+=TITLE Donald Rumsfeld Is Magic !
 
 =begin DESCRIPTION
 

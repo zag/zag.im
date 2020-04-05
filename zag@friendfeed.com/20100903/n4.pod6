@@ -1,5 +1,5 @@
-=begin pod :pubdate('2010-09-03T14:28:29Z') :type<note> :tags<imhonet mibf>
-=NAME #imhonet на #mibf
+=begin pod :pubdate('2010-09-03T14:28:29Z') :type<note> :tags<'imhonet', 'mibf'>
+=TITLE #imhonet на #mibf
 
 =begin DESCRIPTION
 

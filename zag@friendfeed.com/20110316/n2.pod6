@@ -1,5 +1,5 @@
 =begin pod :pubdate('2011-03-16T13:17:05Z') :type<note> 
-=NAME Online Village: Is JavaScript Is Faster Than C?
+=TITLE Online Village: Is JavaScript Is Faster Than C?
 
 =begin DESCRIPTION
 

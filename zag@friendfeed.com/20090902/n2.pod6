@@ -1,5 +1,5 @@
 =begin pod :pubdate('2009-09-02T08:37:32Z') :type<note> 
-=NAME The 2009 GitHub Contest: Recommendation engine contest.
+=TITLE The 2009 GitHub Contest: Recommendation engine contest.
 
 =begin DESCRIPTION
 

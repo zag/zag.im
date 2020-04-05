@@ -1,5 +1,5 @@
 =begin pod :pubdate('2011-02-09T10:16:08Z') :type<note> 
-=NAME book lovers never go to bed alone
+=TITLE book lovers never go to bed alone
 
 =begin DESCRIPTION
 

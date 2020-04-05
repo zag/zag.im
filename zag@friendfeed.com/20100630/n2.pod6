@@ -1,5 +1,5 @@
-=begin pod :pubdate('2010-06-30T18:24:49Z') :type<note> :tags<lvee>
-=NAME Железная дорога до #lvee
+=begin pod :pubdate('2010-06-30T18:24:49Z') :type<note> :tags<'lvee'>
+=TITLE Железная дорога до #lvee
 
 =begin DESCRIPTION
 

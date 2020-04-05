@@ -1,5 +1,5 @@
-=begin pod :pubdate('2009-11-10T10:48:17Z') :type<note> :tags<god09ru>
-=NAME Проблема выбора : мобильный интернет или мобильный web ? #god09ru
+=begin pod :pubdate('2009-11-10T10:48:17Z') :type<note> :tags<'god09ru'>
+=TITLE Проблема выбора : мобильный интернет или мобильный web ? #god09ru
 
 =begin DESCRIPTION
 

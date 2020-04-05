@@ -1,5 +1,5 @@
-=begin pod :pubdate('2010-09-24T07:01:40Z') :type<note> :tags<perl6>
-=NAME Gabor Szabo. Introduction to Perl 6. Table of Contents. Энциклопедия #perl6
+=begin pod :pubdate('2010-09-24T07:01:40Z') :type<note> :tags<'perl6'>
+=TITLE Gabor Szabo. Introduction to Perl 6. Table of Contents. Энциклопедия #perl6
 
 =begin DESCRIPTION
 

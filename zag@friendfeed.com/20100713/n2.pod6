@@ -1,5 +1,5 @@
 =begin pod :pubdate('2010-07-13T16:45:05Z') :type<note> 
-=NAME Eizo X-Ray Pin-Up Calendar
+=TITLE Eizo X-Ray Pin-Up Calendar
 
 =begin DESCRIPTION
 

@@ -1,5 +1,5 @@
-=begin pod :pubdate('2011-05-16T04:48:43Z') :type<note> :tags<yapc pod perl>
-=NAME Слайды выступления "Использование Perl 6 Pod " #yapc #pod #perl  http://www.slideshare.net/zagru/using-perl6pod
+=begin pod :pubdate('2011-05-16T04:48:43Z') :type<note> :tags<'yapc', 'pod', 'perl'>
+=TITLE Слайды выступления "Использование Perl 6 Pod " #yapc #pod #perl  http://www.slideshare.net/zagru/using-perl6pod
 
 =begin DESCRIPTION
 

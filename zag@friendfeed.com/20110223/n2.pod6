@@ -1,5 +1,5 @@
 =begin pod :pubdate('2011-02-23T06:16:12Z') :type<note> 
-=NAME Magic button. Волшебная кнопка "Сделать всё хорошо"
+=TITLE Magic button. Волшебная кнопка "Сделать всё хорошо"
 
 =begin DESCRIPTION
 

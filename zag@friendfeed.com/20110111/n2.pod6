@@ -1,5 +1,5 @@
 =begin pod :pubdate('2011-01-11T09:50:26Z') :type<note> 
-=NAME RT @perigrin: Perl Has to be cool if Apple is hiring for it http://jobs.perl.org/job/13442
+=TITLE RT @perigrin: Perl Has to be cool if Apple is hiring for it http://jobs.perl.org/job/13442
 
 =begin DESCRIPTION
 

@@ -1,5 +1,5 @@
-=begin pod :pubdate('2011-02-16T10:00:33Z') :type<note> :tags<Parrot>
-=NAME #Parrot 3.1.0 "Budgerigar" Released! | Ruby on Parrot, Javascript on Parrot, IPv6 is now supported and tested.
+=begin pod :pubdate('2011-02-16T10:00:33Z') :type<note> :tags<'Parrot'>
+=TITLE #Parrot 3.1.0 "Budgerigar" Released! | Ruby on Parrot, Javascript on Parrot, IPv6 is now supported and tested.
 
 =begin DESCRIPTION
 

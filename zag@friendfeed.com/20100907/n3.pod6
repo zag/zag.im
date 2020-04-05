@@ -1,5 +1,5 @@
-=begin pod :pubdate('2010-09-07T09:30:59Z') :type<note> :tags<perl6>
-=NAME Оказывается #perl6 уже был выпущен в 1997 году : http://web.archive.org/web/20000815230706/http://www.primenet.com/~kirbyh/perl6  "Perl 6 -- continually released since 1997!" ( via @masak)
+=begin pod :pubdate('2010-09-07T09:30:59Z') :type<note> :tags<'perl6'>
+=TITLE Оказывается #perl6 уже был выпущен в 1997 году : http://web.archive.org/web/20000815230706/http://www.primenet.com/~kirbyh/perl6  "Perl 6 -- continually released since 1997!" ( via @masak)
 
 =begin DESCRIPTION
 

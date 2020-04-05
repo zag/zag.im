@@ -1,5 +1,5 @@
-=begin pod :pubdate('2011-07-27T08:39:03Z') :type<note> :tags<perl6>
-=NAME Perl6 (aka rakudo) is available on Debian. #perl6
+=begin pod :pubdate('2011-07-27T08:39:03Z') :type<note> :tags<'perl6'>
+=TITLE Perl6 (aka rakudo) is available on Debian. #perl6
 
 =begin DESCRIPTION
 

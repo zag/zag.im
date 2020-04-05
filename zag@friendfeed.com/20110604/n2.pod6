@@ -1,5 +1,5 @@
-=begin pod :pubdate('2011-06-04T16:22:05Z') :type<note> :tags<devconf_ru devconf>
-=NAME Доклад "Perl 6 Pod - современный формат ведения документации" #devconf_ru, #devconf http://www.slideshare.net/zagru/perl6pod-devconf
+=begin pod :pubdate('2011-06-04T16:22:05Z') :type<note> :tags<'devconf_ru', 'devconf'>
+=TITLE Доклад "Perl 6 Pod - современный формат ведения документации" #devconf_ru, #devconf http://www.slideshare.net/zagru/perl6pod-devconf
 
 =begin DESCRIPTION
 

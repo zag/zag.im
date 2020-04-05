@@ -1,5 +1,5 @@
 =begin pod :pubdate('2010-12-08T21:06:21Z') :type<note> 
-=NAME Amazon.com: FarmVille For Dummies
+=TITLE Amazon.com: FarmVille For Dummies
 
 =begin DESCRIPTION
 

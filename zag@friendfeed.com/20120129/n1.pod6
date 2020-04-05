@@ -1,5 +1,5 @@
 =begin pod :pubdate('2012-01-29T06:47:13Z') :type<note> 
-=NAME Dicken feat. Milah & Korben: "Everything Counts" - YouTube
+=TITLE Dicken feat. Milah & Korben: "Everything Counts" - YouTube
 
 =begin DESCRIPTION
 

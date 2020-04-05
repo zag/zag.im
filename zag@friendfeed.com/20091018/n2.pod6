@@ -1,5 +1,5 @@
 =begin pod :pubdate('2009-10-18T14:50:05Z') :type<note> 
-=NAME AppleInsider | FreeBSD adds support for Snow Leopard's Grand Central Dispatch
+=TITLE AppleInsider | FreeBSD adds support for Snow Leopard's Grand Central Dispatch
 
 =begin DESCRIPTION
 

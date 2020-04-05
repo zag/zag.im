@@ -1,5 +1,5 @@
-=begin pod :pubdate('2010-06-19T14:03:51Z') :type<note> :tags<lvee>
-=NAME RT @lveecon: Использование Linux в GPS-системах трекинга автотранспорта. Виктор Полстюк, Belarus, Minsk #lvee
+=begin pod :pubdate('2010-06-19T14:03:51Z') :type<note> :tags<'lvee'>
+=TITLE RT @lveecon: Использование Linux в GPS-системах трекинга автотранспорта. Виктор Полстюк, Belarus, Minsk #lvee
 
 =begin DESCRIPTION
 

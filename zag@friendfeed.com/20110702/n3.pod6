@@ -1,5 +1,5 @@
-=begin pod :pubdate('2011-07-02T18:43:12Z') :type<note> :tags<lvee>
-=NAME круглый стол по gui. kde, e16, e17, unity, gnome2, gnome3, xfce #lvee
+=begin pod :pubdate('2011-07-02T18:43:12Z') :type<note> :tags<'lvee'>
+=TITLE круглый стол по gui. kde, e16, e17, unity, gnome2, gnome3, xfce #lvee
 
 =begin DESCRIPTION
 

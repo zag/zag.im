@@ -1,5 +1,5 @@
 =begin pod :pubdate('2011-06-01T06:40:56Z') :type<note> 
-=NAME Chapter 14. Python Packaging http://www.aosabook.org/en/packaging.html
+=TITLE Chapter 14. Python Packaging http://www.aosabook.org/en/packaging.html
 
 =begin DESCRIPTION
 

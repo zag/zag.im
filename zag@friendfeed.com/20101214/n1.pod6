@@ -1,5 +1,5 @@
 =begin pod :pubdate('2010-12-14T21:15:35Z') :type<note> 
-=NAME When I said "Great Job" I really meant "please stop talking to me"
+=TITLE When I said "Great Job" I really meant "please stop talking to me"
 
 =begin DESCRIPTION
 

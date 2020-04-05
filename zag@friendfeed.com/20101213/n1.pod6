@@ -1,5 +1,5 @@
 =begin pod :pubdate('2010-12-13T09:34:27Z') :type<note> 
-=NAME Tron Ice Hotel (13 photos + video) - My Modern Metropolis
+=TITLE Tron Ice Hotel (13 photos + video) - My Modern Metropolis
 
 =begin DESCRIPTION
 

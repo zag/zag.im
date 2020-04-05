@@ -1,5 +1,5 @@
 =begin pod :pubdate('2011-02-16T11:26:06Z') :type<note> 
-=NAME RT @PerlDancer: Dancer talk scheduled at "Perl Bulgaria" 2011 http://event.perlrussia.org/sofia2011/talk/99
+=TITLE RT @PerlDancer: Dancer talk scheduled at "Perl Bulgaria" 2011 http://event.perlrussia.org/sofia2011/talk/99
 
 =begin DESCRIPTION
 

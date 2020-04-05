@@ -1,5 +1,5 @@
 =begin pod :pubdate('2010-11-13T05:22:45Z') :type<note> 
-=NAME Fwd: The REAL connection speeds for Internet users across the world (charts) - http://royal.pingdom.com/2010/11/12/real-connection-speeds-for-internet-users-across-the-world/ (via http://ff.im/tEmNp)
+=TITLE Fwd: The REAL connection speeds for Internet users across the world (charts) - http://royal.pingdom.com/2010/11/12/real-connection-speeds-for-internet-users-across-the-world/ (via http://ff.im/tEmNp)
 
 =begin DESCRIPTION
 

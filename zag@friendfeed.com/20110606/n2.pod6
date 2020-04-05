@@ -1,5 +1,5 @@
 =begin pod :pubdate('2011-06-06T10:58:50Z') :type<note> 
-=NAME Lorem Ipsum - All the facts - Lipsum generator
+=TITLE Lorem Ipsum - All the facts - Lipsum generator
 
 =begin DESCRIPTION
 

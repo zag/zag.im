@@ -1,5 +1,5 @@
-=begin pod :pubdate('2011-12-15T18:00:35Z') :type<note> :tags<trend 3d>
-=NAME "Если вы не имеете 3D-очки, это не слишком поздно" ! Однозначно  #trend :-)
+=begin pod :pubdate('2011-12-15T18:00:35Z') :type<note> :tags<'trend', '3d'>
+=TITLE "Если вы не имеете 3D-очки, это не слишком поздно" ! Однозначно  #trend :-)
 
 =begin DESCRIPTION
 

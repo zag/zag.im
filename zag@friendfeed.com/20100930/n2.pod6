@@ -1,5 +1,5 @@
-=begin pod :pubdate('2010-09-30T07:57:23Z') :type<note> :tags<perl>
-=NAME A Book Review of Effective Perl Programming Ways to Write Better; More Idiomatic Perl | Book Zone #perl
+=begin pod :pubdate('2010-09-30T07:57:23Z') :type<note> :tags<'perl'>
+=TITLE A Book Review of Effective Perl Programming Ways to Write Better; More Idiomatic Perl | Book Zone #perl
 
 =begin DESCRIPTION
 

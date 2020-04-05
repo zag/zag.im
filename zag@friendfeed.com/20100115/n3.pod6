@@ -1,5 +1,5 @@
-=begin pod :pubdate('2010-01-15T08:35:18Z') :type<note> :tags<freebsd>
-=NAME Updating my desktop OS #freebsd from 7.2-STABLE to 8-STABLE
+=begin pod :pubdate('2010-01-15T08:35:18Z') :type<note> :tags<'freebsd'>
+=TITLE Updating my desktop OS #freebsd from 7.2-STABLE to 8-STABLE
 
 =begin DESCRIPTION
 

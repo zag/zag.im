@@ -1,5 +1,5 @@
-=begin pod :pubdate('2011-05-15T09:49:25Z') :type<note> :tags<yapc>
-=NAME Mojolicious без перерыва на #yapc
+=begin pod :pubdate('2011-05-15T09:49:25Z') :type<note> :tags<'yapc'>
+=TITLE Mojolicious без перерыва на #yapc
 
 =begin DESCRIPTION
 

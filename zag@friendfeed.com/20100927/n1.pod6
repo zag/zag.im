@@ -1,5 +1,5 @@
 =begin pod :pubdate('2010-09-27T09:21:42Z') :type<note> 
-=NAME Don’t Be Ugly By Accident! oh, also—iPhone users have more sex.
+=TITLE Don’t Be Ugly By Accident! oh, also—iPhone users have more sex.
 
 =begin DESCRIPTION
 

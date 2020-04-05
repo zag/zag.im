@@ -1,5 +1,5 @@
 =begin pod :pubdate('2013-10-08T08:11:56Z') :type<note> 
-=NAME Зимние Олимпийские игры 2014 — Википедия
+=TITLE Зимние Олимпийские игры 2014 — Википедия
 
 =begin DESCRIPTION
 

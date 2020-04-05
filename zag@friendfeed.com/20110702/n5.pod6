@@ -1,5 +1,5 @@
-=begin pod :pubdate('2011-07-02T10:09:05Z') :type<note> :tags<bitcoin lvee>
-=NAME Satoshi Nakamoto - выходит через tor и является экспертом в криптографии, герой киберпанков. #bitcoin #lvee
+=begin pod :pubdate('2011-07-02T10:09:05Z') :type<note> :tags<'bitcoin', 'lvee'>
+=TITLE Satoshi Nakamoto - выходит через tor и является экспертом в криптографии, герой киберпанков. #bitcoin #lvee
 
 =begin DESCRIPTION
 

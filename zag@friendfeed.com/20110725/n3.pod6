@@ -1,5 +1,5 @@
 =begin pod :pubdate('2011-07-25T10:37:33Z') :type<note> 
-=NAME Социльный бэкап http://t.co/em720XH :-). Форматы .html, .vcf, .jpg и json для профиля. +1ы также могут быть забэкаплены
+=TITLE Социльный бэкап http://t.co/em720XH :-). Форматы .html, .vcf, .jpg и json для профиля. +1ы также могут быть забэкаплены
 
 =begin DESCRIPTION
 

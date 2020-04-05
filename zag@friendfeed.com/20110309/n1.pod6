@@ -1,5 +1,5 @@
 =begin pod :pubdate('2011-03-09T10:14:51Z') :type<note> 
-=NAME Foursquare's Google Moment: Recommendations Launch Tonight
+=TITLE Foursquare's Google Moment: Recommendations Launch Tonight
 
 =begin DESCRIPTION
 

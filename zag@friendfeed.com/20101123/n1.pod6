@@ -1,5 +1,5 @@
 =begin pod :pubdate('2010-11-23T14:43:44Z') :type<note> 
-=NAME Rakudo Death Star | The slightly offtopic, laser-equipped space station of Perl 6
+=TITLE Rakudo Death Star | The slightly offtopic, laser-equipped space station of Perl 6
 
 =begin DESCRIPTION
 

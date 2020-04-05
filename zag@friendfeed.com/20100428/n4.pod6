@@ -1,5 +1,5 @@
 =begin pod :pubdate('2010-04-28T09:42:55Z') :type<note> 
-=NAME Спокойной ночи !
+=TITLE Спокойной ночи !
 
 =begin DESCRIPTION
 

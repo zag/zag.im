@@ -1,5 +1,5 @@
 =begin pod :pubdate('2009-06-02T12:27:08Z') :type<note> 
-=NAME My current spam speed: 14400 per day: 14,400 bit/sec - good leased line in 1997..
+=TITLE My current spam speed: 14400 per day: 14,400 bit/sec - good leased line in 1997..
 
 =begin DESCRIPTION
 

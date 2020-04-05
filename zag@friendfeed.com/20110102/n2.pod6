@@ -1,5 +1,5 @@
 =begin pod :pubdate('2011-01-02T17:14:36Z') :type<note> 
-=NAME Morning of the new year.
+=TITLE Morning of the new year.
 
 =begin DESCRIPTION
 

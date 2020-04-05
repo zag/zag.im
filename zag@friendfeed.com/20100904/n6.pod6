@@ -1,5 +1,5 @@
 =begin pod :pubdate('2010-09-04T04:53:46Z') :type<note> 
-=NAME Vox is closing on September 30, 2010 - Vox
+=TITLE Vox is closing on September 30, 2010 - Vox
 
 =begin DESCRIPTION
 

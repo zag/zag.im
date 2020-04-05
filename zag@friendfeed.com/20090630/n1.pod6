@@ -1,5 +1,5 @@
 =begin pod :pubdate('2009-06-30T09:56:28Z') :type<note> 
-=NAME lang/rakudo  - быть в ближайшее время в FreeBSD ! Буквально в конце этой недели или начале следующей!  http://www.freebsd.org/cgi/query-pr.cgi?pr=130629
+=TITLE lang/rakudo  - быть в ближайшее время в FreeBSD ! Буквально в конце этой недели или начале следующей!  http://www.freebsd.org/cgi/query-pr.cgi?pr=130629
 
 =begin DESCRIPTION
 

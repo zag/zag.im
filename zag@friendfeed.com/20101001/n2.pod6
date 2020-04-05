@@ -1,5 +1,5 @@
-=begin pod :pubdate('2010-10-01T10:08:48Z') :type<note> :tags<yac2010>
-=NAME Наглядно про map reduce #yac2010
+=begin pod :pubdate('2010-10-01T10:08:48Z') :type<note> :tags<'yac2010'>
+=TITLE Наглядно про map reduce #yac2010
 
 =begin DESCRIPTION
 

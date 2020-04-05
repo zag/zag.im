@@ -1,5 +1,5 @@
-=begin pod :pubdate('2011-04-01T19:05:38Z') :type<note> :tags<ps3>
-=NAME Condor PlayStation 3 Supercomputer Now Online #ps3
+=begin pod :pubdate('2011-04-01T19:05:38Z') :type<note> :tags<'ps3'>
+=TITLE Condor PlayStation 3 Supercomputer Now Online #ps3
 
 =begin DESCRIPTION
 

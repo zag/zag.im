@@ -1,5 +1,5 @@
 =begin pod :pubdate('2009-07-22T10:03:24Z') :type<note> 
-=NAME Pepsi vs Coca
+=TITLE Pepsi vs Coca
 
 =begin DESCRIPTION
 

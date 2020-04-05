@@ -1,5 +1,5 @@
 =begin pod :pubdate('2009-05-18T11:34:54Z') :type<note> 
-=NAME twitter - еще одна игрушка для рунета : http://bit.ly/LpMEh
+=TITLE twitter - еще одна игрушка для рунета : http://bit.ly/LpMEh
 
 =begin DESCRIPTION
 

@@ -1,5 +1,5 @@
 =begin pod :pubdate('2011-03-06T06:56:52Z') :type<note> 
-=NAME Exclusive: NASA Scientist Claims Evidence of Alien Life on Meteorite - FoxNews.com
+=TITLE Exclusive: NASA Scientist Claims Evidence of Alien Life on Meteorite - FoxNews.com
 
 =begin DESCRIPTION
 

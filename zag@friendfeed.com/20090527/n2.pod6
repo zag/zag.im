@@ -1,5 +1,5 @@
 =begin pod :pubdate('2009-05-27T07:45:40Z') :type<note> 
-=NAME writing project documentation in Pod . Its easy and fine ...
+=TITLE writing project documentation in Pod . Its easy and fine ...
 
 =begin DESCRIPTION
 

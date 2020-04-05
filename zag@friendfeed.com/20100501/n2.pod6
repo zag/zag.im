@@ -1,5 +1,5 @@
-=begin pod :pubdate('2010-05-01T08:58:21Z') :type<note> :tags<webdao>
-=NAME Fixed UTF-8 in output due FCGI's updates in 0.68_01 http://bit.ly/aZYC7k; http://bit.ly/9LFEtm #webdao
+=begin pod :pubdate('2010-05-01T08:58:21Z') :type<note> :tags<'webdao'>
+=TITLE Fixed UTF-8 in output due FCGI's updates in 0.68_01 http://bit.ly/aZYC7k; http://bit.ly/9LFEtm #webdao
 
 =begin DESCRIPTION
 

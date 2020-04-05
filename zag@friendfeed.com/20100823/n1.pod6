@@ -1,5 +1,5 @@
 =begin pod :pubdate('2010-08-23T08:36:24Z') :type<note> 
-=NAME Читательская премия Имхонета - 2010
+=TITLE Читательская премия Имхонета - 2010
 
 =begin DESCRIPTION
 

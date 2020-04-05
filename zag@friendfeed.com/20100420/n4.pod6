@@ -1,5 +1,5 @@
 =begin pod :pubdate('2010-04-20T07:36:37Z') :type<note> 
-=NAME XAuth - XAuth is built on purely front end technology taking advantage of capabilities available only in HTML5 browsers.
+=TITLE XAuth - XAuth is built on purely front end technology taking advantage of capabilities available only in HTML5 browsers.
 
 =begin DESCRIPTION
 

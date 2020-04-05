@@ -1,5 +1,5 @@
 =begin pod :pubdate('2012-01-15T07:09:47Z') :type<note> 
-=NAME Логотип DC-Baltimore Perl Workshop 2012
+=TITLE Логотип DC-Baltimore Perl Workshop 2012
 
 =begin DESCRIPTION
 

@@ -1,5 +1,5 @@
-=begin pod :pubdate('2010-06-16T06:57:07Z') :type<note> :tags<yapcrussia>
-=NAME Perl Mova + YAPC-2010. День докладов на #yapcrussia. Отдельные комменты и фотографии особенно веселы.
+=begin pod :pubdate('2010-06-16T06:57:07Z') :type<note> :tags<'yapcrussia'>
+=TITLE Perl Mova + YAPC-2010. День докладов на #yapcrussia. Отдельные комменты и фотографии особенно веселы.
 
 =begin DESCRIPTION
 

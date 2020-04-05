@@ -1,5 +1,5 @@
 =begin pod :pubdate('2011-03-26T18:06:02Z') :type<note> 
-=NAME Яйца в фильме - это счастье. http://www.imdb.com/title/tt0075686/
+=TITLE Яйца в фильме - это счастье. http://www.imdb.com/title/tt0075686/
 
 =begin DESCRIPTION
 

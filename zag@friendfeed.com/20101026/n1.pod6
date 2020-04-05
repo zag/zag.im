@@ -1,5 +1,5 @@
-=begin pod :pubdate('2010-10-26T07:12:59Z') :type<note> :tags<perl cpan>
-=NAME CPAN is officially 15 years old today dating from the original announcement ( http://goo.gl/Ysl1 ). Happy Birthday CPAN! :) #perl #cpan
+=begin pod :pubdate('2010-10-26T07:12:59Z') :type<note> :tags<'perl', 'cpan'>
+=TITLE CPAN is officially 15 years old today dating from the original announcement ( http://goo.gl/Ysl1 ). Happy Birthday CPAN! :) #perl #cpan
 
 =begin DESCRIPTION
 

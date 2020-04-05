@@ -1,5 +1,5 @@
 =begin pod :pubdate('2009-11-04T07:17:47Z') :type<note> 
-=NAME Дажe у часов есть свой twitter  http://twitter.com/big_ben_clock
+=TITLE Дажe у часов есть свой twitter  http://twitter.com/big_ben_clock
 
 =begin DESCRIPTION
 

@@ -1,5 +1,5 @@
-=begin pod :pubdate('2010-12-15T05:19:38Z') :type<note> :tags<t>
-=NAME RT @kfury: TRON the videogame came out in 1982 (28 years ago): http://www.youtube.com/watch?v=qXErtjerzYc#t=15s
+=begin pod :pubdate('2010-12-15T05:19:38Z') :type<note> :tags<'t'>
+=TITLE RT @kfury: TRON the videogame came out in 1982 (28 years ago): http://www.youtube.com/watch?v=qXErtjerzYc#t=15s
 
 =begin DESCRIPTION
 

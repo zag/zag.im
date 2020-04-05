@@ -1,5 +1,5 @@
-=begin pod :pubdate('2010-12-07T18:35:06Z') :type<note> :tags<fail fail>
-=NAME Смартфон HTC Touch Pro2 на базе windows с qwerty. Тоже #fail. Htc qwerty - #fail
+=begin pod :pubdate('2010-12-07T18:35:06Z') :type<note> :tags<'fail', 'fail'>
+=TITLE Смартфон HTC Touch Pro2 на базе windows с qwerty. Тоже #fail. Htc qwerty - #fail
 
 =begin DESCRIPTION
 

@@ -1,5 +1,5 @@
 =begin pod :pubdate('2010-11-06T19:50:23Z') :type<note> 
-=NAME He covered the 35 kilometers in around 10 minutes.  (via http://ff.im/thFIn)
+=TITLE He covered the 35 kilometers in around 10 minutes.  (via http://ff.im/thFIn)
 
 =begin DESCRIPTION
 

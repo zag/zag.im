@@ -1,5 +1,5 @@
-=begin pod :pubdate('2011-01-20T10:53:20Z') :type<note> :tags<Lua>
-=NAME Ого !! [13:39:07] cheusov: #Lua встроили в базовую систему NetBSD, для скриптование всяких дел, даже в ядре. Новость №1! ;-)
+=begin pod :pubdate('2011-01-20T10:53:20Z') :type<note> :tags<'Lua'>
+=TITLE Ого !! [13:39:07] cheusov: #Lua встроили в базовую систему NetBSD, для скриптование всяких дел, даже в ядре. Новость №1! ;-)
 
 =begin DESCRIPTION
 

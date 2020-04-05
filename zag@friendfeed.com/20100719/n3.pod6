@@ -1,5 +1,5 @@
 =begin pod :pubdate('2010-07-19T07:45:43Z') :type<note> 
-=NAME jsdoc-toolkit - Project Hosting on Google Code
+=TITLE jsdoc-toolkit - Project Hosting on Google Code
 
 =begin DESCRIPTION
 

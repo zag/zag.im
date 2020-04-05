@@ -1,5 +1,5 @@
 =begin pod :pubdate('2010-12-08T22:07:21Z') :type<note> 
-=NAME RT @pogudo: Мне понравилось видео YouTube -- Спят усталые админы http://youtu.be/Hi90ToNopqw?a
+=TITLE RT @pogudo: Мне понравилось видео YouTube -- Спят усталые админы http://youtu.be/Hi90ToNopqw?a
 
 =begin DESCRIPTION
 

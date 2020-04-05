@@ -1,5 +1,5 @@
 =begin pod :pubdate('2011-02-08T20:18:09Z') :type<note> 
-=NAME RT @newsycombinator: Clojure on Google App Engine http://j.mp/gomazE
+=TITLE RT @newsycombinator: Clojure on Google App Engine http://j.mp/gomazE
 
 =begin DESCRIPTION
 

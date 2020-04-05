@@ -1,5 +1,5 @@
 =begin pod :pubdate('2011-03-16T15:18:58Z') :type<note> 
-=NAME Hire Free Web Developer. http://t.co/u8KnKLn
+=TITLE Hire Free Web Developer. http://t.co/u8KnKLn
 
 =begin DESCRIPTION
 

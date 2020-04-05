@@ -1,5 +1,5 @@
 =begin pod :pubdate('2010-05-24T06:56:17Z') :type<note> 
-=NAME Мышкин дом
+=TITLE Мышкин дом
 
 =begin DESCRIPTION
 

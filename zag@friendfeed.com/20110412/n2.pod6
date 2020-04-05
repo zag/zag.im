@@ -1,5 +1,5 @@
-=begin pod :pubdate('2011-04-12T05:01:59Z') :type<note> :tags<tdd>
-=NAME happyprog - TDGotchi
+=begin pod :pubdate('2011-04-12T05:01:59Z') :type<note> :tags<'tdd'>
+=TITLE happyprog - TDGotchi
 
 =begin DESCRIPTION
 

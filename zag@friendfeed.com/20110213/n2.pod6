@@ -1,5 +1,5 @@
 =begin pod :pubdate('2011-02-13T07:15:28Z') :type<note> 
-=NAME Nokia to cut thousands of jobs, Google reminds it is hiring - TechSpot
+=TITLE Nokia to cut thousands of jobs, Google reminds it is hiring - TechSpot
 
 =begin DESCRIPTION
 

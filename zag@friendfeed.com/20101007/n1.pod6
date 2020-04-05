@@ -1,5 +1,5 @@
 =begin pod :pubdate('2010-10-07T07:56:15Z') :type<note> 
-=NAME Building Web Reputation Systems - http://www.amazon.co.uk/dp/059615979X/
+=TITLE Building Web Reputation Systems - http://www.amazon.co.uk/dp/059615979X/
 
 =begin DESCRIPTION
 

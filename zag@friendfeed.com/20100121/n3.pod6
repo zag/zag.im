@@ -1,5 +1,5 @@
-=begin pod :pubdate('2010-01-21T08:49:34Z') :type<note> :tags<playstation3>
-=NAME Убиватель зомби и времени. #playstation3
+=begin pod :pubdate('2010-01-21T08:49:34Z') :type<note> :tags<'playstation3'>
+=TITLE Убиватель зомби и времени. #playstation3
 
 =begin DESCRIPTION
 

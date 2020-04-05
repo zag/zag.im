@@ -1,5 +1,5 @@
-=begin pod :pubdate('2010-09-16T11:41:48Z') :type<note> :tags<nosql>
-=NAME Tarantool - хранилище данных в памяти, ключ - значение. OpenSource@Mail.ru
+=begin pod :pubdate('2010-09-16T11:41:48Z') :type<note> :tags<'nosql'>
+=TITLE Tarantool - хранилище данных в памяти, ключ - значение. OpenSource@Mail.ru
 
 =begin DESCRIPTION
 

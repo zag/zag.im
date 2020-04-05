@@ -1,5 +1,5 @@
 =begin pod :pubdate('2009-05-18T08:04:33Z') :type<note> 
-=NAME смотрю софт для symbian для twiter'а http://bit.ly/2Ln73
+=TITLE смотрю софт для symbian для twiter'а http://bit.ly/2Ln73
 
 =begin DESCRIPTION
 

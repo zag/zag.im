@@ -1,5 +1,5 @@
 =begin pod :pubdate('2010-12-07T18:30:25Z') :type<note> 
-=NAME htc desire Z - не прошел мой qwerty тест.
+=TITLE htc desire Z - не прошел мой qwerty тест.
 
 =begin DESCRIPTION
 

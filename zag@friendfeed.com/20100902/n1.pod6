@@ -1,5 +1,5 @@
-=begin pod :pubdate('2010-09-02T13:52:01Z') :type<note> :tags<mibf>
-=NAME 23 Московская международная книжная выставка-ярмарка #mibf
+=begin pod :pubdate('2010-09-02T13:52:01Z') :type<note> :tags<'mibf'>
+=TITLE 23 Московская международная книжная выставка-ярмарка #mibf
 
 =begin DESCRIPTION
 

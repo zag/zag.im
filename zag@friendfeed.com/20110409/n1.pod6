@@ -1,5 +1,5 @@
 =begin pod :pubdate('2011-04-09T07:03:57Z') :type<note> 
-=NAME Блог santyaho91 - Чудеса инженерной мысли, До чего дошел прогресс!
+=TITLE Блог santyaho91 - Чудеса инженерной мысли, До чего дошел прогресс!
 
 =begin DESCRIPTION
 

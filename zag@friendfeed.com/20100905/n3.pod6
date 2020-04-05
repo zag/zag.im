@@ -1,5 +1,5 @@
 =begin pod :pubdate('2010-09-05T09:26:11Z') :type<note> 
-=NAME Bookshelf Porn - A collection of all the best bookshelf photos for people who *heart* bookshelves.
+=TITLE Bookshelf Porn - A collection of all the best bookshelf photos for people who *heart* bookshelves.
 
 =begin DESCRIPTION
 

@@ -1,5 +1,5 @@
-=begin pod :pubdate('2010-05-25T07:21:06Z') :type<note> :tags<googleTV>
-=NAME Крылатые фразы  #googleTV
+=begin pod :pubdate('2010-05-25T07:21:06Z') :type<note> :tags<'googleTV'>
+=TITLE Крылатые фразы  #googleTV
 
 =begin DESCRIPTION
 

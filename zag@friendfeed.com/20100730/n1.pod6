@@ -1,5 +1,5 @@
-=begin pod :pubdate('2010-07-30T13:56:32Z') :type<note> :tags<Rakudo perl6>
-=NAME @godegisel предложил отличную идею: порт lang/rakudo сделать портом Rakudo Star. И даже сделал это. Забыл только добавить документацию. Итак: порт lang/rakudo  содержит последнюю версию #Rakudo пригодную для разработки на #perl6 !
+=begin pod :pubdate('2010-07-30T13:56:32Z') :type<note> :tags<'Rakudo', 'perl6'>
+=TITLE @godegisel предложил отличную идею: порт lang/rakudo сделать портом Rakudo Star. И даже сделал это. Забыл только добавить документацию. Итак: порт lang/rakudo  содержит последнюю версию #Rakudo пригодную для разработки на #perl6 !
 
 =begin DESCRIPTION
 

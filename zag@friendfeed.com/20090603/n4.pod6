@@ -1,5 +1,5 @@
 =begin pod :pubdate('2009-06-03T07:55:59Z') :type<note> 
-=NAME пробую новый поисковик от Масдая : http://www.bing.com/?cc=ru
+=TITLE пробую новый поисковик от Масдая : http://www.bing.com/?cc=ru
 
 =begin DESCRIPTION
 

@@ -1,5 +1,5 @@
-=begin pod :pubdate('2010-03-04T08:05:14Z') :type<note> :tags<ps3>
-=NAME В PlayStation®Store  стартовал  марафон по случаю чемпионата мира по футболу  FIFA World Cup #ps3
+=begin pod :pubdate('2010-03-04T08:05:14Z') :type<note> :tags<'ps3'>
+=TITLE В PlayStation®Store  стартовал  марафон по случаю чемпионата мира по футболу  FIFA World Cup #ps3
 
 =begin DESCRIPTION
 

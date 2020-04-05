@@ -1,5 +1,5 @@
 =begin pod :pubdate('2010-05-27T06:29:48Z') :type<note> 
-=NAME RT @madchesterru: New post: Madchester.ru мог прекратить свое существование! http://bit.ly/ctZ561
+=TITLE RT @madchesterru: New post: Madchester.ru мог прекратить свое существование! http://bit.ly/ctZ561
 
 =begin DESCRIPTION
 

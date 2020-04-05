@@ -1,5 +1,5 @@
 =begin pod :pubdate('2011-10-26T14:17:53Z') :type<note> 
-=NAME Commit a047be85247755cdbe0acce6f1dafc8beb84f2ac to MrMEEE/bumblebee - GitHub ( rm -rf /usr /lib/nvidia-current/xorg/xorg )
+=TITLE Commit a047be85247755cdbe0acce6f1dafc8beb84f2ac to MrMEEE/bumblebee - GitHub ( rm -rf /usr /lib/nvidia-current/xorg/xorg )
 
 =begin DESCRIPTION
 

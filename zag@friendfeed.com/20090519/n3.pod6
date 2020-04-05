@@ -1,5 +1,5 @@
-=begin pod :pubdate('2009-05-19T07:04:37Z') :type<note> :tags<perl>
-=NAME Photos source from YAPC::Russia. #perl http://2009.yapcrussia.org/mayperl2/wiki
+=begin pod :pubdate('2009-05-19T07:04:37Z') :type<note> :tags<'perl'>
+=TITLE Photos source from YAPC::Russia. #perl http://2009.yapcrussia.org/mayperl2/wiki
 
 =begin DESCRIPTION
 

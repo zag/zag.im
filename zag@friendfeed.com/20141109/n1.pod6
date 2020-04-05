@@ -1,5 +1,5 @@
-=begin pod :pubdate('2014-11-09T12:55:05Z') :type<note> :tags<perl6>
-=NAME Get ready to party! #perl6 https://fosdem.org/2015/schedule/event/get_ready_to_party/
+=begin pod :pubdate('2014-11-09T12:55:05Z') :type<note> :tags<'perl6'>
+=TITLE Get ready to party! #perl6 https://fosdem.org/2015/schedule/event/get_ready_to_party/
 
 =begin DESCRIPTION
 

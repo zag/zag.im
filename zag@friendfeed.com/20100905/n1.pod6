@@ -1,5 +1,5 @@
 =begin pod :pubdate('2010-09-05T14:18:43Z') :type<note> 
-=NAME Kylo Browser -  Kylo's wide-open interface is designed specifically to fit your TV screen.
+=TITLE Kylo Browser -  Kylo's wide-open interface is designed specifically to fit your TV screen.
 
 =begin DESCRIPTION
 

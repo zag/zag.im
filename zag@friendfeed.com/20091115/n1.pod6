@@ -1,5 +1,5 @@
-=begin pod :pubdate('2009-11-15T16:49:20Z') :type<note> :tags<perl6 Pod>
-=NAME Implemented ":like" attribute Perl6::Pod #perl6 #Pod http://search.cpan.org/dist/Perl6-Pod/
+=begin pod :pubdate('2009-11-15T16:49:20Z') :type<note> :tags<'perl6', 'Pod'>
+=TITLE Implemented ":like" attribute Perl6::Pod #perl6 #Pod http://search.cpan.org/dist/Perl6-Pod/
 
 =begin DESCRIPTION
 

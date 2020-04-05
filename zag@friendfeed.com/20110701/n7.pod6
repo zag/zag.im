@@ -1,5 +1,5 @@
-=begin pod :pubdate('2011-07-01T10:45:54Z') :type<note> :tags<lvee>
-=NAME Такие спонсоры у #lvee
+=begin pod :pubdate('2011-07-01T10:45:54Z') :type<note> :tags<'lvee'>
+=TITLE Такие спонсоры у #lvee
 
 =begin DESCRIPTION
 

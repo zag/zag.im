@@ -1,5 +1,5 @@
-=begin pod :pubdate('2009-05-28T07:49:39Z') :type<note> :tags<17>
-=NAME The port of rakudo perl6 compiler for FreeBSD is updated to rakudo #17(Stockholm) and parrot 1.2.0 http://rakudoport.sourceforge.net/
+=begin pod :pubdate('2009-05-28T07:49:39Z') :type<note> :tags<'17'>
+=TITLE The port of rakudo perl6 compiler for FreeBSD is updated to rakudo #17(Stockholm) and parrot 1.2.0 http://rakudoport.sourceforge.net/
 
 =begin DESCRIPTION
 

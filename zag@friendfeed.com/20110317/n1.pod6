@@ -1,5 +1,5 @@
 =begin pod :pubdate('2011-03-17T21:07:42Z') :type<note> 
-=NAME "perlbuzz: Perlnews.org lauched by Leo Lapworth and Dave Cross. http://t.co/4OYRNKB"
+=TITLE "perlbuzz: Perlnews.org lauched by Leo Lapworth and Dave Cross. http://t.co/4OYRNKB"
 
 =begin DESCRIPTION
 

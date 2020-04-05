@@ -1,5 +1,5 @@
 =begin pod :pubdate('2011-08-18T13:04:23Z') :type<note> 
-=NAME Why Rounded Corners are Easier on the Eyes - UX Movement
+=TITLE Why Rounded Corners are Easier on the Eyes - UX Movement
 
 =begin DESCRIPTION
 

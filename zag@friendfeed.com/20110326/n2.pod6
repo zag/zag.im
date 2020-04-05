@@ -1,5 +1,5 @@
-=begin pod :pubdate('2011-03-26T14:39:28Z') :type<note> :tags<firefox4>
-=NAME Now with #firefox4: portupgrade -f -o www/firefox36 www/firefox && portupgrade -N www/firefox
+=begin pod :pubdate('2011-03-26T14:39:28Z') :type<note> :tags<'firefox4'>
+=TITLE Now with #firefox4: portupgrade -f -o www/firefox36 www/firefox && portupgrade -N www/firefox
 
 =begin DESCRIPTION
 

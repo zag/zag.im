@@ -1,5 +1,5 @@
 =begin pod :pubdate('2010-04-06T08:03:27Z') :type<note> 
-=NAME Hа Крайнем Севере очень быстро даёт о себе знать песец (c) National Geographic
+=TITLE Hа Крайнем Севере очень быстро даёт о себе знать песец (c) National Geographic
 
 =begin DESCRIPTION
 

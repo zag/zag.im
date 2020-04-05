@@ -1,5 +1,5 @@
-=begin pod :pubdate('2011-02-02T07:43:52Z') :type<note> :tags<sourceforge>
-=NAME #sourceforge попросил проверить залитые мной файлы. К письму приложил md5 для сверки.
+=begin pod :pubdate('2011-02-02T07:43:52Z') :type<note> :tags<'sourceforge'>
+=TITLE #sourceforge попросил проверить залитые мной файлы. К письму приложил md5 для сверки.
 
 =begin DESCRIPTION
 

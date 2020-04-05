@@ -1,5 +1,5 @@
 =begin pod :pubdate('2011-03-29T09:52:20Z') :type<note> 
-=NAME RT @ycombinatornews: Three Years of Scrum at Socialtext: One Team's Experiences http://bit.ly/hsXTpV
+=TITLE RT @ycombinatornews: Three Years of Scrum at Socialtext: One Team's Experiences http://bit.ly/hsXTpV
 
 =begin DESCRIPTION
 

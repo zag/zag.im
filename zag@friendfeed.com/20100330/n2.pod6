@@ -1,5 +1,5 @@
 =begin pod :pubdate('2010-03-30T18:43:51Z') :type<note> 
-=NAME Funny old-school vintage advertisements theCHIVE
+=TITLE Funny old-school vintage advertisements theCHIVE
 
 =begin DESCRIPTION
 

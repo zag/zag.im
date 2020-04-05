@@ -1,5 +1,5 @@
 =begin pod :pubdate('2011-05-02T04:38:04Z') :type<note> 
-=NAME RT @google: Google's Prediction API v1.2 helps developers build smarter apps using machine learning, new features: http://goo.gl/1AZhC
+=TITLE RT @google: Google's Prediction API v1.2 helps developers build smarter apps using machine learning, new features: http://goo.gl/1AZhC
 
 =begin DESCRIPTION
 

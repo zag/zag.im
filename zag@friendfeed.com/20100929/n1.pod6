@@ -1,5 +1,5 @@
-=begin pod :pubdate('2010-09-29T07:01:01Z') :type<note> :tags<rakudo>
-=NAME RT @carlmasak: It is 2010, and I'm using a blog engine written in Perl 6. http://strangelyconsistent.org/blog/dog-food-with-a-distinct-perl6-flavor #rakudo
+=begin pod :pubdate('2010-09-29T07:01:01Z') :type<note> :tags<'rakudo'>
+=TITLE RT @carlmasak: It is 2010, and I'm using a blog engine written in Perl 6. http://strangelyconsistent.org/blog/dog-food-with-a-distinct-perl6-flavor #rakudo
 
 =begin DESCRIPTION
 

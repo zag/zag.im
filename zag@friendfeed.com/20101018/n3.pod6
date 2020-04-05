@@ -1,5 +1,5 @@
-=begin pod :pubdate('2010-10-18T07:36:41Z') :type<note> :tags<REST perl>
-=NAME Полностью переехал на #REST. Теперь клиентом управления публикациями на http://zag.ru является curl . Модуль по теме : Build REST-inspired routing tables http://search.cpan.org/perldoc?Router::Resource  #perl
+=begin pod :pubdate('2010-10-18T07:36:41Z') :type<note> :tags<'REST', 'perl'>
+=TITLE Полностью переехал на #REST. Теперь клиентом управления публикациями на http://zag.ru является curl . Модуль по теме : Build REST-inspired routing tables http://search.cpan.org/perldoc?Router::Resource  #perl
 
 =begin DESCRIPTION
 

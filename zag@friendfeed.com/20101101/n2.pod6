@@ -1,5 +1,5 @@
 =begin pod :pubdate('2010-11-01T09:00:56Z') :type<note> 
-=NAME RT @mkrentovskiy: Силиконовая или кремниевая? http://bit.ly/aKiUb2
+=TITLE RT @mkrentovskiy: Силиконовая или кремниевая? http://bit.ly/aKiUb2
 
 =begin DESCRIPTION
 

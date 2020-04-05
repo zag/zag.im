@@ -1,5 +1,5 @@
 =begin pod :pubdate('2010-09-16T17:27:24Z') :type<note> 
-=NAME Добавление иконки вашего сервиса в Почте@Mail.Ru - Mail.Ru API.
+=TITLE Добавление иконки вашего сервиса в Почте@Mail.Ru - Mail.Ru API.
 
 =begin DESCRIPTION
 

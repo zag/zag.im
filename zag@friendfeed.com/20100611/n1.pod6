@@ -1,5 +1,5 @@
-=begin pod :pubdate('2010-06-11T13:19:23Z') :type<note> :tags<FriendFeed>
-=NAME Очень не хватает  привязки  группы в #FriendFeed  к отдельному аккаунту в twitter. Внешних сервисов не нашел. Придется выпиливать самому...
+=begin pod :pubdate('2010-06-11T13:19:23Z') :type<note> :tags<'FriendFeed'>
+=TITLE Очень не хватает  привязки  группы в #FriendFeed  к отдельному аккаунту в twitter. Внешних сервисов не нашел. Придется выпиливать самому...
 
 =begin DESCRIPTION
 

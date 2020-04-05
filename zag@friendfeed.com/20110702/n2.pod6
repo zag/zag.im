@@ -1,5 +1,5 @@
-=begin pod :pubdate('2011-07-02T18:48:31Z') :type<note> :tags<lvee>
-=NAME Plug computer - переходник из 220 в ethernet. Promwad спонсор #lvee
+=begin pod :pubdate('2011-07-02T18:48:31Z') :type<note> :tags<'lvee'>
+=TITLE Plug computer - переходник из 220 в ethernet. Promwad спонсор #lvee
 
 =begin DESCRIPTION
 

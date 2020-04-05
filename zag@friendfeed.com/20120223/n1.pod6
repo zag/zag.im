@@ -1,5 +1,5 @@
-=begin pod :pubdate('2012-02-23T16:40:56Z') :type<note> :tags<freebsd>
-=NAME В кои-то веки собрался обновиться и вот те раз: #freebsd http://t.co/UHJz5QPH
+=begin pod :pubdate('2012-02-23T16:40:56Z') :type<note> :tags<'freebsd'>
+=TITLE В кои-то веки собрался обновиться и вот те раз: #freebsd http://t.co/UHJz5QPH
 
 =begin DESCRIPTION
 

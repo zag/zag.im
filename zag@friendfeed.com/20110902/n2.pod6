@@ -1,5 +1,5 @@
 =begin pod :pubdate('2011-09-02T06:56:58Z') :type<note> 
-=NAME The Greatest Brandversations on the Behance Network
+=TITLE The Greatest Brandversations on the Behance Network
 
 =begin DESCRIPTION
 

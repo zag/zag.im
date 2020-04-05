@@ -1,5 +1,5 @@
-=begin pod :pubdate('2010-10-01T08:38:43Z') :type<note> :tags<yac2010>
-=NAME Фрэймворк lunapark #yac2010
+=begin pod :pubdate('2010-10-01T08:38:43Z') :type<note> :tags<'yac2010'>
+=TITLE Фрэймворк lunapark #yac2010
 
 =begin DESCRIPTION
 

@@ -1,5 +1,5 @@
 =begin pod :pubdate('2010-12-16T11:15:59Z') :type<note> 
-=NAME CHART OF THE DAY: Google's Login Is More Popular Than Facebook Connect
+=TITLE CHART OF THE DAY: Google's Login Is More Popular Than Facebook Connect
 
 =begin DESCRIPTION
 

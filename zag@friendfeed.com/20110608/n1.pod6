@@ -1,5 +1,5 @@
 =begin pod :pubdate('2011-06-08T07:36:55Z') :type<note> 
-=NAME Writing an HTTP Server in Perl 6
+=TITLE Writing an HTTP Server in Perl 6
 
 =begin DESCRIPTION
 

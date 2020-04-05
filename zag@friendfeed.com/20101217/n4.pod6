@@ -1,5 +1,5 @@
-=begin pod :pubdate('2010-12-17T06:19:48Z') :type<note> :tags<firefox>
-=NAME Привет Человекам! "about:robots" #firefox
+=begin pod :pubdate('2010-12-17T06:19:48Z') :type<note> :tags<'firefox'>
+=TITLE Привет Человекам! "about:robots" #firefox
 
 =begin DESCRIPTION
 

@@ -1,5 +1,5 @@
 =begin pod :pubdate('2010-04-06T09:20:54Z') :type<note> 
-=NAME FriendFeed's Fade From the View of Downstream Traffic
+=TITLE FriendFeed's Fade From the View of Downstream Traffic
 
 =begin DESCRIPTION
 

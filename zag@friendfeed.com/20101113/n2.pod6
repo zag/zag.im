@@ -1,5 +1,5 @@
-=begin pod :pubdate('2010-11-13T05:42:25Z') :type<note> :tags<perl book>
-=NAME Modern Perl, by chromatic - Onyx Neon Press #perl #book
+=begin pod :pubdate('2010-11-13T05:42:25Z') :type<note> :tags<'perl', 'book'>
+=TITLE Modern Perl, by chromatic - Onyx Neon Press #perl #book
 
 =begin DESCRIPTION
 

@@ -1,5 +1,5 @@
 =begin pod :pubdate('2010-03-04T09:49:05Z') :type<note> 
-=NAME Moonlight is an open source implementation of Silverlight (http://silverlight.net), primarily for Linux and other Unix/X11 based operating systems.
+=TITLE Moonlight is an open source implementation of Silverlight (http://silverlight.net), primarily for Linux and other Unix/X11 based operating systems.
 
 =begin DESCRIPTION
 

@@ -1,5 +1,5 @@
-=begin pod :pubdate('2010-06-17T19:39:42Z') :type<note> :tags<ps3>
-=NAME В PlayStationStore появилась гора игровых видео с E3 #ps3.
+=begin pod :pubdate('2010-06-17T19:39:42Z') :type<note> :tags<'ps3'>
+=TITLE В PlayStationStore появилась гора игровых видео с E3 #ps3.
 
 =begin DESCRIPTION
 

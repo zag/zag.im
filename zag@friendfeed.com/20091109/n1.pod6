@@ -1,5 +1,5 @@
 =begin pod :pubdate('2009-11-09T08:13:45Z') :type<note> 
-=NAME Теперь каждый может создать свой сервис укорачивания ссылок ! Use Your Google Apps Domain To Make Short URL’s
+=TITLE Теперь каждый может создать свой сервис укорачивания ссылок ! Use Your Google Apps Domain To Make Short URL’s
 
 =begin DESCRIPTION
 

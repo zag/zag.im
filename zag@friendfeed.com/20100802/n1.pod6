@@ -1,5 +1,5 @@
 =begin pod :pubdate('2010-08-02T13:55:23Z') :type<note> 
-=NAME Anybot – эксклюзивные фотографии ваших будущих сотрудников | александр.moskalyuk.name
+=TITLE Anybot – эксклюзивные фотографии ваших будущих сотрудников | александр.moskalyuk.name
 
 =begin DESCRIPTION
 

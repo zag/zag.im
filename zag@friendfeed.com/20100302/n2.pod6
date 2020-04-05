@@ -1,5 +1,5 @@
 =begin pod :pubdate('2010-03-02T10:22:08Z') :type<note> 
-=NAME @ltemik по поводу торрентов: http://bit.ly/b09FCz стенография программы ТОЧКА http://bit.ly/bnK9hc
+=TITLE @ltemik по поводу торрентов: http://bit.ly/b09FCz стенография программы ТОЧКА http://bit.ly/bnK9hc
 
 =begin DESCRIPTION
 

@@ -1,5 +1,5 @@
 =begin pod :pubdate('2011-08-09T14:12:26Z') :type<note> 
-=NAME Chromium Blog: Connecting Web Apps with Web Intents
+=TITLE Chromium Blog: Connecting Web Apps with Web Intents
 
 =begin DESCRIPTION
 

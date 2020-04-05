@@ -1,5 +1,5 @@
 =begin pod :pubdate('2010-08-21T10:08:43Z') :type<note> 
-=NAME Петропавловская крепость
+=TITLE Петропавловская крепость
 
 =begin DESCRIPTION
 

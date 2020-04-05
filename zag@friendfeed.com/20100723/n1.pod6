@@ -1,5 +1,5 @@
 =begin pod :pubdate('2010-07-23T11:11:12Z') :type<note> 
-=NAME Правильная распальцовка для тру-ИТ-шников ( RT @mkrentovskiy )
+=TITLE Правильная распальцовка для тру-ИТ-шников ( RT @mkrentovskiy )
 
 =begin DESCRIPTION
 

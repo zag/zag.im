@@ -1,5 +1,5 @@
 =begin pod :pubdate('2011-08-16T07:20:29Z') :type<note> 
-=NAME Successfully upgraded my blog feed from RSS to Atom+ ActivityStreams !
+=TITLE Successfully upgraded my blog feed from RSS to Atom+ ActivityStreams !
 
 =begin DESCRIPTION
 

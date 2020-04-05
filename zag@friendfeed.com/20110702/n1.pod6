@@ -1,5 +1,5 @@
-=begin pod :pubdate('2011-07-02T19:01:40Z') :type<note> :tags<lvee>
-=NAME Подготовка к блицам на #lvee . Блицы - короткие доклады без вопросов из зала.
+=begin pod :pubdate('2011-07-02T19:01:40Z') :type<note> :tags<'lvee'>
+=TITLE Подготовка к блицам на #lvee . Блицы - короткие доклады без вопросов из зала.
 
 =begin DESCRIPTION
 

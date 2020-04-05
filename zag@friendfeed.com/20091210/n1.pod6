@@ -1,5 +1,5 @@
 =begin pod :pubdate('2009-12-10T12:53:50Z') :type<note> 
-=NAME Official support for NVIDIA graphics cards on amd64 architecture http://bit.ly/50x3yb
+=TITLE Official support for NVIDIA graphics cards on amd64 architecture http://bit.ly/50x3yb
 
 =begin DESCRIPTION
 

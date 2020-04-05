@@ -1,5 +1,5 @@
 =begin pod :pubdate('2011-03-17T21:03:17Z') :type<note> 
-=NAME RT @davewiner: New movie risks it all by launching on BitTorrent and DVD simutaneously. http://r2.ly/8cjb
+=TITLE RT @davewiner: New movie risks it all by launching on BitTorrent and DVD simutaneously. http://r2.ly/8cjb
 
 =begin DESCRIPTION
 

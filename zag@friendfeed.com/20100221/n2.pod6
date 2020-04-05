@@ -1,5 +1,5 @@
-=begin pod :pubdate('2010-02-21T06:14:17Z') :type<note> :tags<parrot perl>
-=NAME RT @chromatic_x: #parrot and Rakudo #perl 6 are now available in FreeBSD ports: http://www.freebsd.org/cgi/ports.cgi?query=parrot&stype=all
+=begin pod :pubdate('2010-02-21T06:14:17Z') :type<note> :tags<'parrot', 'perl'>
+=TITLE RT @chromatic_x: #parrot and Rakudo #perl 6 are now available in FreeBSD ports: http://www.freebsd.org/cgi/ports.cgi?query=parrot&stype=all
 
 =begin DESCRIPTION
 

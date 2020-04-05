@@ -1,5 +1,5 @@
-=begin pod :pubdate('2009-12-25T08:07:34Z') :type<note> :tags<avatarmovie>
-=NAME Pandorapedia - путеводитель по миру Пандоры. http://www.pandorapedia.com   #avatarmovie
+=begin pod :pubdate('2009-12-25T08:07:34Z') :type<note> :tags<'avatarmovie'>
+=TITLE Pandorapedia - путеводитель по миру Пандоры. http://www.pandorapedia.com   #avatarmovie
 
 =begin DESCRIPTION
 

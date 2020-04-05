@@ -1,5 +1,5 @@
 =begin pod :pubdate('2010-05-13T07:06:16Z') :type<note> 
-=NAME Introducing the Google Internet Stats site...
+=TITLE Introducing the Google Internet Stats site...
 
 =begin DESCRIPTION
 

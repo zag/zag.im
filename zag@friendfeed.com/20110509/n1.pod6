@@ -1,5 +1,5 @@
-=begin pod :pubdate('2011-05-09T05:45:58Z') :type<note> :tags<golang sppw>
-=NAME RT @bradfitz: Just presented about #golang in São Paolo at #sppw and released https://github.com/bradfitz/campher/ - Perl embedded in Go!
+=begin pod :pubdate('2011-05-09T05:45:58Z') :type<note> :tags<'golang', 'sppw'>
+=TITLE RT @bradfitz: Just presented about #golang in São Paolo at #sppw and released https://github.com/bradfitz/campher/ - Perl embedded in Go!
 
 =begin DESCRIPTION
 

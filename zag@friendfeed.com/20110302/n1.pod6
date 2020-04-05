@@ -1,5 +1,5 @@
 =begin pod :pubdate('2011-03-02T08:55:11Z') :type<note> 
-=NAME Простым языком, что такое распределенная социальная сеть. / Understand distributed social networks.
+=TITLE Простым языком, что такое распределенная социальная сеть. / Understand distributed social networks.
 
 =begin DESCRIPTION
 

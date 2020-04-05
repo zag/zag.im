@@ -1,5 +1,5 @@
 =begin pod :pubdate('2010-08-21T11:39:09Z') :type<note> 
-=NAME Земные соблазны
+=TITLE Земные соблазны
 
 =begin DESCRIPTION
 

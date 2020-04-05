@@ -1,5 +1,5 @@
 =begin pod :pubdate('2013-08-30T18:37:54Z') :type<note> 
-=NAME GNU 30th anniversary celebration and hackathon - GNU Project - Free Software Foundation
+=TITLE GNU 30th anniversary celebration and hackathon - GNU Project - Free Software Foundation
 
 =begin DESCRIPTION
 

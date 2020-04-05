@@ -1,5 +1,5 @@
 =begin pod :pubdate('2011-06-01T07:41:10Z') :type<note> 
-=NAME How to properly use UTF-8 in Perl http://bit.ly/igbaDG (http://bit.ly/lgZsPp)
+=TITLE How to properly use UTF-8 in Perl http://bit.ly/igbaDG (http://bit.ly/lgZsPp)
 
 =begin DESCRIPTION
 

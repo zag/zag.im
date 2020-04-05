@@ -1,5 +1,5 @@
 =begin pod :pubdate('2010-10-07T07:51:27Z') :type<note> 
-=NAME YouTube - Building Web Reputation Systems - http://www.youtube.com/watch?v=Yn7e0J9m6rE
+=TITLE YouTube - Building Web Reputation Systems - http://www.youtube.com/watch?v=Yn7e0J9m6rE
 
 =begin DESCRIPTION
 

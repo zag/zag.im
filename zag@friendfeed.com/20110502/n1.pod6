@@ -1,5 +1,5 @@
 =begin pod :pubdate('2011-05-02T05:12:15Z') :type<note> 
-=NAME Why You Should Think Twice About Opting-In to the Delicious-AVOS Transfer | ZDNet
+=TITLE Why You Should Think Twice About Opting-In to the Delicious-AVOS Transfer | ZDNet
 
 =begin DESCRIPTION
 

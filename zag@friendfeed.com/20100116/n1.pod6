@@ -1,5 +1,5 @@
-=begin pod :pubdate('2010-01-16T11:55:51Z') :type<note> :tags<playstation3>
-=NAME Купил mortal kombat в SonyStore  за 170р. Необычно делать покупки лежа в постели. #playstation3  рулит...
+=begin pod :pubdate('2010-01-16T11:55:51Z') :type<note> :tags<'playstation3'>
+=TITLE Купил mortal kombat в SonyStore  за 170р. Необычно делать покупки лежа в постели. #playstation3  рулит...
 
 =begin DESCRIPTION
 

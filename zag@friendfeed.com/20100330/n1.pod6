@@ -1,5 +1,5 @@
 =begin pod :pubdate('2010-03-30T18:57:29Z') :type<note> 
-=NAME The State of the Internet Operating System - O'Reilly Radar
+=TITLE The State of the Internet Operating System - O'Reilly Radar
 
 =begin DESCRIPTION
 

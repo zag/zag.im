@@ -1,5 +1,5 @@
-=begin pod :pubdate('2012-06-08T12:02:22Z') :type<note> :tags<lvee>
-=NAME http://t.co/mMQTBdI0 pdf чтобы читался #lvee
+=begin pod :pubdate('2012-06-08T12:02:22Z') :type<note> :tags<'lvee'>
+=TITLE http://t.co/mMQTBdI0 pdf чтобы читался #lvee
 
 =begin DESCRIPTION
 

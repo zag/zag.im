@@ -1,5 +1,5 @@
-=begin pod :pubdate('2011-09-02T07:02:15Z') :type<note> :tags<foss>
-=NAME В этом году пропустил круглую дату: я на SourceForge - 10 лет. #foss http://t.co/TJ2Y4jn
+=begin pod :pubdate('2011-09-02T07:02:15Z') :type<note> :tags<'foss'>
+=TITLE В этом году пропустил круглую дату: я на SourceForge - 10 лет. #foss http://t.co/TJ2Y4jn
 
 =begin DESCRIPTION
 

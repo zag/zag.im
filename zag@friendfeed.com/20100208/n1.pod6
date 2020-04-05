@@ -1,5 +1,5 @@
-=begin pod :pubdate('2010-02-08T19:07:05Z') :type<note> :tags<perl6 Pod>
-=NAME implemented =table block for #perl6 's #Pod http://search.cpan.org/dist/Perl6-Pod/
+=begin pod :pubdate('2010-02-08T19:07:05Z') :type<note> :tags<'perl6', 'Pod'>
+=TITLE implemented =table block for #perl6 's #Pod http://search.cpan.org/dist/Perl6-Pod/
 
 =begin DESCRIPTION
 

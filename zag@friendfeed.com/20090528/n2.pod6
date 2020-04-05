@@ -1,5 +1,5 @@
-=begin pod :pubdate('2009-05-28T07:32:10Z') :type<note> :tags<ok2009>
-=NAME РИФ+КИБ еще один сериал выложен: http://ok2009.ru/video/ #ok2009
+=begin pod :pubdate('2009-05-28T07:32:10Z') :type<note> :tags<'ok2009'>
+=TITLE РИФ+КИБ еще один сериал выложен: http://ok2009.ru/video/ #ok2009
 
 =begin DESCRIPTION
 

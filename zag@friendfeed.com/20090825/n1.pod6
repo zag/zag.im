@@ -1,5 +1,5 @@
 =begin pod :pubdate('2009-08-25T08:18:03Z') :type<note> 
-=NAME Jump bike, jump ! [pic] http://s.imhonet.ru/trash/large/93/f3/93f3373c1868dd7e55913a373b9b9204.gif
+=TITLE Jump bike, jump ! [pic] http://s.imhonet.ru/trash/large/93/f3/93f3373c1868dd7e55913a373b9b9204.gif
 
 =begin DESCRIPTION
 

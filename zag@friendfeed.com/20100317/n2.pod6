@@ -1,5 +1,5 @@
 =begin pod :pubdate('2010-03-17T09:23:22Z') :type<note> 
-=NAME testing vs compiling
+=TITLE testing vs compiling
 
 =begin DESCRIPTION
 

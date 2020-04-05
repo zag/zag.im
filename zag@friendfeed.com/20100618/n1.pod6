@@ -1,5 +1,5 @@
 =begin pod :pubdate('2010-06-18T15:43:06Z') :type<note> 
-=NAME Сделал заготовку  последнего поста в свой блог на zag.ru.
+=TITLE Сделал заготовку  последнего поста в свой блог на zag.ru.
 
 =begin DESCRIPTION
 

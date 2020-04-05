@@ -1,5 +1,5 @@
 =begin pod :pubdate('2010-08-25T13:36:14Z') :type<note> 
-=NAME Announcing the release of Fedora 14 Alpha [LWN.net]: "Fedora 14 comes with Rakudo Perl, an implementation of the Perl 6 specification based on the Parrot virtual machine, which enables developers to write new applications or port existing ones to Perl 6."
+=TITLE Announcing the release of Fedora 14 Alpha [LWN.net]: "Fedora 14 comes with Rakudo Perl, an implementation of the Perl 6 specification based on the Parrot virtual machine, which enables developers to write new applications or port existing ones to Perl 6."
 
 =begin DESCRIPTION
 

@@ -1,5 +1,5 @@
 =begin pod :pubdate('2012-12-19T17:42:06Z') :type<note> 
-=NAME cema: о памяти и документации (рус.)
+=TITLE cema: о памяти и документации (рус.)
 
 =begin DESCRIPTION
 

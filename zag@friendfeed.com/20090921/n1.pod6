@@ -1,5 +1,5 @@
-=begin pod :pubdate('2009-09-21T09:49:10Z') :type<note> :tags<chrome freebsd>
-=NAME read: porting Chromium to FreeBSD #chrome #freebsd http://www.links.org/?p=724
+=begin pod :pubdate('2009-09-21T09:49:10Z') :type<note> :tags<'chrome', 'freebsd'>
+=TITLE read: porting Chromium to FreeBSD #chrome #freebsd http://www.links.org/?p=724
 
 =begin DESCRIPTION
 

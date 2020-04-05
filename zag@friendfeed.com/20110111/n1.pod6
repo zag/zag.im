@@ -1,5 +1,5 @@
-=begin pod :pubdate('2011-01-11T18:32:20Z') :type<note> :tags<perl6 FreeBSD>
-=NAME Update lang/rakudo to December Rakudo Star 2010.12 #perl6 #FreeBSD (PR: http://bit.ly/f5NNSX, port: http://bit.ly/g2XmFV)
+=begin pod :pubdate('2011-01-11T18:32:20Z') :type<note> :tags<'perl6', 'FreeBSD'>
+=TITLE Update lang/rakudo to December Rakudo Star 2010.12 #perl6 #FreeBSD (PR: http://bit.ly/f5NNSX, port: http://bit.ly/g2XmFV)
 
 =begin DESCRIPTION
 

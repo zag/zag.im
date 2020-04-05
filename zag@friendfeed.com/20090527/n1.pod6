@@ -1,5 +1,5 @@
-=begin pod :pubdate('2009-05-27T10:44:07Z') :type<note> :tags<rootconf>
-=NAME Я уже знаю чем буду заниматься на выходных : (http://clck.ru/7XV) #rootconf
+=begin pod :pubdate('2009-05-27T10:44:07Z') :type<note> :tags<'rootconf'>
+=TITLE Я уже знаю чем буду заниматься на выходных : (http://clck.ru/7XV) #rootconf
 
 =begin DESCRIPTION
 

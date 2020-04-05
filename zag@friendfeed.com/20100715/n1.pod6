@@ -1,5 +1,5 @@
 =begin pod :pubdate('2010-07-15T09:44:59Z') :type<note> 
-=NAME 'The chicken came first, not the egg', scientists prove
+=TITLE 'The chicken came first, not the egg', scientists prove
 
 =begin DESCRIPTION
 

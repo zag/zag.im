@@ -1,5 +1,5 @@
 =begin pod :pubdate('2011-03-23T11:34:32Z') :type<note> 
-=NAME Убегающая пушнина
+=TITLE Убегающая пушнина
 
 =begin DESCRIPTION
 

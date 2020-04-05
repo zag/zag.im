@@ -1,5 +1,5 @@
 =begin pod :pubdate('2010-10-14T09:03:41Z') :type<note> 
-=NAME Goollery - A collection of awesome Google-related projects from people around the world
+=TITLE Goollery - A collection of awesome Google-related projects from people around the world
 
 =begin DESCRIPTION
 

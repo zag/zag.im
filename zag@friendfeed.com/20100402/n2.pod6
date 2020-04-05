@@ -1,5 +1,5 @@
 =begin pod :pubdate('2010-04-02T15:50:02Z') :type<note> 
-=NAME Erlang: "Я рекомендовал Ваш курс всем пацанам на раёне, они уже пошли добывать на него деньги " http://bit.ly/aU2Zqz
+=TITLE Erlang: "Я рекомендовал Ваш курс всем пацанам на раёне, они уже пошли добывать на него деньги " http://bit.ly/aU2Zqz
 
 =begin DESCRIPTION
 

@@ -1,5 +1,5 @@
 =begin pod :pubdate('2011-04-21T13:25:38Z') :type<note> 
-=NAME Ссудный день для моих персональных данных. http://zag.ru/a4BR2
+=TITLE Ссудный день для моих персональных данных. http://zag.ru/a4BR2
 
 =begin DESCRIPTION
 

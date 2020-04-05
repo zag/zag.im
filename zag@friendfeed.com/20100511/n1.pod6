@@ -1,5 +1,5 @@
 =begin pod :pubdate('2010-05-11T08:59:24Z') :type<note> 
-=NAME IBM Debuts New Social Media Analytics Tool.
+=TITLE IBM Debuts New Social Media Analytics Tool.
 
 =begin DESCRIPTION
 

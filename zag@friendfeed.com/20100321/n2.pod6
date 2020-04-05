@@ -1,5 +1,5 @@
 =begin pod :pubdate('2010-03-21T04:58:16Z') :type<note> 
-=NAME The Beauty of India: 50 Amazing Photos - Smashing Magazine
+=TITLE The Beauty of India: 50 Amazing Photos - Smashing Magazine
 
 =begin DESCRIPTION
 

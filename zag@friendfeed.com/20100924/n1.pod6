@@ -1,5 +1,5 @@
 =begin pod :pubdate('2010-09-24T20:27:12Z') :type<note> 
-=NAME RT @avarab: I'm hypnotized by http://lmgtfy.com/?q=cache:lmgtfy.com
+=TITLE RT @avarab: I'm hypnotized by http://lmgtfy.com/?q=cache:lmgtfy.com
 
 =begin DESCRIPTION
 

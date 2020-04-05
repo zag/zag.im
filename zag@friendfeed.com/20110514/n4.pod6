@@ -1,5 +1,5 @@
-=begin pod :pubdate('2011-05-14T10:03:59Z') :type<note> :tags<yandex yapc>
-=NAME 90 млн фидов в поиске по блогам у #yandex #yapc
+=begin pod :pubdate('2011-05-14T10:03:59Z') :type<note> :tags<'yandex', 'yapc'>
+=TITLE 90 млн фидов в поиске по блогам у #yandex #yapc
 
 =begin DESCRIPTION
 

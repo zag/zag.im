@@ -1,5 +1,5 @@
 =begin pod :pubdate('2011-05-24T13:06:24Z') :type<note> 
-=NAME Duke Nukem Forever has gone gold! - http://yfrog.com/h7j7qujhj (via http://ff.im/E55Eq)
+=TITLE Duke Nukem Forever has gone gold! - http://yfrog.com/h7j7qujhj (via http://ff.im/E55Eq)
 
 =begin DESCRIPTION
 

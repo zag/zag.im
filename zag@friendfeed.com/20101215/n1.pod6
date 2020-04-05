@@ -1,5 +1,5 @@
 =begin pod :pubdate('2010-12-15T20:01:24Z') :type<note> 
-=NAME RT @perlbuzz: Calling native libraries from Perl 6 http://perl6advent.wordpress.com/2010/12/15/day-15-calling-native-libraries-from-perl-6/
+=TITLE RT @perlbuzz: Calling native libraries from Perl 6 http://perl6advent.wordpress.com/2010/12/15/day-15-calling-native-libraries-from-perl-6/
 
 =begin DESCRIPTION
 

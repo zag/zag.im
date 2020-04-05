@@ -1,5 +1,5 @@
 =begin pod :pubdate('2011-08-13T07:45:53Z') :type<note> 
-=NAME Soocial • Easy & Complete Contacts Sync. "Yes, finally one address book to rule them all"
+=TITLE Soocial • Easy & Complete Contacts Sync. "Yes, finally one address book to rule them all"
 
 =begin DESCRIPTION
 

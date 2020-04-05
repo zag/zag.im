@@ -1,5 +1,5 @@
-=begin pod :pubdate('2010-07-19T06:57:32Z') :type<note> :tags<perl6>
-=NAME #perl6  исполнилось 10 лет : http://use.perl.org/~masak/journal/40451 , http://news.ycombinator.com/item?id=1526575
+=begin pod :pubdate('2010-07-19T06:57:32Z') :type<note> :tags<'perl6'>
+=TITLE #perl6  исполнилось 10 лет : http://use.perl.org/~masak/journal/40451 , http://news.ycombinator.com/item?id=1526575
 
 =begin DESCRIPTION
 

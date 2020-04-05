@@ -1,5 +1,5 @@
-=begin pod :pubdate('2010-01-13T08:23:46Z') :type<note> :tags<freebsd>
-=NAME pf (packet filter) появился в 2001 году в openbsd 3.0. В портах freebsd c 2003 года. В base system #freebsd с 5-STABLE (2004 год)
+=begin pod :pubdate('2010-01-13T08:23:46Z') :type<note> :tags<'freebsd'>
+=TITLE pf (packet filter) появился в 2001 году в openbsd 3.0. В портах freebsd c 2003 года. В base system #freebsd с 5-STABLE (2004 год)
 
 =begin DESCRIPTION
 

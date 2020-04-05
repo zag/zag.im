@@ -1,5 +1,5 @@
 =begin pod :pubdate('2010-01-14T12:24:50Z') :type<note> 
-=NAME Dexter’s Michael C. Hall Has Cancer
+=TITLE Dexter’s Michael C. Hall Has Cancer
 
 =begin DESCRIPTION
 

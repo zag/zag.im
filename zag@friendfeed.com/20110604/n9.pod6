@@ -1,5 +1,5 @@
-=begin pod :pubdate('2011-06-04T08:32:53Z') :type<note> :tags<devconf_ru>
-=NAME Про структуру бд при коммандной обработке. "Обновляшки" на php ... #devconf_ru
+=begin pod :pubdate('2011-06-04T08:32:53Z') :type<note> :tags<'devconf_ru'>
+=TITLE Про структуру бд при коммандной обработке. "Обновляшки" на php ... #devconf_ru
 
 =begin DESCRIPTION
 

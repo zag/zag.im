@@ -1,5 +1,5 @@
-=begin pod :pubdate('2009-09-07T07:22:40Z') :type<note> :tags<perl>
-=NAME following @TimToady (Larry Wall) #perl
+=begin pod :pubdate('2009-09-07T07:22:40Z') :type<note> :tags<'perl'>
+=TITLE following @TimToady (Larry Wall) #perl
 
 =begin DESCRIPTION
 

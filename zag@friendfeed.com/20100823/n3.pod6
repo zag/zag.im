@@ -1,5 +1,5 @@
 =begin pod :pubdate('2010-08-23T07:48:19Z') :type<note> 
-=NAME Fwd: Architecture - MonoDroid - http://monodroid.net/Documentation/Architecture# (via http://ff.im/py8CJ)
+=TITLE Fwd: Architecture - MonoDroid - http://monodroid.net/Documentation/Architecture# (via http://ff.im/py8CJ)
 
 =begin DESCRIPTION
 

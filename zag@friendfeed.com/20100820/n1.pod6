@@ -1,5 +1,5 @@
 =begin pod :pubdate('2010-08-20T18:09:31Z') :type<note> 
-=NAME The End of Open FF, For Me Anyway
+=TITLE The End of Open FF, For Me Anyway
 
 =begin DESCRIPTION
 

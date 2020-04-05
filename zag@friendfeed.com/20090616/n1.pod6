@@ -1,5 +1,5 @@
 =begin pod :pubdate('2009-06-16T06:55:34Z') :type<note> 
-=NAME StarCraft II is coming ... - at October 31, 2009 !!!(PC/Mac) http://tinyurl.com/mbt7pk
+=TITLE StarCraft II is coming ... - at October 31, 2009 !!!(PC/Mac) http://tinyurl.com/mbt7pk
 
 =begin DESCRIPTION
 

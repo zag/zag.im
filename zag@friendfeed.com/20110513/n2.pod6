@@ -1,5 +1,5 @@
-=begin pod :pubdate('2011-05-13T18:18:03Z') :type<note> :tags<perl6>
-=NAME Пятница, 13. Солнце село за село. Twitter лежит. Готовлю очередную версию книги о #perl6 http://zag.ru/perl6-book/
+=begin pod :pubdate('2011-05-13T18:18:03Z') :type<note> :tags<'perl6'>
+=TITLE Пятница, 13. Солнце село за село. Twitter лежит. Готовлю очередную версию книги о #perl6 http://zag.ru/perl6-book/
 
 =begin DESCRIPTION
 

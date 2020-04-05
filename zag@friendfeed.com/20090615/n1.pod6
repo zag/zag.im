@@ -1,5 +1,5 @@
 =begin pod :pubdate('2009-06-15T11:15:27Z') :type<note> 
-=NAME Фотографии разных поездов
+=TITLE Фотографии разных поездов
 
 =begin DESCRIPTION
 

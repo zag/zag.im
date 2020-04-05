@@ -1,5 +1,5 @@
-=begin pod :pubdate('2010-02-21T13:28:56Z') :type<note> :tags<ps3>
-=NAME Completed: Ratchet & Clank Future: A Crack in Time #ps3
+=begin pod :pubdate('2010-02-21T13:28:56Z') :type<note> :tags<'ps3'>
+=TITLE Completed: Ratchet & Clank Future: A Crack in Time #ps3
 
 =begin DESCRIPTION
 

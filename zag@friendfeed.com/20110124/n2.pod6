@@ -1,5 +1,5 @@
 =begin pod :pubdate('2011-01-24T10:44:40Z') :type<note> 
-=NAME Что можно сделать из зажигалок?
+=TITLE Что можно сделать из зажигалок?
 
 =begin DESCRIPTION
 

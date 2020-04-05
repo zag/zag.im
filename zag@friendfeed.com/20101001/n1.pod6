@@ -1,5 +1,5 @@
-=begin pod :pubdate('2010-10-01T13:08:04Z') :type<note> :tags<yac2010>
-=NAME Написал письмо в почтовый ящик яндекс #yac2010
+=begin pod :pubdate('2010-10-01T13:08:04Z') :type<note> :tags<'yac2010'>
+=TITLE Написал письмо в почтовый ящик яндекс #yac2010
 
 =begin DESCRIPTION
 

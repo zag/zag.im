@@ -1,5 +1,5 @@
 =begin pod :pubdate('2010-12-11T12:21:11Z') :type<note> 
-=NAME Главный блиндаж
+=TITLE Главный блиндаж
 
 =begin DESCRIPTION
 

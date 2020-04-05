@@ -1,5 +1,5 @@
-=begin pod :pubdate('2010-09-15T11:00:52Z') :type<note> :tags<perl6>
-=NAME People of Perl 6: Moritz Lenz. #perl6
+=begin pod :pubdate('2010-09-15T11:00:52Z') :type<note> :tags<'perl6'>
+=TITLE People of Perl 6: Moritz Lenz. #perl6
 
 =begin DESCRIPTION
 

@@ -1,5 +1,5 @@
 =begin pod :pubdate('2010-03-25T11:37:05Z') :type<note> 
-=NAME Github explorer
+=TITLE Github explorer
 
 =begin DESCRIPTION
 

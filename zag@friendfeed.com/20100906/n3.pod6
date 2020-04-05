@@ -1,5 +1,5 @@
-=begin pod :pubdate('2010-09-06T07:25:19Z') :type<note> :tags<perl6>
-=NAME RT @perlbuzz: Take a look at the speed improvements in Rakudo Star #perl6 http://gil.di.uminho.pt/users/smash/rakudo-bench.html
+=begin pod :pubdate('2010-09-06T07:25:19Z') :type<note> :tags<'perl6'>
+=TITLE RT @perlbuzz: Take a look at the speed improvements in Rakudo Star #perl6 http://gil.di.uminho.pt/users/smash/rakudo-bench.html
 
 =begin DESCRIPTION
 

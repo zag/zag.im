@@ -1,5 +1,5 @@
-=begin pod :pubdate('2010-04-24T08:36:03Z') :type<note> :tags<parrot rakudo Freebsd>
-=NAME Latest versions of #parrot "Samoan Lory" and #rakudo "Moscow" now available in #Freebsd ports tree
+=begin pod :pubdate('2010-04-24T08:36:03Z') :type<note> :tags<'parrot', 'rakudo', 'Freebsd'>
+=TITLE Latest versions of #parrot "Samoan Lory" and #rakudo "Moscow" now available in #Freebsd ports tree
 
 =begin DESCRIPTION
 

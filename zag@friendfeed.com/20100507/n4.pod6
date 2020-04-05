@@ -1,5 +1,5 @@
 =begin pod :pubdate('2010-05-07T12:39:54Z') :type<note> 
-=NAME Official Google Enterprise Blog: More Google applications coming for Google Apps customers
+=TITLE Official Google Enterprise Blog: More Google applications coming for Google Apps customers
 
 =begin DESCRIPTION
 

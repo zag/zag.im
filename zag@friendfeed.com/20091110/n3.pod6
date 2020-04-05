@@ -1,5 +1,5 @@
-=begin pod :pubdate('2009-11-10T09:17:14Z') :type<note> :tags<gdd09ru>
-=NAME Яндех сказал спасибо Google за Developer Day #gdd09ru
+=begin pod :pubdate('2009-11-10T09:17:14Z') :type<note> :tags<'gdd09ru'>
+=TITLE Яндех сказал спасибо Google за Developer Day #gdd09ru
 
 =begin DESCRIPTION
 

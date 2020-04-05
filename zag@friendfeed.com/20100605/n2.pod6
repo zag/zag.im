@@ -1,5 +1,5 @@
 =begin pod :pubdate('2010-06-05T15:51:07Z') :type<note> 
-=NAME В лесу ягод и грибов еще нет...
+=TITLE В лесу ягод и грибов еще нет...
 
 =begin DESCRIPTION
 

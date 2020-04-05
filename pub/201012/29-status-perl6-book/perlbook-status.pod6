@@ -1,4 +1,4 @@
-=begin pod :pubdate('2010-12-29 12:00:00') :tags<pod6 perl6 pod perl>
+=begin pod :pubdate('2010-12-29 12:00:00') :tags<'pod6' 'perl6' 'pod' 'perl>
 =NAME Статус книги "Все о Perl 6"
 
 =begin DESCRIPTION
@@ -40,7 +40,7 @@ cover_draft.jpg
 
 Чтобы приступить к переводу или добавить свои материалы в книгу, достаточно быть зарегистрированным пользователем Github. Дальнейшие действия следующие:
 
-=begin  item :numbered 
+=begin item :numbered 
 На странице L<https://github.com/zag/ru-perl6-book> делаете "fork" проекта N<Forking a project.L<http://help.github.com/forking/>>.
 
 =end item

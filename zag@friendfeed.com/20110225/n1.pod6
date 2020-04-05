@@ -1,5 +1,5 @@
 =begin pod :pubdate('2011-02-25T06:16:36Z') :type<note> 
-=NAME Infographic: How Netflix is Destroying Blockbuster | /Film
+=TITLE Infographic: How Netflix is Destroying Blockbuster | /Film
 
 =begin DESCRIPTION
 

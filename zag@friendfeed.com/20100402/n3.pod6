@@ -1,5 +1,5 @@
 =begin pod :pubdate('2010-04-02T15:44:08Z') :type<note> 
-=NAME piggymouse: QotD / Это завело меня в тупик
+=TITLE piggymouse: QotD / Это завело меня в тупик
 
 =begin DESCRIPTION
 

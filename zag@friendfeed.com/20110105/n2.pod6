@@ -1,5 +1,5 @@
-=begin pod :pubdate('2011-01-05T20:40:25Z') :type<note> :tags<FreeBSD java>
-=NAME Установка openjdk6  лечит ошибку ant : "Failed to copy ... Function not implemented"  #FreeBSD #java.   http://www.liferay.com/community/forums/-/message_boards/message/6112409;jsessionid=907345ECF21E53E9AA8032F94A320308.node-1
+=begin pod :pubdate('2011-01-05T20:40:25Z') :type<note> :tags<'FreeBSD', 'java'>
+=TITLE Установка openjdk6  лечит ошибку ant : "Failed to copy ... Function not implemented"  #FreeBSD #java.   http://www.liferay.com/community/forums/-/message_boards/message/6112409;jsessionid=907345ECF21E53E9AA8032F94A320308.node-1
 
 =begin DESCRIPTION
 

@@ -1,5 +1,5 @@
 =begin pod :pubdate('2010-04-01T09:31:38Z') :type<note> 
-=NAME File Transfers Coming to Gmail Chat
+=TITLE File Transfers Coming to Gmail Chat
 
 =begin DESCRIPTION
 

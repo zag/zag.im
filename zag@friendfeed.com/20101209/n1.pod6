@@ -1,5 +1,5 @@
 =begin pod :pubdate('2010-12-09T21:16:40Z') :type<note> 
-=NAME CoffeeScript - CoffeeScript is a little language that compiles into JavaScript.
+=TITLE CoffeeScript - CoffeeScript is a little language that compiles into JavaScript.
 
 =begin DESCRIPTION
 

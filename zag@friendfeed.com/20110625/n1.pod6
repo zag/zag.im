@@ -1,5 +1,5 @@
 =begin pod :pubdate('2011-06-25T21:19:50Z') :type<note> 
-=NAME RT @davewiner: Scripting News: API designers should be writers. http://r2.ly/am4p
+=TITLE RT @davewiner: Scripting News: API designers should be writers. http://r2.ly/am4p
 
 =begin DESCRIPTION
 

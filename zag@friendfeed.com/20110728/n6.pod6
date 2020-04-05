@@ -1,5 +1,5 @@
 =begin pod :pubdate('2011-07-28T08:45:51Z') :type<note> 
-=NAME nodejitsu - enterprise-class cloud hosting for node.js applications and websites
+=TITLE nodejitsu - enterprise-class cloud hosting for node.js applications and websites
 
 =begin DESCRIPTION
 

@@ -1,5 +1,5 @@
-=begin pod :pubdate('2010-12-26T11:35:44Z') :type<note> :tags<TRON>
-=NAME В  процессе  просмотра фильма услышал приветствие: "Мира вам, программы !". Вдруг в оригинале:  "Hello world, the program !" ? #TRON: Legacy excellent !
+=begin pod :pubdate('2010-12-26T11:35:44Z') :type<note> :tags<'TRON'>
+=TITLE В  процессе  просмотра фильма услышал приветствие: "Мира вам, программы !". Вдруг в оригинале:  "Hello world, the program !" ? #TRON: Legacy excellent !
 
 =begin DESCRIPTION
 

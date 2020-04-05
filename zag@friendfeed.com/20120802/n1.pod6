@@ -1,5 +1,5 @@
 =begin pod :pubdate('2012-08-02T08:02:34Z') :type<note> 
-=NAME Больше всего в GWT мне нравилось  - это декларативный способ описания интерфейса в сочетании с UiBinder (где-то со версии 2.0) Вообще много положительных воспоминаний.Это я к тому, что похоже Google по старой индейской традиции отталкивает от берега лодку с GWT:  http://www.i-programmer.info/news/81-web-general/4459-gwt-swept-under-open-source.html
+=TITLE Больше всего в GWT мне нравилось  - это декларативный способ описания интерфейса в сочетании с UiBinder (где-то со версии 2.0) Вообще много положительных воспоминаний.Это я к тому, что похоже Google по старой индейской традиции отталкивает от берега лодку с GWT:  http://www.i-programmer.info/news/81-web-general/4459-gwt-swept-under-open-source.html
 
 =begin DESCRIPTION
 

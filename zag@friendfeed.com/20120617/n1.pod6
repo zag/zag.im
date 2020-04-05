@@ -1,5 +1,5 @@
-=begin pod :pubdate('2012-06-17T06:54:39Z') :type<note> :tags<perl6>
-=NAME Rakudo Perl 6 on Android ICS 4.0.3 #perl6
+=begin pod :pubdate('2012-06-17T06:54:39Z') :type<note> :tags<'perl6'>
+=TITLE Rakudo Perl 6 on Android ICS 4.0.3 #perl6
 
 =begin DESCRIPTION
 

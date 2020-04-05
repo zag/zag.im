@@ -1,5 +1,5 @@
 =begin pod :pubdate('2011-05-23T04:11:01Z') :type<note> 
-=NAME Easily create mobile web app mocks you can share,
+=TITLE Easily create mobile web app mocks you can share,
 test on multiple platforms, and use in production.
 
 =begin DESCRIPTION

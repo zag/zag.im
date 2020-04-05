@@ -1,5 +1,5 @@
-=begin pod :pubdate('2011-03-03T06:23:35Z') :type<note> :tags<tron>
-=NAME The Tron Lebowski /sketch/ #tron :  http://www.collegehumor.com/video:1948233
+=begin pod :pubdate('2011-03-03T06:23:35Z') :type<note> :tags<'tron'>
+=TITLE The Tron Lebowski /sketch/ #tron :  http://www.collegehumor.com/video:1948233
 
 =begin DESCRIPTION
 

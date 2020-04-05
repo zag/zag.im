@@ -1,5 +1,5 @@
 =begin pod :pubdate('2010-11-09T09:48:50Z') :type<note> 
-=NAME The Best CAPTCHA Ever
+=TITLE The Best CAPTCHA Ever
 
 =begin DESCRIPTION
 

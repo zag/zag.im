@@ -1,5 +1,5 @@
 =begin pod :pubdate('2010-10-05T09:57:39Z') :type<note> 
-=NAME Apache Mahout:: Scalable machine-learning and data-mining library. Mahout currently has: Collaborative Filtering, User and Item based recommenders, K-Means, Fuzzy K-Means clustering, Naive Bayes classifier ...
+=TITLE Apache Mahout:: Scalable machine-learning and data-mining library. Mahout currently has: Collaborative Filtering, User and Item based recommenders, K-Means, Fuzzy K-Means clustering, Naive Bayes classifier ...
 
 =begin DESCRIPTION
 

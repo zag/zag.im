@@ -1,5 +1,5 @@
-=begin pod :pubdate('2010-07-19T07:12:29Z') :type<note> :tags<friendfeed>
-=NAME Гейт для публикации в #friendfeed с помощью email (share@friendfeed.com)  совсем испортился. Сегодня пришли уведомления о невозможности доставки писем в течение 2 дней.
+=begin pod :pubdate('2010-07-19T07:12:29Z') :type<note> :tags<'friendfeed'>
+=TITLE Гейт для публикации в #friendfeed с помощью email (share@friendfeed.com)  совсем испортился. Сегодня пришли уведомления о невозможности доставки писем в течение 2 дней.
 
 =begin DESCRIPTION
 

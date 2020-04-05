@@ -1,5 +1,5 @@
-=begin pod :pubdate('2011-06-04T10:29:25Z') :type<note> :tags<devconf_ru>
-=NAME Доклад про интегацию javascript frameworks и ruby on rails оказался очень познавательным. #devconf_ru
+=begin pod :pubdate('2011-06-04T10:29:25Z') :type<note> :tags<'devconf_ru'>
+=TITLE Доклад про интегацию javascript frameworks и ruby on rails оказался очень познавательным. #devconf_ru
 
 =begin DESCRIPTION
 

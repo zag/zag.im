@@ -1,5 +1,5 @@
 =begin pod :pubdate('2009-06-03T08:24:54Z') :type<note> 
-=NAME Install search addon for bing.com http://bit.ly/FaxAf
+=TITLE Install search addon for bing.com http://bit.ly/FaxAf
 
 =begin DESCRIPTION
 

@@ -1,5 +1,5 @@
-=begin pod :pubdate('2010-04-28T18:09:07Z') :type<note> :tags<Webbys>
-=NAME Who deserves to be champ? I say @99DESIGNS in WebServices/Apps, in 3rd place in the #Webbys. VOTE: http://bit.ly/c4Trmy
+=begin pod :pubdate('2010-04-28T18:09:07Z') :type<note> :tags<'Webbys'>
+=TITLE Who deserves to be champ? I say @99DESIGNS in WebServices/Apps, in 3rd place in the #Webbys. VOTE: http://bit.ly/c4Trmy
 
 =begin DESCRIPTION
 

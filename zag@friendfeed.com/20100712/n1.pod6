@@ -1,5 +1,5 @@
 =begin pod :pubdate('2010-07-12T09:46:32Z') :type<note> 
-=NAME Web Apps - Stack Exchange
+=TITLE Web Apps - Stack Exchange
 
 =begin DESCRIPTION
 

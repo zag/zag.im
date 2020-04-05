@@ -1,5 +1,5 @@
 =begin pod :pubdate('2011-08-21T08:59:27Z') :type<note> 
-=NAME Scripting Languages: PHP, Perl, Python, Ruby - Hyperpolyglot
+=TITLE Scripting Languages: PHP, Perl, Python, Ruby - Hyperpolyglot
 
 =begin DESCRIPTION
 

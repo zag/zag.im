@@ -1,5 +1,5 @@
 =begin pod :pubdate('2009-12-17T04:35:47Z') :type<note> 
-=NAME Вчера поздно вечером смотрел интервью Познера с Гайдаром. Оказалось: http://www.rian.ru/incidents/20091216/199533188.html
+=TITLE Вчера поздно вечером смотрел интервью Познера с Гайдаром. Оказалось: http://www.rian.ru/incidents/20091216/199533188.html
 
 =begin DESCRIPTION
 

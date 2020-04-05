@@ -1,5 +1,5 @@
 =begin pod :pubdate('2009-06-18T09:25:22Z') :type<note> 
-=NAME Famous People Painting "Discussing the Divine Comedy with Dante"
+=TITLE Famous People Painting "Discussing the Divine Comedy with Dante"
 
 =begin DESCRIPTION
 

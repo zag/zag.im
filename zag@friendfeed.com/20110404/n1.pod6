@@ -1,5 +1,5 @@
-=begin pod :pubdate('2011-04-04T04:51:51Z') :type<note> :tags<Tron>
-=NAME jtnimoy - Tron Legacy (2010). #Tron Legacy: how the special effects were done.
+=begin pod :pubdate('2011-04-04T04:51:51Z') :type<note> :tags<'Tron'>
+=TITLE jtnimoy - Tron Legacy (2010). #Tron Legacy: how the special effects were done.
 
 =begin DESCRIPTION
 

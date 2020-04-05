@@ -1,5 +1,5 @@
 =begin pod :pubdate('2010-10-31T06:38:56Z') :type<note> 
-=NAME "Dead Drops’ is an anonymous, offline, peer to peer file-sharing network in public space"
+=TITLE "Dead Drops’ is an anonymous, offline, peer to peer file-sharing network in public space"
 
 =begin DESCRIPTION
 

@@ -1,5 +1,5 @@
-=begin pod :pubdate('2010-07-02T19:03:42Z') :type<note> :tags<lvee>
-=NAME На #lvee начался разлив пива и приготовление шашлыков.
+=begin pod :pubdate('2010-07-02T19:03:42Z') :type<note> :tags<'lvee'>
+=TITLE На #lvee начался разлив пива и приготовление шашлыков.
 
 =begin DESCRIPTION
 

@@ -1,5 +1,5 @@
 =begin pod :pubdate('2012-09-07T14:31:08Z') :type<note> 
-=NAME Amazon Web Services Blog: Amazon S3 - Cross Origin Resource Sharing Support
+=TITLE Amazon Web Services Blog: Amazon S3 - Cross Origin Resource Sharing Support
 
 =begin DESCRIPTION
 

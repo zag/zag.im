@@ -1,5 +1,5 @@
-=begin pod :pubdate('2011-06-04T12:48:35Z') :type<note> :tags<devconf_ru>
-=NAME В perl секции замена. Вместо SystemTap будет Ubic - service manager на perl. #devconf_ru
+=begin pod :pubdate('2011-06-04T12:48:35Z') :type<note> :tags<'devconf_ru'>
+=TITLE В perl секции замена. Вместо SystemTap будет Ubic - service manager на perl. #devconf_ru
 
 =begin DESCRIPTION
 

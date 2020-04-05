@@ -1,5 +1,5 @@
 =begin pod :pubdate('2009-09-02T08:21:18Z') :type<note> 
-=NAME I started posting to FriendFeed on May 10th, 2008 (479 days ago)
+=TITLE I started posting to FriendFeed on May 10th, 2008 (479 days ago)
 
 =begin DESCRIPTION
 

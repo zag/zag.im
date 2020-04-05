@@ -1,5 +1,5 @@
 =begin pod :pubdate('2010-01-21T04:44:03Z') :type<note> 
-=NAME Как качать будем — Rambler.Сайты дня
+=TITLE Как качать будем — Rambler.Сайты дня
 
 =begin DESCRIPTION
 

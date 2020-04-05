@@ -1,5 +1,5 @@
-=begin pod :pubdate('2010-09-03T10:00:48Z') :type<note> :tags<mibf>
-=NAME Сканер книг #mibf
+=begin pod :pubdate('2010-09-03T10:00:48Z') :type<note> :tags<'mibf'>
+=TITLE Сканер книг #mibf
 
 =begin DESCRIPTION
 

@@ -1,5 +1,5 @@
 =begin pod :pubdate('2010-07-30T09:24:11Z') :type<note> 
-=NAME С наступающим SysAdmin day ! Ну вот и появился повод попить пива !
+=TITLE С наступающим SysAdmin day ! Ну вот и появился повод попить пива !
 
 =begin DESCRIPTION
 

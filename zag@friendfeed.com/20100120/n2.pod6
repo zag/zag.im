@@ -1,5 +1,5 @@
 =begin pod :pubdate('2010-01-20T07:51:11Z') :type<note> 
-=NAME Google Wave Versus the Rest, Feature by Feature - Google Wave - Lifehacker
+=TITLE Google Wave Versus the Rest, Feature by Feature - Google Wave - Lifehacker
 
 =begin DESCRIPTION
 

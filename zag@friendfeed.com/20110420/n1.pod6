@@ -1,5 +1,5 @@
 =begin pod :pubdate('2011-04-20T04:42:54Z') :type<note> 
-=NAME RT @ImTracyMorgan: Facebook asks what I’m thinking. Twitter asks what I’m doing. Foursquare asks where I am. The internet has turned into a crazy girlfriend.
+=TITLE RT @ImTracyMorgan: Facebook asks what I’m thinking. Twitter asks what I’m doing. Foursquare asks where I am. The internet has turned into a crazy girlfriend.
 
 =begin DESCRIPTION
 

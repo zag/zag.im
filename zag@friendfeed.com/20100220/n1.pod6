@@ -1,5 +1,5 @@
-=begin pod :pubdate('2010-02-20T12:14:01Z') :type<note> :tags<rakudo freebsd>
-=NAME Now #rakudo in official #freebsd ports tree !
+=begin pod :pubdate('2010-02-20T12:14:01Z') :type<note> :tags<'rakudo', 'freebsd'>
+=TITLE Now #rakudo in official #freebsd ports tree !
 
 =begin DESCRIPTION
 

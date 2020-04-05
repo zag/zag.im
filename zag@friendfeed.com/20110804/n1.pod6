@@ -1,5 +1,5 @@
 =begin pod :pubdate('2011-08-04T19:16:55Z') :type<note> 
-=NAME Pictures & Photos from Два с половиной человека
+=TITLE Pictures & Photos from Два с половиной человека
 
 =begin DESCRIPTION
 

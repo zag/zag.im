@@ -1,5 +1,5 @@
 =begin pod :pubdate('2009-10-08T09:38:41Z') :type<note> 
-=NAME @AnatolyUnix К теме насколько разнятся ценности в других частях планеты: http://vimeo.com/6636389
+=TITLE @AnatolyUnix К теме насколько разнятся ценности в других частях планеты: http://vimeo.com/6636389
 
 =begin DESCRIPTION
 

@@ -1,5 +1,5 @@
 =begin pod :pubdate('2011-02-10T05:42:38Z') :type<note> 
-=NAME The Malcolm Gladwell Book Generator
+=TITLE The Malcolm Gladwell Book Generator
 
 =begin DESCRIPTION
 

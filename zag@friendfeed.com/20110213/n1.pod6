@@ -1,5 +1,5 @@
-=begin pod :pubdate('2011-02-13T07:31:07Z') :type<note> :tags<starwars>
-=NAME #starwars rock
+=begin pod :pubdate('2011-02-13T07:31:07Z') :type<note> :tags<'starwars'>
+=TITLE #starwars rock
 
 =begin DESCRIPTION
 

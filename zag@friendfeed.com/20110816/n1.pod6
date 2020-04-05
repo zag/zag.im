@@ -1,5 +1,5 @@
-=begin pod :pubdate('2011-08-16T10:37:09Z') :type<note> :tags<trending>
-=NAME RT @newsyc20: A writer leaves Microsoft Word http://t.co/8GcBBJd (http://t.co/AuHj4ml) #trending
+=begin pod :pubdate('2011-08-16T10:37:09Z') :type<note> :tags<'trending'>
+=TITLE RT @newsyc20: A writer leaves Microsoft Word http://t.co/8GcBBJd (http://t.co/AuHj4ml) #trending
 
 =begin DESCRIPTION
 

@@ -1,5 +1,5 @@
-=begin pod :pubdate('2012-02-18T15:01:21Z') :type<note> :tags<lvee>
-=NAME RT @antono: А вот и сладый к феерическому докладу про GObject Introspection http://t.co/sXBdpIK8 #lvee
+=begin pod :pubdate('2012-02-18T15:01:21Z') :type<note> :tags<'lvee'>
+=TITLE RT @antono: А вот и сладый к феерическому докладу про GObject Introspection http://t.co/sXBdpIK8 #lvee
 
 =begin DESCRIPTION
 

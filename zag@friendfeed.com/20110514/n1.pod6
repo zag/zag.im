@@ -1,5 +1,5 @@
-=begin pod :pubdate('2011-05-14T19:00:21Z') :type<note> :tags<yapc>
-=NAME Видекамера универсальный переходник для любых видеоинтерфейсов #yapc
+=begin pod :pubdate('2011-05-14T19:00:21Z') :type<note> :tags<'yapc'>
+=TITLE Видекамера универсальный переходник для любых видеоинтерфейсов #yapc
 
 =begin DESCRIPTION
 

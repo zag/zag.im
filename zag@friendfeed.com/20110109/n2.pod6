@@ -1,5 +1,5 @@
-=begin pod :pubdate('2011-01-09T11:06:23Z') :type<note> :tags<stackoverflow kindle>
-=NAME RT @ghewgill: Stack Overflow top programming questions in ebook format for Kindle: http://meta.stackoverflow.com/q/74399/893 #stackoverflow #kindle
+=begin pod :pubdate('2011-01-09T11:06:23Z') :type<note> :tags<'stackoverflow', 'kindle'>
+=TITLE RT @ghewgill: Stack Overflow top programming questions in ebook format for Kindle: http://meta.stackoverflow.com/q/74399/893 #stackoverflow #kindle
 
 =begin DESCRIPTION
 

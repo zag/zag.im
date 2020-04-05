@@ -1,5 +1,5 @@
 =begin pod :pubdate('2011-08-11T10:06:21Z') :type<note> 
-=NAME London Looters Get Photoshopped - My Modern Metropolis
+=TITLE London Looters Get Photoshopped - My Modern Metropolis
 
 =begin DESCRIPTION
 

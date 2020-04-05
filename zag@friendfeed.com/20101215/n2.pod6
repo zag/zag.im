@@ -1,5 +1,5 @@
-=begin pod :pubdate('2010-12-15T08:26:35Z') :type<note> :tags<GetClients>
-=NAME From email :  Dear #GetClients.full_name#
+=begin pod :pubdate('2010-12-15T08:26:35Z') :type<note> :tags<'GetClients'>
+=TITLE From email :  Dear #GetClients.full_name#
 
 =begin DESCRIPTION
 

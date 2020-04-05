@@ -1,5 +1,5 @@
 =begin pod :pubdate('2010-12-08T22:15:02Z') :type<note> 
-=NAME The Star Wars Alphabet | WildAmmo.com
+=TITLE The Star Wars Alphabet | WildAmmo.com
 
 =begin DESCRIPTION
 

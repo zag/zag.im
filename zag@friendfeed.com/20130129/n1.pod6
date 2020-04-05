@@ -1,5 +1,5 @@
 =begin pod :pubdate('2013-01-29T13:40:07Z') :type<note> 
-=NAME BitTorrent Launches Private and Secure Dropbox Alternative | TorrentFreak
+=TITLE BitTorrent Launches Private and Secure Dropbox Alternative | TorrentFreak
 
 =begin DESCRIPTION
 

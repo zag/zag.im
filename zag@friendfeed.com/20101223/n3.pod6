@@ -1,5 +1,5 @@
 =begin pod :pubdate('2010-12-23T10:04:59Z') :type<note> 
-=NAME Пожил пару дней, используя только links. Это другой Web - без JavaScript, без flash. Пока еще в нем выжить можно.
+=TITLE Пожил пару дней, используя только links. Это другой Web - без JavaScript, без flash. Пока еще в нем выжить можно.
 
 =begin DESCRIPTION
 

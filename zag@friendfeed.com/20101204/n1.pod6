@@ -1,5 +1,5 @@
 =begin pod :pubdate('2010-12-04T07:21:42Z') :type<note> 
-=NAME RT @perlbuzz: Quickie overview of cool new Perl 6 file operations http://perl6advent.wordpress.com/2010/12/03/day-3-file-operations/
+=TITLE RT @perlbuzz: Quickie overview of cool new Perl 6 file operations http://perl6advent.wordpress.com/2010/12/03/day-3-file-operations/
 
 =begin DESCRIPTION
 

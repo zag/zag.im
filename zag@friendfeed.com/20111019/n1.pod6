@@ -1,5 +1,5 @@
 =begin pod :pubdate('2011-10-19T11:58:53Z') :type<note> 
-=NAME glamour term
+=TITLE glamour term
 
 =begin DESCRIPTION
 

@@ -1,5 +1,5 @@
 =begin pod :pubdate('2010-07-15T09:30:56Z') :type<note> 
-=NAME Mini stormtrooper
+=TITLE Mini stormtrooper
 
 =begin DESCRIPTION
 

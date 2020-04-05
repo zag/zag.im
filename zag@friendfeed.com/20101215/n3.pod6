@@ -1,5 +1,5 @@
 =begin pod :pubdate('2010-12-15T05:35:17Z') :type<note> 
-=NAME Бесконечность не предел
+=TITLE Бесконечность не предел
 
 =begin DESCRIPTION
 

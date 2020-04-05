@@ -1,5 +1,5 @@
-=begin pod :pubdate('2010-10-18T07:20:15Z') :type<note> :tags<PS3>
-=NAME Netflix on #PS3 ready to download on some consoles, service starts Oct. 18th -- Engadget
+=begin pod :pubdate('2010-10-18T07:20:15Z') :type<note> :tags<'PS3'>
+=TITLE Netflix on #PS3 ready to download on some consoles, service starts Oct. 18th -- Engadget
 
 =begin DESCRIPTION
 

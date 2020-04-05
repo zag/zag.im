@@ -1,5 +1,5 @@
 =begin pod :pubdate('2011-06-20T04:23:43Z') :type<note> 
-=NAME Huge Bitcoin sell off due to a compromised account - rollback : Mt.Gox
+=TITLE Huge Bitcoin sell off due to a compromised account - rollback : Mt.Gox
 
 =begin DESCRIPTION
 

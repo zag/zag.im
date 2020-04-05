@@ -1,5 +1,5 @@
 =begin pod :pubdate('2011-12-15T05:17:04Z') :type<note> 
-=NAME HTTP Status Cats
+=TITLE HTTP Status Cats
 
 =begin DESCRIPTION
 
