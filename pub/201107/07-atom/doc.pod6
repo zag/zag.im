@@ -1,5 +1,5 @@
 =begin pod :pubdate('2011-07-07 10:00:00') :tags<socialminig>
-=NAME Atom 
+=TITLE Atom 
 
 =begin DESCRIPTION
 

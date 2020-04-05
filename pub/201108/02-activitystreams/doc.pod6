@@ -1,5 +1,5 @@
 =begin pod :pubdate('2011-08-02 10:00:00') :tags<socialminig>
-=NAME ActivityStreams - формат представления социальной активности пользователя
+=TITLE ActivityStreams - формат представления социальной активности пользователя
 
 =begin DESCRIPTION
 

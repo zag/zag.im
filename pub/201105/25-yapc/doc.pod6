@@ -1,5 +1,5 @@
 =begin pod :pubdate('2011-05-25 12:00:00') :tags<pod6 perl6 pod perl>
-=NAME По итогам YAPC::Russia
+=TITLE По итогам YAPC::Russia
 
 =begin DESCRIPTION
 

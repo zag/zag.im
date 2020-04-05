@@ -1,5 +1,5 @@
 =begin pod :pubdate('2011-03-23 10:00:00') :tags<mobile android>
-=NAME Обновил свой телетайп
+=TITLE Обновил свой телетайп
 
 =begin DESCRIPTION
 

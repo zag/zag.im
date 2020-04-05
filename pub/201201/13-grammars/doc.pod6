@@ -1,5 +1,5 @@
 =begin pod :pubdate('2012-01-13 11:00:00') :tags<js perl>
-=NAME Грамматики для Perl 5 и JavaScript
+=TITLE Грамматики для Perl 5 и JavaScript
 
 =begin DESCRIPTION
 

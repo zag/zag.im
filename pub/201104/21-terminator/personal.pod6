@@ -1,5 +1,5 @@
 =begin pod :pubdate('2011-04-21 13:00:00') :tags<socialminig mining selfpublish>
-=NAME Судный день для моих персональных данных
+=TITLE Судный день для моих персональных данных
 
 =begin DESCRIPTION
 

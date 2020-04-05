@@ -1,5 +1,5 @@
 =begin pod :pubdate('2010-11-09 10:00:00') :tags<perl publishing>
-=NAME REST интерфейс и публикация с помощью Git
+=TITLE REST интерфейс и публикация с помощью Git
 
 =begin DESCRIPTION
 =for Image :align("left") :preview

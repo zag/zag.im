@@ -1,5 +1,5 @@
 =begin pod :pubdate('2010-11-11 08:00:00') :tags<cpan perl>
-=NAME Perl 5 модули, которые я использую реже и реже
+=TITLE Perl 5 модули, которые я использую реже и реже
 
 =begin DESCRIPTION
 

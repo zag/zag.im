@@ -1,5 +1,5 @@
 =begin pod  :pubdate('2019-12-26 10:00:00') :tags<pod6 raku>
-=NAME Собрал несколько заметок
+=TITLE Собрал несколько заметок
 
 =begin DESCRIPTION
 

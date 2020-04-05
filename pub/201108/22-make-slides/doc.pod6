@@ -1,5 +1,5 @@
 =begin pod :pubdate('2011-08-22 10:00:00') :tags<pod6 perl6 pod perl> :lang<en>
-=NAME Create presentations in Perl 6 Pod
+=TITLE Create presentations in Perl 6 Pod
 =config code :allow<B>
 =begin DESCRIPTION
 

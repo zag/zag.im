@@ -1,5 +1,5 @@
 =begin pod :pubdate('2011-02-14 09:00:00') :tags<socialminig mining perl> 
-=NAME Flow - потоковая обработка данных
+=TITLE Flow - потоковая обработка данных
 
 =begin DESCRIPTION
 

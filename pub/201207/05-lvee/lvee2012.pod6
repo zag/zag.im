@@ -1,5 +1,5 @@
 =begin pod :pubdate('2012-07-05 10:00:00') :tags<lvee writeat pod6>
-=NAME По итогам lvee 2012
+=TITLE По итогам lvee 2012
 
 =begin DESCRIPTION
 

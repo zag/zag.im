@@ -1,5 +1,5 @@
 =begin pod :pubdate('2011-06-15 10:00:00') :tags<pod6 perl6 pod perl>
-=NAME  Perl 6 Pod: Книги в формате Pod
+=TITLE  Perl 6 Pod: Книги в формате Pod
 
 =begin DESCRIPTION
 

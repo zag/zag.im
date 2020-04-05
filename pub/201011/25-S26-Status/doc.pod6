@@ -1,5 +1,5 @@
 =begin pod :pubdate('2010-11-25 13:00:00') :tags<pod6 perl6 pod perl>
-=NAME Статус формата Perl 6 Pod ( Synopsis 26  )
+=TITLE Статус формата Perl 6 Pod ( Synopsis 26  )
 
 =begin DESCRIPTION
 

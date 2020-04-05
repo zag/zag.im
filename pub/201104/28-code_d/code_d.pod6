@@ -1,5 +1,5 @@
 =begin pod :pubdate('2011-04-18 10:00:00') :tags<pod6 perl6 pod perl>
-=NAME Perl 6 Pod: Код форматирования D - определения
+=TITLE Perl 6 Pod: Код форматирования D - определения
 
 =begin DESCRIPTION
 =for Image :align("left") :preview

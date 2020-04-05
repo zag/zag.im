@@ -1,5 +1,5 @@
 =begin pod :pubdate('2012-06-01 13:00:00') :tags<pod6 writeat perl>
-=NAME Доступные книги для читателей и писателей
+=TITLE Доступные книги для читателей и писателей
 
 =begin DESCRIPTION
 

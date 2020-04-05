@@ -1,5 +1,5 @@
 =begin pod :pubdate('2011-12-02 10:00:00') :tags<perl webdao grammars>
-=NAME Синтаксический анализ XML
+=TITLE Синтаксический анализ XML
 
 =begin DESCRIPTION
 

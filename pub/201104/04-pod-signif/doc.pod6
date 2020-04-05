@@ -1,5 +1,5 @@
 =begin pod :pubdate('2011-04-04 10:00:00') :tags<pod6 perl6 pod perl> 
-=NAME Perl 6 Pod: Уровни значимости текста 
+=TITLE Perl 6 Pod: Уровни значимости текста 
 
 =begin DESCRIPTION
 

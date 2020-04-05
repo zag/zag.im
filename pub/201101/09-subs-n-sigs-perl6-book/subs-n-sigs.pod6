@@ -1,5 +1,5 @@
 =begin pod :pubdate('2011-01-09 10:00:00') :tags<perl6 book perl>
-=NAME Все о Perl 6: Подпрограммы и сигнатуры
+=TITLE Все о Perl 6: Подпрограммы и сигнатуры
 
 =begin DESCRIPTION
 

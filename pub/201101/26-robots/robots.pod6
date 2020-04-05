@@ -1,5 +1,5 @@
 =begin pod :pubdate('2011-01-26 09:00:00') :tags<socialminig mining perl>
-=NAME Два робота 
+=TITLE Два робота 
 
 =begin DESCRIPTION
 

@@ -1,5 +1,5 @@
 =begin pod :pubdate('2011-10-27 10:00:00') :tags<perl6 cpan6 perl>
-=NAME Создание модулей для Perl 6
+=TITLE Создание модулей для Perl 6
 
 =begin DESCRIPTION
 

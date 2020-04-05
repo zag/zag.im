@@ -1,5 +1,5 @@
 =begin pod :pubdate('2011-04-28 10:00:00') :tags<socialminig mining selfpublish>
-=NAME Персональные данные - современная Анна Каренина ?
+=TITLE Персональные данные - современная Анна Каренина ?
 
 =begin DESCRIPTION
 

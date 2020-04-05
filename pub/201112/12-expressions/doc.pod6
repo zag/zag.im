@@ -1,6 +1,6 @@
 =begin pod :pubdate('2011-12-12 10:00:00') :tags<grammars perl>
 
-=NAME Реализация приоритетности операторов с помощью грамматик Perl 5
+=TITLE Реализация приоритетности операторов с помощью грамматик Perl 5
 
 =begin DESCRIPTION
 

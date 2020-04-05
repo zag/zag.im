@@ -1,5 +1,5 @@
 =begin pod :pubdate('2011-11-14 12:00:00') :tags<perl6 pod perl perl5 plosurin>
-=NAME Грамматики в Java, Perl 6 и Perl 5 
+=TITLE Грамматики в Java, Perl 6 и Perl 5 
 
 =begin DESCRIPTION
 

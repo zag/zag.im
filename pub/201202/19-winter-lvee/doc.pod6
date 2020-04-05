@@ -1,5 +1,5 @@
 =begin pod :pubdate('2012-02-19 10:00:00') :tags<lvee foss>
-=NAME Зимняя Lvee 2012
+=TITLE Зимняя Lvee 2012
 
 =begin DESCRIPTION
 

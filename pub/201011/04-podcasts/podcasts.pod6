@@ -1,5 +1,5 @@
 =begin pod :pubdate('2010-11-10 08:00:00') :tags('podcast perl')
-=NAME Технологические подкасты/видеокасты
+=TITLE Технологические подкасты/видеокасты
 
 =begin DESCRIPTION
 

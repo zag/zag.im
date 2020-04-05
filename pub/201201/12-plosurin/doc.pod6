@@ -1,5 +1,5 @@
 =begin pod :pubdate('2012-01-12 10:00:00') :tags<plosurin perl>
-=NAME Plosurin: Perl реализация Closure Templates
+=TITLE Plosurin: Perl реализация Closure Templates
 
 =begin DESCRIPTION
 

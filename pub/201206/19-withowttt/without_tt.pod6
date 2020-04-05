@@ -1,5 +1,5 @@
 =begin pod :pubdate('2012-06-19 10:00:00') :tags<webdao perl>
-=NAME Жизнь без шаблонов
+=TITLE Жизнь без шаблонов
 
 =begin DESCRIPTION
 
