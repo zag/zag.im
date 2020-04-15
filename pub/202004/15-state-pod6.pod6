@@ -1,0 +1,29 @@
+=begin pod :pubdate('2020-04-15 15:00:00') :tags<pod6>
+
+=TITLE Статус реализации pod6
+
+=begin DESCRIPTION
+
+Чтобы иметь представление о текущем статусе реализации,
+я отметил 
+в L<спецификации на pod6| https://github.com/zag/js-pod6/blob/master/doc/S26-documentation.pod6>
+реализованные части.
+
+=end DESCRIPTION
+
+Чтобы иметь представление о текущем статусе реализации,
+я отметил 
+в L<спецификации на pod6| https://github.com/zag/js-pod6/blob/master/doc/S26-documentation.pod6>
+реализованные части.
+Для этого использовал раздел C<SUMMARY>.
+
+=Image status_of_js-pod6.png
+
+
+Как видно еще довольно большая часть не реализована.
+Хотя то что сделано позволяет вести этот блог и переключиться со старой
+реализации ( которая была еще на Perl ) на новую.
+
+=end pod
+
+
