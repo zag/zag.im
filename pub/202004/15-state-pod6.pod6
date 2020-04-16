@@ -6,14 +6,14 @@
 
 Чтобы иметь представление о текущем статусе реализации,
 я отметил 
-в L<спецификации на pod6| https://github.com/zag/js-pod6/blob/master/doc/S26-documentation.pod6>
+в L<спецификации на pod6| https://github.com/zag/js-pod6/blob/master/doc/S26-documentation.pod6> 
 реализованные части.
 
 =end DESCRIPTION
 
 Чтобы иметь представление о текущем статусе реализации,
 я отметил 
-в L<спецификации на pod6| https://github.com/zag/js-pod6/blob/master/doc/S26-documentation.pod6>
+в L<спецификации на pod6| https://github.com/zag/js-pod6/blob/master/doc/S26-documentation.pod6> 
 реализованные части.
 Для этого использовал раздел C<SUMMARY>.
 
