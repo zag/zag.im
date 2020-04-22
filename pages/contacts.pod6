@@ -15,10 +15,10 @@
 =item внедрение решений на базе открытых технологий.
 
 =head2 Контакты
-=begin defn
-email
+
+=defn email
  🖊 B<me>I<(at)>B<zag.ru>
-=end defn
+
 =defn skype
  📞 L<zaggaz|skype:zaggaz?add>
 
