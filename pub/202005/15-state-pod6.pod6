@@ -1,0 +1,36 @@
+=begin pod :pubdate('2020-04-15 15:00:00') :tags<pod6>
+
+=TITLE Статус реализации pod6 за месяц
+
+=begin DESCRIPTION
+
+Чтобы иметь представление о текущем статусе реализации,
+я отметил 
+в L<спецификации на pod6| https://github.com/zag/js-pod6/blob/master/doc/S26-documentation.pod6> 
+реализованные части.
+
+=end DESCRIPTION
+
+Чтобы иметь представление о текущем статусе реализации,
+я отметил 
+в L<спецификации на pod6| https://github.com/zag/js-pod6/blob/master/doc/S26-documentation.pod6> 
+реализованные части.
+Для этого использовал раздел C<SUMMARY>.
+
+=Image status_of_js-pod6.png
+
+
+По сравнению с L<предидущим статусом|https://zag.ru/2020/4/15/1/status-realizaczii-pod6> прогресс следующий:
+
+=item реализован вывод терминала: C<T<>>
+=item код ввода с клавиатуры : C<K<>>
+=item код для отметки особого текста ( подчеркивание ): C<U<>>
+=item блочные аналоги клавиатурному вводу и выводу терминала  =input, =output
+=item реализована пара кода и блока: C<A<>>, =alias
+
+Подробнее почитать про pod6 можно на странице официальной L<документации
+raku|https://docs.raku.org/language/pod> или в L<Synopsis 26|https://github.com/Raku/old-design-docs/blob/master/S26-documentation.pod>.
+
+А попробовать этот язык разметки можно в L<online редакторе pod6|https://pod6.in/>.
+
+=end pod
