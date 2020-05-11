@@ -1,4 +1,4 @@
-=begin pod :pubdate('2020-04-15 15:00:00') :tags<pod6>
+=begin pod :pubdate('2020-05-11 15:00:00') :tags<pod6>
 
 =TITLE Статус реализации pod6 за месяц
 
