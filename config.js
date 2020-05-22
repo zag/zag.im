@@ -11,6 +11,10 @@ module.exports = {
   googleAnalyticsId: 'UA-2388080-1',
   menu: [
     {
+      label: 'Спецификации, RFC',
+      path: '/rfc'
+    },
+    {
       label: 'Подробнее',
       path: '/pages/about'
     },
