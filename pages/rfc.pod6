@@ -1,4 +1,4 @@
-=begin pod  :pubdate('2020-05-20 10:00:00') :tags<rfc synopsis> :type('page') :publishUrl('/rfc')
+=begin pod  :pubdate('2020-05-20 10:00:00') :tags<rfc synopsis> :type('page') :publishUrl('/pages/rfc')
 =TITLE 📒 Спецификации, RFC
 
 =DESCRIPTION
@@ -10,6 +10,8 @@
 L<github.com/zag/zag.ru|https://github.com/zag/zag.ru> для правок.
 
 =head2 📝 В работе
+=item L<Формат документов "Спецификация"|/rfc/rfc>
+=item L<Персональная система знаний|/rfc/knowledge>
 =head2 🗄 Архив
 
 =end pod
