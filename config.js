@@ -12,7 +12,7 @@ module.exports = {
   menu: [
     {
       label: 'Спецификации, RFC',
-      path: '/rfc'
+      path: '/pages/rfc'
     },
     {
       label: 'Подробнее',
