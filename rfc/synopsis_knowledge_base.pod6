@@ -1,9 +1,9 @@
 =begin pod :pubdate('2020-06-04 10:00:00') :type('page') :publishUrl('/rfc/knowledge') :tags<knowledge>
-=NAME Делаю свою базу знания
+=NAME Делаю свою базу знаний
 
 =begin DESCRIPTION
 
-Делаю свою базу знания
+Делаю свою базу знаний
 
 =end DESCRIPTION
 
