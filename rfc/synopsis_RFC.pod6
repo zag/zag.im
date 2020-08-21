@@ -1,4 +1,4 @@
-=begin pod :pubdate_NONE('2020-06-03 10:00:00') :type('page') :tags<rfc> :publishUrl('/rfc/rfc')
+=begin pod :pubdate('2020-06-03 10:00:00') :type('page') :tags<rfc> :publishUrl('/rfc/rfc')
 =TITLE Тип документов "Спецификация" / RFC
 
 =CHANGES
