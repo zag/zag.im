@@ -31,9 +31,15 @@
 
 =head2 🖥 Проекты
 
-=head3 L<js-pod6|https://github.com/zag/js-pod6>
 
-Реализация языка разметки pod6 на JavaScipt. Статьи на сайте написаны в этом формате.
+=head3 Реализация языка разметки pod6
+=Image https://github.com/zag/podlite-desktop/raw/master/doc/podlite-desktop.png
+
+=item L<Podlite - open source pod6 редактор для Linux, Mac и Windows|https://github.com/zag/podlite-desktop/>
+=item L<Pod6.in - online редактор pod6|https://pod6.in>
+=begin item
+L<js-pod6|https://github.com/zag/js-pod6> - реализация языка разметки pod6 на JavaScipt. Статьи на этом сайте L<написаны в формате pod6|https://zag.ru/2020/3/25/1/isxodniki-etogo-bloga>
+=end item
 
 =head3 L<Персональная база знаний|https://zag.ru/2020/4/9/1/plany-po-razvitiyu-personal-noj-sistemy-znanij>
 
