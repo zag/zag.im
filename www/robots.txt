@@ -1,1 +1,3 @@
-sitemap: https://zag.ru/sitemap.xml
+User-Agent: *
+Disallow: /TEMPLATE
+Sitemap: https://zag.im/sitemap.xml
