@@ -44,7 +44,7 @@ C<K<>> является строковым эквивалентом блока C
 предварительное конфигурирование:
 
     =begin para
-    B<=config C<> :allow<E I>>
+    B<=config C<C<>> :allow<E I>>
     Perl 6 makes extensive use of the C<B<E<laquo>>> and C<B<E<raquo>>>
     characters, for example, in a hash look-up:
     C<%hashB<I<E<laquo>>>keyB<I<E<raquo>>>>
